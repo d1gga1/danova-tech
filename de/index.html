@@ -1488,18 +1488,18 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
         <div>
           <form id="form" novalidate="">
-            <div class="fld"><input type="text" id="nome" placeholder=" " required=""><label for="nome" data-i18n="cta.f.nome">Vor- und Nachname</label></div>
-            <div class="fld"><input type="email" id="email" placeholder=" " required=""><label for="email" data-i18n="cta.f.email">E-Mail</label></div>
-            <div class="fld"><input type="text" id="azienda" placeholder=" "><label for="azienda" data-i18n="cta.f.azienda">Firma / Betrieb</label></div>
+            <div class="fld"><input type="text" id="nome" placeholder=" " required=""><label for="nome" data-i18n="cta.f.nome">Nome e cognome</label></div>
+            <div class="fld"><input type="tel" id="tel" placeholder=" " required=""><label for="tel" data-i18n="cta.f.tel">Telefono</label></div>
+            <div class="fld"><input type="text" id="azienda" placeholder=" " required=""><label for="azienda" data-i18n="cta.f.azienda">Azienda / attività</label></div>
             <div class="fld">
-              <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Website / Onlineshop</option><option>SEO und Sichtbarkeit</option><option>Meta Ads und Kampagnen</option><option>Individuelle App</option><option>Warenwirtschaft / CRM</option><option>Software oder Automatisierung</option><option>Noch unklar, sprechen wir</option></select>
-              <label for="tipo" data-i18n="cta.f.tipo">Was brauchen Sie</label>
+              <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Sito web / e-commerce</option><option>SEO e posizionamento</option><option>Meta Ads e campagne</option><option>App su misura</option><option>Gestionale / CRM</option><option>Software o automazione</option><option>Non lo so ancora, parliamone</option></select>
+              <label for="tipo" data-i18n="cta.f.tipo">Di cosa hai bisogno</label>
             </div>
-            <div class="fld"><textarea id="msg" placeholder=" " required=""></textarea><label for="msg" data-i18n="cta.f.msg">Erzählen Sie vom Projekt</label></div>
-            <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Anfrage senden</span>
+            <div class="fld"><input type="email" id="email" placeholder=" "><label for="email" data-i18n="cta.f.email">Email (facoltativa)</label></div>
+            <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Invia su WhatsApp</span>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button>
-            <div class="ok" id="ok" data-i18n="cta.f.ok">Danke! Ihre Anfrage ist fertig: Ihr E-Mail-Programm öffnet sich zum Versenden. Wir antworten innerhalb von 24 Stunden.</div>
-            <p class="form-note" data-i18n="cta.f.note">Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.</p>
+            <div class="ok" id="ok" data-i18n="cta.f.ok">Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.</div>
+            <p class="form-note" data-i18n="cta.f.note">Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.</p>
           </form>
         </div>
       </div>
@@ -1659,8 +1659,8 @@ it:{
     lead:'Prima call gratuita e senza impegno. Ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".',
     list:['Risposta entro 24 ore lavorative','Preventivo chiaro e a prezzo fisso','Nessun vincolo di permanenza'],
     wa:'Scrivici su WhatsApp',
-    f:{nome:'Nome e cognome',email:'Email',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',msg:'Raccontaci il progetto',send:'Invia la richiesta',
-       ok:'Grazie! La richiesta è pronta: si aprirà il tuo programma di posta per inviarla. Ti rispondiamo entro 24 ore.',
+    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia su WhatsApp',
+       ok:'Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.',
        note:'Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.',
        opts:['Sito web / e-commerce','SEO e posizionamento','Meta Ads e campagne','App su misura','Gestionale / CRM','Software o automazione','Non lo so ancora, parliamone'],
        subj:'Nuova richiesta dal sito'}
@@ -1881,8 +1881,8 @@ en:{
     lead:'First call is free and with no obligation. We\'ll tell you honestly whether we can help, what it costs and how long it takes. Even if the answer is "no".',
     list:['Reply within 24 business hours','Clear, fixed-price quote','No lock-in contracts'],
     wa:'Message us on WhatsApp',
-    f:{nome:'Full name',email:'Email',azienda:'Company / business',tipo:'What do you need',msg:'Tell us about the project',send:'Send request',
-       ok:'Thank you! Your request is ready: your email client will open to send it. We reply within 24 hours.',
+    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Send on WhatsApp',
+       ok:'All set! WhatsApp opens with your request ready to go — just hit send.',
        note:'By submitting you agree to be contacted. We never share your data with anyone.',
        opts:['Website / e-commerce','SEO and search visibility','Meta Ads and campaigns','Custom app','ERP / CRM system','Software or automation','Not sure yet, let\'s talk'],
        subj:'New enquiry from the website'}
@@ -2103,8 +2103,8 @@ de:{
     lead:'Erstgespräch kostenlos und unverbindlich. Wir sagen ehrlich, ob wir helfen können, was es kostet und wie lange es dauert. Auch wenn die Antwort „nein" ist.',
     list:['Antwort innerhalb von 24 Werkstunden','Klares Angebot zum Festpreis','Keine Mindestlaufzeit'],
     wa:'Schreiben Sie uns auf WhatsApp',
-    f:{nome:'Vor- und Nachname',email:'E-Mail',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',msg:'Erzählen Sie vom Projekt',send:'Anfrage senden',
-       ok:'Danke! Ihre Anfrage ist fertig: Ihr E-Mail-Programm öffnet sich zum Versenden. Wir antworten innerhalb von 24 Stunden.',
+    f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Per WhatsApp senden',
+       ok:'Fertig! WhatsApp öffnet sich mit Ihrer vorbereiteten Anfrage — einfach absenden.',
        note:'Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.',
        opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung','Noch unklar, sprechen wir'],
        subj:'Neue Anfrage über die Website'}
@@ -2240,7 +2240,8 @@ const clamp=(v,a,b)=>Math.min(b,Math.max(a,v));
 const dig=(o,p)=>p.split('.').reduce((a,k)=>a==null?a:a[k],o);
 
 /* ---- CONFIG RAPIDA ---------------------------------------------------- */
-const DEST='info@danova-tech.com';           // <<< email destinataria del form
+const DEST='info@danova-tech.com';
+const WA='393884706887';                       // <<< numero WhatsApp destinatario del form           // <<< email destinataria del form
 const NUMS_HERO=[120,98,14,24];            // numeri hero
 const NUMS_HERO_SUF=['+','%','',''];       // suffissi hero (il 3° prende " gg"/" days" dalla lingua)
 const NUMS_BIG=[120,9,3,98];               // numeri sezione statistiche
@@ -2806,19 +2807,35 @@ function bindFaq(){
    ========================================================= */
 $('#form').addEventListener('submit',e=>{
   e.preventDefault();
-  const g=id=>($('#'+id).value||'').trim();
-  if(!g('nome')||!g('email')||!g('msg')){
-    ['nome','email','msg'].forEach(id=>{
+  const g=id=>(($('#'+id)||{}).value||'').trim();
+  const REQ=['nome','tel','azienda','tipo'];
+  const missing=REQ.filter(id=>!g(id));
+  if(missing.length){
+    missing.forEach(id=>{
       const el=$('#'+id);
-      if(!el.value.trim()){ el.style.borderColor='#ff5a6e';
-        el.animate([{transform:'translateX(0)'},{transform:'translateX(-7px)'},{transform:'translateX(7px)'},{transform:'translateX(0)'}],{duration:300});
-        setTimeout(()=>el.style.borderColor='',1600); }
+      if(!el) return;
+      el.style.borderColor='#ff5a6e';
+      el.animate([{transform:'translateX(0)'},{transform:'translateX(-7px)'},{transform:'translateX(7px)'},{transform:'translateX(0)'}],{duration:300});
+      setTimeout(()=>el.style.borderColor='',1600);
     });
+    const first=$('#'+missing[0]);
+    if(first&&first.focus) first.focus();
     return;
   }
-  const body=`Nome: ${g('nome')}%0D%0AEmail: ${g('email')}%0D%0A${T().cta.f.azienda}: ${g('azienda')}%0D%0A${T().cta.f.tipo}: ${g('tipo')}%0D%0A%0D%0A${encodeURIComponent(g('msg'))}`;
+  const f=T().cta.f;
+  const lines=[
+    f.subj,
+    '',
+    f.nome+': '+g('nome'),
+    f.tel+': '+g('tel'),
+    f.azienda+': '+g('azienda'),
+    f.tipo+': '+g('tipo')
+  ];
+  if(g('email')) lines.push('Email: '+g('email'));
+  const url='https://wa.me/'+WA+'?text='+encodeURIComponent(lines.join('\n'));
   $('#ok').classList.add('on');
-  setTimeout(()=>{ location.href=`mailto:${DEST}?subject=${encodeURIComponent(T().cta.f.subj+' — '+g('nome'))}&body=${body}`; },500);
+  const w=window.open(url,'_blank','noopener');
+  if(!w) location.href=url;
 });
 
 /* =========================================================
