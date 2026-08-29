@@ -4,4 +4,4 @@ Allow: /
 
 # Nessuna area riservata da escludere.
 
-Sitemap: https://www.danovatech.it/sitemap.xml
+Sitemap: https://danova-tech.com/sitemap.xml
