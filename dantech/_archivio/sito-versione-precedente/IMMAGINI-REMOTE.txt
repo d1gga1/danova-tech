@@ -1,0 +1,15 @@
+ORIGINE DELLE IMMAGINI (solo per riferimento)
+Le immagini sono gia' state scaricate in assets/img/ (dt-01.png ... dt-11.png)
+e l'HTML punta ai file locali. Qui sotto gli URL originali del CDN, in ordine:
+
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_0906cf24-ae1c-4775-9a4e-6396e79d4c3c.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_316677a8-fc3b-4b28-b711-90736efded62.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_40083fb4-a929-40cf-9cec-a782d4b86649.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_630a3f6b-4e20-4f30-8dfb-808b2243758a.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_818434e3-6331-483b-aa3e-2ea911acfb84.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_b8d30a2c-5590-44e7-806f-594924ca832e.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115521_c932e51e-9e7c-41ca-b52b-9da11ccca965.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115629_4751b4ab-f2da-49fa-8219-f0ac3f42785b.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115629_7e5c689a-d34e-4170-b68d-2e9604a8ca6c.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115629_ccb8d7ba-f8e5-4fb6-bd5e-e0fb817828e9.png
+https://d8j0ntlcm91z4.cloudfront.net/user_3FTrdgKEniBuTbOXzflvLrpH6cz/hf_20260829_115840_a74f7bb6-45a1-4d24-895d-721db293194c.png
