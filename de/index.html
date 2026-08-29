@@ -55,11 +55,9 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 <link rel="apple-touch-icon" href="../assets/img/logo.png">
 <link rel="manifest" href="../site.webmanifest">
 <link rel="preload" as="image" href="../assets/img/dt-06.webp" fetchpriority="high">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" media="print" onload="this.media='all';this.onload=null">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap"></noscript>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
 <style>
 /* ============================================================
    DANOVA TECH — single file site
@@ -828,16 +826,36 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    "telephone": "+39 388 470 6887",
    "areaServed": [
     {
+     "@type": "City",
+     "name": "Treviso"
+    },
+    {
+     "@type": "City",
+     "name": "Oderzo"
+    },
+    {
+     "@type": "City",
+     "name": "Pordenone"
+    },
+    {
+     "@type": "City",
+     "name": "Venezia"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Veneto"
+    },
+    {
+     "@type": "AdministrativeArea",
+     "name": "Friuli-Venezia Giulia"
+    },
+    {
      "@type": "Country",
      "name": "Italia"
     },
     {
      "@type": "Place",
      "name": "Europa"
-    },
-    {
-     "@type": "Place",
-     "name": "Worldwide"
     }
    ],
    "knowsAbout": [
@@ -1225,7 +1243,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   <canvas id="net"></canvas>
   <div class="gridfloor"><i></i></div>
   <div class="wrap hero-in">
-    <h1 class="hero-t" data-split=""><span class="ln" id="hl1">Wir bauen</span><span class="ln" id="hl2">Technologie, die</span><span class="ln"><span class="rot" id="rot"><i class="spacer">konvertiert.</i></span></span></h1>
+    <h1 class="hero-t" data-split=""><span class="ln" id="hl1">Wir bauen</span> <span class="ln" id="hl2">Technologie, die</span> <span class="ln"><span class="rot" id="rot"><i class="spacer">konvertiert.</i></span></span></h1>
     <p class="hero-sub" id="heroSub">Websites, SEO, Meta-Ads-Kampagnen, Anwendungen, Warenwirtschaft und maßgeschneiderte Software. Von der ersten Codezeile bis zum ersten Verkauf: <b>ein Partner für Ihre gesamte Technologie.</b></p>
     <div class="hero-cta">
       <a href="#contatti" class="btn btn-p" data-mag=""><span class="sheen"></span><span class="lbl" id="hcta1">Angebot anfordern</span>
@@ -1783,10 +1801,12 @@ it:{
          `<p>I cookie sono piccoli file di testo che i siti salvano sul dispositivo di chi naviga per memorizzare informazioni: preferenze, sessioni di accesso o, nel caso dei cookie di profilazione, comportamenti di navigazione utili a fini pubblicitari. Tecnologie simili sono i pixel di tracciamento, il local storage e i fingerprint del browser.</p>`],
         ['I cookie usati da questo sito',
          `<p>Questo sito <b>non installa cookie di profilazione, di analisi o di marketing</b> e non utilizza strumenti di tracciamento del comportamento degli utenti. Non sono presenti Google Analytics, Meta Pixel o tecnologie equivalenti.</p>
+          <p>Per contare le visite il sito utilizza <b>Cloudflare Web Analytics</b>, uno strumento di statistica aggregata che non installa cookie, non salva dati sul tuo dispositivo e non costruisce profili: i dettagli sono nella sezione sui servizi di terze parti.</p>
           <p>Il sito non salva nemmeno cookie tecnici propri sul tuo dispositivo: la lingua che selezioni resta attiva solo per la durata della visita e non viene memorizzata. Per questo motivo non è previsto alcun banner di consenso preventivo.</p>`],
         ['Servizi di terze parti',
-         `<p>I caratteri tipografici del sito (Sora, Inter, JetBrains Mono) sono richiesti ai server <b>fonts.googleapis.com</b> e <b>fonts.gstatic.com</b> di Google. La richiesta non installa cookie, ma comporta la comunicazione a Google del tuo indirizzo IP e delle informazioni di base del browser, tecnicamente necessarie per consegnare il file. Informativa di Google: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>.</p>
-          <p>Se il caricamento dei caratteri non va a buon fine, il sito utilizza i caratteri di sistema e nessun dato viene trasmesso a terzi.</p>`],
+         `<p>I caratteri tipografici del sito (Sora, Inter, JetBrains Mono) sono <b>ospitati direttamente su questo dominio</b>. Il browser non contatta alcun server esterno per scaricarli: nessun dato, nemmeno il tuo indirizzo IP, viene comunicato a Google o ad altri terzi.</p>
+          <p>Se il caricamento dei caratteri non va a buon fine, il sito utilizza i caratteri di sistema.</p>
+          <p>Per le statistiche di visita il sito utilizza <b>Cloudflare Web Analytics</b> (Cloudflare, Inc.). Lo script non installa cookie e non salva nulla sul tuo dispositivo: raccoglie in forma aggregata la pagina visitata, la provenienza del traffico, il tipo di dispositivo e il Paese. Come per qualsiasi richiesta a un server esterno, il tuo indirizzo IP viene comunicato a Cloudflare per consegnare la risposta; Cloudflare dichiara di non utilizzarlo per identificare i visitatori e non lo rende disponibile al gestore del sito. Informativa: <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">cloudflare.com/privacypolicy</a>. Se blocchi lo script con un'estensione del browser, il sito continua a funzionare in modo identico.</p>`],
         ['Link e contenuti esterni',
          `<p>Il sito contiene collegamenti a piattaforme di terze parti (ad esempio Instagram e LinkedIn). Cliccando su questi link accedi a siti che applicano proprie policy sui cookie, sulle quali non abbiamo controllo: ti invitiamo a consultarle.</p>`],
         ['Come gestire i cookie dal browser',
@@ -2005,10 +2025,12 @@ en:{
          `<p>Cookies are small text files that websites store on a visitor's device to hold information: preferences, login sessions or, in the case of profiling cookies, browsing behaviour used for advertising. Similar technologies include tracking pixels, local storage and browser fingerprinting.</p>`],
         ['Cookies used by this site',
          `<p>This website <b>installs no profiling, analytics or marketing cookies</b> and uses no tools that track visitor behaviour. There is no Google Analytics, Meta Pixel or equivalent technology.</p>
+          <p>Visits are counted with <b>Cloudflare Web Analytics</b>, an aggregate statistics tool that sets no cookies, stores nothing on your device and builds no profiles: details are in the third-party services section.</p>
           <p>The site does not even store technical cookies of its own on your device: the language you select stays active for the duration of your visit only and is not saved. For this reason no prior consent banner is required.</p>`],
         ['Third-party services',
-         `<p>The typefaces used on the site (Sora, Inter, JetBrains Mono) are requested from Google's <b>fonts.googleapis.com</b> and <b>fonts.gstatic.com</b> servers. The request installs no cookies, but it does communicate your IP address and basic browser information to Google, which is technically necessary to deliver the file. Google's notice: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>.</p>
-          <p>If the fonts fail to load, the site falls back to system typefaces and no data is transmitted to third parties.</p>`],
+         `<p>The typefaces used on the site (Sora, Inter, JetBrains Mono) are <b>hosted on this domain</b>. Your browser contacts no external server to download them: no data, not even your IP address, is shared with Google or any other third party.</p>
+          <p>If the fonts fail to load, the site falls back to system typefaces.</p>
+          <p>Visit statistics are collected with <b>Cloudflare Web Analytics</b> (Cloudflare, Inc.). The script sets no cookies and stores nothing on your device: it records, in aggregate form, the page visited, the traffic source, the device type and the country. As with any request to an external server, your IP address is communicated to Cloudflare in order to deliver the response; Cloudflare states that it does not use it to identify visitors and does not make it available to the site owner. Privacy notice: <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">cloudflare.com/privacypolicy</a>. If you block the script with a browser extension, the site keeps working exactly the same.</p>`],
         ['External links and content',
          `<p>The site contains links to third-party platforms (for example Instagram and LinkedIn). Following those links takes you to sites governed by their own cookie policies, over which we have no control; we encourage you to read them.</p>`],
         ['Managing cookies in your browser',
@@ -2227,10 +2249,12 @@ de:{
          `<p>Cookies sind kleine Textdateien, die Websites auf dem Gerät der Besucher speichern, um Informationen abzulegen: Einstellungen, Anmeldesitzungen oder – im Fall von Profiling-Cookies – das Surfverhalten zu Werbezwecken. Vergleichbare Technologien sind Tracking-Pixel, Local Storage und Browser-Fingerprinting.</p>`],
         ['Von dieser Website verwendete Cookies',
          `<p>Diese Website setzt <b>keine Profiling-, Analyse- oder Marketing-Cookies</b> ein und verwendet keine Werkzeuge zur Verhaltensverfolgung. Google Analytics, Meta Pixel oder vergleichbare Technologien sind nicht eingebunden.</p>
+          <p>Zur Besuchszählung wird <b>Cloudflare Web Analytics</b> eingesetzt, ein Werkzeug für aggregierte Statistiken, das keine Cookies setzt, nichts auf Ihrem Gerät speichert und keine Profile bildet: Einzelheiten finden Sie im Abschnitt zu Diensten Dritter.</p>
           <p>Die Website speichert auch keine eigenen technischen Cookies auf Ihrem Gerät: Die gewählte Sprache bleibt nur für die Dauer des Besuchs aktiv und wird nicht gespeichert. Ein vorheriges Einwilligungsbanner ist daher nicht erforderlich.</p>`],
         ['Dienste Dritter',
-         `<p>Die Schriftarten der Website (Sora, Inter, JetBrains Mono) werden von den Google-Servern <b>fonts.googleapis.com</b> und <b>fonts.gstatic.com</b> abgerufen. Dabei werden keine Cookies gesetzt, wohl aber Ihre IP-Adresse und grundlegende Browserinformationen an Google übermittelt, was für die Auslieferung der Datei technisch notwendig ist. Hinweise von Google: <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">policies.google.com/privacy</a>.</p>
-          <p>Schlägt das Laden der Schriften fehl, verwendet die Website Systemschriften; es werden dann keine Daten an Dritte übermittelt.</p>`],
+         `<p>Die Schriftarten der Website (Sora, Inter, JetBrains Mono) werden <b>direkt von dieser Domain ausgeliefert</b>. Ihr Browser kontaktiert dafür keine externen Server: es werden keine Daten, auch nicht Ihre IP-Adresse, an Google oder andere Dritte übermittelt.</p>
+          <p>Schlägt das Laden der Schriften fehl, verwendet die Website Systemschriften.</p>
+          <p>Für die Besuchsstatistik wird <b>Cloudflare Web Analytics</b> (Cloudflare, Inc.) eingesetzt. Das Skript setzt keine Cookies und speichert nichts auf Ihrem Gerät: Erfasst werden in aggregierter Form die aufgerufene Seite, die Herkunft des Zugriffs, der Gerätetyp und das Land. Wie bei jeder Anfrage an einen externen Server wird Ihre IP-Adresse an Cloudflare übermittelt, um die Antwort auszuliefern; Cloudflare erklärt, sie nicht zur Identifizierung von Besuchern zu verwenden und dem Websitebetreiber nicht zugänglich zu machen. Datenschutzhinweise: <a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">cloudflare.com/privacypolicy</a>. Wenn Sie das Skript mit einer Browsererweiterung blockieren, funktioniert die Website unverändert.</p>`],
         ['Externe Links und Inhalte',
          `<p>Die Website enthält Links zu Plattformen Dritter (etwa Instagram und LinkedIn). Über diese Links gelangen Sie zu Websites mit eigenen Cookie-Richtlinien, auf die wir keinen Einfluss haben; wir empfehlen, diese zu lesen.</p>`],
         ['Cookies im Browser verwalten',
@@ -3067,4 +3091,7 @@ onScroll(); procScroll();
 </script>
 
 
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
 </body></html>
