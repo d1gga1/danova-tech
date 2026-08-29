@@ -38,10 +38,13 @@
 <meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
 <link rel="icon" type="image/png" href="assets/img/logo.png">
 <link rel="apple-touch-icon" href="assets/img/logo.png">
+<link rel="manifest" href="site.webmanifest">
 <link rel="preload" as="image" href="assets/img/dt-06.webp" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&amp;family=Inter:wght@300;400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" media="print" onload="this.media='all';this.onload=null">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap"></noscript>
 <style>
 /* ============================================================
    DANOVA TECH — single file site
@@ -150,6 +153,8 @@ h2.title{font-size:clamp(2.1rem,5.4vw,4rem)}
 .cur-r.big{width:76px;height:76px;border-color:rgba(120,170,255,.9);background:rgba(30,107,255,.14)}
 .cur-r.hide{opacity:0}
 @media (max-width:1024px){.cur,.cur-r{display:none}}
+/* su mobile la grana resta ma smette di ridisegnarsi 60 volte al secondo */
+@media (max-width:768px){.grain{animation:none}.aurora{filter:blur(48px)}}
 
 /* ---------- PRELOADER 3D ---------- */
 #pre{position:fixed;inset:0;z-index:10001;background:#000;display:grid;place-items:center;overflow:hidden;
@@ -814,8 +819,30 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     {
      "@type": "Place",
      "name": "Europa"
+    },
+    {
+     "@type": "Place",
+     "name": "Worldwide"
     }
    ],
+   "knowsAbout": [
+    "Sviluppo siti web",
+    "E-commerce",
+    "SEO",
+    "Meta Ads",
+    "Google Ads",
+    "Sviluppo app mobile",
+    "Progressive Web App",
+    "Software gestionale",
+    "CRM",
+    "Automazione dei processi aziendali",
+    "Integrazione di intelligenza artificiale",
+    "Core Web Vitals",
+    "Accessibilita web"
+   ],
+   "mainEntityOfPage": {
+    "@id": "https://danova-tech.com/#webpage"
+   },
    "knowsLanguage": [
     "it",
     "en",
@@ -999,6 +1026,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    "about": {
     "@id": "https://danova-tech.com/#organization"
    },
+   "dateModified": "2026-08-29",
    "primaryImageOfPage": {
     "@type": "ImageObject",
     "url": "https://danova-tech.com/assets/img/og-cover.jpg",
@@ -2334,15 +2362,20 @@ addEventListener('load',()=>{PRE_LOADED=true;});
 requestAnimationFrame(()=>pre.classList.add('go'));
 
 const PRE_T0=performance.now();
+/* Durata dell'intro. Tenerla bassa e' decisivo per il punteggio Core Web Vitals
+   di Google (LCP): la pagina non e' "vista" finche' il velo non sparisce.
+   PRE_MIN = quanto dura l'animazione, PRE_MAX = attesa massima se le immagini
+   sono lente. Alzarli peggiora il punteggio, abbassarli lo migliora. */
+const PRE_MIN = RM ? 350 : 1100, PRE_MAX = 1900;
 setTimeout(function waitPre(){
-  if(!PRE_LOADED && performance.now()-PRE_T0 < 5200){ setTimeout(waitPre,120); return; }
+  if(!PRE_LOADED && performance.now()-PRE_T0 < PRE_MAX){ setTimeout(waitPre,80); return; }
   finishPre();
-}, RM ? 500 : 3150);
+}, PRE_MIN);
 
 function finishPre(){
   if(pre.classList.contains('out')) return;
   pre.classList.add('out');
-  setTimeout(()=>{pre.classList.add('done');document.body.style.overflow='';startHero();},520);
+  setTimeout(()=>{pre.classList.add('done');document.body.style.overflow='';startHero();},380);
 }
 
 /* =========================================================

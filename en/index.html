@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html lang="it" dir="ltr" class="no-js"><head>
+<html lang="en" dir="ltr" class="no-js"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script>document.documentElement.classList.remove("no-js")</script>
-<title>Siti web, SEO, Meta Ads e software su misura | Danova Tech</title>
-<meta name="description" content="Agenzia tech italiana: siti web ed e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura. Preventivo gratuito, risposta in 24 ore.">
-<link rel="canonical" href="https://danova-tech.com/">
+<title>Websites, SEO, Meta Ads and custom software | Danova Tech</title>
+<meta name="description" content="Italian tech agency building websites and e-commerce, SEO and Meta Ads campaigns, apps, ERP systems and custom software. Free quote, reply within 24h.">
+<link rel="canonical" href="https://danova-tech.com/en/">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <meta name="author" content="Danova Tech">
 <meta name="theme-color" content="#04060c">
@@ -20,28 +20,31 @@
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Danova Tech">
-<meta property="og:url" content="https://danova-tech.com/">
-<meta property="og:locale" content="it_IT">
-<meta property="og:locale:alternate" content="en_US">
+<meta property="og:url" content="https://danova-tech.com/en/">
+<meta property="og:locale" content="en_US">
+<meta property="og:locale:alternate" content="it_IT">
 <meta property="og:locale:alternate" content="de_DE">
-<meta property="og:title" content="Danova Tech — Tecnologia su misura che fa crescere la tua attività">
-<meta property="og:description" content="Siti web, e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura. Un unico partner per tutta la tua tecnologia.">
+<meta property="og:title" content="Danova Tech — Custom technology that grows your business">
+<meta property="og:description" content="Websites, e-commerce, SEO, Meta Ads campaigns, apps, ERP systems and custom software. One partner for all your technology.">
 <meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Danova Tech — siti web, SEO, Meta Ads e software su misura">
+<meta property="og:image:alt" content="Danova Tech — websites, SEO, Meta Ads and custom software">
 
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Danova Tech — Tecnologia su misura che fa crescere la tua attività">
-<meta name="twitter:description" content="Siti web, e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura. Un unico partner per tutta la tua tecnologia.">
+<meta name="twitter:title" content="Danova Tech — Custom technology that grows your business">
+<meta name="twitter:description" content="Websites, e-commerce, SEO, Meta Ads campaigns, apps, ERP systems and custom software. One partner for all your technology.">
 <meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
-<link rel="icon" type="image/png" href="assets/img/logo.png">
-<link rel="apple-touch-icon" href="assets/img/logo.png">
-<link rel="preload" as="image" href="assets/img/dt-06.webp" fetchpriority="high">
+<link rel="icon" type="image/png" href="../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="preload" as="image" href="../assets/img/dt-06.webp" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&amp;family=Inter:wght@300;400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" media="print" onload="this.media='all';this.onload=null">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap"></noscript>
 <style>
 /* ============================================================
    DANOVA TECH — single file site
@@ -150,6 +153,8 @@ h2.title{font-size:clamp(2.1rem,5.4vw,4rem)}
 .cur-r.big{width:76px;height:76px;border-color:rgba(120,170,255,.9);background:rgba(30,107,255,.14)}
 .cur-r.hide{opacity:0}
 @media (max-width:1024px){.cur,.cur-r{display:none}}
+/* su mobile la grana resta ma smette di ridisegnarsi 60 volte al secondo */
+@media (max-width:768px){.grain{animation:none}.aurora{filter:blur(48px)}}
 
 /* ---------- PRELOADER 3D ---------- */
 #pre{position:fixed;inset:0;z-index:10001;background:#000;display:grid;place-items:center;overflow:hidden;
@@ -780,7 +785,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    ],
    "@id": "https://danova-tech.com/#organization",
    "name": "Danova Tech",
-   "alternateName": "Danova Tech — Agenzia tech",
+   "alternateName": "Danova Tech — Italian tech agency",
    "url": "https://danova-tech.com/",
    "logo": {
     "@type": "ImageObject",
@@ -793,7 +798,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    "image": {
     "@id": "https://danova-tech.com/#logo"
    },
-   "description": "Agenzia tech italiana che progetta e sviluppa siti web, e-commerce, strategie SEO, campagne Meta Ads, applicazioni, gestionali e software su misura.",
+   "description": "Italian tech agency that designs and builds websites, e-commerce, SEO strategies, Meta Ads campaigns, apps, ERP systems and custom software.",
    "email": "info@danova-tech.com",
    "vatID": "IT05369890263",
    "taxID": "05369890263",
@@ -814,8 +819,30 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     {
      "@type": "Place",
      "name": "Europa"
+    },
+    {
+     "@type": "Place",
+     "name": "Worldwide"
     }
    ],
+   "knowsAbout": [
+    "Web development",
+    "E-commerce",
+    "SEO",
+    "Meta Ads",
+    "Google Ads",
+    "Mobile app development",
+    "Progressive Web Apps",
+    "ERP software",
+    "CRM",
+    "Business process automation",
+    "Artificial intelligence integration",
+    "Core Web Vitals",
+    "Web accessibility"
+   ],
+   "mainEntityOfPage": {
+    "@id": "https://danova-tech.com/en/#webpage"
+   },
    "knowsLanguage": [
     "it",
     "en",
@@ -841,14 +868,14 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    "sameAs": [],
    "hasOfferCatalog": {
     "@type": "OfferCatalog",
-    "name": "Servizi",
+    "name": "Services",
     "itemListElement": [
      {
       "@type": "Offer",
       "itemOffered": {
        "@type": "Service",
-       "name": "Siti web & E-commerce",
-       "description": "Siti veloci, curati e costruiti per vendere. Non template riciclati: struttura, testi e design pensati sulla tua attività.",
+       "name": "Websites & E-commerce",
+       "description": "Fast, polished sites built to sell. Not recycled templates: structure, copy and design shaped around your business.",
        "provider": {
         "@id": "https://danova-tech.com/#organization"
        },
@@ -868,8 +895,8 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       "@type": "Offer",
       "itemOffered": {
        "@type": "Service",
-       "name": "SEO & posizionamento",
-       "description": "Ti facciamo trovare da chi ti sta già cercando. Analisi, contenuti e tecnica per salire su Google e restarci.",
+       "name": "SEO & search visibility",
+       "description": "We make you findable by people already looking for you. Research, content and technical work to climb Google and stay there.",
        "provider": {
         "@id": "https://danova-tech.com/#organization"
        },
@@ -889,8 +916,8 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       "@type": "Offer",
       "itemOffered": {
        "@type": "Service",
-       "name": "Meta Ads & campagne",
-       "description": "Campagne Facebook e Instagram gestite come un investimento, non come una spesa. Creatività, targeting e ottimizzazione continua.",
+       "name": "Meta Ads & campaigns",
+       "description": "Facebook and Instagram campaigns run as an investment, not an expense. Creative, targeting and continuous optimisation.",
        "provider": {
         "@id": "https://danova-tech.com/#organization"
        },
@@ -910,8 +937,8 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       "@type": "Offer",
       "itemOffered": {
        "@type": "Service",
-       "name": "App su misura",
-       "description": "Applicazioni web e mobile costruite intorno al tuo flusso di lavoro. Se lo puoi descrivere, lo possiamo sviluppare.",
+       "name": "Custom apps",
+       "description": "Web and mobile applications built around your workflow. If you can describe it, we can develop it.",
        "provider": {
         "@id": "https://danova-tech.com/#organization"
        },
@@ -931,8 +958,8 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       "@type": "Offer",
       "itemOffered": {
        "@type": "Service",
-       "name": "Gestionali & CRM",
-       "description": "Basta fogli Excel sparsi e quaderni. Un gestionale che parla la lingua della tua azienda e ti fa risparmiare ore ogni settimana.",
+       "name": "ERP & CRM systems",
+       "description": "No more scattered spreadsheets and paper notebooks. A system that speaks your company's language and saves you hours every week.",
        "provider": {
         "@id": "https://danova-tech.com/#organization"
        },
@@ -952,8 +979,8 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       "@type": "Offer",
       "itemOffered": {
        "@type": "Service",
-       "name": "Software & automazioni",
-       "description": "Programmi su misura, integrazioni e automazioni che tolgono il lavoro ripetitivo dalle mani delle persone.",
+       "name": "Software & automation",
+       "description": "Custom programs, integrations and automations that take repetitive work off your team's hands.",
        "provider": {
         "@id": "https://danova-tech.com/#organization"
        },
@@ -977,7 +1004,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    "@id": "https://danova-tech.com/#website",
    "url": "https://danova-tech.com/",
    "name": "Danova Tech",
-   "description": "Agenzia tech italiana che progetta e sviluppa siti web, e-commerce, strategie SEO, campagne Meta Ads, applicazioni, gestionali e software su misura.",
+   "description": "Italian tech agency that designs and builds websites, e-commerce, SEO strategies, Meta Ads campaigns, apps, ERP systems and custom software.",
    "publisher": {
     "@id": "https://danova-tech.com/#organization"
    },
@@ -989,86 +1016,87 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   },
   {
    "@type": "WebPage",
-   "@id": "https://danova-tech.com/#webpage",
-   "url": "https://danova-tech.com/",
-   "name": "Siti web, SEO, Meta Ads e software su misura | Danova Tech",
-   "description": "Agenzia tech italiana: siti web ed e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura. Preventivo gratuito, risposta in 24 ore.",
+   "@id": "https://danova-tech.com/en/#webpage",
+   "url": "https://danova-tech.com/en/",
+   "name": "Websites, SEO, Meta Ads and custom software | Danova Tech",
+   "description": "Italian tech agency building websites and e-commerce, SEO and Meta Ads campaigns, apps, ERP systems and custom software. Free quote, reply within 24h.",
    "isPartOf": {
     "@id": "https://danova-tech.com/#website"
    },
    "about": {
     "@id": "https://danova-tech.com/#organization"
    },
+   "dateModified": "2026-08-29",
    "primaryImageOfPage": {
     "@type": "ImageObject",
     "url": "https://danova-tech.com/assets/img/og-cover.jpg",
     "width": 1200,
     "height": 630
    },
-   "inLanguage": "it"
+   "inLanguage": "en"
   },
   {
    "@type": "FAQPage",
-   "@id": "https://danova-tech.com/#faq",
+   "@id": "https://danova-tech.com/en/#faq",
    "isPartOf": {
-    "@id": "https://danova-tech.com/#webpage"
+    "@id": "https://danova-tech.com/en/#webpage"
    },
-   "inLanguage": "it",
+   "inLanguage": "en",
    "mainEntity": [
     {
      "@type": "Question",
-     "name": "Quanto costa un progetto con voi?",
+     "name": "How much does a project cost?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Dipende da cosa serve davvero, e lo diciamo senza giri di parole: un sito vetrina ben fatto parte da una cifra molto diversa da un gestionale su misura. Dopo la prima call ti mandiamo un preventivo a prezzo fisso, con ogni voce spiegata. Nessun costo compare a lavori iniziati."
+      "text": "It depends on what you actually need, and we'll say it plainly: a well-built brochure site starts from a very different figure than a custom management system. After the first call we send a fixed-price quote with every line explained. No cost appears once work has started."
      }
     },
     {
      "@type": "Question",
-     "name": "In quanto tempo andiamo online?",
+     "name": "How long until we go live?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Una landing page o un sito vetrina in genere richiede 2–4 settimane. Un e-commerce 4–8. Un gestionale o un'app su misura si misura in mesi, ma lavoriamo per moduli: la prima versione utilizzabile arriva molto prima della fine."
+      "text": "A landing page or brochure site usually takes 2–4 weeks. An e-commerce site 4–8. A custom system or app is measured in months, but we work in modules: the first usable version arrives well before the end."
      }
     },
     {
      "@type": "Question",
-     "name": "Lavorate solo con grandi aziende?",
+     "name": "Do you only work with large companies?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "No, anzi. La maggior parte dei nostri clienti sono attività locali, studi professionali e piccole imprese. Il nostro lavoro è dimensionare la soluzione al budget, non il contrario."
+      "text": "Quite the opposite. Most of our clients are local businesses, professional firms and small companies. Our job is to size the solution to the budget, not the other way around."
      }
     },
     {
      "@type": "Question",
-     "name": "E se ho già un sito o un gestionale?",
+     "name": "What if I already have a site or system?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Nessun problema. Possiamo migliorare quello che c'è, integrarlo o migrarlo. Prima analizziamo cosa vale la pena salvare: rifare tutto non è sempre la scelta più intelligente."
+      "text": "Not a problem. We can improve what's there, integrate it or migrate it. First we assess what's worth keeping: rebuilding everything isn't always the smart move."
      }
     },
     {
      "@type": "Question",
-     "name": "Il sito è mio o resta vostro?",
+     "name": "Is the site mine or does it stay yours?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "È tuo. Dominio, hosting, codice e account pubblicitari sono intestati a te. Non teniamo nulla in ostaggio e puoi portare il progetto altrove quando vuoi."
+      "text": "It's yours. Domain, hosting, code and ad accounts are registered in your name. We hold nothing hostage and you can take the project elsewhere whenever you want."
      }
     },
     {
      "@type": "Question",
-     "name": "Cosa succede dopo la consegna?",
+     "name": "What happens after delivery?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Restiamo. Offriamo piani di assistenza con aggiornamenti, backup, monitoraggio e modifiche. E se hai scelto SEO o campagne, il lavoro continua con report mensili chiari."
+      "text": "We stay. We offer support plans with updates, backups, monitoring and changes. And if you chose SEO or campaigns, the work continues with clear monthly reports."
      }
     },
     {
      "@type": "Question",
-     "name": "Potete davvero costruire qualsiasi cosa?",
+     "name": "Can you really build anything?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Quasi. Se è software, molto probabilmente sì: siti, app, gestionali, automazioni, integrazioni con AI. Quando un progetto non è nelle nostre corde te lo diciamo subito, invece di provarci e farti perdere tempo."
+      "text": "Almost. If it's software, most likely yes: sites, apps, management systems, automations, AI integrations. When a project isn't in our wheelhouse we say so straight away rather than wasting your time."
      }
     }
    ]
@@ -1105,7 +1133,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <!-- ===== TRANSIZIONE CAMBIO LINGUA ===== -->
 <div id="langfx" class="">
   <i class="sl s1"></i><i class="sl s2"></i><i class="sl s3"></i>
-  <div class="lfx-word"><b id="lfxCode">IT</b><small id="lfxName">Italiano</small></div>
+  <div class="lfx-word"><b id="lfxCode">EN</b><small id="lfxName">English</small></div>
 </div>
 
 <!-- ===== ATMOSFERA ===== -->
@@ -1116,17 +1144,17 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <div id="prog" style="width: 0%;" class=""></div>
 <div class="cur"></div><div class="cur-r"></div>
 
-<a href="#main" class="skip">Vai al contenuto</a>
+<a href="#main" class="skip">Skip to content</a>
 
 <!-- ===== HEADER ===== -->
 <header id="hdr" class="">
   <div class="bar">
-    <a href="#hero" class="brand" data-mag=""><img width="160" height="160" src="assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <a href="#hero" class="brand" data-mag=""><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
     <nav class="links" aria-label="Menu principale">
-      <a href="#servizi" data-i18n="nav.servizi">Servizi</a>
-      <a href="#settori" data-i18n="nav.settori">Per chi</a>
-      <a href="#lavori" data-i18n="nav.lavori">Esempi</a>
-      <a href="#processo" data-i18n="nav.processo">Processo</a>
+      <a href="#servizi" data-i18n="nav.servizi">Services</a>
+      <a href="#settori" data-i18n="nav.settori">Who we serve</a>
+      <a href="#lavori" data-i18n="nav.lavori">Work</a>
+      <a href="#processo" data-i18n="nav.processo">Process</a>
       <a href="#faq" data-i18n="nav.faq">FAQ</a>
     </nav>
     <div class="nav-r">
@@ -1139,19 +1167,19 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
               <circle cx="12" cy="12" r="9"></circle><path d="M3 12h18"></path><ellipse class="mer" cx="12" cy="12" rx="4.6" ry="9"></ellipse>
             </svg>
           </span>
-          <span class="lang-code" id="langCode">IT</span>
+          <span class="lang-code" id="langCode">EN</span>
           <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m6 9 6 6 6-6"></path></svg>
           <i class="lang-ring"></i>
         </button>
         <div class="lang-menu" id="langMenu" role="listbox">
           <i class="lm-glow"></i>
-          <button data-lang="it" role="option" class="sel"><b>IT</b><span>Italiano</span><i class="tick"></i></button>
-          <button data-lang="en" role="option"><b>EN</b><span>English</span><i class="tick"></i></button>
+          <button data-lang="it" role="option"><b>IT</b><span>Italiano</span><i class="tick"></i></button>
+          <button data-lang="en" role="option" class="sel"><b>EN</b><span>English</span><i class="tick"></i></button>
           <button data-lang="de" role="option"><b>DE</b><span>Deutsch</span><i class="tick"></i></button>
         </div>
       </div>
 
-      <a href="#contatti" class="btn btn-p" data-mag="" data-i18n-append="nav.cta"><span class="sheen"></span><span class="lbl">Parliamone</span>
+      <a href="#contatti" class="btn btn-p" data-mag="" data-i18n-append="nav.cta"><span class="sheen"></span><span class="lbl">Let's talk</span>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       <div class="burger" id="burger"><i></i><i></i><i></i></div>
     </div>
@@ -1160,16 +1188,16 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
 <nav id="mob" aria-label="Menu mobile" class="">
   <div class="mob-links">
-    <a href="#servizi" data-i18n="nav.servizi">Servizi</a>
-    <a href="#settori" data-i18n="nav.settori">Per chi</a>
-    <a href="#lavori" data-i18n="nav.lavori">Esempi</a>
-    <a href="#processo" data-i18n="nav.processo">Processo</a>
+    <a href="#servizi" data-i18n="nav.servizi">Services</a>
+    <a href="#settori" data-i18n="nav.settori">Who we serve</a>
+    <a href="#lavori" data-i18n="nav.lavori">Work</a>
+    <a href="#processo" data-i18n="nav.processo">Process</a>
     <a href="#faq" data-i18n="nav.faq">FAQ</a>
-    <a href="#contatti" data-i18n="nav.contatti">Contatti</a>
+    <a href="#contatti" data-i18n="nav.contatti">Contact</a>
   </div>
   <div class="mob-lang" id="mobLang">
-    <button data-lang="it" class="sel"><b>IT</b><span>Italiano</span></button>
-    <button data-lang="en"><b>EN</b><span>English</span></button>
+    <button data-lang="it"><b>IT</b><span>Italiano</span></button>
+    <button data-lang="en" class="sel"><b>EN</b><span>English</span></button>
     <button data-lang="de"><b>DE</b><span>Deutsch</span></button>
   </div>
 </nav>
@@ -1178,86 +1206,86 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
 <!-- ===== HERO ===== -->
 <section id="hero">
-  <div class="bgimg" id="heroBg" style="background-image: url(&quot;assets/img/dt-06.webp&quot;); transform: translateY(0px) scale(1);"></div>
+  <div class="bgimg" id="heroBg" style="background-image: url(&quot;../assets/img/dt-06.webp&quot;); transform: translateY(0px) scale(1);"></div>
   <canvas id="net"></canvas>
   <div class="gridfloor"><i></i></div>
   <div class="wrap hero-in">
-    <h1 class="hero-t" data-split=""><span class="ln" id="hl1">Costruiamo</span><span class="ln" id="hl2">tecnologia che</span><span class="ln"><span class="rot" id="rot"><i class="spacer">converte.</i></span></span></h1>
-    <p class="hero-sub" id="heroSub">Siti web, SEO, campagne Meta Ads, applicazioni, gestionali e software su misura. Dalla prima riga di codice alla prima vendita: <b>un unico partner per tutta la tua tecnologia.</b></p>
+    <h1 class="hero-t" data-split=""><span class="ln" id="hl1">We build</span><span class="ln" id="hl2">technology that</span><span class="ln"><span class="rot" id="rot"><i class="spacer">converts.</i></span></span></h1>
+    <p class="hero-sub" id="heroSub">Websites, SEO, Meta Ads campaigns, applications, management systems and custom software. From the first line of code to the first sale: <b>one partner for your entire technology stack.</b></p>
     <div class="hero-cta">
-      <a href="#contatti" class="btn btn-p" data-mag=""><span class="sheen"></span><span class="lbl" id="hcta1">Richiedi un preventivo</span>
+      <a href="#contatti" class="btn btn-p" data-mag=""><span class="sheen"></span><span class="lbl" id="hcta1">Request a quote</span>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
-      <a href="#servizi" class="btn btn-g" data-mag=""><span class="lbl" id="hcta2">Scopri cosa facciamo</span></a>
+      <a href="#servizi" class="btn btn-g" data-mag=""><span class="lbl" id="hcta2">See what we do</span></a>
     </div>
-    <div class="hero-stats" id="heroStats"><div><b class="cnt" data-to="120" data-suffix="+">120+</b><small>Progetti consegnati</small></div><div><b class="cnt" data-to="98" data-suffix="%">98%</b><small>Clienti che riconfermano</small></div><div><b class="cnt" data-to="14" data-suffix=" gg">14 gg</b><small>Tempo medio di lancio</small></div><div><b class="cnt" data-to="24" data-suffix="/7">24/7</b><small>Assistenza e monitoraggio</small></div></div>
+    <div class="hero-stats" id="heroStats"><div><b class="cnt" data-to="120" data-suffix="+">120+</b><small>Projects delivered</small></div><div><b class="cnt" data-to="98" data-suffix="%">98%</b><small>Clients who renew</small></div><div><b class="cnt" data-to="14" data-suffix=" days">14 days</b><small>Average launch time</small></div><div><b class="cnt" data-to="24" data-suffix="/7">24/7</b><small>Support and monitoring</small></div></div>
   </div>
   <div class="scroll-ind"><span class="mono" id="scrollLbl">Scroll</span><div class="rail"></div></div>
 <div class="beam run" style="top: 45%;"></div></section>
 
 <!-- ===== MARQUEE ===== -->
-<div class="mq" id="mq1"><div class="track"><span class="it">Siti web</span><span class="it">E-commerce</span><span class="it">SEO</span><span class="it">Meta Ads</span><span class="it">App mobile</span><span class="it">Gestionali</span><span class="it">CRM</span><span class="it">Automazioni</span><span class="it">Landing page</span><span class="it">Software su misura</span><span class="it">Integrazioni AI</span><span class="it">Assistenza</span><span class="it">Siti web</span><span class="it">E-commerce</span><span class="it">SEO</span><span class="it">Meta Ads</span><span class="it">App mobile</span><span class="it">Gestionali</span><span class="it">CRM</span><span class="it">Automazioni</span><span class="it">Landing page</span><span class="it">Software su misura</span><span class="it">Integrazioni AI</span><span class="it">Assistenza</span></div></div>
+<div class="mq" id="mq1"><div class="track"><span class="it">Websites</span><span class="it">E-commerce</span><span class="it">SEO</span><span class="it">Meta Ads</span><span class="it">Mobile apps</span><span class="it">ERP systems</span><span class="it">CRM</span><span class="it">Automations</span><span class="it">Landing pages</span><span class="it">Custom software</span><span class="it">AI integrations</span><span class="it">Support</span><span class="it">Websites</span><span class="it">E-commerce</span><span class="it">SEO</span><span class="it">Meta Ads</span><span class="it">Mobile apps</span><span class="it">ERP systems</span><span class="it">CRM</span><span class="it">Automations</span><span class="it">Landing pages</span><span class="it">Custom software</span><span class="it">AI integrations</span><span class="it">Support</span></div></div>
 
 <!-- ===== SERVIZI ===== -->
 <section id="servizi">
   <div class="wrap">
     <div class="sec-head">
-      <div class="eyebrow mono" data-scramble="" data-i18n="servizi.eyebrow">Servizi</div>
-      <h2 class="title" data-rv="up" data-i18n-html="servizi.title" style="transition-delay: 0ms;">Tutto quello che serve <span class="grad">online</span>,<br>fatto da un solo team.</h2>
-      <p class="lead" data-rv="up" data-i18n="servizi.lead" style="transition-delay: 90ms;">Niente fornitori diversi che si rimpallano le colpe. Design, sviluppo, posizionamento e advertising vivono nello stesso progetto e lavorano verso lo stesso numero: il tuo fatturato.</p>
+      <div class="eyebrow mono" data-scramble="" data-i18n="servizi.eyebrow">Services</div>
+      <h2 class="title" data-rv="up" data-i18n-html="servizi.title" style="transition-delay: 0ms;">Everything you need <span class="grad">online</span>,<br>built by one team.</h2>
+      <p class="lead" data-rv="up" data-i18n="servizi.lead" style="transition-delay: 90ms;">No more vendors pointing fingers at each other. Design, development, search and advertising live inside the same project and work toward the same number: your revenue.</p>
     </div>
     <div class="srv-grid" id="srvGrid">
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 0ms;"><i class="edge"></i>
       <div class="pic"><span class="num">01</span><div class="scan"></div>
-        <img src="assets/img/dt-03.webp" alt="Danova Tech — Siti web &amp; E-commerce" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="../assets/img/dt-03.webp" alt="Danova Tech — Websites &amp; E-commerce" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
-        <h3>Siti web &amp; E-commerce</h3><p>Siti veloci, curati e costruiti per vendere. Non template riciclati: struttura, testi e design pensati sulla tua attività.</p>
-        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Siti vetrina, landing page e one-page</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>E-commerce con pagamenti e spedizioni</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Prenotazioni, preventivatori, aree riservate</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Performance, Core Web Vitals e accessibilità</li></ul>
-        <a href="#contatti" class="more"><span>Voglio un sito così</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <h3>Websites &amp; E-commerce</h3><p>Fast, polished sites built to sell. Not recycled templates: structure, copy and design shaped around your business.</p>
+        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Brochure sites, landing pages and one-pagers</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>E-commerce with payments and shipping</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Bookings, quote builders, member areas</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Performance, Core Web Vitals and accessibility</li></ul>
+        <a href="#contatti" class="more"><span>I want a site like this</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 90ms;"><i class="edge"></i>
       <div class="pic"><span class="num">02</span><div class="scan"></div>
-        <img src="assets/img/dt-09.webp" alt="Danova Tech — SEO &amp; posizionamento" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="../assets/img/dt-09.webp" alt="Danova Tech — SEO &amp; search visibility" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
-        <h3>SEO &amp; posizionamento</h3><p>Ti facciamo trovare da chi ti sta già cercando. Analisi, contenuti e tecnica per salire su Google e restarci.</p>
-        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Audit tecnico e keyword research</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>SEO locale e Google Business Profile</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Contenuti, blog e strategia di link</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Report mensili leggibili, senza fuffa</li></ul>
-        <a href="#contatti" class="more"><span>Voglio più visibilità</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <h3>SEO &amp; search visibility</h3><p>We make you findable by people already looking for you. Research, content and technical work to climb Google and stay there.</p>
+        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Technical audit and keyword research</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Local SEO and Google Business Profile</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Content, blog and link strategy</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Monthly reports you can actually read</li></ul>
+        <a href="#contatti" class="more"><span>I want more visibility</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 180ms;"><i class="edge"></i>
       <div class="pic"><span class="num">03</span><div class="scan"></div>
-        <img src="assets/img/dt-08.webp" alt="Danova Tech — Meta Ads &amp; campagne" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="../assets/img/dt-08.webp" alt="Danova Tech — Meta Ads &amp; campaigns" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
-        <h3>Meta Ads &amp; campagne</h3><p>Campagne Facebook e Instagram gestite come un investimento, non come una spesa. Creatività, targeting e ottimizzazione continua.</p>
-        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Setup Business Manager, Pixel e API di conversione</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Creatività video e statiche pensate per fermare lo scroll</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Funnel di acquisizione, retargeting e lead generation</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Test A/B costanti e ottimizzazione del costo per lead</li></ul>
-        <a href="#contatti" class="more"><span>Voglio più clienti</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <h3>Meta Ads &amp; campaigns</h3><p>Facebook and Instagram campaigns run as an investment, not an expense. Creative, targeting and continuous optimisation.</p>
+        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Business Manager, Pixel and Conversions API setup</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Video and static creative built to stop the scroll</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Acquisition funnels, retargeting and lead generation</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Constant A/B testing and cost-per-lead optimisation</li></ul>
+        <a href="#contatti" class="more"><span>I want more customers</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 270ms;"><i class="edge"></i>
       <div class="pic"><span class="num">04</span><div class="scan"></div>
-        <img src="assets/img/dt-04.webp" alt="Danova Tech — App su misura" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="../assets/img/dt-04.webp" alt="Danova Tech — Custom apps" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
-        <h3>App su misura</h3><p>Applicazioni web e mobile costruite intorno al tuo flusso di lavoro. Se lo puoi descrivere, lo possiamo sviluppare.</p>
-        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>App iOS e Android · Web app e PWA</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Login, notifiche push, pagamenti in-app</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Integrazione con i sistemi che usi già</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Manutenzione e aggiornamenti inclusi</li></ul>
-        <a href="#contatti" class="more"><span>Ho un'idea da sviluppare</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <h3>Custom apps</h3><p>Web and mobile applications built around your workflow. If you can describe it, we can develop it.</p>
+        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>iOS and Android apps · Web apps and PWAs</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Login, push notifications, in-app payments</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Integration with the systems you already use</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Maintenance and updates included</li></ul>
+        <a href="#contatti" class="more"><span>I have an idea to build</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 360ms;"><i class="edge"></i>
       <div class="pic"><span class="num">05</span><div class="scan"></div>
-        <img src="assets/img/dt-10.webp" alt="Danova Tech — Gestionali &amp; CRM" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="../assets/img/dt-10.webp" alt="Danova Tech — ERP &amp; CRM systems" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
-        <h3>Gestionali &amp; CRM</h3><p>Basta fogli Excel sparsi e quaderni. Un gestionale che parla la lingua della tua azienda e ti fa risparmiare ore ogni settimana.</p>
-        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Clienti, preventivi, ordini e fatture</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Magazzino, produzione e scadenze</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Ruoli e permessi per ogni collaboratore</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Dashboard e report in tempo reale</li></ul>
-        <a href="#contatti" class="more"><span>Voglio organizzare l'azienda</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <h3>ERP &amp; CRM systems</h3><p>No more scattered spreadsheets and paper notebooks. A system that speaks your company's language and saves you hours every week.</p>
+        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Clients, quotes, orders and invoices</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Inventory, production and deadlines</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Roles and permissions for every team member</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Real-time dashboards and reports</li></ul>
+        <a href="#contatti" class="more"><span>I want to organise my company</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 450ms;"><i class="edge"></i>
       <div class="pic"><span class="num">06</span><div class="scan"></div>
-        <img src="assets/img/dt-01.webp" alt="Danova Tech — Software &amp; automazioni" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="../assets/img/dt-01.webp" alt="Danova Tech — Software &amp; automation" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
-        <h3>Software &amp; automazioni</h3><p>Programmi su misura, integrazioni e automazioni che tolgono il lavoro ripetitivo dalle mani delle persone.</p>
-        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Automazioni tra gestionale, sito e email</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Integrazioni AI: chatbot, ricerca, analisi documenti</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>API, sincronizzazioni e import/export dati</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Software desktop e strumenti interni</li></ul>
-        <a href="#contatti" class="more"><span>Ho un processo da automatizzare</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <h3>Software &amp; automation</h3><p>Custom programs, integrations and automations that take repetitive work off your team's hands.</p>
+        <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Automation between your system, site and email</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>AI integrations: chatbots, search, document analysis</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>APIs, syncing and data import/export</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Desktop software and internal tools</li></ul>
+        <a href="#contatti" class="more"><span>I have a process to automate</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article></div>
   </div>
@@ -1269,42 +1297,42 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="settori">
   <div class="wrap">
     <div class="sec-head">
-      <div class="eyebrow mono" data-scramble="" data-i18n="settori.eyebrow">Per chi lavoriamo</div>
-      <h2 class="title" data-rv="up" data-i18n-html="settori.title" style="transition-delay: 0ms;">Ogni attività ha il suo<br><span class="grad">strumento su misura.</span></h2>
-      <p class="lead" data-rv="up" data-i18n="settori.lead" style="transition-delay: 90ms;">Non vendiamo pacchetti preconfezionati. Partiamo da come lavori davvero e costruiamo lo strumento che ti manca. Ecco qualche esempio concreto di cosa possiamo realizzare.</p>
+      <div class="eyebrow mono" data-scramble="" data-i18n="settori.eyebrow">Who we serve</div>
+      <h2 class="title" data-rv="up" data-i18n-html="settori.title" style="transition-delay: 0ms;">Every business deserves<br>its own <span class="grad">custom tool.</span></h2>
+      <p class="lead" data-rv="up" data-i18n="settori.lead" style="transition-delay: 90ms;">We don't sell off-the-shelf packages. We start from how you actually work and build the tool you're missing. Here are a few concrete examples of what we can create.</p>
     </div>
     <div class="sect-grid" id="sectGrid">
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 0ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3v8a3 3 0 0 0 6 0V3M10 11v10M17 3c-1.5 2-2 4-2 6s.5 3 2 3v9"></path></svg></div>
-      <h4>Ristoranti &amp; bar</h4><p>Menu digitale, prenotazione tavoli, ordini da asporto e recensioni automatiche.</p>
+      <h4>Restaurants &amp; bars</h4><p>Digital menu, table booking, takeaway orders and automated reviews.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 90ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h18l-1.5 12.5a2 2 0 0 1-2 1.5h-11a2 2 0 0 1-2-1.5L3 7ZM8 7a4 4 0 0 1 8 0"></path></svg></div>
-      <h4>Negozi &amp; e-commerce</h4><p>Vetrina online, catalogo sincronizzato col magazzino, pagamenti e spedizioni.</p>
+      <h4>Shops &amp; e-commerce</h4><p>Online storefront, catalogue synced with inventory, payments and shipping.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 180ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m3 10 9-7 9 7v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"></path><path d="M9 21v-7h6v7"></path></svg></div>
-      <h4>Immobiliare</h4><p>Portale annunci con ricerca avanzata, tour virtuali e gestione lead automatica.</p>
+      <h4>Real estate</h4><p>Listings portal with advanced search, virtual tours and automated lead handling.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 270ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 6v12M18 6v12M3 9v6M21 9v6M6 12h12"></path></svg></div>
-      <h4>Palestre &amp; centri</h4><p>App abbonamenti, prenotazione corsi, schede di allenamento e rinnovi automatici.</p>
+      <h4>Gyms &amp; studios</h4><p>Membership app, class booking, training plans and automatic renewals.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 360ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M5 7h14M7 7l-3 6a3 3 0 0 0 6 0ZM17 7l-3 6a3 3 0 0 0 6 0Z"></path></svg></div>
-      <h4>Studi professionali</h4><p>Area clienti riservata, gestione pratiche, scadenzario e firma documenti.</p>
+      <h4>Professional firms</h4><p>Private client area, case management, deadline tracking and document signing.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 450ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a4 4 0 0 1 5.3 5.3l-9 9-5.3-5.3 9-9Z"></path><path d="m3 21 3-3"></path></svg></div>
-      <h4>Artigiani &amp; edilizia</h4><p>Preventivatore, gestione cantieri e commesse, rapportini e foto di lavoro.</p>
+      <h4>Trades &amp; construction</h4><p>Quote builder, site and job management, work reports and photo logs.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 540ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M5 17h14M4 17v-4l2-5h12l2 5v4M7 17v2M17 17v2M7 13h.01M17 13h.01"></path></svg></div>
-      <h4>Officine &amp; concessionari</h4><p>Schede veicolo, prenotazione tagliandi, promemoria revisioni e listino online.</p>
+      <h4>Garages &amp; dealerships</h4><p>Vehicle records, service booking, inspection reminders and online pricing.</p>
     </div>
     <div class="sect" data-rv="up" data-tilt="" style="transition-delay: 630ms;">
       <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v18M3 12h18"></path><rect x="3" y="3" width="18" height="18" rx="4"></rect></svg></div>
-      <h4>Studi medici</h4><p>Agenda appuntamenti, cartelle digitali, promemoria SMS e referti online.</p>
+      <h4>Medical practices</h4><p>Appointment scheduling, digital records, SMS reminders and online results.</p>
     </div></div>
   </div>
 </section>
@@ -1313,64 +1341,64 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="lavori">
   <div class="wrap">
     <div class="sec-head">
-      <div class="eyebrow mono" data-scramble="" data-i18n="lavori.eyebrow">Esempi di progetti</div>
-      <h2 class="title" data-rv="up" data-i18n-html="lavori.title" style="transition-delay: 0ms;">Cosa esce dal <span class="grad">nostro studio.</span></h2>
-      <p class="lead" data-rv="up" data-i18n="lavori.lead" style="transition-delay: 90ms;">Una selezione di progetti rappresentativi del tipo di lavoro che realizziamo.</p>
+      <div class="eyebrow mono" data-scramble="" data-i18n="lavori.eyebrow">Selected work</div>
+      <h2 class="title" data-rv="up" data-i18n-html="lavori.title" style="transition-delay: 0ms;">What comes out of <span class="grad">our studio.</span></h2>
+      <p class="lead" data-rv="up" data-i18n="lavori.lead" style="transition-delay: 90ms;">A selection of projects representative of the kind of work we deliver.</p>
     </div>
-    <div class="filters" data-rv="up" id="pfFilters" style="transition-delay: 0ms;"><button class="on" data-f="all">Tutti</button><button class="" data-f="web">Siti &amp; E-commerce</button><button class="" data-f="app">App</button><button class="" data-f="gest">Gestionali</button><button class="" data-f="ads">Ads &amp; SEO</button></div>
+    <div class="filters" data-rv="up" id="pfFilters" style="transition-delay: 0ms;"><button class="on" data-f="all">All</button><button class="" data-f="web">Sites &amp; E-commerce</button><button class="" data-f="app">Apps</button><button class="" data-f="gest">ERP systems</button><button class="" data-f="ads">Ads &amp; SEO</button></div>
     <div class="pf-grid" id="pfGrid"><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 0ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-05.webp" alt="Progetto Danova Tech — Shop online per brand di prodotto" width="1000" height="700" loading="lazy" decoding="async">
-        <div class="ov"><span class="go">Vedi il progetto
+      <div class="pic"><img src="../assets/img/dt-05.webp" alt="Danova Tech project — Online shop for a product brand" width="1000" height="700" loading="lazy" decoding="async">
+        <div class="ov"><span class="go">View project
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">E-commerce</span><h3>Shop online per brand di prodotto</h3><p>Catalogo, checkout ottimizzato e integrazione con magazzino e corrieri. Design dark e mobile-first.</p>
-        <div class="kpi"><div><b>+184%</b><small>Vendite online</small></div><div><b>1.2s</b><small>Tempo di caricamento</small></div></div>
+        <span class="tag">E-commerce</span><h3>Online shop for a product brand</h3><p>Catalogue, optimised checkout and integration with inventory and couriers. Dark, mobile-first design.</p>
+        <div class="kpi"><div><b>+184%</b><small>Online sales</small></div><div><b>1.2s</b><small>Load time</small></div></div>
       </div>
     </article><article class="card pf" data-c="gest" data-rv="up" data-tilt="" style="transition-delay: 90ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-02.webp" alt="Progetto Danova Tech — Gestionale aziendale su misura" width="1000" height="700" loading="lazy" decoding="async">
-        <div class="ov"><span class="go">Vedi il progetto
+      <div class="pic"><img src="../assets/img/dt-02.webp" alt="Danova Tech project — Custom company management system" width="1000" height="700" loading="lazy" decoding="async">
+        <div class="ov"><span class="go">View project
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">Gestionale</span><h3>Gestionale aziendale su misura</h3><p>Clienti, commesse, magazzino e fatturazione in un unico pannello, con ruoli per ogni reparto.</p>
-        <div class="kpi"><div><b>-11h</b><small>A settimana risparmiate</small></div><div><b>4</b><small>Software sostituiti</small></div></div>
+        <span class="tag">ERP</span><h3>Custom company management system</h3><p>Clients, jobs, inventory and invoicing in a single panel, with roles for every department.</p>
+        <div class="kpi"><div><b>-11h</b><small>Saved per week</small></div><div><b>4</b><small>Tools replaced</small></div></div>
       </div>
     </article><article class="card pf" data-c="app" data-rv="up" data-tilt="" style="transition-delay: 180ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-11.webp" alt="Progetto Danova Tech — App fedeltà e prenotazioni" width="1000" height="700" loading="lazy" decoding="async">
-        <div class="ov"><span class="go">Vedi il progetto
+      <div class="pic"><img src="../assets/img/dt-11.webp" alt="Danova Tech project — Loyalty and booking app" width="1000" height="700" loading="lazy" decoding="async">
+        <div class="ov"><span class="go">View project
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">App mobile</span><h3>App fedeltà e prenotazioni</h3><p>App iOS e Android con raccolta punti, notifiche push e prenotazione servizi in tempo reale.</p>
-        <div class="kpi"><div><b>8.400</b><small>Utenti attivi</small></div><div><b>+37%</b><small>Clienti che ritornano</small></div></div>
+        <span class="tag">Mobile apps</span><h3>Loyalty and booking app</h3><p>iOS and Android app with points collection, push notifications and real-time service booking.</p>
+        <div class="kpi"><div><b>8.400</b><small>Active users</small></div><div><b>+37%</b><small>Returning customers</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 270ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-08.webp" alt="Progetto Danova Tech — Campagna lead generation locale" width="1000" height="700" loading="lazy" decoding="async">
-        <div class="ov"><span class="go">Vedi il progetto
+      <div class="pic"><img src="../assets/img/dt-08.webp" alt="Danova Tech project — Local lead generation campaign" width="1000" height="700" loading="lazy" decoding="async">
+        <div class="ov"><span class="go">View project
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">Meta Ads</span><h3>Campagna lead generation locale</h3><p>Funnel completo con creatività video, retargeting e automazione dei contatti nel CRM.</p>
-        <div class="kpi"><div><b>€4,10</b><small>Costo per lead</small></div><div><b>x5,8</b><small>ROAS medio</small></div></div>
+        <span class="tag">Meta Ads</span><h3>Local lead generation campaign</h3><p>Full funnel with video creative, retargeting and automated contact handling in the CRM.</p>
+        <div class="kpi"><div><b>€4,10</b><small>Cost per lead</small></div><div><b>x5,8</b><small>Average ROAS</small></div></div>
       </div>
     </article><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 360ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-03.webp" alt="Progetto Danova Tech — Sito vetrina per studio professionale" width="1000" height="700" loading="lazy" decoding="async">
-        <div class="ov"><span class="go">Vedi il progetto
+      <div class="pic"><img src="../assets/img/dt-03.webp" alt="Danova Tech project — Brochure site for a professional firm" width="1000" height="700" loading="lazy" decoding="async">
+        <div class="ov"><span class="go">View project
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">Sito web</span><h3>Sito vetrina per studio professionale</h3><p>Presentazione dei servizi, area clienti riservata e prenotazione consulenze integrata.</p>
-        <div class="kpi"><div><b>+220%</b><small>Richieste di contatto</small></div><div><b>100</b><small>Punteggio performance</small></div></div>
+        <span class="tag">Website</span><h3>Brochure site for a professional firm</h3><p>Service presentation, private client area and integrated consultation booking.</p>
+        <div class="kpi"><div><b>+220%</b><small>Contact requests</small></div><div><b>100</b><small>Performance score</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 450ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-09.webp" alt="Progetto Danova Tech — Posizionamento locale multi-sede" width="1000" height="700" loading="lazy" decoding="async">
-        <div class="ov"><span class="go">Vedi il progetto
+      <div class="pic"><img src="../assets/img/dt-09.webp" alt="Danova Tech project — Multi-location local search" width="1000" height="700" loading="lazy" decoding="async">
+        <div class="ov"><span class="go">View project
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">SEO</span><h3>Posizionamento locale multi-sede</h3><p>Ottimizzazione tecnica, pagine per città e gestione delle schede Google per 6 sedi.</p>
-        <div class="kpi"><div><b>#1</b><small>Su 42 keyword</small></div><div><b>+310%</b><small>Traffico organico</small></div></div>
+        <span class="tag">SEO</span><h3>Multi-location local search</h3><p>Technical optimisation, city landing pages and Google profile management across 6 locations.</p>
+        <div class="kpi"><div><b>#1</b><small>On 42 keywords</small></div><div><b>+310%</b><small>Organic traffic</small></div></div>
       </div>
     </article></div>
   </div>
@@ -1380,37 +1408,37 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="processo">
   <div class="wrap">
     <div class="sec-head">
-      <div class="eyebrow mono" data-scramble="" data-i18n="processo.eyebrow">Come lavoriamo</div>
-      <h2 class="title" data-rv="up" data-i18n-html="processo.title" style="transition-delay: 0ms;">Un metodo chiaro,<br>zero <span class="grad">sorprese.</span></h2>
-      <p class="lead" data-rv="up" data-i18n="processo.lead" style="transition-delay: 90ms;">Sai sempre a che punto siamo, quanto costa e quando arriva. Ogni fase ha una consegna concreta che puoi vedere e approvare.</p>
+      <div class="eyebrow mono" data-scramble="" data-i18n="processo.eyebrow">How we work</div>
+      <h2 class="title" data-rv="up" data-i18n-html="processo.title" style="transition-delay: 0ms;">A clear method,<br>zero <span class="grad">surprises.</span></h2>
+      <p class="lead" data-rv="up" data-i18n="processo.lead" style="transition-delay: 90ms;">You always know where we are, what it costs and when it lands. Every phase has a concrete deliverable you can see and approve.</p>
     </div>
     <div class="proc" id="proc"><div class="line"><i></i></div>
     <div class="step"><div class="no">01</div><div class="txt">
-      <h3>Ascolto e analisi</h3><p>Una call in cui parli tu. Capiamo l'attività, i numeri, chi sono i clienti e dove si perde tempo o fatturato. Da qui nasce tutto il resto.</p>
-      <div class="meta"><span>Call conoscitiva</span><span>Analisi competitor</span><span>Obiettivi misurabili</span></div>
+      <h3>Listening and analysis</h3><p>A call where you do the talking. We learn the business, the numbers, who the customers are and where time or revenue leaks. Everything else grows from here.</p>
+      <div class="meta"><span>Discovery call</span><span>Competitor analysis</span><span>Measurable goals</span></div>
     </div></div>
     <div class="step"><div class="no">02</div><div class="txt">
-      <h3>Strategia e preventivo</h3><p>Ti presentiamo cosa costruiremo, con che priorità e a che costo. Un documento chiaro, senza voci nascoste e senza tecnicismi inutili.</p>
-      <div class="meta"><span>Roadmap</span><span>Prezzo fisso</span><span>Tempistiche certe</span></div>
+      <h3>Strategy and quote</h3><p>We present what we'll build, in what order and at what cost. A clear document, no hidden line items and no unnecessary jargon.</p>
+      <div class="meta"><span>Roadmap</span><span>Fixed price</span><span>Firm timeline</span></div>
     </div></div>
     <div class="step"><div class="no">03</div><div class="txt">
-      <h3>Design e prototipo</h3><p>Prima di scrivere codice ti mostriamo com'è. Prototipo navigabile, revisioni incluse: si parte a costruire solo quando ti piace davvero.</p>
-      <div class="meta"><span>UI/UX design</span><span>Prototipo cliccabile</span><span>Revisioni incluse</span></div>
+      <h3>Design and prototype</h3><p>Before writing code we show you what it looks like. A clickable prototype with revisions included: we only start building when you actually like it.</p>
+      <div class="meta"><span>UI/UX design</span><span>Clickable prototype</span><span>Revisions included</span></div>
     </div></div>
     <div class="step"><div class="no">04</div><div class="txt">
-      <h3>Sviluppo e test</h3><p>Costruiamo in sprint con avanzamenti visibili. Test su ogni dispositivo, performance, sicurezza e velocità prima di andare online.</p>
-      <div class="meta"><span>Sprint settimanali</span><span>Ambiente di test</span><span>Controllo qualità</span></div>
+      <h3>Development and testing</h3><p>We build in sprints with visible progress. Testing on every device, plus performance, security and speed checks before going live.</p>
+      <div class="meta"><span>Weekly sprints</span><span>Staging environment</span><span>Quality assurance</span></div>
     </div></div>
     <div class="step"><div class="no">05</div><div class="txt">
-      <h3>Lancio, crescita e assistenza</h3><p>Andiamo online, misuriamo e miglioriamo. Campagne, SEO, aggiornamenti e supporto: il progetto non finisce alla consegna, inizia lì.</p>
-      <div class="meta"><span>Go-live assistito</span><span>Report mensili</span><span>Supporto continuo</span></div>
+      <h3>Launch, growth and support</h3><p>We go live, measure and improve. Campaigns, SEO, updates and support: the project doesn't end at delivery, it starts there.</p>
+      <div class="meta"><span>Assisted go-live</span><span>Monthly reports</span><span>Ongoing support</span></div>
     </div></div></div>
   </div>
 </section>
 
 <!-- ===== NUMERI ===== -->
 <section id="numeri" style="padding-top:0">
-  <div class="wrap"><div class="nums" data-rv="zoom" id="numsBox" style="transition-delay: 0ms;"><div><b class="cnt" data-to="120" data-suffix="+">120+</b><small>Progetti consegnati</small></div><div><b class="cnt" data-to="9" data-suffix=" anni">9 anni</b><small>Di esperienza sul campo</small></div><div><b class="cnt" data-to="3" data-suffix="M+">3M+</b><small>Impression generate</small></div><div><b class="cnt" data-to="98" data-suffix="%">98%</b><small>Progetti consegnati in tempo</small></div></div></div>
+  <div class="wrap"><div class="nums" data-rv="zoom" id="numsBox" style="transition-delay: 0ms;"><div><b class="cnt" data-to="120" data-suffix="+">120+</b><small>Projects delivered</small></div><div><b class="cnt" data-to="9" data-suffix=" yrs">9 yrs</b><small>Years in the field</small></div><div><b class="cnt" data-to="3" data-suffix="M+">3M+</b><small>Impressions generated</small></div><div><b class="cnt" data-to="98" data-suffix="%">98%</b><small>Delivered on schedule</small></div></div></div>
 </section>
 
 <!-- ===== MARQUEE TECH ===== -->
@@ -1419,23 +1447,23 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <!-- ===== TESTIMONIAL ===== -->
 <section id="dicono">
   <div class="wrap" style="max-width:900px">
-    <div class="eyebrow mono" data-scramble="" data-i18n="dicono.eyebrow">Dicono di noi</div>
+    <div class="eyebrow mono" data-scramble="" data-i18n="dicono.eyebrow">What clients say</div>
     <div class="tst" id="tst">
     <div class="q">
-      <blockquote>“Avevamo un sito fermo da sei anni. In tre settimane ci hanno consegnato qualcosa che finalmente ci somiglia — e che porta richieste ogni giorno.”</blockquote>
-      <div class="who"><div class="av">MR</div><div><b>Marco R.</b><small>Titolare, azienda di serramenti</small></div></div>
+      <blockquote>“Our site had been frozen for six years. In three weeks they delivered something that finally looks like us — and that brings in enquiries every day.”</blockquote>
+      <div class="who"><div class="av">MR</div><div><b>Marco R.</b><small>Owner, window manufacturer</small></div></div>
     </div>
     <div class="q on">
-      <blockquote>“Il gestionale che ci hanno costruito ha eliminato tre file Excel e due quaderni. Il magazzino ora torna sempre.”</blockquote>
-      <div class="who"><div class="av">SL</div><div><b>Sara L.</b><small>Responsabile operations, distribuzione</small></div></div>
+      <blockquote>“The system they built removed three spreadsheets and two paper notebooks. Our inventory finally adds up.”</blockquote>
+      <div class="who"><div class="av">SL</div><div><b>Sara L.</b><small>Operations manager, distribution</small></div></div>
     </div>
     <div class="q ">
-      <blockquote>“Le campagne Meta le avevamo già provate con altri. La differenza è che qui ci spiegano i numeri invece di nasconderli dietro le parole.”</blockquote>
+      <blockquote>“We had tried Meta campaigns with other agencies. The difference here is that they explain the numbers instead of hiding them behind words.”</blockquote>
       <div class="who"><div class="av">GF</div><div><b>Giulia F.</b><small>Marketing manager, retail</small></div></div>
     </div>
     <div class="q ">
-      <blockquote>“Volevamo un'app e pensavamo fosse fuori portata. Ci hanno proposto una versione più piccola da cui partire: è stata la scelta giusta.”</blockquote>
-      <div class="who"><div class="av">AP</div><div><b>Andrea P.</b><small>Fondatore, centro sportivo</small></div></div>
+      <blockquote>“We wanted an app and assumed it was out of reach. They proposed a smaller version to start from: it was the right call.”</blockquote>
+      <div class="who"><div class="av">AP</div><div><b>Andrea P.</b><small>Founder, sports centre</small></div></div>
     </div></div>
     <div class="tst-dots" id="tstDots"><i class="" data-i="0"></i><i class="on" data-i="1"></i><i class="" data-i="2"></i><i class="" data-i="3"></i></div>
   </div>
@@ -1445,24 +1473,24 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="faq">
   <div class="wrap">
     <div class="sec-head">
-      <div class="eyebrow mono" data-scramble="" data-i18n="faq.eyebrow">Domande frequenti</div>
-      <h2 class="title" data-rv="up" data-i18n-html="faq.title" style="transition-delay: 0ms;">Le risposte che <span class="grad">cerchi.</span></h2>
+      <div class="eyebrow mono" data-scramble="" data-i18n="faq.eyebrow">Frequently asked</div>
+      <h2 class="title" data-rv="up" data-i18n-html="faq.title" style="transition-delay: 0ms;">The answers <span class="grad">you need.</span></h2>
     </div>
     <div class="faq" id="faqBox">
-    <details data-rv="up" style="transition-delay: 0ms;"><summary>Quanto costa un progetto con voi?<span class="pm"></span></summary>
-      <div class="ans"><p>Dipende da cosa serve davvero, e lo diciamo senza giri di parole: un sito vetrina ben fatto parte da una cifra molto diversa da un gestionale su misura. Dopo la prima call ti mandiamo un preventivo a prezzo fisso, con ogni voce spiegata. Nessun costo compare a lavori iniziati.</p></div></details>
-    <details data-rv="up" style="transition-delay: 90ms;"><summary>In quanto tempo andiamo online?<span class="pm"></span></summary>
-      <div class="ans"><p>Una landing page o un sito vetrina in genere richiede 2–4 settimane. Un e-commerce 4–8. Un gestionale o un'app su misura si misura in mesi, ma lavoriamo per moduli: la prima versione utilizzabile arriva molto prima della fine.</p></div></details>
-    <details data-rv="up" style="transition-delay: 180ms;"><summary>Lavorate solo con grandi aziende?<span class="pm"></span></summary>
-      <div class="ans"><p>No, anzi. La maggior parte dei nostri clienti sono attività locali, studi professionali e piccole imprese. Il nostro lavoro è dimensionare la soluzione al budget, non il contrario.</p></div></details>
-    <details data-rv="up" style="transition-delay: 270ms;"><summary>E se ho già un sito o un gestionale?<span class="pm"></span></summary>
-      <div class="ans"><p>Nessun problema. Possiamo migliorare quello che c'è, integrarlo o migrarlo. Prima analizziamo cosa vale la pena salvare: rifare tutto non è sempre la scelta più intelligente.</p></div></details>
-    <details data-rv="up" style="transition-delay: 360ms;"><summary>Il sito è mio o resta vostro?<span class="pm"></span></summary>
-      <div class="ans"><p>È tuo. Dominio, hosting, codice e account pubblicitari sono intestati a te. Non teniamo nulla in ostaggio e puoi portare il progetto altrove quando vuoi.</p></div></details>
-    <details data-rv="up" style="transition-delay: 450ms;"><summary>Cosa succede dopo la consegna?<span class="pm"></span></summary>
-      <div class="ans"><p>Restiamo. Offriamo piani di assistenza con aggiornamenti, backup, monitoraggio e modifiche. E se hai scelto SEO o campagne, il lavoro continua con report mensili chiari.</p></div></details>
-    <details data-rv="up" style="transition-delay: 540ms;"><summary>Potete davvero costruire qualsiasi cosa?<span class="pm"></span></summary>
-      <div class="ans"><p>Quasi. Se è software, molto probabilmente sì: siti, app, gestionali, automazioni, integrazioni con AI. Quando un progetto non è nelle nostre corde te lo diciamo subito, invece di provarci e farti perdere tempo.</p></div></details></div>
+    <details data-rv="up" style="transition-delay: 0ms;"><summary>How much does a project cost?<span class="pm"></span></summary>
+      <div class="ans"><p>It depends on what you actually need, and we'll say it plainly: a well-built brochure site starts from a very different figure than a custom management system. After the first call we send a fixed-price quote with every line explained. No cost appears once work has started.</p></div></details>
+    <details data-rv="up" style="transition-delay: 90ms;"><summary>How long until we go live?<span class="pm"></span></summary>
+      <div class="ans"><p>A landing page or brochure site usually takes 2–4 weeks. An e-commerce site 4–8. A custom system or app is measured in months, but we work in modules: the first usable version arrives well before the end.</p></div></details>
+    <details data-rv="up" style="transition-delay: 180ms;"><summary>Do you only work with large companies?<span class="pm"></span></summary>
+      <div class="ans"><p>Quite the opposite. Most of our clients are local businesses, professional firms and small companies. Our job is to size the solution to the budget, not the other way around.</p></div></details>
+    <details data-rv="up" style="transition-delay: 270ms;"><summary>What if I already have a site or system?<span class="pm"></span></summary>
+      <div class="ans"><p>Not a problem. We can improve what's there, integrate it or migrate it. First we assess what's worth keeping: rebuilding everything isn't always the smart move.</p></div></details>
+    <details data-rv="up" style="transition-delay: 360ms;"><summary>Is the site mine or does it stay yours?<span class="pm"></span></summary>
+      <div class="ans"><p>It's yours. Domain, hosting, code and ad accounts are registered in your name. We hold nothing hostage and you can take the project elsewhere whenever you want.</p></div></details>
+    <details data-rv="up" style="transition-delay: 450ms;"><summary>What happens after delivery?<span class="pm"></span></summary>
+      <div class="ans"><p>We stay. We offer support plans with updates, backups, monitoring and changes. And if you chose SEO or campaigns, the work continues with clear monthly reports.</p></div></details>
+    <details data-rv="up" style="transition-delay: 540ms;"><summary>Can you really build anything?<span class="pm"></span></summary>
+      <div class="ans"><p>Almost. If it's software, most likely yes: sites, apps, management systems, automations, AI integrations. When a project isn't in our wheelhouse we say so straight away rather than wasting your time.</p></div></details></div>
   </div>
 </section>
 
@@ -1470,13 +1498,13 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="contatti">
   <div class="wrap">
     <div class="cta-wrap" data-rv="zoom" style="transition-delay: 0ms;">
-      <div class="bg" style="background-image:url('assets/img/dt-07.webp')"></div>
+      <div class="bg" style="background-image:url('../assets/img/dt-07.webp')"></div>
       <div class="cta-in">
         <div>
-          <div class="eyebrow mono" data-i18n="cta.eyebrow">Iniziamo</div>
-          <h2 data-i18n-html="cta.title">Raccontaci l'idea.<br>Al resto <span class="grad">pensiamo noi.</span></h2>
-          <p class="lead" style="margin-top:18px" data-i18n="cta.lead">Prima call gratuita e senza impegno. Ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".</p>
-          <div class="cta-list" id="ctaList"><div><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Risposta entro 24 ore lavorative</div><div><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Preventivo chiaro e a prezzo fisso</div><div><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Nessun vincolo di permanenza</div></div>
+          <div class="eyebrow mono" data-i18n="cta.eyebrow">Get started</div>
+          <h2 data-i18n-html="cta.title">Tell us the idea.<br>We'll <span class="grad">handle the rest.</span></h2>
+          <p class="lead" style="margin-top:18px" data-i18n="cta.lead">First call is free and with no obligation. We'll tell you honestly whether we can help, what it costs and how long it takes. Even if the answer is "no".</p>
+          <div class="cta-list" id="ctaList"><div><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Reply within 24 business hours</div><div><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Clear, fixed-price quote</div><div><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>No lock-in contracts</div></div>
           <!-- === PLACEHOLDER: sostituisci con i tuoi contatti reali === -->
           <div class="contacts">
             <a href="mailto:info@danova-tech.com" data-mag="">
@@ -1487,29 +1515,29 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
               +39 388 470 6887</a>
             <a href="https://wa.me/393884706887" target="_blank" rel="noopener" data-mag="">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9"><path d="M21 11.5a8.4 8.4 0 0 1-12.6 7.3L3 20.5l1.8-5.2A8.5 8.5 0 1 1 21 11.5Z"></path></svg>
-              <span data-i18n="cta.wa">Scrivici su WhatsApp</span></a>
+              <span data-i18n="cta.wa">Message us on WhatsApp</span></a>
           </div>
         </div>
 
         <div>
           <form id="form" novalidate="">
-            <div class="fld"><input type="text" id="nome" placeholder=" " required="" autocomplete="name"><label for="nome" data-i18n="cta.f.nome">Nome e cognome</label></div>
+            <div class="fld"><input type="text" id="nome" placeholder=" " required="" autocomplete="name"><label for="nome" data-i18n="cta.f.nome">Full name</label></div>
             <div class="fld-tel">
-              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39" selected="">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Prefisso</label></div>
-              <div class="fld"><input type="tel" id="tel" placeholder=" " required="" inputmode="tel" autocomplete="tel-national" maxlength="18"><label for="tel" data-i18n="cta.f.tel">Telefono</label></div>
+              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39" selected="">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Code</label></div>
+              <div class="fld"><input type="tel" id="tel" placeholder=" " required="" inputmode="tel" autocomplete="tel-national" maxlength="18"><label for="tel" data-i18n="cta.f.tel">Phone</label></div>
             </div>
-            <div class="fld-err" id="telErr" data-i18n="cta.f.telerr">Inserisci un numero di telefono valido.</div>
-            <div class="fld"><input type="text" id="azienda" placeholder=" " required="" autocomplete="organization"><label for="azienda" data-i18n="cta.f.azienda">Azienda / attività</label></div>
+            <div class="fld-err" id="telErr" data-i18n="cta.f.telerr">Please enter a valid phone number.</div>
+            <div class="fld"><input type="text" id="azienda" placeholder=" " required="" autocomplete="organization"><label for="azienda" data-i18n="cta.f.azienda">Company / business</label></div>
             <div class="fld">
-              <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Sito web / e-commerce</option><option>SEO e posizionamento</option><option>Meta Ads e campagne</option><option>App su misura</option><option>Gestionale / CRM</option><option>Software o automazione</option><option>Non lo so ancora, parliamone</option></select>
-              <label for="tipo" data-i18n="cta.f.tipo">Di cosa hai bisogno</label>
+              <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Website / e-commerce</option><option>SEO and search visibility</option><option>Meta Ads and campaigns</option><option>Custom apps</option><option>ERP / CRM system</option><option>Software or automation</option><option>Not sure yet, let's talk</option></select>
+              <label for="tipo" data-i18n="cta.f.tipo">What do you need</label>
             </div>
-            <div class="fld"><input type="email" id="email" placeholder=" " autocomplete="email"><label for="email" data-i18n="cta.f.email">Email (facoltativa)</label></div>
-            <div class="fld-err" id="emailErr" data-i18n="cta.f.emailerr">Inserisci un indirizzo email valido oppure lascia il campo vuoto.</div>
-            <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Invia su WhatsApp</span>
+            <div class="fld"><input type="email" id="email" placeholder=" " autocomplete="email"><label for="email" data-i18n="cta.f.email">Email (optional)</label></div>
+            <div class="fld-err" id="emailErr" data-i18n="cta.f.emailerr">Please enter a valid email address or leave the field empty.</div>
+            <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Send on WhatsApp</span>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button>
-            <div class="ok" id="ok" data-i18n="cta.f.ok">Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.</div>
-            <p class="form-note" data-i18n="cta.f.note">Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.</p>
+            <div class="ok" id="ok" data-i18n="cta.f.ok">All set! WhatsApp opens with your request ready to go — just hit send.</div>
+            <p class="form-note" data-i18n="cta.f.note">By submitting you agree to be contacted. We never share your data with anyone.</p>
           </form>
         </div>
       </div>
@@ -1524,12 +1552,12 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   <div class="wrap">
     <div class="f-top">
       <div class="fb">
-        <span class="brand"><img width="160" height="160" src="assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
-        <p data-i18n="footer.tagline">Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p data-i18n="footer.tagline">A tech agency that designs, builds and grows the digital presence of ambitious businesses.</p>
       </div>
-      <div><h5 data-i18n="footer.h1">Servizi</h5><ul id="fc1"><li><a href="#servizi">Siti web &amp; E-commerce</a></li><li><a href="#servizi">SEO</a></li><li><a href="#servizi">Meta Ads</a></li><li><a href="#servizi">App su misura</a></li><li><a href="#servizi">Gestionali &amp; CRM</a></li><li><a href="#servizi">Software e automazioni</a></li></ul></div>
-      <div><h5 data-i18n="footer.h2">Agenzia</h5><ul id="fc2"><li><a href="#settori">Per chi lavoriamo</a></li><li><a href="#lavori">Esempi di progetti</a></li><li><a href="#processo">Il nostro metodo</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contatti">Contatti</a></li></ul></div>
-      <div><h5 data-i18n="footer.h3">Contatti</h5><ul>
+      <div><h5 data-i18n="footer.h1">Services</h5><ul id="fc1"><li><a href="#servizi">Websites &amp; E-commerce</a></li><li><a href="#servizi">SEO</a></li><li><a href="#servizi">Meta Ads</a></li><li><a href="#servizi">Custom apps</a></li><li><a href="#servizi">ERP &amp; CRM systems</a></li><li><a href="#servizi">Software and automation</a></li></ul></div>
+      <div><h5 data-i18n="footer.h2">Agency</h5><ul id="fc2"><li><a href="#settori">Who we serve</a></li><li><a href="#lavori">Selected work</a></li><li><a href="#processo">Our method</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contatti">Contact</a></li></ul></div>
+      <div><h5 data-i18n="footer.h3">Contact</h5><ul>
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
         <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
         <li><a href="#">Instagram</a></li>
@@ -1538,7 +1566,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal" id="fLegal"><button type="button" data-lg="privacy">Privacy Policy</button><i>·</i><button type="button" data-lg="cookie">Cookie Policy</button><i>·</i><button type="button" data-lg="terms">Termini</button></span>
+      <span class="f-legal" id="fLegal"><button type="button" data-lg="privacy">Privacy Policy</button><i>·</i><button type="button" data-lg="cookie">Cookie Policy</button><i>·</i><button type="button" data-lg="terms">Terms</button></span>
     </div>
   </div>
   <div class="giant">DANOVA</div>
@@ -2334,15 +2362,20 @@ addEventListener('load',()=>{PRE_LOADED=true;});
 requestAnimationFrame(()=>pre.classList.add('go'));
 
 const PRE_T0=performance.now();
+/* Durata dell'intro. Tenerla bassa e' decisivo per il punteggio Core Web Vitals
+   di Google (LCP): la pagina non e' "vista" finche' il velo non sparisce.
+   PRE_MIN = quanto dura l'animazione, PRE_MAX = attesa massima se le immagini
+   sono lente. Alzarli peggiora il punteggio, abbassarli lo migliora. */
+const PRE_MIN = RM ? 350 : 1100, PRE_MAX = 1900;
 setTimeout(function waitPre(){
-  if(!PRE_LOADED && performance.now()-PRE_T0 < 5200){ setTimeout(waitPre,120); return; }
+  if(!PRE_LOADED && performance.now()-PRE_T0 < PRE_MAX){ setTimeout(waitPre,80); return; }
   finishPre();
-}, RM ? 500 : 3150);
+}, PRE_MIN);
 
 function finishPre(){
   if(pre.classList.contains('out')) return;
   pre.classList.add('out');
-  setTimeout(()=>{pre.classList.add('done');document.body.style.overflow='';startHero();},520);
+  setTimeout(()=>{pre.classList.add('done');document.body.style.overflow='';startHero();},380);
 }
 
 /* =========================================================
@@ -2615,9 +2648,9 @@ const ICON={
 const CHECK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"/></svg>';
 const ARROW='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 const IMGS={
-  siti:'assets/img/dt-03.webp', seo:'assets/img/dt-09.webp', ads:'assets/img/dt-08.webp',
-  app:'assets/img/dt-04.webp', gest:'assets/img/dt-10.webp', soft:'assets/img/dt-01.webp',
-  p1:'assets/img/dt-05.webp', p2:'assets/img/dt-02.webp', p3:'assets/img/dt-11.webp'
+  siti:'../assets/img/dt-03.webp', seo:'../assets/img/dt-09.webp', ads:'../assets/img/dt-08.webp',
+  app:'../assets/img/dt-04.webp', gest:'../assets/img/dt-10.webp', soft:'../assets/img/dt-01.webp',
+  p1:'../assets/img/dt-05.webp', p2:'../assets/img/dt-02.webp', p3:'../assets/img/dt-11.webp'
 };
 const SRV_IMG=[IMGS.siti,IMGS.seo,IMGS.ads,IMGS.app,IMGS.gest,IMGS.soft];
 const PF_META=[
@@ -2685,7 +2718,7 @@ function render(){
   $('#pfGrid').innerHTML=t.lavori.items.map((pj,i)=>{
     const m=PF_META[i];
     return `<article class="card pf" data-c="${m.c}" data-rv="up" data-tilt><i class="edge"></i>
-      <div class="pic"><img src="${m.img}" alt="Progetto Danova Tech — ${pj.t}" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="${m.img}" alt="Danova Tech project — ${pj.t}" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">${t.lavori.go}
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"/></svg></span></div>
       </div>
@@ -2995,7 +3028,7 @@ $('#lglBd').addEventListener('click',closeLegal);
 addEventListener('keydown',e=>{ if(e.key==='Escape' && lgl.classList.contains('on')) closeLegal(); });
 
 /* Lingua di partenza. Metti 'auto' al posto di 'it' per seguire la lingua del browser. */
-const START_LANG='it';
+const START_LANG='en';
 if(START_LANG==='auto'){
   const n=(navigator.language||'it').slice(0,2).toLowerCase();
   if(window.I18N[n]) LANG=n;

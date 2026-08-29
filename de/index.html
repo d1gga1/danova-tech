@@ -38,10 +38,13 @@
 <meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
 <link rel="icon" type="image/png" href="../assets/img/logo.png">
 <link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
 <link rel="preload" as="image" href="../assets/img/dt-06.webp" fetchpriority="high">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&amp;family=Inter:wght@300;400;500;600&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" rel="stylesheet">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap" media="print" onload="this.media='all';this.onload=null">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;family=JetBrains+Mono:wght@400;500&amp;display=swap"></noscript>
 <style>
 /* ============================================================
    DANOVA TECH — single file site
@@ -150,6 +153,8 @@ h2.title{font-size:clamp(2.1rem,5.4vw,4rem)}
 .cur-r.big{width:76px;height:76px;border-color:rgba(120,170,255,.9);background:rgba(30,107,255,.14)}
 .cur-r.hide{opacity:0}
 @media (max-width:1024px){.cur,.cur-r{display:none}}
+/* su mobile la grana resta ma smette di ridisegnarsi 60 volte al secondo */
+@media (max-width:768px){.grain{animation:none}.aurora{filter:blur(48px)}}
 
 /* ---------- PRELOADER 3D ---------- */
 #pre{position:fixed;inset:0;z-index:10001;background:#000;display:grid;place-items:center;overflow:hidden;
@@ -780,7 +785,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    ],
    "@id": "https://danova-tech.com/#organization",
    "name": "Danova Tech",
-   "alternateName": "Danova Tech — Agenzia tech",
+   "alternateName": "Danova Tech — Italienische Tech-Agentur",
    "url": "https://danova-tech.com/",
    "logo": {
     "@type": "ImageObject",
@@ -814,8 +819,30 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     {
      "@type": "Place",
      "name": "Europa"
+    },
+    {
+     "@type": "Place",
+     "name": "Worldwide"
     }
    ],
+   "knowsAbout": [
+    "Webentwicklung",
+    "E-Commerce",
+    "SEO",
+    "Meta Ads",
+    "Google Ads",
+    "Mobile App-Entwicklung",
+    "Progressive Web Apps",
+    "Warenwirtschaftssoftware",
+    "CRM",
+    "Automatisierung von Geschäftsprozessen",
+    "Integration künstlicher Intelligenz",
+    "Core Web Vitals",
+    "Barrierefreiheit im Web"
+   ],
+   "mainEntityOfPage": {
+    "@id": "https://danova-tech.com/de/#webpage"
+   },
    "knowsLanguage": [
     "it",
     "en",
@@ -999,6 +1026,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
    "about": {
     "@id": "https://danova-tech.com/#organization"
    },
+   "dateModified": "2026-08-29",
    "primaryImageOfPage": {
     "@type": "ImageObject",
     "url": "https://danova-tech.com/assets/img/og-cover.jpg",
@@ -1139,13 +1167,13 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
               <circle cx="12" cy="12" r="9"></circle><path d="M3 12h18"></path><ellipse class="mer" cx="12" cy="12" rx="4.6" ry="9"></ellipse>
             </svg>
           </span>
-          <span class="lang-code swap" id="langCode">DE</span>
+          <span class="lang-code" id="langCode">DE</span>
           <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="m6 9 6 6 6-6"></path></svg>
           <i class="lang-ring"></i>
         </button>
         <div class="lang-menu" id="langMenu" role="listbox">
           <i class="lm-glow"></i>
-          <button data-lang="it" role="option" class=""><b>IT</b><span>Italiano</span><i class="tick"></i></button>
+          <button data-lang="it" role="option"><b>IT</b><span>Italiano</span><i class="tick"></i></button>
           <button data-lang="en" role="option"><b>EN</b><span>English</span><i class="tick"></i></button>
           <button data-lang="de" role="option" class="sel"><b>DE</b><span>Deutsch</span><i class="tick"></i></button>
         </div>
@@ -1168,7 +1196,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <a href="#contatti" data-i18n="nav.contatti">Kontakt</a>
   </div>
   <div class="mob-lang" id="mobLang">
-    <button data-lang="it" class=""><b>IT</b><span>Italiano</span></button>
+    <button data-lang="it"><b>IT</b><span>Italiano</span></button>
     <button data-lang="en"><b>EN</b><span>English</span></button>
     <button data-lang="de" class="sel"><b>DE</b><span>Deutsch</span></button>
   </div>
@@ -1319,7 +1347,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     </div>
     <div class="filters" data-rv="up" id="pfFilters" style="transition-delay: 0ms;"><button class="on" data-f="all">Alle</button><button class="" data-f="web">Websites &amp; Shops</button><button class="" data-f="app">Apps</button><button class="" data-f="gest">Warenwirtschaft</button><button class="" data-f="ads">Ads &amp; SEO</button></div>
     <div class="pf-grid" id="pfGrid"><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 0ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-05.webp" alt="Progetto Danova Tech — Onlineshop für eine Produktmarke" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="../assets/img/dt-05.webp" alt="Danova Tech Projekt — Onlineshop für eine Produktmarke" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1328,7 +1356,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>+184%</b><small>Online-Umsatz</small></div><div><b>1.2s</b><small>Ladezeit</small></div></div>
       </div>
     </article><article class="card pf" data-c="gest" data-rv="up" data-tilt="" style="transition-delay: 90ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-02.webp" alt="Progetto Danova Tech — Individuelles Unternehmenssystem" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="../assets/img/dt-02.webp" alt="Danova Tech Projekt — Individuelles Unternehmenssystem" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1337,16 +1365,16 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>-11h</b><small>Pro Woche gespart</small></div><div><b>4</b><small>Ersetzte Programme</small></div></div>
       </div>
     </article><article class="card pf" data-c="app" data-rv="up" data-tilt="" style="transition-delay: 180ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-11.webp" alt="Progetto Danova Tech — Treue- und Buchungs-App" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="../assets/img/dt-11.webp" alt="Danova Tech Projekt — Treue- und Buchungs-App" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
       <div class="body">
-        <span class="tag">Mobile App</span><h3>Treue- und Buchungs-App</h3><p>iOS- und Android-App mit Punktesammeln, Push-Benachrichtigungen und Echtzeit-Buchung.</p>
+        <span class="tag">Mobile Apps</span><h3>Treue- und Buchungs-App</h3><p>iOS- und Android-App mit Punktesammeln, Push-Benachrichtigungen und Echtzeit-Buchung.</p>
         <div class="kpi"><div><b>8.400</b><small>Aktive Nutzer</small></div><div><b>+37%</b><small>Wiederkehrende Kunden</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 270ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-08.webp" alt="Progetto Danova Tech — Lokale Leadgenerierungs-Kampagne" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="../assets/img/dt-08.webp" alt="Danova Tech Projekt — Lokale Leadgenerierungs-Kampagne" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1355,7 +1383,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>€4,10</b><small>Kosten pro Lead</small></div><div><b>x5,8</b><small>Durchschnittlicher ROAS</small></div></div>
       </div>
     </article><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 360ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-03.webp" alt="Progetto Danova Tech — Unternehmensseite für eine Kanzlei" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="../assets/img/dt-03.webp" alt="Danova Tech Projekt — Unternehmensseite für eine Kanzlei" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1364,7 +1392,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>+220%</b><small>Kontaktanfragen</small></div><div><b>100</b><small>Performance-Score</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 450ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-09.webp" alt="Progetto Danova Tech — Lokale Sichtbarkeit an mehreren Standorten" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="../assets/img/dt-09.webp" alt="Danova Tech Projekt — Lokale Sichtbarkeit an mehreren Standorten" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1421,11 +1449,11 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   <div class="wrap" style="max-width:900px">
     <div class="eyebrow mono" data-scramble="" data-i18n="dicono.eyebrow">Was Kunden sagen</div>
     <div class="tst" id="tst">
-    <div class="q on">
+    <div class="q">
       <blockquote>“Unsere Seite stand seit sechs Jahren still. In drei Wochen bekamen wir etwas, das endlich zu uns passt — und das täglich Anfragen bringt.”</blockquote>
       <div class="who"><div class="av">MR</div><div><b>Marco R.</b><small>Inhaber, Fensterbau</small></div></div>
     </div>
-    <div class="q ">
+    <div class="q on">
       <blockquote>“Das System, das sie gebaut haben, hat drei Excel-Dateien und zwei Notizbücher ersetzt. Das Lager stimmt jetzt immer.”</blockquote>
       <div class="who"><div class="av">SL</div><div><b>Sara L.</b><small>Leiterin Operations, Handel</small></div></div>
     </div>
@@ -1437,7 +1465,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       <blockquote>“Wir wollten eine App und hielten das für unerreichbar. Man hat uns eine kleinere Startversion vorgeschlagen: die richtige Entscheidung.”</blockquote>
       <div class="who"><div class="av">AP</div><div><b>Andrea P.</b><small>Gründer, Sportzentrum</small></div></div>
     </div></div>
-    <div class="tst-dots" id="tstDots"><i class="on" data-i="0"></i><i class="" data-i="1"></i><i class="" data-i="2"></i><i class="" data-i="3"></i></div>
+    <div class="tst-dots" id="tstDots"><i class="" data-i="0"></i><i class="on" data-i="1"></i><i class="" data-i="2"></i><i class="" data-i="3"></i></div>
   </div>
 </section>
 
@@ -1493,23 +1521,23 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
         <div>
           <form id="form" novalidate="">
-            <div class="fld"><input type="text" id="nome" placeholder=" " required="" autocomplete="name"><label for="nome" data-i18n="cta.f.nome">Nome e cognome</label></div>
+            <div class="fld"><input type="text" id="nome" placeholder=" " required="" autocomplete="name"><label for="nome" data-i18n="cta.f.nome">Vor- und Nachname</label></div>
             <div class="fld-tel">
-              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39" selected="">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Prefisso</label></div>
-              <div class="fld"><input type="tel" id="tel" placeholder=" " required="" inputmode="tel" autocomplete="tel-national" maxlength="18"><label for="tel" data-i18n="cta.f.tel">Telefono</label></div>
+              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39" selected="">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Vorwahl</label></div>
+              <div class="fld"><input type="tel" id="tel" placeholder=" " required="" inputmode="tel" autocomplete="tel-national" maxlength="18"><label for="tel" data-i18n="cta.f.tel">Telefon</label></div>
             </div>
-            <div class="fld-err" id="telErr" data-i18n="cta.f.telerr">Inserisci un numero di telefono valido.</div>
-            <div class="fld"><input type="text" id="azienda" placeholder=" " required="" autocomplete="organization"><label for="azienda" data-i18n="cta.f.azienda">Azienda / attività</label></div>
+            <div class="fld-err" id="telErr" data-i18n="cta.f.telerr">Bitte geben Sie eine gültige Telefonnummer ein.</div>
+            <div class="fld"><input type="text" id="azienda" placeholder=" " required="" autocomplete="organization"><label for="azienda" data-i18n="cta.f.azienda">Firma / Betrieb</label></div>
             <div class="fld">
-              <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Sito web / e-commerce</option><option>SEO e posizionamento</option><option>Meta Ads e campagne</option><option>App su misura</option><option>Gestionale / CRM</option><option>Software o automazione</option><option>Non lo so ancora, parliamone</option></select>
-              <label for="tipo" data-i18n="cta.f.tipo">Di cosa hai bisogno</label>
+              <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Website / Onlineshop</option><option>SEO und Sichtbarkeit</option><option>Meta Ads und Kampagnen</option><option>Individuelle Apps</option><option>Warenwirtschaft / CRM</option><option>Software oder Automatisierung</option><option>Noch unklar, sprechen wir</option></select>
+              <label for="tipo" data-i18n="cta.f.tipo">Was brauchen Sie</label>
             </div>
-            <div class="fld"><input type="email" id="email" placeholder=" " autocomplete="email"><label for="email" data-i18n="cta.f.email">Email (facoltativa)</label></div>
-            <div class="fld-err" id="emailErr" data-i18n="cta.f.emailerr">Inserisci un indirizzo email valido oppure lascia il campo vuoto.</div>
-            <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Invia su WhatsApp</span>
+            <div class="fld"><input type="email" id="email" placeholder=" " autocomplete="email"><label for="email" data-i18n="cta.f.email">E-Mail (optional)</label></div>
+            <div class="fld-err" id="emailErr" data-i18n="cta.f.emailerr">Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer.</div>
+            <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Per WhatsApp senden</span>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button>
-            <div class="ok" id="ok" data-i18n="cta.f.ok">Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.</div>
-            <p class="form-note" data-i18n="cta.f.note">Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.</p>
+            <div class="ok" id="ok" data-i18n="cta.f.ok">Fertig! WhatsApp öffnet sich mit Ihrer vorbereiteten Anfrage — einfach absenden.</div>
+            <p class="form-note" data-i18n="cta.f.note">Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.</p>
           </form>
         </div>
       </div>
@@ -2263,7 +2291,7 @@ const T=()=>window.I18N[LANG];
 document.documentElement.classList.remove('no-js');
 
 /* URL delle tre versioni linguistiche (aggiornate dal cambio lingua) */
-const LANG_URL={it:'../',en:'../en/',de:'./'};
+const LANG_URL={it:'./',en:'en/',de:'de/'};
 const LANG_ABS={it:'https://danova-tech.com/',en:'https://danova-tech.com/en/',de:'https://danova-tech.com/de/'};
 function syncLangUrl(){
   try{
@@ -2334,15 +2362,20 @@ addEventListener('load',()=>{PRE_LOADED=true;});
 requestAnimationFrame(()=>pre.classList.add('go'));
 
 const PRE_T0=performance.now();
+/* Durata dell'intro. Tenerla bassa e' decisivo per il punteggio Core Web Vitals
+   di Google (LCP): la pagina non e' "vista" finche' il velo non sparisce.
+   PRE_MIN = quanto dura l'animazione, PRE_MAX = attesa massima se le immagini
+   sono lente. Alzarli peggiora il punteggio, abbassarli lo migliora. */
+const PRE_MIN = RM ? 350 : 1100, PRE_MAX = 1900;
 setTimeout(function waitPre(){
-  if(!PRE_LOADED && performance.now()-PRE_T0 < 5200){ setTimeout(waitPre,120); return; }
+  if(!PRE_LOADED && performance.now()-PRE_T0 < PRE_MAX){ setTimeout(waitPre,80); return; }
   finishPre();
-}, RM ? 500 : 3150);
+}, PRE_MIN);
 
 function finishPre(){
   if(pre.classList.contains('out')) return;
   pre.classList.add('out');
-  setTimeout(()=>{pre.classList.add('done');document.body.style.overflow='';startHero();},520);
+  setTimeout(()=>{pre.classList.add('done');document.body.style.overflow='';startHero();},380);
 }
 
 /* =========================================================
@@ -2685,7 +2718,7 @@ function render(){
   $('#pfGrid').innerHTML=t.lavori.items.map((pj,i)=>{
     const m=PF_META[i];
     return `<article class="card pf" data-c="${m.c}" data-rv="up" data-tilt><i class="edge"></i>
-      <div class="pic"><img src="${m.img}" alt="Progetto Danova Tech — ${pj.t}" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="${m.img}" alt="Danova Tech Projekt — ${pj.t}" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">${t.lavori.go}
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"/></svg></span></div>
       </div>
