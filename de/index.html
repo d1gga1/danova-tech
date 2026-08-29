@@ -548,6 +548,11 @@ form{display:grid;gap:14px}
   top:6px;font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--blue-2)}
 .fld select{appearance:none;color:var(--text);padding-top:22px}
 .fld select option{background:#05070e}
+.fld-tel{display:grid;grid-template-columns:124px 1fr;gap:10px}
+@media (max-width:420px){.fld-tel{grid-template-columns:108px 1fr}}
+.fld-err{display:none;font-size:12px;color:#ff8b98;margin-top:-6px}
+.fld-err.on{display:block;animation:okin .4s var(--ease)}
+.fld input.bad,.fld select.bad{border-color:#ff5a6e}
 .form-note{font-size:12px;color:var(--muted-2)}
 .ok{display:none;padding:16px;border:1px solid rgba(56,224,138,.4);background:rgba(56,224,138,.08);border-radius:13px;
   color:#8ff0bd;font-size:14px}
@@ -1488,14 +1493,19 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
         <div>
           <form id="form" novalidate="">
-            <div class="fld"><input type="text" id="nome" placeholder=" " required=""><label for="nome" data-i18n="cta.f.nome">Nome e cognome</label></div>
-            <div class="fld"><input type="tel" id="tel" placeholder=" " required=""><label for="tel" data-i18n="cta.f.tel">Telefono</label></div>
-            <div class="fld"><input type="text" id="azienda" placeholder=" " required=""><label for="azienda" data-i18n="cta.f.azienda">Azienda / attività</label></div>
+            <div class="fld"><input type="text" id="nome" placeholder=" " required="" autocomplete="name"><label for="nome" data-i18n="cta.f.nome">Nome e cognome</label></div>
+            <div class="fld-tel">
+              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39" selected="">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Prefisso</label></div>
+              <div class="fld"><input type="tel" id="tel" placeholder=" " required="" inputmode="tel" autocomplete="tel-national" maxlength="18"><label for="tel" data-i18n="cta.f.tel">Telefono</label></div>
+            </div>
+            <div class="fld-err" id="telErr" data-i18n="cta.f.telerr">Inserisci un numero di telefono valido.</div>
+            <div class="fld"><input type="text" id="azienda" placeholder=" " required="" autocomplete="organization"><label for="azienda" data-i18n="cta.f.azienda">Azienda / attività</label></div>
             <div class="fld">
               <select id="tipo" required=""><option value="" disabled="" selected="" hidden=""></option><option>Sito web / e-commerce</option><option>SEO e posizionamento</option><option>Meta Ads e campagne</option><option>App su misura</option><option>Gestionale / CRM</option><option>Software o automazione</option><option>Non lo so ancora, parliamone</option></select>
               <label for="tipo" data-i18n="cta.f.tipo">Di cosa hai bisogno</label>
             </div>
-            <div class="fld"><input type="email" id="email" placeholder=" "><label for="email" data-i18n="cta.f.email">Email (facoltativa)</label></div>
+            <div class="fld"><input type="email" id="email" placeholder=" " autocomplete="email"><label for="email" data-i18n="cta.f.email">Email (facoltativa)</label></div>
+            <div class="fld-err" id="emailErr" data-i18n="cta.f.emailerr">Inserisci un indirizzo email valido oppure lascia il campo vuoto.</div>
             <button type="submit" class="btn btn-p" style="justify-content:center" data-mag=""><span class="sheen"></span><span class="lbl" data-i18n="cta.f.send">Invia su WhatsApp</span>
               <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button>
             <div class="ok" id="ok" data-i18n="cta.f.ok">Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.</div>
@@ -1659,7 +1669,7 @@ it:{
     lead:'Prima call gratuita e senza impegno. Ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".',
     list:['Risposta entro 24 ore lavorative','Preventivo chiaro e a prezzo fisso','Nessun vincolo di permanenza'],
     wa:'Scrivici su WhatsApp',
-    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia su WhatsApp',
+    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia su WhatsApp',pref:'Prefisso',telerr:'Inserisci un numero di telefono valido.',emailerr:'Inserisci un indirizzo email valido oppure lascia il campo vuoto.',
        ok:'Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.',
        note:'Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.',
        opts:['Sito web / e-commerce','SEO e posizionamento','Meta Ads e campagne','App su misura','Gestionale / CRM','Software o automazione','Non lo so ancora, parliamone'],
@@ -1881,7 +1891,7 @@ en:{
     lead:'First call is free and with no obligation. We\'ll tell you honestly whether we can help, what it costs and how long it takes. Even if the answer is "no".',
     list:['Reply within 24 business hours','Clear, fixed-price quote','No lock-in contracts'],
     wa:'Message us on WhatsApp',
-    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Send on WhatsApp',
+    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Send on WhatsApp',pref:'Code',telerr:'Please enter a valid phone number.',emailerr:'Please enter a valid email address or leave the field empty.',
        ok:'All set! WhatsApp opens with your request ready to go — just hit send.',
        note:'By submitting you agree to be contacted. We never share your data with anyone.',
        opts:['Website / e-commerce','SEO and search visibility','Meta Ads and campaigns','Custom app','ERP / CRM system','Software or automation','Not sure yet, let\'s talk'],
@@ -2103,7 +2113,7 @@ de:{
     lead:'Erstgespräch kostenlos und unverbindlich. Wir sagen ehrlich, ob wir helfen können, was es kostet und wie lange es dauert. Auch wenn die Antwort „nein" ist.',
     list:['Antwort innerhalb von 24 Werkstunden','Klares Angebot zum Festpreis','Keine Mindestlaufzeit'],
     wa:'Schreiben Sie uns auf WhatsApp',
-    f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Per WhatsApp senden',
+    f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Per WhatsApp senden',pref:'Vorwahl',telerr:'Bitte geben Sie eine gültige Telefonnummer ein.',emailerr:'Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer.',
        ok:'Fertig! WhatsApp öffnet sich mit Ihrer vorbereiteten Anfrage — einfach absenden.',
        note:'Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.',
        opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung','Noch unklar, sprechen wir'],
@@ -2805,29 +2815,68 @@ function bindFaq(){
 /* =========================================================
    18. FORM
    ========================================================= */
+/* --- validazione telefono --- */
+const TEL_LEN={'+39':[9,11],'+41':[9,9],'+49':[9,12],'+43':[9,13],'+33':[9,9],'+34':[9,9],
+  '+44':[9,10],'+31':[9,9],'+32':[8,9],'+351':[9,9],'+353':[7,9],'+1':[10,10],'+7':[10,10],
+  '+30':[10,10],'+48':[9,9],'+420':[9,9],'+45':[8,8],'+46':[7,10],'+47':[8,8],'+358':[6,10]};
+function telParts(){
+  const pref=($('#pref')||{}).value||'+39';
+  let d=(($('#tel')||{}).value||'').replace(/\D/g,'');
+  if(pref!=='+39') d=d.replace(/^0+/,'');          // tolgo lo zero interurbano (in IT fa parte del numero)
+  return {pref,d};
+}
+function telOk(){
+  const {pref,d}=telParts();
+  if(!d) return false;
+  if(/^(\d)\1+$/.test(d)) return false;             // cifre tutte uguali
+  const r=TEL_LEN[pref]||[6,14];
+  if(d.length<r[0]||d.length>r[1]) return false;
+  const tot=pref.replace(/\D/g,'').length+d.length;
+  return tot>=8&&tot<=15;
+}
+function mailOk(){
+  const v=(($('#email')||{}).value||'').trim();
+  return !v || /^[^\s@]+@[^\s@]+\.[a-z]{2,}$/i.test(v);
+}
+(function(){
+  const t=$('#tel'), e=$('#email'), p=$('#pref');
+  if(t){
+    t.addEventListener('input',()=>{                // solo caratteri plausibili
+      const c=t.value.replace(/[^\d\s().\/-]/g,'');
+      if(c!==t.value) t.value=c;
+      t.classList.remove('bad'); $('#telErr').classList.remove('on');
+    });
+    t.addEventListener('blur',()=>{ if(t.value.trim()&&!telOk()){ t.classList.add('bad'); $('#telErr').classList.add('on'); } });
+  }
+  if(p) p.addEventListener('change',()=>{ t.classList.remove('bad'); $('#telErr').classList.remove('on'); });
+  if(e){
+    e.addEventListener('input',()=>{ e.classList.remove('bad'); $('#emailErr').classList.remove('on'); });
+    e.addEventListener('blur',()=>{ if(!mailOk()){ e.classList.add('bad'); $('#emailErr').classList.add('on'); } });
+  }
+})();
+
 $('#form').addEventListener('submit',e=>{
   e.preventDefault();
-  const g=id=>(($('#'+id)||{}).value||'').trim();
-  const REQ=['nome','tel','azienda','tipo'];
-  const missing=REQ.filter(id=>!g(id));
-  if(missing.length){
-    missing.forEach(id=>{
-      const el=$('#'+id);
-      if(!el) return;
-      el.style.borderColor='#ff5a6e';
-      el.animate([{transform:'translateX(0)'},{transform:'translateX(-7px)'},{transform:'translateX(7px)'},{transform:'translateX(0)'}],{duration:300});
-      setTimeout(()=>el.style.borderColor='',1600);
-    });
-    const first=$('#'+missing[0]);
-    if(first&&first.focus) first.focus();
-    return;
-  }
-  const f=T().cta.f;
+  const g=id=>((($('#'+id)||{}).value)||'').trim();
+  const shake=el=>{
+    if(!el) return;
+    el.classList.add('bad');
+    el.animate([{transform:'translateX(0)'},{transform:'translateX(-7px)'},{transform:'translateX(7px)'},{transform:'translateX(0)'}],{duration:300});
+  };
+  let first=null;
+  ['nome','azienda','tipo'].forEach(id=>{ if(!g(id)){ shake($('#'+id)); first=first||$('#'+id); } });
+  if(!telOk()){ shake($('#tel')); $('#telErr').classList.add('on'); first=first||$('#tel'); }
+  else { $('#tel').classList.remove('bad'); $('#telErr').classList.remove('on'); }
+  if(!mailOk()){ shake($('#email')); $('#emailErr').classList.add('on'); first=first||$('#email'); }
+  else { $('#email').classList.remove('bad'); $('#emailErr').classList.remove('on'); }
+  if(first){ if(first.focus) first.focus(); return; }
+
+  const f=T().cta.f, tp=telParts();
   const lines=[
     f.subj,
     '',
     f.nome+': '+g('nome'),
-    f.tel+': '+g('tel'),
+    f.tel+': '+tp.pref+' '+tp.d,
     f.azienda+': '+g('azienda'),
     f.tipo+': '+g('tipo')
   ];
