@@ -898,7 +898,6 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
      ]
     }
    ],
-   "sameAs": [],
    "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "Services",
@@ -1188,6 +1187,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       <a href="#settori" data-i18n="nav.settori">Who we serve</a>
       <a href="#lavori" data-i18n="nav.lavori">Work</a>
       <a href="#processo" data-i18n="nav.processo">Process</a>
+      <a href="/en/about/" data-about data-i18n="nav.chisiamo">About us</a>
       <a href="#faq" data-i18n="nav.faq">FAQ</a>
     </nav>
     <div class="nav-r">
@@ -1225,6 +1225,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <a href="#settori" data-i18n="nav.settori">Who we serve</a>
     <a href="#lavori" data-i18n="nav.lavori">Work</a>
     <a href="#processo" data-i18n="nav.processo">Process</a>
+    <a href="/en/about/" data-about data-i18n="nav.chisiamo">About us</a>
     <a href="#faq" data-i18n="nav.faq">FAQ</a>
     <a href="#contatti" data-i18n="nav.contatti">Contact</a>
   </div>
@@ -1593,8 +1594,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       <div><h5 data-i18n="footer.h3">Contact</h5><ul>
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
         <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
-        <li><a href="#">Instagram</a></li>
-        <li><a href="#">LinkedIn</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
       </ul></div>
     </div>
     <div class="f-bot">
@@ -1635,7 +1635,7 @@ window.I18N = {
 /* ============================ ITALIANO ============================ */
 it:{
   code:'IT', name:'Italiano', htmlLang:'it',
-  nav:{servizi:'Servizi',settori:'Per chi',lavori:'Esempi',processo:'Processo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
+  nav:{servizi:'Servizi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
   hero:{
     l1:'Costruiamo', l2:'tecnologia che',
     rot:['converte.','vende.','fa risparmiare.','fa crescere.','semplifica.'],
@@ -1740,7 +1740,7 @@ it:{
     tagline:'Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.',
     h1:'Servizi',h2:'Agenzia',h3:'Contatti',
     c1:['Siti web & E-commerce','SEO','Meta Ads','App su misura','Gestionali & CRM','Software e automazioni'],
-    c2:['Per chi lavoriamo','Esempi di progetti','Il nostro metodo','FAQ','Contatti'],
+    c2:['Per chi lavoriamo','Esempi di progetti','Il nostro metodo','Chi siamo','FAQ','Contatti'],
     legal:'Privacy Policy · Cookie Policy · Termini'
   },
   legal:{
@@ -1859,7 +1859,7 @@ it:{
 /* ============================ ENGLISH ============================ */
 en:{
   code:'EN', name:'English', htmlLang:'en',
-  nav:{servizi:'Services',settori:'Who we serve',lavori:'Work',processo:'Process',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
+  nav:{servizi:'Services',settori:'Who we serve',lavori:'Work',processo:'Process',chisiamo:'About us',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
   hero:{
     l1:'We build', l2:'technology that',
     rot:['converts.','sells.','saves time.','scales.','simplifies.'],
@@ -1964,7 +1964,7 @@ en:{
     tagline:'A tech agency that designs, builds and grows the digital presence of ambitious businesses.',
     h1:'Services',h2:'Agency',h3:'Contact',
     c1:['Websites & E-commerce','SEO','Meta Ads','Custom apps','ERP & CRM','Software and automation'],
-    c2:['Who we serve','Selected work','Our method','FAQ','Contact'],
+    c2:['Who we serve','Selected work','Our method','About us','FAQ','Contact'],
     legal:'Privacy Policy · Cookie Policy · Terms'
   },
   legal:{
@@ -2083,7 +2083,7 @@ en:{
 /* ============================ DEUTSCH ============================ */
 de:{
   code:'DE', name:'Deutsch', htmlLang:'de',
-  nav:{servizi:'Leistungen',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
+  nav:{servizi:'Leistungen',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
   hero:{
     l1:'Wir bauen', l2:'Technologie, die',
     rot:['konvertiert.','verkauft.','Zeit spart.','wachsen lässt.','vereinfacht.'],
@@ -2188,7 +2188,7 @@ de:{
     tagline:'Tech-Agentur, die die digitale Präsenz ambitionierter Unternehmen plant, entwickelt und wachsen lässt.',
     h1:'Leistungen',h2:'Agentur',h3:'Kontakt',
     c1:['Websites & E-Commerce','SEO','Meta Ads','Individuelle Apps','Warenwirtschaft & CRM','Software und Automatisierung'],
-    c2:['Für wen wir arbeiten','Ausgewählte Projekte','Unsere Methode','FAQ','Kontakt'],
+    c2:['Für wen wir arbeiten','Ausgewählte Projekte','Unsere Methode','Über uns','FAQ','Kontakt'],
     legal:'Datenschutz · Cookie-Richtlinie · AGB'
   },
   legal:{
@@ -2814,7 +2814,9 @@ function render(){
 
   /* --- footer --- */
   $('#fc1').innerHTML=t.footer.c1.map((x,i)=>`<li><a href="${srvUrl(i)}">${x}</a></li>`).join('');
-  const anch=['#settori','#lavori','#processo','#faq','#contatti'];
+  const ABOUT_URL={it:'/chi-siamo/',en:'/en/about/',de:'/de/ueber-uns/'};
+  $$('[data-about]').forEach(a=>a.href=ABOUT_URL[LANG]);
+  const anch=['#settori','#lavori','#processo',ABOUT_URL[LANG],'#faq','#contatti'];
   $('#fc2').innerHTML=t.footer.c2.map((x,i)=>`<li><a href="${anch[i]}">${x}</a></li>`).join('');
 
   /* --- link legali nel footer --- */

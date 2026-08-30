@@ -582,6 +582,17 @@ footer{border-top:1px solid var(--line);padding:64px 0 34px;position:relative;ov
 .f-top{display:grid;grid-template-columns:1.5fr 1fr 1fr 1fr;gap:40px}
 @media (max-width:860px){.f-top{grid-template-columns:1fr 1fr}}
 @media (max-width:520px){.f-top{grid-template-columns:1fr}}
+/* footer a 5 colonne quando c'e' il blocco "Dove operiamo" (solo italiano) */
+.f-top.z5{grid-template-columns:1.35fr repeat(4,1fr);gap:32px}
+@media (max-width:1100px){.f-top.z5{grid-template-columns:1fr 1fr 1fr;gap:36px}}
+@media (max-width:860px){.f-top.z5{grid-template-columns:1fr 1fr}}
+@media (max-width:520px){.f-top.z5{grid-template-columns:1fr}}
+/* schede "Dove operiamo" nella home */
+a.sect-zone{color:inherit;text-decoration:none}
+a.sect-zone .go{margin-top:15px;display:inline-flex;align-items:center;gap:7px;font-size:13px;color:var(--blue-2);font-weight:600}
+a.sect-zone:hover .go{gap:11px}
+a.sect-zone .go svg{transition:transform .4s var(--ease)}
+a.sect-zone:hover .go svg{transform:translateX(3px)}
 footer h5{font-family:'Sora',sans-serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#fff;margin-bottom:18px}
 footer ul{list-style:none;display:grid;gap:11px}
 footer li a{color:var(--muted);font-size:14px;transition:color .3s,padding-left .3s}
@@ -898,7 +909,6 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
      ]
     }
    ],
-   "sameAs": [],
    "hasOfferCatalog": {
     "@type": "OfferCatalog",
     "name": "Servizi",
@@ -1188,6 +1198,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       <a href="#settori" data-i18n="nav.settori">Per chi</a>
       <a href="#lavori" data-i18n="nav.lavori">Esempi</a>
       <a href="#processo" data-i18n="nav.processo">Processo</a>
+      <a href="/chi-siamo/" data-about data-i18n="nav.chisiamo">Chi siamo</a>
       <a href="#faq" data-i18n="nav.faq">FAQ</a>
     </nav>
     <div class="nav-r">
@@ -1225,6 +1236,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <a href="#settori" data-i18n="nav.settori">Per chi</a>
     <a href="#lavori" data-i18n="nav.lavori">Esempi</a>
     <a href="#processo" data-i18n="nav.processo">Processo</a>
+    <a href="/chi-siamo/" data-about data-i18n="nav.chisiamo">Chi siamo</a>
     <a href="#faq" data-i18n="nav.faq">FAQ</a>
     <a href="#contatti" data-i18n="nav.contatti">Contatti</a>
   </div>
@@ -1502,6 +1514,39 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   </div>
 </section>
 
+<!-- ===== DOVE OPERIAMO (solo IT) ===== -->
+<section id="zone">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble="">Dove operiamo</div>
+      <h2 class="title" data-rv="up" style="transition-delay: 0ms;">Vicini di casa,<br><span class="grad">non fornitori a distanza.</span></h2>
+      <p class="lead" data-rv="up" style="transition-delay: 90ms;">La sede &egrave; a Mans&ugrave;e, in provincia di Treviso. Lavoriamo da remoto in tutta Italia, ma su queste zone veniamo volentieri a vedere come lavori di persona: &egrave; il modo pi&ugrave; veloce per capire che gestionale ti serve davvero.</p>
+    </div>
+    <div class="sect-grid">
+      <a class="sect sect-zone" href="gestionali-su-misura-veneto/" data-rv="up" data-tilt="" style="transition-delay: 0ms;">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
+        <h4>Veneto</h4><p>Software gestionale su misura per le aziende venete, dalla produzione al commercio all&rsquo;ingrosso.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a>
+      <a class="sect sect-zone" href="gestionali-su-misura-treviso/" data-rv="up" data-tilt="" style="transition-delay: 90ms;">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
+        <h4>Treviso e provincia</h4><p>Siamo a Mans&ugrave;e: Oderzo, Conegliano, Motta di Livenza e il resto della Marca a mezz&rsquo;ora di strada.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a>
+      <a class="sect sect-zone" href="gestionali-su-misura-pordenone/" data-rv="up" data-tilt="" style="transition-delay: 180ms;">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
+        <h4>Pordenone e provincia</h4><p>Il Friuli occidentale &egrave; a venti minuti dalla nostra sede: incontri in azienda senza trasferte lunghe.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a>
+      <a class="sect sect-zone" href="gestionali-su-misura-venezia-mestre/" data-rv="up" data-tilt="" style="transition-delay: 270ms;">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
+        <h4>Venezia e Mestre</h4><p>Gestionali e CRM per le attivit&agrave; del veneziano, dalla terraferma al centro storico.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a>
+    </div>
+  </div>
+</section>
+
 <!-- ===== FAQ ===== -->
 <section id="faq">
   <div class="wrap">
@@ -1583,18 +1628,23 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <!-- ===== FOOTER ===== -->
 <footer>
   <div class="wrap">
-    <div class="f-top">
+    <div class="f-top z5" id="fTop">
       <div class="fb">
         <span class="brand"><img width="160" height="160" src="assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
         <p data-i18n="footer.tagline">Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
       </div>
       <div><h5 data-i18n="footer.h1">Servizi</h5><ul id="fc1"><li><a href="servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li><li><a href="servizi/seo/">SEO</a></li><li><a href="servizi/meta-ads/">Meta Ads</a></li><li><a href="servizi/app-su-misura/">App su misura</a></li><li><a href="servizi/gestionali-crm/">Gestionali &amp; CRM</a></li><li><a href="servizi/software-automazioni/">Software e automazioni</a></li></ul></div>
       <div><h5 data-i18n="footer.h2">Agenzia</h5><ul id="fc2"><li><a href="#settori">Per chi lavoriamo</a></li><li><a href="#lavori">Esempi di progetti</a></li><li><a href="#processo">Il nostro metodo</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contatti">Contatti</a></li></ul></div>
+      <div id="fcZone"><h5>Dove operiamo</h5><ul>
+        <li><a href="gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="gestionali-su-misura-pordenone/">Gestionali a Pordenone</a></li>
+        <li><a href="gestionali-su-misura-venezia-mestre/">Gestionali a Venezia e Mestre</a></li>
+      </ul></div>
       <div><h5 data-i18n="footer.h3">Contatti</h5><ul>
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
         <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
-        <li><a href="#">Instagram</a></li>
-        <li><a href="#">LinkedIn</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
       </ul></div>
     </div>
     <div class="f-bot">
@@ -1635,7 +1685,7 @@ window.I18N = {
 /* ============================ ITALIANO ============================ */
 it:{
   code:'IT', name:'Italiano', htmlLang:'it',
-  nav:{servizi:'Servizi',settori:'Per chi',lavori:'Esempi',processo:'Processo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
+  nav:{servizi:'Servizi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
   hero:{
     l1:'Costruiamo', l2:'tecnologia che',
     rot:['converte.','vende.','fa risparmiare.','fa crescere.','semplifica.'],
@@ -1740,7 +1790,7 @@ it:{
     tagline:'Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.',
     h1:'Servizi',h2:'Agenzia',h3:'Contatti',
     c1:['Siti web & E-commerce','SEO','Meta Ads','App su misura','Gestionali & CRM','Software e automazioni'],
-    c2:['Per chi lavoriamo','Esempi di progetti','Il nostro metodo','FAQ','Contatti'],
+    c2:['Per chi lavoriamo','Esempi di progetti','Il nostro metodo','Chi siamo','FAQ','Contatti'],
     legal:'Privacy Policy · Cookie Policy · Termini'
   },
   legal:{
@@ -1859,7 +1909,7 @@ it:{
 /* ============================ ENGLISH ============================ */
 en:{
   code:'EN', name:'English', htmlLang:'en',
-  nav:{servizi:'Services',settori:'Who we serve',lavori:'Work',processo:'Process',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
+  nav:{servizi:'Services',settori:'Who we serve',lavori:'Work',processo:'Process',chisiamo:'About us',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
   hero:{
     l1:'We build', l2:'technology that',
     rot:['converts.','sells.','saves time.','scales.','simplifies.'],
@@ -1964,7 +2014,7 @@ en:{
     tagline:'A tech agency that designs, builds and grows the digital presence of ambitious businesses.',
     h1:'Services',h2:'Agency',h3:'Contact',
     c1:['Websites & E-commerce','SEO','Meta Ads','Custom apps','ERP & CRM','Software and automation'],
-    c2:['Who we serve','Selected work','Our method','FAQ','Contact'],
+    c2:['Who we serve','Selected work','Our method','About us','FAQ','Contact'],
     legal:'Privacy Policy · Cookie Policy · Terms'
   },
   legal:{
@@ -2083,7 +2133,7 @@ en:{
 /* ============================ DEUTSCH ============================ */
 de:{
   code:'DE', name:'Deutsch', htmlLang:'de',
-  nav:{servizi:'Leistungen',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
+  nav:{servizi:'Leistungen',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
   hero:{
     l1:'Wir bauen', l2:'Technologie, die',
     rot:['konvertiert.','verkauft.','Zeit spart.','wachsen lässt.','vereinfacht.'],
@@ -2188,7 +2238,7 @@ de:{
     tagline:'Tech-Agentur, die die digitale Präsenz ambitionierter Unternehmen plant, entwickelt und wachsen lässt.',
     h1:'Leistungen',h2:'Agentur',h3:'Kontakt',
     c1:['Websites & E-Commerce','SEO','Meta Ads','Individuelle Apps','Warenwirtschaft & CRM','Software und Automatisierung'],
-    c2:['Für wen wir arbeiten','Ausgewählte Projekte','Unsere Methode','FAQ','Kontakt'],
+    c2:['Für wen wir arbeiten','Ausgewählte Projekte','Unsere Methode','Über uns','FAQ','Kontakt'],
     legal:'Datenschutz · Cookie-Richtlinie · AGB'
   },
   legal:{
@@ -2814,8 +2864,16 @@ function render(){
 
   /* --- footer --- */
   $('#fc1').innerHTML=t.footer.c1.map((x,i)=>`<li><a href="${srvUrl(i)}">${x}</a></li>`).join('');
-  const anch=['#settori','#lavori','#processo','#faq','#contatti'];
+  const ABOUT_URL={it:'/chi-siamo/',en:'/en/about/',de:'/de/ueber-uns/'};
+  $$('[data-about]').forEach(a=>a.href=ABOUT_URL[LANG]);
+  const anch=['#settori','#lavori','#processo',ABOUT_URL[LANG],'#faq','#contatti'];
   $('#fc2').innerHTML=t.footer.c2.map((x,i)=>`<li><a href="${anch[i]}">${x}</a></li>`).join('');
+
+  /* --- blocco "Dove operiamo": pagine solo in italiano, quindi visibile solo in IT --- */
+  const IT=(LANG==='it'), ZN=$('#zone'), FZ=$('#fcZone'), FT=$('#fTop');
+  if(ZN) ZN.style.display=IT?'':'none';
+  if(FZ) FZ.style.display=IT?'':'none';
+  if(FT) FT.classList.toggle('z5',IT);
 
   /* --- link legali nel footer --- */
   $('#fLegal').innerHTML=t.legal.nav.map((x,i)=>
