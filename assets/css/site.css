@@ -524,6 +524,10 @@ footer{border-top:1px solid var(--line);padding:64px 0 34px;position:relative;ov
 @media (max-width:1100px){.f-top.z5{grid-template-columns:1fr 1fr 1fr;gap:36px}}
 @media (max-width:860px){.f-top.z5{grid-template-columns:1fr 1fr}}
 @media (max-width:520px){.f-top.z5{grid-template-columns:1fr}}
+footer li.f-italia{color:var(--muted-2);font-size:12.5px;line-height:1.55;padding-top:12px;margin-top:3px;border-top:1px solid var(--line)}
+footer li.f-italia b{display:block;color:var(--muted);font-size:14px;font-weight:600;margin-bottom:4px}
+.zone-note{margin-top:26px;max-width:72ch;margin-inline:auto;text-align:center;color:var(--muted);font-size:14.5px;line-height:1.6}
+.zone-note b{color:#fff;font-weight:600}
 footer h5{font-family:'Sora',sans-serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#fff;margin-bottom:18px}
 footer ul{list-style:none;display:grid;gap:11px}
 footer li a{color:var(--muted);font-size:14px;transition:color .3s,padding-left .3s}
