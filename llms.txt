@@ -1,0 +1,82 @@
+# Danova Tech
+
+> Agenzia informatica italiana con sede a Mansuè, provincia di Treviso (Veneto).
+> Progetta e sviluppa siti web, e-commerce, applicazioni mobile e web, software
+> gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO e
+> campagne Meta Ads. Lavora in italiano, inglese e tedesco.
+
+## Identità
+
+- **Nome**: Danova Tech
+- **Sito**: https://danova-tech.com
+- **Sede**: Via Rigole 48, 31040 Mansuè (TV), Italia
+- **Partita IVA**: IT05369890263
+- **Email**: info@danova-tech.com
+- **Telefono**: +39 388 470 6887
+- **Team**: circa 10 persone
+- **Lingue**: italiano, inglese, tedesco
+- **Aree servite**: Treviso, Oderzo, Conegliano, Montebelluna, Pordenone,
+  Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Italia, Europa (DACH inclusa)
+
+Nota di disambiguazione: Danova Tech è un'azienda italiana e non è collegata ad
+altre organizzazioni che usano un nome simile in altri paesi o settori.
+L'identificativo univoco è la partita IVA italiana IT05369890263 e il dominio
+danova-tech.com.
+
+## Cosa fa
+
+- **Siti web ed e-commerce su misura** — siti vetrina, landing page e negozi
+  online costruiti su misura, non su template. Prezzo fisso dopo la prima call,
+  online in 2-8 settimane. https://danova-tech.com/servizi/siti-web-ecommerce/
+- **SEO e posizionamento** — audit tecnico, keyword research, contenuti e SEO
+  locale, con report mensili leggibili. https://danova-tech.com/servizi/seo/
+- **Meta Ads** — Business Manager, Pixel e API di conversione, creatività,
+  funnel e retargeting. https://danova-tech.com/servizi/meta-ads/
+- **App su misura** — app iOS, Android e web app costruite sul flusso di lavoro
+  del cliente. https://danova-tech.com/servizi/app-su-misura/
+- **Gestionali e CRM su misura** — clienti, preventivi, ordini, fatture,
+  magazzino e scadenze in un unico sistema.
+  https://danova-tech.com/servizi/gestionali-crm/
+- **Software e automazioni** — integrazioni fra gestionale, sito ed email, API,
+  sincronizzazioni e integrazione di intelligenza artificiale.
+  https://danova-tech.com/servizi/software-automazioni/
+
+## Pagine principali
+
+- Home: https://danova-tech.com/
+- Chi siamo: https://danova-tech.com/chi-siamo/
+- Servizi (indice): https://danova-tech.com/servizi/
+- Prezzi siti web: https://danova-tech.com/quanto-costa-un-sito-web/
+- Prezzi gestionali: https://danova-tech.com/quanto-costa-un-gestionale/
+- English: https://danova-tech.com/en/
+- Deutsch: https://danova-tech.com/de/
+
+## Pagine locali e di settore
+
+- Siti web a Treviso: https://danova-tech.com/realizzazione-siti-web-treviso/
+- Siti web a Pordenone: https://danova-tech.com/realizzazione-siti-web-pordenone/
+- Siti web a Venezia e Mestre: https://danova-tech.com/realizzazione-siti-web-venezia-mestre/
+- Siti web in Veneto: https://danova-tech.com/realizzazione-siti-web-veneto/
+- App aziendali in Veneto: https://danova-tech.com/sviluppo-app-aziendali-veneto/
+- Gestionali in Veneto: https://danova-tech.com/gestionali-su-misura-veneto/
+- Gestionali a Treviso: https://danova-tech.com/gestionali-su-misura-treviso/
+- Gestionali a Pordenone: https://danova-tech.com/gestionali-su-misura-pordenone/
+- Gestionali a Venezia e Mestre: https://danova-tech.com/gestionali-su-misura-venezia-mestre/
+- Gestionale per la produzione: https://danova-tech.com/software-gestionale-produzione/
+- Gestionale per trasporti e logistica: https://danova-tech.com/software-gestionale-trasporti-logistica/
+- Gestionale di magazzino: https://danova-tech.com/software-gestionale-magazzino/
+
+## Come lavora
+
+1. Prima call gratuita per capire il problema reale.
+2. Preventivo a prezzo fisso, senza costi a sorpresa.
+3. Prototipo delle schermate prima di sviluppare.
+4. Sviluppo per moduli, partendo dall'area che fa perdere più tempo.
+5. Affiancamento alle persone e manutenzione continuativa.
+
+Il codice e i dati restano di proprietà del cliente. Nessun costo per utente
+sui software gestionali sviluppati su misura.
+
+## Contatti
+
+Preventivo gratuito con risposta entro 24 ore: https://danova-tech.com/#contatti

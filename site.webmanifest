@@ -1,7 +1,8 @@
 {
-  "name": "Danova Tech",
+  "id": "/",
+  "name": "Danova Tech — agenzia informatica, siti web e software su misura",
   "short_name": "Danova Tech",
-  "description": "Siti web, e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura.",
+  "description": "Danova Tech, agenzia informatica di Mansuè (Treviso): siti web, e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -11,6 +12,7 @@
   "dir": "ltr",
   "categories": ["business", "productivity"],
   "icons": [
-    { "src": "/assets/img/logo.png", "sizes": "160x160", "type": "image/png", "purpose": "any" }
+    { "src": "/assets/img/logo.png", "sizes": "160x160", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/img/logo.png", "sizes": "160x160", "type": "image/png", "purpose": "maskable" }
   ]
 }
