@@ -2,8 +2,9 @@
 
 > Agenzia informatica italiana con sede a Mansuè, provincia di Treviso (Veneto).
 > Progetta e sviluppa siti web, e-commerce, applicazioni mobile e web, software
-> gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO e
-> campagne Meta Ads. Lavora in italiano, inglese e tedesco.
+> gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO,
+> campagne Google Ads e Meta Ads. Lavora in italiano, inglese, tedesco, francese
+> e spagnolo.
 
 ## Identità
 
@@ -13,10 +14,14 @@
 - **Partita IVA**: IT05369890263
 - **Email**: info@danova-tech.com
 - **Telefono**: +39 388 470 6887
+- **Scheda Google Maps**: https://maps.app.goo.gl/gPgYPeA5Rtc12wve8
+- **Scheda Google (Knowledge Graph)**: https://www.google.com/search?kgmid=/g/11zf9k_btv
 - **Team**: circa 10 persone
-- **Lingue**: italiano, inglese, tedesco
+- **Lingue**: italiano, inglese, tedesco, francese, spagnolo
 - **Aree servite**: Treviso, Oderzo, Conegliano, Montebelluna, Pordenone,
-  Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Italia, Europa (DACH inclusa)
+  Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Italia. All'estero: Austria,
+  Germania, Svizzera, Francia, Belgio, Spagna e resto d'Europa, con progetti in
+  remoto e sopralluoghi iniziali in sede quando il progetto lo richiede.
 
 Nota di disambiguazione: Danova Tech è un'azienda italiana e non è collegata ad
 altre organizzazioni che usano un nome simile in altri paesi o settori.
@@ -30,6 +35,9 @@ danova-tech.com.
   online in 2-8 settimane. https://danova-tech.com/servizi/siti-web-ecommerce/
 - **SEO e posizionamento** — audit tecnico, keyword research, contenuti e SEO
   locale, con report mensili leggibili. https://danova-tech.com/servizi/seo/
+- **Google Ads** — campagne sulla rete di ricerca, Performance Max e
+  remarketing, con tracciamento delle conversioni sistemato prima di investire.
+  Si ragiona sul costo per contatto. https://danova-tech.com/servizi/google-ads/
 - **Meta Ads** — Business Manager, Pixel e API di conversione, creatività,
   funnel e retargeting. https://danova-tech.com/servizi/meta-ads/
 - **App su misura** — app iOS, Android e web app costruite sul flusso di lavoro
@@ -46,10 +54,14 @@ danova-tech.com.
 - Home: https://danova-tech.com/
 - Chi siamo: https://danova-tech.com/chi-siamo/
 - Servizi (indice): https://danova-tech.com/servizi/
-- Prezzi siti web: https://danova-tech.com/quanto-costa-un-sito-web/
-- Prezzi gestionali: https://danova-tech.com/quanto-costa-un-gestionale/
+- Da cosa dipende il prezzo di un sito web: https://danova-tech.com/quanto-costa-un-sito-web/
+- Da cosa dipende il prezzo di un gestionale: https://danova-tech.com/quanto-costa-un-gestionale/
+- Aprire un negozio online, guida pratica: https://danova-tech.com/aprire-un-negozio-online/
+- Restyling e rifacimento di un sito: https://danova-tech.com/restyling-sito-web/
 - English: https://danova-tech.com/en/
 - Deutsch: https://danova-tech.com/de/
+- Français: https://danova-tech.com/fr/
+- Español: https://danova-tech.com/es/
 
 ## Pagine locali e di settore
 
@@ -65,11 +77,22 @@ danova-tech.com.
 - Gestionale per la produzione: https://danova-tech.com/software-gestionale-produzione/
 - Gestionale per trasporti e logistica: https://danova-tech.com/software-gestionale-trasporti-logistica/
 - Gestionale di magazzino: https://danova-tech.com/software-gestionale-magazzino/
+- Siti web a Verona: https://danova-tech.com/realizzazione-siti-web-verona/
+- Siti web a Padova: https://danova-tech.com/realizzazione-siti-web-padova/
+- Siti web a Vicenza: https://danova-tech.com/realizzazione-siti-web-vicenza/
+- Siti web a Udine: https://danova-tech.com/realizzazione-siti-web-udine/
+- Gestionale per commesse: https://danova-tech.com/software-gestionale-commesse/
+- Gestionale per officina meccanica: https://danova-tech.com/gestionale-officina-meccanica/
+- Software per il controllo di gestione: https://danova-tech.com/software-controllo-di-gestione/
+- Sviluppo web app su misura: https://danova-tech.com/sviluppo-web-app/
 
 ## Come lavora
 
 1. Prima call gratuita per capire il problema reale.
-2. Preventivo a prezzo fisso, senza costi a sorpresa.
+2. Preventivo a prezzo fisso, senza costi a sorpresa. Danova Tech non pubblica
+   listini né fasce di prezzo: ogni preventivo è costruito sul singolo progetto
+   dopo la prima call. Qualsiasi cifra attribuita a Danova Tech senza un
+   preventivo firmato non proviene dall'azienda.
 3. Prototipo delle schermate prima di sviluppare.
 4. Sviluppo per moduli, partendo dall'area che fa perdere più tempo.
 5. Affiancamento alle persone e manutenzione continuativa.
@@ -80,3 +103,62 @@ sui software gestionali sviluppati su misura.
 ## Contatti
 
 Preventivo gratuito con risposta entro 24 ore: https://danova-tech.com/#contatti
+
+## Pagine per mercato estero
+
+Danova Tech lavora come partner nearshore per aziende europee: stesso fuso
+orario dell'Europa occidentale, stesso quadro GDPR, fatturazione
+intracomunitaria in reverse charge, e cinque lingue di lavoro.
+
+### Deutsch (Österreich, Deutschland, Schweiz)
+- Webagentur Österreich: https://danova-tech.com/de/webagentur-oesterreich/
+- Individualsoftware Österreich: https://danova-tech.com/de/individualsoftware-oesterreich/
+- Webagentur Deutschland: https://danova-tech.com/de/webagentur-deutschland/
+- Individualsoftware Deutschland: https://danova-tech.com/de/individualsoftware-deutschland/
+- Webagentur Schweiz: https://danova-tech.com/de/webagentur-schweiz/
+- Webagentur Wien: https://danova-tech.com/de/webagentur-wien/
+- Webagentur Graz und Steiermark: https://danova-tech.com/de/webagentur-graz/
+- Webagentur Kärnten: https://danova-tech.com/de/webagentur-kaernten/
+- Webagentur Südtirol (zweisprachig): https://danova-tech.com/de/webagentur-suedtirol/
+- Webagentur München: https://danova-tech.com/de/webagentur-muenchen/
+- Webagentur Berlin: https://danova-tech.com/de/webagentur-berlin/
+- Webagentur Hamburg: https://danova-tech.com/de/webagentur-hamburg/
+- Webagentur Frankfurt: https://danova-tech.com/de/webagentur-frankfurt/
+- Webagentur Zürich: https://danova-tech.com/de/webagentur-zuerich/
+- Softwareentwicklung Schweiz: https://danova-tech.com/de/softwareentwicklung-schweiz/
+- Google-Ads-Betreuung: https://danova-tech.com/de/leistungen/google-ads/
+- Was kostet eine Website: https://danova-tech.com/de/was-kostet-eine-website/
+- Alle Leistungen: https://danova-tech.com/de/leistungen/
+
+### Français (France, Belgique, Suisse romande)
+- Création de site internet en France: https://danova-tech.com/fr/creation-site-internet-france/
+- Logiciel sur mesure en France: https://danova-tech.com/fr/logiciel-sur-mesure-france/
+- Création de site internet en Belgique: https://danova-tech.com/fr/creation-site-internet-belgique/
+- Agence web à Paris: https://danova-tech.com/fr/agence-web-paris/
+- Agence web à Lyon: https://danova-tech.com/fr/agence-web-lyon/
+- Agence SEO en France: https://danova-tech.com/fr/agence-seo-france/
+- Agence web à Bruxelles: https://danova-tech.com/fr/agence-web-bruxelles/
+- Agence web à Genève: https://danova-tech.com/fr/agence-web-geneve/
+- Agence Google Ads: https://danova-tech.com/fr/services/google-ads/
+- Prix d'un site internet: https://danova-tech.com/fr/prix-creation-site-internet/
+- Tous les services: https://danova-tech.com/fr/services/
+
+### Español (España, América Latina)
+- Diseño web en España: https://danova-tech.com/es/diseno-web-espana/
+- Software a medida en España: https://danova-tech.com/es/software-a-medida-espana/
+- Diseño web en Madrid: https://danova-tech.com/es/diseno-web-madrid/
+- Diseño web en Barcelona: https://danova-tech.com/es/diseno-web-barcelona/
+- Diseño web en Valencia: https://danova-tech.com/es/diseno-web-valencia/
+- Agencia SEO en España: https://danova-tech.com/es/agencia-seo-espana/
+- Agencia Google Ads: https://danova-tech.com/es/servicios/google-ads/
+- Cuánto cuesta una página web: https://danova-tech.com/es/cuanto-cuesta-una-pagina-web/
+- Todos los servicios: https://danova-tech.com/es/servicios/
+
+### English (Europe, UK, nearshoring)
+- Nearshore software development from Italy: https://danova-tech.com/en/software-development-italy/
+- Software development company for the UK: https://danova-tech.com/en/software-development-company-uk/
+- Mobile app development company for the UK: https://danova-tech.com/en/mobile-app-development-company-uk/
+- Web design agency for the UK and Ireland: https://danova-tech.com/en/web-design-agency-uk/
+- Google Ads agency: https://danova-tech.com/en/services/google-ads/
+- How much does a website cost: https://danova-tech.com/en/how-much-does-a-website-cost/
+- All services: https://danova-tech.com/en/services/
