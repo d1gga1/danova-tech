@@ -93,11 +93,14 @@ const burger=$('#burger'), mob=$('#mob');
 if(burger && mob){
   burger.addEventListener('click',()=>{
     const on=mob.classList.toggle('on'); burger.classList.toggle('on',on);
+    burger.setAttribute('aria-expanded',on?'true':'false');
     document.body.style.overflow=on?'hidden':'';
     if(on) $$('#mob a').forEach((a,i)=>a.style.transitionDelay=(120+i*70)+'ms');
   });
+  addEventListener('keydown',e=>{ if(e.key==='Escape' && mob.classList.contains('on')){
+    mob.classList.remove('on');burger.classList.remove('on');burger.setAttribute('aria-expanded','false');document.body.style.overflow='';burger.focus(); } });
   $$('#mob a').forEach(a=>a.addEventListener('click',()=>{
-    mob.classList.remove('on');burger.classList.remove('on');document.body.style.overflow='';
+    mob.classList.remove('on');burger.classList.remove('on');burger.setAttribute('aria-expanded','false');document.body.style.overflow='';
   }));
 }
 

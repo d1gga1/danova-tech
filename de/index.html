@@ -55,13 +55,13 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 <meta name="twitter:title" content="Danova Tech — Individuelle Technologie, die Ihr Unternehmen wachsen lässt">
 <meta name="twitter:description" content="Websites, Onlineshops, SEO, Meta-Ads-Kampagnen, Apps, Warenwirtschaft und Individualsoftware. Ein Partner für Ihre gesamte Technologie.">
 <meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
-<link rel="icon" type="image/png" href="../assets/img/logo.png">
-<link rel="apple-touch-icon" href="../assets/img/logo.png">
-<link rel="manifest" href="../site.webmanifest">
-<link rel="preload" as="image" href="../assets/img/dt-06.webp" fetchpriority="high">
-<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
-<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
-<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="icon" type="image/png" href="/assets/img/logo.png">
+<link rel="apple-touch-icon" href="/assets/img/logo.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="preload" as="image" href="/assets/img/dt-06.webp" fetchpriority="high">
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/fonts.css">
 <style>
 /* ============================================================
    DANOVA TECH — single file site
@@ -318,20 +318,28 @@ nav.links a.active::after{transform:scaleX(1)}
 @keyframes sheen{to{left:130%}}
 
 /* burger */
-.burger{display:none;width:44px;height:44px;border:1px solid var(--line);background:rgba(255,255,255,.03);border-radius:12px;
+.burger{display:none;width:44px;height:44px;padding:0;font:inherit;color:inherit;border:1px solid var(--line);background:rgba(255,255,255,.03);border-radius:12px;
   flex-direction:column;justify-content:center;align-items:center;gap:5px;cursor:pointer}
+.burger:focus-visible{outline:2px solid var(--blue-2);outline-offset:3px}
 .burger i{display:block;width:19px;height:1.6px;background:#fff;transition:transform .4s var(--ease),opacity .3s}
 .burger.on i:nth-child(1){transform:translateY(6.6px) rotate(45deg)}
 .burger.on i:nth-child(2){opacity:0}
 .burger.on i:nth-child(3){transform:translateY(-6.6px) rotate(-45deg)}
 #mob{position:fixed;inset:0;z-index:8999;background:rgba(3,5,10,.97);backdrop-filter:blur(20px);
-  display:flex;flex-direction:column;justify-content:center;gap:8px;padding:0 34px;
+  display:flex;flex-direction:column;justify-content:center;justify-content:safe center;gap:8px;
+  padding:calc(var(--nav-h) + 14px) 34px calc(24px + env(safe-area-inset-bottom,0px));
+  overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
   clip-path:circle(0% at calc(100% - 46px) 42px);transition:clip-path .8s var(--ease);pointer-events:none}
 #mob.on{clip-path:circle(150% at calc(100% - 46px) 42px);pointer-events:auto}
 #mob a{font-family:'Sora',sans-serif;font-size:clamp(1.9rem,8vw,3rem);font-weight:700;letter-spacing:-.03em;
   opacity:0;transform:translateY(28px);transition:opacity .6s var(--ease),transform .6s var(--ease),color .3s;border-bottom:1px solid var(--line);padding:14px 0}
 #mob.on a{opacity:1;transform:none}
 #mob a:hover{color:var(--blue-2)}
+@media (max-width:900px) and (max-height:900px){
+  #mob a{padding:10px 0;font-size:clamp(1.55rem,6.6vw,2.3rem)}
+  #mob .mob-lang{margin-top:20px}
+  #mob .mob-lang button{padding:9px 14px}
+}
 @media (max-width:900px){nav.links{display:none}.nav-r .btn-p{display:none}.burger{display:flex}}
 
 /* ---------- HERO ---------- */
@@ -1264,7 +1272,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <!-- ===== HEADER ===== -->
 <header id="hdr" class="">
   <div class="bar">
-    <a href="#hero" class="brand" data-mag=""><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <a href="#hero" class="brand" data-mag=""><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
     <nav class="links" aria-label="Menu principale">
       <a href="#servizi" data-i18n="nav.servizi">Leistungen</a>
       <a href="#settori" data-i18n="nav.settori">Für wen</a>
@@ -1299,7 +1307,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
       <a href="#contatti" class="btn btn-p" data-mag="" data-i18n-append="nav.cta"><span class="sheen"></span><span class="lbl">Sprechen wir</span>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
-      <div class="burger" id="burger"><i></i><i></i><i></i></div>
+      <button type="button" class="burger" id="burger" aria-label="Menü öffnen" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
     </div>
   </div>
 </header>
@@ -1357,56 +1365,56 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <div class="srv-grid" id="srvGrid">
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 0ms;"><i class="edge"></i>
       <div class="pic"><span class="num">01</span><div class="scan"></div>
-        <img src="../assets/img/dt-03.webp" alt="Danova Tech — Websites &amp; E-Commerce" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-03.webp" alt="Danova Tech — Websites &amp; E-Commerce" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Websites &amp; E-Commerce</h3><p>Schnelle, sorgfältig gebaute Seiten, die verkaufen. Keine recycelten Templates: Struktur, Texte und Design auf Ihr Geschäft zugeschnitten.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Unternehmensseiten, Landingpages und Onepager</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>E-Commerce mit Zahlung und Versand</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Buchungen, Angebotsrechner, Kundenbereiche</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Performance, Core Web Vitals und Barrierefreiheit</li></ul>
-        <a href="leistungen/websites-ecommerce/" class="more"><span>So eine Seite will ich</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/de/leistungen/websites-ecommerce/" class="more"><span>So eine Seite will ich</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 90ms;"><i class="edge"></i>
       <div class="pic"><span class="num">02</span><div class="scan"></div>
-        <img src="../assets/img/dt-09.webp" alt="Danova Tech — SEO &amp; Sichtbarkeit" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-09.webp" alt="Danova Tech — SEO &amp; Sichtbarkeit" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>SEO &amp; Sichtbarkeit</h3><p>Wir machen Sie auffindbar für die, die schon nach Ihnen suchen. Analyse, Inhalte und Technik, um bei Google zu steigen und oben zu bleiben.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Technisches Audit und Keyword-Recherche</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Local SEO und Google Unternehmensprofil</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Inhalte, Blog und Linkstrategie</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Monatliche Berichte, die man wirklich lesen kann</li></ul>
-        <a href="leistungen/seo/" class="more"><span>Ich will mehr Sichtbarkeit</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/de/leistungen/seo/" class="more"><span>Ich will mehr Sichtbarkeit</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 180ms;"><i class="edge"></i>
       <div class="pic"><span class="num">03</span><div class="scan"></div>
-        <img src="../assets/img/dt-08.webp" alt="Danova Tech — Meta Ads &amp; Kampagnen" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-08.webp" alt="Danova Tech — Meta Ads &amp; Kampagnen" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Meta Ads &amp; Kampagnen</h3><p>Facebook- und Instagram-Kampagnen als Investition geführt, nicht als Kostenstelle. Kreation, Targeting und laufende Optimierung.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Setup von Business Manager, Pixel und Conversions API</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Video- und Static-Creatives, die den Scroll stoppen</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Akquise-Funnel, Retargeting und Leadgenerierung</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Ständige A/B-Tests und Optimierung der Kosten pro Lead</li></ul>
-        <a href="leistungen/meta-ads/" class="more"><span>Ich will mehr Kunden</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/de/leistungen/meta-ads/" class="more"><span>Ich will mehr Kunden</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 270ms;"><i class="edge"></i>
       <div class="pic"><span class="num">04</span><div class="scan"></div>
-        <img src="../assets/img/dt-04.webp" alt="Danova Tech — Individuelle Apps" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-04.webp" alt="Danova Tech — Individuelle Apps" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Individuelle Apps</h3><p>Web- und Mobile-Anwendungen rund um Ihren Arbeitsablauf gebaut. Wenn Sie es beschreiben können, können wir es entwickeln.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>iOS- und Android-Apps · Web-Apps und PWAs</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Login, Push-Benachrichtigungen, In-App-Zahlungen</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Integration mit Ihren bestehenden Systemen</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Wartung und Updates inklusive</li></ul>
-        <a href="leistungen/individuelle-apps/" class="more"><span>Ich habe eine Idee</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/de/leistungen/individuelle-apps/" class="more"><span>Ich habe eine Idee</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 360ms;"><i class="edge"></i>
       <div class="pic"><span class="num">05</span><div class="scan"></div>
-        <img src="../assets/img/dt-10.webp" alt="Danova Tech — Warenwirtschaft &amp; CRM" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-10.webp" alt="Danova Tech — Warenwirtschaft &amp; CRM" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Warenwirtschaft &amp; CRM</h3><p>Schluss mit verstreuten Excel-Dateien und Notizbüchern. Ein System, das die Sprache Ihres Unternehmens spricht und jede Woche Stunden spart.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Kunden, Angebote, Aufträge und Rechnungen</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Lager, Produktion und Fristen</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Rollen und Rechte für jede Mitarbeiterin</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Dashboards und Auswertungen in Echtzeit</li></ul>
-        <a href="leistungen/warenwirtschaft-crm/" class="more"><span>Ich will Ordnung im Betrieb</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/de/leistungen/warenwirtschaft-crm/" class="more"><span>Ich will Ordnung im Betrieb</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 450ms;"><i class="edge"></i>
       <div class="pic"><span class="num">06</span><div class="scan"></div>
-        <img src="../assets/img/dt-01.webp" alt="Danova Tech — Software &amp; Automatisierung" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-01.webp" alt="Danova Tech — Software &amp; Automatisierung" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Software &amp; Automatisierung</h3><p>Individuelle Programme, Integrationen und Automatisierungen, die repetitive Arbeit aus den Händen Ihres Teams nehmen.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Automatisierung zwischen System, Website und E-Mail</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>KI-Integration: Chatbots, Suche, Dokumentenanalyse</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>APIs, Synchronisation und Datenimport/-export</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Desktop-Software und interne Werkzeuge</li></ul>
-        <a href="leistungen/software-automatisierung/" class="more"><span>Ich will Abläufe automatisieren</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/de/leistungen/software-automatisierung/" class="more"><span>Ich will Abläufe automatisieren</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article></div>
   </div>
@@ -1468,7 +1476,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     </div>
     <div class="filters" data-rv="up" id="pfFilters" style="transition-delay: 0ms;"><button class="on" data-f="all">Alle</button><button class="" data-f="web">Websites &amp; Shops</button><button class="" data-f="app">Apps</button><button class="" data-f="gest">Warenwirtschaft</button><button class="" data-f="ads">Ads &amp; SEO</button></div>
     <div class="pf-grid" id="pfGrid"><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 0ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-05.webp" alt="Danova Tech Projekt — Onlineshop für eine Produktmarke" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-05.webp" alt="Danova Tech Projekt — Onlineshop für eine Produktmarke" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1477,7 +1485,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>+184%</b><small>Online-Umsatz</small></div><div><b>1.2s</b><small>Ladezeit</small></div></div>
       </div>
     </article><article class="card pf" data-c="gest" data-rv="up" data-tilt="" style="transition-delay: 90ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-02.webp" alt="Danova Tech Projekt — Individuelles Unternehmenssystem" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-02.webp" alt="Danova Tech Projekt — Individuelles Unternehmenssystem" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1486,7 +1494,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>-11h</b><small>Pro Woche gespart</small></div><div><b>4</b><small>Ersetzte Programme</small></div></div>
       </div>
     </article><article class="card pf" data-c="app" data-rv="up" data-tilt="" style="transition-delay: 180ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-11.webp" alt="Danova Tech Projekt — Treue- und Buchungs-App" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-11.webp" alt="Danova Tech Projekt — Treue- und Buchungs-App" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1495,7 +1503,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>8.400</b><small>Aktive Nutzer</small></div><div><b>+37%</b><small>Wiederkehrende Kunden</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 270ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-08.webp" alt="Danova Tech Projekt — Lokale Leadgenerierungs-Kampagne" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-08.webp" alt="Danova Tech Projekt — Lokale Leadgenerierungs-Kampagne" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1504,7 +1512,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>€4,10</b><small>Kosten pro Lead</small></div><div><b>x5,8</b><small>Durchschnittlicher ROAS</small></div></div>
       </div>
     </article><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 360ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-03.webp" alt="Danova Tech Projekt — Unternehmensseite für eine Kanzlei" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-03.webp" alt="Danova Tech Projekt — Unternehmensseite für eine Kanzlei" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1513,7 +1521,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>+220%</b><small>Kontaktanfragen</small></div><div><b>100</b><small>Performance-Score</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 450ms;"><i class="edge"></i>
-      <div class="pic"><img src="../assets/img/dt-09.webp" alt="Danova Tech Projekt — Lokale Sichtbarkeit an mehreren Standorten" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-09.webp" alt="Danova Tech Projekt — Lokale Sichtbarkeit an mehreren Standorten" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Projekt ansehen
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1619,7 +1627,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="contatti">
   <div class="wrap">
     <div class="cta-wrap" data-rv="zoom" style="transition-delay: 0ms;">
-      <div class="bg" style="background-image:url('../assets/img/dt-07.webp')"></div>
+      <div class="bg" style="background-image:url('/assets/img/dt-07.webp')"></div>
       <div class="cta-in">
         <div>
           <div class="eyebrow mono" data-i18n="cta.eyebrow">Loslegen</div>
@@ -1644,7 +1652,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
           <form id="form" novalidate="">
             <div class="fld"><input type="text" id="nome" placeholder=" " required="" autocomplete="name"><label for="nome" data-i18n="cta.f.nome">Vor- und Nachname</label></div>
             <div class="fld-tel">
-              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39" selected="">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Vorwahl</label></div>
+              <div class="fld"><select id="pref" required="" autocomplete="tel-country-code"><option value="+39">🇮🇹 +39</option><option value="+41">🇨🇭 +41</option><option value="+49" selected="">🇩🇪 +49</option><option value="+43">🇦🇹 +43</option><option value="+33">🇫🇷 +33</option><option value="+34">🇪🇸 +34</option><option value="+351">🇵🇹 +351</option><option value="+44">🇬🇧 +44</option><option value="+353">🇮🇪 +353</option><option value="+31">🇳🇱 +31</option><option value="+32">🇧🇪 +32</option><option value="+352">🇱🇺 +352</option><option value="+45">🇩🇰 +45</option><option value="+46">🇸🇪 +46</option><option value="+47">🇳🇴 +47</option><option value="+358">🇫🇮 +358</option><option value="+48">🇵🇱 +48</option><option value="+420">🇨🇿 +420</option><option value="+421">🇸🇰 +421</option><option value="+36">🇭🇺 +36</option><option value="+386">🇸🇮 +386</option><option value="+385">🇭🇷 +385</option><option value="+40">🇷🇴 +40</option><option value="+359">🇧🇬 +359</option><option value="+30">🇬🇷 +30</option><option value="+356">🇲🇹 +356</option><option value="+357">🇨🇾 +357</option><option value="+355">🇦🇱 +355</option><option value="+381">🇷🇸 +381</option><option value="+380">🇺🇦 +380</option><option value="+7">🇷🇺 +7</option><option value="+90">🇹🇷 +90</option><option value="+1">🇺🇸 +1</option><option value="+52">🇲🇽 +52</option><option value="+55">🇧🇷 +55</option><option value="+54">🇦🇷 +54</option><option value="+61">🇦🇺 +61</option><option value="+64">🇳🇿 +64</option><option value="+81">🇯🇵 +81</option><option value="+86">🇨🇳 +86</option><option value="+91">🇮🇳 +91</option><option value="+971">🇦🇪 +971</option><option value="+966">🇸🇦 +966</option><option value="+20">🇪🇬 +20</option><option value="+212">🇲🇦 +212</option><option value="+216">🇹🇳 +216</option><option value="+27">🇿🇦 +27</option></select><label for="pref" data-i18n="cta.f.pref">Vorwahl</label></div>
               <div class="fld"><input type="tel" id="tel" placeholder=" " required="" inputmode="tel" autocomplete="tel-national" maxlength="18"><label for="tel" data-i18n="cta.f.tel">Telefon</label></div>
             </div>
             <div class="fld-err" id="telErr" data-i18n="cta.f.telerr">Bitte geben Sie eine gültige Telefonnummer ein.</div>
@@ -1673,11 +1681,11 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   <div class="wrap">
     <div class="f-top">
       <div class="fb">
-        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <span class="brand"><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
         <p data-i18n="footer.tagline">Tech-Agentur, die die digitale Präsenz ambitionierter Unternehmen plant, entwickelt und wachsen lässt.</p>
       </div>
-      <div><h5 data-i18n="footer.h1">Leistungen</h5><ul id="fc1"><li><a href="leistungen/websites-ecommerce/">Websites &amp; E-Commerce</a></li><li><a href="leistungen/seo/">SEO</a></li><li><a href="leistungen/meta-ads/">Meta Ads</a></li>
-        <li><a href="leistungen/google-ads/">Google Ads</a></li><li><a href="leistungen/individuelle-apps/">Individuelle Apps</a></li><li><a href="leistungen/warenwirtschaft-crm/">Warenwirtschaft &amp; CRM</a></li><li><a href="leistungen/software-automatisierung/">Software und Automatisierung</a></li></ul></div>
+      <div><h5 data-i18n="footer.h1">Leistungen</h5><ul id="fc1"><li><a href="/de/leistungen/websites-ecommerce/">Websites &amp; E-Commerce</a></li><li><a href="/de/leistungen/seo/">SEO</a></li><li><a href="/de/leistungen/meta-ads/">Meta Ads</a></li>
+        <li><a href="/de/leistungen/google-ads/">Google Ads</a></li><li><a href="/de/leistungen/individuelle-apps/">Individuelle Apps</a></li><li><a href="/de/leistungen/warenwirtschaft-crm/">Warenwirtschaft &amp; CRM</a></li><li><a href="/de/leistungen/software-automatisierung/">Software und Automatisierung</a></li></ul></div>
       <div><h5 data-i18n="footer.h2">Agentur</h5><ul id="fc2"><li><a href="#settori">Für wen wir arbeiten</a></li><li><a href="#lavori">Ausgewählte Projekte</a></li><li><a href="#processo">Unsere Methode</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contatti">Kontakt</a></li></ul></div>
       <div><h5 data-i18n="footer.h3">Kontakt</h5><ul>
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
@@ -3020,11 +3028,19 @@ addEventListener('resize',sizeCv);
    ========================================================= */
 let rotTimer=null, ri=0, rotSpans=[];
 function splitLine(el,txt){
+  /* ogni parola sta dentro uno .wd: l'a capo puo' avvenire solo fra le parole,
+     mai in mezzo a una parola (fondamentale su schermi stretti e in tedesco). */
   el.textContent='';
-  txt.split('').forEach(c=>{
-    const s=document.createElement('span'); s.className='ch';
-    s.textContent = c===' ' ? ' ' : c;
-    el.appendChild(s);
+  const words=String(txt).split(' ');
+  words.forEach((word,wi)=>{
+    if(word){
+      const w=document.createElement('span'); w.className='wd';
+      word.split('').forEach(c=>{
+        const s=document.createElement('span'); s.className='ch'; s.textContent=c; w.appendChild(s);
+      });
+      el.appendChild(w);
+    }
+    if(wi<words.length-1) el.appendChild(document.createTextNode(' '));
   });
 }
 function buildHeroText(animate){
@@ -3143,11 +3159,12 @@ topBtn.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
 const burger=$('#burger'), mob=$('#mob');
 burger.addEventListener('click',()=>{
   const on=mob.classList.toggle('on'); burger.classList.toggle('on',on);
+  burger.setAttribute('aria-expanded',on?'true':'false');
   document.body.style.overflow=on?'hidden':'';
   if(on) $$('#mob .mob-links a').forEach((a,i)=>a.style.transitionDelay=(120+i*70)+'ms');
 });
 $$('#mob .mob-links a').forEach(a=>a.addEventListener('click',closeMob));
-function closeMob(){mob.classList.remove('on');burger.classList.remove('on');document.body.style.overflow='';}
+function closeMob(){mob.classList.remove('on');burger.classList.remove('on');burger.setAttribute('aria-expanded','false');document.body.style.overflow='';}
 
 /* =========================================================
    9. CONTATORI
@@ -3221,9 +3238,9 @@ const ICON={
 const CHECK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"/></svg>';
 const ARROW='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 const IMGS={
-  siti:'../assets/img/dt-03.webp', seo:'../assets/img/dt-09.webp', ads:'../assets/img/dt-08.webp',
-  app:'../assets/img/dt-04.webp', gest:'../assets/img/dt-10.webp', soft:'../assets/img/dt-01.webp',
-  p1:'../assets/img/dt-05.webp', p2:'../assets/img/dt-02.webp', p3:'../assets/img/dt-11.webp'
+  siti:'/assets/img/dt-03.webp', seo:'/assets/img/dt-09.webp', ads:'/assets/img/dt-08.webp',
+  app:'/assets/img/dt-04.webp', gest:'/assets/img/dt-10.webp', soft:'/assets/img/dt-01.webp',
+  p1:'/assets/img/dt-05.webp', p2:'/assets/img/dt-02.webp', p3:'/assets/img/dt-11.webp'
 };
 /* indirizzi delle pagine di servizio, per ogni lingua */
 const SRV_SLUG={
@@ -3235,6 +3252,7 @@ const SRV_SLUG={
 const SRV_DIR={it:'servizi',en:'services',de:'leistungen',fr:'services',es:'servicios'};
 function srvUrl(i){ return '/'+(LANG==='it'?'':LANG+'/')+SRV_DIR[LANG]+'/'+SRV_SLUG[LANG][i]+'/'; }
 const SRV_IMG=[IMGS.siti,IMGS.seo,IMGS.ads,IMGS.app,IMGS.gest,IMGS.soft];
+const PREF_BY_LANG={it:'+39',en:'+44',de:'+49',fr:'+33',es:'+34'};
 const PF_META=[
   {c:'web', img:IMGS.p1,   k:['+184%','1.2s']},
   {c:'gest',img:IMGS.p2,   k:['-11h','4']},
@@ -3273,6 +3291,10 @@ function render(){
 
   /* --- marquee --- */
   fillMq('#mq1',t.mq); fillMq('#mq2',TECH);
+
+  /* --- prefisso telefonico coerente con la lingua (se l'utente non l'ha toccato) --- */
+  const _pf=$('#pref');
+  if(_pf && !_pf.dataset.touched){ const _v=PREF_BY_LANG[LANG]; if(_v && [..._pf.options].some(o=>o.value===_v)) _pf.value=_v; }
 
   /* --- servizi --- */
   const SRV_URL=t.servizi.items.map((_,i)=>srvUrl(i));
@@ -3466,7 +3488,7 @@ function mailOk(){
     });
     t.addEventListener('blur',()=>{ if(t.value.trim()&&!telOk()){ t.classList.add('bad'); $('#telErr').classList.add('on'); } });
   }
-  if(p) p.addEventListener('change',()=>{ t.classList.remove('bad'); $('#telErr').classList.remove('on'); });
+  if(p) p.addEventListener('change',()=>{ p.dataset.touched='1'; t.classList.remove('bad'); $('#telErr').classList.remove('on'); });
   if(e){
     e.addEventListener('input',()=>{ e.classList.remove('bad'); $('#emailErr').classList.remove('on'); });
     e.addEventListener('blur',()=>{ if(!mailOk()){ e.classList.add('bad'); $('#emailErr').classList.add('on'); } });

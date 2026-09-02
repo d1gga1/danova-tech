@@ -55,13 +55,13 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 <meta name="twitter:title" content="Danova Tech — Tecnologia su misura che fa crescere la tua attività">
 <meta name="twitter:description" content="Siti web, e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura. Un unico partner per tutta la tua tecnologia.">
 <meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
-<link rel="icon" type="image/png" href="assets/img/logo.png">
-<link rel="apple-touch-icon" href="assets/img/logo.png">
-<link rel="manifest" href="site.webmanifest">
-<link rel="preload" as="image" href="assets/img/dt-06.webp" fetchpriority="high">
-<link rel="preload" as="font" type="font/woff2" href="assets/fonts/sora-latin.woff2" crossorigin>
-<link rel="preload" as="font" type="font/woff2" href="assets/fonts/inter-latin.woff2" crossorigin>
-<link rel="stylesheet" href="assets/css/fonts.css">
+<link rel="icon" type="image/png" href="/assets/img/logo.png">
+<link rel="apple-touch-icon" href="/assets/img/logo.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="preload" as="image" href="/assets/img/dt-06.webp" fetchpriority="high">
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/fonts.css">
 <style>
 /* ============================================================
    DANOVA TECH — single file site
@@ -318,20 +318,28 @@ nav.links a.active::after{transform:scaleX(1)}
 @keyframes sheen{to{left:130%}}
 
 /* burger */
-.burger{display:none;width:44px;height:44px;border:1px solid var(--line);background:rgba(255,255,255,.03);border-radius:12px;
+.burger{display:none;width:44px;height:44px;padding:0;font:inherit;color:inherit;border:1px solid var(--line);background:rgba(255,255,255,.03);border-radius:12px;
   flex-direction:column;justify-content:center;align-items:center;gap:5px;cursor:pointer}
+.burger:focus-visible{outline:2px solid var(--blue-2);outline-offset:3px}
 .burger i{display:block;width:19px;height:1.6px;background:#fff;transition:transform .4s var(--ease),opacity .3s}
 .burger.on i:nth-child(1){transform:translateY(6.6px) rotate(45deg)}
 .burger.on i:nth-child(2){opacity:0}
 .burger.on i:nth-child(3){transform:translateY(-6.6px) rotate(-45deg)}
 #mob{position:fixed;inset:0;z-index:8999;background:rgba(3,5,10,.97);backdrop-filter:blur(20px);
-  display:flex;flex-direction:column;justify-content:center;gap:8px;padding:0 34px;
+  display:flex;flex-direction:column;justify-content:center;justify-content:safe center;gap:8px;
+  padding:calc(var(--nav-h) + 14px) 34px calc(24px + env(safe-area-inset-bottom,0px));
+  overflow-y:auto;overscroll-behavior:contain;-webkit-overflow-scrolling:touch;
   clip-path:circle(0% at calc(100% - 46px) 42px);transition:clip-path .8s var(--ease);pointer-events:none}
 #mob.on{clip-path:circle(150% at calc(100% - 46px) 42px);pointer-events:auto}
 #mob a{font-family:'Sora',sans-serif;font-size:clamp(1.9rem,8vw,3rem);font-weight:700;letter-spacing:-.03em;
   opacity:0;transform:translateY(28px);transition:opacity .6s var(--ease),transform .6s var(--ease),color .3s;border-bottom:1px solid var(--line);padding:14px 0}
 #mob.on a{opacity:1;transform:none}
 #mob a:hover{color:var(--blue-2)}
+@media (max-width:900px) and (max-height:900px){
+  #mob a{padding:10px 0;font-size:clamp(1.55rem,6.6vw,2.3rem)}
+  #mob .mob-lang{margin-top:20px}
+  #mob .mob-lang button{padding:9px 14px}
+}
 @media (max-width:900px){nav.links{display:none}.nav-r .btn-p{display:none}.burger{display:flex}}
 
 /* ---------- HERO ---------- */
@@ -1279,7 +1287,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <!-- ===== HEADER ===== -->
 <header id="hdr" class="">
   <div class="bar">
-    <a href="#hero" class="brand" data-mag=""><img width="160" height="160" src="assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <a href="#hero" class="brand" data-mag=""><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
     <nav class="links" aria-label="Menu principale">
       <a href="#servizi" data-i18n="nav.servizi">Servizi</a>
       <a href="#settori" data-i18n="nav.settori">Per chi</a>
@@ -1314,7 +1322,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 
       <a href="#contatti" class="btn btn-p" data-mag="" data-i18n-append="nav.cta"><span class="sheen"></span><span class="lbl">Parliamone</span>
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
-      <div class="burger" id="burger"><i></i><i></i><i></i></div>
+      <button type="button" class="burger" id="burger" aria-label="Apri il menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
     </div>
   </div>
 </header>
@@ -1372,56 +1380,56 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <div class="srv-grid" id="srvGrid">
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 0ms;"><i class="edge"></i>
       <div class="pic"><span class="num">01</span><div class="scan"></div>
-        <img src="assets/img/dt-03.webp" alt="Danova Tech — Siti web &amp; E-commerce" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-03.webp" alt="Danova Tech — Siti web &amp; E-commerce" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Siti web &amp; E-commerce</h3><p>Siti veloci, curati e costruiti per vendere. Non template riciclati: struttura, testi e design pensati sulla tua attività.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Siti vetrina, landing page e one-page</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>E-commerce con pagamenti e spedizioni</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Prenotazioni, preventivatori, aree riservate</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Performance, Core Web Vitals e accessibilità</li></ul>
-        <a href="servizi/siti-web-ecommerce/" class="more"><span>Voglio un sito così</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/servizi/siti-web-ecommerce/" class="more"><span>Voglio un sito così</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 90ms;"><i class="edge"></i>
       <div class="pic"><span class="num">02</span><div class="scan"></div>
-        <img src="assets/img/dt-09.webp" alt="Danova Tech — SEO &amp; posizionamento" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-09.webp" alt="Danova Tech — SEO &amp; posizionamento" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>SEO &amp; posizionamento</h3><p>Ti facciamo trovare da chi ti sta già cercando. Analisi, contenuti e tecnica per salire su Google e restarci.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Audit tecnico e keyword research</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>SEO locale e Google Business Profile</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Contenuti, blog e strategia di link</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Report mensili leggibili, senza fuffa</li></ul>
-        <a href="servizi/seo/" class="more"><span>Voglio più visibilità</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/servizi/seo/" class="more"><span>Voglio più visibilità</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 180ms;"><i class="edge"></i>
       <div class="pic"><span class="num">03</span><div class="scan"></div>
-        <img src="assets/img/dt-08.webp" alt="Danova Tech — Meta Ads &amp; campagne" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-08.webp" alt="Danova Tech — Meta Ads &amp; campagne" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Meta Ads &amp; campagne</h3><p>Campagne Facebook e Instagram gestite come un investimento, non come una spesa. Creatività, targeting e ottimizzazione continua.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Setup Business Manager, Pixel e API di conversione</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Creatività video e statiche pensate per fermare lo scroll</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Funnel di acquisizione, retargeting e lead generation</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Test A/B costanti e ottimizzazione del costo per lead</li></ul>
-        <a href="servizi/meta-ads/" class="more"><span>Voglio più clienti</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/servizi/meta-ads/" class="more"><span>Voglio più clienti</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 270ms;"><i class="edge"></i>
       <div class="pic"><span class="num">04</span><div class="scan"></div>
-        <img src="assets/img/dt-04.webp" alt="Danova Tech — App su misura" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-04.webp" alt="Danova Tech — App su misura" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>App su misura</h3><p>Applicazioni web e mobile costruite intorno al tuo flusso di lavoro. Se lo puoi descrivere, lo possiamo sviluppare.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>App iOS e Android · Web app e PWA</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Login, notifiche push, pagamenti in-app</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Integrazione con i sistemi che usi già</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Manutenzione e aggiornamenti inclusi</li></ul>
-        <a href="servizi/app-su-misura/" class="more"><span>Ho un'idea da sviluppare</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/servizi/app-su-misura/" class="more"><span>Ho un'idea da sviluppare</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 360ms;"><i class="edge"></i>
       <div class="pic"><span class="num">05</span><div class="scan"></div>
-        <img src="assets/img/dt-10.webp" alt="Danova Tech — Gestionali &amp; CRM" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-10.webp" alt="Danova Tech — Gestionali &amp; CRM" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Gestionali &amp; CRM</h3><p>Basta fogli Excel sparsi e quaderni. Un gestionale che parla la lingua della tua azienda e ti fa risparmiare ore ogni settimana.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Clienti, preventivi, ordini e fatture</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Magazzino, produzione e scadenze</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Ruoli e permessi per ogni collaboratore</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Dashboard e report in tempo reale</li></ul>
-        <a href="servizi/gestionali-crm/" class="more"><span>Voglio organizzare l'azienda</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/servizi/gestionali-crm/" class="more"><span>Voglio organizzare l'azienda</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article>
     <article class="card srv" data-tilt="" data-rv="blur" style="transition-delay: 450ms;"><i class="edge"></i>
       <div class="pic"><span class="num">06</span><div class="scan"></div>
-        <img src="assets/img/dt-01.webp" alt="Danova Tech — Software &amp; automazioni" width="1000" height="737" loading="lazy" decoding="async"></div>
+        <img src="/assets/img/dt-01.webp" alt="Danova Tech — Software &amp; automazioni" width="1000" height="737" loading="lazy" decoding="async"></div>
       <div class="body">
         <h3>Software &amp; automazioni</h3><p>Programmi su misura, integrazioni e automazioni che tolgono il lavoro ripetitivo dalle mani delle persone.</p>
         <ul><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Automazioni tra gestionale, sito e email</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Integrazioni AI: chatbot, ricerca, analisi documenti</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>API, sincronizzazioni e import/export dati</li><li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"></path></svg>Software desktop e strumenti interni</li></ul>
-        <a href="servizi/software-automazioni/" class="more"><span>Ho un processo da automatizzare</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+        <a href="/servizi/software-automazioni/" class="more"><span>Ho un processo da automatizzare</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article></div>
   </div>
@@ -1483,7 +1491,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     </div>
     <div class="filters" data-rv="up" id="pfFilters" style="transition-delay: 0ms;"><button class="on" data-f="all">Tutti</button><button class="" data-f="web">Siti &amp; E-commerce</button><button class="" data-f="app">App</button><button class="" data-f="gest">Gestionali</button><button class="" data-f="ads">Ads &amp; SEO</button></div>
     <div class="pf-grid" id="pfGrid"><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 0ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-05.webp" alt="Progetto Danova Tech — Shop online per brand di prodotto" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-05.webp" alt="Progetto Danova Tech — Shop online per brand di prodotto" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Vedi il progetto
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1492,7 +1500,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>+184%</b><small>Vendite online</small></div><div><b>1.2s</b><small>Tempo di caricamento</small></div></div>
       </div>
     </article><article class="card pf" data-c="gest" data-rv="up" data-tilt="" style="transition-delay: 90ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-02.webp" alt="Progetto Danova Tech — Gestionale aziendale su misura" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-02.webp" alt="Progetto Danova Tech — Gestionale aziendale su misura" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Vedi il progetto
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1501,7 +1509,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>-11h</b><small>A settimana risparmiate</small></div><div><b>4</b><small>Software sostituiti</small></div></div>
       </div>
     </article><article class="card pf" data-c="app" data-rv="up" data-tilt="" style="transition-delay: 180ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-11.webp" alt="Progetto Danova Tech — App fedeltà e prenotazioni" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-11.webp" alt="Progetto Danova Tech — App fedeltà e prenotazioni" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Vedi il progetto
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1510,7 +1518,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>8.400</b><small>Utenti attivi</small></div><div><b>+37%</b><small>Clienti che ritornano</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 270ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-08.webp" alt="Progetto Danova Tech — Campagna lead generation locale" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-08.webp" alt="Progetto Danova Tech — Campagna lead generation locale" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Vedi il progetto
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1519,7 +1527,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>€4,10</b><small>Costo per lead</small></div><div><b>x5,8</b><small>ROAS medio</small></div></div>
       </div>
     </article><article class="card pf" data-c="web" data-rv="up" data-tilt="" style="transition-delay: 360ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-03.webp" alt="Progetto Danova Tech — Sito vetrina per studio professionale" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-03.webp" alt="Progetto Danova Tech — Sito vetrina per studio professionale" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Vedi il progetto
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1528,7 +1536,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <div class="kpi"><div><b>+220%</b><small>Richieste di contatto</small></div><div><b>100</b><small>Punteggio performance</small></div></div>
       </div>
     </article><article class="card pf" data-c="ads" data-rv="up" data-tilt="" style="transition-delay: 450ms;"><i class="edge"></i>
-      <div class="pic"><img src="assets/img/dt-09.webp" alt="Progetto Danova Tech — Posizionamento locale multi-sede" width="1000" height="700" loading="lazy" decoding="async">
+      <div class="pic"><img src="/assets/img/dt-09.webp" alt="Progetto Danova Tech — Posizionamento locale multi-sede" width="1000" height="700" loading="lazy" decoding="async">
         <div class="ov"><span class="go">Vedi il progetto
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M7 17 17 7M9 7h8v8"></path></svg></span></div>
       </div>
@@ -1614,22 +1622,22 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       <p class="lead" data-rv="up" style="transition-delay: 90ms;">Lavoriamo con aziende in tutta Italia, da remoto: la distanza non cambia n&eacute; il prezzo n&eacute; il modo in cui seguiamo il progetto. La sede &egrave; a Mans&ugrave;e, in provincia di Treviso, e su queste zone veniamo volentieri a vedere come lavori di persona.</p>
     </div>
     <div class="sect-grid">
-      <a class="sect sect-zone" href="gestionali-su-misura-veneto/" data-rv="up" data-tilt="" style="transition-delay: 0ms;">
+      <a class="sect sect-zone" href="/gestionali-su-misura-veneto/" data-rv="up" data-tilt="" style="transition-delay: 0ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Veneto</h4><p>Software gestionale su misura per le aziende venete, dalla produzione al commercio all&rsquo;ingrosso.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="gestionali-su-misura-treviso/" data-rv="up" data-tilt="" style="transition-delay: 90ms;">
+      <a class="sect sect-zone" href="/gestionali-su-misura-treviso/" data-rv="up" data-tilt="" style="transition-delay: 90ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Treviso e provincia</h4><p>Siamo a Mans&ugrave;e: Oderzo, Conegliano, Motta di Livenza e il resto della Marca a mezz&rsquo;ora di strada.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="gestionali-su-misura-pordenone/" data-rv="up" data-tilt="" style="transition-delay: 180ms;">
+      <a class="sect sect-zone" href="/gestionali-su-misura-pordenone/" data-rv="up" data-tilt="" style="transition-delay: 180ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Pordenone e provincia</h4><p>Il Friuli occidentale &egrave; a venti minuti dalla nostra sede: incontri in azienda senza trasferte lunghe.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="gestionali-su-misura-venezia-mestre/" data-rv="up" data-tilt="" style="transition-delay: 270ms;">
+      <a class="sect sect-zone" href="/gestionali-su-misura-venezia-mestre/" data-rv="up" data-tilt="" style="transition-delay: 270ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Venezia e Mestre</h4><p>Gestionali e CRM per le attivit&agrave; del veneziano, dalla terraferma al centro storico.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
@@ -1647,52 +1655,52 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       <p class="lead" data-rv="up">Se cercate una cosa precisa &mdash; un sito nella vostra provincia, un gestionale per il vostro settore, o semplicemente quanto costa &mdash; qui trovate la pagina che ne parla per esteso.</p>
     </div>
     <div class="sect-grid">
-      <a class="sect sect-zone" href="realizzazione-siti-web-veneto/" data-rv="up" data-tilt="" style="transition-delay: 0ms;">
+      <a class="sect sect-zone" href="/realizzazione-siti-web-veneto/" data-rv="up" data-tilt="" style="transition-delay: 0ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Siti web in Veneto</h4><p>Realizzazione di siti web ed e-commerce su misura per le aziende venete, a prezzo fisso.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="realizzazione-siti-web-treviso/" data-rv="up" data-tilt="" style="transition-delay: 70ms;">
+      <a class="sect sect-zone" href="/realizzazione-siti-web-treviso/" data-rv="up" data-tilt="" style="transition-delay: 70ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Siti web a Treviso</h4><p>Siti multilingua e veloci per le aziende della Marca: mobile, calzatura, vino, meccanica.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="realizzazione-siti-web-pordenone/" data-rv="up" data-tilt="" style="transition-delay: 140ms;">
+      <a class="sect sect-zone" href="/realizzazione-siti-web-pordenone/" data-rv="up" data-tilt="" style="transition-delay: 140ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Siti web a Pordenone</h4><p>Siti tecnici per chi esporta: catalogo, schede tecniche, versioni in inglese e tedesco.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="realizzazione-siti-web-venezia-mestre/" data-rv="up" data-tilt="" style="transition-delay: 210ms;">
+      <a class="sect sect-zone" href="/realizzazione-siti-web-venezia-mestre/" data-rv="up" data-tilt="" style="transition-delay: 210ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Siti web a Venezia e Mestre</h4><p>Prenotazioni online e siti per turismo, servizi e logistica fra Venezia e la terraferma.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="sviluppo-app-aziendali-veneto/" data-rv="up" data-tilt="" style="transition-delay: 280ms;">
+      <a class="sect sect-zone" href="/sviluppo-app-aziendali-veneto/" data-rv="up" data-tilt="" style="transition-delay: 280ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>App aziendali in Veneto</h4><p>Applicazioni per magazzino, tecnici in trasferta e clienti, collegate al vostro gestionale.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="software-gestionale-magazzino/" data-rv="up" data-tilt="" style="transition-delay: 350ms;">
+      <a class="sect sect-zone" href="/software-gestionale-magazzino/" data-rv="up" data-tilt="" style="transition-delay: 350ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Gestionale di magazzino</h4><p>Giacenze vere, ubicazioni, lotti e riordino automatico. Senza costo per utente.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="software-gestionale-produzione/" data-rv="up" data-tilt="" style="transition-delay: 420ms;">
+      <a class="sect sect-zone" href="/software-gestionale-produzione/" data-rv="up" data-tilt="" style="transition-delay: 420ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Gestionale per la produzione</h4><p>Distinta base, avanzamento commessa, tempi, scarti e margini reali in un sistema solo.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="software-gestionale-trasporti-logistica/" data-rv="up" data-tilt="" style="transition-delay: 490ms;">
+      <a class="sect sect-zone" href="/software-gestionale-trasporti-logistica/" data-rv="up" data-tilt="" style="transition-delay: 490ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Gestionale trasporti e logistica</h4><p>Viaggi, mezzi, documenti di trasporto, tariffari per cliente e costo reale per viaggio.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="quanto-costa-un-sito-web/" data-rv="up" data-tilt="" style="transition-delay: 560ms;">
+      <a class="sect sect-zone" href="/quanto-costa-un-sito-web/" data-rv="up" data-tilt="" style="transition-delay: 560ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Quanto costa un sito web</h4><p>Le cinque cose che determinano il preventivo e le domande da fare prima di firmare.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
-      <a class="sect sect-zone" href="quanto-costa-un-gestionale/" data-rv="up" data-tilt="" style="transition-delay: 630ms;">
+      <a class="sect sect-zone" href="/quanto-costa-un-gestionale/" data-rv="up" data-tilt="" style="transition-delay: 630ms;">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg></div>
         <h4>Quanto costa un gestionale</h4><p>Confronto onesto con i pacchetti a licenza e come calcolare se il progetto si ripaga.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
@@ -1731,7 +1739,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <section id="contatti">
   <div class="wrap">
     <div class="cta-wrap" data-rv="zoom" style="transition-delay: 0ms;">
-      <div class="bg" style="background-image:url('assets/img/dt-07.webp')"></div>
+      <div class="bg" style="background-image:url('/assets/img/dt-07.webp')"></div>
       <div class="cta-in">
         <div>
           <div class="eyebrow mono" data-i18n="cta.eyebrow">Iniziamo</div>
@@ -1785,21 +1793,21 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   <div class="wrap">
     <div class="f-top z5" id="fTop">
       <div class="fb">
-        <span class="brand"><img width="160" height="160" src="assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <span class="brand"><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
         <p data-i18n="footer.tagline">Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
       </div>
-      <div><h5 data-i18n="footer.h1">Servizi</h5><ul id="fc1"><li><a href="servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li><li><a href="servizi/seo/">SEO</a></li><li><a href="servizi/meta-ads/">Meta Ads</a></li>
-        <li><a href="servizi/google-ads/">Google Ads</a></li><li><a href="servizi/app-su-misura/">App su misura</a></li><li><a href="servizi/gestionali-crm/">Gestionali &amp; CRM</a></li><li><a href="servizi/software-automazioni/">Software e automazioni</a></li></ul></div>
+      <div><h5 data-i18n="footer.h1">Servizi</h5><ul id="fc1"><li><a href="/servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li><li><a href="/servizi/seo/">SEO</a></li><li><a href="/servizi/meta-ads/">Meta Ads</a></li>
+        <li><a href="/servizi/google-ads/">Google Ads</a></li><li><a href="/servizi/app-su-misura/">App su misura</a></li><li><a href="/servizi/gestionali-crm/">Gestionali &amp; CRM</a></li><li><a href="/servizi/software-automazioni/">Software e automazioni</a></li></ul></div>
       <div><h5 data-i18n="footer.h2">Agenzia</h5><ul id="fc2"><li><a href="#settori">Per chi lavoriamo</a></li><li><a href="#lavori">Esempi di progetti</a></li><li><a href="#processo">Il nostro metodo</a></li><li><a href="#faq">FAQ</a></li><li><a href="#contatti">Contatti</a></li></ul></div>
       <div id="fcZone"><h5>Dove operiamo</h5><ul>
-        <li><a href="servizi/">Tutti i servizi</a></li>
-        <li><a href="realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
-        <li><a href="realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
-        <li><a href="gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
-        <li><a href="gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
-        <li><a href="gestionali-su-misura-pordenone/">Pordenone</a></li>
-        <li><a href="gestionali-su-misura-venezia-mestre/">Venezia e Mestre</a></li>
-        <li><a href="quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+        <li><a href="/servizi/">Tutti i servizi</a></li>
+        <li><a href="/realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="/realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="/gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="/gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="/gestionali-su-misura-pordenone/">Pordenone</a></li>
+        <li><a href="/gestionali-su-misura-venezia-mestre/">Venezia e Mestre</a></li>
+        <li><a href="/quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
         <li class="f-italia"><b>Resto d’Italia</b>Ovunque ti trovi, ti seguiamo da remoto con la stessa assistenza.</li>
       </ul></div>
       <div><h5 data-i18n="footer.h3">Contatti</h5><ul>
@@ -3143,11 +3151,19 @@ addEventListener('resize',sizeCv);
    ========================================================= */
 let rotTimer=null, ri=0, rotSpans=[];
 function splitLine(el,txt){
+  /* ogni parola sta dentro uno .wd: l'a capo puo' avvenire solo fra le parole,
+     mai in mezzo a una parola (fondamentale su schermi stretti e in tedesco). */
   el.textContent='';
-  txt.split('').forEach(c=>{
-    const s=document.createElement('span'); s.className='ch';
-    s.textContent = c===' ' ? ' ' : c;
-    el.appendChild(s);
+  const words=String(txt).split(' ');
+  words.forEach((word,wi)=>{
+    if(word){
+      const w=document.createElement('span'); w.className='wd';
+      word.split('').forEach(c=>{
+        const s=document.createElement('span'); s.className='ch'; s.textContent=c; w.appendChild(s);
+      });
+      el.appendChild(w);
+    }
+    if(wi<words.length-1) el.appendChild(document.createTextNode(' '));
   });
 }
 function buildHeroText(animate){
@@ -3266,11 +3282,12 @@ topBtn.addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
 const burger=$('#burger'), mob=$('#mob');
 burger.addEventListener('click',()=>{
   const on=mob.classList.toggle('on'); burger.classList.toggle('on',on);
+  burger.setAttribute('aria-expanded',on?'true':'false');
   document.body.style.overflow=on?'hidden':'';
   if(on) $$('#mob .mob-links a').forEach((a,i)=>a.style.transitionDelay=(120+i*70)+'ms');
 });
 $$('#mob .mob-links a').forEach(a=>a.addEventListener('click',closeMob));
-function closeMob(){mob.classList.remove('on');burger.classList.remove('on');document.body.style.overflow='';}
+function closeMob(){mob.classList.remove('on');burger.classList.remove('on');burger.setAttribute('aria-expanded','false');document.body.style.overflow='';}
 
 /* =========================================================
    9. CONTATORI
@@ -3344,9 +3361,9 @@ const ICON={
 const CHECK='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M20 6 9 17l-5-5"/></svg>';
 const ARROW='<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg>';
 const IMGS={
-  siti:'assets/img/dt-03.webp', seo:'assets/img/dt-09.webp', ads:'assets/img/dt-08.webp',
-  app:'assets/img/dt-04.webp', gest:'assets/img/dt-10.webp', soft:'assets/img/dt-01.webp',
-  p1:'assets/img/dt-05.webp', p2:'assets/img/dt-02.webp', p3:'assets/img/dt-11.webp'
+  siti:'/assets/img/dt-03.webp', seo:'/assets/img/dt-09.webp', ads:'/assets/img/dt-08.webp',
+  app:'/assets/img/dt-04.webp', gest:'/assets/img/dt-10.webp', soft:'/assets/img/dt-01.webp',
+  p1:'/assets/img/dt-05.webp', p2:'/assets/img/dt-02.webp', p3:'/assets/img/dt-11.webp'
 };
 /* indirizzi delle pagine di servizio, per ogni lingua */
 const SRV_SLUG={
@@ -3358,6 +3375,7 @@ const SRV_SLUG={
 const SRV_DIR={it:'servizi',en:'services',de:'leistungen',fr:'services',es:'servicios'};
 function srvUrl(i){ return '/'+(LANG==='it'?'':LANG+'/')+SRV_DIR[LANG]+'/'+SRV_SLUG[LANG][i]+'/'; }
 const SRV_IMG=[IMGS.siti,IMGS.seo,IMGS.ads,IMGS.app,IMGS.gest,IMGS.soft];
+const PREF_BY_LANG={it:'+39',en:'+44',de:'+49',fr:'+33',es:'+34'};
 const PF_META=[
   {c:'web', img:IMGS.p1,   k:['+184%','1.2s']},
   {c:'gest',img:IMGS.p2,   k:['-11h','4']},
@@ -3396,6 +3414,10 @@ function render(){
 
   /* --- marquee --- */
   fillMq('#mq1',t.mq); fillMq('#mq2',TECH);
+
+  /* --- prefisso telefonico coerente con la lingua (se l'utente non l'ha toccato) --- */
+  const _pf=$('#pref');
+  if(_pf && !_pf.dataset.touched){ const _v=PREF_BY_LANG[LANG]; if(_v && [..._pf.options].some(o=>o.value===_v)) _pf.value=_v; }
 
   /* --- servizi --- */
   const SRV_URL=t.servizi.items.map((_,i)=>srvUrl(i));
@@ -3596,7 +3618,7 @@ function mailOk(){
     });
     t.addEventListener('blur',()=>{ if(t.value.trim()&&!telOk()){ t.classList.add('bad'); $('#telErr').classList.add('on'); } });
   }
-  if(p) p.addEventListener('change',()=>{ t.classList.remove('bad'); $('#telErr').classList.remove('on'); });
+  if(p) p.addEventListener('change',()=>{ p.dataset.touched='1'; t.classList.remove('bad'); $('#telErr').classList.remove('on'); });
   if(e){
     e.addEventListener('input',()=>{ e.classList.remove('bad'); $('#emailErr').classList.remove('on'); });
     e.addEventListener('blur',()=>{ if(!mailOk()){ e.classList.add('bad'); $('#emailErr').classList.add('on'); } });
