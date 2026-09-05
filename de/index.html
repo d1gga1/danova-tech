@@ -1696,7 +1696,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
+      <span class="f-legal" id="fLegal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>
@@ -3375,12 +3375,21 @@ function render(){
   const ABOUT_URL={it:'/chi-siamo/',en:'/en/about/',de:'/de/ueber-uns/',fr:'/fr/a-propos/',es:'/es/sobre-nosotros/'};
   $$('[data-about]').forEach(a=>a.href=ABOUT_URL[LANG]);
   const anch=['#settori','#lavori','#processo',ABOUT_URL[LANG],'#faq','#contatti'];
-  $('#fc2').innerHTML=t.footer.c2.map((x,i)=>`<li><a href="${anch[i]}">${x}</a></li>`).join('');
+  const c2=t.footer.c2.map((x,i)=>`<li><a href="${anch[i]}">${x}</a></li>`);
+  if(LANG==='it') c2.push('<li><a href="/guide/">Guide</a></li>');
+  $('#fc2').innerHTML=c2.join('');
 
   /* --- link legali nel footer --- */
-  $('#fLegal').innerHTML=t.legal.nav.map((x,i)=>
-    `<button type="button" data-lg="${LGL_KEYS[i]}">${x}</button>`).join('<i>\u00b7</i>');
-  $$('#fLegal button').forEach(b=>b.addEventListener('click',()=>openLegal(b.dataset.lg)));
+  const LGL_URL={
+    it:[['/privacy/','Privacy Policy'],['/cookie-policy/','Cookie Policy'],['/termini/','Termini'],['/contatti/','Contatti']],
+    en:[['/en/privacy/','Privacy Policy'],['/en/cookie-policy/','Cookie Policy'],['/en/terms/','Terms'],['/en/contact/','Contact']],
+    de:[['/de/datenschutz/','Datenschutz'],['/de/cookie-richtlinie/','Cookie-Richtlinie'],['/de/agb/','AGB'],['/de/kontakt/','Kontakt']],
+    fr:[['/fr/confidentialite/','Confidentialit\u00e9'],['/fr/cookies/','Cookies'],['/fr/conditions/','Conditions'],['/fr/contact/','Contact']],
+    es:[['/es/privacidad/','Privacidad'],['/es/cookies/','Cookies'],['/es/condiciones/','Condiciones'],['/es/contacto/','Contacto']]
+  };
+  const FL=$('#fLegal');
+  if(FL) FL.innerHTML=(LGL_URL[LANG]||LGL_URL.it)
+    .map(([u,x])=>`<a href="${u}">${x}</a>`).join('<i>\u00b7</i>');
   if(LGL_CUR) paintLegal();
 
   /* --- rebind --- */
