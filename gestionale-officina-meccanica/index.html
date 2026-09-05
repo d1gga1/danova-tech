@@ -53,169 +53,226 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/gestionale-officina-meccanica/#service",
-   "name": "Gestionale per officina meccanica",
-   "serviceType": "Sviluppo di gestionali su misura per officine e autoriparazione",
-   "description": "Software gestionale per officine meccaniche: accettazione, schede di lavorazione, ricambi, preventivi e scadenze tagliando. Su misura, a tappe con prezzo fisso.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Veneto"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/gestionale-officina-meccanica/#service",
+      "name": "Gestionale per officina meccanica",
+      "serviceType": "Sviluppo di gestionali su misura per officine e autoriparazione",
+      "description": "Software gestionale per officine meccaniche: accettazione, schede di lavorazione, ricambi, preventivi e scadenze tagliando. Su misura, a tappe con prezzo fisso.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Gestionale per officina meccanica",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Accettazione e preventivi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Schede di lavorazione"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestione ricambi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Scadenzario e promemoria"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Integrazione con la fatturazione"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Friuli-Venezia Giulia"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/gestionale-officina-meccanica/#webpage",
+      "url": "https://danova-tech.com/gestionale-officina-meccanica/",
+      "name": "Gestionale per officina meccanica su misura | Danova Tech",
+      "description": "Software gestionale per officine meccaniche: accettazione, schede di lavorazione, ricambi, preventivi e scadenze tagliando. Su misura, a tappe con prezzo fisso.",
+      "inLanguage": "it",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/gestionale-officina-meccanica/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/gestionale-officina-meccanica/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gestionale officina meccanica",
+          "item": "https://danova-tech.com/gestionale-officina-meccanica/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/gestionale-officina-meccanica/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa un gestionale per officina su misura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La prima tappa in produzione parte in genere dalla fascia medio-alta delle quattro cifre. Dipende dalle aree coperte e dai collegamenti richiesti: la cifra la diciamo dopo il sopralluogo, e poi è fissa per tappa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Conviene rispetto a un prodotto già pronto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende dal numero di postazioni e da quanto il prodotto standard si adatta al vostro lavoro. Su un'officina piccola e generalista spesso conviene il prodotto pronto, e lo diciamo. Su officine con lavorazioni particolari o con molte postazioni il su misura si ripaga in due o tre anni e poi resta vostro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si collega al programma di fatturazione che usiamo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nella maggior parte dei casi sì: il gestionale di officina prepara i dati e la fattura viene emessa dal programma che già usate, senza doppia digitazione. Lo verifichiamo prima di promettere qualcosa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I meccanici riusciranno a usarlo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se è progettato per loro sì. Le schermate del banco devono avere pochi pulsanti grandi e funzionare con le mani sporche su un tablet. È esattamente il motivo per cui veniamo a guardare come lavorate prima di disegnare qualsiasi cosa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Possiamo mandare i promemoria via WhatsApp?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, attraverso i canali ufficiali per i messaggi aziendali, oppure via SMS ed email. La scelta dipende da quanti clienti avete e da quale canale usano davvero: in molte officine il messaggio funziona meglio della telefonata perché non interrompe nessuno."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Gestionale per officina meccanica",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Accettazione e preventivi"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Schede di lavorazione"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Gestione ricambi"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Scadenzario e promemoria"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Integrazione con la fatturazione"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/gestionale-officina-meccanica/#webpage",
-   "url": "https://danova-tech.com/gestionale-officina-meccanica/",
-   "name": "Gestionale per officina meccanica su misura | Danova Tech",
-   "description": "Software gestionale per officine meccaniche: accettazione, schede di lavorazione, ricambi, preventivi e scadenze tagliando. Su misura, a tappe con prezzo fisso.",
-   "inLanguage": "it",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/gestionale-officina-meccanica/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/gestionale-officina-meccanica/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Gestionale officina meccanica",
-     "item": "https://danova-tech.com/gestionale-officina-meccanica/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/gestionale-officina-meccanica/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Quanto costa un gestionale per officina su misura?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "La prima tappa in produzione parte in genere dalla fascia medio-alta delle quattro cifre. Dipende dalle aree coperte e dai collegamenti richiesti: la cifra la diciamo dopo il sopralluogo, e poi è fissa per tappa."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Conviene rispetto a un prodotto già pronto?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende dal numero di postazioni e da quanto il prodotto standard si adatta al vostro lavoro. Su un'officina piccola e generalista spesso conviene il prodotto pronto, e lo diciamo. Su officine con lavorazioni particolari o con molte postazioni il su misura si ripaga in due o tre anni e poi resta vostro."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Si collega al programma di fatturazione che usiamo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nella maggior parte dei casi sì: il gestionale di officina prepara i dati e la fattura viene emessa dal programma che già usate, senza doppia digitazione. Lo verifichiamo prima di promettere qualcosa."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "I meccanici riusciranno a usarlo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Se è progettato per loro sì. Le schermate del banco devono avere pochi pulsanti grandi e funzionare con le mani sporche su un tablet. È esattamente il motivo per cui veniamo a guardare come lavorate prima di disegnare qualsiasi cosa."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Possiamo mandare i promemoria via WhatsApp?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, attraverso i canali ufficiali per i messaggi aziendali, oppure via SMS ed email. La scelta dipende da quanti clienti avete e da quale canale usano davvero: in molte officine il messaggio funziona meglio della telefonata perché non interrompe nessuno."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -384,6 +441,10 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a>
       <a href="../quanto-costa-un-gestionale/">Quanto costa un gestionale</a>
       <a href="../servizi/gestionali-crm/">Gestionali e CRM su misura</a>
+    
+      <a href="../software-gestionale-commesse/">Gestionale commesse</a>
+      <a href="../software-controllo-di-gestione/">Controllo di gestione</a>
+      <a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a>
     </div>
   </div>
 </section>
@@ -412,6 +473,12 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
         <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
         <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
       </ul></div>
       <div><h5>Gestionali</h5><ul>
         <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
@@ -439,8 +506,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

@@ -814,3 +814,8 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   .pg-passi li{padding-left:54px}
   .pg-passi li::before{width:36px;height:36px}
 }
+
+/* card di approfondimento: link con freccia animata */
+.sect-zone{color:inherit;text-decoration:none;display:block}
+.sect-zone .go{margin-top:15px;display:inline-flex;align-items:center;gap:7px;font-size:13px;color:var(--blue-2);font-weight:600}
+.sect-zone:hover .go{gap:11px}

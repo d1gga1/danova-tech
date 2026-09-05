@@ -57,183 +57,240 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/en/services/google-ads/#service",
-   "name": "Google Ads management",
-   "serviceType": "Google Ads agency and campaign management",
-   "description": "Google Ads management for B2B companies: search campaigns, Performance Max and remarketing. Flat monthly fee, cost per enquiry tracked, plain-English monthly report.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Country",
-     "name": "Österreich"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/en/services/google-ads/#service",
+      "name": "Google Ads management",
+      "serviceType": "Google Ads agency and campaign management",
+      "description": "Google Ads management for B2B companies: search campaigns, Performance Max and remarketing. Flat monthly fee, cost per enquiry tracked, plain-English monthly report.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Country",
+          "name": "Österreich"
+        },
+        {
+          "@type": "Country",
+          "name": "Deutschland"
+        },
+        {
+          "@type": "Country",
+          "name": "Schweiz"
+        },
+        {
+          "@type": "Country",
+          "name": "France"
+        },
+        {
+          "@type": "Country",
+          "name": "España"
+        }
+      ],
+      "availableLanguage": [
+        "English",
+        "Italian",
+        "German",
+        "French",
+        "Spanish"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Google Ads management",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Search campaigns"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Performance Max"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Remarketing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Local campaigns"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Conversion tracking"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Deutschland"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/en/services/google-ads/#webpage",
+      "url": "https://danova-tech.com/en/services/google-ads/",
+      "name": "Google Ads agency: campaigns measured in enquiries | Danova Tech",
+      "description": "Google Ads management for B2B companies: search campaigns, Performance Max and remarketing. Flat monthly fee, cost per enquiry tracked, plain-English monthly report.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/en/services/google-ads/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Schweiz"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/en/services/google-ads/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://danova-tech.com/en/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Google Ads",
+          "item": "https://danova-tech.com/en/services/google-ads/"
+        }
+      ]
     },
     {
-     "@type": "Country",
-     "name": "France"
-    },
-    {
-     "@type": "Country",
-     "name": "España"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/en/services/google-ads/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the minimum budget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It depends on the sector, but below roughly £500 a month in media spend there is too little data for optimisation to work, and decisions end up being made on instinct. For most B2B companies the useful starting point is between £700 and £2,000 a month."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How is management priced?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A flat monthly fee agreed in advance, not a percentage of ad spend. A percentage creates an obvious conflict of interest: whoever charges it earns more when you spend more, whether or not the spend is needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How quickly do results appear?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "First enquiries arrive within days. Reliable numbers take three to four weeks, the time the algorithm needs to gather enough conversions. Anyone promising stable results in a week is describing luck rather than a method."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where are you based?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mansuè, in Northern Italy, an hour from Venice. We work in English, run client calls by video and travel for the meetings that justify it."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you take over an existing account?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, and it is usually the cheaper route. The history in a live account is worth real money: it shows which searches have produced enquiries before, so nothing has to start from zero."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "English",
-    "Italian",
-    "German",
-    "French",
-    "Spanish"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Google Ads management",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Search campaigns"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Performance Max"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Remarketing"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Local campaigns"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Conversion tracking"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/en/services/google-ads/#webpage",
-   "url": "https://danova-tech.com/en/services/google-ads/",
-   "name": "Google Ads agency: campaigns measured in enquiries | Danova Tech",
-   "description": "Google Ads management for B2B companies: search campaigns, Performance Max and remarketing. Flat monthly fee, cost per enquiry tracked, plain-English monthly report.",
-   "inLanguage": "en",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/en/services/google-ads/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/en/services/google-ads/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/en/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Services",
-     "item": "https://danova-tech.com/en/services/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Google Ads",
-     "item": "https://danova-tech.com/en/services/google-ads/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/en/services/google-ads/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "What is the minimum budget?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "It depends on the sector, but below roughly £500 a month in media spend there is too little data for optimisation to work, and decisions end up being made on instinct. For most B2B companies the useful starting point is between £700 and £2,000 a month."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How is management priced?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "A flat monthly fee agreed in advance, not a percentage of ad spend. A percentage creates an obvious conflict of interest: whoever charges it earns more when you spend more, whether or not the spend is needed."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How quickly do results appear?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "First enquiries arrive within days. Reliable numbers take three to four weeks, the time the algorithm needs to gather enough conversions. Anyone promising stable results in a week is describing luck rather than a method."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Where are you based?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Mansuè, in Northern Italy, an hour from Venice. We work in English, run client calls by video and travel for the meetings that justify it."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can you take over an existing account?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes, and it is usually the cheaper route. The history in a live account is worth real money: it shows which searches have produced enquiries before, so nothing has to start from zero."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -457,8 +514,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Back to home</a></span>
-    </div>
+      <span class="f-legal"><a href="/en/privacy/">Privacy Policy</a><i>·</i><a href="/en/cookie-policy/">Cookie Policy</a><i>·</i><a href="/en/terms/">Terms of use</a><i>·</i><a href="/en/contact/">Contact</a><i>·</i><a href="/en/">Back to home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

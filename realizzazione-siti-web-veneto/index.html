@@ -53,188 +53,245 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#service",
-   "name": "Realizzazione siti web in Veneto",
-   "serviceType": "Realizzazione di siti web ed e-commerce su misura",
-   "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende venete. Siti veloci, multilingua e ottimizzati per Google e Bing, a prezzo fisso, online in 2-8 settimane.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "AdministrativeArea",
-     "name": "Veneto"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Treviso"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#service",
+      "name": "Realizzazione siti web in Veneto",
+      "serviceType": "Realizzazione di siti web ed e-commerce su misura",
+      "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende venete. Siti veloci, multilingua e ottimizzati per Google e Bing, a prezzo fisso, online in 2-8 settimane.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "City",
+          "name": "Treviso"
+        },
+        {
+          "@type": "City",
+          "name": "Venezia"
+        },
+        {
+          "@type": "City",
+          "name": "Padova"
+        },
+        {
+          "@type": "City",
+          "name": "Vicenza"
+        },
+        {
+          "@type": "City",
+          "name": "Verona"
+        },
+        {
+          "@type": "City",
+          "name": "Belluno"
+        },
+        {
+          "@type": "City",
+          "name": "Rovigo"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Realizzazione siti web in Veneto",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Sito aziendale multilingua"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "E-commerce su misura"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page per campagne"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Restyling e ottimizzazione della velocità"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Venezia"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#webpage",
+      "url": "https://danova-tech.com/realizzazione-siti-web-veneto/",
+      "name": "Realizzazione siti web in Veneto | Danova Tech",
+      "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende venete. Siti veloci, multilingua e ottimizzati per Google e Bing, a prezzo fisso, online in 2-8 settimane.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Padova"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Siti web & E-commerce",
+          "item": "https://danova-tech.com/servizi/siti-web-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Realizzazione siti web in Veneto",
+          "item": "https://danova-tech.com/realizzazione-siti-web-veneto/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Vicenza"
-    },
-    {
-     "@type": "City",
-     "name": "Verona"
-    },
-    {
-     "@type": "City",
-     "name": "Belluno"
-    },
-    {
-     "@type": "City",
-     "name": "Rovigo"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa far realizzare un sito web in Veneto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non c'è un listino, perché il costo dipende da cinque cose: il tipo di progetto, chi scrive i contenuti, quante lingue servono, a quali sistemi si deve collegare e quanto dovrete poterlo aggiornare da soli. Le spieghiamo tutte nella pagina dedicata ai preventivi. Il prezzo è fisso e arriva dopo una prima call gratuita."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lavorate in tutto il Veneto o solo in provincia di Treviso?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In tutto il Veneto, e anche fuori. La sede è a Mansuè, in provincia di Treviso: Treviso, Venezia, Padova e Pordenone sono nel raggio di un'ora, quindi gli incontri di persona sono comodi. Con le aziende più lontane lavoriamo in videochiamata senza problemi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo ci vuole?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da due a otto settimane. Un sito vetrina con i contenuti già pronti va online in due o tre settimane; un e-commerce o un sito multilingua richiede di più, soprattutto per i testi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Fate anche il posizionamento su Google?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il sito nasce già ottimizzato: struttura, titoli, dati strutturati, sitemap e collegamento a Search Console e Bing. Il posizionamento continuativo su parole difficili è un servizio a parte, perché è un lavoro che dura mesi e va misurato."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che differenza c'è fra un sito su misura e un template?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un template costa meno e si vede: struttura pensata per qualcun altro, codice pesante, pagine che non dicono quello che serve. Un sito su misura parte da cosa vendete e a chi, ed è quasi sempre più veloce. La differenza si vede sui contatti che arrivano, non sull'estetica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Siete una web agency o un'agenzia di software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entrambe le cose, ed è il motivo per cui certi clienti ci scelgono. Come agenzia web in Veneto costruiamo siti, e-commerce e campagne; come software house sviluppiamo gestionali e app. Il vantaggio pratico è che il sito e il gestionale li collega lo stesso team: chi cerca una web agency Veneto e poi si accorge di aver bisogno anche del magazzino collegato non deve mettere due fornitori intorno allo stesso tavolo."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Realizzazione siti web in Veneto",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Sito aziendale multilingua"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "E-commerce su misura"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page per campagne"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Restyling e ottimizzazione della velocità"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#webpage",
-   "url": "https://danova-tech.com/realizzazione-siti-web-veneto/",
-   "name": "Realizzazione siti web in Veneto | Danova Tech",
-   "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende venete. Siti veloci, multilingua e ottimizzati per Google e Bing, a prezzo fisso, online in 2-8 settimane.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Siti web & E-commerce",
-     "item": "https://danova-tech.com/servizi/siti-web-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Realizzazione siti web in Veneto",
-     "item": "https://danova-tech.com/realizzazione-siti-web-veneto/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-veneto/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Quanto costa far realizzare un sito web in Veneto?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Non c'è un listino, perché il costo dipende da cinque cose: il tipo di progetto, chi scrive i contenuti, quante lingue servono, a quali sistemi si deve collegare e quanto dovrete poterlo aggiornare da soli. Le spieghiamo tutte nella pagina dedicata ai preventivi. Il prezzo è fisso e arriva dopo una prima call gratuita."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Lavorate in tutto il Veneto o solo in provincia di Treviso?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In tutto il Veneto, e anche fuori. La sede è a Mansuè, in provincia di Treviso: Treviso, Venezia, Padova e Pordenone sono nel raggio di un'ora, quindi gli incontri di persona sono comodi. Con le aziende più lontane lavoriamo in videochiamata senza problemi."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto tempo ci vuole?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Da due a otto settimane. Un sito vetrina con i contenuti già pronti va online in due o tre settimane; un e-commerce o un sito multilingua richiede di più, soprattutto per i testi."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Fate anche il posizionamento su Google?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Il sito nasce già ottimizzato: struttura, titoli, dati strutturati, sitemap e collegamento a Search Console e Bing. Il posizionamento continuativo su parole difficili è un servizio a parte, perché è un lavoro che dura mesi e va misurato."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Che differenza c'è fra un sito su misura e un template?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Un template costa meno e si vede: struttura pensata per qualcun altro, codice pesante, pagine che non dicono quello che serve. Un sito su misura parte da cosa vendete e a chi, ed è quasi sempre più veloce. La differenza si vede sui contatti che arrivano, non sull'estetica."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Siete una web agency o un'agenzia di software?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Entrambe le cose, ed è il motivo per cui certi clienti ci scelgono. Come agenzia web in Veneto costruiamo siti, e-commerce e campagne; come software house sviluppiamo gestionali e app. Il vantaggio pratico è che il sito e il gestionale li collega lo stesso team: chi cerca una web agency Veneto e poi si accorge di aver bisogno anche del magazzino collegato non deve mettere due fornitori intorno allo stesso tavolo."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -424,6 +481,10 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../realizzazione-siti-web-verona/">Siti web a Verona</a>
       <a href="../realizzazione-siti-web-padova/">Siti web a Padova</a>
       <a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a>
+    
+      <a href="../realizzazione-siti-web-udine/">Siti web a Udine</a>
+    
+      <a href="/guide/google-business-profile-guida/">Guida a Google Business Profile</a>
     </div>
   </div>
 </section>
@@ -452,6 +513,12 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
         <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
         <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
       </ul></div>
       <div><h5>Gestionali</h5><ul>
         <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
@@ -479,8 +546,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

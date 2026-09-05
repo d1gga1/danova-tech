@@ -53,194 +53,251 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/es/diseno-web-barcelona/#service",
-   "name": "Diseño web Barcelona",
-   "serviceType": "Diseño y desarrollo de webs bilingües, tiendas online y SEO",
-   "description": "Agencia de diseño web para empresas de Barcelona: webs en catalán y castellano, tiendas online, SEO y Google Ads. Presupuesto cerrado, online en 2-8 semanas.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Barcelona"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Cataluña"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/es/diseno-web-barcelona/#service",
+      "name": "Diseño web Barcelona",
+      "serviceType": "Diseño y desarrollo de webs bilingües, tiendas online y SEO",
+      "description": "Agencia de diseño web para empresas de Barcelona: webs en catalán y castellano, tiendas online, SEO y Google Ads. Presupuesto cerrado, online en 2-8 semanas.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Barcelona"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cataluña"
+        },
+        {
+          "@type": "City",
+          "name": "L'Hospitalet de Llobregat"
+        },
+        {
+          "@type": "City",
+          "name": "Sabadell"
+        },
+        {
+          "@type": "Country",
+          "name": "España"
+        }
+      ],
+      "availableLanguage": [
+        "Spanish",
+        "Catalan",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Diseño web Barcelona",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web corporativa"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tienda online"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing de campaña"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Rediseño web"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Posicionamiento SEO"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "L'Hospitalet de Llobregat"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/es/diseno-web-barcelona/#webpage",
+      "url": "https://danova-tech.com/es/diseno-web-barcelona/",
+      "name": "Diseño web en Barcelona — webs bilingües | Danova Tech",
+      "description": "Agencia de diseño web para empresas de Barcelona: webs en catalán y castellano, tiendas online, SEO y Google Ads. Presupuesto cerrado, online en 2-8 semanas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/es/diseno-web-barcelona/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Sabadell"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/diseno-web-barcelona/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Webs & E-commerce",
+          "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Diseño web Barcelona",
+          "item": "https://danova-tech.com/es/diseno-web-barcelona/"
+        }
+      ]
     },
     {
-     "@type": "Country",
-     "name": "España"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/diseno-web-barcelona/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Estáis en Barcelona?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, nuestra sede está en Mansuè, en el norte de Italia. Trabajamos en español, atendemos por videollamada y viajamos para el arranque y la entrega cuando el proyecto lo justifica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Escribís también la versión en catalán?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "El castellano y el italiano los escribimos nosotros. Para el catalán trabajamos con redactores nativos y les damos la investigación de palabras hecha para ese idioma, de modo que el texto apunte a los términos correctos en lugar de ser una traducción fiel pero invisible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona la facturación con un proveedor italiano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De forma intracomunitaria normal: recibes una factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es la misma operación que con cualquier otro proveedor europeo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La web se escribe en español o se traduce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se escribe en español. Un texto traducido se nota al instante, y Google también lo nota. El vocabulario de un sector no se traslada a máquina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto tarda el proyecto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una web corporativa de ocho a quince páginas suele publicarse en cuatro a ocho semanas; una tienda, más. El cuello de botella casi nunca somos nosotros, sino las validaciones y las fotos de producto: por eso fijamos en el arranque quién entrega qué y cuándo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La web es realmente mía?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Dominio, alojamiento, código y contenidos van a tu nombre. No hay cuota obligatoria para seguir usando tu propia web, ni un constructor propietario del que después no se pueda salir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacéis también posicionamiento en Barcelona?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Como agencia SEO Barcelona trabajamos los dos idiomas por separado, que es la única forma de existir en ambos públicos. Como agencia de diseño web Barcelona llevamos el diseño y el desarrollo, y el posicionamiento web Barcelona lo enfocamos primero en barrios y municipios del área metropolitana, donde hay hueco real."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Spanish",
-    "Catalan",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Diseño web Barcelona",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Web corporativa"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tienda online"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing de campaña"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Rediseño web"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Posicionamiento SEO"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/es/diseno-web-barcelona/#webpage",
-   "url": "https://danova-tech.com/es/diseno-web-barcelona/",
-   "name": "Diseño web en Barcelona — webs bilingües | Danova Tech",
-   "description": "Agencia de diseño web para empresas de Barcelona: webs en catalán y castellano, tiendas online, SEO y Google Ads. Presupuesto cerrado, online en 2-8 semanas.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/es/diseno-web-barcelona/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/diseno-web-barcelona/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/es/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Webs & E-commerce",
-     "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Diseño web Barcelona",
-     "item": "https://danova-tech.com/es/diseno-web-barcelona/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/diseno-web-barcelona/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿Estáis en Barcelona?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No, nuestra sede está en Mansuè, en el norte de Italia. Trabajamos en español, atendemos por videollamada y viajamos para el arranque y la entrega cuando el proyecto lo justifica."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Escribís también la versión en catalán?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "El castellano y el italiano los escribimos nosotros. Para el catalán trabajamos con redactores nativos y les damos la investigación de palabras hecha para ese idioma, de modo que el texto apunte a los términos correctos en lugar de ser una traducción fiel pero invisible."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cómo funciona la facturación con un proveedor italiano?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De forma intracomunitaria normal: recibes una factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es la misma operación que con cualquier otro proveedor europeo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿La web se escribe en español o se traduce?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Se escribe en español. Un texto traducido se nota al instante, y Google también lo nota. El vocabulario de un sector no se traslada a máquina."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cuánto tarda el proyecto?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Una web corporativa de ocho a quince páginas suele publicarse en cuatro a ocho semanas; una tienda, más. El cuello de botella casi nunca somos nosotros, sino las validaciones y las fotos de producto: por eso fijamos en el arranque quién entrega qué y cuándo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿La web es realmente mía?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. Dominio, alojamiento, código y contenidos van a tu nombre. No hay cuota obligatoria para seguir usando tu propia web, ni un constructor propietario del que después no se pueda salir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Hacéis también posicionamiento en Barcelona?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. Como agencia SEO Barcelona trabajamos los dos idiomas por separado, que es la única forma de existir en ambos públicos. Como agencia de diseño web Barcelona llevamos el diseño y el desarrollo, y el posicionamiento web Barcelona lo enfocamos primero en barrios y municipios del área metropolitana, donde hay hueco real."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -412,6 +469,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../servicios/seo/">Agencia SEO</a>
       <a href="../servicios/google-ads/">Google Ads</a>
       <a href="../servicios/">Todos los servicios</a>
+    
+      <a href="../diseno-web-madrid/">Diseño web Madrid</a>
+      <a href="../diseno-web-valencia/">Diseño web Valencia</a>
+      <a href="../cuanto-cuesta-una-pagina-web/">Cuánto cuesta una página web</a>
+      <a href="../agencia-seo-espana/">Agencia SEO España</a>
     </div>
   </div>
 </section>
@@ -451,8 +513,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

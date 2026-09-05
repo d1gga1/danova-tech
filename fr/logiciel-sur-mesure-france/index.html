@@ -53,173 +53,230 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#service",
-   "name": "Développement de logiciels de gestion sur mesure pour la France",
-   "serviceType": "Développement de logiciels de gestion ERP et CRM sur mesure",
-   "description": "ERP, CRM et logiciels métier sur mesure pour les PME françaises : stock, production, affaires et tableaux de bord dans un seul système. Sans licence par utilisateur, code source inclus.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "France"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Paris"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#service",
+      "name": "Développement de logiciels de gestion sur mesure pour la France",
+      "serviceType": "Développement de logiciels de gestion ERP et CRM sur mesure",
+      "description": "ERP, CRM et logiciels métier sur mesure pour les PME françaises : stock, production, affaires et tableaux de bord dans un seul système. Sans licence par utilisateur, code source inclus.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "France"
+        },
+        {
+          "@type": "City",
+          "name": "Paris"
+        },
+        {
+          "@type": "City",
+          "name": "Lyon"
+        },
+        {
+          "@type": "City",
+          "name": "Lille"
+        },
+        {
+          "@type": "City",
+          "name": "Strasbourg"
+        },
+        {
+          "@type": "City",
+          "name": "Grenoble"
+        },
+        {
+          "@type": "City",
+          "name": "Nantes"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Développement de logiciels de gestion sur mesure pour la France",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestion de stock"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Production et affaires"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tableaux de bord et marges"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Interfaces comptabilité et e-commerce"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Lyon"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#webpage",
+      "url": "https://danova-tech.com/fr/logiciel-sur-mesure-france/",
+      "name": "Logiciel de gestion sur mesure en France | Danova Tech",
+      "description": "ERP, CRM et logiciels métier sur mesure pour les PME françaises : stock, production, affaires et tableaux de bord dans un seul système. Sans licence par utilisateur, code source inclus.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Lille"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "ERP & CRM",
+          "item": "https://danova-tech.com/fr/services/erp-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Logiciel sur mesure en France",
+          "item": "https://danova-tech.com/fr/logiciel-sur-mesure-france/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Strasbourg"
-    },
-    {
-     "@type": "City",
-     "name": "Grenoble"
-    },
-    {
-     "@type": "City",
-     "name": "Nantes"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Pourquoi un ERP sur mesure plutôt qu'un progiciel ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parce qu'un progiciel est conçu pour la moyenne d'un secteur, et aucune entreprise n'est cette moyenne. Ce sont toujours les mêmes points qui coincent : sous-traitance, retours, matière du client, rebut, la variante que vous seuls gérez ainsi. Ce que le système ignore finit dans un fichier à part, et à partir de là plus personne ne fait confiance aux chiffres."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Est-ce rentable face à un modèle par licence ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le calcul honnête se fait sur cinq ans, pas sur la première année. Licence par utilisateur, chaque année, plus les personnalisations facturées à part. Le sur-mesure coûte plus cher au départ puis cesse de coûter."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment travaillez-vous à distance ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le premier relevé se fait chez vous, cela ne se remplace pas. Ensuite : point hebdomadaire en visioconférence, prototypes partagés, un interlocuteur unique."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le code source nous appartient-il ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, et il est documenté. Cela figure dans le contrat, nous l'y écrivons."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-on l'interfacer avec notre comptabilité ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En général oui. La plupart des systèmes s'interfacent ; le travail consiste à construire la passerelle, pas à tout remplacer."
+          }
+        }
+      ]
     }
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Développement de logiciels de gestion sur mesure pour la France",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Gestion de stock"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Production et affaires"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tableaux de bord et marges"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Interfaces comptabilité et e-commerce"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#webpage",
-   "url": "https://danova-tech.com/fr/logiciel-sur-mesure-france/",
-   "name": "Logiciel de gestion sur mesure en France | Danova Tech",
-   "description": "ERP, CRM et logiciels métier sur mesure pour les PME françaises : stock, production, affaires et tableaux de bord dans un seul système. Sans licence par utilisateur, code source inclus.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Accueil",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "ERP & CRM",
-     "item": "https://danova-tech.com/fr/services/erp-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Logiciel sur mesure en France",
-     "item": "https://danova-tech.com/fr/logiciel-sur-mesure-france/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/logiciel-sur-mesure-france/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Pourquoi un ERP sur mesure plutôt qu'un progiciel ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Parce qu'un progiciel est conçu pour la moyenne d'un secteur, et aucune entreprise n'est cette moyenne. Ce sont toujours les mêmes points qui coincent : sous-traitance, retours, matière du client, rebut, la variante que vous seuls gérez ainsi. Ce que le système ignore finit dans un fichier à part, et à partir de là plus personne ne fait confiance aux chiffres."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Est-ce rentable face à un modèle par licence ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Le calcul honnête se fait sur cinq ans, pas sur la première année. Licence par utilisateur, chaque année, plus les personnalisations facturées à part. Le sur-mesure coûte plus cher au départ puis cesse de coûter."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Comment travaillez-vous à distance ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Le premier relevé se fait chez vous, cela ne se remplace pas. Ensuite : point hebdomadaire en visioconférence, prototypes partagés, un interlocuteur unique."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le code source nous appartient-il ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui, et il est documenté. Cela figure dans le contrat, nous l'y écrivons."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Peut-on l'interfacer avec notre comptabilité ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "En général oui. La plupart des systèmes s'interfacent ; le travail consiste à construire la passerelle, pas à tout remplacer."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -427,8 +484,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

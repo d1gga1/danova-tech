@@ -59,162 +59,219 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/en/services/custom-apps/#service",
-   "name": "Custom app development",
-   "serviceType": "Mobile and web application development",
-   "description": "Development of iOS and Android applications, web apps and Progressive Web Apps built around the client workflow, with authentication, push notifications, in-app payments and integration with existing systems.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Place",
-     "name": "Europa"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/en/services/custom-apps/#service",
+      "name": "Custom app development",
+      "serviceType": "Mobile and web application development",
+      "description": "Development of iOS and Android applications, web apps and Progressive Web Apps built around the client workflow, with authentication, push notifications, in-app payments and integration with existing systems.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "Worldwide"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Custom app development",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "iOS and Android apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web apps and Progressive Web Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Login, push notifications and in-app payments"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Integration with existing systems"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Maintenance and updates"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Place",
-     "name": "Worldwide"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/en/services/custom-apps/#webpage",
+      "url": "https://danova-tech.com/en/services/custom-apps/",
+      "name": "Custom iOS, Android and web app development | Danova Tech",
+      "description": "Mobile and web apps built around your workflow: login, push notifications, in-app payments, integration with the systems you already use. Maintenance included.",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/en/services/custom-apps/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/en/services/custom-apps/#breadcrumb"
+      },
+      "inLanguage": "en",
+      "dateModified": "2026-08-29"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/en/services/custom-apps/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://danova-tech.com/en/#servizi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Custom app development"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/en/services/custom-apps/#faq",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/en/services/custom-apps/#webpage"
+      },
+      "inLanguage": "en",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "How much does it cost to build an app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost entirely on how much it has to do. The most honest way to find out is to start with the prototype: it costs a fraction of the full project and gives you a quote based on something concrete rather than a spoken description."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is an app better than a site that works on phones?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Very often the second, and we say so even though it is worth less to us. An app makes sense when you need push notifications, offline use, or access to the camera and sensors. If none of those apply, a web app costs less and does not have to go through the stores."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you publish to the stores?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, we handle publication to the App Store and Google Play, listings included. The accounts stay in your name."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What happens when a new iOS or Android comes out?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apps need updating, otherwise sooner or later they stop working or get removed from the stores. That is why maintenance is part of the conversation from the start, not a cost you discover in year two."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Custom app development",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "iOS and Android apps"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Web apps and Progressive Web Apps"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Login, push notifications and in-app payments"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Integration with existing systems"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Maintenance and updates"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/en/services/custom-apps/#webpage",
-   "url": "https://danova-tech.com/en/services/custom-apps/",
-   "name": "Custom iOS, Android and web app development | Danova Tech",
-   "description": "Mobile and web apps built around your workflow: login, push notifications, in-app payments, integration with the systems you already use. Maintenance included.",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/en/services/custom-apps/#service"
-   },
-   "breadcrumb": {
-    "@id": "https://danova-tech.com/en/services/custom-apps/#breadcrumb"
-   },
-   "inLanguage": "en",
-   "dateModified": "2026-08-29"
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/en/services/custom-apps/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/en/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Services",
-     "item": "https://danova-tech.com/en/#servizi"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Custom app development"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/en/services/custom-apps/#faq",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/en/services/custom-apps/#webpage"
-   },
-   "inLanguage": "en",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "How much does it cost to build an app?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Almost entirely on how much it has to do. The most honest way to find out is to start with the prototype: it costs a fraction of the full project and gives you a quote based on something concrete rather than a spoken description."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Is an app better than a site that works on phones?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Very often the second, and we say so even though it is worth less to us. An app makes sense when you need push notifications, offline use, or access to the camera and sensors. If none of those apply, a web app costs less and does not have to go through the stores."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Do you publish to the stores?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes, we handle publication to the App Store and Google Play, listings included. The accounts stay in your name."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What happens when a new iOS or Android comes out?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Apps need updating, otherwise sooner or later they stop working or get removed from the stores. That is why maintenance is part of the conversation from the start, not a cost you discover in year two."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -446,8 +503,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Back to home</a></span>
-    </div>
+      <span class="f-legal"><a href="/en/privacy/">Privacy Policy</a><i>·</i><a href="/en/cookie-policy/">Cookie Policy</a><i>·</i><a href="/en/terms/">Terms of use</a><i>·</i><a href="/en/contact/">Contact</a><i>·</i><a href="/en/">Back to home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

@@ -53,157 +53,214 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#service",
-   "name": "Software gestionale a Venezia e Mestre",
-   "serviceType": "Sviluppo di software gestionale su misura",
-   "description": "Software gestionale su misura per turismo, logistica e servizi fra Venezia e Mestre: prenotazioni, commesse e fatturazione ricorrente in un unico sistema.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Venezia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Mestre"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#service",
+      "name": "Software gestionale a Venezia e Mestre",
+      "serviceType": "Sviluppo di software gestionale su misura",
+      "description": "Software gestionale su misura per turismo, logistica e servizi fra Venezia e Mestre: prenotazioni, commesse e fatturazione ricorrente in un unico sistema.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Venezia"
+        },
+        {
+          "@type": "City",
+          "name": "Mestre"
+        },
+        {
+          "@type": "City",
+          "name": "Marghera"
+        },
+        {
+          "@type": "City",
+          "name": "Mirano"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Città metropolitana di Venezia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software gestionale a Venezia e Mestre",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Prenotazioni e disponibilità"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Servizi ricorrenti e rinnovi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Logistica e movimenti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Numeri per stagione"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Marghera"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#webpage",
+      "url": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/",
+      "name": "Software gestionale a Venezia e Mestre | Danova Tech",
+      "description": "Software gestionale su misura per turismo, logistica e servizi fra Venezia e Mestre: prenotazioni, commesse e fatturazione ricorrente in un unico sistema.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#service"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Mirano"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software gestionale a Venezia e Mestre",
+          "item": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/"
+        }
+      ]
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Città metropolitana di Venezia"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Abbiamo già un gestionale di settore. Serve buttarlo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Quasi mai. Se copre bene la sua parte, la strada più sensata è costruire il pezzo che manca e farli parlare fra loro. Rifare tutto costa di più e serve solo quando il sistema esistente è davvero un ostacolo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lavorate con attività stagionali?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, e la stagionalità cambia le priorità: il sistema va costruito e messo in mano alle persone nel periodo di calma, non nel pieno della stagione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Siete di Treviso, non di Venezia.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vero, e lo diciamo apertamente: Mestre è a una quarantina di minuti da noi. Gli incontri importanti li facciamo di persona, il lavoro corrente a distanza. Se cercate qualcuno sotto casa a tutte le ore, non siamo noi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo prima di vedere qualcosa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il primo modulo di solito è utilizzabile in poche settimane. Si inizia a usarlo mentre il resto si costruisce."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Software gestionale a Venezia e Mestre",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Prenotazioni e disponibilità"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Servizi ricorrenti e rinnovi"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Logistica e movimenti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Numeri per stagione"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#webpage",
-   "url": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/",
-   "name": "Software gestionale a Venezia e Mestre | Danova Tech",
-   "description": "Software gestionale su misura per turismo, logistica e servizi fra Venezia e Mestre: prenotazioni, commesse e fatturazione ricorrente in un unico sistema.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#service"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software gestionale a Venezia e Mestre",
-     "item": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-venezia-mestre/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Abbiamo già un gestionale di settore. Serve buttarlo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Quasi mai. Se copre bene la sua parte, la strada più sensata è costruire il pezzo che manca e farli parlare fra loro. Rifare tutto costa di più e serve solo quando il sistema esistente è davvero un ostacolo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Lavorate con attività stagionali?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, e la stagionalità cambia le priorità: il sistema va costruito e messo in mano alle persone nel periodo di calma, non nel pieno della stagione."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Siete di Treviso, non di Venezia.",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Vero, e lo diciamo apertamente: Mestre è a una quarantina di minuti da noi. Gli incontri importanti li facciamo di persona, il lavoro corrente a distanza. Se cercate qualcuno sotto casa a tutte le ore, non siamo noi."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto tempo prima di vedere qualcosa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Il primo modulo di solito è utilizzabile in poche settimane. Si inizia a usarlo mentre il resto si costruisce."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -422,8 +479,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

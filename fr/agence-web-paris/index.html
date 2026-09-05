@@ -53,185 +53,242 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/agence-web-paris/#service",
-   "name": "Agence web Paris",
-   "serviceType": "Création de sites internet, e-commerce et référencement",
-   "description": "Agence web pour les entreprises parisiennes : sites vitrine, e-commerce, SEO et Google Ads. Rédigé en français, devis au forfait, en ligne en 2 à 8 semaines.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Paris"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Île-de-France"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/agence-web-paris/#service",
+      "name": "Agence web Paris",
+      "serviceType": "Création de sites internet, e-commerce et référencement",
+      "description": "Agence web pour les entreprises parisiennes : sites vitrine, e-commerce, SEO et Google Ads. Rédigé en français, devis au forfait, en ligne en 2 à 8 semaines.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Paris"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Île-de-France"
+        },
+        {
+          "@type": "Country",
+          "name": "France"
+        }
+      ],
+      "availableLanguage": [
+        "French",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Agence web Paris",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site vitrine d'entreprise"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site e-commerce"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Refonte de site"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Référencement naturel"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "France"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/agence-web-paris/#webpage",
+      "url": "https://danova-tech.com/fr/agence-web-paris/",
+      "name": "Agence web à Paris — sites, e-commerce et SEO | Danova Tech",
+      "description": "Agence web pour les entreprises parisiennes : sites vitrine, e-commerce, SEO et Google Ads. Rédigé en français, devis au forfait, en ligne en 2 à 8 semaines.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/agence-web-paris/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/agence-web-paris/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sites web & E-commerce",
+          "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Agence web Paris",
+          "item": "https://danova-tech.com/fr/agence-web-paris/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/agence-web-paris/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Êtes-vous basés à Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients français en visioconférence et nous déplaçons à Paris pour le lancement et la livraison quand le projet le justifie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment se passe la facturation avec un prestataire italien ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De façon parfaitement classique en intracommunautaire : vous recevez une facture sans TVA italienne, avec autoliquidation sur votre numéro de TVA. Pour votre comptable, c'est la même opération qu'avec n'importe quel fournisseur européen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site est-il rédigé en français ou traduit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rédigé en français. Un texte traduit se repère immédiatement, et Google le repère aussi. Le vocabulaire d'un métier ne se transpose pas à la machine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte un site chez vous ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un site vitrine multipage avec formulaire et base SEO se situe généralement dans le bas ou le milieu de la fourchette à quatre chiffres, une boutique au-dessus. Le chiffre dépend du nombre de pages, des langues et des connexions à vos outils : nous l'annonçons après le premier échange, mais alors de façon ferme."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Assurez-vous la maintenance ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, en forfait mensuel sans engagement de durée : mises à jour, sauvegardes, petites modifications, et si vous le souhaitez le SEO ou Google Ads. Ce n'est pas obligatoire : beaucoup de clients gèrent leur site eux-mêmes après la livraison."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site m'appartient-il vraiment ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nom de domaine, hébergement, code source et contenus sont à votre nom. Aucun abonnement obligatoire pour continuer à utiliser votre propre site, et aucun constructeur propriétaire dont on ne peut plus sortir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faites-vous aussi le référencement et les campagnes à Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Comme agence SEO Paris nous travaillons la structure, les contenus et la fiche Google Business ; comme agence digitale Paris nous prenons aussi les campagnes Google Ads et Meta Ads, mesurées en coût par demande. Pour les boutiques, l'agence e-commerce Paris et la création site internet Paris relèvent de la même équipe, ce qui évite que le site et les campagnes suivent deux logiques différentes."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "French",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Agence web Paris",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site vitrine d'entreprise"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site e-commerce"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Refonte de site"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Référencement naturel"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/agence-web-paris/#webpage",
-   "url": "https://danova-tech.com/fr/agence-web-paris/",
-   "name": "Agence web à Paris — sites, e-commerce et SEO | Danova Tech",
-   "description": "Agence web pour les entreprises parisiennes : sites vitrine, e-commerce, SEO et Google Ads. Rédigé en français, devis au forfait, en ligne en 2 à 8 semaines.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/agence-web-paris/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/agence-web-paris/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Sites web & E-commerce",
-     "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Agence web Paris",
-     "item": "https://danova-tech.com/fr/agence-web-paris/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/agence-web-paris/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Êtes-vous basés à Paris ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients français en visioconférence et nous déplaçons à Paris pour le lancement et la livraison quand le projet le justifie."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Comment se passe la facturation avec un prestataire italien ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De façon parfaitement classique en intracommunautaire : vous recevez une facture sans TVA italienne, avec autoliquidation sur votre numéro de TVA. Pour votre comptable, c'est la même opération qu'avec n'importe quel fournisseur européen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site est-il rédigé en français ou traduit ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rédigé en français. Un texte traduit se repère immédiatement, et Google le repère aussi. Le vocabulaire d'un métier ne se transpose pas à la machine."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Combien coûte un site chez vous ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Un site vitrine multipage avec formulaire et base SEO se situe généralement dans le bas ou le milieu de la fourchette à quatre chiffres, une boutique au-dessus. Le chiffre dépend du nombre de pages, des langues et des connexions à vos outils : nous l'annonçons après le premier échange, mais alors de façon ferme."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Assurez-vous la maintenance ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui, en forfait mensuel sans engagement de durée : mises à jour, sauvegardes, petites modifications, et si vous le souhaitez le SEO ou Google Ads. Ce n'est pas obligatoire : beaucoup de clients gèrent leur site eux-mêmes après la livraison."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site m'appartient-il vraiment ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. Nom de domaine, hébergement, code source et contenus sont à votre nom. Aucun abonnement obligatoire pour continuer à utiliser votre propre site, et aucun constructeur propriétaire dont on ne peut plus sortir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Faites-vous aussi le référencement et les campagnes à Paris ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. Comme agence SEO Paris nous travaillons la structure, les contenus et la fiche Google Business ; comme agence digitale Paris nous prenons aussi les campagnes Google Ads et Meta Ads, mesurées en coût par demande. Pour les boutiques, l'agence e-commerce Paris et la création site internet Paris relèvent de la même équipe, ce qui évite que le site et les campagnes suivent deux logiques différentes."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -404,6 +461,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../services/seo/">Agence SEO</a>
       <a href="../services/google-ads/">Google Ads</a>
       <a href="../services/">Tous les services</a>
+    
+      <a href="../agence-web-lyon/">Agence web Lyon</a>
+      <a href="../agence-web-geneve/">Agence web Genève</a>
+      <a href="../agence-web-bruxelles/">Agence web Bruxelles</a>
+      <a href="../prix-creation-site-internet/">Prix création site internet</a>
     </div>
   </div>
 </section>
@@ -443,8 +505,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

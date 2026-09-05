@@ -53,189 +53,246 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/webagentur-graz/#service",
-   "name": "Webagentur Graz und Steiermark",
-   "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
-   "description": "Webagentur für Unternehmen in Graz und der Steiermark: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis, online in 2-8 Wochen.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Graz"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Steiermark"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/webagentur-graz/#service",
+      "name": "Webagentur Graz und Steiermark",
+      "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
+      "description": "Webagentur für Unternehmen in Graz und der Steiermark: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis, online in 2-8 Wochen.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Graz"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Steiermark"
+        },
+        {
+          "@type": "City",
+          "name": "Leoben"
+        },
+        {
+          "@type": "Country",
+          "name": "Österreich"
+        }
+      ],
+      "availableLanguage": [
+        "German",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Webagentur Graz und Steiermark",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Unternehmenswebsite"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Onlineshop"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "SEO-Betreuung"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Google Ads"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Individualsoftware"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Leoben"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/webagentur-graz/#webpage",
+      "url": "https://danova-tech.com/de/webagentur-graz/",
+      "name": "Webagentur Graz und Steiermark — Websites und SEO | Danova Tech",
+      "description": "Webagentur für Unternehmen in Graz und der Steiermark: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis, online in 2-8 Wochen.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/webagentur-graz/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Österreich"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/webagentur-graz/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Websites & Onlineshops",
+          "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Webagentur Graz",
+          "item": "https://danova-tech.com/de/webagentur-graz/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/webagentur-graz/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Kommen Sie für Termine nach Graz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für den Kick-off und die Übergabe ja. Dazwischen arbeiten wir per Videocall mit Bildschirmfreigabe, was bei einem Website-Projekt in der Praxis effizienter ist als ein Besuch, weil man gemeinsam auf dieselbe Seite schaut."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie läuft die Rechnungsstellung bei einem italienischen Anbieter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ganz normal innergemeinschaftlich: Sie erhalten eine Rechnung ohne italienische Umsatzsteuer, mit Reverse Charge auf Ihre UID. Für Ihre Buchhaltung ist das derselbe Vorgang wie bei jedem anderen EU-Lieferanten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie technische Inhalte verstehen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das ist unser Alltag. Ein erheblicher Teil unserer Kunden fertigt Teile, baut Maschinen oder liefert an die Industrie. Wir fragen genug, um Ihre Produkte richtig zu beschreiben, und lassen die Texte vor dem Livegang von Ihrem Techniker prüfen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie lange dauert ein Projekt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Unternehmensseite mit acht bis fünfzehn Seiten geht typischerweise in vier bis acht Wochen online. Der Engpass sind fast nie wir, sondern die Freigaben und die Produktbilder auf Ihrer Seite — deshalb legen wir im Kick-off fest, wer bis wann was liefert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gehört mir die Website am Ende wirklich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Machen Sie auch SEO und Google Ads in Graz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Als SEO Agentur Graz arbeiten wir an Struktur, Inhalten und dem Google-Unternehmensprofil, auch für die Steiermark insgesamt — SEO Agentur Steiermark ist für Betriebe außerhalb der Stadt oft die passendere Ausrichtung. Dazu kommen Google Ads für Kampagnen, wenn Sichtbarkeit sofort gebraucht wird, und Webdesign Agentur Graz für den gestalterischen Teil."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "German",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Webagentur Graz und Steiermark",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Unternehmenswebsite"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Onlineshop"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "SEO-Betreuung"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Google Ads"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Individualsoftware"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/webagentur-graz/#webpage",
-   "url": "https://danova-tech.com/de/webagentur-graz/",
-   "name": "Webagentur Graz und Steiermark — Websites und SEO | Danova Tech",
-   "description": "Webagentur für Unternehmen in Graz und der Steiermark: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis, online in 2-8 Wochen.",
-   "inLanguage": "de",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/webagentur-graz/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/webagentur-graz/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Websites & Onlineshops",
-     "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Webagentur Graz",
-     "item": "https://danova-tech.com/de/webagentur-graz/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/webagentur-graz/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Kommen Sie für Termine nach Graz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Für den Kick-off und die Übergabe ja. Dazwischen arbeiten wir per Videocall mit Bildschirmfreigabe, was bei einem Website-Projekt in der Praxis effizienter ist als ein Besuch, weil man gemeinsam auf dieselbe Seite schaut."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie läuft die Rechnungsstellung bei einem italienischen Anbieter?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ganz normal innergemeinschaftlich: Sie erhalten eine Rechnung ohne italienische Umsatzsteuer, mit Reverse Charge auf Ihre UID. Für Ihre Buchhaltung ist das derselbe Vorgang wie bei jedem anderen EU-Lieferanten."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Können Sie technische Inhalte verstehen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Das ist unser Alltag. Ein erheblicher Teil unserer Kunden fertigt Teile, baut Maschinen oder liefert an die Industrie. Wir fragen genug, um Ihre Produkte richtig zu beschreiben, und lassen die Texte vor dem Livegang von Ihrem Techniker prüfen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie lange dauert ein Projekt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eine Unternehmensseite mit acht bis fünfzehn Seiten geht typischerweise in vier bis acht Wochen online. Der Engpass sind fast nie wir, sondern die Freigaben und die Produktbilder auf Ihrer Seite — deshalb legen wir im Kick-off fest, wer bis wann was liefert."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Gehört mir die Website am Ende wirklich?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Machen Sie auch SEO und Google Ads in Graz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Als SEO Agentur Graz arbeiten wir an Struktur, Inhalten und dem Google-Unternehmensprofil, auch für die Steiermark insgesamt — SEO Agentur Steiermark ist für Betriebe außerhalb der Stadt oft die passendere Ausrichtung. Dazu kommen Google Ads für Kampagnen, wenn Sichtbarkeit sofort gebraucht wird, und Webdesign Agentur Graz für den gestalterischen Teil."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -407,6 +464,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../leistungen/seo/">SEO & Sichtbarkeit</a>
       <a href="../leistungen/google-ads/">Google Ads</a>
       <a href="../leistungen/">Alle Leistungen</a>
+    
+      <a href="../webagentur-wien/">Webagentur Wien</a>
+      <a href="../webagentur-kaernten/">Webagentur Kärnten</a>
+      <a href="../webagentur-suedtirol/">Webagentur Südtirol</a>
+      <a href="../was-kostet-eine-website/">Was kostet eine Website</a>
     </div>
   </div>
 </section>
@@ -446,8 +508,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

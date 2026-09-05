@@ -57,93 +57,150 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "AboutPage",
-   "@id": "https://danova-tech.com/es/sobre-nosotros/#webpage",
-   "url": "https://danova-tech.com/es/sobre-nosotros/",
-   "name": "Sobre nosotros — el equipo detrás de Danova Tech | Danova Tech",
-   "description": "Diez personas con perfiles distintos: análisis, diseño, desarrollo, ERP, SEO y soporte. Un solo interlocutor para ti, todo el equipo detrás.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/sobre-nosotros/#breadcrumb",
-   "itemListElement": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Inicio",
-     "item": "https://danova-tech.com/es/"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Sobre nosotros",
-     "item": "https://danova-tech.com/es/sobre-nosotros/"
+      "@type": "AboutPage",
+      "@id": "https://danova-tech.com/es/sobre-nosotros/#webpage",
+      "url": "https://danova-tech.com/es/sobre-nosotros/",
+      "name": "Sobre nosotros — el equipo detrás de Danova Tech | Danova Tech",
+      "description": "Diez personas con perfiles distintos: análisis, diseño, desarrollo, ERP, SEO y soporte. Un solo interlocutor para ti, todo el equipo detrás.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/sobre-nosotros/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sobre nosotros",
+          "item": "https://danova-tech.com/es/sobre-nosotros/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/sobre-nosotros/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Quién llevará realmente mi proyecto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un responsable de proyecto, siempre el mismo de principio a fin. Es la persona que te responde y que conoce tu situación: detrás de ella trabajan los demás perfiles, pero tú no tienes que llevar la cuenta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Sois una agencia o un grupo de autónomos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Somos un equipo estable de diez personas con perfiles distintos. La diferencia práctica es que quien construyó tu proyecto sigue estando dentro de dos años, cuando hay que modificarlo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Trabajáis fuera de Italia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. En remoto llevamos clientes en toda Europa y en América Latina, en cuatro idiomas: español, italiano, inglés y alemán. La distancia no cambia ni el precio ni cómo seguimos el proyecto."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Qué pasa si algún día cambio de proveedor?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Te lo llevas todo. Dominio, código, alojamiento, accesos, histórico. Nada está a nuestro nombre y nada te retiene: es una condición que dejamos escrita en el contrato."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Dónde estáis exactamente?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En Mansuè, provincia de Treviso, en el noreste de Italia, entre Venecia y la frontera austríaca. Con clientes de España y América Latina todo se hace por videollamada."
+          }
+        }
+      ]
     }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/sobre-nosotros/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿Quién llevará realmente mi proyecto?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Un responsable de proyecto, siempre el mismo de principio a fin. Es la persona que te responde y que conoce tu situación: detrás de ella trabajan los demás perfiles, pero tú no tienes que llevar la cuenta."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Sois una agencia o un grupo de autónomos?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Somos un equipo estable de diez personas con perfiles distintos. La diferencia práctica es que quien construyó tu proyecto sigue estando dentro de dos años, cuando hay que modificarlo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Trabajáis fuera de Italia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. En remoto llevamos clientes en toda Europa y en América Latina, en cuatro idiomas: español, italiano, inglés y alemán. La distancia no cambia ni el precio ni cómo seguimos el proyecto."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Qué pasa si algún día cambio de proveedor?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Te lo llevas todo. Dominio, código, alojamiento, accesos, histórico. Nada está a nuestro nombre y nada te retiene: es una condición que dejamos escrita en el contrato."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Dónde estáis exactamente?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "En Mansuè, provincia de Treviso, en el noreste de Italia, entre Venecia y la frontera austríaca. Con clientes de España y América Latina todo se hace por videollamada."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -409,8 +466,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

@@ -53,193 +53,250 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/webagentur-berlin/#service",
-   "name": "Webagentur Berlin",
-   "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
-   "description": "Webagentur für Berliner Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Berlin"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Brandenburg"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/webagentur-berlin/#service",
+      "name": "Webagentur Berlin",
+      "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
+      "description": "Webagentur für Berliner Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Berlin"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Brandenburg"
+        },
+        {
+          "@type": "Country",
+          "name": "Deutschland"
+        }
+      ],
+      "availableLanguage": [
+        "German",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Webagentur Berlin",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Unternehmenswebsite"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Onlineshop"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "SEO-Betreuung"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Google Ads"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Individualsoftware"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Deutschland"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/webagentur-berlin/#webpage",
+      "url": "https://danova-tech.com/de/webagentur-berlin/",
+      "name": "Webagentur Berlin — Websites, Onlineshops und SEO | Danova Tech",
+      "description": "Webagentur für Berliner Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/webagentur-berlin/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/webagentur-berlin/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Websites & Onlineshops",
+          "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Webagentur Berlin",
+          "item": "https://danova-tech.com/de/webagentur-berlin/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/webagentur-berlin/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Sitzen Sie in Berlin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, unser Sitz ist in Mansuè in Norditalien. Wir arbeiten auf Deutsch und betreuen deutsche Kunden per Videocall. Für Kick-off und Übergabe kommen wir auch nach Berlin, wenn das Projekt es rechtfertigt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie läuft die Rechnungsstellung bei einem italienischen Anbieter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ganz normal innergemeinschaftlich: Sie erhalten eine Rechnung ohne italienische Umsatzsteuer, mit Reverse Charge auf Ihre UID. Für Ihre Buchhaltung ist das derselbe Vorgang wie bei jedem anderen EU-Lieferanten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bekomme ich ein Content-Management-System, mit dem ich selbst arbeiten kann?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, und zwar eines, das zu Ihrem Bedarf passt. Wer zweimal im Jahr eine Referenz ergänzt, braucht kein System, in dem man sich verlaufen kann; wer wöchentlich publiziert, bekommt eine Redaktionsumgebung. Wir entscheiden das nach Ihrem tatsächlichen Rhythmus, nicht nach Gewohnheit."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie schnell geht eine Seite online?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine Unternehmensseite mit acht bis fünfzehn Seiten typischerweise in vier bis acht Wochen, ein Shop länger. Verzögerungen entstehen fast immer bei Texten und Bildern, die von Ihrer Seite kommen — deshalb legen wir im Kick-off fest, wer bis wann was liefert."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gehört mir die Website am Ende wirklich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Machen Sie auch SEO und Google Ads in Berlin?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Als SEO Agentur Berlin bauen wir Struktur und Inhalte für Suchanfragen mit echter Absicht; als Google Ads Agentur Berlin übernehmen wir Suchkampagnen und Performance Max mit sauberem Conversion-Tracking. Dazu kommen Webdesign Agentur Berlin für den gestalterischen Teil und, wenn nötig, Softwareentwicklung Berlin und App Entwicklung Berlin aus demselben Team."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bauen Sie auch Onlineshops für Berliner Händler?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Als E-Commerce Agentur Berlin bauen wir Shops mit vollständigen Produktdaten, Zahlung, Versand und Anbindung an die Warenwirtschaft. Der Unterschied zu einem Baukasten-Shop zeigt sich erst ab einigen hundert Bestellungen im Monat, dann aber deutlich: bei Ladezeit, Retourenprozess und der Frage, wer die Bestände pflegt."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "German",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Webagentur Berlin",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Unternehmenswebsite"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Onlineshop"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "SEO-Betreuung"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Google Ads"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Individualsoftware"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/webagentur-berlin/#webpage",
-   "url": "https://danova-tech.com/de/webagentur-berlin/",
-   "name": "Webagentur Berlin — Websites, Onlineshops und SEO | Danova Tech",
-   "description": "Webagentur für Berliner Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
-   "inLanguage": "de",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/webagentur-berlin/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/webagentur-berlin/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Websites & Onlineshops",
-     "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Webagentur Berlin",
-     "item": "https://danova-tech.com/de/webagentur-berlin/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/webagentur-berlin/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Sitzen Sie in Berlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nein, unser Sitz ist in Mansuè in Norditalien. Wir arbeiten auf Deutsch und betreuen deutsche Kunden per Videocall. Für Kick-off und Übergabe kommen wir auch nach Berlin, wenn das Projekt es rechtfertigt."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie läuft die Rechnungsstellung bei einem italienischen Anbieter?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ganz normal innergemeinschaftlich: Sie erhalten eine Rechnung ohne italienische Umsatzsteuer, mit Reverse Charge auf Ihre UID. Für Ihre Buchhaltung ist das derselbe Vorgang wie bei jedem anderen EU-Lieferanten."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Bekomme ich ein Content-Management-System, mit dem ich selbst arbeiten kann?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja, und zwar eines, das zu Ihrem Bedarf passt. Wer zweimal im Jahr eine Referenz ergänzt, braucht kein System, in dem man sich verlaufen kann; wer wöchentlich publiziert, bekommt eine Redaktionsumgebung. Wir entscheiden das nach Ihrem tatsächlichen Rhythmus, nicht nach Gewohnheit."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie schnell geht eine Seite online?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eine Unternehmensseite mit acht bis fünfzehn Seiten typischerweise in vier bis acht Wochen, ein Shop länger. Verzögerungen entstehen fast immer bei Texten und Bildern, die von Ihrer Seite kommen — deshalb legen wir im Kick-off fest, wer bis wann was liefert."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Gehört mir die Website am Ende wirklich?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Machen Sie auch SEO und Google Ads in Berlin?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Als SEO Agentur Berlin bauen wir Struktur und Inhalte für Suchanfragen mit echter Absicht; als Google Ads Agentur Berlin übernehmen wir Suchkampagnen und Performance Max mit sauberem Conversion-Tracking. Dazu kommen Webdesign Agentur Berlin für den gestalterischen Teil und, wenn nötig, Softwareentwicklung Berlin und App Entwicklung Berlin aus demselben Team."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Bauen Sie auch Onlineshops für Berliner Händler?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Als E-Commerce Agentur Berlin bauen wir Shops mit vollständigen Produktdaten, Zahlung, Versand und Anbindung an die Warenwirtschaft. Der Unterschied zu einem Baukasten-Shop zeigt sich erst ab einigen hundert Bestellungen im Monat, dann aber deutlich: bei Ladezeit, Retourenprozess und der Frage, wer die Bestände pflegt."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -413,6 +470,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../leistungen/seo/">SEO & Sichtbarkeit</a>
       <a href="../leistungen/google-ads/">Google Ads</a>
       <a href="../leistungen/">Alle Leistungen</a>
+    
+      <a href="../webagentur-muenchen/">Webagentur München</a>
+      <a href="../webagentur-hamburg/">Webagentur Hamburg</a>
+      <a href="../webagentur-frankfurt/">Webagentur Frankfurt</a>
+      <a href="../was-kostet-eine-website/">Was kostet eine Website</a>
     </div>
   </div>
 </section>
@@ -452,8 +514,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

@@ -53,161 +53,218 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#service",
-   "name": "Software gestionale in Veneto",
-   "serviceType": "Sviluppo di software gestionale su misura",
-   "description": "Software gestionale su misura per le PMI venete: magazzino, produzione, commesse e controllo di gestione. Sviluppo in provincia di Treviso, incontri in azienda.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "AdministrativeArea",
-     "name": "Veneto"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Treviso"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#service",
+      "name": "Software gestionale in Veneto",
+      "serviceType": "Sviluppo di software gestionale su misura",
+      "description": "Software gestionale su misura per le PMI venete: magazzino, produzione, commesse e controllo di gestione. Sviluppo in provincia di Treviso, incontri in azienda.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "City",
+          "name": "Treviso"
+        },
+        {
+          "@type": "City",
+          "name": "Venezia"
+        },
+        {
+          "@type": "City",
+          "name": "Padova"
+        },
+        {
+          "@type": "City",
+          "name": "Vicenza"
+        },
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software gestionale in Veneto",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Magazzino e giacenze"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Produzione e commesse"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Anagrafiche e documenti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Controllo di gestione"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Venezia"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#webpage",
+      "url": "https://danova-tech.com/gestionali-su-misura-veneto/",
+      "name": "Software gestionale su misura in Veneto | Danova Tech",
+      "description": "Software gestionale su misura per le PMI venete: magazzino, produzione, commesse e controllo di gestione. Sviluppo in provincia di Treviso, incontri in azienda.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#service"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Padova"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software gestionale su misura in Veneto",
+          "item": "https://danova-tech.com/gestionali-su-misura-veneto/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Vicenza"
-    },
-    {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "In che zone del Veneto lavorate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ovunque, ma la presenza fisica cambia con la distanza. Siamo a Mansuè, in provincia di Treviso: nella Marca, nell'opitergino-mottense e verso Pordenone veniamo in azienda facilmente; su Venezia e Mestre per gli incontri che contano; nel resto della regione lavoriamo prevalentemente a distanza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Meglio un gestionale su misura o uno commerciale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende, e la risposta onesta non è sempre 'su misura'. Se lavorate come lavorano tutti nel vostro settore, un pacchetto costa meno e va bene. Il su misura conviene quando avete un processo vostro, o quando il pacchetto vi costringerebbe a lavorare peggio di adesso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un gestionale su misura?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Varia molto: un modulo circoscritto e un sistema completo non stanno nello stesso ordine di grandezza. Per questo il preventivo arriva dopo aver capito il processo, ed è a prezzo fisso: si sa cosa si spende prima di iniziare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "E se dopo serve aggiungere qualcosa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È previsto, e per questo si lavora a moduli. Le aggiunte si valutano una per una a prezzo fisso, senza contratti aperti che si gonfiano da soli."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Software gestionale in Veneto",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Magazzino e giacenze"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Produzione e commesse"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Anagrafiche e documenti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Controllo di gestione"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#webpage",
-   "url": "https://danova-tech.com/gestionali-su-misura-veneto/",
-   "name": "Software gestionale su misura in Veneto | Danova Tech",
-   "description": "Software gestionale su misura per le PMI venete: magazzino, produzione, commesse e controllo di gestione. Sviluppo in provincia di Treviso, incontri in azienda.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#service"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software gestionale su misura in Veneto",
-     "item": "https://danova-tech.com/gestionali-su-misura-veneto/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-veneto/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "In che zone del Veneto lavorate?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ovunque, ma la presenza fisica cambia con la distanza. Siamo a Mansuè, in provincia di Treviso: nella Marca, nell'opitergino-mottense e verso Pordenone veniamo in azienda facilmente; su Venezia e Mestre per gli incontri che contano; nel resto della regione lavoriamo prevalentemente a distanza."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Meglio un gestionale su misura o uno commerciale?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende, e la risposta onesta non è sempre 'su misura'. Se lavorate come lavorano tutti nel vostro settore, un pacchetto costa meno e va bene. Il su misura conviene quando avete un processo vostro, o quando il pacchetto vi costringerebbe a lavorare peggio di adesso."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto costa un gestionale su misura?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Varia molto: un modulo circoscritto e un sistema completo non stanno nello stesso ordine di grandezza. Per questo il preventivo arriva dopo aver capito il processo, ed è a prezzo fisso: si sa cosa si spende prima di iniziare."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "E se dopo serve aggiungere qualcosa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "È previsto, e per questo si lavora a moduli. Le aggiunte si valutano una per una a prezzo fisso, senza contratti aperti che si gonfiano da soli."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -378,6 +435,8 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     
       <a href="../software-gestionale-commesse/">Gestionale commesse</a>
       <a href="../gestionale-officina-meccanica/">Gestionale officina meccanica</a>
+    
+      <a href="/guide/differenza-gestionale-erp-crm/">Gestionale, ERP e CRM: le differenze</a>
     </div>
   </div>
 </section>
@@ -429,8 +488,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

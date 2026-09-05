@@ -53,194 +53,251 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#service",
-   "name": "Agence web Bruxelles",
-   "serviceType": "Création de sites bilingues, e-commerce et référencement",
-   "description": "Agence web pour la Belgique : sites bilingues français-néerlandais, e-commerce, SEO et Google Ads. Devis au forfait, facturation intracommunautaire.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Bruxelles"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Liège"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#service",
+      "name": "Agence web Bruxelles",
+      "serviceType": "Création de sites bilingues, e-commerce et référencement",
+      "description": "Agence web pour la Belgique : sites bilingues français-néerlandais, e-commerce, SEO et Google Ads. Devis au forfait, facturation intracommunautaire.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Bruxelles"
+        },
+        {
+          "@type": "City",
+          "name": "Liège"
+        },
+        {
+          "@type": "City",
+          "name": "Namur"
+        },
+        {
+          "@type": "City",
+          "name": "Charleroi"
+        },
+        {
+          "@type": "Country",
+          "name": "Belgique"
+        }
+      ],
+      "availableLanguage": [
+        "French",
+        "Dutch",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Agence web Bruxelles",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site vitrine d'entreprise"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site e-commerce"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Refonte de site"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Référencement naturel"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Namur"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#webpage",
+      "url": "https://danova-tech.com/fr/agence-web-bruxelles/",
+      "name": "Agence web à Bruxelles — sites bilingues et SEO | Danova Tech",
+      "description": "Agence web pour la Belgique : sites bilingues français-néerlandais, e-commerce, SEO et Google Ads. Devis au forfait, facturation intracommunautaire.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Charleroi"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sites web & E-commerce",
+          "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Agence web Bruxelles",
+          "item": "https://danova-tech.com/fr/agence-web-bruxelles/"
+        }
+      ]
     },
     {
-     "@type": "Country",
-     "name": "Belgique"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Êtes-vous établis en Belgique ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients belges en visioconférence et nous déplaçons pour le lancement et la livraison quand le projet le justifie."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Rédigez-vous aussi la version néerlandaise ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nous rédigeons le français et l'italien en interne. Pour le néerlandais, nous travaillons avec des rédacteurs natifs et nous leur fournissons la recherche de mots-clés faite pour cette langue, de sorte que le texte vise les bons termes au lieu d'être une traduction fidèle mais invisible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment se passe la facturation avec un prestataire italien ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De façon parfaitement classique en intracommunautaire : vous recevez une facture sans TVA italienne, avec autoliquidation sur votre numéro de TVA. Pour votre comptable, c'est la même opération qu'avec n'importe quel fournisseur européen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site est-il rédigé en français ou traduit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rédigé en français. Un texte traduit se repère immédiatement, et Google le repère aussi. Le vocabulaire d'un métier ne se transpose pas à la machine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il vraiment les deux langues ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si votre clientèle est exclusivement francophone, le français suffit. Dès que vous vendez à Bruxelles au-delà de votre réseau, ou en Flandre, la version néerlandaise ouvre une demande que vous ne voyez pas aujourd'hui, simplement parce que ces personnes ne vous trouvent pas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site m'appartient-il vraiment ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nom de domaine, hébergement, code source et contenus sont à votre nom. Aucun abonnement obligatoire pour continuer à utiliser votre propre site, et aucun constructeur propriétaire dont on ne peut plus sortir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faites-vous aussi le référencement en Belgique ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Comme agence SEO Bruxelles nous travaillons les deux langues séparément, ce qui est la seule approche qui fonctionne sur ce marché. Nous intervenons de la même façon comme agence SEO Liège, agence SEO Namur et agence SEO Charleroi, où la concurrence est nettement plus faible qu'à Bruxelles et où le référencement naturel produit des effets en quelques mois."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "French",
-    "Dutch",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Agence web Bruxelles",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site vitrine d'entreprise"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site e-commerce"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Refonte de site"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Référencement naturel"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#webpage",
-   "url": "https://danova-tech.com/fr/agence-web-bruxelles/",
-   "name": "Agence web à Bruxelles — sites bilingues et SEO | Danova Tech",
-   "description": "Agence web pour la Belgique : sites bilingues français-néerlandais, e-commerce, SEO et Google Ads. Devis au forfait, facturation intracommunautaire.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Sites web & E-commerce",
-     "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Agence web Bruxelles",
-     "item": "https://danova-tech.com/fr/agence-web-bruxelles/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/agence-web-bruxelles/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Êtes-vous établis en Belgique ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients belges en visioconférence et nous déplaçons pour le lancement et la livraison quand le projet le justifie."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Rédigez-vous aussi la version néerlandaise ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nous rédigeons le français et l'italien en interne. Pour le néerlandais, nous travaillons avec des rédacteurs natifs et nous leur fournissons la recherche de mots-clés faite pour cette langue, de sorte que le texte vise les bons termes au lieu d'être une traduction fidèle mais invisible."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Comment se passe la facturation avec un prestataire italien ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De façon parfaitement classique en intracommunautaire : vous recevez une facture sans TVA italienne, avec autoliquidation sur votre numéro de TVA. Pour votre comptable, c'est la même opération qu'avec n'importe quel fournisseur européen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site est-il rédigé en français ou traduit ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rédigé en français. Un texte traduit se repère immédiatement, et Google le repère aussi. Le vocabulaire d'un métier ne se transpose pas à la machine."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Faut-il vraiment les deux langues ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Si votre clientèle est exclusivement francophone, le français suffit. Dès que vous vendez à Bruxelles au-delà de votre réseau, ou en Flandre, la version néerlandaise ouvre une demande que vous ne voyez pas aujourd'hui, simplement parce que ces personnes ne vous trouvent pas."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site m'appartient-il vraiment ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. Nom de domaine, hébergement, code source et contenus sont à votre nom. Aucun abonnement obligatoire pour continuer à utiliser votre propre site, et aucun constructeur propriétaire dont on ne peut plus sortir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Faites-vous aussi le référencement en Belgique ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. Comme agence SEO Bruxelles nous travaillons les deux langues séparément, ce qui est la seule approche qui fonctionne sur ce marché. Nous intervenons de la même façon comme agence SEO Liège, agence SEO Namur et agence SEO Charleroi, où la concurrence est nettement plus faible qu'à Bruxelles et où le référencement naturel produit des effets en quelques mois."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -412,6 +469,10 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../agence-seo-france/">Agence SEO France</a>
       <a href="../services/google-ads/">Google Ads</a>
       <a href="../services/">Tous les services</a>
+    
+      <a href="../agence-web-lyon/">Agence web Lyon</a>
+      <a href="../agence-web-geneve/">Agence web Genève</a>
+      <a href="../prix-creation-site-internet/">Prix création site internet</a>
     </div>
   </div>
 </section>
@@ -451,8 +512,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

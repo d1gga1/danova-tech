@@ -53,190 +53,247 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/webagentur-zuerich/#service",
-   "name": "Webagentur Zürich",
-   "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
-   "description": "Webagentur für Zürcher Unternehmen: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis in Euro, mehrsprachig für den Schweizer Markt.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Zürich"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Winterthur"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/webagentur-zuerich/#service",
+      "name": "Webagentur Zürich",
+      "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
+      "description": "Webagentur für Zürcher Unternehmen: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis in Euro, mehrsprachig für den Schweizer Markt.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Zürich"
+        },
+        {
+          "@type": "City",
+          "name": "Winterthur"
+        },
+        {
+          "@type": "City",
+          "name": "Zug"
+        },
+        {
+          "@type": "Country",
+          "name": "Schweiz"
+        }
+      ],
+      "availableLanguage": [
+        "German",
+        "Italian",
+        "English",
+        "French"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Webagentur Zürich",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Unternehmenswebsite"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Onlineshop"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "SEO-Betreuung"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Google Ads"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Individualsoftware"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Zug"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/webagentur-zuerich/#webpage",
+      "url": "https://danova-tech.com/de/webagentur-zuerich/",
+      "name": "Webagentur Zürich — Websites, Onlineshops und SEO | Danova Tech",
+      "description": "Webagentur für Zürcher Unternehmen: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis in Euro, mehrsprachig für den Schweizer Markt.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/webagentur-zuerich/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Schweiz"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/webagentur-zuerich/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Websites & Onlineshops",
+          "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Webagentur Zürich",
+          "item": "https://danova-tech.com/de/webagentur-zuerich/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/webagentur-zuerich/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Sitzen Sie in der Schweiz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, unser Sitz ist in Mansuè in Norditalien. Wir arbeiten auf Deutsch, betreuen Schweizer Kunden per Videocall und kommen für wichtige Termine nach Zürich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie läuft die Verrechnung mit einem EU-Anbieter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wir stellen eine Rechnung in Euro ohne Mehrwertsteuer. Für Sie ist es ein Dienstleistungsbezug aus dem Ausland, den Sie im Bezugsverfahren abrechnen. Für Ihre Treuhandstelle ist das ein alltäglicher Vorgang."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie die französische und italienische Fassung mitliefern?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Italienisch ist unsere Muttersprache, Deutsch und Französisch decken wir im Haus ab. Für Schweizer Unternehmen, die über die Deutschschweiz hinaus verkaufen, ist das meist der Punkt, an dem sich die Zusammenarbeit rechnet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hosten Sie in der Schweiz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wenn Sie es brauchen, ja. Für die meisten Websites spielt der Serverstandort technisch keine Rolle mehr, für bestimmte Daten oder Branchenanforderungen aber schon — dann richten wir das Hosting bei einem Schweizer Anbieter auf Ihren Namen ein."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gehört mir die Website am Ende wirklich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Machen Sie auch SEO und Google Ads in Zürich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Als SEO Agentur Zürich arbeiten wir an Struktur, Inhalten und Länderausrichtung; als Google Ads Agentur Zürich betreuen wir Suchkampagnen, was im Schweizer Markt besonders wichtig ist, weil die Klickpreise zu den höchsten Europas gehören. Auch Webdesign Agentur Zürich und App Entwicklung Zürich laufen über dasselbe Team."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "German",
-    "Italian",
-    "English",
-    "French"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Webagentur Zürich",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Unternehmenswebsite"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Onlineshop"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "SEO-Betreuung"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Google Ads"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Individualsoftware"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/webagentur-zuerich/#webpage",
-   "url": "https://danova-tech.com/de/webagentur-zuerich/",
-   "name": "Webagentur Zürich — Websites, Onlineshops und SEO | Danova Tech",
-   "description": "Webagentur für Zürcher Unternehmen: Websites, Onlineshops, SEO und Google Ads. Deutschsprachig, Festpreis in Euro, mehrsprachig für den Schweizer Markt.",
-   "inLanguage": "de",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/webagentur-zuerich/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/webagentur-zuerich/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Websites & Onlineshops",
-     "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Webagentur Zürich",
-     "item": "https://danova-tech.com/de/webagentur-zuerich/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/webagentur-zuerich/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Sitzen Sie in der Schweiz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nein, unser Sitz ist in Mansuè in Norditalien. Wir arbeiten auf Deutsch, betreuen Schweizer Kunden per Videocall und kommen für wichtige Termine nach Zürich."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie läuft die Verrechnung mit einem EU-Anbieter?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wir stellen eine Rechnung in Euro ohne Mehrwertsteuer. Für Sie ist es ein Dienstleistungsbezug aus dem Ausland, den Sie im Bezugsverfahren abrechnen. Für Ihre Treuhandstelle ist das ein alltäglicher Vorgang."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Können Sie die französische und italienische Fassung mitliefern?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Italienisch ist unsere Muttersprache, Deutsch und Französisch decken wir im Haus ab. Für Schweizer Unternehmen, die über die Deutschschweiz hinaus verkaufen, ist das meist der Punkt, an dem sich die Zusammenarbeit rechnet."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hosten Sie in der Schweiz?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wenn Sie es brauchen, ja. Für die meisten Websites spielt der Serverstandort technisch keine Rolle mehr, für bestimmte Daten oder Branchenanforderungen aber schon — dann richten wir das Hosting bei einem Schweizer Anbieter auf Ihren Namen ein."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Gehört mir die Website am Ende wirklich?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Machen Sie auch SEO und Google Ads in Zürich?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Als SEO Agentur Zürich arbeiten wir an Struktur, Inhalten und Länderausrichtung; als Google Ads Agentur Zürich betreuen wir Suchkampagnen, was im Schweizer Markt besonders wichtig ist, weil die Klickpreise zu den höchsten Europas gehören. Auch Webdesign Agentur Zürich und App Entwicklung Zürich laufen über dasselbe Team."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -408,6 +465,8 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../leistungen/seo/">SEO & Sichtbarkeit</a>
       <a href="../leistungen/google-ads/">Google Ads</a>
       <a href="../leistungen/">Alle Leistungen</a>
+    
+      <a href="../webagentur-muenchen/">Webagentur München</a>
     </div>
   </div>
 </section>
@@ -447,8 +506,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

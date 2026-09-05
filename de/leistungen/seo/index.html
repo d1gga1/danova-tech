@@ -59,162 +59,219 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/leistungen/seo/#service",
-   "name": "SEO und Sichtbarkeit bei Google",
-   "serviceType": "Suchmaschinenoptimierung (SEO)",
-   "description": "Technisches Audit, Keyword-Recherche, Optimierung der Inhalte, lokale SEO und Google-Unternehmensprofil, mit monatlicher Berichterstattung zu Positionen und organischem Verkehr.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Place",
-     "name": "Europa"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/leistungen/seo/#service",
+      "name": "SEO und Sichtbarkeit bei Google",
+      "serviceType": "Suchmaschinenoptimierung (SEO)",
+      "description": "Technisches Audit, Keyword-Recherche, Optimierung der Inhalte, lokale SEO und Google-Unternehmensprofil, mit monatlicher Berichterstattung zu Positionen und organischem Verkehr.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "Worldwide"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "SEO und Sichtbarkeit bei Google",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Technisches SEO-Audit"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Keyword-Recherche und Strategie"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Optimierung der Inhalte"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lokale SEO und Google-Unternehmensprofil"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Monatliche Positionsberichte"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Place",
-     "name": "Worldwide"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/leistungen/seo/#webpage",
+      "url": "https://danova-tech.com/de/leistungen/seo/",
+      "name": "SEO-Beratung und Google-Sichtbarkeit | Danova Tech",
+      "description": "Technisches Audit, Keyword-Recherche, Inhalte und lokale SEO, damit Sie gefunden werden. Monatliche Berichte in verständlicher Sprache, ohne unmögliche Versprechen.",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/leistungen/seo/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/de/leistungen/seo/#breadcrumb"
+      },
+      "inLanguage": "de",
+      "dateModified": "2026-08-29"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/leistungen/seo/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Leistungen",
+          "item": "https://danova-tech.com/de/#servizi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SEO und Sichtbarkeit bei Google"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/leistungen/seo/#faq",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/de/leistungen/seo/#webpage"
+      },
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Wann sieht man Ergebnisse?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Erste Bewegung nach 2-3 Monaten, belastbare Ergebnisse zwischen dem sechsten und zwölften. Das hängt stark davon ab, wie umkämpft die Branche ist und wie alt die Domain. Wer Ihnen die erste Seite in einem Monat verspricht, verkauft Ihnen etwas anderes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Garantieren Sie Platz eins bei Google?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, und seien Sie misstrauisch bei allen, die das tun: niemand steuert den Algorithmus von Google. Wir garantieren Methode, Transparenz bei den Zahlen und dass jeder ausgegebene Euro in nachvollziehbarer Arbeit steckt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bringt das etwas, wenn die Seite von jemand anderem stammt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Das ist oft der beste Fall. Wir analysieren, was da ist, was sich zu behalten lohnt und was bremst. Alles neu zu bauen ist nicht immer die klügste und selten die günstigste Wahl."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ersetzt SEO die bezahlten Kampagnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie tun Verschiedenes. Kampagnen bringen sofort Anfragen, hören aber auf, wenn Sie aufhören zu zahlen; SEO braucht Monate, arbeitet danach aber weiter. Meist lohnt es sich, beides zu verbinden: Kampagnen überbrücken die Wartezeit, während SEO wächst."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "SEO und Sichtbarkeit bei Google",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Technisches SEO-Audit"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Keyword-Recherche und Strategie"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Optimierung der Inhalte"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Lokale SEO und Google-Unternehmensprofil"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Monatliche Positionsberichte"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/leistungen/seo/#webpage",
-   "url": "https://danova-tech.com/de/leistungen/seo/",
-   "name": "SEO-Beratung und Google-Sichtbarkeit | Danova Tech",
-   "description": "Technisches Audit, Keyword-Recherche, Inhalte und lokale SEO, damit Sie gefunden werden. Monatliche Berichte in verständlicher Sprache, ohne unmögliche Versprechen.",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/leistungen/seo/#service"
-   },
-   "breadcrumb": {
-    "@id": "https://danova-tech.com/de/leistungen/seo/#breadcrumb"
-   },
-   "inLanguage": "de",
-   "dateModified": "2026-08-29"
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/leistungen/seo/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Leistungen",
-     "item": "https://danova-tech.com/de/#servizi"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "SEO und Sichtbarkeit bei Google"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/leistungen/seo/#faq",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/de/leistungen/seo/#webpage"
-   },
-   "inLanguage": "de",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Wann sieht man Ergebnisse?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Erste Bewegung nach 2-3 Monaten, belastbare Ergebnisse zwischen dem sechsten und zwölften. Das hängt stark davon ab, wie umkämpft die Branche ist und wie alt die Domain. Wer Ihnen die erste Seite in einem Monat verspricht, verkauft Ihnen etwas anderes."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Garantieren Sie Platz eins bei Google?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nein, und seien Sie misstrauisch bei allen, die das tun: niemand steuert den Algorithmus von Google. Wir garantieren Methode, Transparenz bei den Zahlen und dass jeder ausgegebene Euro in nachvollziehbarer Arbeit steckt."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Bringt das etwas, wenn die Seite von jemand anderem stammt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Das ist oft der beste Fall. Wir analysieren, was da ist, was sich zu behalten lohnt und was bremst. Alles neu zu bauen ist nicht immer die klügste und selten die günstigste Wahl."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Ersetzt SEO die bezahlten Kampagnen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sie tun Verschiedenes. Kampagnen bringen sofort Anfragen, hören aber auf, wenn Sie aufhören zu zahlen; SEO braucht Monate, arbeitet danach aber weiter. Meist lohnt es sich, beides zu verbinden: Kampagnen überbrücken die Wartezeit, während SEO wächst."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -453,8 +510,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

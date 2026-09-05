@@ -57,181 +57,238 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/services/google-ads/#service",
-   "name": "Gestion de campagnes Google Ads",
-   "serviceType": "Agence Google Ads",
-   "description": "Gestion de campagnes Google Ads pour entreprises : réseau de recherche, Performance Max et remarketing. Forfait mensuel fixe, coût par demande mesuré, rapport clair.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Country",
-     "name": "Österreich"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/services/google-ads/#service",
+      "name": "Gestion de campagnes Google Ads",
+      "serviceType": "Agence Google Ads",
+      "description": "Gestion de campagnes Google Ads pour entreprises : réseau de recherche, Performance Max et remarketing. Forfait mensuel fixe, coût par demande mesuré, rapport clair.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Country",
+          "name": "Österreich"
+        },
+        {
+          "@type": "Country",
+          "name": "Deutschland"
+        },
+        {
+          "@type": "Country",
+          "name": "Schweiz"
+        },
+        {
+          "@type": "Country",
+          "name": "France"
+        },
+        {
+          "@type": "Country",
+          "name": "España"
+        }
+      ],
+      "availableLanguage": [
+        "French",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Gestion de campagnes Google Ads",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Réseau de recherche"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Performance Max"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Remarketing"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Campagnes locales"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Suivi des conversions"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Deutschland"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/services/google-ads/#webpage",
+      "url": "https://danova-tech.com/fr/services/google-ads/",
+      "name": "Agence Google Ads : des campagnes qui rapportent | Danova Tech",
+      "description": "Gestion de campagnes Google Ads pour entreprises : réseau de recherche, Performance Max et remarketing. Forfait mensuel fixe, coût par demande mesuré, rapport clair.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/services/google-ads/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Schweiz"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/services/google-ads/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://danova-tech.com/fr/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Google Ads",
+          "item": "https://danova-tech.com/fr/services/google-ads/"
+        }
+      ]
     },
     {
-     "@type": "Country",
-     "name": "France"
-    },
-    {
-     "@type": "Country",
-     "name": "España"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/services/google-ads/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quel budget minimum faut-il prévoir ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cela dépend du secteur, mais en dessous de 500 € de budget publicitaire mensuel les données sont trop rares pour que l'optimisation fonctionne : on décide alors à l'intuition. Pour la plupart des PME B2B, le seuil utile se situe entre 700 et 2 000 € par mois."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte la gestion ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un forfait mensuel fixe, convenu à l'avance, et non un pourcentage des dépenses. Le pourcentage crée un conflit d'intérêts évident : celui qui l'applique gagne davantage quand vous dépensez plus, même si ce n'est pas utile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "En combien de temps voit-on des résultats ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Les premières demandes arrivent dans les premiers jours. Des chiffres fiables demandent trois à quatre semaines, le temps que l'algorithme accumule assez de conversions. Promettre des résultats stables en une semaine, c'est décrire de la chance, pas une méthode."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Êtes-vous établis en France ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients français, belges et suisses en visioconférence et nous déplaçons pour les rendez-vous importants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Reprenez-vous un compte existant ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, et c'est souvent la voie la moins chère. L'historique d'un compte déjà actif a une vraie valeur : il montre quelles requêtes ont déjà généré des demandes, ce qui évite de repartir de zéro."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "French",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Gestion de campagnes Google Ads",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Réseau de recherche"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Performance Max"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Remarketing"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Campagnes locales"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Suivi des conversions"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/services/google-ads/#webpage",
-   "url": "https://danova-tech.com/fr/services/google-ads/",
-   "name": "Agence Google Ads : des campagnes qui rapportent | Danova Tech",
-   "description": "Gestion de campagnes Google Ads pour entreprises : réseau de recherche, Performance Max et remarketing. Forfait mensuel fixe, coût par demande mesuré, rapport clair.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/services/google-ads/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/services/google-ads/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Services",
-     "item": "https://danova-tech.com/fr/services/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Google Ads",
-     "item": "https://danova-tech.com/fr/services/google-ads/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/services/google-ads/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Quel budget minimum faut-il prévoir ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cela dépend du secteur, mais en dessous de 500 € de budget publicitaire mensuel les données sont trop rares pour que l'optimisation fonctionne : on décide alors à l'intuition. Pour la plupart des PME B2B, le seuil utile se situe entre 700 et 2 000 € par mois."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Combien coûte la gestion ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Un forfait mensuel fixe, convenu à l'avance, et non un pourcentage des dépenses. Le pourcentage crée un conflit d'intérêts évident : celui qui l'applique gagne davantage quand vous dépensez plus, même si ce n'est pas utile."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "En combien de temps voit-on des résultats ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Les premières demandes arrivent dans les premiers jours. Des chiffres fiables demandent trois à quatre semaines, le temps que l'algorithme accumule assez de conversions. Promettre des résultats stables en une semaine, c'est décrire de la chance, pas une méthode."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Êtes-vous établis en France ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients français, belges et suisses en visioconférence et nous déplaçons pour les rendez-vous importants."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Reprenez-vous un compte existant ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui, et c'est souvent la voie la moins chère. L'historique d'un compte déjà actif a une vraie valeur : il montre quelles requêtes ont déjà généré des demandes, ce qui évite de repartir de zéro."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -454,8 +511,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

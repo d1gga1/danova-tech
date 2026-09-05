@@ -53,157 +53,214 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#service",
-   "name": "Software gestionale a Treviso",
-   "serviceType": "Sviluppo di software gestionale su misura",
-   "description": "Software gestionale su misura per le aziende della Marca: magazzino, produzione e controllo di gestione. Sviluppo vicino a Treviso, incontri in azienda.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Treviso"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Oderzo"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#service",
+      "name": "Software gestionale a Treviso",
+      "serviceType": "Sviluppo di software gestionale su misura",
+      "description": "Software gestionale su misura per le aziende della Marca: magazzino, produzione e controllo di gestione. Sviluppo vicino a Treviso, incontri in azienda.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Treviso"
+        },
+        {
+          "@type": "City",
+          "name": "Oderzo"
+        },
+        {
+          "@type": "City",
+          "name": "Conegliano"
+        },
+        {
+          "@type": "City",
+          "name": "Montebelluna"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Provincia di Treviso"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software gestionale a Treviso",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Magazzino che dice la verità"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Distinte base e varianti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commesse e avanzamento"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Numeri per decidere"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Conegliano"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#webpage",
+      "url": "https://danova-tech.com/gestionali-su-misura-treviso/",
+      "name": "Software gestionale a Treviso e provincia | Danova Tech",
+      "description": "Software gestionale su misura per le aziende della Marca: magazzino, produzione e controllo di gestione. Sviluppo vicino a Treviso, incontri in azienda.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#service"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Montebelluna"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software gestionale a Treviso",
+          "item": "https://danova-tech.com/gestionali-su-misura-treviso/"
+        }
+      ]
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Provincia di Treviso"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Lavorate solo con aziende della zona?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, lavoriamo anche a distanza in tutta Italia. Ma con le aziende della provincia di Treviso il vantaggio è concreto: le riunioni importanti si fanno in azienda, e quando c'è da capire un processo produttivo vederlo dal vivo vale più di dieci chiamate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Abbiamo già un gestionale che non ci basta più.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È la situazione più comune. Prima guardiamo cosa vale la pena tenere: se la contabilità funziona ma la produzione no, ha più senso affiancare un modulo che rifare tutto da capo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo serve per avere qualcosa di usabile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il primo modulo, quello che risolve il problema più grosso, di solito è in mano alle persone in poche settimane. Non si aspetta la fine del progetto per iniziare a usarlo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I nostri dati dove stanno?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dove decidete voi: su un server vostro o su hosting che gestiamo noi. In entrambi i casi i dati sono vostri e ve li portate via quando volete, in formato leggibile."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Software gestionale a Treviso",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Magazzino che dice la verità"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Distinte base e varianti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Commesse e avanzamento"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Numeri per decidere"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#webpage",
-   "url": "https://danova-tech.com/gestionali-su-misura-treviso/",
-   "name": "Software gestionale a Treviso e provincia | Danova Tech",
-   "description": "Software gestionale su misura per le aziende della Marca: magazzino, produzione e controllo di gestione. Sviluppo vicino a Treviso, incontri in azienda.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#service"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software gestionale a Treviso",
-     "item": "https://danova-tech.com/gestionali-su-misura-treviso/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-treviso/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Lavorate solo con aziende della zona?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No, lavoriamo anche a distanza in tutta Italia. Ma con le aziende della provincia di Treviso il vantaggio è concreto: le riunioni importanti si fanno in azienda, e quando c'è da capire un processo produttivo vederlo dal vivo vale più di dieci chiamate."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Abbiamo già un gestionale che non ci basta più.",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "È la situazione più comune. Prima guardiamo cosa vale la pena tenere: se la contabilità funziona ma la produzione no, ha più senso affiancare un modulo che rifare tutto da capo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto tempo serve per avere qualcosa di usabile?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Il primo modulo, quello che risolve il problema più grosso, di solito è in mano alle persone in poche settimane. Non si aspetta la fine del progetto per iniziare a usarlo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "I nostri dati dove stanno?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dove decidete voi: su un server vostro o su hosting che gestiamo noi. In entrambi i casi i dati sono vostri e ve li portate via quando volete, in formato leggibile."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -436,8 +493,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

@@ -53,193 +53,250 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/webagentur-wien/#service",
-   "name": "Webagentur Wien",
-   "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
-   "description": "Webagentur für Wiener Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Wien"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Niederösterreich"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/webagentur-wien/#service",
+      "name": "Webagentur Wien",
+      "serviceType": "Erstellung von Websites, Onlineshops und SEO-Betreuung",
+      "description": "Webagentur für Wiener Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Wien"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Niederösterreich"
+        },
+        {
+          "@type": "Country",
+          "name": "Österreich"
+        }
+      ],
+      "availableLanguage": [
+        "German",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Webagentur Wien",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Unternehmenswebsite"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Onlineshop"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "SEO-Betreuung"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Google Ads"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Individualsoftware"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Österreich"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/webagentur-wien/#webpage",
+      "url": "https://danova-tech.com/de/webagentur-wien/",
+      "name": "Webagentur Wien — Websites, Onlineshops und SEO | Danova Tech",
+      "description": "Webagentur für Wiener Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/webagentur-wien/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/webagentur-wien/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Websites & Onlineshops",
+          "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Webagentur Wien",
+          "item": "https://danova-tech.com/de/webagentur-wien/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/webagentur-wien/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Sitzen Sie in Wien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nein, unser Sitz ist in Mansuè in Norditalien. Wir arbeiten auf Deutsch, betreuen Wiener Kunden per Videocall und kommen für die Termine, die es verlangen, auch nach Wien. In der Praxis läuft ein Website-Projekt ohnehin zu neunzig Prozent über Bildschirmfreigabe und Telefon."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie läuft die Rechnungsstellung bei einem italienischen Anbieter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ganz normal innergemeinschaftlich: Sie erhalten eine Rechnung ohne italienische Umsatzsteuer, mit Reverse Charge auf Ihre UID. Für Ihre Buchhaltung ist das derselbe Vorgang wie bei jedem anderen EU-Lieferanten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet eine Unternehmensseite für einen Wiener Betrieb?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine mehrseitige Unternehmensseite mit Katalog, Anfrageformular und SEO-Grundlage liegt üblicherweise im niedrigen bis mittleren vierstelligen Bereich, ein Onlineshop darüber. Die Zahl hängt an der Seitenzahl, den Sprachen und daran, ob eine Warenwirtschaft angebunden wird — deshalb nennen wir sie erst nach dem Erstgespräch, dann aber verbindlich."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie eine bestehende Seite übernehmen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Meistens ja. Wir sehen uns an, was technisch drinsteckt, und sagen ehrlich, ob eine Überarbeitung günstiger kommt als ein Neubau. Bei WordPress-Seiten mit gewachsener Plugin-Sammlung ist der Neubau oft der billigere Weg, bei sauber gebauten Seiten selten."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gehört mir die Website am Ende wirklich?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Machen Sie auch SEO und Google Ads für Wien?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, beides. Als SEO Agentur Wien kümmern wir uns um Struktur, Inhalte und das Google-Unternehmensprofil, damit Sie in den lokalen Ergebnissen auftauchen; als Google Ads Agentur Wien richten wir Suchkampagnen ein und messen, was eine Anfrage kostet. Auch App Entwicklung Wien und Webdesign Agentur Wien fallen in dasselbe Team, was den Vorteil hat, dass Website, Sichtbarkeit und Kampagnen dieselbe Logik verfolgen."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Kann ich bei Ihnen einfach eine Homepage erstellen lassen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. Homepage erstellen lassen in Wien heißt bei uns: ein Erstgespräch, ein Festpreis, Texte auf Deutsch geschrieben und eine Seite, die Ihnen gehört. Für kleinere Betriebe ist das oft ein überschaubares Projekt mit fünf bis acht Seiten, das in wenigen Wochen online geht."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "German",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Webagentur Wien",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Unternehmenswebsite"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Onlineshop"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "SEO-Betreuung"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Google Ads"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Individualsoftware"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/webagentur-wien/#webpage",
-   "url": "https://danova-tech.com/de/webagentur-wien/",
-   "name": "Webagentur Wien — Websites, Onlineshops und SEO | Danova Tech",
-   "description": "Webagentur für Wiener Unternehmen: Websites, Onlineshops, SEO und Google Ads. Auf Deutsch geschrieben, Festpreis vorab, online in 2-8 Wochen.",
-   "inLanguage": "de",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/webagentur-wien/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/webagentur-wien/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Websites & Onlineshops",
-     "item": "https://danova-tech.com/de/leistungen/websites-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Webagentur Wien",
-     "item": "https://danova-tech.com/de/webagentur-wien/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/webagentur-wien/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Sitzen Sie in Wien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nein, unser Sitz ist in Mansuè in Norditalien. Wir arbeiten auf Deutsch, betreuen Wiener Kunden per Videocall und kommen für die Termine, die es verlangen, auch nach Wien. In der Praxis läuft ein Website-Projekt ohnehin zu neunzig Prozent über Bildschirmfreigabe und Telefon."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie läuft die Rechnungsstellung bei einem italienischen Anbieter?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ganz normal innergemeinschaftlich: Sie erhalten eine Rechnung ohne italienische Umsatzsteuer, mit Reverse Charge auf Ihre UID. Für Ihre Buchhaltung ist das derselbe Vorgang wie bei jedem anderen EU-Lieferanten."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Ist die Website auf Deutsch geschrieben oder übersetzt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Auf Deutsch geschrieben. Übersetzte Texte erkennt man sofort, und Google erkennt sie auch. Fachbegriffe aus Ihrer Branche lassen sich nicht maschinell übertragen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Was kostet eine Unternehmensseite für einen Wiener Betrieb?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Eine mehrseitige Unternehmensseite mit Katalog, Anfrageformular und SEO-Grundlage liegt üblicherweise im niedrigen bis mittleren vierstelligen Bereich, ein Onlineshop darüber. Die Zahl hängt an der Seitenzahl, den Sprachen und daran, ob eine Warenwirtschaft angebunden wird — deshalb nennen wir sie erst nach dem Erstgespräch, dann aber verbindlich."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Können Sie eine bestehende Seite übernehmen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Meistens ja. Wir sehen uns an, was technisch drinsteckt, und sagen ehrlich, ob eine Überarbeitung günstiger kommt als ein Neubau. Bei WordPress-Seiten mit gewachsener Plugin-Sammlung ist der Neubau oft der billigere Weg, bei sauber gebauten Seiten selten."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Gehört mir die Website am Ende wirklich?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Domain, Hosting, Quellcode und Inhalte laufen auf Ihren Namen. Es gibt keine Gebühr, die Sie zahlen müssen, um die eigene Seite weiter zu betreiben, und keinen Baukasten, aus dem Sie nicht mehr herauskommen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Machen Sie auch SEO und Google Ads für Wien?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja, beides. Als SEO Agentur Wien kümmern wir uns um Struktur, Inhalte und das Google-Unternehmensprofil, damit Sie in den lokalen Ergebnissen auftauchen; als Google Ads Agentur Wien richten wir Suchkampagnen ein und messen, was eine Anfrage kostet. Auch App Entwicklung Wien und Webdesign Agentur Wien fallen in dasselbe Team, was den Vorteil hat, dass Website, Sichtbarkeit und Kampagnen dieselbe Logik verfolgen."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Kann ich bei Ihnen einfach eine Homepage erstellen lassen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. Homepage erstellen lassen in Wien heißt bei uns: ein Erstgespräch, ein Festpreis, Texte auf Deutsch geschrieben und eine Seite, die Ihnen gehört. Für kleinere Betriebe ist das oft ein überschaubares Projekt mit fünf bis acht Seiten, das in wenigen Wochen online geht."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -414,6 +471,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../leistungen/seo/">SEO & Sichtbarkeit</a>
       <a href="../leistungen/google-ads/">Google Ads</a>
       <a href="../leistungen/">Alle Leistungen</a>
+    
+      <a href="../webagentur-graz/">Webagentur Graz</a>
+      <a href="../webagentur-kaernten/">Webagentur Kärnten</a>
+      <a href="../webagentur-suedtirol/">Webagentur Südtirol</a>
+      <a href="../was-kostet-eine-website/">Was kostet eine Website</a>
     </div>
   </div>
 </section>
@@ -453,8 +515,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

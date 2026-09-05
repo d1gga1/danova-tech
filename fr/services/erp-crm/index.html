@@ -57,186 +57,243 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/services/erp-crm/#service",
-   "name": "Développement d'ERP et de CRM sur mesure",
-   "serviceType": "Développement de logiciels de gestion ERP et CRM sur mesure",
-   "description": "Clients, devis, commandes, factures, stock et échéances dans un seul système, construit autour de votre façon de travailler. Sans licence par utilisateur, données exportables.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "France"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Country",
-     "name": "Belgique"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/services/erp-crm/#service",
+      "name": "Développement d'ERP et de CRM sur mesure",
+      "serviceType": "Développement de logiciels de gestion ERP et CRM sur mesure",
+      "description": "Clients, devis, commandes, factures, stock et échéances dans un seul système, construit autour de votre façon de travailler. Sans licence par utilisateur, données exportables.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "France"
+        },
+        {
+          "@type": "Country",
+          "name": "Belgique"
+        },
+        {
+          "@type": "Country",
+          "name": "Suisse"
+        },
+        {
+          "@type": "Country",
+          "name": "Luxembourg"
+        },
+        {
+          "@type": "Place",
+          "name": "Europe"
+        }
+      ],
+      "availableLanguage": [
+        "French",
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Développement d'ERP et de CRM sur mesure",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Clients, devis et commandes"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestion de stock"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Production et affaires"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tableaux de bord et marges"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Intégration facturation et e-commerce"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Suisse"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/services/erp-crm/#webpage",
+      "url": "https://danova-tech.com/fr/services/erp-crm/",
+      "name": "Développement d'ERP et de CRM sur mesure | Danova Tech",
+      "description": "Clients, devis, commandes, factures, stock et échéances dans un seul système, construit autour de votre façon de travailler. Sans licence par utilisateur, données exportables.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/services/erp-crm/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Luxembourg"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/services/erp-crm/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://danova-tech.com/fr/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "ERP & CRM",
+          "item": "https://danova-tech.com/fr/services/erp-crm/"
+        }
+      ]
     },
     {
-     "@type": "Place",
-     "name": "Europe"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/services/erp-crm/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Un logiciel sur mesure coûte-t-il plus cher qu'un progiciel ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Au départ, presque toujours oui. Dans la durée le compte s'inverse, pour deux raisons : la licence par utilisateur, qui augmente à chaque embauche et chaque année, et les personnalisations, parce qu'un progiciel ne fait presque jamais exactement ce qu'il vous faut. La comparaison honnête se fait sur cinq ans, pas sur la première année."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-on partir petit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est notre façon de travailler, et c'est aussi ce qui fait qu'un projet se rentabilise plus vite. On commence par la zone qui vous fait perdre le plus d'heures par semaine : elle entre en service en quelques semaines et commence tout de suite à rapporter. Ensuite on ajoute le module suivant."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Nous avons déjà un logiciel qui ne suffit plus.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "C'est la situation la plus courante. On regarde d'abord ce qui vaut la peine d'être gardé : si la comptabilité fonctionne mais que la production non, il est plus logique d'ajouter un module que de tout refaire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Où sont nos données ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Où vous décidez : sur votre serveur ou sur un hébergement que nous gérons. Dans les deux cas les données sont les vôtres et vous les emportez quand vous voulez, dans un format lisible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Y a-t-il un coût par utilisateur ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non. Le logiciel est à vous : si vous embauchez cinq personnes, il n'arrive pas une licence plus chère."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Peut-il se connecter à la facturation et à la boutique en ligne ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, c'est même la demande la plus fréquente. La commande arrive du site, le stock se décrémente seul et le document part sans que personne ne recopie quoi que ce soit."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "French",
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Développement d'ERP et de CRM sur mesure",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Clients, devis et commandes"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Gestion de stock"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Production et affaires"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tableaux de bord et marges"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Intégration facturation et e-commerce"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/services/erp-crm/#webpage",
-   "url": "https://danova-tech.com/fr/services/erp-crm/",
-   "name": "Développement d'ERP et de CRM sur mesure | Danova Tech",
-   "description": "Clients, devis, commandes, factures, stock et échéances dans un seul système, construit autour de votre façon de travailler. Sans licence par utilisateur, données exportables.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/services/erp-crm/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/services/erp-crm/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Accueil",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Services",
-     "item": "https://danova-tech.com/fr/services/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "ERP & CRM",
-     "item": "https://danova-tech.com/fr/services/erp-crm/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/services/erp-crm/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Un logiciel sur mesure coûte-t-il plus cher qu'un progiciel ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Au départ, presque toujours oui. Dans la durée le compte s'inverse, pour deux raisons : la licence par utilisateur, qui augmente à chaque embauche et chaque année, et les personnalisations, parce qu'un progiciel ne fait presque jamais exactement ce qu'il vous faut. La comparaison honnête se fait sur cinq ans, pas sur la première année."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Peut-on partir petit ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "C'est notre façon de travailler, et c'est aussi ce qui fait qu'un projet se rentabilise plus vite. On commence par la zone qui vous fait perdre le plus d'heures par semaine : elle entre en service en quelques semaines et commence tout de suite à rapporter. Ensuite on ajoute le module suivant."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Nous avons déjà un logiciel qui ne suffit plus.",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "C'est la situation la plus courante. On regarde d'abord ce qui vaut la peine d'être gardé : si la comptabilité fonctionne mais que la production non, il est plus logique d'ajouter un module que de tout refaire."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Où sont nos données ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Où vous décidez : sur votre serveur ou sur un hébergement que nous gérons. Dans les deux cas les données sont les vôtres et vous les emportez quand vous voulez, dans un format lisible."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Y a-t-il un coût par utilisateur ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Non. Le logiciel est à vous : si vous embauchez cinq personnes, il n'arrive pas une licence plus chère."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Peut-il se connecter à la facturation et à la boutique en ligne ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui, c'est même la demande la plus fréquente. La commande arrive du site, le stock se décrémente seul et le document part sans que personne ne recopie quoi que ce soit."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -461,8 +518,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

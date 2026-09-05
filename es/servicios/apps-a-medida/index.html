@@ -57,175 +57,232 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#service",
-   "name": "Desarrollo de aplicaciones móviles y web a medida",
-   "serviceType": "Desarrollo de aplicaciones móviles y web a medida",
-   "description": "Aplicaciones móviles y web construidas alrededor de tu forma de trabajar: campo, almacén, producción, área de cliente. Conectadas a los sistemas existentes, sin coste por usuario.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "España"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Country",
-     "name": "México"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#service",
+      "name": "Desarrollo de aplicaciones móviles y web a medida",
+      "serviceType": "Desarrollo de aplicaciones móviles y web a medida",
+      "description": "Aplicaciones móviles y web construidas alrededor de tu forma de trabajar: campo, almacén, producción, área de cliente. Conectadas a los sistemas existentes, sin coste por usuario.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "España"
+        },
+        {
+          "@type": "Country",
+          "name": "México"
+        },
+        {
+          "@type": "Country",
+          "name": "Colombia"
+        },
+        {
+          "@type": "Country",
+          "name": "Argentina"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "América Latina"
+        }
+      ],
+      "availableLanguage": [
+        "Spanish",
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Desarrollo de aplicaciones móviles y web a medida",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "App de campo para técnicos"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "App de almacén y producción"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Área de cliente"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Aplicación web interna a medida"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Colombia"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#webpage",
+      "url": "https://danova-tech.com/es/servicios/apps-a-medida/",
+      "name": "Desarrollo de aplicaciones móviles y web a medida | Danova Tech",
+      "description": "Aplicaciones móviles y web construidas alrededor de tu forma de trabajar: campo, almacén, producción, área de cliente. Conectadas a los sistemas existentes, sin coste por usuario.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Argentina"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servicios",
+          "item": "https://danova-tech.com/es/servicios/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Apps a medida",
+          "item": "https://danova-tech.com/es/servicios/apps-a-medida/"
+        }
+      ]
     },
     {
-     "@type": "Place",
-     "name": "Europa"
-    },
-    {
-     "@type": "Place",
-     "name": "América Latina"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿App nativa o aplicación web?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En la mayoría de casos de empresa, una aplicación web. Se abre desde el navegador del móvil, no exige instalación, se actualiza para todos a la vez y no pasa por la aprobación de las tiendas de apps. La nativa hace falta cuando necesitas de verdad notificaciones push, uso sin conexión permanente o acceso continuo a la cámara y al GPS."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Funciona sin conexión?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si hace falta, sí. Para quien trabaja en almacén, en obra o en un camión, construimos la app para que siga funcionando sin conexión y sincronice en cuanto vuelve la red. Es una decisión que se toma al principio, no algo que se añada después."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Puede conectarse al software que ya usamos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es el caso más frecuente. La app se convierte en la forma cómoda de introducir y leer datos que ya viven en tu sistema, en lugar de ser un sitio más donde copiar lo mismo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto se tarda en tener algo usable?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una primera versión que cubra el problema principal suele estar en manos del equipo en pocas semanas. Después se añaden funciones una a una, con gente que ya la está usando."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El código es nuestro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, y no hay coste por usuario. Si contratas a diez personas no llega una factura de licencia más alta."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Spanish",
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Desarrollo de aplicaciones móviles y web a medida",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "App de campo para técnicos"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "App de almacén y producción"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Área de cliente"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Aplicación web interna a medida"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#webpage",
-   "url": "https://danova-tech.com/es/servicios/apps-a-medida/",
-   "name": "Desarrollo de aplicaciones móviles y web a medida | Danova Tech",
-   "description": "Aplicaciones móviles y web construidas alrededor de tu forma de trabajar: campo, almacén, producción, área de cliente. Conectadas a los sistemas existentes, sin coste por usuario.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Inicio",
-     "item": "https://danova-tech.com/es/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Servicios",
-     "item": "https://danova-tech.com/es/servicios/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Apps a medida",
-     "item": "https://danova-tech.com/es/servicios/apps-a-medida/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/servicios/apps-a-medida/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿App nativa o aplicación web?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "En la mayoría de casos de empresa, una aplicación web. Se abre desde el navegador del móvil, no exige instalación, se actualiza para todos a la vez y no pasa por la aprobación de las tiendas de apps. La nativa hace falta cuando necesitas de verdad notificaciones push, uso sin conexión permanente o acceso continuo a la cámara y al GPS."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Funciona sin conexión?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Si hace falta, sí. Para quien trabaja en almacén, en obra o en un camión, construimos la app para que siga funcionando sin conexión y sincronice en cuanto vuelve la red. Es una decisión que se toma al principio, no algo que se añada después."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Puede conectarse al software que ya usamos?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Es el caso más frecuente. La app se convierte en la forma cómoda de introducir y leer datos que ya viven en tu sistema, en lugar de ser un sitio más donde copiar lo mismo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cuánto se tarda en tener algo usable?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Una primera versión que cubra el problema principal suele estar en manos del equipo en pocas semanas. Después se añaden funciones una a una, con gente que ya la está usando."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿El código es nuestro?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí, y no hay coste por usuario. Si contratas a diez personas no llega una factura de licencia más alta."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -447,8 +504,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

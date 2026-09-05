@@ -53,185 +53,242 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/es/diseno-web-espana/#service",
-   "name": "Diseño y desarrollo web para España",
-   "serviceType": "Diseño y desarrollo de webs y tiendas online",
-   "description": "Diseño y desarrollo de webs de empresa, tiendas online y landing pages para empresas españolas. Textos escritos en español, cumplimiento del RGPD, precio cerrado, online en 2-8 semanas.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "España"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Madrid"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/es/diseno-web-espana/#service",
+      "name": "Diseño y desarrollo web para España",
+      "serviceType": "Diseño y desarrollo de webs y tiendas online",
+      "description": "Diseño y desarrollo de webs de empresa, tiendas online y landing pages para empresas españolas. Textos escritos en español, cumplimiento del RGPD, precio cerrado, online en 2-8 semanas.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "España"
+        },
+        {
+          "@type": "City",
+          "name": "Madrid"
+        },
+        {
+          "@type": "City",
+          "name": "Barcelona"
+        },
+        {
+          "@type": "City",
+          "name": "Valencia"
+        },
+        {
+          "@type": "City",
+          "name": "Sevilla"
+        },
+        {
+          "@type": "City",
+          "name": "Bilbao"
+        },
+        {
+          "@type": "City",
+          "name": "Zaragoza"
+        },
+        {
+          "@type": "City",
+          "name": "Málaga"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Diseño y desarrollo web para España",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web de empresa"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tienda online"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page para campañas"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Rediseño web"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Barcelona"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/es/diseno-web-espana/#webpage",
+      "url": "https://danova-tech.com/es/diseno-web-espana/",
+      "name": "Diseño y desarrollo web en España | Danova Tech",
+      "description": "Diseño y desarrollo de webs de empresa, tiendas online y landing pages para empresas españolas. Textos escritos en español, cumplimiento del RGPD, precio cerrado, online en 2-8 semanas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/es/diseno-web-espana/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Valencia"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/diseno-web-espana/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Webs & E-commerce",
+          "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Diseño web en España",
+          "item": "https://danova-tech.com/es/diseno-web-espana/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Sevilla"
-    },
-    {
-     "@type": "City",
-     "name": "Bilbao"
-    },
-    {
-     "@type": "City",
-     "name": "Zaragoza"
-    },
-    {
-     "@type": "City",
-     "name": "Málaga"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/diseno-web-espana/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Por qué contratar a una agencia italiana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Por la relación entre precio, cercanía y marco legal. Una agencia española de calidad equivalente cuesta más; un proveedor fuera de Europa cuesta menos pero está en otra franja horaria y otro marco jurídico. Nosotros estamos en la Unión Europea, trabajamos en español y facturamos con inversión del sujeto pasivo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona la facturación?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Como prestación intracomunitaria: factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es una operación habitual."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Los textos se traducen o se escriben en español?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se escriben. Un texto traducido se nota en el ritmo, y Google también lo nota. En una web de empresa es la diferencia entre creíble e intercambiable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Y el RGPD?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nos aplica el mismo reglamento que a ti, porque estamos en la Unión. Alojamiento europeo, sin cookies de perfilado sin consentimiento, aviso legal completo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto se tarda en publicar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De dos a ocho semanas. Lo que alarga los plazos casi siempre son los textos y las fotos, no el desarrollo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿En qué ciudades trabajáis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En toda España, en remoto. Tenemos páginas propias para diseño web Madrid, Barcelona y Valencia, y trabajamos igual con empresas de Sevilla, Zaragoza, Bilbao, Málaga, Murcia, Alicante, Valladolid y Vigo. En esas plazas el diseño web Sevilla o el diseño web Zaragoza tienen mucha menos competencia orgánica que Madrid, así que el posicionamiento llega bastante antes."
+          }
+        }
+      ]
     }
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Diseño y desarrollo web para España",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Web de empresa"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tienda online"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page para campañas"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Rediseño web"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/es/diseno-web-espana/#webpage",
-   "url": "https://danova-tech.com/es/diseno-web-espana/",
-   "name": "Diseño y desarrollo web en España | Danova Tech",
-   "description": "Diseño y desarrollo de webs de empresa, tiendas online y landing pages para empresas españolas. Textos escritos en español, cumplimiento del RGPD, precio cerrado, online en 2-8 semanas.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/es/diseno-web-espana/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/diseno-web-espana/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Inicio",
-     "item": "https://danova-tech.com/es/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Webs & E-commerce",
-     "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Diseño web en España",
-     "item": "https://danova-tech.com/es/diseno-web-espana/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/diseno-web-espana/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿Por qué contratar a una agencia italiana?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Por la relación entre precio, cercanía y marco legal. Una agencia española de calidad equivalente cuesta más; un proveedor fuera de Europa cuesta menos pero está en otra franja horaria y otro marco jurídico. Nosotros estamos en la Unión Europea, trabajamos en español y facturamos con inversión del sujeto pasivo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cómo funciona la facturación?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Como prestación intracomunitaria: factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es una operación habitual."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Los textos se traducen o se escriben en español?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Se escriben. Un texto traducido se nota en el ritmo, y Google también lo nota. En una web de empresa es la diferencia entre creíble e intercambiable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Y el RGPD?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nos aplica el mismo reglamento que a ti, porque estamos en la Unión. Alojamiento europeo, sin cookies de perfilado sin consentimiento, aviso legal completo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cuánto se tarda en publicar?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De dos a ocho semanas. Lo que alarga los plazos casi siempre son los textos y las fotos, no el desarrollo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿En qué ciudades trabajáis?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "En toda España, en remoto. Tenemos páginas propias para diseño web Madrid, Barcelona y Valencia, y trabajamos igual con empresas de Sevilla, Zaragoza, Bilbao, Málaga, Murcia, Alicante, Valladolid y Vigo. En esas plazas el diseño web Sevilla o el diseño web Zaragoza tienen mucha menos competencia orgánica que Madrid, así que el posicionamiento llega bastante antes."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -443,8 +500,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

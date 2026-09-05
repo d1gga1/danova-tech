@@ -53,176 +53,233 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#service",
-   "name": "Realizzazione siti web a Pordenone",
-   "serviceType": "Realizzazione di siti web ed e-commerce su misura",
-   "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende della provincia di Pordenone. Siti multilingua, veloci e ottimizzati per Google e Bing, a prezzo fisso.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Pordenone"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Sacile"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#service",
+      "name": "Realizzazione siti web a Pordenone",
+      "serviceType": "Realizzazione di siti web ed e-commerce su misura",
+      "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende della provincia di Pordenone. Siti multilingua, veloci e ottimizzati per Google e Bing, a prezzo fisso.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Pordenone"
+        },
+        {
+          "@type": "City",
+          "name": "Sacile"
+        },
+        {
+          "@type": "City",
+          "name": "Azzano Decimo"
+        },
+        {
+          "@type": "City",
+          "name": "Brugnera"
+        },
+        {
+          "@type": "City",
+          "name": "San Vito al Tagliamento"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Provincia di Pordenone"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Realizzazione siti web a Pordenone",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Sito tecnico multilingua per l'export"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "E-commerce B2B e B2C"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page per campagne"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Restyling e ottimizzazione della velocità"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Azzano Decimo"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#webpage",
+      "url": "https://danova-tech.com/realizzazione-siti-web-pordenone/",
+      "name": "Realizzazione siti web a Pordenone e provincia | Danova Tech",
+      "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende della provincia di Pordenone. Siti multilingua, veloci e ottimizzati per Google e Bing, a prezzo fisso.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Brugnera"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Siti web & E-commerce",
+          "item": "https://danova-tech.com/servizi/siti-web-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Realizzazione siti web a Pordenone",
+          "item": "https://danova-tech.com/realizzazione-siti-web-pordenone/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "San Vito al Tagliamento"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Provincia di Pordenone"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Friuli-Venezia Giulia"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa un sito web a Pordenone?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende da cosa deve fare: un sito vetrina è un impegno contenuto, un sito aziendale multilingua con catalogo tecnico è un altro lavoro, un e-commerce dipende dal catalogo e dalle integrazioni. Il preventivo è a prezzo fisso e lo diamo dopo la prima call, non a lavori iniziati."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Lavorate con aziende che esportano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È la maggior parte del lavoro che ci arriva da questa zona. Costruiamo i siti già multilingua, con italiano, inglese e tedesco gestiti bene lato tecnico, perché per molte aziende del Pordenonese il cliente parla tedesco."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Possiamo aggiornare il sito da soli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, se serve. Vi lasciamo un pannello semplice per le parti che cambiano davvero: prodotti, news, referenze. Il resto lo blocchiamo, così nessuno rompe il layout per sbaglio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il sito si collega al nostro gestionale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, ed è una delle cose che facciamo più spesso. Anagrafiche prodotti, listini e giacenze possono arrivare dal gestionale al sito in automatico, invece di essere ricopiate a mano ogni volta."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Venite in azienda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Siamo a Mansuè, a venti minuti dal confine con il Pordenonese. Il primo incontro lo facciamo volentieri da voi."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Realizzazione siti web a Pordenone",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Sito tecnico multilingua per l'export"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "E-commerce B2B e B2C"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page per campagne"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Restyling e ottimizzazione della velocità"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#webpage",
-   "url": "https://danova-tech.com/realizzazione-siti-web-pordenone/",
-   "name": "Realizzazione siti web a Pordenone e provincia | Danova Tech",
-   "description": "Realizzazione di siti web, e-commerce e landing page su misura per le aziende della provincia di Pordenone. Siti multilingua, veloci e ottimizzati per Google e Bing, a prezzo fisso.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Siti web & E-commerce",
-     "item": "https://danova-tech.com/servizi/siti-web-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Realizzazione siti web a Pordenone",
-     "item": "https://danova-tech.com/realizzazione-siti-web-pordenone/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/realizzazione-siti-web-pordenone/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Quanto costa un sito web a Pordenone?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende da cosa deve fare: un sito vetrina è un impegno contenuto, un sito aziendale multilingua con catalogo tecnico è un altro lavoro, un e-commerce dipende dal catalogo e dalle integrazioni. Il preventivo è a prezzo fisso e lo diamo dopo la prima call, non a lavori iniziati."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Lavorate con aziende che esportano?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "È la maggior parte del lavoro che ci arriva da questa zona. Costruiamo i siti già multilingua, con italiano, inglese e tedesco gestiti bene lato tecnico, perché per molte aziende del Pordenonese il cliente parla tedesco."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Possiamo aggiornare il sito da soli?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, se serve. Vi lasciamo un pannello semplice per le parti che cambiano davvero: prodotti, news, referenze. Il resto lo blocchiamo, così nessuno rompe il layout per sbaglio."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Il sito si collega al nostro gestionale?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, ed è una delle cose che facciamo più spesso. Anagrafiche prodotti, listini e giacenze possono arrivare dal gestionale al sito in automatico, invece di essere ricopiate a mano ogni volta."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Venite in azienda?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Siamo a Mansuè, a venti minuti dal confine con il Pordenonese. Il primo incontro lo facciamo volentieri da voi."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -407,6 +464,10 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     
       <a href="../realizzazione-siti-web-udine/">Siti web a Udine</a>
       <a href="../servizi/google-ads/">Google Ads</a>
+    
+      <a href="../realizzazione-siti-web-verona/">Siti web a Verona</a>
+      <a href="../realizzazione-siti-web-padova/">Siti web a Padova</a>
+      <a href="../restyling-sito-web/">Restyling del sito web</a>
     </div>
   </div>
 </section>
@@ -435,6 +496,12 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
         <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
         <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
       </ul></div>
       <div><h5>Gestionali</h5><ul>
         <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
@@ -462,8 +529,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

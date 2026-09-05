@@ -57,93 +57,150 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "AboutPage",
-   "@id": "https://danova-tech.com/fr/a-propos/#webpage",
-   "url": "https://danova-tech.com/fr/a-propos/",
-   "name": "À propos — l'équipe derrière Danova Tech | Danova Tech",
-   "description": "Dix personnes aux rôles distincts : analyse, design, développement, ERP, référencement et support. Un seul interlocuteur pour vous, toute l'équipe derrière.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/a-propos/#breadcrumb",
-   "itemListElement": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Accueil",
-     "item": "https://danova-tech.com/fr/"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "À propos",
-     "item": "https://danova-tech.com/fr/a-propos/"
+      "@type": "AboutPage",
+      "@id": "https://danova-tech.com/fr/a-propos/#webpage",
+      "url": "https://danova-tech.com/fr/a-propos/",
+      "name": "À propos — l'équipe derrière Danova Tech | Danova Tech",
+      "description": "Dix personnes aux rôles distincts : analyse, design, développement, ERP, référencement et support. Un seul interlocuteur pour vous, toute l'équipe derrière.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/a-propos/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "À propos",
+          "item": "https://danova-tech.com/fr/a-propos/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/a-propos/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Qui suivra réellement mon projet ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un référent de projet, toujours le même du début à la fin. C'est la personne qui vous répond et qui connaît votre situation : derrière elle travaillent les autres rôles, mais vous n'avez pas à en tenir le compte."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Êtes-vous une agence ou un groupe d'indépendants ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nous sommes une équipe stable de dix personnes avec des rôles distincts. La différence pratique : celui qui a construit votre projet est encore là dans deux ans, quand il faut le modifier."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Travaillez-vous en dehors de l'Italie ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. À distance nous suivons des clients dans toute l'Europe, en quatre langues : français, italien, anglais et allemand. La distance ne change ni le prix ni la façon dont nous suivons le projet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Que se passe-t-il si je change de prestataire un jour ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Vous emportez tout. Nom de domaine, code, hébergement, accès, historique. Rien n'est enregistré à notre nom et rien ne vous retient : c'est une condition que nous écrivons dans le contrat."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Où êtes-vous exactement ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "À Mansuè, en province de Trévise, dans le nord-est de l'Italie, entre Venise et la frontière autrichienne. Pour les clients français, belges et suisses, tout se fait en visioconférence."
+          }
+        }
+      ]
     }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/a-propos/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Qui suivra réellement mon projet ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Un référent de projet, toujours le même du début à la fin. C'est la personne qui vous répond et qui connaît votre situation : derrière elle travaillent les autres rôles, mais vous n'avez pas à en tenir le compte."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Êtes-vous une agence ou un groupe d'indépendants ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nous sommes une équipe stable de dix personnes avec des rôles distincts. La différence pratique : celui qui a construit votre projet est encore là dans deux ans, quand il faut le modifier."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Travaillez-vous en dehors de l'Italie ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. À distance nous suivons des clients dans toute l'Europe, en quatre langues : français, italien, anglais et allemand. La distance ne change ni le prix ni la façon dont nous suivons le projet."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Que se passe-t-il si je change de prestataire un jour ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Vous emportez tout. Nom de domaine, code, hébergement, accès, historique. Rien n'est enregistré à notre nom et rien ne vous retient : c'est une condition que nous écrivons dans le contrat."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Où êtes-vous exactement ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "À Mansuè, en province de Trévise, dans le nord-est de l'Italie, entre Venise et la frontière autrichienne. Pour les clients français, belges et suisses, tout se fait en visioconférence."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -409,8 +466,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

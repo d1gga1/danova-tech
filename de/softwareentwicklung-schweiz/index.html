@@ -53,193 +53,250 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#service",
-   "name": "Softwareentwicklung Schweiz",
-   "serviceType": "Individualsoftware, ERP-Erweiterungen und App-Entwicklung",
-   "description": "Individualsoftware, ERP- und CRM-Erweiterungen und App-Entwicklung für Schweizer Unternehmen. Deutschsprachig, Festpreis in Euro, Code und Daten gehören Ihnen.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Schweiz"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Zürich"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#service",
+      "name": "Softwareentwicklung Schweiz",
+      "serviceType": "Individualsoftware, ERP-Erweiterungen und App-Entwicklung",
+      "description": "Individualsoftware, ERP- und CRM-Erweiterungen und App-Entwicklung für Schweizer Unternehmen. Deutschsprachig, Festpreis in Euro, Code und Daten gehören Ihnen.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Schweiz"
+        },
+        {
+          "@type": "City",
+          "name": "Zürich"
+        },
+        {
+          "@type": "City",
+          "name": "Bern"
+        },
+        {
+          "@type": "City",
+          "name": "Basel"
+        },
+        {
+          "@type": "City",
+          "name": "Luzern"
+        }
+      ],
+      "availableLanguage": [
+        "German",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Softwareentwicklung Schweiz",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Individualsoftware"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "ERP- und CRM-Erweiterungen"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Business-Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Schnittstellen"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Prozessautomatisierung"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Bern"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#webpage",
+      "url": "https://danova-tech.com/de/softwareentwicklung-schweiz/",
+      "name": "Softwareentwicklung Schweiz — Individualsoftware | Danova Tech",
+      "description": "Individualsoftware, ERP- und CRM-Erweiterungen und App-Entwicklung für Schweizer Unternehmen. Deutschsprachig, Festpreis in Euro, Code und Daten gehören Ihnen.",
+      "inLanguage": "de",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Basel"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Software & Automatisierung",
+          "item": "https://danova-tech.com/de/leistungen/software-automatisierung/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Softwareentwicklung Schweiz",
+          "item": "https://danova-tech.com/de/softwareentwicklung-schweiz/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Luzern"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet ein Softwareprojekt bei Ihnen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Der erste produktive Abschnitt liegt bei den meisten Projekten im mittleren vierstelligen bis unteren fünfstelligen Bereich. Die Zahl hängt an der Zahl der Abläufe und der Systeme, die angebunden werden — deshalb nennen wir sie nach der Prozessaufnahme, dann aber als Festpreis je Abschnitt."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wie läuft die Verrechnung mit einem EU-Anbieter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wir stellen eine Rechnung in Euro ohne Mehrwertsteuer. Für Sie ist es ein Dienstleistungsbezug aus dem Ausland, den Sie im Bezugsverfahren abrechnen — ein alltäglicher Vorgang für Ihre Treuhandstelle."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wo liegen die Daten?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wo Sie es wollen. Für Anwendungen mit Personendaten oder branchenspezifischen Auflagen richten wir das Hosting bei einem Schweizer Anbieter auf Ihren Namen ein; sonst genügt in aller Regel ein europäisches Rechenzentrum."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Können Sie unser bestehendes ERP anbinden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In den meisten Fällen ja. Wenn das System eine Schnittstelle hat, nutzen wir sie; wenn nicht, arbeiten wir über Datenbank oder Dateiaustausch. Wir prüfen das in der Prozessaufnahme, bevor irgendetwas versprochen wird."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn wir die Zusammenarbeit beenden?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sie behalten alles: Quellcode, Dokumentation, Zugänge, Daten. Die Software läuft weiter, und ein anderes Entwicklungsteam kann daran anschließen. Genau dafür ist die Dokumentation da."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Entwickeln Sie auch Apps und ERP-Systeme für Schweizer Unternehmen?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja. App Entwicklung Schweiz für iOS, Android und Web gehört zum Leistungsumfang, ebenso Erweiterungen rund um ein ERP System Schweiz oder ein CRM System Schweiz. In den meisten Fällen ersetzen wir nichts, sondern ergänzen das bestehende System um das, was fehlt — das ist deutlich günstiger und weit weniger riskant als eine Ablösung."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was kostet ein ERP-System, wenn man es entwickeln lässt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Individualsoftware entwickeln lassen kostet nicht pauschal weniger als ein Standardprodukt, sondern anders: einmalig statt pro Benutzer und Monat. Die Rechnung geht meist ab etwa fünfzehn bis zwanzig Nutzern auf, weil dort die Lizenzkosten eines Standardsystems über drei Jahre die Entwicklungskosten übersteigen — und am Ende gehört Ihnen der Code."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "German",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Softwareentwicklung Schweiz",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Individualsoftware"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "ERP- und CRM-Erweiterungen"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Business-Apps"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Schnittstellen"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Prozessautomatisierung"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#webpage",
-   "url": "https://danova-tech.com/de/softwareentwicklung-schweiz/",
-   "name": "Softwareentwicklung Schweiz — Individualsoftware | Danova Tech",
-   "description": "Individualsoftware, ERP- und CRM-Erweiterungen und App-Entwicklung für Schweizer Unternehmen. Deutschsprachig, Festpreis in Euro, Code und Daten gehören Ihnen.",
-   "inLanguage": "de",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Software & Automatisierung",
-     "item": "https://danova-tech.com/de/leistungen/software-automatisierung/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Softwareentwicklung Schweiz",
-     "item": "https://danova-tech.com/de/softwareentwicklung-schweiz/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/softwareentwicklung-schweiz/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Was kostet ein Softwareprojekt bei Ihnen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Der erste produktive Abschnitt liegt bei den meisten Projekten im mittleren vierstelligen bis unteren fünfstelligen Bereich. Die Zahl hängt an der Zahl der Abläufe und der Systeme, die angebunden werden — deshalb nennen wir sie nach der Prozessaufnahme, dann aber als Festpreis je Abschnitt."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wie läuft die Verrechnung mit einem EU-Anbieter?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wir stellen eine Rechnung in Euro ohne Mehrwertsteuer. Für Sie ist es ein Dienstleistungsbezug aus dem Ausland, den Sie im Bezugsverfahren abrechnen — ein alltäglicher Vorgang für Ihre Treuhandstelle."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Wo liegen die Daten?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Wo Sie es wollen. Für Anwendungen mit Personendaten oder branchenspezifischen Auflagen richten wir das Hosting bei einem Schweizer Anbieter auf Ihren Namen ein; sonst genügt in aller Regel ein europäisches Rechenzentrum."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Können Sie unser bestehendes ERP anbinden?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In den meisten Fällen ja. Wenn das System eine Schnittstelle hat, nutzen wir sie; wenn nicht, arbeiten wir über Datenbank oder Dateiaustausch. Wir prüfen das in der Prozessaufnahme, bevor irgendetwas versprochen wird."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Was passiert, wenn wir die Zusammenarbeit beenden?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sie behalten alles: Quellcode, Dokumentation, Zugänge, Daten. Die Software läuft weiter, und ein anderes Entwicklungsteam kann daran anschließen. Genau dafür ist die Dokumentation da."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Entwickeln Sie auch Apps und ERP-Systeme für Schweizer Unternehmen?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Ja. App Entwicklung Schweiz für iOS, Android und Web gehört zum Leistungsumfang, ebenso Erweiterungen rund um ein ERP System Schweiz oder ein CRM System Schweiz. In den meisten Fällen ersetzen wir nichts, sondern ergänzen das bestehende System um das, was fehlt — das ist deutlich günstiger und weit weniger riskant als eine Ablösung."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Was kostet ein ERP-System, wenn man es entwickeln lässt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Individualsoftware entwickeln lassen kostet nicht pauschal weniger als ein Standardprodukt, sondern anders: einmalig statt pro Benutzer und Monat. Die Rechnung geht meist ab etwa fünfzehn bis zwanzig Nutzern auf, weil dort die Lizenzkosten eines Standardsystems über drei Jahre die Entwicklungskosten übersteigen — und am Ende gehört Ihnen der Code."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -451,8 +508,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

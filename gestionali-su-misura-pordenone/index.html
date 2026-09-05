@@ -53,161 +53,218 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#service",
-   "name": "Software gestionale a Pordenone",
-   "serviceType": "Sviluppo di software gestionale su misura",
-   "description": "Software gestionale su misura per meccanica, componentistica e mobile del Pordenonese: commesse, magazzino e produzione sotto controllo.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Pordenone"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Sacile"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#service",
+      "name": "Software gestionale a Pordenone",
+      "serviceType": "Sviluppo di software gestionale su misura",
+      "description": "Software gestionale su misura per meccanica, componentistica e mobile del Pordenonese: commesse, magazzino e produzione sotto controllo.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Pordenone"
+        },
+        {
+          "@type": "City",
+          "name": "Sacile"
+        },
+        {
+          "@type": "City",
+          "name": "Brugnera"
+        },
+        {
+          "@type": "City",
+          "name": "Porcia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Provincia di Pordenone"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software gestionale a Pordenone",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Commesse e tracciabilità"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tempi e avanzamento"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Magazzino e forniture"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Dialogo con i sistemi del cliente"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Brugnera"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#webpage",
+      "url": "https://danova-tech.com/gestionali-su-misura-pordenone/",
+      "name": "Software gestionale a Pordenone e provincia | Danova Tech",
+      "description": "Software gestionale su misura per meccanica, componentistica e mobile del Pordenonese: commesse, magazzino e produzione sotto controllo.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#service"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Porcia"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software gestionale a Pordenone",
+          "item": "https://danova-tech.com/gestionali-su-misura-pordenone/"
+        }
+      ]
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Provincia di Pordenone"
-    },
-    {
-     "@type": "AdministrativeArea",
-     "name": "Friuli-Venezia Giulia"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Siete in Veneto, noi in Friuli. È un problema?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Mansuè è a mezz'ora da Pordenone e a un quarto d'ora da Sacile: per noi è zona di casa. La distanza reale conta più del confine regionale."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dobbiamo scambiare dati con il nostro committente.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si può fare, ed è un lavoro frequente. Export nei formati che vi chiedono, oppure integrazioni dirette quando il committente le espone. L'obiettivo è che nessuno ricopi numeri a mano."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Ci serve la tracciabilità dei lotti.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È una delle cose per cui il su misura conviene davvero: la tracciabilità che serve a voi dipende da come lavorate voi, e i pacchetti generici la impongono a modo loro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende da cosa serve, e va detto: può essere qualche migliaio di euro per un modulo circoscritto o molto di più per un sistema completo. Il preventivo è a prezzo fisso e arriva dopo aver capito il processo, non prima."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Software gestionale a Pordenone",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Commesse e tracciabilità"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tempi e avanzamento"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Magazzino e forniture"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Dialogo con i sistemi del cliente"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#webpage",
-   "url": "https://danova-tech.com/gestionali-su-misura-pordenone/",
-   "name": "Software gestionale a Pordenone e provincia | Danova Tech",
-   "description": "Software gestionale su misura per meccanica, componentistica e mobile del Pordenonese: commesse, magazzino e produzione sotto controllo.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#service"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software gestionale a Pordenone",
-     "item": "https://danova-tech.com/gestionali-su-misura-pordenone/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/gestionali-su-misura-pordenone/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Siete in Veneto, noi in Friuli. È un problema?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No. Mansuè è a mezz'ora da Pordenone e a un quarto d'ora da Sacile: per noi è zona di casa. La distanza reale conta più del confine regionale."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Dobbiamo scambiare dati con il nostro committente.",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Si può fare, ed è un lavoro frequente. Export nei formati che vi chiedono, oppure integrazioni dirette quando il committente le espone. L'obiettivo è che nessuno ricopi numeri a mano."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Ci serve la tracciabilità dei lotti.",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "È una delle cose per cui il su misura conviene davvero: la tracciabilità che serve a voi dipende da come lavorate voi, e i pacchetti generici la impongono a modo loro."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto costa?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende da cosa serve, e va detto: può essere qualche migliaio di euro per un modulo circoscritto o molto di più per un sistema completo. Il preventivo è a prezzo fisso e arriva dopo aver capito il processo, non prima."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -425,8 +482,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

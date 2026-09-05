@@ -53,185 +53,242 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/es/diseno-web-madrid/#service",
-   "name": "Diseño web Madrid",
-   "serviceType": "Diseño y desarrollo de webs, tiendas online y SEO",
-   "description": "Agencia de diseño web para empresas de Madrid: webs corporativas, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, online en 2-8 semanas.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Madrid"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Comunidad de Madrid"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/es/diseno-web-madrid/#service",
+      "name": "Diseño web Madrid",
+      "serviceType": "Diseño y desarrollo de webs, tiendas online y SEO",
+      "description": "Agencia de diseño web para empresas de Madrid: webs corporativas, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, online en 2-8 semanas.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Madrid"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Comunidad de Madrid"
+        },
+        {
+          "@type": "Country",
+          "name": "España"
+        }
+      ],
+      "availableLanguage": [
+        "Spanish",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Diseño web Madrid",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web corporativa"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tienda online"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing de campaña"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Rediseño web"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Posicionamiento SEO"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "España"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/es/diseno-web-madrid/#webpage",
+      "url": "https://danova-tech.com/es/diseno-web-madrid/",
+      "name": "Diseño web en Madrid — webs, tiendas online y SEO | Danova Tech",
+      "description": "Agencia de diseño web para empresas de Madrid: webs corporativas, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, online en 2-8 semanas.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/es/diseno-web-madrid/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/diseno-web-madrid/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Webs & E-commerce",
+          "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Diseño web Madrid",
+          "item": "https://danova-tech.com/es/diseno-web-madrid/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/diseno-web-madrid/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Estáis en Madrid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, nuestra sede está en Mansuè, en el norte de Italia. Trabajamos en español, atendemos a clientes madrileños por videollamada y viajamos para el arranque y la entrega cuando el proyecto lo justifica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona la facturación con un proveedor italiano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De forma intracomunitaria normal: recibes una factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es la misma operación que con cualquier otro proveedor europeo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La web se escribe en español o se traduce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se escribe en español. Un texto traducido se nota al instante, y Google también lo nota. El vocabulario de un sector no se traslada a máquina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuánto cuesta una web con vosotros?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una web corporativa de varias páginas con formulario y base SEO suele situarse en la franja baja o media de cuatro cifras; una tienda online, por encima. La cifra depende del número de páginas, los idiomas y las conexiones con tus sistemas: la damos tras la primera conversación, pero entonces es cerrada."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacéis mantenimiento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, como cuota mensual sin permanencia: actualizaciones, copias de seguridad, cambios pequeños y, si quieres, SEO o Google Ads. No es obligatorio: muchos clientes gestionan la web por su cuenta tras la entrega."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La web es realmente mía?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Dominio, alojamiento, código y contenidos van a tu nombre. No hay cuota obligatoria para seguir usando tu propia web, ni un constructor propietario del que después no se pueda salir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacéis también posicionamiento y campañas en Madrid?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Como agencia SEO Madrid trabajamos estructura, contenidos y perfil de Google Business, y como agencia web Madrid llevamos también las campañas de Google Ads medidas en coste por solicitud. El posicionamiento web Madrid y el diseño los lleva el mismo equipo, algo que importa: una web construida sin mirar qué se busca de verdad es difícil de arreglar después."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Spanish",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Diseño web Madrid",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Web corporativa"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tienda online"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing de campaña"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Rediseño web"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Posicionamiento SEO"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/es/diseno-web-madrid/#webpage",
-   "url": "https://danova-tech.com/es/diseno-web-madrid/",
-   "name": "Diseño web en Madrid — webs, tiendas online y SEO | Danova Tech",
-   "description": "Agencia de diseño web para empresas de Madrid: webs corporativas, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, online en 2-8 semanas.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/es/diseno-web-madrid/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/diseno-web-madrid/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/es/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Webs & E-commerce",
-     "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Diseño web Madrid",
-     "item": "https://danova-tech.com/es/diseno-web-madrid/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/diseno-web-madrid/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿Estáis en Madrid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No, nuestra sede está en Mansuè, en el norte de Italia. Trabajamos en español, atendemos a clientes madrileños por videollamada y viajamos para el arranque y la entrega cuando el proyecto lo justifica."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cómo funciona la facturación con un proveedor italiano?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De forma intracomunitaria normal: recibes una factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es la misma operación que con cualquier otro proveedor europeo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿La web se escribe en español o se traduce?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Se escribe en español. Un texto traducido se nota al instante, y Google también lo nota. El vocabulario de un sector no se traslada a máquina."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cuánto cuesta una web con vosotros?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Una web corporativa de varias páginas con formulario y base SEO suele situarse en la franja baja o media de cuatro cifras; una tienda online, por encima. La cifra depende del número de páginas, los idiomas y las conexiones con tus sistemas: la damos tras la primera conversación, pero entonces es cerrada."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Hacéis mantenimiento?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí, como cuota mensual sin permanencia: actualizaciones, copias de seguridad, cambios pequeños y, si quieres, SEO o Google Ads. No es obligatorio: muchos clientes gestionan la web por su cuenta tras la entrega."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿La web es realmente mía?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. Dominio, alojamiento, código y contenidos van a tu nombre. No hay cuota obligatoria para seguir usando tu propia web, ni un constructor propietario del que después no se pueda salir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Hacéis también posicionamiento y campañas en Madrid?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. Como agencia SEO Madrid trabajamos estructura, contenidos y perfil de Google Business, y como agencia web Madrid llevamos también las campañas de Google Ads medidas en coste por solicitud. El posicionamiento web Madrid y el diseño los lleva el mismo equipo, algo que importa: una web construida sin mirar qué se busca de verdad es difícil de arreglar después."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -404,6 +461,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../servicios/seo/">Agencia SEO</a>
       <a href="../servicios/google-ads/">Google Ads</a>
       <a href="../servicios/">Todos los servicios</a>
+    
+      <a href="../diseno-web-barcelona/">Diseño web Barcelona</a>
+      <a href="../diseno-web-valencia/">Diseño web Valencia</a>
+      <a href="../cuanto-cuesta-una-pagina-web/">Cuánto cuesta una página web</a>
+      <a href="../agencia-seo-espana/">Agencia SEO España</a>
     </div>
   </div>
 </section>
@@ -443,8 +505,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

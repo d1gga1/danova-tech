@@ -59,162 +59,219 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/en/services/erp-crm/#service",
-   "name": "Custom ERP and CRM systems",
-   "serviceType": "ERP and CRM software development",
-   "description": "Design and development of custom ERP and CRM systems: customer records, quotes, orders and invoices, stock and production, roles and permissions, real-time dashboards and reports, with migration of existing data.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Place",
-     "name": "Europa"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/en/services/erp-crm/#service",
+      "name": "Custom ERP and CRM systems",
+      "serviceType": "ERP and CRM software development",
+      "description": "Design and development of custom ERP and CRM systems: customer records, quotes, orders and invoices, stock and production, roles and permissions, real-time dashboards and reports, with migration of existing data.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "Worldwide"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Custom ERP and CRM systems",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Customers, quotes, orders and invoices"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Stock, production and deadlines"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Roles and permissions per user"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Real-time dashboards and reports"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Migration of existing data"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Place",
-     "name": "Worldwide"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/en/services/erp-crm/#webpage",
+      "url": "https://danova-tech.com/en/services/erp-crm/",
+      "name": "Custom ERP and CRM systems for your company | Danova Tech",
+      "description": "Customers, quotes, orders, invoices, stock and deadlines in one place. A system built around the way you work, not the other way round. Real-time dashboards.",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/en/services/erp-crm/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/en/services/erp-crm/#breadcrumb"
+      },
+      "inLanguage": "en",
+      "dateModified": "2026-08-29"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/en/services/erp-crm/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/en/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://danova-tech.com/en/#servizi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Custom ERP and CRM systems"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/en/services/erp-crm/#faq",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/en/services/erp-crm/#webpage"
+      },
+      "inLanguage": "en",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "We already have a system, can it be integrated?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Almost always yes. First we analyse what is worth keeping: if what you have works for accounting but not for production, adding a module makes more sense than rebuilding everything."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can the data in our spreadsheets be recovered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, and it is standard practice. Records, history and price lists get imported, so the system starts full rather than empty. It is one of the first things we do."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How many people can use it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "As many as you need. Since it is yours there are no per-user licences: if the company grows, the bill does not."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What if we want to add something later?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It is expected to happen, which is exactly why we work in modules. Additions are priced one by one at a fixed price, with no open-ended contract inflating by itself."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Custom ERP and CRM systems",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Customers, quotes, orders and invoices"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Stock, production and deadlines"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Roles and permissions per user"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Real-time dashboards and reports"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Migration of existing data"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/en/services/erp-crm/#webpage",
-   "url": "https://danova-tech.com/en/services/erp-crm/",
-   "name": "Custom ERP and CRM systems for your company | Danova Tech",
-   "description": "Customers, quotes, orders, invoices, stock and deadlines in one place. A system built around the way you work, not the other way round. Real-time dashboards.",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/en/services/erp-crm/#service"
-   },
-   "breadcrumb": {
-    "@id": "https://danova-tech.com/en/services/erp-crm/#breadcrumb"
-   },
-   "inLanguage": "en",
-   "dateModified": "2026-08-29"
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/en/services/erp-crm/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/en/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Services",
-     "item": "https://danova-tech.com/en/#servizi"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Custom ERP and CRM systems"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/en/services/erp-crm/#faq",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/en/services/erp-crm/#webpage"
-   },
-   "inLanguage": "en",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "We already have a system, can it be integrated?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Almost always yes. First we analyse what is worth keeping: if what you have works for accounting but not for production, adding a module makes more sense than rebuilding everything."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Can the data in our spreadsheets be recovered?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Yes, and it is standard practice. Records, history and price lists get imported, so the system starts full rather than empty. It is one of the first things we do."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "How many people can use it?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "As many as you need. Since it is yours there are no per-user licences: if the company grows, the bill does not."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "What if we want to add something later?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "It is expected to happen, which is exactly why we work in modules. Additions are priced one by one at a fixed price, with no open-ended contract inflating by itself."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -446,8 +503,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Back to home</a></span>
-    </div>
+      <span class="f-legal"><a href="/en/privacy/">Privacy Policy</a><i>·</i><a href="/en/cookie-policy/">Cookie Policy</a><i>·</i><a href="/en/terms/">Terms of use</a><i>·</i><a href="/en/contact/">Contact</a><i>·</i><a href="/en/">Back to home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

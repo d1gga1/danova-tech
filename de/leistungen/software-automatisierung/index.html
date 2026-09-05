@@ -59,155 +59,212 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#service",
-   "name": "Individuelle Software und Automatisierung",
-   "serviceType": "Individuelle Softwareentwicklung und Prozessautomatisierung",
-   "description": "Automatisierung zwischen Warenwirtschaft, Website und E-Mail, Integration künstlicher Intelligenz, Schnittstellen und Datenabgleich, automatischer Im- und Export sowie individuelle interne Werkzeuge.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Place",
-     "name": "Europa"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#service",
+      "name": "Individuelle Software und Automatisierung",
+      "serviceType": "Individuelle Softwareentwicklung und Prozessautomatisierung",
+      "description": "Automatisierung zwischen Warenwirtschaft, Website und E-Mail, Integration künstlicher Intelligenz, Schnittstellen und Datenabgleich, automatischer Im- und Export sowie individuelle interne Werkzeuge.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "Worldwide"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Individuelle Software und Automatisierung",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Automatisierung zwischen Warenwirtschaft, Website und E-Mail"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "KI-Integrationen: Chatbots, Suche, Dokumentenanalyse"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Schnittstellen, Abgleich und Datenim-/-export"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Desktop-Software und interne Werkzeuge"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Place",
-     "name": "Worldwide"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#webpage",
+      "url": "https://danova-tech.com/de/leistungen/software-automatisierung/",
+      "name": "Individuelle Software, Automatisierung und KI | Danova Tech",
+      "description": "Automatisierung zwischen Warenwirtschaft, Website und E-Mail, KI-Integrationen, Schnittstellen und Datenabgleich. Wir nehmen den Menschen die Routinearbeit ab.",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#breadcrumb"
+      },
+      "inLanguage": "de",
+      "dateModified": "2026-08-29"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Leistungen",
+          "item": "https://danova-tech.com/de/#servizi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Individuelle Software und Automatisierung"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#faq",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#webpage"
+      },
+      "inLanguage": "de",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Womit fängt man am besten an?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Mit der Aufgabe, die Sie am häufigsten wiederholen und die Sie am meisten langweilt. Fast immer ist es auch die mit den meisten Fehlern, der Nutzen ist also doppelt. Wenn Sie nicht wissen, welche das ist, finden wir sie gemeinsam an einer typischen Woche."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Müssen wir unsere Programme wechseln?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Meist nein. Der Sinn von Integrationen ist gerade, die vorhandenen Werkzeuge miteinander sprechen zu lassen, nicht sie zu ersetzen. Ersetzen lohnt nur, wenn das Vorhandene selbst das Problem ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bringt künstliche Intelligenz wirklich etwas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für bestimmte Aufgaben ja: Dokumente lesen und einordnen, wiederkehrende Fragen beantworten, Daten aus Fließtext ziehen. Weniger geeignet, wo eine exakte, überprüfbare Antwort nötig ist, weil sie überzeugend falsch liegen kann. Wir schlagen sie vor, wo die Fehlerquote vertretbar ist, und sagen es, wenn sie es nicht ist."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Was passiert, wenn eine Automatisierung ausfällt?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Automatische Meldungen weisen uns auf das Problem hin. Und genau deshalb läuft die Automatisierung in der Übergabephase parallel zur Handarbeit: solange wir ihr nicht trauen, wird nichts abgeschaltet."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Individuelle Software und Automatisierung",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Automatisierung zwischen Warenwirtschaft, Website und E-Mail"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "KI-Integrationen: Chatbots, Suche, Dokumentenanalyse"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Schnittstellen, Abgleich und Datenim-/-export"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Desktop-Software und interne Werkzeuge"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#webpage",
-   "url": "https://danova-tech.com/de/leistungen/software-automatisierung/",
-   "name": "Individuelle Software, Automatisierung und KI | Danova Tech",
-   "description": "Automatisierung zwischen Warenwirtschaft, Website und E-Mail, KI-Integrationen, Schnittstellen und Datenabgleich. Wir nehmen den Menschen die Routinearbeit ab.",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#service"
-   },
-   "breadcrumb": {
-    "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#breadcrumb"
-   },
-   "inLanguage": "de",
-   "dateModified": "2026-08-29"
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/de/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Leistungen",
-     "item": "https://danova-tech.com/de/#servizi"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Individuelle Software und Automatisierung"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#faq",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/de/leistungen/software-automatisierung/#webpage"
-   },
-   "inLanguage": "de",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Womit fängt man am besten an?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Mit der Aufgabe, die Sie am häufigsten wiederholen und die Sie am meisten langweilt. Fast immer ist es auch die mit den meisten Fehlern, der Nutzen ist also doppelt. Wenn Sie nicht wissen, welche das ist, finden wir sie gemeinsam an einer typischen Woche."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Müssen wir unsere Programme wechseln?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Meist nein. Der Sinn von Integrationen ist gerade, die vorhandenen Werkzeuge miteinander sprechen zu lassen, nicht sie zu ersetzen. Ersetzen lohnt nur, wenn das Vorhandene selbst das Problem ist."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Bringt künstliche Intelligenz wirklich etwas?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Für bestimmte Aufgaben ja: Dokumente lesen und einordnen, wiederkehrende Fragen beantworten, Daten aus Fließtext ziehen. Weniger geeignet, wo eine exakte, überprüfbare Antwort nötig ist, weil sie überzeugend falsch liegen kann. Wir schlagen sie vor, wo die Fehlerquote vertretbar ist, und sagen es, wenn sie es nicht ist."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Was passiert, wenn eine Automatisierung ausfällt?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Automatische Meldungen weisen uns auf das Problem hin. Und genau deshalb läuft die Automatisierung in der Übergabephase parallel zur Handarbeit: solange wir ihr nicht trauen, wird nichts abgeschaltet."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -443,8 +500,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Zurück zur Startseite</a></span>
-    </div>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

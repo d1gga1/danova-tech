@@ -59,155 +59,212 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#service",
-   "name": "Siti web ed e-commerce",
-   "serviceType": "Sviluppo siti web ed e-commerce",
-   "description": "Progettazione e sviluppo di siti vetrina, landing page, one-page ed e-commerce su misura: struttura, testi e design costruiti sull’attività del cliente, con attenzione a velocità, Core Web Vitals e accessibilità.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Place",
-     "name": "Europa"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#service",
+      "name": "Siti web ed e-commerce",
+      "serviceType": "Sviluppo siti web ed e-commerce",
+      "description": "Progettazione e sviluppo di siti vetrina, landing page, one-page ed e-commerce su misura: struttura, testi e design costruiti sull’attività del cliente, con attenzione a velocità, Core Web Vitals e accessibilità.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "Worldwide"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Siti web ed e-commerce",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Siti vetrina, landing page e one-page"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "E-commerce con pagamenti e spedizioni"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Prenotazioni, preventivatori e aree riservate"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ottimizzazione Core Web Vitals e accessibilità"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Place",
-     "name": "Worldwide"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#webpage",
+      "url": "https://danova-tech.com/servizi/siti-web-ecommerce/",
+      "name": "Realizzazione siti web ed e-commerce su misura | Danova Tech",
+      "description": "Siti vetrina, landing page ed e-commerce veloci e costruiti per vendere. Prezzo fisso dopo la prima call, online in 2-8 settimane. Il sito resta tuo.",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#breadcrumb"
+      },
+      "inLanguage": "it",
+      "dateModified": "2026-08-29"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servizi",
+          "item": "https://danova-tech.com/#servizi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Siti web ed e-commerce"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#faq",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#webpage"
+      },
+      "inLanguage": "it",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "In quanto tempo va online un sito?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una landing page o un sito vetrina richiede in genere 2-4 settimane. Un e-commerce 4-8, perché entrano in gioco catalogo, pagamenti e spedizioni. I tempi te li diamo con il preventivo e non cambiano in corsa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Usate WordPress o costruite tutto da zero?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende da cosa serve. Se il progetto vive di aggiornamenti frequenti fatti da te, una piattaforma con pannello di gestione ha senso. Se conta la velocità e il sito cambia raramente, costruirlo su misura dà pagine molto più leggere. Scegliamo dopo aver capito come lavorerai, non prima."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il sito è mio o resta vostro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È tuo. Dominio, hosting, codice e account sono intestati a te. Non teniamo nulla in ostaggio e puoi portare il progetto altrove quando vuoi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I testi li scrivete voi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, e li scriviamo pensando anche a come le persone cercano su Google. Se hai già dei contenuti li usiamo come base e li sistemiamo insieme: nessuno conosce la tua attività meglio di te."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Siti web ed e-commerce",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Siti vetrina, landing page e one-page"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "E-commerce con pagamenti e spedizioni"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Prenotazioni, preventivatori e aree riservate"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Ottimizzazione Core Web Vitals e accessibilità"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#webpage",
-   "url": "https://danova-tech.com/servizi/siti-web-ecommerce/",
-   "name": "Realizzazione siti web ed e-commerce su misura | Danova Tech",
-   "description": "Siti vetrina, landing page ed e-commerce veloci e costruiti per vendere. Prezzo fisso dopo la prima call, online in 2-8 settimane. Il sito resta tuo.",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#service"
-   },
-   "breadcrumb": {
-    "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#breadcrumb"
-   },
-   "inLanguage": "it",
-   "dateModified": "2026-08-29"
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Servizi",
-     "item": "https://danova-tech.com/#servizi"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Siti web ed e-commerce"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#faq",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/servizi/siti-web-ecommerce/#webpage"
-   },
-   "inLanguage": "it",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "In quanto tempo va online un sito?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Una landing page o un sito vetrina richiede in genere 2-4 settimane. Un e-commerce 4-8, perché entrano in gioco catalogo, pagamenti e spedizioni. I tempi te li diamo con il preventivo e non cambiano in corsa."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Usate WordPress o costruite tutto da zero?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende da cosa serve. Se il progetto vive di aggiornamenti frequenti fatti da te, una piattaforma con pannello di gestione ha senso. Se conta la velocità e il sito cambia raramente, costruirlo su misura dà pagine molto più leggere. Scegliamo dopo aver capito come lavorerai, non prima."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Il sito è mio o resta vostro?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "È tuo. Dominio, hosting, codice e account sono intestati a te. Non teniamo nulla in ostaggio e puoi portare il progetto altrove quando vuoi."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "I testi li scrivete voi?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, e li scriviamo pensando anche a come le persone cercano su Google. Se hai già dei contenuti li usiamo come base e li sistemiamo insieme: nessuno conosce la tua attività meglio di te."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -406,6 +463,14 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     
       <a href="../../restyling-sito-web/">Restyling sito web</a>
       <a href="../../aprire-un-negozio-online/">Aprire un negozio online</a>
+    
+      <a href="../../realizzazione-siti-web-verona/">Siti web a Verona</a>
+      <a href="../../realizzazione-siti-web-padova/">Siti web a Padova</a>
+      <a href="../../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a>
+      <a href="../../realizzazione-siti-web-udine/">Siti web a Udine</a>
+    
+      <a href="/guide/come-scegliere-agenzia-web/">Come scegliere un’agenzia web</a>
+      <a href="/guide/">Tutte le guide</a>
     </div>
   </div>
 </section>
@@ -443,6 +508,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../../gestionali-su-misura-treviso/">Treviso</a></li>
         <li><a href="../../gestionali-su-misura-pordenone/">Pordenone</a></li>
         <li><a href="../../gestionali-su-misura-venezia-mestre/">Venezia e Mestre</a></li>
+        
+        <li><a href="../../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
         <li class="f-italia"><b>Resto d’Italia</b>Ovunque ti trovi, ti seguiamo da remoto con la stessa assistenza.</li>
       </ul></div>
       <div><h5>Contatti</h5><ul>
@@ -453,8 +523,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

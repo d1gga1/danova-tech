@@ -53,186 +53,243 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/agence-web-geneve/#service",
-   "name": "Agence web Genève",
-   "serviceType": "Création de sites internet, e-commerce et référencement",
-   "description": "Agence web pour Genève et la Suisse romande : sites, e-commerce, SEO et Google Ads. Rédigé en français, forfait en euros, facturation hors TVA.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Genève"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Lausanne"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/agence-web-geneve/#service",
+      "name": "Agence web Genève",
+      "serviceType": "Création de sites internet, e-commerce et référencement",
+      "description": "Agence web pour Genève et la Suisse romande : sites, e-commerce, SEO et Google Ads. Rédigé en français, forfait en euros, facturation hors TVA.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Genève"
+        },
+        {
+          "@type": "City",
+          "name": "Lausanne"
+        },
+        {
+          "@type": "City",
+          "name": "Neuchâtel"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Suisse romande"
+        },
+        {
+          "@type": "Country",
+          "name": "Suisse"
+        }
+      ],
+      "availableLanguage": [
+        "French",
+        "German",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Agence web Genève",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site vitrine d'entreprise"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site e-commerce"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Refonte de site"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Référencement naturel"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Neuchâtel"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/agence-web-geneve/#webpage",
+      "url": "https://danova-tech.com/fr/agence-web-geneve/",
+      "name": "Agence web à Genève — sites, e-commerce et SEO | Danova Tech",
+      "description": "Agence web pour Genève et la Suisse romande : sites, e-commerce, SEO et Google Ads. Rédigé en français, forfait en euros, facturation hors TVA.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/agence-web-geneve/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Suisse romande"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/agence-web-geneve/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sites web & E-commerce",
+          "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Agence web Genève",
+          "item": "https://danova-tech.com/fr/agence-web-geneve/"
+        }
+      ]
     },
     {
-     "@type": "Country",
-     "name": "Suisse"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/agence-web-geneve/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Êtes-vous établis en Suisse ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients romands en visioconférence et venons à Genève ou à Lausanne pour les rendez-vous importants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment se passe la facturation depuis l'Union européenne ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nous émettons une facture en euros, sans TVA. De votre côté, il s'agit d'une acquisition de prestations de services de l'étranger, déclarée au titre de l'impôt sur les acquisitions. C'est une opération habituelle pour une fiduciaire."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site est-il rédigé en français ou traduit ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Rédigé en français. Un texte traduit se repère immédiatement, et Google le repère aussi. Le vocabulaire d'un métier ne se transpose pas à la machine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pouvez-vous livrer aussi la version allemande ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. L'allemand est notre langue de travail depuis des années et l'italien notre langue maternelle. Pour une entreprise romande qui vend au-delà de la Sarine, c'est souvent le point où la collaboration devient rentable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Hébergez-vous en Suisse ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si vous en avez besoin, oui. Pour la plupart des sites, l'emplacement du serveur n'a plus d'incidence technique ; pour certaines données ou exigences sectorielles, si — nous mettons alors en place l'hébergement chez un prestataire suisse, à votre nom."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faites-vous aussi le référencement à Genève et en Suisse romande ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Comme agence SEO Genève nous travaillons la structure, les contenus et surtout le ciblage géographique, sans lequel un site romand se retrouve à concurrencer des sites français. La création site internet Genève et le référencement sont suivis ensemble, et nous intervenons de la même manière à Lausanne, Neuchâtel et dans le reste de la Suisse romande."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "French",
-    "German",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Agence web Genève",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site vitrine d'entreprise"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site e-commerce"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Refonte de site"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Référencement naturel"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/agence-web-geneve/#webpage",
-   "url": "https://danova-tech.com/fr/agence-web-geneve/",
-   "name": "Agence web à Genève — sites, e-commerce et SEO | Danova Tech",
-   "description": "Agence web pour Genève et la Suisse romande : sites, e-commerce, SEO et Google Ads. Rédigé en français, forfait en euros, facturation hors TVA.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/agence-web-geneve/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/agence-web-geneve/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Sites web & E-commerce",
-     "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Agence web Genève",
-     "item": "https://danova-tech.com/fr/agence-web-geneve/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/agence-web-geneve/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Êtes-vous établis en Suisse ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Non, notre siège est à Mansuè, dans le nord de l'Italie. Nous travaillons en français, suivons nos clients romands en visioconférence et venons à Genève ou à Lausanne pour les rendez-vous importants."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Comment se passe la facturation depuis l'Union européenne ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nous émettons une facture en euros, sans TVA. De votre côté, il s'agit d'une acquisition de prestations de services de l'étranger, déclarée au titre de l'impôt sur les acquisitions. C'est une opération habituelle pour une fiduciaire."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site est-il rédigé en français ou traduit ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Rédigé en français. Un texte traduit se repère immédiatement, et Google le repère aussi. Le vocabulaire d'un métier ne se transpose pas à la machine."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Pouvez-vous livrer aussi la version allemande ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. L'allemand est notre langue de travail depuis des années et l'italien notre langue maternelle. Pour une entreprise romande qui vend au-delà de la Sarine, c'est souvent le point où la collaboration devient rentable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Hébergez-vous en Suisse ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Si vous en avez besoin, oui. Pour la plupart des sites, l'emplacement du serveur n'a plus d'incidence technique ; pour certaines données ou exigences sectorielles, si — nous mettons alors en place l'hébergement chez un prestataire suisse, à votre nom."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Faites-vous aussi le référencement à Genève et en Suisse romande ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. Comme agence SEO Genève nous travaillons la structure, les contenus et surtout le ciblage géographique, sans lequel un site romand se retrouve à concurrencer des sites français. La création site internet Genève et le référencement sont suivis ensemble, et nous intervenons de la même manière à Lausanne, Neuchâtel et dans le reste de la Suisse romande."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -402,6 +459,10 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../services/google-ads/">Google Ads</a>
       <a href="../logiciel-sur-mesure-france/">Logiciel sur mesure</a>
       <a href="../services/">Tous les services</a>
+    
+      <a href="../agence-web-lyon/">Agence web Lyon</a>
+      <a href="../agence-web-bruxelles/">Agence web Bruxelles</a>
+      <a href="../prix-creation-site-internet/">Prix création site internet</a>
     </div>
   </div>
 </section>
@@ -441,8 +502,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

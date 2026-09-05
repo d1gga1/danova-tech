@@ -53,149 +53,206 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#service",
-   "name": "Software gestionale per trasporti e logistica",
-   "serviceType": "Sviluppo di software gestionale su misura per aziende di trasporto e logistica",
-   "description": "Software gestionale su misura per trasporti e logistica: viaggi, mezzi, documenti di trasporto, tariffari per cliente e costo reale per viaggio.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#service",
+      "name": "Software gestionale per trasporti e logistica",
+      "serviceType": "Sviluppo di software gestionale su misura per aziende di trasporto e logistica",
+      "description": "Software gestionale su misura per trasporti e logistica: viaggi, mezzi, documenti di trasporto, tariffari per cliente e costo reale per viaggio.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software gestionale per trasporti e logistica",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Viaggi, mezzi e autisti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Documenti di trasporto e prove di consegna"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tariffari e fatturazione"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Costo reale per viaggio"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#webpage",
+      "url": "https://danova-tech.com/software-gestionale-trasporti-logistica/",
+      "name": "Software gestionale per trasporti e logistica | Danova Tech",
+      "description": "Software gestionale su misura per trasporti e logistica: viaggi, mezzi, documenti di trasporto, tariffari per cliente e costo reale per viaggio.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#service"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software gestionale per trasporti e logistica",
+          "item": "https://danova-tech.com/software-gestionale-trasporti-logistica/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Abbiamo già un gestionale per la contabilità. Va buttato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Quasi mai. Nella maggior parte dei casi la parte amministrativa funziona ed è l'operativo a non essere coperto: viaggi, documenti, tariffari. Si costruisce la parte che manca e la si collega a quello che c'è, invece di rifare tutto da capo e riportare dentro anni di storico contabile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gli autisti devono per forza usare un'app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, e forzarlo è il modo più veloce per far fallire il progetto. Si può partire lasciando la carta com'è e togliendo solo il doppio inserimento in ufficio. Dove invece l'app ha senso — foto della merce, firma del destinatario, orario reale di scarico — si tiene volutamente povera: tre schermate, caratteri grandi, funziona anche senza campo e sincronizza dopo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si collega ai portali dei committenti, al telepass, al GPS dei mezzi?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende da cosa mette a disposizione il fornitore, ed è giusto dirlo prima di firmare. Molti sistemi di localizzazione e molti portali espongono un export o un canale di collegamento, e in quel caso i dati entrano da soli. Altri no: lì si continua a caricare un file a mano, e almeno lo sapete dal primo giorno invece che al terzo incontro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo prima che sia usabile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il primo modulo, quello che risolve il problema più grosso, di solito è in mano alle persone in poche settimane. Non si aspetta la fine del progetto per iniziare a usarlo: si parte da un'area, la si vede funzionare, poi si aggiunge la successiva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il software resta nostro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, ed è la differenza principale rispetto a un pacchetto in abbonamento. Il codice e i dati sono vostri: non c'è una licenza da rinnovare per continuare a lavorare, non c'è un costo che cresce ogni volta che aggiungete un mezzo o una postazione, e se un domani volete farlo portare avanti a qualcun altro potete. Vi consegniamo il codice e la documentazione, non una chiave che possiamo spegnere."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Software gestionale per trasporti e logistica",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Viaggi, mezzi e autisti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Documenti di trasporto e prove di consegna"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tariffari e fatturazione"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Costo reale per viaggio"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#webpage",
-   "url": "https://danova-tech.com/software-gestionale-trasporti-logistica/",
-   "name": "Software gestionale per trasporti e logistica | Danova Tech",
-   "description": "Software gestionale su misura per trasporti e logistica: viaggi, mezzi, documenti di trasporto, tariffari per cliente e costo reale per viaggio.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#service"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software gestionale per trasporti e logistica",
-     "item": "https://danova-tech.com/software-gestionale-trasporti-logistica/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/software-gestionale-trasporti-logistica/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Abbiamo già un gestionale per la contabilità. Va buttato?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Quasi mai. Nella maggior parte dei casi la parte amministrativa funziona ed è l'operativo a non essere coperto: viaggi, documenti, tariffari. Si costruisce la parte che manca e la si collega a quello che c'è, invece di rifare tutto da capo e riportare dentro anni di storico contabile."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Gli autisti devono per forza usare un'app?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No, e forzarlo è il modo più veloce per far fallire il progetto. Si può partire lasciando la carta com'è e togliendo solo il doppio inserimento in ufficio. Dove invece l'app ha senso — foto della merce, firma del destinatario, orario reale di scarico — si tiene volutamente povera: tre schermate, caratteri grandi, funziona anche senza campo e sincronizza dopo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Si collega ai portali dei committenti, al telepass, al GPS dei mezzi?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende da cosa mette a disposizione il fornitore, ed è giusto dirlo prima di firmare. Molti sistemi di localizzazione e molti portali espongono un export o un canale di collegamento, e in quel caso i dati entrano da soli. Altri no: lì si continua a caricare un file a mano, e almeno lo sapete dal primo giorno invece che al terzo incontro."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto tempo prima che sia usabile?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Il primo modulo, quello che risolve il problema più grosso, di solito è in mano alle persone in poche settimane. Non si aspetta la fine del progetto per iniziare a usarlo: si parte da un'area, la si vede funzionare, poi si aggiunge la successiva."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Il software resta nostro?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, ed è la differenza principale rispetto a un pacchetto in abbonamento. Il codice e i dati sono vostri: non c'è una licenza da rinnovare per continuare a lavorare, non c'è un costo che cresce ogni volta che aggiungete un mezzo o una postazione, e se un domani volete farlo portare avanti a qualcun altro potete. Vi consegniamo il codice e la documentazione, non una chiave che possiamo spegnere."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -292,6 +349,8 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     <div class="pg-testo" data-rv="up">
       <p>Nella maggior parte delle aziende il dato nasce a una scrivania. Nel trasporto no: nasce dove c'è la merce. L'ora vera di scarico la sa l'autista, il pezzo mancante lo vede il magazziniere, il fermo di due ore lo subisce chi aspetta al cancello. Tutto questo arriva in ufficio più tardi, per telefono o su un foglio, e qualcuno lo ribatte. Il doppio inserimento non è una cattiva abitudine: è il modo in cui il software costringe a lavorare quando non è stato pensato per un'azienda che si muove.</p>
       <p>Poi c'è la fatturazione, che in questo settore è il vero punto di rottura. Due aziende di trasporto della stessa dimensione fatturano in modi diversi: una a peso con minimi per spedizione, l'altra a bancale con supplementi per zona disagiata e adeguamento carburante mensile. Un pacchetto copre due o tre di questi modi. Per tutti gli altri si esce in un foglio di calcolo, e da quel momento il numero vero sta lì, non nel gestionale.</p>
+    
+      <p>Un <b>software gestionale trasporti</b> deve tenere insieme tre cose che di solito vivono su fogli separati: i viaggi, i documenti e il costo reale per viaggio. Finché restano separati il margine per cliente è una stima, e le stime sui trasporti sbagliano quasi sempre per difetto.</p>
     </div>
     <ul class="pg-lista" data-rv="up">
       <li><b>Il dato si registra dove succede.</b> Un'interfaccia povera e veloce sul telefono o su un terminale in magazzino vale più di dieci report: elimina il passaggio in cui l'informazione si perde o invecchia.</li>
@@ -413,8 +472,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

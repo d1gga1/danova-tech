@@ -53,169 +53,226 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/sviluppo-web-app/#service",
-   "name": "Sviluppo web app su misura",
-   "serviceType": "Sviluppo di applicazioni web aziendali",
-   "description": "Sviluppo web app aziendali: portali clienti, gestionali su browser, configuratori e cruscotti. A tappe con prezzo fisso, codice sorgente intestato a te.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Veneto"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/sviluppo-web-app/#service",
+      "name": "Sviluppo web app su misura",
+      "serviceType": "Sviluppo di applicazioni web aziendali",
+      "description": "Sviluppo web app aziendali: portali clienti, gestionali su browser, configuratori e cruscotti. A tappe con prezzo fisso, codice sorgente intestato a te.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Sviluppo web app su misura",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Portale clienti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestionale su browser"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Configuratore di prodotto"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Cruscotti e report"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Integrazioni"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Friuli-Venezia Giulia"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/sviluppo-web-app/#webpage",
+      "url": "https://danova-tech.com/sviluppo-web-app/",
+      "name": "Sviluppo web app su misura per aziende | Danova Tech",
+      "description": "Sviluppo web app aziendali: portali clienti, gestionali su browser, configuratori e cruscotti. A tappe con prezzo fisso, codice sorgente intestato a te.",
+      "inLanguage": "it",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/sviluppo-web-app/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/sviluppo-web-app/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Software & Automazioni",
+          "item": "https://danova-tech.com/servizi/software-automazioni/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sviluppo web app",
+          "item": "https://danova-tech.com/sviluppo-web-app/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/sviluppo-web-app/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa una web app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La prima tappa in produzione si colloca di solito tra la fascia medio-alta delle quattro cifre e l'inizio delle cinque. La cifra dipende da quanti processi coinvolge e da quanti sistemi va collegata: la diciamo dopo l'analisi, e poi è un prezzo fisso per tappa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Può funzionare anche senza connessione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In parte sì, con le tecnologie attuali una web app può continuare a funzionare offline e sincronizzare dopo. Se però il lavoro si svolge sistematicamente senza campo — cantieri, vani tecnici, magazzini schermati — un'app nativa resta più affidabile e te lo diciamo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si collega al nostro gestionale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nella maggior parte dei casi sì. Se il gestionale espone delle interfacce le usiamo; altrimenti si lavora via database o scambio di file. Lo verifichiamo durante l'analisi, prima che venga promesso qualcosa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dove stanno i dati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Su un server europeo intestato a te, oppure sulla tua infrastruttura se preferisci. In entrambi i casi gli accessi sono tuoi: non esiste una configurazione in cui i tuoi dati sono raggiungibili solo tramite noi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cosa succede se ci fermiamo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Tieni tutto: codice sorgente, documentazione, accessi e dati. L'applicazione continua a funzionare e un altro team può proseguirla. È esattamente il motivo per cui la documentazione fa parte della consegna."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Sviluppo web app su misura",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Portale clienti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Gestionale su browser"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Configuratore di prodotto"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Cruscotti e report"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Integrazioni"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/sviluppo-web-app/#webpage",
-   "url": "https://danova-tech.com/sviluppo-web-app/",
-   "name": "Sviluppo web app su misura per aziende | Danova Tech",
-   "description": "Sviluppo web app aziendali: portali clienti, gestionali su browser, configuratori e cruscotti. A tappe con prezzo fisso, codice sorgente intestato a te.",
-   "inLanguage": "it",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/sviluppo-web-app/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/sviluppo-web-app/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Software & Automazioni",
-     "item": "https://danova-tech.com/servizi/software-automazioni/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Sviluppo web app",
-     "item": "https://danova-tech.com/sviluppo-web-app/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/sviluppo-web-app/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Quanto costa una web app?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "La prima tappa in produzione si colloca di solito tra la fascia medio-alta delle quattro cifre e l'inizio delle cinque. La cifra dipende da quanti processi coinvolge e da quanti sistemi va collegata: la diciamo dopo l'analisi, e poi è un prezzo fisso per tappa."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Può funzionare anche senza connessione?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "In parte sì, con le tecnologie attuali una web app può continuare a funzionare offline e sincronizzare dopo. Se però il lavoro si svolge sistematicamente senza campo — cantieri, vani tecnici, magazzini schermati — un'app nativa resta più affidabile e te lo diciamo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Si collega al nostro gestionale?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nella maggior parte dei casi sì. Se il gestionale espone delle interfacce le usiamo; altrimenti si lavora via database o scambio di file. Lo verifichiamo durante l'analisi, prima che venga promesso qualcosa."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Dove stanno i dati?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Su un server europeo intestato a te, oppure sulla tua infrastruttura se preferisci. In entrambi i casi gli accessi sono tuoi: non esiste una configurazione in cui i tuoi dati sono raggiungibili solo tramite noi."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Cosa succede se ci fermiamo?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Tieni tutto: codice sorgente, documentazione, accessi e dati. L'applicazione continua a funzionare e un altro team può proseguirla. È esattamente il motivo per cui la documentazione fa parte della consegna."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -412,6 +469,12 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
         <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
         <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
       </ul></div>
       <div><h5>Gestionali</h5><ul>
         <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
@@ -439,8 +502,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

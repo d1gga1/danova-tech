@@ -53,193 +53,250 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/creation-site-internet-france/#service",
-   "name": "Création de sites internet pour la France",
-   "serviceType": "Création de sites internet et de boutiques en ligne",
-   "description": "Création de sites internet, boutiques en ligne et landing pages pour les entreprises françaises. Textes écrits en français, conformité RGPD, prix ferme, en ligne en 2 à 8 semaines.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "France"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Paris"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/creation-site-internet-france/#service",
+      "name": "Création de sites internet pour la France",
+      "serviceType": "Création de sites internet et de boutiques en ligne",
+      "description": "Création de sites internet, boutiques en ligne et landing pages pour les entreprises françaises. Textes écrits en français, conformité RGPD, prix ferme, en ligne en 2 à 8 semaines.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "France"
+        },
+        {
+          "@type": "City",
+          "name": "Paris"
+        },
+        {
+          "@type": "City",
+          "name": "Lyon"
+        },
+        {
+          "@type": "City",
+          "name": "Marseille"
+        },
+        {
+          "@type": "City",
+          "name": "Toulouse"
+        },
+        {
+          "@type": "City",
+          "name": "Bordeaux"
+        },
+        {
+          "@type": "City",
+          "name": "Lille"
+        },
+        {
+          "@type": "City",
+          "name": "Strasbourg"
+        },
+        {
+          "@type": "City",
+          "name": "Nantes"
+        },
+        {
+          "@type": "City",
+          "name": "Grenoble"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Création de sites internet pour la France",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site d'entreprise"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Boutique en ligne"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing page pour campagnes"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Refonte de site"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Lyon"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/creation-site-internet-france/#webpage",
+      "url": "https://danova-tech.com/fr/creation-site-internet-france/",
+      "name": "Création de site internet en France | Danova Tech",
+      "description": "Création de sites internet, boutiques en ligne et landing pages pour les entreprises françaises. Textes écrits en français, conformité RGPD, prix ferme, en ligne en 2 à 8 semaines.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/creation-site-internet-france/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Marseille"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/creation-site-internet-france/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sites web & E-commerce",
+          "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Création de site internet en France",
+          "item": "https://danova-tech.com/fr/creation-site-internet-france/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Toulouse"
-    },
-    {
-     "@type": "City",
-     "name": "Bordeaux"
-    },
-    {
-     "@type": "City",
-     "name": "Lille"
-    },
-    {
-     "@type": "City",
-     "name": "Strasbourg"
-    },
-    {
-     "@type": "City",
-     "name": "Nantes"
-    },
-    {
-     "@type": "City",
-     "name": "Grenoble"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/creation-site-internet-france/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Pourquoi faire appel à une agence italienne ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pour le rapport entre prix, proximité et cadre juridique. Une agence française de qualité équivalente coûte davantage ; un prestataire hors Europe coûte moins mais se trouve dans un autre fuseau horaire et un autre cadre légal. Nous sommes dans l'Union européenne, nous travaillons en français et nous facturons en autoliquidation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Comment se passe la facturation ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "En prestation intracommunautaire : facture sans TVA italienne, autoliquidation sur votre numéro de TVA intracommunautaire. Pour votre comptable, c'est une opération courante."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Les textes sont-ils traduits ou écrits en français ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Écrits. Un texte traduit se reconnaît au rythme, et Google le reconnaît aussi. Sur un site d'entreprise, c'est la différence entre crédible et interchangeable."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Et le RGPD ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nous sommes soumis au même règlement que vous, puisque nous sommes dans l'Union. Hébergement en Europe, pas de cookies de profilage sans consentement, mentions légales complètes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps avant la mise en ligne ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De deux à huit semaines. Ce qui allonge les délais, ce sont presque toujours les textes et les photos, pas le développement."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Dans quelles villes intervenez-vous ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Partout, à distance. Nous avons des pages dédiées pour l'agence web Paris et l'agence web Lyon, et nous travaillons de la même façon avec des entreprises à Marseille, Nantes, Bordeaux, Toulouse, Lille, Nice, Rennes, Montpellier, Strasbourg et Grenoble. Une agence web Marseille ou une agence web Nantes locale coûte souvent davantage pour un travail identique, simplement à cause de sa structure de coûts."
+          }
+        }
+      ]
     }
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Création de sites internet pour la France",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site d'entreprise"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Boutique en ligne"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing page pour campagnes"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Refonte de site"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/creation-site-internet-france/#webpage",
-   "url": "https://danova-tech.com/fr/creation-site-internet-france/",
-   "name": "Création de site internet en France | Danova Tech",
-   "description": "Création de sites internet, boutiques en ligne et landing pages pour les entreprises françaises. Textes écrits en français, conformité RGPD, prix ferme, en ligne en 2 à 8 semaines.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/creation-site-internet-france/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/creation-site-internet-france/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Accueil",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Sites web & E-commerce",
-     "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Création de site internet en France",
-     "item": "https://danova-tech.com/fr/creation-site-internet-france/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/creation-site-internet-france/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Pourquoi faire appel à une agence italienne ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Pour le rapport entre prix, proximité et cadre juridique. Une agence française de qualité équivalente coûte davantage ; un prestataire hors Europe coûte moins mais se trouve dans un autre fuseau horaire et un autre cadre légal. Nous sommes dans l'Union européenne, nous travaillons en français et nous facturons en autoliquidation."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Comment se passe la facturation ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "En prestation intracommunautaire : facture sans TVA italienne, autoliquidation sur votre numéro de TVA intracommunautaire. Pour votre comptable, c'est une opération courante."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Les textes sont-ils traduits ou écrits en français ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Écrits. Un texte traduit se reconnaît au rythme, et Google le reconnaît aussi. Sur un site d'entreprise, c'est la différence entre crédible et interchangeable."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Et le RGPD ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nous sommes soumis au même règlement que vous, puisque nous sommes dans l'Union. Hébergement en Europe, pas de cookies de profilage sans consentement, mentions légales complètes."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Combien de temps avant la mise en ligne ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De deux à huit semaines. Ce qui allonge les délais, ce sont presque toujours les textes et les photos, pas le développement."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Dans quelles villes intervenez-vous ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Partout, à distance. Nous avons des pages dédiées pour l'agence web Paris et l'agence web Lyon, et nous travaillons de la même façon avec des entreprises à Marseille, Nantes, Bordeaux, Toulouse, Lille, Nice, Rennes, Montpellier, Strasbourg et Grenoble. Une agence web Marseille ou une agence web Nantes locale coûte souvent davantage pour un travail identique, simplement à cause de sa structure de coûts."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -411,6 +468,9 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../agence-web-paris/">Agence web Paris</a>
       <a href="../agence-web-lyon/">Agence web Lyon</a>
       <a href="../agence-seo-france/">Agence SEO France</a>
+    
+      <a href="../agence-web-geneve/">Agence web Genève</a>
+      <a href="../agence-web-bruxelles/">Agence web Bruxelles</a>
     </div>
   </div>
 </section>
@@ -450,8 +510,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

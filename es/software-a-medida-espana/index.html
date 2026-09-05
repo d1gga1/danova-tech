@@ -53,173 +53,230 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/es/software-a-medida-espana/#service",
-   "name": "Desarrollo de software de gestión a medida para España",
-   "serviceType": "Desarrollo de software de gestión ERP y CRM a medida",
-   "description": "ERP, CRM y software de gestión a medida para pymes españolas: almacén, producción, trabajos y cuadros de mando en un solo sistema. Sin licencia por usuario, código fuente incluido.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "España"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "City",
-     "name": "Madrid"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/es/software-a-medida-espana/#service",
+      "name": "Desarrollo de software de gestión a medida para España",
+      "serviceType": "Desarrollo de software de gestión ERP y CRM a medida",
+      "description": "ERP, CRM y software de gestión a medida para pymes españolas: almacén, producción, trabajos y cuadros de mando en un solo sistema. Sin licencia por usuario, código fuente incluido.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "España"
+        },
+        {
+          "@type": "City",
+          "name": "Madrid"
+        },
+        {
+          "@type": "City",
+          "name": "Barcelona"
+        },
+        {
+          "@type": "City",
+          "name": "Valencia"
+        },
+        {
+          "@type": "City",
+          "name": "Bilbao"
+        },
+        {
+          "@type": "City",
+          "name": "Zaragoza"
+        },
+        {
+          "@type": "City",
+          "name": "Murcia"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Desarrollo de software de gestión a medida para España",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Gestión de almacén"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Producción y trabajos"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Cuadros de mando y márgenes"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Integraciones con contabilidad y e-commerce"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Barcelona"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/es/software-a-medida-espana/#webpage",
+      "url": "https://danova-tech.com/es/software-a-medida-espana/",
+      "name": "Software de gestión a medida en España | Danova Tech",
+      "description": "ERP, CRM y software de gestión a medida para pymes españolas: almacén, producción, trabajos y cuadros de mando en un solo sistema. Sin licencia por usuario, código fuente incluido.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/es/software-a-medida-espana/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Valencia"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/software-a-medida-espana/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "ERP & CRM",
+          "item": "https://danova-tech.com/es/servicios/erp-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software a medida en España",
+          "item": "https://danova-tech.com/es/software-a-medida-espana/"
+        }
+      ]
     },
     {
-     "@type": "City",
-     "name": "Bilbao"
-    },
-    {
-     "@type": "City",
-     "name": "Zaragoza"
-    },
-    {
-     "@type": "City",
-     "name": "Murcia"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/software-a-medida-espana/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Por qué un ERP a medida y no un estándar?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Porque el estándar está pensado para la media de un sector, y ninguna empresa es esa media. Siempre se atascan las mismas cosas: subcontratación, devoluciones, material del cliente, desecho, la variante que solo tú llevas así. Lo que el sistema no contempla acaba en un archivo aparte, y desde ahí los números dejan de ser fiables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Compensa frente a un modelo por licencia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La cuenta honesta se hace a cinco años, no al primero. Licencia por usuario, cada año, más personalizaciones que se pagan aparte. El software a medida cuesta más al principio y después deja de costar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo trabajáis en remoto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La primera toma de requisitos se hace en tu empresa; eso no se sustituye. Después: seguimiento semanal por videollamada, prototipos compartidos y un interlocutor único."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿El código fuente es nuestro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí, y está documentado. Va en el contrato, y lo escribimos."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Se puede conectar con nuestra contabilidad y facturación?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Por lo general sí. La mayoría de sistemas se pueden integrar; el trabajo consiste en construir el puente, no en sustituirlo todo."
+          }
+        }
+      ]
     }
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Desarrollo de software de gestión a medida para España",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Gestión de almacén"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Producción y trabajos"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Cuadros de mando y márgenes"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Integraciones con contabilidad y e-commerce"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/es/software-a-medida-espana/#webpage",
-   "url": "https://danova-tech.com/es/software-a-medida-espana/",
-   "name": "Software de gestión a medida en España | Danova Tech",
-   "description": "ERP, CRM y software de gestión a medida para pymes españolas: almacén, producción, trabajos y cuadros de mando en un solo sistema. Sin licencia por usuario, código fuente incluido.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/es/software-a-medida-espana/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/software-a-medida-espana/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Inicio",
-     "item": "https://danova-tech.com/es/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "ERP & CRM",
-     "item": "https://danova-tech.com/es/servicios/erp-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software a medida en España",
-     "item": "https://danova-tech.com/es/software-a-medida-espana/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/software-a-medida-espana/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿Por qué un ERP a medida y no un estándar?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Porque el estándar está pensado para la media de un sector, y ninguna empresa es esa media. Siempre se atascan las mismas cosas: subcontratación, devoluciones, material del cliente, desecho, la variante que solo tú llevas así. Lo que el sistema no contempla acaba en un archivo aparte, y desde ahí los números dejan de ser fiables."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Compensa frente a un modelo por licencia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "La cuenta honesta se hace a cinco años, no al primero. Licencia por usuario, cada año, más personalizaciones que se pagan aparte. El software a medida cuesta más al principio y después deja de costar."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cómo trabajáis en remoto?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "La primera toma de requisitos se hace en tu empresa; eso no se sustituye. Después: seguimiento semanal por videollamada, prototipos compartidos y un interlocutor único."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿El código fuente es nuestro?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí, y está documentado. Va en el contrato, y lo escribimos."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Se puede conectar con nuestra contabilidad y facturación?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Por lo general sí. La mayoría de sistemas se pueden integrar; el trabajo consiste en construir el puente, no en sustituirlo todo."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -427,8 +484,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

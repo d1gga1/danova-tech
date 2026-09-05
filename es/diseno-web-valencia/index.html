@@ -53,193 +53,250 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/es/diseno-web-valencia/#service",
-   "name": "Diseño web Valencia",
-   "serviceType": "Diseño y desarrollo de webs, tiendas online y SEO",
-   "description": "Agencia de diseño web para empresas de Valencia y la Comunitat: webs, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, sin permanencia.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "City",
-     "name": "Valencia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "AdministrativeArea",
-     "name": "Comunidad Valenciana"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/es/diseno-web-valencia/#service",
+      "name": "Diseño web Valencia",
+      "serviceType": "Diseño y desarrollo de webs, tiendas online y SEO",
+      "description": "Agencia de diseño web para empresas de Valencia y la Comunitat: webs, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, sin permanencia.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Valencia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Comunidad Valenciana"
+        },
+        {
+          "@type": "City",
+          "name": "Castellón"
+        },
+        {
+          "@type": "City",
+          "name": "Alicante"
+        },
+        {
+          "@type": "Country",
+          "name": "España"
+        }
+      ],
+      "availableLanguage": [
+        "Spanish",
+        "Italian",
+        "English"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Diseño web Valencia",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web corporativa"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tienda online"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Landing de campaña"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Rediseño web"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Posicionamiento SEO"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "City",
-     "name": "Castellón"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/es/diseno-web-valencia/#webpage",
+      "url": "https://danova-tech.com/es/diseno-web-valencia/",
+      "name": "Diseño web en Valencia — webs, tiendas online y SEO | Danova Tech",
+      "description": "Agencia de diseño web para empresas de Valencia y la Comunitat: webs, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, sin permanencia.",
+      "inLanguage": "es",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/es/diseno-web-valencia/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "City",
-     "name": "Alicante"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/es/diseno-web-valencia/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/es/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Webs & E-commerce",
+          "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Diseño web Valencia",
+          "item": "https://danova-tech.com/es/diseno-web-valencia/"
+        }
+      ]
     },
     {
-     "@type": "Country",
-     "name": "España"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/es/diseno-web-valencia/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "¿Estáis en Valencia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, nuestra sede está en Mansuè, en el norte de Italia. Trabajamos en español y atendemos por videollamada; viajamos para el arranque y la entrega cuando el proyecto lo justifica."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cómo funciona la facturación con un proveedor italiano?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "De forma intracomunitaria normal: recibes una factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es la misma operación que con cualquier otro proveedor europeo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Entendéis contenidos técnicos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Es nuestro día a día. Buena parte de nuestros clientes fabrica piezas, construye maquinaria o suministra a la industria. Preguntamos lo suficiente para describir bien tus productos y hacemos que tu técnico revise los textos antes de publicar."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La web se escribe en español o se traduce?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se escribe en español. Un texto traducido se nota al instante, y Google también lo nota. El vocabulario de un sector no se traslada a máquina."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Cuántos idiomas conviene tener?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Los que puedas atender de verdad. Una versión en inglés a la que nadie responde hace más daño que bien. Lo habitual es empezar por español e inglés y añadir un idioma más solo cuando se trabaja ese mercado en serio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿La web es realmente mía?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Dominio, alojamiento, código y contenidos van a tu nombre. No hay cuota obligatoria para seguir usando tu propia web, ni un constructor propietario del que después no se pueda salir."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "¿Hacéis también posicionamiento en Valencia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sí. Como agencia SEO Valencia trabajamos sobre búsquedas de intención alta más que sobre volumen, que es lo que sirve a un exportador. El posicionamiento web Valencia lo llevamos junto con el diseño, y también atendemos a empresas de Castellón y Alicante con el mismo enfoque."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Spanish",
-    "Italian",
-    "English"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Diseño web Valencia",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Web corporativa"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tienda online"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Landing de campaña"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Rediseño web"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Posicionamiento SEO"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/es/diseno-web-valencia/#webpage",
-   "url": "https://danova-tech.com/es/diseno-web-valencia/",
-   "name": "Diseño web en Valencia — webs, tiendas online y SEO | Danova Tech",
-   "description": "Agencia de diseño web para empresas de Valencia y la Comunitat: webs, tiendas online, SEO y Google Ads. Escrito en español, presupuesto cerrado, sin permanencia.",
-   "inLanguage": "es",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/es/diseno-web-valencia/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/es/diseno-web-valencia/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/es/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Webs & E-commerce",
-     "item": "https://danova-tech.com/es/servicios/webs-ecommerce/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Diseño web Valencia",
-     "item": "https://danova-tech.com/es/diseno-web-valencia/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/es/diseno-web-valencia/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "¿Estáis en Valencia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "No, nuestra sede está en Mansuè, en el norte de Italia. Trabajamos en español y atendemos por videollamada; viajamos para el arranque y la entrega cuando el proyecto lo justifica."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cómo funciona la facturación con un proveedor italiano?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "De forma intracomunitaria normal: recibes una factura sin IVA italiano, con inversión del sujeto pasivo sobre tu NIF-IVA. Para tu gestoría es la misma operación que con cualquier otro proveedor europeo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Entendéis contenidos técnicos?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Es nuestro día a día. Buena parte de nuestros clientes fabrica piezas, construye maquinaria o suministra a la industria. Preguntamos lo suficiente para describir bien tus productos y hacemos que tu técnico revise los textos antes de publicar."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿La web se escribe en español o se traduce?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Se escribe en español. Un texto traducido se nota al instante, y Google también lo nota. El vocabulario de un sector no se traslada a máquina."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Cuántos idiomas conviene tener?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Los que puedas atender de verdad. Una versión en inglés a la que nadie responde hace más daño que bien. Lo habitual es empezar por español e inglés y añadir un idioma más solo cuando se trabaja ese mercado en serio."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿La web es realmente mía?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. Dominio, alojamiento, código y contenidos van a tu nombre. No hay cuota obligatoria para seguir usando tu propia web, ni un constructor propietario del que después no se pueda salir."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "¿Hacéis también posicionamiento en Valencia?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sí. Como agencia SEO Valencia trabajamos sobre búsquedas de intención alta más que sobre volumen, que es lo que sirve a un exportador. El posicionamiento web Valencia lo llevamos junto con el diseño, y también atendemos a empresas de Castellón y Alicante con el mismo enfoque."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -411,6 +468,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../servicios/seo/">Agencia SEO</a>
       <a href="../servicios/google-ads/">Google Ads</a>
       <a href="../servicios/">Todos los servicios</a>
+    
+      <a href="../diseno-web-madrid/">Diseño web Madrid</a>
+      <a href="../diseno-web-barcelona/">Diseño web Barcelona</a>
+      <a href="../cuanto-cuesta-una-pagina-web/">Cuánto cuesta una página web</a>
+      <a href="../agencia-seo-espana/">Agencia SEO España</a>
     </div>
   </div>
 </section>
@@ -450,8 +512,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Volver al inicio</a></span>
-    </div>
+      <span class="f-legal"><a href="/es/privacidad/">Política de privacidad</a><i>·</i><a href="/es/cookies/">Política de cookies</a><i>·</i><a href="/es/condiciones/">Condiciones de uso</a><i>·</i><a href="/es/contacto/">Contacto</a><i>·</i><a href="/es/">Volver al inicio</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

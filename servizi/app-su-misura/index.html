@@ -59,162 +59,219 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/servizi/app-su-misura/#service",
-   "name": "Sviluppo app su misura",
-   "serviceType": "Sviluppo di applicazioni mobile e web",
-   "description": "Sviluppo di applicazioni iOS e Android, web app e Progressive Web App costruite sul flusso di lavoro del cliente, con autenticazione, notifiche push, pagamenti in-app e integrazione con i sistemi esistenti.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Place",
-     "name": "Europa"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/servizi/app-su-misura/#service",
+      "name": "Sviluppo app su misura",
+      "serviceType": "Sviluppo di applicazioni mobile e web",
+      "description": "Sviluppo di applicazioni iOS e Android, web app e Progressive Web App costruite sul flusso di lavoro del cliente, con autenticazione, notifiche push, pagamenti in-app e integrazione con i sistemi esistenti.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Place",
+          "name": "Worldwide"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Sviluppo app su misura",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "App iOS e Android"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web app e Progressive Web App"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Login, notifiche push e pagamenti in-app"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Integrazione con i sistemi esistenti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Manutenzione e aggiornamenti"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Place",
-     "name": "Worldwide"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/servizi/app-su-misura/#webpage",
+      "url": "https://danova-tech.com/servizi/app-su-misura/",
+      "name": "Sviluppo app iOS, Android e web app su misura | Danova Tech",
+      "description": "App mobile e web costruite intorno al tuo flusso di lavoro: login, notifiche push, pagamenti in-app, integrazione con i sistemi che usi già. Manutenzione inclusa.",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/servizi/app-su-misura/#service"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/servizi/app-su-misura/#breadcrumb"
+      },
+      "inLanguage": "it",
+      "dateModified": "2026-08-29"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/servizi/app-su-misura/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Servizi",
+          "item": "https://danova-tech.com/#servizi"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sviluppo app su misura"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/servizi/app-su-misura/#faq",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/servizi/app-su-misura/#webpage"
+      },
+      "inLanguage": "it",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa sviluppare un’app?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende quasi interamente da quante cose deve fare. Il modo più onesto di scoprirlo è partire dal prototipo: costa una frazione del progetto completo e ti dà un preventivo basato su qualcosa di concreto, non su una descrizione a voce."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Meglio un’app o un sito che funziona su telefono?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Molto spesso la seconda, e te lo diciamo anche se vale meno per noi. L’app ha senso quando servono notifiche push, uso offline o accesso a fotocamera e sensori. Se non serve nessuna di queste, una web app costa meno e non deve passare dagli store."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Pubblicate voi sugli store?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, ci occupiamo noi della pubblicazione su App Store e Google Play, schede comprese. Gli account restano intestati a te."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Cosa succede quando esce un nuovo iOS o Android?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le app vanno aggiornate, altrimenti prima o poi smettono di funzionare o vengono rimosse dagli store. Per questo la manutenzione è parte del discorso fin dall’inizio, non un costo che scopri il secondo anno."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Sviluppo app su misura",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "App iOS e Android"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Web app e Progressive Web App"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Login, notifiche push e pagamenti in-app"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Integrazione con i sistemi esistenti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Manutenzione e aggiornamenti"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/servizi/app-su-misura/#webpage",
-   "url": "https://danova-tech.com/servizi/app-su-misura/",
-   "name": "Sviluppo app iOS, Android e web app su misura | Danova Tech",
-   "description": "App mobile e web costruite intorno al tuo flusso di lavoro: login, notifiche push, pagamenti in-app, integrazione con i sistemi che usi già. Manutenzione inclusa.",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/servizi/app-su-misura/#service"
-   },
-   "breadcrumb": {
-    "@id": "https://danova-tech.com/servizi/app-su-misura/#breadcrumb"
-   },
-   "inLanguage": "it",
-   "dateModified": "2026-08-29"
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/servizi/app-su-misura/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Servizi",
-     "item": "https://danova-tech.com/#servizi"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Sviluppo app su misura"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/servizi/app-su-misura/#faq",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/servizi/app-su-misura/#webpage"
-   },
-   "inLanguage": "it",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Quanto costa sviluppare un’app?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende quasi interamente da quante cose deve fare. Il modo più onesto di scoprirlo è partire dal prototipo: costa una frazione del progetto completo e ti dà un preventivo basato su qualcosa di concreto, non su una descrizione a voce."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Meglio un’app o un sito che funziona su telefono?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Molto spesso la seconda, e te lo diciamo anche se vale meno per noi. L’app ha senso quando servono notifiche push, uso offline o accesso a fotocamera e sensori. Se non serve nessuna di queste, una web app costa meno e non deve passare dagli store."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Pubblicate voi sugli store?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, ci occupiamo noi della pubblicazione su App Store e Google Play, schede comprese. Gli account restano intestati a te."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Cosa succede quando esce un nuovo iOS o Android?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Le app vanno aggiornate, altrimenti prima o poi smettono di funzionare o vengono rimosse dagli store. Per questo la manutenzione è parte del discorso fin dall’inizio, non un costo che scopri il secondo anno."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -446,6 +503,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../../gestionali-su-misura-treviso/">Treviso</a></li>
         <li><a href="../../gestionali-su-misura-pordenone/">Pordenone</a></li>
         <li><a href="../../gestionali-su-misura-venezia-mestre/">Venezia e Mestre</a></li>
+        
+        <li><a href="../../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
         <li class="f-italia"><b>Resto d’Italia</b>Ovunque ti trovi, ti seguiamo da remoto con la stessa assistenza.</li>
       </ul></div>
       <div><h5>Contatti</h5><ul>
@@ -456,8 +518,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

@@ -57,171 +57,228 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#service",
-   "name": "Création de sites web et e-commerce sur mesure",
-   "serviceType": "Création de sites internet et de boutiques en ligne sur mesure",
-   "description": "Création de sites vitrines, sites d'entreprise B2B, boutiques en ligne et landing pages sur mesure. Sites rapides, multilingues et optimisés pour Google et Bing, à prix ferme, en ligne en 2 à 8 semaines.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "France"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
     },
     {
-     "@type": "Country",
-     "name": "Belgique"
+      "@type": "Service",
+      "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#service",
+      "name": "Création de sites web et e-commerce sur mesure",
+      "serviceType": "Création de sites internet et de boutiques en ligne sur mesure",
+      "description": "Création de sites vitrines, sites d'entreprise B2B, boutiques en ligne et landing pages sur mesure. Sites rapides, multilingues et optimisés pour Google et Bing, à prix ferme, en ligne en 2 à 8 semaines.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "France"
+        },
+        {
+          "@type": "Country",
+          "name": "Belgique"
+        },
+        {
+          "@type": "Country",
+          "name": "Suisse"
+        },
+        {
+          "@type": "Country",
+          "name": "Luxembourg"
+        },
+        {
+          "@type": "Place",
+          "name": "Europe"
+        }
+      ],
+      "availableLanguage": [
+        "French",
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Création de sites web et e-commerce sur mesure",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site vitrine"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Site d'entreprise B2B multilingue"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Boutique en ligne sur mesure"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Refonte et optimisation de la vitesse"
+            }
+          }
+        ]
+      }
     },
     {
-     "@type": "Country",
-     "name": "Suisse"
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#webpage",
+      "url": "https://danova-tech.com/fr/services/sites-web-ecommerce/",
+      "name": "Création de site internet et e-commerce sur mesure | Danova Tech",
+      "description": "Création de sites vitrines, sites d'entreprise B2B, boutiques en ligne et landing pages sur mesure. Sites rapides, multilingues et optimisés pour Google et Bing, à prix ferme, en ligne en 2 à 8 semaines.",
+      "inLanguage": "fr",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
     },
     {
-     "@type": "Country",
-     "name": "Luxembourg"
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "https://danova-tech.com/fr/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "https://danova-tech.com/fr/services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Sites web & E-commerce",
+          "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
+        }
+      ]
     },
     {
-     "@type": "Place",
-     "name": "Europe"
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Combien de temps faut-il pour mettre un site en ligne ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Entre deux et huit semaines selon la taille du projet. Ce qui allonge les délais, ce n'est presque jamais le développement : ce sont les textes et les photos. Si le matériel est prêt, un site vitrine est en ligne en deux ou trois semaines."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Utilisez-vous WordPress ou développez-vous tout sur mesure ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Cela dépend de qui devra le mettre à jour. Si vous publiez du contenu chaque semaine, un CMS a du sens. Si le site change deux fois par an, un site développé sur mesure est nettement plus rapide, plus sûr et ne réclame pas une mise à jour d'extensions tous les mois."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site reste-t-il notre propriété ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui. Nom de domaine, hébergement, code et contenus restent à votre nom. Nous ne gardons jamais un site en otage et il n'y a aucun abonnement obligatoire pour continuer à l'utiliser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Travaillez-vous avec des clients hors d'Italie ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, c'est une part importante de notre activité. Nous travaillons en français, en italien, en anglais et en allemand, avec des visioconférences régulières et un interlocuteur unique. La distance ne change ni le prix ni la façon dont nous suivons le projet."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Le site peut-il se connecter à notre logiciel de gestion ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, et c'est l'une des choses que nous faisons le plus souvent. Catalogue, tarifs et stocks peuvent remonter automatiquement de votre ERP vers le site, au lieu d'être recopiés à la main à chaque changement."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "French",
-    "Italian",
-    "English",
-    "German"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Création de sites web et e-commerce sur mesure",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site vitrine"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Site d'entreprise B2B multilingue"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Boutique en ligne sur mesure"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Refonte et optimisation de la vitesse"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#webpage",
-   "url": "https://danova-tech.com/fr/services/sites-web-ecommerce/",
-   "name": "Création de site internet et e-commerce sur mesure | Danova Tech",
-   "description": "Création de sites vitrines, sites d'entreprise B2B, boutiques en ligne et landing pages sur mesure. Sites rapides, multilingues et optimisés pour Google et Bing, à prix ferme, en ligne en 2 à 8 semaines.",
-   "inLanguage": "fr",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#service"
-   },
-   "publisher": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Accueil",
-     "item": "https://danova-tech.com/fr/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Services",
-     "item": "https://danova-tech.com/fr/services/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Sites web & E-commerce",
-     "item": "https://danova-tech.com/fr/services/sites-web-ecommerce/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/fr/services/sites-web-ecommerce/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Combien de temps faut-il pour mettre un site en ligne ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Entre deux et huit semaines selon la taille du projet. Ce qui allonge les délais, ce n'est presque jamais le développement : ce sont les textes et les photos. Si le matériel est prêt, un site vitrine est en ligne en deux ou trois semaines."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Utilisez-vous WordPress ou développez-vous tout sur mesure ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Cela dépend de qui devra le mettre à jour. Si vous publiez du contenu chaque semaine, un CMS a du sens. Si le site change deux fois par an, un site développé sur mesure est nettement plus rapide, plus sûr et ne réclame pas une mise à jour d'extensions tous les mois."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site reste-t-il notre propriété ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui. Nom de domaine, hébergement, code et contenus restent à votre nom. Nous ne gardons jamais un site en otage et il n'y a aucun abonnement obligatoire pour continuer à l'utiliser."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Travaillez-vous avec des clients hors d'Italie ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui, c'est une part importante de notre activité. Nous travaillons en français, en italien, en anglais et en allemand, avec des visioconférences régulières et un interlocuteur unique. La distance ne change ni le prix ni la façon dont nous suivons le projet."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Le site peut-il se connecter à notre logiciel de gestion ?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Oui, et c'est l'une des choses que nous faisons le plus souvent. Catalogue, tarifs et stocks peuvent remonter automatiquement de votre ERP vers le site, au lieu d'être recopiés à la main à chaque changement."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head><body>
@@ -462,8 +519,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../../">Retour à l’accueil</a></span>
-    </div>
+      <span class="f-legal"><a href="/fr/confidentialite/">Politique de confidentialité</a><i>·</i><a href="/fr/cookies/">Politique relative aux cookies</a><i>·</i><a href="/fr/conditions/">Conditions d’utilisation</a><i>·</i><a href="/fr/contact/">Contact</a><i>·</i><a href="/fr/">Retour à l’accueil</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>

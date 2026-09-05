@@ -53,157 +53,214 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 
 <script type="application/ld+json">
 {
- "@context": "https://schema.org",
- "@graph": [
-  {
-   "@type": "Service",
-   "@id": "https://danova-tech.com/software-gestionale-produzione/#service",
-   "name": "Software gestionale per la produzione",
-   "serviceType": "Sviluppo di software gestionale su misura per aziende manifatturiere",
-   "description": "Software gestionale su misura per aziende di produzione: distinta base, avanzamento commessa, tempi, scarti e margini reali in un sistema solo.",
-   "provider": {
-    "@id": "https://danova-tech.com/#organization"
-   },
-   "areaServed": [
+  "@context": "https://schema.org",
+  "@graph": [
     {
-     "@type": "Country",
-     "name": "Italia"
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/software-gestionale-produzione/#service",
+      "name": "Software gestionale per la produzione",
+      "serviceType": "Sviluppo di software gestionale su misura per aziende manifatturiere",
+      "description": "Software gestionale su misura per aziende di produzione: distinta base, avanzamento commessa, tempi, scarti e margini reali in un sistema solo.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software gestionale per la produzione",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Distinte base e varianti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Avanzamento di commessa"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Tempi, scarti e fermi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Margine per commessa"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/software-gestionale-produzione/#webpage",
+      "url": "https://danova-tech.com/software-gestionale-produzione/",
+      "name": "Software gestionale per la produzione su misura | Danova Tech",
+      "description": "Software gestionale su misura per aziende di produzione: distinta base, avanzamento commessa, tempi, scarti e margini reali in un sistema solo.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/software-gestionale-produzione/#service"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/software-gestionale-produzione/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Software gestionale per la produzione",
+          "item": "https://danova-tech.com/software-gestionale-produzione/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/software-gestionale-produzione/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Abbiamo già un gestionale per la contabilità. Va buttato?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Quasi mai. Nella maggior parte dei casi la parte amministrativa funziona ed è la produzione a non essere coperta. Si costruisce il modulo che manca e lo si collega a quello che c'è, invece di rifare tutto da capo e riportare dentro dieci anni di storico contabile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "In reparto non sono pratici col computer.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È la regola, non l'eccezione, ed è il motivo per cui molti progetti si fermano. Le schermate di reparto si disegnano diverse da quelle d'ufficio: pochi campi, caratteri grandi, quattro pulsanti. Dove serve si passa da un lettore di codici a barre o da un badge, così registrare un avanzamento è un gesto solo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si collega ai macchinari?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende dal macchinario, ed è giusto dirlo prima. Se espone un file, un segnale o una porta di comunicazione, si legge da lì. Se è una macchina vecchia e chiusa non c'è modo di farla parlare: in quel caso si registra a mano il minimo indispensabile, e si sceglie con voi quale sia il minimo che serve davvero."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo prima che sia usabile in reparto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il primo modulo, quello che risolve il problema più grosso, di solito è in mano alle persone in poche settimane. Non si aspetta la fine del progetto per iniziare a usarlo: si parte da un'area, la si vede funzionare, poi si aggiunge la successiva."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il software resta nostro?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, ed è la differenza principale rispetto a un pacchetto in abbonamento. Il codice e i dati sono vostri: non c'è una licenza da rinnovare per continuare a lavorare, non c'è un costo che cresce ogni volta che aggiungete una postazione, e se un domani volete farlo portare avanti a qualcun altro potete. Vi consegniamo il codice e la documentazione, non una chiave che possiamo spegnere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che differenza c'è tra un software gestionale produzione e un MES?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nella pratica i confini si sovrappongono. Un software gestionale produzione copre pianificazione, avanzamento, distinte base e consumi; un MES si concentra sulla raccolta dati dalla linea, spesso direttamente dalle macchine. Per la maggior parte delle PMI manifatturiere la parte utile è la prima, e la raccolta automatica dai macchinari si aggiunge dopo, quando serve davvero — non prima, perché è la voce più costosa e quella che richiede più manutenzione."
+          }
+        }
+      ]
     }
-   ],
-   "availableLanguage": [
-    "Italian"
-   ],
-   "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Software gestionale per la produzione",
-    "itemListElement": [
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Distinte base e varianti"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Avanzamento di commessa"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Tempi, scarti e fermi"
-      }
-     },
-     {
-      "@type": "Offer",
-      "itemOffered": {
-       "@type": "Service",
-       "name": "Margine per commessa"
-      }
-     }
-    ]
-   }
-  },
-  {
-   "@type": "WebPage",
-   "@id": "https://danova-tech.com/software-gestionale-produzione/#webpage",
-   "url": "https://danova-tech.com/software-gestionale-produzione/",
-   "name": "Software gestionale per la produzione su misura | Danova Tech",
-   "description": "Software gestionale su misura per aziende di produzione: distinta base, avanzamento commessa, tempi, scarti e margini reali in un sistema solo.",
-   "inLanguage": "it-IT",
-   "isPartOf": {
-    "@id": "https://danova-tech.com/#website"
-   },
-   "about": {
-    "@id": "https://danova-tech.com/software-gestionale-produzione/#service"
-   },
-   "primaryImageOfPage": {
-    "@id": "https://danova-tech.com/#logo"
-   }
-  },
-  {
-   "@type": "BreadcrumbList",
-   "@id": "https://danova-tech.com/software-gestionale-produzione/#breadcrumb",
-   "itemListElement": [
-    {
-     "@type": "ListItem",
-     "position": 1,
-     "name": "Home",
-     "item": "https://danova-tech.com/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 2,
-     "name": "Gestionali & CRM",
-     "item": "https://danova-tech.com/servizi/gestionali-crm/"
-    },
-    {
-     "@type": "ListItem",
-     "position": 3,
-     "name": "Software gestionale per la produzione",
-     "item": "https://danova-tech.com/software-gestionale-produzione/"
-    }
-   ]
-  },
-  {
-   "@type": "FAQPage",
-   "@id": "https://danova-tech.com/software-gestionale-produzione/#faq",
-   "mainEntity": [
-    {
-     "@type": "Question",
-     "name": "Abbiamo già un gestionale per la contabilità. Va buttato?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Quasi mai. Nella maggior parte dei casi la parte amministrativa funziona ed è la produzione a non essere coperta. Si costruisce il modulo che manca e lo si collega a quello che c'è, invece di rifare tutto da capo e riportare dentro dieci anni di storico contabile."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "In reparto non sono pratici col computer.",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "È la regola, non l'eccezione, ed è il motivo per cui molti progetti si fermano. Le schermate di reparto si disegnano diverse da quelle d'ufficio: pochi campi, caratteri grandi, quattro pulsanti. Dove serve si passa da un lettore di codici a barre o da un badge, così registrare un avanzamento è un gesto solo."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Si collega ai macchinari?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Dipende dal macchinario, ed è giusto dirlo prima. Se espone un file, un segnale o una porta di comunicazione, si legge da lì. Se è una macchina vecchia e chiusa non c'è modo di farla parlare: in quel caso si registra a mano il minimo indispensabile, e si sceglie con voi quale sia il minimo che serve davvero."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Quanto tempo prima che sia usabile in reparto?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Il primo modulo, quello che risolve il problema più grosso, di solito è in mano alle persone in poche settimane. Non si aspetta la fine del progetto per iniziare a usarlo: si parte da un'area, la si vede funzionare, poi si aggiunge la successiva."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Il software resta nostro?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Sì, ed è la differenza principale rispetto a un pacchetto in abbonamento. Il codice e i dati sono vostri: non c'è una licenza da rinnovare per continuare a lavorare, non c'è un costo che cresce ogni volta che aggiungete una postazione, e se un domani volete farlo portare avanti a qualcun altro potete. Vi consegniamo il codice e la documentazione, non una chiave che possiamo spegnere."
-     }
-    },
-    {
-     "@type": "Question",
-     "name": "Che differenza c'è tra un software gestionale produzione e un MES?",
-     "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "Nella pratica i confini si sovrappongono. Un software gestionale produzione copre pianificazione, avanzamento, distinte base e consumi; un MES si concentra sulla raccolta dati dalla linea, spesso direttamente dalle macchine. Per la maggior parte delle PMI manifatturiere la parte utile è la prima, e la raccolta automatica dai macchinari si aggiunge dopo, quando serve davvero — non prima, perché è la voce più costosa e quella che richiede più manutenzione."
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
 </script>
 </head>
@@ -443,8 +500,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </div>
     <div class="f-bot">
       <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
-      <span class="f-legal"><a href="../">Torna alla home</a></span>
-    </div>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
   </div>
   <div class="giant">DANOVA</div>
 </footer>
