@@ -241,6 +241,9 @@ posizionamento locale.
 - GRG Performance — sito per officina moto e scooter di Fossalta di Portogruaro,
   concessionaria ufficiale TM Moto, con banco prova, preparazione motori e team
   corse Supermoto. https://danova-tech.com/lavori/grg-performance/
+- Oasi B&B Ponza — sito bilingue per un bed and breakfast a Santa Maria di Ponza
+  (Isole Pontine): camere, servizi, guida all'isola e richiesta di disponibilità
+  diretta alla struttura. https://danova-tech.com/lavori/oasi-ponza/
 
 ## Contatti e informazioni legali
 

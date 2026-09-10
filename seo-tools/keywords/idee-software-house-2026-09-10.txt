@@ -1,0 +1,108 @@
+GOOGLE ADS KEYWORD PLANNER — 10 settembre 2026
+Seed: "software house", "sviluppo software" | Località: Italia | Lingua: Italiano
+Periodo: ago 2025 - lug 2026 | 182 idee restituite
+
+FASCIA 1K-10K RICERCHE/MESE
+  software house                      Bassa   2,38-11,85 EUR   <- termine principale
+  sviluppo software                   Media   1,35- 6,46 EUR
+  sviluppatore software               Media   1,35- 6,46 EUR   (intento lavoro)
+  programmatore software              Media   1,35- 6,46 EUR   (intento lavoro)
+  sviluppatore di software            Media   1,35- 6,46 EUR   (intento lavoro)
+
+FASCIA 100-1K RICERCHE/MESE
+  software house italiane             Alta    2,57-14,68 EUR
+  sviluppo applicazioni               Media   2,70-11,35 EUR
+  sviluppo applicazioni web           Media   3,48- 7,90 EUR
+  sviluppo software personalizzato    Media   4,92-11,85 EUR
+  sviluppo web application            Media   1,57-19,59 EUR
+  applicativi web                     Bassa   1,15-19,36 EUR
+  app sviluppatore                    Media   2,70-11,35 EUR
+  sviluppo applicativi web            Media   3,48- 7,90 EUR
+  programmazione software             Bassa   0,92- 2,79 EUR
+
+FASCIA 10-100 — I CPC PIU' ALTI (intento commerciale fortissimo)
+  azienda sviluppo software           Media   3,79-28,39 EUR   <- CPC piu' alto del set
+  creazione software personalizzati   Alta    3,29-27,19 EUR
+  sviluppo software custom            Media   5,14-14,75 EUR
+  gestionali personalizzati           Bassa   7,82-14,75 EUR
+  societa' di programmazione software Media   2,65-14,75 EUR
+  realizzazione software              Alta    4,82-14,62 EUR
+  software gestionale personalizzato  Media   5,94-14,30 EUR
+  software gestionali personalizzati  Media   5,94-14,30 EUR
+  sviluppo software gestionale        Bassa   3,09-13,64 EUR
+  software gestionali su misura       Media   4,39-12,73 EUR
+  sviluppo software su misura         Media   5,40-12,56 EUR
+  sviluppo gestionale                 Media   4,41-11,99 EUR
+  sviluppo soluzioni software su misura Media 4,92-11,84 EUR
+  progettazione di un software        Bassa   1,70-11,61 EUR
+  societa' di sviluppo software       Media   1,23-11,60 EUR
+  preventivo sviluppo software        Media   2,72-11,49 EUR
+  software per sviluppare app         Media   1,73-11,49 EUR
+  software personalizzato             Media   2,72- 9,83 EUR
+  software su misura                  Media   3,52- 9,81 EUR
+  azienda programmazione software     Media   1,80- 8,99 EUR
+  consulenza sviluppo software        Media   1,38- 6,37 EUR
+
+CODA LUNGA DA COPRIRE NEL TESTO (volume basso, intento altissimo)
+  software house vicino a me      software house gestionali    software house erp
+  realizzazione software gestionale   realizzazione gestionali su misura
+  progettazione software su misura    progettazione gestionali su misura
+  sviluppo gestionali aziendali       sviluppo gestionali web based
+  sviluppo software industria 4.0     sviluppo software cloud     sviluppo software iot
+  sviluppo software embedded          sviluppo chatbot            sviluppo app su misura
+  software aziendali personalizzati   soluzioni software personalizzate
+  sviluppo software ad hoc            sviluppo software aziendale
+
+LETTURA
+  "software house" e' il termine con cui in Italia si cerca una software company:
+  1K-10K ricerche/mese con concorrenza pubblicitaria BASSA. E' la combinazione
+  migliore di tutto il dataset italiano e il sito non aveva una pagina dedicata.
+
+  "azienda sviluppo software" e "creazione software personalizzati" hanno volumi
+  piccoli ma CPC fino a 28 e 27 EUR: chi cerca quelle frasi sta comprando.
+
+  Le varianti "personalizzato / su misura / custom / ad hoc" sono quattro modi di
+  dire la stessa cosa e vanno usati tutti nel testo, perche' Google li tratta
+  come query distinte.
+
+
+===========================================================
+SECONDA PASSATA — VOLUMI STORICI SUI TERMINI DI SERVIZIO
+Italia, italiano, ago 2025 - lug 2026
+===========================================================
+
+  1K-10K  Bassa   2,95- 5,72   consulente seo            <- nessuna pagina
+  1K-10K  Bassa   0,48- 1,98   transizione 5.0           <- intento informativo, CPC basso
+   100-1K Alta    3,23-22,62   intelligenza artificiale per aziende  <- nessuna pagina
+   100-1K Alta    1,99-13,59   programma gestionale aziendale
+   100-1K Media   2,14-13,25   crm aziendale
+   100-1K Media   2,40-12,81   gestionale cloud
+   100-1K Media   2,57-11,24   creazione ecommerce
+   100-1K Bassa   2,86-15,52   realizzazione ecommerce
+   100-1K Alta    2,21-10,62   software gestionale aziendale
+   100-1K Media   1,96- 9,90   software crm
+   100-1K Bassa   1,98- 7,71   realizzazione siti internet
+   100-1K Media   1,09- 7,56   digitalizzazione aziendale
+   100-1K Media   1,98- 6,23   sito web aziendale
+   100-1K Bassa   1,10- 3,43   posizionamento sito google
+    10-100 Media  5,38-23,96   crm per pmi
+    10-100 Media  2,53-18,73   software gestionale cloud
+    10-100 Alta   3,34-10,88   chatbot aziendale
+    10-100 Alta   1,38-10,46   software per pmi
+    10-100 Media  2,41- 8,49   automazione processi aziendali
+    10-100 -      n.d.         business intelligence aziendale
+
+LETTURA
+  "consulente seo" fa 1K-10K ricerche/mese e il sito non conteneva mai quelle due
+  parole: la pagina /servizi/seo/ parlava solo di "consulenza SEO" e "agenzia SEO".
+
+  "intelligenza artificiale per aziende" e' il CPC piu' alto fra i servizi misurati
+  (fino a 22,62 EUR) con concorrenza Alta: mercato caldo, nessuna pagina sul sito.
+
+  "transizione 5.0" ha volume alto ma CPC bassissimo: chi cerca vuole capire
+  l'incentivo, non comprare software. Va trattato come guida informativa, non come
+  pagina di servizio, altrimenti porta traffico che non converte.
+
+  Le coppie realizzazione/creazione (ecommerce, siti) e le varianti
+  personalizzato/su misura/custom sono query distinte per Google: vanno usate
+  entrambe nel testo della stessa pagina.
