@@ -1501,4 +1501,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://danova-tech.com/lavori/oasi-ponza/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/oasi-ponza/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/oasi-ponza/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
