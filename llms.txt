@@ -187,6 +187,61 @@ posizionamento locale.
   recensioni, i cinque errori che tengono un'attività fuori dal blocco mappa.
   https://danova-tech.com/guide/google-business-profile-guida/
 
+## Software su misura e gestionali (mercato italiano)
+
+- Software house — cosa fa una software house, come si sceglie (cinque domande
+  su sorgente, dati, manutenzione, preventivo a corpo, referenze) e quando NON
+  serve il su misura. https://danova-tech.com/software-house/
+- Sviluppo software su misura — i tre casi in cui il su misura si ripaga e i tre
+  modi in cui un progetto va male (perimetro che cresce, software progettato
+  senza chi lo usa, fornitore che diventa un vincolo).
+  https://danova-tech.com/sviluppo-software-su-misura/
+- Software gestionale aziendale — i cinque segnali che il gestionale non regge
+  piu', il criterio standard-o-su-misura (standard dove e' uguale per tutti, su
+  misura dove siete diversi) e come si cambia gestionale senza fermare l'azienda.
+  https://danova-tech.com/software-gestionale-aziendale/
+- Gestionale cloud — cloud o server in azienda, con i due casi in cui il server
+  locale ha ancora senso; le tre domande sui dati (dove stanno, come si
+  esportano, cosa succede se il rapporto finisce).
+  https://danova-tech.com/gestionale-cloud/
+- CRM aziendale — perche' quasi tutti i CRM finiscono inutilizzati e cosa serve
+  perche' i commerciali lo tengano aggiornato da soli.
+  https://danova-tech.com/crm-aziendale/
+- Intelligenza artificiale per aziende — sei casi con ritorno misurabile,
+  il metodo (misurare prima, prototipo su dati veri, controllo umano dove
+  l'errore costa) e cosa l'AI oggi non fa bene.
+  https://danova-tech.com/intelligenza-artificiale-per-aziende/
+- Automazione processi aziendali — dove si nasconde il tempo in azienda, il
+  criterio per decidere cosa automatizzare (rientro entro due anni, rischio da
+  persona sola, processi assestati).
+  https://danova-tech.com/automazione-processi-aziendali/
+
+## Siti web e posizionamento (mercato italiano)
+
+- Realizzazione siti internet — cosa comprende davvero un preventivo, i tre tipi
+  di sito con budget diversi, e perche' un sito nuovo non porta richieste da
+  solo. https://danova-tech.com/realizzazione-siti-internet/
+- Sito web aziendale — i sei elementi che generano fiducia (nessuno riguarda la
+  grafica) e la struttura a strati che permette al sito di posizionarsi.
+  https://danova-tech.com/sito-web-aziendale/
+- Realizzazione e-commerce — le sei domande a cui rispondere prima di aprire e i
+  costi di esercizio che quasi nessuno mette a preventivo.
+  https://danova-tech.com/realizzazione-ecommerce/
+- Consulente SEO — cosa fa concretamente, differenza fra consulente e agenzia,
+  e i tempi reali del posizionamento detti senza abbellimenti.
+  https://danova-tech.com/consulente-seo/
+
+## Lavori realizzati
+
+- Indice dei lavori, con nome del cliente e sito online invece di percentuali
+  anonime. https://danova-tech.com/lavori/
+- Artantiss — piattaforma editoriale italiana (ricerca, medicina, arte,
+  benessere) con profili professionali, feed pubblico e revisione editoriale
+  prima della pubblicazione. https://danova-tech.com/lavori/artantiss/
+- GRG Performance — sito per officina moto e scooter di Fossalta di Portogruaro,
+  concessionaria ufficiale TM Moto, con banco prova, preparazione motori e team
+  corse Supermoto. https://danova-tech.com/lavori/grg-performance/
+
 ## Contatti e informazioni legali
 
 - Contatti: https://danova-tech.com/contatti/ (EN https://danova-tech.com/en/contact/,
