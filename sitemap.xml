@@ -1389,4 +1389,116 @@
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
+  <url>
+    <loc>https://danova-tech.com/software-house/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/software-house/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/software-house/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/sviluppo-software-su-misura/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/sviluppo-software-su-misura/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/sviluppo-software-su-misura/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/software-gestionale-aziendale/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/software-gestionale-aziendale/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/software-gestionale-aziendale/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/gestionale-cloud/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/gestionale-cloud/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/gestionale-cloud/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/crm-aziendale/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/crm-aziendale/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/crm-aziendale/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/intelligenza-artificiale-per-aziende/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/intelligenza-artificiale-per-aziende/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/intelligenza-artificiale-per-aziende/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/automazione-processi-aziendali/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/automazione-processi-aziendali/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/automazione-processi-aziendali/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/realizzazione-siti-internet/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/realizzazione-siti-internet/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/realizzazione-siti-internet/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/sito-web-aziendale/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/sito-web-aziendale/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/sito-web-aziendale/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/realizzazione-ecommerce/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/realizzazione-ecommerce/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/realizzazione-ecommerce/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/consulente-seo/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/consulente-seo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/consulente-seo/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/lavori/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/lavori/artantiss/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/artantiss/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/artantiss/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/lavori/grg-performance/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/grg-performance/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/grg-performance/"/>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
