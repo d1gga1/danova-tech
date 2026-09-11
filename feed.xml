@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danova Tech — guide e lavori</title>
+    <link>https://danova-tech.com/</link>
+    <description>Guide pratiche su siti web, SEO e software gestionali, e i lavori consegnati da Danova Tech, software house italiana con sede a Mansuè (Treviso).</description>
+    <language>it-IT</language>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <atom:link href="https://danova-tech.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image><url>https://danova-tech.com/assets/img/logo.png</url><title>Danova Tech</title><link>https://danova-tech.com/</link></image>
+    <item>
+      <title>Accessibilità del sito web: cosa dice la legge</title>
+      <link>https://danova-tech.com/guide/accessibilita-sito-web/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/accessibilita-sito-web/</guid>
+      <category>Guide</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Dal 28 giugno 2025 l&#x27;European Accessibility Act obbliga molti siti ed e-commerce: chi rientra, chi è escluso, quale standard serve e quali sanzioni ci sono.</description>
+    </item>
+    <item>
+      <title>Transizione 5.0 nel 2026: cosa è cambiato</title>
+      <link>https://danova-tech.com/guide/transizione-5-0/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/transizione-5-0/</guid>
+      <category>Guide</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Transizione 5.0 è finita e al suo posto c&#x27;è l&#x27;iperammortamento: aliquote, quale software rientra, scadenze GSE e cosa conviene fare adesso.</description>
+    </item>
+    <item>
+      <title>Velocità del sito web e Core Web Vitals</title>
+      <link>https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/</guid>
+      <category>Guide</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.</description>
+    </item>
+    <item>
+      <title>Artantiss: piattaforma editoriale su misura</title>
+      <link>https://danova-tech.com/lavori/artantiss/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/artantiss/</guid>
+      <category>Lavori</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio Artantiss: piattaforma editoriale italiana di ricerca, medicina, arte e benessere, con profili, feed e revisione editoriale. Sviluppata da Danova Tech.</description>
+    </item>
+    <item>
+      <title>GRG Performance: sito per officina moto</title>
+      <link>https://danova-tech.com/lavori/grg-performance/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/grg-performance/</guid>
+      <category>Lavori</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio GRG Performance: sito per officina moto di Fossalta di Portogruaro, concessionaria TM Moto, con banco prova, preparazione motori e team corse.</description>
+    </item>
+    <item>
+      <title>Oasi B&amp;B Ponza: il sito di un B&amp;B sull&#x27;isola</title>
+      <link>https://danova-tech.com/lavori/oasi-ponza/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/oasi-ponza/</guid>
+      <category>Lavori</category>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio Oasi B&amp;B Ponza: sito bilingue per un bed and breakfast a Santa Maria di Ponza, con richiesta di disponibilità e prenotazioni dirette.</description>
+    </item>
+    <item>
+      <title>Come scegliere un’agenzia web: 12 domande</title>
+      <link>https://danova-tech.com/guide/come-scegliere-agenzia-web/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/come-scegliere-agenzia-web/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Dodici domande concrete da fare a un’agenzia web prima di firmare: proprietà del sito, prezzo a corpo, tempi, SEO inclusa, cosa succede se ve ne andate.</description>
+    </item>
+    <item>
+      <title>Gestionale, ERP e CRM: qual è la differenza</title>
+      <link>https://danova-tech.com/guide/differenza-gestionale-erp-crm/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/differenza-gestionale-erp-crm/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Cosa distingue davvero un gestionale da un ERP e da un CRM, quando servono, quando si sovrappongono e come capire quale dei tre vi manca per primo.</description>
+    </item>
+    <item>
+      <title>Google Business Profile: guida pratica 2026</title>
+      <link>https://danova-tech.com/guide/google-business-profile-guida/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/google-business-profile-guida/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Come configurare e usare la scheda Google Business: categorie, servizi, foto, recensioni, post e i cinque errori che tengono un’attività fuori dalla mappa.</description>
+    </item>
+    <item>
+      <title>Rifare il sito senza perdere posizioni</title>
+      <link>https://danova-tech.com/guide/rifare-sito-senza-perdere-posizioni/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/rifare-sito-senza-perdere-posizioni/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 05 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Come rifare il sito senza perdere posizioni su Google: mappa dei vecchi indirizzi, redirect 301 uno a uno, checklist del giorno di pubblicazione.</description>
+    </item>
+  </channel>
+</rss>

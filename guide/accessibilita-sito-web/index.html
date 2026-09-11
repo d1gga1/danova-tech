@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Accessibilità del sito web: cosa dice la legge | Danova Tech</title>
+<meta name="description" content="Dal 28 giugno 2025 l&#x27;European Accessibility Act obbliga molti siti ed e-commerce: chi rientra, chi è escluso, quale standard serve e quali sanzioni ci sono.">
+<link rel="canonical" href="https://danova-tech.com/guide/accessibilita-sito-web/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/accessibilita-sito-web/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/accessibilita-sito-web/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/guide/accessibilita-sito-web/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Accessibilità del sito web: cosa dice la legge | Danova Tech">
+<meta property="og:description" content="Dal 28 giugno 2025 l&#x27;European Accessibility Act obbliga molti siti ed e-commerce: chi rientra, chi è escluso, quale standard serve e quali sanzioni ci sono.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Accessibilità del sito web: cosa dice la legge | Danova Tech">
+<meta name="twitter:description" content="Dal 28 giugno 2025 l&#x27;European Accessibility Act obbliga molti siti ed e-commerce: chi rientra, chi è escluso, quale standard serve e quali sanzioni ci sono.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+
+<link rel="icon" type="image/png" href="/assets/img/logo.png">
+<link rel="apple-touch-icon" href="/assets/img/logo.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/fonts.css">
+<link rel="stylesheet" href="/assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://danova-tech.com/#website",
+      "url": "https://danova-tech.com/",
+      "name": "Danova Tech",
+      "inLanguage": "it",
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      }
+    },
+    {
+      "@type": [
+        "Article",
+        "BlogPosting"
+      ],
+      "@id": "https://danova-tech.com/guide/accessibilita-sito-web/#article",
+      "headline": "Accessibilità del sito: cosa è diventato obbligatorio e per chi",
+      "description": "Dal 28 giugno 2025 l'European Accessibility Act obbliga molti siti ed e-commerce: chi rientra, chi è escluso, quale standard serve e quali sanzioni ci sono.",
+      "inLanguage": "it",
+      "datePublished": "2026-09-11",
+      "dateModified": "2026-09-11",
+      "url": "https://danova-tech.com/guide/accessibilita-sito-web/",
+      "mainEntityOfPage": {
+        "@id": "https://danova-tech.com/guide/accessibilita-sito-web/#webpage"
+      },
+      "author": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "articleSection": "Guide",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "European Accessibility Act"
+        },
+        {
+          "@type": "Thing",
+          "name": "Accessibilità web"
+        },
+        {
+          "@type": "Thing",
+          "name": "WCAG 2.1"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/guide/accessibilita-sito-web/#webpage",
+      "url": "https://danova-tech.com/guide/accessibilita-sito-web/",
+      "name": "Accessibilità del sito web: cosa dice la legge | Danova Tech",
+      "description": "Dal 28 giugno 2025 l'European Accessibility Act obbliga molti siti ed e-commerce: chi rientra, chi è escluso, quale standard serve e quali sanzioni ci sono.",
+      "inLanguage": "it",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/guide/accessibilita-sito-web/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/guide/accessibilita-sito-web/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guide",
+          "item": "https://danova-tech.com/guide/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Accessibilità del sito web",
+          "item": "https://danova-tech.com/guide/accessibilita-sito-web/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/guide/accessibilita-sito-web/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Il mio sito vetrina deve essere accessibile per legge?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Se non vende nulla online e non eroga uno dei servizi elencati dalla direttiva, di regola non rientra nell'obbligo dell'European Accessibility Act. Attenzione però: basta un percorso di acquisto o di prenotazione aperto ai consumatori perché quella parte diventi commercio elettronico e quindi obbligata."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da quando si applica l'European Accessibility Act in Italia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dal 28 giugno 2025. La norma italiana di recepimento è il decreto legislativo 82 del 27 maggio 2022, che attua la direttiva UE 2019/882."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "La mia azienda è piccola: sono esente?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "L'esenzione riguarda le microimprese che erogano servizi, cioè con meno di 10 dipendenti e fatturato annuo o totale di bilancio non superiore a 2 milioni di euro. Non si applica ai prodotti che l'impresa fabbrica o distribuisce, e va verificata sui numeri reali dell'ultimo esercizio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quale standard tecnico devo rispettare?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La norma europea EN 301 549, che per i contenuti web rimanda alle WCAG 2.1 di livello AA. In pratica significa contrasto adeguato, navigazione completa da tastiera, testi alternativi, moduli etichettati, struttura dei titoli coerente e sottotitoli sui video."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Un widget di accessibilità mette a norma il sito?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Gli overlay aggiungono controlli sopra la pagina ma non correggono il codice: se un elemento non è raggiungibile da tastiera resta non raggiungibile. Possono servire come misura temporanea, non come soluzione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quali sanzioni sono previste?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "L'articolo 24 del decreto legislativo 82/2022 prevede da 5.000 a 40.000 euro per la violazione dei requisiti di accessibilità e da 2.500 a 30.000 euro per la mancata collaborazione con l'autorità di vigilanza, che in Italia è l'AgID."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="/" class="brand" data-mag><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="/#servizi">Servizi</a>
+      <a href="/#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="/#processo">Processo</a>
+      <a href="/#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <span class="lang-links">
+        <a href="/" hreflang="it" aria-current="page">IT</a>
+        <a href="/en/" hreflang="en">EN</a>
+        <a href="/de/" hreflang="de">DE</a>
+        <a href="/fr/" hreflang="fr">FR</a>
+        <a href="/es/" hreflang="es">ES</a>
+      </span>
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="/#servizi">Servizi</a>
+  <a href="/#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="/#processo">Processo</a>
+  <a href="/#contatti">Contatti</a>
+
+  <div class="mob-lang-links">
+    <a href="/" hreflang="it" aria-current="page">IT</a>
+        <a href="/en/" hreflang="en">EN</a>
+        <a href="/de/" hreflang="de">DE</a>
+        <a href="/fr/" hreflang="fr">FR</a>
+        <a href="/es/" hreflang="es">ES</a>
+  </div>
+</nav>
+
+<main id="main">
+<div class="wrap pg-crumbs"><a href="/">Home</a><em>/</em><a href="/guide/">Guide</a><em>/</em>Accessibilità del sito web</div>
+<section class="pg-hero"><div class="wrap"><div class="eyebrow mono" data-scramble>Guida</div><h1 data-rv="up">Accessibilità del sito: <span class="grad">cosa è diventato obbligatorio e per chi</span></h1><p class="lead" data-rv="up">Dal 28 giugno 2025 una parte consistente dei siti aziendali italiani ha un obbligo di accessibilità che prima non aveva. Non riguarda tutti, e chi lo racconta come una catastrofe imminente di solito vende un badge da mettere in fondo alla pagina. Ecco chi rientra davvero, cosa serve e cosa si rischia.</p><p class="lead" data-rv="up"><small>Aggiornato l'11 settembre 2026 · Danova Tech</small></p></div></section>
+<section id="sintesi"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Sintesi</div><h2 class="title" data-rv="up">In quattro righe</h2></div><div class="pg-testo" data-rv="up"><ul><li><b>La norma è il decreto legislativo 82 del 2022</b>, che recepisce in Italia la direttiva europea 2019/882, l'European Accessibility Act. Si applica dal <b>28 giugno 2025</b>.</li><li><b>Riguarda i servizi digitali rivolti ai consumatori</b>: e-commerce, servizi bancari, trasporto passeggeri, e-book, comunicazioni elettroniche, media audiovisivi. Non tutti i siti aziendali.</li><li><b>Le microimprese che erogano servizi sono escluse</b>: meno di 10 dipendenti e fatturato annuo sotto i 2 milioni di euro.</li><li><b>Lo standard di riferimento è la EN 301 549</b>, che in pratica significa WCAG 2.1 livello AA. Vigila l'AgID, e le sanzioni dell'articolo 24 vanno da 5.000 a 40.000 euro.</li></ul></div></div></section>
+<section id="chi"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Perimetro</div><h2 class="title" data-rv="up">Chi è obbligato e chi no</h2></div><div class="pg-testo" data-rv="up"><p>Qui si crea la maggior parte della confusione, perché in giro si legge che «dal 2025 tutti i siti devono essere accessibili». Non è così. L'obbligo segue il <b>tipo di servizio</b>, non il fatto di avere un sito.</p><p><b>Rientrano</b>, in sintesi: il commercio elettronico verso consumatori, i servizi bancari al consumo, i servizi di trasporto passeggeri, gli e-book e i relativi lettori, i servizi di comunicazione elettronica, i servizi di media audiovisivi e le piattaforme che li distribuiscono. Vale anche per operatori con sede fuori dall'Unione europea, se vendono a consumatori europei.</p><p><b>Non rientrano</b>, di regola: il sito vetrina di un'azienda che non vende online, un portale interno, un servizio rivolto solo ad altre aziende. Attenzione però a una cosa: se sul sito c'è anche un solo percorso di acquisto o di prenotazione aperto al consumatore, quel percorso è commercio elettronico.</p><p>L'esenzione per le microimprese esiste ed è reale, ma va letta con precisione: vale per <b>i servizi</b> erogati da imprese con meno di 10 dipendenti e fatturato o totale di bilancio sotto i 2 milioni. Non vale per i prodotti che la stessa impresa fabbrica o distribuisce.</p></div></div></section>
+<section id="requisiti"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Requisiti</div><h2 class="title" data-rv="up">Che cosa vuol dire «accessibile», in pratica</h2></div><div class="pg-testo" data-rv="up"><p>Lo standard tecnico europeo è la norma EN 301 549, che per il web rimanda alle WCAG 2.1 di livello AA. Dietro la sigla ci sono richieste concrete, e nessuna di queste è esotica:</p><ul><li><b>Contrasto sufficiente</b> fra testo e sfondo, con soglie misurabili. È il problema più diffuso sui siti fatti bene graficamente: il grigio chiaro su bianco è quasi sempre fuori norma.</li><li><b>Tutto raggiungibile da tastiera</b>, nell'ordine giusto, con un indicatore di focus visibile. Se un menu si apre solo al passaggio del mouse, chi naviga da tastiera non lo apre mai.</li><li><b>Testo alternativo sulle immagini</b> che porta informazione, e nessun testo alternativo sulle immagini decorative.</li><li><b>Moduli con etichette vere</b> collegate al campo, messaggi di errore che dicono cosa correggere e non solo che c'è un errore.</li><li><b>Struttura dei titoli coerente</b>, un solo H1, gerarchia che non salta livelli: serve a chi usa uno screen reader per scorrere la pagina.</li><li><b>Video con sottotitoli</b> e contenuti audio con alternativa testuale.</li><li><b>Niente che dipenda dal solo colore</b> per essere capito, e nessun contenuto che lampeggia in modo pericoloso.</li></ul><p>Serve inoltre una <b>dichiarazione di accessibilità</b> pubblicata e mantenuta aggiornata, con un canale attraverso cui un utente può segnalare un problema e ricevere risposta.</p></div></div></section>
+<section id="overlay"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Attenzione</div><h2 class="title" data-rv="up">I sovrapposti automatici non risolvono il problema</h2></div><div class="pg-testo" data-rv="up"><p>Va detto perché è la scorciatoia che viene proposta più spesso: gli <i>accessibility overlay</i>, quei widget con l'icona dell'omino che si installano con una riga di codice e promettono conformità immediata.</p><p>Non rendono conforme un sito che non lo è. Aggiungono controlli sopra la pagina — ingrandimento del testo, filtri di contrasto, lettura ad alta voce — ma non correggono il codice sottostante: se un pulsante non è raggiungibile da tastiera, resta non raggiungibile. Nei paesi in cui il contenzioso sull'accessibilità è più maturo, la presenza di un overlay non ha impedito le cause; in diversi casi le ha attirate, perché segnala che il tema è noto e non è stato affrontato.</p><p>Possono avere un senso come misura ponte mentre si lavora sul codice. Come soluzione, no.</p></div></div></section>
+<section id="sanzioni"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Sanzioni</div><h2 class="title" data-rv="up">Chi controlla e cosa si rischia</h2></div><div class="pg-testo" data-rv="up"><p>La vigilanza in Italia è dell'<b>AgID</b>, l'Agenzia per l'Italia Digitale, che riceve le segnalazioni degli utenti, svolge i controlli e pubblica le linee guida operative.</p><p>Le sanzioni amministrative sono all'articolo 24 del decreto legislativo 82/2022: da <b>5.000 a 40.000 euro</b> per la violazione dei requisiti di accessibilità, e da <b>2.500 a 30.000 euro</b> per la mancata collaborazione con l'autorità o il mancato rispetto delle misure correttive richieste.</p><p>Nella pratica il rischio non arriva quasi mai da un controllo a sorpresa: arriva da una segnalazione di un utente che non è riuscito a completare un acquisto. È il motivo per cui il canale di contatto nella dichiarazione di accessibilità, e una risposta che arrivi davvero, contano più di quanto sembri.</p></div></div></section>
+<section id="come"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Metodo</div><h2 class="title" data-rv="up">Da dove si comincia, se il sito c'è già</h2></div><div class="pg-testo" data-rv="up"><p>Non serve rifare tutto. Nella maggior parte dei siti la non conformità si concentra in pochi punti ricorrenti, e l'ordine con cui si affrontano è quasi sempre questo:</p><ul><li><b>Una verifica automatica, per capire la dimensione.</b> Strumenti come Lighthouse, axe o WAVE trovano in pochi minuti contrasti insufficienti, alt mancanti, etichette assenti. Coprono forse un terzo dei criteri, ma è il terzo che si sistema in fretta.</li><li><b>Una prova manuale da tastiera.</b> Chiudete il mouse in un cassetto e provate a completare un acquisto usando solo Tab, Invio ed Escape. Dieci minuti, e trova problemi che nessuno strumento automatico segnala.</li><li><b>I percorsi critici prima del resto.</b> Homepage, scheda prodotto, carrello, pagamento, modulo di contatto. Una pagina istituzionale imperfetta è meno grave di un checkout che blocca.</li><li><b>La dichiarazione di accessibilità</b>, onesta: cosa è conforme, cosa non lo è ancora, entro quando, e a chi scrivere. Una dichiarazione che ammette lacune con un piano è più solida di una che dichiara perfezione.</li></ul><p>Su un sito costruito bene, la parte pesante è il design — contrasti e stati di focus — più che il codice. Su un sito costruito con un tema pieno di componenti di terze parti, di solito è il contrario.</p></div></div></section>
+<section id="nota"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Avvertenza</div><h2 class="title" data-rv="up">Una nota onesta su questa pagina</h2></div><div class="pg-testo" data-rv="up"><p>Danova Tech sviluppa siti e software, non è uno studio legale. Questo testo riassume fonti pubbliche aggiornate all'11 settembre 2026 e serve a orientarsi: il riferimento normativo è il decreto legislativo 82/2022, in attuazione della direttiva UE 2019/882, e le linee guida operative sono pubblicate dall'AgID. Per valutare se la vostra attività specifica rientra nell'obbligo, la risposta la deve dare un legale sul vostro caso.</p><p>Se invece la domanda è tecnica — a che punto è il vostro sito rispetto alle WCAG 2.1 AA — quella la guardiamo volentieri: una verifica su homepage e percorso d'acquisto è mezza giornata e finisce con un elenco di cose da correggere in ordine di gravità.</p></div></div></section>
+<section id="faq"><div class="wrap"><div class="sec-head"><h2 class="title">Domande frequenti</h2></div><div class="faq"><details><summary>Il mio sito vetrina deve essere accessibile per legge?<span class="pm"></span></summary><div class="ans"><p>Se non vende nulla online e non eroga uno dei servizi elencati dalla direttiva, di regola non rientra nell'obbligo dell'European Accessibility Act. Attenzione però: basta un percorso di acquisto o di prenotazione aperto ai consumatori perché quella parte diventi commercio elettronico e quindi obbligata.</p></div></details><details><summary>Da quando si applica l'European Accessibility Act in Italia?<span class="pm"></span></summary><div class="ans"><p>Dal 28 giugno 2025. La norma italiana di recepimento è il decreto legislativo 82 del 27 maggio 2022, che attua la direttiva UE 2019/882.</p></div></details><details><summary>La mia azienda è piccola: sono esente?<span class="pm"></span></summary><div class="ans"><p>L'esenzione riguarda le microimprese che erogano servizi, cioè con meno di 10 dipendenti e fatturato annuo o totale di bilancio non superiore a 2 milioni di euro. Non si applica ai prodotti che l'impresa fabbrica o distribuisce, e va verificata sui numeri reali dell'ultimo esercizio.</p></div></details><details><summary>Quale standard tecnico devo rispettare?<span class="pm"></span></summary><div class="ans"><p>La norma europea EN 301 549, che per i contenuti web rimanda alle WCAG 2.1 di livello AA. In pratica significa contrasto adeguato, navigazione completa da tastiera, testi alternativi, moduli etichettati, struttura dei titoli coerente e sottotitoli sui video.</p></div></details><details><summary>Un widget di accessibilità mette a norma il sito?<span class="pm"></span></summary><div class="ans"><p>No. Gli overlay aggiungono controlli sopra la pagina ma non correggono il codice: se un elemento non è raggiungibile da tastiera resta non raggiungibile. Possono servire come misura temporanea, non come soluzione.</p></div></details><details><summary>Quali sanzioni sono previste?<span class="pm"></span></summary><div class="ans"><p>L'articolo 24 del decreto legislativo 82/2022 prevede da 5.000 a 40.000 euro per la violazione dei requisiti di accessibilità e da 2.500 a 30.000 euro per la mancata collaborazione con l'autorità di vigilanza, che in Italia è l'AgID.</p></div></details></div></div></section>
+<section><div class="wrap"><div class="sec-head"><h2 class="title">Pagine collegate</h2></div><div class="pg-altri"><a href="/guide/">Tutte le guide</a><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a><a href="/restyling-sito-web/">Restyling del sito web</a><a href="/sito-web-aziendale/">Sito web aziendale</a><a href="/consulente-seo/">Consulente SEO</a></div></div></section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="/servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="/servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="/servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="/servizi/google-ads/">Google Ads</a></li>
+        <li><a href="/servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="/servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="/servizi/software-automazioni/">Software &amp; automazioni</a></li>
+        <li><a href="/servizi/">Tutti i servizi</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+      
+        <li><a href="../../software-per-pmi/">Software per PMI</a></li>
+        <li><a href="../../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/#settori">Per chi lavoriamo</a></li>
+        <li><a href="/#lavori">Esempi di progetti</a></li>
+        <li><a href="/#processo">Il nostro metodo</a></li>
+        <li><a href="/chi-siamo/">Chi siamo</a></li>
+        <li><a href="/#contatti">Contatti</a></li>
+      
+        <li><a href="../../glossario/">Glossario</a></li>
+      </ul></div>
+      <div id="fcZone"><h5>Dove operiamo</h5><ul>
+        <li><a href="/gestionali-su-misura-veneto/">Veneto</a></li>
+        <li><a href="/gestionali-su-misura-treviso/">Treviso</a></li>
+        <li><a href="/gestionali-su-misura-pordenone/">Pordenone</a></li>
+        <li><a href="/gestionali-su-misura-venezia-mestre/">Venezia e Mestre</a></li>
+        
+        <li><a href="/realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="/realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="/realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="/realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li class="f-italia"><b>Resto d’Italia</b>Ovunque ti trovi, ti seguiamo da remoto con la stessa assistenza.</li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="/assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>

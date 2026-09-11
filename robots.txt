@@ -81,7 +81,6 @@ Allow: /
 # --- Regola generale ---
 User-agent: *
 Allow: /
-Disallow: /404.html
 Disallow: /seo-tools/
 Disallow: /*?*fbclid=
 Disallow: /*?*gclid=

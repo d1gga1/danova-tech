@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Velocità del sito web e Core Web Vitals | Danova Tech</title>
+<meta name="description" content="Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.">
+<link rel="canonical" href="https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Velocità del sito web e Core Web Vitals | Danova Tech">
+<meta property="og:description" content="Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Velocità del sito web e Core Web Vitals | Danova Tech">
+<meta name="twitter:description" content="Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+
+<link rel="icon" type="image/png" href="/assets/img/logo.png">
+<link rel="apple-touch-icon" href="/assets/img/logo.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/fonts.css">
+<link rel="stylesheet" href="/assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://danova-tech.com/#website",
+      "url": "https://danova-tech.com/",
+      "name": "Danova Tech",
+      "inLanguage": "it",
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      }
+    },
+    {
+      "@type": [
+        "Article",
+        "BlogPosting"
+      ],
+      "@id": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/#article",
+      "headline": "Velocità del sito: cosa misura Google davvero",
+      "description": "Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.",
+      "inLanguage": "it",
+      "datePublished": "2026-09-11",
+      "dateModified": "2026-09-11",
+      "url": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/",
+      "mainEntityOfPage": {
+        "@id": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/#webpage"
+      },
+      "author": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "articleSection": "Guide",
+      "about": [
+        {
+          "@type": "Thing",
+          "name": "Core Web Vitals"
+        },
+        {
+          "@type": "Thing",
+          "name": "Largest Contentful Paint"
+        },
+        {
+          "@type": "Thing",
+          "name": "Interaction to Next Paint"
+        },
+        {
+          "@type": "Thing",
+          "name": "Cumulative Layout Shift"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/#webpage",
+      "url": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/",
+      "name": "Velocità del sito web e Core Web Vitals | Danova Tech",
+      "description": "Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.",
+      "inLanguage": "it",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/#breadcrumb"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Guide",
+          "item": "https://danova-tech.com/guide/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Velocità e Core Web Vitals",
+          "item": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quali sono le soglie dei Core Web Vitals?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "LCP entro 2,5 secondi, INP entro 200 millisecondi, CLS sotto 0,1. Una pagina è considerata buona se rispetta tutte e tre le soglie al 75° percentile dei visitatori reali, cioè per tre utenti su quattro."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il punteggio di PageSpeed Insights conta per il posizionamento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. Il punteggio da 0 a 100 viene da un test di laboratorio simulato ed è uno strumento diagnostico. Google usa i dati di campo raccolti dai browser Chrome dei visitatori reali negli ultimi 28 giorni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che differenza c'è fra INP e il vecchio FID?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Il FID misurava solo il ritardo della prima interazione, l'INP misura il tempo che passa fra una qualsiasi interazione e l'aggiornamento dello schermo, su tutta la visita. L'INP ha sostituito il FID come Core Web Vital nel marzo 2024 ed è una metrica sensibilmente più severa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Migliorare la velocità mi fa salire su Google?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da solo quasi mai. I Core Web Vitals sono un fattore di ranking dichiarato ma debole, che agisce a parità di pertinenza del contenuto. L'effetto più solido della velocità si vede sulla conversione, non sulla posizione."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Il mio sito non mostra i dati di campo: perché?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Perché non ha abbastanza traffico da Chrome per produrre un campione statistico. In quel caso restano i dati di laboratorio, che indicano dove intervenire ma non corrispondono a quello che Google misura."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo serve per vedere un miglioramento?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "I dati di campo usano una finestra mobile di 28 giorni, quindi l'effetto pieno di un intervento si legge circa un mese dopo la pubblicazione. Nel test di laboratorio si vede subito, ma è un'altra misura."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="/" class="brand" data-mag><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="/#servizi">Servizi</a>
+      <a href="/#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="/#processo">Processo</a>
+      <a href="/#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <span class="lang-links">
+        <a href="/" hreflang="it" aria-current="page">IT</a>
+        <a href="/en/" hreflang="en">EN</a>
+        <a href="/de/" hreflang="de">DE</a>
+        <a href="/fr/" hreflang="fr">FR</a>
+        <a href="/es/" hreflang="es">ES</a>
+      </span>
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="/#servizi">Servizi</a>
+  <a href="/#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="/#processo">Processo</a>
+  <a href="/#contatti">Contatti</a>
+
+  <div class="mob-lang-links">
+    <a href="/" hreflang="it" aria-current="page">IT</a>
+        <a href="/en/" hreflang="en">EN</a>
+        <a href="/de/" hreflang="de">DE</a>
+        <a href="/fr/" hreflang="fr">FR</a>
+        <a href="/es/" hreflang="es">ES</a>
+  </div>
+</nav>
+
+<main id="main">
+<div class="wrap pg-crumbs"><a href="/">Home</a><em>/</em><a href="/guide/">Guide</a><em>/</em>Velocità e Core Web Vitals</div>
+<section class="pg-hero"><div class="wrap"><div class="eyebrow mono" data-scramble>Guida</div><h1 data-rv="up">Velocità del sito: <span class="grad">cosa misura Google davvero</span></h1><p class="lead" data-rv="up">Quasi tutte le discussioni sulla velocità di un sito partono dal numero sbagliato: il punteggio colorato di PageSpeed Insights. Quel numero è una simulazione. Quello che Google usa per il posizionamento è un'altra cosa, sono tre metriche, e si misurano sui visitatori veri.</p><p class="lead" data-rv="up"><small>Aggiornato l'11 settembre 2026 · Danova Tech</small></p></div></section>
+<section id="sintesi"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Sintesi</div><h2 class="title" data-rv="up">In quattro righe</h2></div><div class="pg-testo" data-rv="up"><ul><li><b>I Core Web Vitals sono tre</b>: LCP (quanto tardi compare il contenuto principale), INP (quanto tardi il sito risponde a un clic) e CLS (quanto la pagina salta mentre carica).</li><li><b>Le soglie «buone» sono</b> LCP entro 2,5 secondi, INP entro 200 millisecondi, CLS sotto 0,1.</li><li><b>Contano i dati di campo, non il punteggio del test.</b> Google guarda il 75° percentile dei visitatori reali degli ultimi 28 giorni: tre utenti su quattro devono stare sotto la soglia.</li><li><b>Pesano sul posizionamento, ma poco.</b> Sono un criterio a parità di contenuto. Un sito lento con la risposta giusta batte un sito velocissimo che non risponde alla domanda.</li></ul></div></div></section>
+<section id="metriche"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Definizioni</div><h2 class="title" data-rv="up">Le tre metriche, spiegate senza sigle</h2></div><div class="pg-testo" data-rv="up"><p><b>LCP — Largest Contentful Paint.</b> Il momento in cui compare l'elemento più grande visibile senza scorrere: di solito l'immagine di apertura o il titolo. Non è «quando finisce di caricare»: è quando il visitatore vede qualcosa di sostanziale. Buono entro 2,5 secondi, da sistemare oltre i 4.</p><p><b>INP — Interaction to Next Paint.</b> Quanto tempo passa tra un clic e il momento in cui lo schermo mostra il risultato, misurato su tutte le interazioni della visita e non solo sulla prima. Ha sostituito il vecchio FID nel marzo 2024, ed è una metrica molto più severa: il FID misurava solo il ritardo iniziale, l'INP misura la risposta completa. Buono entro 200 millisecondi, da sistemare oltre i 500.</p><p><b>CLS — Cumulative Layout Shift.</b> Quanto la pagina si muove sotto le dita mentre carica. È la metrica che misura la sensazione più fastidiosa del web mobile: il pulsante che si sposta nell'istante in cui lo premete. Buono sotto 0,1, da sistemare sopra 0,25.</p></div></div></section>
+<section id="lab-vs-campo"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Come si legge</div><h2 class="title" data-rv="up">Laboratorio e campo: la differenza che cambia tutto</h2></div><div class="pg-testo" data-rv="up"><p>Quando aprite PageSpeed Insights vedete due blocchi. Sopra, se il sito ha traffico sufficiente, ci sono i <b>dati di campo</b>: misurazioni raccolte dai browser Chrome di visitatori veri, sui loro telefoni e sulle loro connessioni, negli ultimi 28 giorni. Sotto c'è il <b>test di laboratorio</b>: una simulazione su un dispositivo di fascia media con connessione rallentata, eseguita adesso.</p><p>Il punteggio da 0 a 100 con il cerchio colorato appartiene al laboratorio. È utile per capire dove intervenire, perché è ripetibile e dà una diagnosi. Non è quello che Google usa: il segnale di ranking viene dai dati di campo.</p><p>Questo spiega due situazioni che sembrano paradossali e non lo sono. Un sito con 62 di punteggio può avere tutti e tre i Core Web Vitals verdi, perché i suoi visitatori reali sono in fibra su telefoni recenti. E un sito con 98 può averli rossi, se metà del traffico arriva da rete mobile in zone mal coperte. Il secondo caso è il più comune fuori dalle città.</p><p>Se il vostro sito ha poco traffico i dati di campo non compaiono affatto. In quel caso il laboratorio è tutto quello che avete, e va letto per quello che è: un'indicazione, non un verdetto.</p></div></div></section>
+<section id="ranking"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Aspettative</div><h2 class="title" data-rv="up">Quanto conta per il posizionamento, onestamente</h2></div><div class="pg-testo" data-rv="up"><p>I Core Web Vitals sono un fattore di ranking dichiarato, dentro il gruppo dei segnali sull'esperienza di pagina. Sono anche un fattore <b>debole</b>, e Google lo ha detto in modo esplicito: servono a distinguere fra pagine di valore paragonabile, non a far salire una pagina che non risponde alla domanda.</p><p>Tradotto: se siete in nona posizione, il problema quasi mai è LCP. È il contenuto, o i link, o il fatto che la pagina non corrisponde all'intenzione di chi cerca. Sistemare la velocità non vi porta in prima pagina da soli.</p><p>Dove la velocità conta davvero, e molto più del ranking, è sulla conversione. Un checkout che risponde in 150 millisecondi e uno che risponde in 600 vendono in modo diverso, a parità di posizione. Questo è il motivo per cui vale la pena lavorarci: non per Google.</p></div></div></section>
+<section id="cause"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Diagnosi</div><h2 class="title" data-rv="up">Le cause ricorrenti, in ordine di frequenza</h2></div><div class="pg-testo" data-rv="up"><ul><li><b>Immagini grandi e nel formato sbagliato.</b> È il motivo numero uno di un LCP alto. Una fotografia da 3 MB in PNG mostrata larga 600 pixel è un errore che si ripete su tre siti su quattro. WebP o AVIF, dimensioni reali, e un solo file davvero grande: quello dell'apertura.</li><li><b>Troppo JavaScript, e tutto subito.</b> Ogni script che il browser deve scaricare ed eseguire prima di disegnare la pagina è tempo aggiunto. È la causa principale di un INP alto, soprattutto su telefoni di fascia media, dove il costo non è la rete ma la CPU.</li><li><b>Script di terze parti.</b> Chat, banner cookie, pixel pubblicitari, mappe incorporate, caroselli di recensioni. Ognuno sembra innocuo, insieme spesso pesano più del sito. Il banner cookie merita un controllo a parte: è il primo a partire e blocca tutto il resto.</li><li><b>Immagini e riquadri senza dimensioni dichiarate.</b> Causa diretta di CLS: il browser non sa quanto spazio riservare, la pagina si assesta a immagine caricata e tutto salta. Si risolve scrivendo width e height, o un rapporto d'aspetto, su ogni elemento che arriva dopo.</li><li><b>Font caricati male.</b> Un font web senza precaricamento e senza una strategia di sostituzione produce testo invisibile per qualche centinaio di millisecondi, oppure un salto quando il font definitivo arriva.</li><li><b>Nessuna compressione e nessuna cache.</b> Attivare gzip o brotli e mettere una cache lunga sugli elementi che non cambiano mai è mezz'ora di configurazione e cambia i numeri più di molte riscritture del codice.</li></ul></div></div></section>
+<section id="esempio"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Caso reale</div><h2 class="title" data-rv="up">Un esempio concreto: questo sito</h2></div><div class="pg-testo" data-rv="up"><p>Vale la pena raccontarlo perché è il caso più istruttivo che abbiamo sottomano. La homepage di questo sito è multilingua e, per farla leggere ai motori di ricerca senza eseguire JavaScript, i testi sono presenti nell'HTML in forma statica. Il dizionario con le cinque lingue viveva però <i>dentro</i> la stessa pagina: circa 135 KB di testo che ogni visitatore scaricava per intero, per poi usarne un quinto.</p><p>La correzione è stata banale una volta vista: dizionario fuori dalla pagina, un file per lingua, la pagina carica solo il proprio e le altre lingue arrivano in sottofondo quando il browser è libero. L'HTML della homepage è passato da circa 325 a 154 KB, e la parte più pesante è uscita dal percorso critico.</p><p>La lezione non è tecnica, è di metodo: il problema non si vedeva nel punteggio e non si vedeva nel design. Si vedeva solo guardando cosa il browser doveva leggere prima di poter disegnare qualcosa. È lì che si trovano quasi sempre i secondi veri.</p></div></div></section>
+<section id="come"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Metodo</div><h2 class="title" data-rv="up">Da dove si comincia</h2></div><div class="pg-testo" data-rv="up"><ul><li><b>Guardate il rapporto Segnali web essenziali in Search Console</b>, non il punteggio del test. Raggruppa gli indirizzi per tipo di problema e vi dice quali modelli di pagina sono messi male, che è l'informazione utile.</li><li><b>Cominciate dall'immagine di apertura.</b> Formato moderno, dimensione giusta, precaricata, mai in lazy load. Da sola sistema una buona parte degli LCP fuori soglia.</li><li><b>Poi togliete, non aggiungete.</b> Ogni script di terze parti va giustificato. Il criterio: se domani sparisse, qualcuno se ne accorgerebbe?</li><li><b>Misurate di nuovo dopo 28 giorni.</b> I dati di campo si muovono su una finestra mobile: un intervento fatto oggi si vede completamente solo un mese dopo. Chi vi mostra il miglioramento il giorno stesso vi sta mostrando il laboratorio.</li></ul><p>E una cosa da non fare: inseguire il 100. Gli ultimi punti costano sproporzionatamente e non li vede nessun visitatore. Verde su tutti e tre i Core Web Vitals nei dati di campo è il traguardo; il resto è vanità.</p></div></div></section>
+<section id="faq"><div class="wrap"><div class="sec-head"><h2 class="title">Domande frequenti</h2></div><div class="faq"><details><summary>Quali sono le soglie dei Core Web Vitals?<span class="pm"></span></summary><div class="ans"><p>LCP entro 2,5 secondi, INP entro 200 millisecondi, CLS sotto 0,1. Una pagina è considerata buona se rispetta tutte e tre le soglie al 75° percentile dei visitatori reali, cioè per tre utenti su quattro.</p></div></details><details><summary>Il punteggio di PageSpeed Insights conta per il posizionamento?<span class="pm"></span></summary><div class="ans"><p>No. Il punteggio da 0 a 100 viene da un test di laboratorio simulato ed è uno strumento diagnostico. Google usa i dati di campo raccolti dai browser Chrome dei visitatori reali negli ultimi 28 giorni.</p></div></details><details><summary>Che differenza c'è fra INP e il vecchio FID?<span class="pm"></span></summary><div class="ans"><p>Il FID misurava solo il ritardo della prima interazione, l'INP misura il tempo che passa fra una qualsiasi interazione e l'aggiornamento dello schermo, su tutta la visita. L'INP ha sostituito il FID come Core Web Vital nel marzo 2024 ed è una metrica sensibilmente più severa.</p></div></details><details><summary>Migliorare la velocità mi fa salire su Google?<span class="pm"></span></summary><div class="ans"><p>Da solo quasi mai. I Core Web Vitals sono un fattore di ranking dichiarato ma debole, che agisce a parità di pertinenza del contenuto. L'effetto più solido della velocità si vede sulla conversione, non sulla posizione.</p></div></details><details><summary>Il mio sito non mostra i dati di campo: perché?<span class="pm"></span></summary><div class="ans"><p>Perché non ha abbastanza traffico da Chrome per produrre un campione statistico. In quel caso restano i dati di laboratorio, che indicano dove intervenire ma non corrispondono a quello che Google misura.</p></div></details><details><summary>Quanto tempo serve per vedere un miglioramento?<span class="pm"></span></summary><div class="ans"><p>I dati di campo usano una finestra mobile di 28 giorni, quindi l'effetto pieno di un intervento si legge circa un mese dopo la pubblicazione. Nel test di laboratorio si vede subito, ma è un'altra misura.</p></div></details></div></div></section>
+<section><div class="wrap"><div class="sec-head"><h2 class="title">Pagine collegate</h2></div><div class="pg-altri"><a href="/guide/">Tutte le guide</a><a href="/guide/rifare-sito-senza-perdere-posizioni/">Rifare il sito senza perdere posizioni</a><a href="/consulente-seo/">Consulente SEO</a><a href="/restyling-sito-web/">Restyling del sito web</a><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a><a href="/guide/accessibilita-sito-web/">Accessibilità del sito web</a></div></div></section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="/servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="/servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="/servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="/servizi/google-ads/">Google Ads</a></li>
+        <li><a href="/servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="/servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="/servizi/software-automazioni/">Software &amp; automazioni</a></li>
+        <li><a href="/servizi/">Tutti i servizi</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+      
+        <li><a href="../../software-per-pmi/">Software per PMI</a></li>
+        <li><a href="../../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/#settori">Per chi lavoriamo</a></li>
+        <li><a href="/#lavori">Esempi di progetti</a></li>
+        <li><a href="/#processo">Il nostro metodo</a></li>
+        <li><a href="/chi-siamo/">Chi siamo</a></li>
+        <li><a href="/#contatti">Contatti</a></li>
+      
+        <li><a href="../../glossario/">Glossario</a></li>
+      </ul></div>
+      <div id="fcZone"><h5>Dove operiamo</h5><ul>
+        <li><a href="/gestionali-su-misura-veneto/">Veneto</a></li>
+        <li><a href="/gestionali-su-misura-treviso/">Treviso</a></li>
+        <li><a href="/gestionali-su-misura-pordenone/">Pordenone</a></li>
+        <li><a href="/gestionali-su-misura-venezia-mestre/">Venezia e Mestre</a></li>
+        
+        <li><a href="/realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="/realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="/realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="/realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li class="f-italia"><b>Resto d’Italia</b>Ovunque ti trovi, ti seguiamo da remoto con la stessa assistenza.</li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="/assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>

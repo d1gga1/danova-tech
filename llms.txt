@@ -6,6 +6,12 @@
 > campagne Google Ads e Meta Ads. Lavora in italiano, inglese, tedesco, francese
 > e spagnolo.
 
+## Testo integrale
+
+- **Contenuto completo del sito in testo semplice**: https://danova-tech.com/llms-full.txt
+- **Feed RSS di guide e lavori**: https://danova-tech.com/feed.xml
+- **Sitemap**: https://danova-tech.com/sitemap.xml
+
 ## Identità
 
 - **Nome**: Danova Tech
@@ -187,8 +193,42 @@ posizionamento locale.
   recensioni, i cinque errori che tengono un'attività fuori dal blocco mappa.
   https://danova-tech.com/guide/google-business-profile-guida/
 
+- Transizione 5.0 nel 2026: cosa è finito e cosa c'è al suo posto — la misura
+  legata al risparmio energetico ha chiuso; dal 2026 c'è l'iperammortamento
+  (legge 199/2025, art. 1 commi 427-436), maggiorazione +180/+100/+50% a
+  scaglioni, senza obbligo di risparmio energetico, con comunicazioni al GSE e
+  completamento entro il 31 dicembre 2028. Include quale software rientra fra i
+  beni immateriali 4.0 (MES, SCADA, PLM, PDM, IoT di fabbrica) e quale no (siti,
+  e-commerce, gestionali amministrativi, CRM commerciali).
+  https://danova-tech.com/guide/transizione-5-0/
+- Accessibilità del sito: cosa è diventato obbligatorio e per chi — European
+  Accessibility Act, direttiva UE 2019/882 recepita con il d.lgs. 82/2022,
+  applicazione dal 28 giugno 2025; perimetro dei servizi obbligati, esenzione
+  microimprese (meno di 10 dipendenti e fatturato sotto i 2 milioni), standard
+  EN 301 549 / WCAG 2.1 AA, vigilanza AgID, sanzioni art. 24 da 5.000 a 40.000
+  euro. Spiega anche perché gli overlay di accessibilità non mettono a norma.
+  https://danova-tech.com/guide/accessibilita-sito-web/
+- Velocità del sito: cosa misura Google davvero — i tre Core Web Vitals (LCP
+  entro 2,5 s, INP entro 200 ms, CLS sotto 0,1), differenza fra dati di campo al
+  75° percentile su 28 giorni e test di laboratorio, perché il punteggio di
+  PageSpeed non è il segnale di ranking, cause ricorrenti e ordine degli
+  interventi. https://danova-tech.com/guide/velocita-sito-web-core-web-vitals/
+- Glossario del web e del software — cinquanta definizioni brevi in italiano dei
+  termini che ricorrono nei preventivi digitali, divise in sviluppo, SEO,
+  e-commerce, gestionali e pubblicità online.
+  https://danova-tech.com/glossario/
+
 ## Software su misura e gestionali (mercato italiano)
 
+- Software per PMI — perché i software pensati per le grandi aziende non
+  funzionano nelle piccole, cosa si costruisce davvero per un'azienda da 5 a 50
+  persone (gestionale su misura, CRM, automazioni, portali, cruscotti) e quando
+  conviene invece comprare da catalogo.
+  https://danova-tech.com/software-per-pmi/
+- Digitalizzazione aziendale — da quali processi conviene partire (quelli in cui
+  si ricopiano dati a mano), quali rimandare, come si struttura il progetto a
+  blocchi e come si capisce se si sta ripagando.
+  https://danova-tech.com/digitalizzazione-aziendale/
 - Software house — cosa fa una software house, come si sceglie (cinque domande
   su sorgente, dati, manutenzione, preventivo a corpo, referenze) e quando NON
   serve il su misura. https://danova-tech.com/software-house/
