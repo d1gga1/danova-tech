@@ -43,14 +43,14 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 <meta name="twitter:description" content="Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.">
 <meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
 
-<link rel="icon" type="image/png" href="/assets/img/logo.png">
-<link rel="apple-touch-icon" href="/assets/img/logo.png">
-<link rel="manifest" href="/site.webmanifest">
+<link rel="icon" type="image/png" href="../../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../../assets/img/logo.png">
+<link rel="manifest" href="../../site.webmanifest">
 <link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
-<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/sora-latin.woff2" crossorigin>
-<link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-latin.woff2" crossorigin>
-<link rel="stylesheet" href="/assets/css/fonts.css">
-<link rel="stylesheet" href="/assets/css/site.css">
+<link rel="preload" as="font" type="font/woff2" href="../../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="../../assets/css/fonts.css">
+<link rel="stylesheet" href="../../assets/css/site.css">
 
 <script type="application/ld+json">
 {
@@ -327,7 +327,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 <section id="esempio"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Caso reale</div><h2 class="title" data-rv="up">Un esempio concreto: questo sito</h2></div><div class="pg-testo" data-rv="up"><p>Vale la pena raccontarlo perché è il caso più istruttivo che abbiamo sottomano. La homepage di questo sito è multilingua e, per farla leggere ai motori di ricerca senza eseguire JavaScript, i testi sono presenti nell'HTML in forma statica. Il dizionario con le cinque lingue viveva però <i>dentro</i> la stessa pagina: circa 135 KB di testo che ogni visitatore scaricava per intero, per poi usarne un quinto.</p><p>La correzione è stata banale una volta vista: dizionario fuori dalla pagina, un file per lingua, la pagina carica solo il proprio e le altre lingue arrivano in sottofondo quando il browser è libero. L'HTML della homepage è passato da circa 325 a 154 KB, e la parte più pesante è uscita dal percorso critico.</p><p>La lezione non è tecnica, è di metodo: il problema non si vedeva nel punteggio e non si vedeva nel design. Si vedeva solo guardando cosa il browser doveva leggere prima di poter disegnare qualcosa. È lì che si trovano quasi sempre i secondi veri.</p></div></div></section>
 <section id="come"><div class="wrap"><div class="sec-head"><div class="eyebrow mono" data-scramble>Metodo</div><h2 class="title" data-rv="up">Da dove si comincia</h2></div><div class="pg-testo" data-rv="up"><ul><li><b>Guardate il rapporto Segnali web essenziali in Search Console</b>, non il punteggio del test. Raggruppa gli indirizzi per tipo di problema e vi dice quali modelli di pagina sono messi male, che è l'informazione utile.</li><li><b>Cominciate dall'immagine di apertura.</b> Formato moderno, dimensione giusta, precaricata, mai in lazy load. Da sola sistema una buona parte degli LCP fuori soglia.</li><li><b>Poi togliete, non aggiungete.</b> Ogni script di terze parti va giustificato. Il criterio: se domani sparisse, qualcuno se ne accorgerebbe?</li><li><b>Misurate di nuovo dopo 28 giorni.</b> I dati di campo si muovono su una finestra mobile: un intervento fatto oggi si vede completamente solo un mese dopo. Chi vi mostra il miglioramento il giorno stesso vi sta mostrando il laboratorio.</li></ul><p>E una cosa da non fare: inseguire il 100. Gli ultimi punti costano sproporzionatamente e non li vede nessun visitatore. Verde su tutti e tre i Core Web Vitals nei dati di campo è il traguardo; il resto è vanità.</p></div></div></section>
 <section id="faq"><div class="wrap"><div class="sec-head"><h2 class="title">Domande frequenti</h2></div><div class="faq"><details><summary>Quali sono le soglie dei Core Web Vitals?<span class="pm"></span></summary><div class="ans"><p>LCP entro 2,5 secondi, INP entro 200 millisecondi, CLS sotto 0,1. Una pagina è considerata buona se rispetta tutte e tre le soglie al 75° percentile dei visitatori reali, cioè per tre utenti su quattro.</p></div></details><details><summary>Il punteggio di PageSpeed Insights conta per il posizionamento?<span class="pm"></span></summary><div class="ans"><p>No. Il punteggio da 0 a 100 viene da un test di laboratorio simulato ed è uno strumento diagnostico. Google usa i dati di campo raccolti dai browser Chrome dei visitatori reali negli ultimi 28 giorni.</p></div></details><details><summary>Che differenza c'è fra INP e il vecchio FID?<span class="pm"></span></summary><div class="ans"><p>Il FID misurava solo il ritardo della prima interazione, l'INP misura il tempo che passa fra una qualsiasi interazione e l'aggiornamento dello schermo, su tutta la visita. L'INP ha sostituito il FID come Core Web Vital nel marzo 2024 ed è una metrica sensibilmente più severa.</p></div></details><details><summary>Migliorare la velocità mi fa salire su Google?<span class="pm"></span></summary><div class="ans"><p>Da solo quasi mai. I Core Web Vitals sono un fattore di ranking dichiarato ma debole, che agisce a parità di pertinenza del contenuto. L'effetto più solido della velocità si vede sulla conversione, non sulla posizione.</p></div></details><details><summary>Il mio sito non mostra i dati di campo: perché?<span class="pm"></span></summary><div class="ans"><p>Perché non ha abbastanza traffico da Chrome per produrre un campione statistico. In quel caso restano i dati di laboratorio, che indicano dove intervenire ma non corrispondono a quello che Google misura.</p></div></details><details><summary>Quanto tempo serve per vedere un miglioramento?<span class="pm"></span></summary><div class="ans"><p>I dati di campo usano una finestra mobile di 28 giorni, quindi l'effetto pieno di un intervento si legge circa un mese dopo la pubblicazione. Nel test di laboratorio si vede subito, ma è un'altra misura.</p></div></details></div></div></section>
-<section><div class="wrap"><div class="sec-head"><h2 class="title">Pagine collegate</h2></div><div class="pg-altri"><a href="/guide/">Tutte le guide</a><a href="/guide/rifare-sito-senza-perdere-posizioni/">Rifare il sito senza perdere posizioni</a><a href="/consulente-seo/">Consulente SEO</a><a href="/restyling-sito-web/">Restyling del sito web</a><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a><a href="/guide/accessibilita-sito-web/">Accessibilità del sito web</a></div></div></section>
+<section><div class="wrap"><div class="sec-head"><h2 class="title">Pagine collegate</h2></div><div class="pg-altri"><a href="/guide/">Tutte le guide</a><a href="/guide/rifare-sito-senza-perdere-posizioni/">Rifare il sito senza perdere posizioni</a><a href="/consulente-seo/">Consulente SEO</a><a href="/restyling-sito-web/">Restyling del sito web</a><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a><a href="/guide/accessibilita-sito-web/">Accessibilità del sito web</a>
+      <a href="/migrazione-ecommerce/">Migrazione e-commerce</a>
+    
+      <a href="/seo-per-ecommerce/">SEO per e-commerce</a>
+    </div></div></section>
 </main>
 
 <footer>
@@ -355,15 +359,29 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="/crm-aziendale/">CRM aziendale</a></li>
         <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
         <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
       
         <li><a href="../../software-per-pmi/">Software per PMI</a></li>
         <li><a href="../../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+      
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
       </ul></div>
       <div><h5>Web</h5><ul>
         <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
         <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
         <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
         <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
         <li><a href="/lavori/">Lavori realizzati</a></li>
       </ul></div>
       <div><h5>Agenzia</h5><ul>
@@ -386,6 +404,11 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="/realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
         <li><a href="/realizzazione-siti-web-udine/">Siti web a Udine</a></li>
         <li class="f-italia"><b>Resto d’Italia</b>Ovunque ti trovi, ti seguiamo da remoto con la stessa assistenza.</li>
+      
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
       </ul></div>
       <div><h5>Contatti</h5><ul>
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>

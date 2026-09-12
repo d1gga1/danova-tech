@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>App magazzino con codici a barre | Danova Tech</title>
+<meta name="description" content="App su misura per il magazzino: carichi, prelievi, inventario e spedizioni con lettura del codice a barre dal telefono. Collegata al gestionale.">
+<link rel="canonical" href="https://danova-tech.com/app-magazzino-codici-a-barre/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/app-magazzino-codici-a-barre/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-magazzino-codici-a-barre/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/app-magazzino-codici-a-barre/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="App magazzino con codici a barre — Danova Tech">
+<meta property="og:description" content="Carichi, prelievi e inventario letti dal codice a barre, anche con il telefono.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="App magazzino con codici a barre — Danova Tech">
+<meta name="twitter:description" content="Carichi, prelievi e inventario letti dal codice a barre, anche con il telefono.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+
+<link rel="icon" type="image/png" href="../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/app-magazzino-codici-a-barre/#service",
+      "name": "App di magazzino con lettura codici a barre",
+      "serviceType": "Sviluppo di app su misura per movimentazione di magazzino con codici a barre e QR",
+      "description": "App su misura per il magazzino: carichi, prelievi, inventario e spedizioni con lettura del codice a barre dal telefono. Collegata al gestionale.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "App di magazzino con lettura codici a barre",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Carico merce e controllo bolla"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Prelievi guidati per ordine"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Inventario rotativo"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Spedizioni e imballi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ubicazioni e trasferimenti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Collegamento al gestionale"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/app-magazzino-codici-a-barre/#webpage",
+      "url": "https://danova-tech.com/app-magazzino-codici-a-barre/",
+      "name": "App magazzino con codici a barre | Danova Tech",
+      "description": "App su misura per il magazzino: carichi, prelievi, inventario e spedizioni con lettura del codice a barre dal telefono. Collegata al gestionale.",
+      "inLanguage": "it",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/app-magazzino-codici-a-barre/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/app-magazzino-codici-a-barre/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "App su misura",
+          "item": "https://danova-tech.com/servizi/app-su-misura/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "App magazzino con codici a barre",
+          "item": "https://danova-tech.com/app-magazzino-codici-a-barre/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/app-magazzino-codici-a-barre/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Funziona con i telefoni che abbiamo già?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nella maggior parte dei casi sì, e conviene partire così. La fotocamera di un telefono Android recente legge codici a barre e QR in modo affidabile per volumi normali. Il passaggio a terminali dedicati si valuta dopo, con i numeri veri alla mano invece che in preventivo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si collega al gestionale che usiamo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È la parte da verificare per prima. Nella maggior parte dei casi articoli, giacenze e ordini si leggono dal gestionale e i movimenti tornano dentro. Se il vostro gestionale non espone nessun canale, lo diciamo subito: le alternative esistono, ma cambiano il preventivo e vanno decise prima di iniziare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un'app di magazzino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La prima tappa su una singola operazione sta in genere nella fascia media delle quattro cifre. Il costo cresce con il numero di operazioni coperte e con la profondità dell'integrazione, non con il numero di magazzinieri. Cifra dopo il sopralluogo, poi fissa per tappa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I nostri articoli non hanno codici a barre.",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si stampano. Si generano etichette con QR dal gestionale e si applicano agli articoli o alle ubicazioni: costa pochi centesimi per etichetta e i QR si leggono anche se sporchi o piegati. È un lavoro di qualche giornata, una volta sola."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Funziona senza connessione nel magazzino?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. L'app tiene la lista di lavoro sul telefono e allinea i movimenti quando ritrova la rete. Nei magazzini con copertura a macchie è un requisito, non un extra, e va detto in analisi perché cambia come si costruisce l'app."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="/" class="brand" data-mag><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="/#servizi">Servizi</a>
+      <a href="/#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="/#processo">Processo</a>
+      <a href="/#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="/#servizi">Servizi</a>
+  <a href="/#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="/#processo">Processo</a>
+  <a href="/#contatti">Contatti</a>
+</nav>
+
+<main id="main">
+<div class="wrap pg-crumbs">
+  <a href="/">Home</a><em>/</em><a href="/servizi/app-su-misura/">App su misura</a><em>/</em>App magazzino con codici a barre
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>Magazzino</div>
+    <h1 data-rv="up">App magazzino con <span class="grad">codici a barre</span>.</h1>
+    <p class="lead" data-rv="up">Il magazzino a memoria funziona finché ci lavora sempre la stessa persona. Poi arriva agosto, la persona è in ferie, e si scopre che le giacenze a sistema e quelle sugli scaffali non si somigliano. L'inventario di fine anno serve a scoprirlo, non a evitarlo.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Chiedi un preventivo</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#cosa" class="btn btn-g" data-mag><span class="lbl">Come funziona</span></a>
+    </div>
+  </div>
+</section>
+
+<section id="cosa">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 class="title" data-rv="up">Cosa fa l'app</h2>
+      <p class="lead" data-rv="up">Quattro operazioni, tutte con la stessa regola: si legge, non si scrive.</p>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Carico e controllo bolla</h3>
+        <p>Si legge il codice dell'articolo e si confronta con l'ordine al fornitore: quantità diverse, articoli non richiesti e mancanti vengono segnalati mentre il camion è ancora in cortile.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Prelievi guidati</h3>
+        <p>L'app dice cosa prendere e da dove, nell'ordine più corto del giro. Ogni riga si conferma leggendo il codice: il pezzo sbagliato non passa.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Inventario rotativo</h3>
+        <p>Poche ubicazioni al giorno invece di due giorni di fermo a dicembre. Le differenze si vedono quando sono ancora ricostruibili.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Spedizione e imballo</h3>
+        <p>Colli, pesi, contenuto di ciascuno e etichetta stampata dai dati veri. Se il cliente contesta, si sa cosa c'era in quale collo.</p>
+      </article>
+    </div>
+  </div>
+</section>
+<section id="errori">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Dove si recupera di piu</div>
+      <h2 class="title" data-rv="up">Un errore di spedizione costa <span class="grad">molto più del pezzo</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Il conto di un articolo sbagliato in spedizione non è il valore dell'articolo: è il trasporto andata e ritorno, il tempo dell'ufficio, la sostituzione urgente, e una parte di credibilità con un cliente che magari valeva un ordine all'anno. Nelle aziende che li contano, gli errori di prelievo si mangiano una percentuale di margine che sorprende sempre.</p>
+      <p>La lettura del codice a barre elimina quasi tutta quella categoria di errori, e non perché il magazziniere sia distratto: perché a mano, su cento righe, la distrazione è statistica. Il lettore non è un controllo sulle persone, è un controllo sui numeri.</p>
+      <p>Il secondo recupero è l'affidabilità della giacenza, che serve fuori dal magazzino: un e-commerce che mostra disponibilità vere, un commerciale che promette date che si rispettano, un ufficio acquisti che non compra quello che c'è già in uno scaffale in fondo.</p>
+    </div>
+    <ul class="pg-lista" data-rv="up">
+      <li><b>Si legge, non si digita.</b> Ogni movimento nasce da una lettura: l'articolo è certo e la quantità è verificata.</li>
+      <li><b>Ubicazioni, anche semplici.</b> Non serve una logistica sofisticata: corsia e scaffale bastano a dimezzare i tempi di ricerca.</li>
+      <li><b>Inventario a piccoli pezzi.</b> Il conteggio rotativo trova gli errori entro pochi giorni dal momento in cui sono nati.</li>
+      <li><b>Giacenza affidabile anche fuori.</b> È la condizione perché sito, agenti e produzione possano fidarsi dei numeri.</li>
+    </ul>
+  </div>
+</section>
+<section id="misura">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Cosa serve davvero</div>
+      <h2 class="title" data-rv="up">Il telefono basta più spesso di quanto dicono</h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>La prima domanda che ci fanno è quale terminale comprare. La risposta onesta è che in molti magazzini si può partire con i telefoni Android che ci sono già: la fotocamera legge i codici a barre abbastanza bene, e se il volume di letture è moderato non serve altro. Se invece si leggono migliaia di righe al giorno o si lavora in cella frigorifera, allora un terminale con laser e batteria seria si ripaga in poche settimane.</p>
+      <p>Il consiglio pratico è partire con il telefono su una sola operazione, di norma i prelievi, misurare cosa cambia e comprare hardware solo dopo. Abbiamo visto più progetti fermarsi per aver comprato venti terminali prima di sapere se il processo funzionava che per qualsiasi altro motivo.</p>
+      <p>Se gli articoli non hanno un codice a barre stampato, non è un problema: si etichetta con QR generati dal gestionale, che costano zero e si leggono anche se rovinati a metà. Vale anche per le ubicazioni degli scaffali.</p>
+    </div>
+  </div>
+</section>
+<section id="metodo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Come lavoriamo</div>
+      <h2 class="title" data-rv="up">A tappe,<br>con <span class="grad">prezzi fissi.</span></h2>
+      <p class="lead" data-rv="up">Un'operazione alla volta, partendo da quella che fa più danni oggi.</p>
+    </div>
+    <ol class="pg-passi" data-rv="up">
+      <li><b>Mezza giornata in magazzino</b><span>Si segue un ordine dal prelievo alla spedizione e un carico dall'arrivo allo scaffale. Il giro reale racconta più di qualsiasi schema.</span></li>
+      <li><b>Taglio e preventivo</b><span>Tappe a prezzo fisso. Di solito prima i prelievi, poi carico e inventario, poi spedizioni.</span></li>
+      <li><b>Prima tappa in uso</b><span>Tre-cinque settimane. Si parte con un magazziniere e un telefono, su una zona sola.</span></li>
+      <li><b>Estensione</b><span>Altre operazioni, altre postazioni, e solo a questo punto l'eventuale acquisto di terminali dedicati.</span></li>
+      <li><b>Consegna</b><span>Sorgente, documentazione e accessi vostri. Assistenza a richiesta.</span></li>
+    </ol>
+  </div>
+</section>
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Domande frequenti</div>
+      <h2 class="title" data-rv="up">Le risposte che <span class="grad">servono davvero.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Funziona con i telefoni che abbiamo già?<span class="pm"></span></summary>
+        <div class="ans"><p>Nella maggior parte dei casi sì, e conviene partire così. La fotocamera di un telefono Android recente legge codici a barre e QR in modo affidabile per volumi normali. Il passaggio a terminali dedicati si valuta dopo, con i numeri veri alla mano invece che in preventivo.</p></div></details>
+      <details data-rv="up"><summary>Si collega al gestionale che usiamo?<span class="pm"></span></summary>
+        <div class="ans"><p>È la parte da verificare per prima. Nella maggior parte dei casi articoli, giacenze e ordini si leggono dal gestionale e i movimenti tornano dentro. Se il vostro gestionale non espone nessun canale, lo diciamo subito: le alternative esistono, ma cambiano il preventivo e vanno decise prima di iniziare.</p></div></details>
+      <details data-rv="up"><summary>Quanto costa un'app di magazzino?<span class="pm"></span></summary>
+        <div class="ans"><p>La prima tappa su una singola operazione sta in genere nella fascia media delle quattro cifre. Il costo cresce con il numero di operazioni coperte e con la profondità dell'integrazione, non con il numero di magazzinieri. Cifra dopo il sopralluogo, poi fissa per tappa.</p></div></details>
+      <details data-rv="up"><summary>I nostri articoli non hanno codici a barre.<span class="pm"></span></summary>
+        <div class="ans"><p>Si stampano. Si generano etichette con QR dal gestionale e si applicano agli articoli o alle ubicazioni: costa pochi centesimi per etichetta e i QR si leggono anche se sporchi o piegati. È un lavoro di qualche giornata, una volta sola.</p></div></details>
+      <details data-rv="up"><summary>Funziona senza connessione nel magazzino?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì. L'app tiene la lista di lavoro sul telefono e allinea i movimenti quando ritrova la rete. Nei magazzini con copertura a macchie è un requisito, non un extra, e va detto in analisi perché cambia come si costruisce l'app.</p></div></details>
+    </div>
+  </div>
+</section>
+<section id="varianti">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Come la cercate</div>
+      <h2 class="title" data-rv="up">App per magazzino e <span class="grad">inventario con il telefono</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>App magazzino, app per magazzino, app inventario magazzino, app picking, app carico scarico merce, inventario con smartphone: le formulazioni cambiano con l'operazione che vi sta dando problemi, e conviene partire proprio da quella invece che dall'app in generale.</p>
+      <p>Se il problema sono gli errori di spedizione, l'operazione da coprire per prima è il prelievo guidato. Se il problema è che le giacenze non corrispondono, si parte dall'inventario rotativo e dal carico. Se il problema è che nessuno sa dove sta la merce, si parte dalle ubicazioni. Sono tre tappe dello stesso progetto ma ordinate al contrario l'una dell'altra, e sbagliare l'ordine significa spendere bene i soldi sulla cosa sbagliata.</p>
+      <p>La domanda sul terminale viene sempre subito, e la risposta è che nella maggior parte dei magazzini italiani si può partire con i telefoni Android che ci sono già: la fotocamera legge codici a barre e QR in modo affidabile per volumi normali. I terminali dedicati si comprano dopo, con i numeri veri alla mano, e non prima in preventivo.</p>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Pagine collegate</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/software-gestionale-magazzino/">Gestionale di magazzino</a>
+      <a href="/servizi/app-su-misura/">App su misura</a>
+      <a href="/software-gestionale-agroalimentare/">Gestionale agroalimentare e tracciabilità</a>
+      <a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a>
+      <a href="/software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a>
+      <a href="/app-rapportini-di-lavoro/">App rapportini di lavoro</a>
+      <a href="/integrazione-software-aziendali/">Integrazione software aziendali</a>
+    
+      <a href="/software-gestione-flotte/">Software gestione flotte</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="/servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="/servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="/servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="/servizi/google-ads/">Google Ads</a></li>
+        <li><a href="/servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="/servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="/servizi/software-automazioni/">Software &amp; automazioni</a></li>
+      </ul></div>
+      <div><h5>Siti web</h5><ul>
+        <li><a href="/realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="/realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="/realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
+        <li><a href="/realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
+        <li><a href="/quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+        <li><a href="/realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="/realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="/realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="/realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="/guide/">Guide e approfondimenti</a></li>
+      </ul></div>
+      <div><h5>Gestionali</h5><ul>
+        <li><a href="/gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="/gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
+        <li><a href="/software-gestionale-produzione/">Gestionale per la produzione</a></li>
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="/software-gestionale-magazzino/">Gestionale di magazzino</a></li>
+        <li><a href="/quanto-costa-un-gestionale/">Quanto costa un gestionale</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
+        <li><a href="/software-per-pmi/">Software per PMI</a></li>
+        <li><a href="/digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+      
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/#settori">Per chi lavoriamo</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="/#processo">Il nostro metodo</a></li>
+        <li><a href="/chi-siamo/">Chi siamo</a></li>
+        <li><a href="/servizi/">Tutti i servizi</a></li>
+        <li><a href="/#contatti">Contatti</a></li>
+        <li><a href="/glossario/">Glossario</a></li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>

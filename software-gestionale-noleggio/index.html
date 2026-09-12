@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Software gestionale per noleggio su misura | Danova Tech</title>
+<meta name="description" content="Gestionale per noleggio attrezzature e veicoli: disponibilita, contratti, consegne e rientri, manutenzioni e fatturazione ricorrente. Su misura.">
+<link rel="canonical" href="https://danova-tech.com/software-gestionale-noleggio/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/software-gestionale-noleggio/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/software-gestionale-noleggio/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/software-gestionale-noleggio/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Gestionale per il noleggio — Danova Tech">
+<meta property="og:description" content="Disponibilita, contratti, rientri e manutenzioni in un unico posto. Su misura, prezzo fisso per tappa.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Gestionale per il noleggio — Danova Tech">
+<meta name="twitter:description" content="Disponibilita, contratti, rientri e manutenzioni in un unico posto. Su misura, prezzo fisso per tappa.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+
+<link rel="icon" type="image/png" href="../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/software-gestionale-noleggio/#service",
+      "name": "Gestionale per aziende di noleggio",
+      "serviceType": "Sviluppo di software gestionale su misura per noleggio di attrezzature, mezzi e veicoli",
+      "description": "Gestionale per noleggio attrezzature e veicoli: disponibilita, contratti, consegne e rientri, manutenzioni e fatturazione ricorrente. Su misura.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Gestionale per aziende di noleggio",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Disponibilita e planning del parco"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Contratti e preventivi di noleggio"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Consegne, rientri e stato del mezzo"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Manutenzioni e revisioni programmate"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Fatturazione ricorrente e conguagli"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Redditivita per mezzo"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/software-gestionale-noleggio/#webpage",
+      "url": "https://danova-tech.com/software-gestionale-noleggio/",
+      "name": "Software gestionale per noleggio su misura | Danova Tech",
+      "description": "Gestionale per noleggio attrezzature e veicoli: disponibilita, contratti, consegne e rientri, manutenzioni e fatturazione ricorrente. Su misura.",
+      "inLanguage": "it",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/software-gestionale-noleggio/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/software-gestionale-noleggio/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gestionale noleggio",
+          "item": "https://danova-tech.com/software-gestionale-noleggio/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/software-gestionale-noleggio/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Funziona per noleggio con operatore e a freddo insieme?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, ma sono due modelli di prezzo diversi e vanno progettati entrambi: il noleggio a caldo porta dentro le ore dell'operatore, le trasferte e i tempi morti, quello a freddo si basa su durata e franchigie. Averli nello stesso sistema serve a capire quale dei due rende di più, che è una domanda che molte aziende non hanno mai potuto porsi."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un gestionale per il noleggio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La prima tappa in produzione parte in genere dalla fascia medio-alta delle quattro cifre. Il fattore che pesa più di tutti è la complessità del listino: se le tariffe sono semplici, la tappa è corta. Cifra dopo il sopralluogo, poi fissa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I clienti possono prenotare da soli?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Si può fare, e in alcuni settori funziona bene: un'area riservata dove il cliente abituale vede la disponibilità e manda una richiesta, che resta da confermare da voi. Il consiglio è arrivarci come tappa successiva, quando la disponibilità interna è già affidabile: un portale che mostra dati sbagliati fa più danno che bene."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Gestisce i mezzi a ore motore e quelli a chilometri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, entrambi, e anche i mezzi che li usano tutti e due. Le manutenzioni si legano al contatore giusto, e il conguaglio sulle ore oltre la soglia si calcola dalla lettura registrata al rientro, con la foto del contatore come prova."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si collega alla fatturazione elettronica?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. Il contratto chiuso o il canone del mese diventano una proposta di fattura nel programma che già usate, e da lì parte l'invio a SDI. Il gestionale di noleggio non fa il commercialista: prepara i dati corretti e smette."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="/" class="brand" data-mag><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="/#servizi">Servizi</a>
+      <a href="/#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="/#processo">Processo</a>
+      <a href="/#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="/#servizi">Servizi</a>
+  <a href="/#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="/#processo">Processo</a>
+  <a href="/#contatti">Contatti</a>
+</nav>
+
+<main id="main">
+<div class="wrap pg-crumbs">
+  <a href="/">Home</a><em>/</em><a href="/servizi/gestionali-crm/">Gestionali & CRM</a><em>/</em>Gestionale noleggio
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>Noleggio</div>
+    <h1 data-rv="up">Gestionale per il <span class="grad">noleggio</span>.</h1>
+    <p class="lead" data-rv="up">Attrezzature, macchine operatrici, veicoli, ponteggi: nel noleggio il fatturato dipende da una domanda che arriva al telefono dieci volte al giorno, e cioè se quel mezzo è libero da giovedì. Se la risposta sta su un calendario di carta o nella testa di una persona, si dice no a lavori che si potevano prendere.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Chiedi un preventivo</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#cosa" class="btn btn-g" data-mag><span class="lbl">Cosa gestisce</span></a>
+    </div>
+  </div>
+</section>
+
+<section id="cosa">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2 class="title" data-rv="up">Cosa gestisce</h2>
+      <p class="lead" data-rv="up">Il ciclo di un mezzo che esce e rientra, ripetuto centinaia di volte l'anno.</p>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Disponibilità e planning</h3>
+        <p>Un calendario per mezzo e per categoria con impegnato, prenotato e in manutenzione. Chi risponde al telefono vede in due secondi cosa c'è di libero e cosa si può proporre in alternativa.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Contratti e tariffe</h3>
+        <p>Preventivo e contratto con tariffe a giorno, settimana e mese, franchigie, trasporto, assicurazione e cauzione. Con le condizioni che cambiano per cliente, perché cambiano sempre.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Consegna e rientro</h3>
+        <p>Stato del mezzo all'uscita e al rientro con foto, ore o chilometri, carburante e danni rilevati. È la parte che evita le discussioni, perché la prova c'è.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Manutenzioni e scadenze</h3>
+        <p>Tagliandi a ore motore, revisioni, verifiche periodiche obbligatorie. Un mezzo fermo per una scadenza dimenticata è fatturato perso due volte.</p>
+      </article>
+    </div>
+  </div>
+</section>
+<section id="utilizzo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Dove si recupera di piu</div>
+      <h2 class="title" data-rv="up">Il numero che manca è <span class="grad">quanto rende ogni mezzo</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Nel noleggio il conto si fa per mezzo, e quasi nessuno lo fa. Un mezzo che gira il 70% dei giorni disponibili e uno che gira il 25% stanno nello stesso bilancio, e il secondo si nota solo quando qualcuno propone di comprarne un altro uguale. Il tasso di utilizzo per mezzo e per categoria è il dato che cambia le decisioni d'acquisto, e uscirne significa smettere di immobilizzare capitale in ferro fermo.</p>
+      <p>Accanto all'utilizzo va messo il costo: manutenzioni, riparazioni, trasporti e danni non addebitati. Un mezzo molto noleggiato che consuma tutto in officina non è un buon mezzo, ed è una scoperta che si fa solo se i costi sono imputati alla matricola.</p>
+      <p>La terza cosa che si recupera è meno strategica e più immediata: gli addebiti che si perdono. Carburante non reintegrato, ore in più, ritardi nel rientro, piccoli danni. Con lo stato registrato in consegna e in rientro, quelle voci si fatturano senza litigare con nessuno.</p>
+    </div>
+    <ul class="pg-lista" data-rv="up">
+      <li><b>Utilizzo per mezzo e per categoria.</b> Il dato che dice cosa comprare, cosa vendere e su cosa alzare la tariffa.</li>
+      <li><b>Costi imputati alla matricola.</b> Manutenzioni, ricambi, trasporti e danni sul singolo mezzo, non in un totale di reparto.</li>
+      <li><b>Stato documentato all'uscita e al rientro.</b> Foto e firma sul posto: le contestazioni si chiudono prima di iniziare.</li>
+      <li><b>Scadenze tecniche che avvisano.</b> Revisioni e verifiche periodiche legate alle ore reali, non a una data teorica.</li>
+    </ul>
+  </div>
+</section>
+<section id="misura">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Perche su misura</div>
+      <h2 class="title" data-rv="up">Le tariffe del noleggio non stanno in un modulo standard</h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>I prodotti per il noleggio esistono, in genere tarati sul noleggio auto o sull'edilizia leggera. Vanno stretti appena le vostre condizioni si complicano: scaglioni di durata che si sovrappongono, mezzi che escono in composizione con accessori, trasporto calcolato a distanza, contratti con canone minimo garantito e conguaglio a ore, cauzioni gestite in modo diverso per tipo di cliente.</p>
+      <p>Quando il programma non sa rappresentare la tariffa, l'ufficio la calcola a mano su un foglio e la ricopia dentro. A quel punto il gestionale registra, ma non controlla più niente, e il prezzo dipende da chi è di turno.</p>
+      <p>Il su misura ha senso per questo: mettere la vostra regola di prezzo dentro il sistema. Se invece noleggiate poche categorie con tariffe semplici, un prodotto pronto costa meno e parte subito, e lo diciamo.</p>
+    </div>
+  </div>
+</section>
+<section id="metodo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Come lavoriamo</div>
+      <h2 class="title" data-rv="up">A tappe,<br>con <span class="grad">prezzi fissi.</span></h2>
+      <p class="lead" data-rv="up">Prima tappa: disponibilità e contratti. È quella che libera il telefono.</p>
+    </div>
+    <ol class="pg-passi" data-rv="up">
+      <li><b>Mezza giornata fra ufficio e piazzale</b><span>Ascoltiamo qualche telefonata vera e guardiamo come esce e rientra un mezzo. Il collo di bottiglia è quasi sempre lì.</span></li>
+      <li><b>Taglio e preventivo</b><span>Tappe a prezzo fisso. Prima disponibilità, preventivi e contratti; poi consegne, manutenzioni e conti.</span></li>
+      <li><b>Prima tappa in uso</b><span>Quattro-sei settimane. Formazione a chi risponde al telefono, che è la persona che decide se il progetto funziona.</span></li>
+      <li><b>Tappe successive</b><span>Stato del mezzo con foto, manutenzioni a ore, fatturazione ricorrente, redditività per matricola, area clienti.</span></li>
+      <li><b>Consegna</b><span>Sorgente, documentazione e accessi intestati a voi. Assistenza a richiesta.</span></li>
+    </ol>
+  </div>
+</section>
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Domande frequenti</div>
+      <h2 class="title" data-rv="up">Le risposte che <span class="grad">servono davvero.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Funziona per noleggio con operatore e a freddo insieme?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì, ma sono due modelli di prezzo diversi e vanno progettati entrambi: il noleggio a caldo porta dentro le ore dell'operatore, le trasferte e i tempi morti, quello a freddo si basa su durata e franchigie. Averli nello stesso sistema serve a capire quale dei due rende di più, che è una domanda che molte aziende non hanno mai potuto porsi.</p></div></details>
+      <details data-rv="up"><summary>Quanto costa un gestionale per il noleggio?<span class="pm"></span></summary>
+        <div class="ans"><p>La prima tappa in produzione parte in genere dalla fascia medio-alta delle quattro cifre. Il fattore che pesa più di tutti è la complessità del listino: se le tariffe sono semplici, la tappa è corta. Cifra dopo il sopralluogo, poi fissa.</p></div></details>
+      <details data-rv="up"><summary>I clienti possono prenotare da soli?<span class="pm"></span></summary>
+        <div class="ans"><p>Si può fare, e in alcuni settori funziona bene: un'area riservata dove il cliente abituale vede la disponibilità e manda una richiesta, che resta da confermare da voi. Il consiglio è arrivarci come tappa successiva, quando la disponibilità interna è già affidabile: un portale che mostra dati sbagliati fa più danno che bene.</p></div></details>
+      <details data-rv="up"><summary>Gestisce i mezzi a ore motore e quelli a chilometri?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì, entrambi, e anche i mezzi che li usano tutti e due. Le manutenzioni si legano al contatore giusto, e il conguaglio sulle ore oltre la soglia si calcola dalla lettura registrata al rientro, con la foto del contatore come prova.</p></div></details>
+      <details data-rv="up"><summary>Si collega alla fatturazione elettronica?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì. Il contratto chiuso o il canone del mese diventano una proposta di fattura nel programma che già usate, e da lì parte l'invio a SDI. Il gestionale di noleggio non fa il commercialista: prepara i dati corretti e smette.</p></div></details>
+    </div>
+  </div>
+</section>
+<section id="autonoleggio">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Un caso vicino</div>
+      <h2 class="title" data-rv="up">Software gestionale <span class="grad">autonoleggio</span> e parco mezzi</h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Chi noleggia veicoli cerca in genere software gestionale autonoleggio o gestionale autonoleggio, e il nucleo è lo stesso descritto in questa pagina: disponibilità, contratti, tariffe a giorno, settimana e mese, stato del mezzo in consegna e in rientro, conguagli sui chilometri oltre soglia, cauzioni.</p>
+      <p>Quello che cambia rispetto al noleggio di attrezzature è il peso della parte flotta: revisioni, tachigrafi, assicurazioni, bolli, manutenzioni a chilometri, consumi e costo per chilometro per targa. Se il vostro problema principale è quello — cioè tenere in ordine un parco mezzi, che lo noleggiate o lo usiate voi — la <a href="/software-gestione-flotte/">pagina dedicata al software gestione flotte</a> entra nel merito di scadenze, manutenzioni e costo per mezzo.</p>
+      <p>Nella pratica i due progetti si sovrappongono e si costruiscono insieme: prima l'anagrafica dei mezzi con documenti e scadenze, poi i contratti di noleggio, poi i costi per targa. Diviso così, ogni tappa è utilizzabile da sola.</p>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Pagine collegate</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a>
+      <a href="/software-gestionale-magazzino/">Gestionale di magazzino</a>
+      <a href="/gestionale-officina-meccanica/">Gestionale per officina meccanica</a>
+      <a href="/software-controllo-di-gestione/">Controllo di gestione</a>
+      <a href="/software-fatturazione-elettronica/">Software fatturazione elettronica</a>
+      <a href="/quanto-costa-un-gestionale/">Quanto costa un gestionale</a>
+      <a href="/servizi/gestionali-crm/">Gestionali e CRM su misura</a>
+    
+      <a href="/software-gestione-flotte/">Software gestione flotte</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="/servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="/servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="/servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="/servizi/google-ads/">Google Ads</a></li>
+        <li><a href="/servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="/servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="/servizi/software-automazioni/">Software &amp; automazioni</a></li>
+      </ul></div>
+      <div><h5>Siti web</h5><ul>
+        <li><a href="/realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="/realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="/realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
+        <li><a href="/realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
+        <li><a href="/quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+        <li><a href="/realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="/realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="/realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="/realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="/guide/">Guide e approfondimenti</a></li>
+      </ul></div>
+      <div><h5>Gestionali</h5><ul>
+        <li><a href="/gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="/gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
+        <li><a href="/software-gestionale-produzione/">Gestionale per la produzione</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="/software-gestionale-magazzino/">Gestionale di magazzino</a></li>
+        <li><a href="/quanto-costa-un-gestionale/">Quanto costa un gestionale</a></li>
+      
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-per-pmi/">Software per PMI</a></li>
+        <li><a href="/digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/#settori">Per chi lavoriamo</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="/#processo">Il nostro metodo</a></li>
+        <li><a href="/chi-siamo/">Chi siamo</a></li>
+        <li><a href="/servizi/">Tutti i servizi</a></li>
+        <li><a href="/#contatti">Contatti</a></li>
+        <li><a href="/glossario/">Glossario</a></li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>

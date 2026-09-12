@@ -5,9 +5,57 @@
     <link>https://danova-tech.com/</link>
     <description>Guide pratiche su siti web, SEO e software gestionali, e i lavori consegnati da Danova Tech, software house italiana con sede a Mansuè (Treviso).</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 -0000</lastBuildDate>
     <atom:link href="https://danova-tech.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://danova-tech.com/assets/img/logo.png</url><title>Danova Tech</title><link>https://danova-tech.com/</link></image>
+    <item>
+      <title>Come scegliere un gestionale: guida pratica</title>
+      <link>https://danova-tech.com/guide/come-scegliere-un-gestionale/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/come-scegliere-un-gestionale/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Come scegliere un gestionale per la vostra azienda: le domande da fare ai fornitori, i confronti da fare sui tre anni e gli errori che costano piu caro.</description>
+    </item>
+    <item>
+      <title>Gestionale in cloud o su server?</title>
+      <link>https://danova-tech.com/guide/gestionale-cloud-o-server/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/gestionale-cloud-o-server/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Gestionale in cloud o su un server in azienda: costi reali a tre anni, continuita, connessione, dati e i casi in cui ciascuna scelta e quella giusta.</description>
+    </item>
+    <item>
+      <title>Sostituire Excel con un gestionale</title>
+      <link>https://danova-tech.com/guide/sostituire-excel-con-un-gestionale/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/sostituire-excel-con-un-gestionale/</guid>
+      <category>Guide</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Quando un foglio di calcolo non basta piu: i segnali di allarme, cosa tenere in Excel, cosa spostare e come farlo senza bloccare l&#x27;azienda.</description>
+    </item>
+    <item>
+      <title>Artantiss: piattaforma editoriale su misura</title>
+      <link>https://danova-tech.com/lavori/artantiss/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/artantiss/</guid>
+      <category>Lavori</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio Artantiss: piattaforma editoriale italiana di ricerca, medicina, arte e benessere, con profili, feed e revisione editoriale. Sviluppata da Danova Tech.</description>
+    </item>
+    <item>
+      <title>GRG Performance: sito per officina moto</title>
+      <link>https://danova-tech.com/lavori/grg-performance/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/grg-performance/</guid>
+      <category>Lavori</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio GRG Performance: sito per officina moto di Fossalta di Portogruaro, concessionaria TM Moto, con banco prova, preparazione motori e team corse.</description>
+    </item>
+    <item>
+      <title>Oasi B&amp;B Ponza: caso studio</title>
+      <link>https://danova-tech.com/lavori/oasi-ponza/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/oasi-ponza/</guid>
+      <category>Lavori</category>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio Oasi B&amp;B Ponza: sito bilingue per un bed and breakfast a Santa Maria di Ponza, con richiesta di disponibilità e prenotazioni dirette.</description>
+    </item>
     <item>
       <title>Accessibilità del sito web: cosa dice la legge</title>
       <link>https://danova-tech.com/guide/accessibilita-sito-web/</link>
@@ -31,30 +79,6 @@
       <category>Guide</category>
       <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
       <description>Cosa misurano davvero LCP, INP e CLS, quali soglie usa Google, perché i dati di laboratorio ingannano e da dove si comincia per far scendere i tempi.</description>
-    </item>
-    <item>
-      <title>Artantiss: piattaforma editoriale su misura</title>
-      <link>https://danova-tech.com/lavori/artantiss/</link>
-      <guid isPermaLink="true">https://danova-tech.com/lavori/artantiss/</guid>
-      <category>Lavori</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
-      <description>Caso studio Artantiss: piattaforma editoriale italiana di ricerca, medicina, arte e benessere, con profili, feed e revisione editoriale. Sviluppata da Danova Tech.</description>
-    </item>
-    <item>
-      <title>GRG Performance: sito per officina moto</title>
-      <link>https://danova-tech.com/lavori/grg-performance/</link>
-      <guid isPermaLink="true">https://danova-tech.com/lavori/grg-performance/</guid>
-      <category>Lavori</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
-      <description>Caso studio GRG Performance: sito per officina moto di Fossalta di Portogruaro, concessionaria TM Moto, con banco prova, preparazione motori e team corse.</description>
-    </item>
-    <item>
-      <title>Oasi B&amp;B Ponza: il sito di un B&amp;B sull&#x27;isola</title>
-      <link>https://danova-tech.com/lavori/oasi-ponza/</link>
-      <guid isPermaLink="true">https://danova-tech.com/lavori/oasi-ponza/</guid>
-      <category>Lavori</category>
-      <pubDate>Fri, 11 Sep 2026 00:00:00 -0000</pubDate>
-      <description>Caso studio Oasi B&amp;B Ponza: sito bilingue per un bed and breakfast a Santa Maria di Ponza, con richiesta di disponibilità e prenotazioni dirette.</description>
     </item>
     <item>
       <title>Come scegliere un’agenzia web: 12 domande</title>
