@@ -819,3 +819,23 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 .sect-zone{color:inherit;text-decoration:none;display:block}
 .sect-zone .go{margin-top:15px;display:inline-flex;align-items:center;gap:7px;font-size:13px;color:var(--blue-2);font-weight:600}
 .sect-zone:hover .go{gap:11px}
+
+/* --- prestazioni su mobile (allineato alla home) ---
+   la grana resta ma smette di ridisegnarsi 60 volte al secondo, e le
+   sfumature di sfondo usano una sfocatura piu' leggera: meno lavoro per la
+   GPU, batteria e reattivita' al tocco migliori sui telefoni. */
+@media (max-width:768px){
+  .grain{animation:none}
+  .aurora{filter:blur(48px)}
+  .blob.b1,.blob.b2,.blob.b3{animation-duration:60s}
+}
+/* chi naviga da tastiera deve vedere dove si trova */
+.burger:focus-visible,a:focus-visible,button:focus-visible,summary:focus-visible{
+  outline:2px solid var(--blue-2);outline-offset:3px;border-radius:6px}
+/* chi ha chiesto meno animazioni al sistema operativo non le riceve */
+@media (prefers-reduced-motion:reduce){
+  .grain{animation:none}
+  .blob.b1,.blob.b2,.blob.b3{animation:none}
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;
+    transition-duration:.01ms!important;scroll-behavior:auto!important}
+}

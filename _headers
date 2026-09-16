@@ -5,6 +5,7 @@
 # Cloudflare Pages / Netlify.
 
 /*
+  Cache-Control: public, max-age=0, must-revalidate
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   X-Frame-Options: SAMEORIGIN
@@ -13,6 +14,10 @@
   Cross-Origin-Opener-Policy: same-origin
 
 # HTML: sempre fresco, ma servito subito dalla cache mentre si riconvalida.
+# NOTA: la regola /*.html NON copre gli indirizzi che finiscono con / (per
+# esempio /software-mes-produzione/), che sono la quasi totalita' del sito.
+# Per quelli vale la regola /* qui sopra, a cui abbiamo aggiunto la stessa
+# politica; le regole piu' specifiche sugli asset, sotto, la sovrascrivono.
 /*.html
   Cache-Control: public, max-age=0, must-revalidate
 
@@ -49,3 +54,15 @@
 /llms-full.txt
   Cache-Control: public, max-age=86400
   Content-Type: text/plain; charset=utf-8
+
+# ============================================================
+# ATTENZIONE: su GitHub Pages questo file viene IGNORATO.
+# Oggi il sito e' pubblicato su GitHub Pages (vedi pubblica.sh), quindi
+# nessuna delle righe qui sopra e' attiva: GitHub serve tutto con
+# Cache-Control: max-age=600, senza header di sicurezza.
+# Per attivarle: mettere il dominio dietro Cloudflare (piano gratuito) e
+# replicare queste regole nelle Transform Rules, oppure spostare la
+# pubblicazione su Cloudflare Pages o Netlify, che leggono questo file.
+# Verifica rapida dello stato attuale, da terminale:
+#     curl -sI https://danova-tech.com/assets/css/site.css | grep -i cache
+# ============================================================

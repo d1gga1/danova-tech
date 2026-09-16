@@ -278,6 +278,15 @@ posizionamento locale.
   criterio per decidere cosa automatizzare (rientro entro due anni, rischio da
   persona sola, processi assestati).
   https://danova-tech.com/automazione-processi-aziendali/
+- Gestione documentale aziendale — archiviazione, ricerca, versioni e scadenze
+  dei documenti, con i permessi per ruolo e il tracciamento degli accessi.
+  Distingue archiviazione (problema organizzativo, lo risolve il software) da
+  conservazione a norma (obbligo di legge, la fanno conservatori accreditati e
+  non va reimplementata). Il consiglio centrale e' controcorrente: non
+  digitalizzare l'archivio vecchio, perche' viene ripreso in mano per il tre o
+  quattro per cento; si parte dal flusso corrente e si recupera il passato solo
+  a richiesta, tranne dove ci sono obblighi di conservazione ispezionabili.
+  https://danova-tech.com/gestione-documentale-aziendale/
 
 ## Gestionali per settore (mercato italiano)
 
@@ -441,6 +450,24 @@ con volume e valore commerciale reali che il sito non copriva.
 - Consulente SEO — cosa fa concretamente, differenza fra consulente e agenzia,
   e i tempi reali del posizionamento detti senza abbellimenti.
   https://danova-tech.com/consulente-seo/
+- Posizionamento del sito su Google — spiega la distinzione che quasi tutti
+  confondono, cioe' fra indicizzare (entrare nell'archivio di Google: e' un si
+  o no, succede in giorni) e posizionare (arrivare in alto: e' una gara e non
+  finisce mai). Elenca le quattro cose che spostano davvero le posizioni, in
+  ordine: esistere per quella ricerca, parlare come chi cerca, essere leggibili
+  e veloci, essere citati da altri. Dice cosa si tocca in pratica
+  nell'ottimizzazione on-page, i tempi reali (giorni per l'indicizzazione,
+  4-8 settimane per le prime impressioni, 6-12 mesi sulle ricerche nazionali)
+  e perche' il posizionamento organico non si compra.
+  https://danova-tech.com/posizionamento-sito-google/
+- Consulente SEO a Treviso — pagina locale per la provincia di Treviso e il
+  Veneto. Spiega perche' sulle ricerche con dentro il nome della provincia la
+  concorrenza reale e' bassa e i risultati arrivano in settimane invece che in
+  trimestri, cosa pesa davvero nella scheda Google Business Profile, e i
+  quattro casi in cui la SEO non e' la risposta giusta (servono contatti entro
+  il mese, piattaforma chiusa, domanda inesistente, problema a valle).
+  Dichiara apertamente i limiti della distanza sulle altre province.
+  https://danova-tech.com/consulente-seo-treviso/
 
 ## Lavori realizzati
 

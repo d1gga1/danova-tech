@@ -62,6 +62,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 <link rel="preload" as="image" href="/assets/img/dt-06.webp" fetchpriority="high">
 <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/sora-latin.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="/assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin>
 <link rel="stylesheet" href="/assets/css/fonts.css">
 <style>
 /* ============================================================
@@ -829,6 +830,17 @@ a.pic{display:block;text-decoration:none}
 #clienti .card:hover .pic img{transform:scale(1.03)}
 #clienti .pic::after{background:linear-gradient(180deg,rgba(0,0,0,0),rgba(4,6,12,.35))}
 #clienti .pic{aspect-ratio:16/10}
+
+/* --- allineamento con site.css: prestazioni mobile e accessibilita' --- */
+@media (max-width:768px){.blob.b1,.blob.b2,.blob.b3{animation-duration:60s}}
+a:focus-visible,button:focus-visible,summary:focus-visible{
+  outline:2px solid var(--blue-2);outline-offset:3px;border-radius:6px}
+@media (prefers-reduced-motion:reduce){
+  .grain{animation:none}
+  .blob.b1,.blob.b2,.blob.b3{animation:none}
+  *,*::before,*::after{animation-duration:.01ms!important;animation-iteration-count:1!important;
+    transition-duration:.01ms!important;scroll-behavior:auto!important}
+}
 </style>
 <!-- Dati strutturati schema.org. sameAs: aggiungi qui gli URL dei profili social. -->
 <script type="application/ld+json">
@@ -2065,6 +2077,18 @@ a.pic{display:block;text-decoration:none}
       <a class="sect sect-zone" href="/software-preventivi-configuratore/" data-rv="up" data-tilt="">
         <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9.5a4.5 4.5 0 1 0 0 5"></path><path d="M4 10h7"></path><path d="M4 14h7"></path></svg></div>
         <h4>Software preventivi e configuratore</h4><p>Le vostre regole di prezzo dentro il sistema: offerte in minuti, non in ore.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a><a class="sect sect-zone" href="/posizionamento-sito-google/" data-rv="up" data-tilt="">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9.5a4.5 4.5 0 1 0 0 5"></path><path d="M4 10h7"></path><path d="M4 14h7"></path></svg></div>
+        <h4>Posizionamento del sito su Google</h4><p>Indicizzare non &egrave; posizionare: la differenza, cosa sposta davvero le posizioni, quanto costa e in quanto tempo.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a><a class="sect sect-zone" href="/consulente-seo-treviso/" data-rv="up" data-tilt="">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9.5a4.5 4.5 0 1 0 0 5"></path><path d="M4 10h7"></path><path d="M4 14h7"></path></svg></div>
+        <h4>Consulente SEO a Treviso</h4><p>Posizionamento per aziende del trevigiano: perch&eacute; sulle ricerche locali la gara &egrave; ancora abbordabile, e quanto costa.</p>
+        <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
+      </a><a class="sect sect-zone" href="/gestione-documentale-aziendale/" data-rv="up" data-tilt="">
+        <div class="ic"><svg width="21" height="21" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9.5a4.5 4.5 0 1 0 0 5"></path><path d="M4 10h7"></path><path d="M4 14h7"></path></svg></div>
+        <h4>Gestione documentale aziendale</h4><p>Archiviare, ritrovare, dimostrare. Perch&eacute; digitalizzare l&rsquo;archivio vecchio &egrave; quasi sempre l&rsquo;investimento peggiore.</p>
         <span class="go">Vedi la pagina <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></span>
       </a>
     

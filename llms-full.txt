@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-09-12 da https://danova-tech.com
+# Generato il 2026-09-16 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -658,6 +658,21 @@ Le vostre regole di prezzo dentro il sistema: offerte in minuti, non in ore.
 
 Vedi la pagina
 
+## Posizionamento del sito su Google
+Indicizzare non è posizionare: la differenza, cosa sposta davvero le posizioni, quanto costa e in quanto tempo.
+
+Vedi la pagina
+
+## Consulente SEO a Treviso
+Posizionamento per aziende del trevigiano: perché sulle ricerche locali la gara è ancora abbordabile, e quanto costa.
+
+Vedi la pagina
+
+## Gestione documentale aziendale
+Archiviare, ritrovare, dimostrare. Perché digitalizzare l’archivio vecchio è quasi sempre l’investimento peggiore.
+
+Vedi la pagina
+
 Domande frequenti
 
 ## Le risposte che cerchi.
@@ -1090,6 +1105,24 @@ Se cercate un fornitore che possa essere in azienda in mattinata per un'emergenz
 Privacy Policy Cookie Policy Termini e condizioni d’uso Danova Tech
 Guide e approfondimenti
 
+Prima di scrivere
+
+## Tre cose che vi fanno risparmiare un giro
+
+Non serve un capitolato. Molte richieste iniziano con una scusa: «non ho ancora le idee chiare». Va benissimo così. Nella prima mezz’ora serve solo capire cosa vi fa perdere tempo oggi e chi lo perde; le specifiche si scrivono dopo, e le scriviamo noi.
+
+Il preventivo non è automatico. Non mandiamo listini a pacchetti, perché sarebbero inventati. Dopo la prima chiamata, se il lavoro ha senso, arriva un preventivo a prezzo fisso con dentro cosa è compreso e cosa no. Se il lavoro non ha senso, lo diciamo lì e non fatturiamo la telefonata.
+
+A volte la risposta è no. Capita quando quello che serve è un prodotto già pronto che costa un decimo, quando il problema è organizzativo e non tecnico, o quando il fornitore giusto è un altro. In tutti e tre i casi ve lo diciamo subito, con il nome dell’alternativa quando ce l’abbiamo.
+
+- Rispondiamo in giornata nei giorni lavorativi, di solito entro poche ore.
+
+- Si può iniziare per telefono o per email, come preferite: non serve fissare niente prima.
+
+- La prima chiamata non si paga e dura il tempo che serve, in genere mezz’ora.
+
+- Se preferite vederci , in Veneto e in Friuli veniamo noi in sede.
+
 
 ========================================================================
 # App gestione cantieri e rapportini
@@ -1199,6 +1232,14 @@ Come registro sì: chi è presente, checklist di inizio giornata, documenti dei 
 
 Serve anche l'app per le ore dei dipendenti?
 Spesso è la stessa cosa vista da due lati: il rapportino di cantiere registra le ore della squadra, l'app delle timbrature registra entrata e uscita della singola persona. Se vi serve anche il registro presenze con straordinari e ferie, abbiamo una pagina dedicata a quello e le due funzioni si possono unire in un'app sola.
+
+Come lo cercate
+
+## Software gestione cantieri, rapportini giornalieri
+
+Software gestione cantieri, software per gestione cantieri, software gestionale per cantieri, gestionale per cantieri, gestionale cantieri edili, app per gestione cantieri: la parola cambia soprattutto secondo chi cerca. Il titolare cerca «software», il capocantiere cerca «app», e hanno ragione entrambi, perché servono due facce della stessa cosa: una che si compila in cantiere con il telefono e una che si guarda in ufficio.
+
+Chi cerca « rapportini giornalieri di cantiere » o «rapportino di cantiere» sta cercando il pezzo più concreto di tutti: ore delle persone, mezzi, materiali usati, foto, firma del committente. È anche il pezzo che, se diventa digitale, si porta dietro tutto il resto quasi da solo, perché da lì escono i dati per la contabilità di cantiere e per la fatturazione. La pagina sui rapportini in generale è app per i rapportini di lavoro .
 
 ## Pagine collegate
 
@@ -1451,6 +1492,14 @@ Sì. A fine mese il riepilogo esce nel formato che serve, e nella maggior parte 
 
 Funziona anche per chi lavora in cantiere senza campo?
 Sì, ed è il caso per cui la progettiamo. L'app registra sul telefono e allinea quando trova rete, senza che l'operaio debba fare niente. Se questo requisito non c'è nel preventivo, chiedete come è gestito: aggiunto dopo costa il triplo.
+
+Come lo cercate
+
+## App per segnare le ore di lavoro, rapportini
+
+App per segnare le ore di lavoro, app per segnare ore di lavoro, app segna ore lavoro, app calcolo ore di lavoro, app per registrare ore di lavoro, app ore lavoro dipendenti, rapportini lavoro: la formulazione cambia secondo chi cerca, e vale la pena distinguere due bisogni che sembrano uno.
+
+Chi cerca un’ app per segnare le ore pensa spesso a se stesso: un artigiano o un tecnico che vuole smettere di usare il quadernetto. Chi cerca la timbratura dei dipendenti ha un problema di azienda: presenze, straordinari, trasferte, e un dato che deve arrivare pulito al consulente del lavoro. Il primo si risolve con pochissimo, e a volte basta un’app già pronta: ve lo diciamo. Il secondo richiede che le ore siano legate a commesse e clienti, ed è lì che un sistema su misura si ripaga.
 
 ## Pagine collegate
 
@@ -1970,6 +2019,7 @@ Digitalizzazione aziendale Transizione 5.0: cosa è cambiato
 Integrazione software aziendali
 Fatturazione elettronica automatizzata
 Chatbot aziendale
+Gestione documentale
 
 
 ========================================================================
@@ -2090,6 +2140,137 @@ Software e automazioni
 CRM aziendale
 Sviluppo web app
 Glossario
+
+
+========================================================================
+# Consulente SEO a Treviso
+URL: https://danova-tech.com/consulente-seo-treviso/
+Descrizione: Consulente SEO a Treviso e in Veneto: posizionamento su Google per aziende, e-commerce e attivita locali. Analisi, lavoro sul sito e numeri verificabili.
+========================================================================
+
+Home / SEO & posizionamento / Consulente SEO a Treviso
+
+SEO in provincia di Treviso
+
+## Consulente SEO a Treviso .
+
+Siamo a Mansuè, fra Oderzo e Portogruaro, e lavoriamo con aziende che stanno nel raggio di mezz’ora di macchina. Questa pagina spiega come facciamo posizionamento su Google, quanto costa, quanto ci vuole e in quali casi vi conviene dire di no.
+
+Parliamone
+
+Come lavoriamo
+
+Il punto di partenza
+
+## Il vantaggio locale esiste ancora , ed è grosso
+
+Sulle ricerche nazionali generiche — agenzia SEO , posizionamento sito — le prime dieci posizioni sono occupate da siti con dieci anni di storico e migliaia di link in ingresso. Nessuna ottimizzazione ribalta quel divario in pochi mesi, e chi vi dice il contrario vi sta vendendo qualcosa.
+
+Sulle stesse ricerche con dentro il nome della provincia la situazione è opposta. Chi cerca un consulente SEO a Treviso trova pochi risultati pertinenti, spesso siti fermi da anni, schede Google incomplete e pagine che non dicono né cosa costa né cosa succede. È una gara con pochi concorrenti seri, e si vince con il lavoro, non con il budget.
+
+Lo stesso vale per i vostri clienti. Un’azienda di Oderzo che vende impianti non deve arrivare prima su impianti industriali : deve arrivare prima su quello che cerca chi ha il problema adesso e sta a quaranta chilometri. Sono ricerche con meno volume e molto più valore, perché chi le fa sta già scegliendo un fornitore.
+
+- Meno concorrenza reale. In provincia i siti ottimizzati davvero sono una minoranza.
+
+- Intento d’acquisto più alto. Chi mette il nome della città nella ricerca sta cercando un fornitore, non informazioni.
+
+- La scheda Google pesa. Sulle ricerche locali la scheda porta spesso più contatti del sito.
+
+- Si misura. Con pochi concorrenti i movimenti si vedono in settimane, non in trimestri.
+
+Come lavoriamo
+
+## Prima i dati, poi il lavoro.
+
+Nessun pacchetto mensile deciso prima di aver guardato il sito.
+
+- Analisi di partenza Search Console, Analytics, struttura del sito, velocità, contenuti, scheda Google. Se mancano gli accessi, il primo lavoro è recuperarli: sono vostri.
+
+- Ricerca parole chiave con numeri veri Non l’elenco di quello che pensiamo cerchi la gente: i volumi e i costi per clic del Keyword Planner sul vostro settore, in Italia, in italiano.
+
+- Piano scritto, con le priorità Cosa si fa, in che ordine, cosa ci si aspetta e in quanto tempo. È un documento vostro e resta valido anche se poi lo fa qualcun altro.
+
+- Lavoro sul sito Struttura, titoli, contenuti che rispondono alle ricerche vere, dati strutturati, velocità, collegamenti interni. La parte noiosa, che è poi quella che sposta le posizioni.
+
+- Misura mensile Impressioni, clic e posizioni per ogni pagina. Un foglio che leggete voi, non una relazione che nessuno apre.
+
+SEO locale
+
+## La scheda Google vale più di quanto pensiate
+
+Per un’attività che serve clienti in un raggio di cinquanta chilometri, la scheda Google Business Profile è quasi sempre la singola voce che porta più contatti: compare nel riquadro con la mappa, sopra i risultati normali, e chi ci clicca chiama.
+
+Quello che fa la differenza fra una scheda che porta chiamate e una che non compare non è misterioso: categoria principale scelta bene, elenco dei servizi scritto con le parole che la gente usa davvero, foto recenti, orari giusti, e recensioni vere che arrivano con regolarità invece che dieci tutte insieme a settembre. Il resto — i post settimanali, le domande precompilate — conta molto meno di quanto si dica in giro.
+
+Il secondo pezzo sono le citazioni: nome, indirizzo e telefono scritti identici ovunque compaiano in rete. Se in tre posti diversi l’indirizzo è scritto in tre modi, Google fa fatica a capire che siete una sola azienda. È un lavoro di pulizia noioso, si fa una volta, e su una ricerca locale pesa. Ne parliamo nel dettaglio nella guida alla scheda Google Business Profile .
+
+Da dire prima
+
+## Quando la SEO non è la risposta giusta
+
+Se vi servono contatti entro il mese. La SEO non funziona così. In quel caso si parte da Google Ads , che porta richieste dal primo giorno, e la SEO si costruisce sotto con calma. Lo diciamo anche quando significa vendere meno.
+
+Se il sito è su una piattaforma chiusa. Alcuni costruttori di siti non permettono di cambiare indirizzi, titoli e struttura. Si lavora lo stesso, ma c’è un tetto che nessuna consulenza supera: prima si rifa il sito, poi si posiziona. La guida su come rifare un sito senza perdere posizioni spiega come si fa senza danni.
+
+Se quello che vendete non lo cerca nessuno. Capita, soprattutto con prodotti nuovi o molto tecnici. In quel caso la domanda va creata altrove — fiere, rete vendita, LinkedIn, campagne a pubblico freddo — e spendere in SEO significa ottimizzare per ricerche che non esistono. Ce ne accorgiamo durante la ricerca parole chiave e ve lo diciamo prima di firmare.
+
+Se il problema è a valle. Se il sito riceve già visite e nessuno scrive, il collo di bottiglia non è il posizionamento: è la pagina, il prezzo assente, il modulo troppo lungo. Portare il doppio delle visite su un sito che non converte raddoppia solo il numero di persone che se ne vanno.
+
+Dove arriviamo
+
+## Treviso, e il resto del Nordest
+
+Da Mansuè il trevigiano è tutto entro la mezz’ora: Oderzo, Conegliano, Treviso città, Vittorio Veneto, Montebelluna, Castelfranco. Pordenone e il Friuli occidentale sono anche più vicini. Venezia, Mestre e Padova sono a un’ora scarsa, Vicenza e Udine poco oltre, Verona a un’ora e mezza.
+
+Chi cerca un’ agenzia SEO a Vicenza , un consulente SEO a Padova , a Venezia , a Verona o a Udine trova anche noi, e lavoriamo volentieri in tutto il Veneto e in Friuli. Ma sul posto vale la pena essere onesti: se quello che vi serve è qualcuno che passa in sede ogni settimana, un fornitore della vostra città ha un vantaggio che non possiamo pareggiare. Se invece vi basta vedersi per le riunioni che contano e lavorare da remoto per il resto — ed è il caso quasi sempre — la distanza non cambia niente.
+
+Le pagine dedicate alle singole province sono qui: Treviso , Padova , Vicenza , Verona , Venezia e Mestre , Udine , Pordenone .
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Quanto costa un consulente SEO a Treviso?
+Un'analisi iniziale con il piano di lavoro sta nella fascia bassa delle quattro cifre e si paga una volta sola: e' un documento vostro, che resta valido anche se poi lavorate con qualcun altro. Il lavoro continuativo si fa a mesi, con un numero fisso concordato in base a quante pagine ci sono da rifare e a quanto e' competitivo il settore.
+Diffidate di chi vi da' un prezzo prima di aver guardato il sito e la Search Console: non e' possibile sapere quanto lavoro serve senza vedere da dove si parte.
+
+In quanto tempo si vedono i risultati?
+Sulle ricerche locali del trevigiano, dove i concorrenti sono pochi e spesso hanno siti fermi da anni, i primi movimenti si vedono in sei-dodici settimane. Sulle ricerche nazionali generiche servono da sei a dodici mesi e il lavoro sul sito da solo non basta: servono contenuti nuovi con continuita' e link in arrivo da siti veri.
+Il primo segnale non e' la posizione, sono le impressioni in Search Console: si muovono settimane prima delle posizioni e dicono se la direzione e' giusta.
+
+Garantite la prima posizione su Google?
+No, e nessuno puo' farlo. Chi la garantisce sta vendendo o pubblicita' a pagamento spacciata per posizionamento organico, oppure parole chiave che nessuno cerca, sulle quali arrivare primi e' facile e inutile.
+Quello che possiamo garantire e' il metodo: si parte dai dati reali del vostro settore, si decide su quali ricerche ha senso competere, e ogni mese si guarda in Search Console cosa e' successo.
+
+Lavorate solo con aziende di Treviso?
+No. Abbiamo sede a Mansue', in provincia di Treviso, e il lavoro si fa quasi tutto da remoto: seguiamo clienti in tutto il Veneto, in Friuli e nel resto d'Italia. La differenza per un'azienda del trevigiano e' che possiamo venire in sede senza che diventi una trasferta, e per certi lavori — la prima riunione, la formazione di chi aggiorna il sito — vedersi di persona fa risparmiare tempo a tutti.
+
+Il sito ce l'ha fatto un'altra agenzia: potete lavorarci lo stesso?
+Si', nella maggior parte dei casi. Serve l'accesso al pannello del sito e alla Search Console; se non li avete, il primo lavoro e' recuperarli, e conviene farlo comunque perche' sono vostri. Se il sito e' costruito su una piattaforma chiusa che non permette di modificare titoli, indirizzi e testi, ve lo diciamo subito: in quel caso la SEO ha un tetto che non dipende da quanto si lavora.
+
+Fate anche Google Ads?
+Si', e spesso conviene partire da li'. Mentre la SEO matura, una campagna ben fatta porta richieste dal primo giorno e — dato meno ovvio — vi dice in due settimane quali parole portano contatti veri e quali solo clic. Quella informazione vale piu' di mesi di ipotesi e decide su cosa lavorare nella SEO.
+
+Come lo cercate
+
+## Agenzia SEO, esperto SEO, consulente SEO freelance
+
+Consulente SEO Treviso, agenzia SEO Treviso, esperto SEO Treviso, specialista SEO, consulente SEO freelance, consulente SEO Veneto: la richiesta è la stessa e cambia solo la forma. Una differenza reale però c’è, ed è fra il freelance e la struttura. Il freelance costa meno e risponde subito, ma quando serve anche rifare il sito o collegare il gestionale deve appoggiarsi a qualcun altro. Noi siamo una software house che fa anche SEO: se il lavoro richiede di mettere le mani nel codice, non dobbiamo chiedere il permesso a nessuno.
+
+Chi cerca « migliore agenzia SEO » o « migliori agenzie SEO » sta in realtà cercando un modo per non sbagliare fornitore. Il criterio più utile è uno solo: chiedete di vedere un caso in cui il lavoro non ha funzionato e cosa avete imparato. Chi non ne ha nessuno o non lavora da abbastanza tempo, o non guarda i numeri.
+
+Se la domanda di partenza è più generale — come funziona il posizionamento, cosa vuol dire indicizzare, quanto costa — la pagina giusta è posizionamento del sito su Google . Se invece vendete online, il lavoro è diverso e lo raccontiamo in SEO per e-commerce .
+
+## Pagine collegate
+
+SEO e posizionamento
+Consulente SEO
+Posizionamento su Google
+SEO per e-commerce
+Google Ads
+Siti web a Treviso
+Guida a Google Business Profile
+Velocità e Core Web Vitals
 
 
 ========================================================================
@@ -2224,6 +2405,8 @@ Guida a Google Business Profile
 Rifare il sito senza perdere posizioni
 Velocità e Core Web Vitals Glossario
 SEO per e-commerce
+Posizionamento su Google
+Consulente SEO a Treviso
 
 
 ========================================================================
@@ -2355,6 +2538,10 @@ Per chi vende attraverso una rete esterna c'è un caso a sé: un crm per agenti 
 
 Su cos'è un CRM in due righe: è il posto dove vive la storia del rapporto con un cliente, prima e dopo la vendita. Se quella storia oggi vive in una casella di posta personale, il rischio non è l'inefficienza: è che se quella persona cambia lavoro, il rapporto se ne va con lei.
 
+Programma gestione clienti, programma per gestione clienti, programma di gestione clienti, programma per la gestione dei clienti, programma per gestire clienti, software per gestione clienti, software gestione clienti: chi cerca così di solito non ha in mente un CRM con l’imbuto delle vendite e i cruscotti. Ha in mente una cosa più semplice e più urgente: sapere chi ha parlato con quel cliente l’ultima volta e cosa gli è stato promesso.
+
+Ed è il punto giusto da cui partire. I progetti CRM falliscono quasi sempre per eccesso: si compra uno strumento con quaranta funzioni, i commerciali non lo compilano, e dopo sei mesi la verità sta di nuovo nei loro telefoni. Un sistema che fa tre cose e che tutti usano vale infinitamente più di uno completo che compila una persona sola.
+
 ## Pagine collegate
 
 Software house
@@ -2445,6 +2632,17 @@ Sostituire Excel con un gestionale
 Integrazione software aziendali
 
 Software MES per la produzione
+Gestione documentale
+
+Come lo cercate
+
+## Digitalizzazione delle imprese, digitalizzazione dei documenti
+
+Digitalizzazione aziendale, digitalizzazione aziende, digitalizzazione imprese, digitalizzazione delle imprese, digitalizzazione dei processi, digitalizzazione documenti, digitalizzazione archivi: sotto la stessa parola stanno progetti che non si somigliano per niente, e la prima cosa utile è capire di quale si sta parlando.
+
+Nella pratica le richieste sono tre. Digitalizzare i documenti vuol dire smettere di cercare la carta: è il pezzo con il ritorno più rapido e visibile, e ne parliamo in gestione documentale aziendale . Digitalizzare un processo vuol dire togliere i passaggi in cui i dati vengono riscritti a mano da un sistema all’altro. Digitalizzare l’azienda , detto così, non vuol dire niente di operativo, ed è il motivo per cui questi progetti a volte durano due anni e finiscono con qualcuno che compila schermate in più di prima.
+
+Il consiglio che diamo sempre è di partire dal punto in cui oggi qualcuno riscrive a mano un dato che esiste già da un’altra parte. Si misura in ore alla settimana, si risolve in poche settimane, e finanzia psicologicamente il resto del percorso meglio di qualsiasi presentazione.
 
 
 ========================================================================
@@ -2577,6 +2775,7 @@ CRM aziendale
 Siti web ed e-commerce
 
 SEO per e-commerce
+Aprire un negozio online
 
 
 ========================================================================
@@ -3181,6 +3380,18 @@ Raccontateci dove si inceppa il flusso. Se siete nel Pordenonese veniamo a veder
 
 Richiedi un preventivo gratuito
 
+Il tessuto produttivo della zona
+
+## Meccanica, elettrodomestico, subfornitura
+
+Il pordenonese è una zona di subfornitura industriale come poche altre in Italia: componentistica, meccanica, lavorazioni conto terzi, plastica, arredo, con un tessuto costruito intorno a poche grandi committenti e a centinaia di aziende che lavorano su commessa per loro.
+
+Chi lavora in subfornitura ha un problema di gestione che le aziende con prodotto proprio non hanno: il margine si decide sul preventivo, e il preventivo si fa spesso in fretta, su disegni altrui, con tempi che qualcuno stima a memoria. Se le ore consuntive non tornano nello stesso posto in cui stanno le ore preventivate, l’errore si scopre a commessa chiusa, quando non c’è più niente da correggere. È il motivo per cui in questa zona partiamo quasi sempre da commessa e consuntivo e non dal magazzino.
+
+Il secondo tema tipico è il conto lavoro: materiale che esce, viene lavorato fuori e rientra, e che nel frattempo è vostro ma non ce l’avete. Quasi nessun gestionale generalista lo rappresenta bene, e chi lo gestisce con i fogli di calcolo perde pezzi almeno una volta l’anno. Ne parliamo in gestionale per la metalmeccanica .
+
+Pordenone è a venticinque minuti da Mansuè: è la provincia più vicina a noi dopo Treviso, e in giornata ci si va e si torna senza organizzare niente.
+
 ## Zone e servizi collegati
 
 Software gestionale per la produzione
@@ -3542,6 +3753,18 @@ Quante ore alla settimana la vostra squadra spende a copiare dati da una parte a
 
 Richiedi un preventivo gratuito
 
+Provincia per provincia
+
+## Il Veneto non è un mercato solo
+
+Parlare di «gestionali in Veneto» è comodo e un po’ falso: fra una carpenteria del vicentino, una cantina del veronese e uno studio professionale a Padova cambia quasi tutto, a partire da cosa considerano un dato importante.
+
+Nel trevigiano e nel pordenonese prevale il lavoro su commessa e la subfornitura: il cuore è sapere quanto è costata davvero una commessa mentre è ancora aperta. Nel vicentino — oreficeria, concia, meccatronica — pesano distinta base, conto lavoro e tracciabilità dei materiali. Nel veronese comandano logistica, lotti e agroalimentare, con tutto quello che comporta in fatto di scadenze e tracciabilità. A Padova e nella sua cintura si trovano più spesso aziende che hanno già un ERP sovradimensionato, comprato anni fa e usato per un terzo. A Venezia e Mestre prevale il terziario, che ragiona in ore, pratiche e scadenze.
+
+Le pagine provinciali entrano nel merito: Treviso , Padova , Vicenza , Verona , Venezia e Mestre , Pordenone e Udine in Friuli.
+
+Una cosa vale ovunque, ed è la ragione per cui questa pagina esiste: nelle PMI venete il gestionale «vero» è quasi sempre affiancato da tre o quattro fogli di calcolo che nessuno chiama sistema e senza i quali l’azienda si ferma. Quei fogli sono la specifica migliore che esista, e il primo lavoro serio è leggerli.
+
 ## Zone e servizi collegati
 
 Software gestionale per la produzione
@@ -3665,6 +3888,18 @@ Il primo modulo di solito è utilizzabile in poche settimane. Si inizia a usarlo
 Se accanto al vostro gestionale sono comparsi dei fogli Excel, quello è il pezzo da costruire. Una call basta per capire quale.
 
 Richiedi un preventivo gratuito
+
+Il tessuto produttivo della zona
+
+## Porto, terziario e artigianato: tre modi diversi di avere lo stesso problema
+
+Fra Venezia, Mestre e Marghera convivono tre economie che si assomigliano poco. C’è il mondo legato al porto e alla logistica, dove il dato che conta è il movimento della merce e i tempi; c’è il terziario di Mestre, studi e società di servizi che vivono di ore, pratiche e scadenze; e c’è l’artigianato di qualità della gronda lagunare e del Miranese, che lavora su commessa e su misura.
+
+Il problema che ci portano è però quasi sempre lo stesso, raccontato con parole diverse: i dati esistono, ma stanno in posti che non si parlano. Il gestionale dell’amministrazione sa le fatture, il magazzino sta in un foglio di calcolo, le ore delle persone in un altro, e per sapere se un lavoro è andato bene serve qualcuno che passi un pomeriggio a incrociare. Nel frattempo la decisione è già stata presa a intuito.
+
+Sul turismo e sulla ricettività, che qui è un mondo enorme, siamo espliciti: gestionali per alberghi, B&B e agenzie di viaggio sono prodotti verticali già pronti che costano poche decine di euro al mese, e svilupparli su misura non conviene a nessuno. Ha senso chiamarci quando quei prodotti vanno collegati fra loro o con la contabilità, ed è un lavoro di integrazione , non di sviluppo da zero.
+
+La distanza: da Mansuè a Mestre sono cinquanta minuti, a Venezia poco più contando il parcheggio. Per un progetto con due o tre riunioni in sede e il resto da remoto — cioè il caso normale — non è un fattore.
 
 ## Zone e servizi collegati
 
@@ -3790,6 +4025,18 @@ Nella maggior parte dei casi sì: ordini, conferme e documenti di trasporto vers
 
 Chi resta proprietario del software?
 Voi. Sorgente, documentazione e accessi intestati alla vostra azienda alla consegna di ogni tappa, senza vincoli di assistenza per continuare a usarlo.
+
+Dove serve di più
+
+## Logistica, vino e agroalimentare
+
+Verona è il nodo logistico più importante del Nordest e una delle capitali agroalimentari del paese, e le due cose insieme producono un tipo di richiesta molto riconoscibile: tenere insieme lotti, scadenze, giacenze e spedizioni senza che nessuno ricopi niente.
+
+Nel vino e nell’agroalimentare il punto non è la contabilità, sono le partite: da quale vendemmia o da quale fornitore arriva quel prodotto, dove è finito, e quanto ci vuole a saperlo se qualcuno lo chiede. Chi ha provato a rispondere a questa domanda con i fogli di calcolo sa che il tempo si misura in giorni. Ne parliamo in gestionale per l’agroalimentare .
+
+Nella logistica e nel trasporto la domanda cambia: costo per chilometro, mezzi propri e padroncini, DDT, tempi di consegna. La pagina dedicata è gestionale per trasporti e logistica ; per chi ha una flotta da tenere sotto controllo c’è software di gestione flotte .
+
+Ripetiamo qui quello che diciamo al telefono: su Verona siamo a un’ora e mezza e non abbiamo ancora clienti in zona. Se cercate qualcuno che passi in sede in giornata, un fornitore veronese parte avvantaggiato. Se il progetto si regge su riunioni concordate e lavoro da remoto, la distanza non cambia il risultato.
 
 ## Pagine collegate
 
@@ -3922,6 +4169,153 @@ Quanto costa un gestionale
 Gestionali e CRM su misura
 
 Software MES per la produzione
+
+
+========================================================================
+# Gestione documentale aziendale
+URL: https://danova-tech.com/gestione-documentale-aziendale/
+Descrizione: Software di gestione documentale su misura: archiviazione, ricerca, versioni, scadenze e conservazione. Digitalizzare i documenti senza rifare tutto.
+========================================================================
+
+Home / Software & automazioni / Gestione documentale aziendale
+
+Documenti e archivi
+
+## Gestione documentale aziendale .
+
+Il problema non è quasi mai lo spazio: è il tempo. Un certificato che serve adesso sta in una cartella di rete che ha tre nomi diversi, nella posta di una persona, o in un raccoglitore al piano di sopra. Ogni ricerca costa venti minuti a qualcuno che nel frattempo non fa il suo lavoro.
+
+Parliamone
+
+Cosa fa
+
+## Cosa fa il sistema
+
+Quattro cose, costruite sul modo in cui archiviate già oggi.
+
+01
+
+## Un posto solo, con un nome solo
+
+Ogni documento entra una volta e sta in un posto solo, con i dati che servono per ritrovarlo: tipo, data, fornitore, commessa, cliente, stato. Niente più tre copie della stessa bolla in tre cartelle diverse, con la differenza che nessuno ricorda.
+
+02
+
+## Ricerca che trova
+
+Si cerca per quello che si ricorda — il nome del cliente, il mese, il numero della commessa — e non per il nome del file, che nessuno ricorda mai. Sui documenti scansionati il testo viene riconosciuto, quindi si cerca anche dentro.
+
+03
+
+## Versioni e revisioni
+
+Chi ha cambiato cosa e quando, e qual è la versione valida adesso. È il pezzo che serve sui disegni tecnici, sui capitolati e sui contratti, dove lavorare sulla revisione sbagliata costa molto più del software.
+
+04
+
+## Scadenze che avvisano
+
+Certificati, attestati, assicurazioni, contratti in rinnovo, verifiche periodiche. Il sistema avvisa prima, alla persona giusta. È la funzione che da sola ripaga il progetto nelle aziende con obblighi documentali.
+
+Quando serve davvero
+
+## I segnali che la cartella di rete non basta più
+
+La cartella condivisa funziona benissimo fino a un certo punto, e quel punto si riconosce. Quando qualcuno deve chiedere a un collega dove sta un documento, quando esistono file chiamati definitivo_2_ok_finale , quando la stessa informazione sta in cartella e in posta e non si sa quale sia aggiornata, quando una scadenza è passata perché la ricordava una persona sola che era in ferie: sono tutti segnali che il problema non è l’ordine, è il sistema.
+
+C’è anche un caso più concreto, ed è il controllo. Chi lavora con certificazioni di qualità, tracciabilità alimentare, sicurezza sul lavoro o appalti pubblici deve poter tirare fuori un documento in pochi minuti, con la prova di quando è stato prodotto e chi l’ha visto. Cercarlo davanti a un ispettore è un’esperienza che nessuno vuole ripetere.
+
+Il terzo caso è la crescita. Finché siete in cinque, l’archivio sta nella testa di due persone e funziona. A quindici non funziona più, e la transizione avviene sempre nel momento peggiore, cioè quando state già correndo.
+
+- Si cerca più di quanto si lavori. Venti minuti per un documento, più volte al giorno, fanno giornate intere all’anno.
+
+- Nessuno sa qual è la versione buona. Il rischio non è il disordine, è lavorare sulla revisione sbagliata.
+
+- Le scadenze le ricorda una persona. Finché c’è.
+
+- I documenti non parlano con i dati. La bolla è in cartella, l’ordine nel gestionale, e nessuno dei due sa dell’altro.
+
+Il consiglio che fa risparmiare di più
+
+## Non digitalizzate l’archivio vecchio
+
+È la prima cosa che quasi tutti chiedono quando si parla di digitalizzazione dei documenti , ed è quasi sempre l’investimento peggiore del progetto. Scansionare e catalogare dieci anni di carta richiede settimane di lavoro di qualcuno, e nella maggior parte delle aziende quel materiale viene ripreso in mano per il tre o quattro per cento.
+
+La regola che diamo è semplice: si digitalizza da oggi in avanti, il flusso corrente, dove il guadagno è immediato. Del passato si recupera solo ciò che qualcuno chiede davvero, quando lo chiede. Dopo sei mesi si guarda quante volte è successo: nella maggioranza dei casi la risposta fa chiudere il discorso da sola.
+
+L’eccezione vera esiste: se avete obblighi di conservazione su documenti che vengono ispezionati — certificati di collaudo, tracciabilità dei lotti, pratiche con scadenze lunghe — quella parte dell’archivio si digitalizza, perché lì il valore non è la comodità, è il rischio.
+
+Archiviazione e conservazione
+
+## Due cose diverse, che vengono confuse
+
+Archiviazione documentale vuol dire tenere in ordine e ritrovare: è un problema organizzativo, e il guadagno è tempo. Conservazione a norma — quella che molti cercano come dematerializzazione o conservazione sostitutiva — è un obbligo di legge per certi documenti fiscali, che devono restare immodificabili e dimostrabili per dieci anni.
+
+La seconda la fanno conservatori accreditati, con marca temporale e firma digitale, e costa poche decine di euro al mese. Non è un lavoro da rifare su misura, ed è giusto che sia così. Quello che facciamo noi è collegarci: i documenti che devono andare in conservazione ci vanno da soli, e il vostro sistema ne tiene traccia. Il resto dell’archivio — quello che non ha obblighi ma vi fa perdere tempo tutti i giorni — è dove il su misura ha senso.
+
+Sul ciclo delle fatture, attivo e passivo, la pagina dedicata è software di fatturazione elettronica : lì il documento e il dato contabile viaggiano insieme ed è un progetto a sé.
+
+Come lavoriamo
+
+## A tappe, con prezzi fissi.
+
+Un tipo di documento alla volta, in uso vero prima di estendere.
+
+- Mezza giornata sull’archivio di oggi Chi archivia cosa, dove, con che nome. Serve a capire il vocabolario dell’azienda: è la parte che decide se il sistema verrà usato.
+
+- Taglio e preventivo La prima tappa copre un tipo di documento, non tutto l’archivio. Prezzo fisso.
+
+- Prima tappa in uso Quattro-sei settimane, con le persone che quel documento lo maneggiano ogni giorno. Se non lo usano, si cambia prima di estendere.
+
+- Collegamenti Gestionale, posta, scanner, conservazione a norma. I documenti si agganciano a clienti, fornitori e commesse.
+
+- Consegna Sorgente, documentazione e accessi vostri. Assistenza a richiesta.
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Quanto costa un software di gestione documentale?
+Una prima tappa su un tipo di documento solo — le bolle dei fornitori, i certificati, i contratti — parte dalla fascia media delle quattro cifre e comprende l'analisi di come archiviate oggi. Estendere ad altri tipi di documento costa meno, perche' l'impianto e' gia' in piedi.
+Se vi serve solo archiviare fatture e conservarle a norma, esistono prodotti in abbonamento da poche decine di euro al mese e ve li indichiamo: sviluppare su misura ha senso quando il documento deve parlare con il resto dei vostri dati.
+
+Che differenza c'e fra archiviazione e conservazione a norma?
+Archiviare vuol dire tenere i documenti in ordine e trovarli in fretta: e' un problema organizzativo e lo risolve il software. Conservare a norma e' un obbligo di legge per certi documenti fiscali, che devono restare immodificabili e opponibili per dieci anni, con marca temporale e firma digitale.
+La conservazione a norma la fanno conservatori accreditati, ed e' giusto cosi': e' un servizio regolato che costa poco e che nessuno dovrebbe reimplementare. Noi ci colleghiamo al vostro conservatore invece di sostituirlo.
+
+Dobbiamo digitalizzare anche l'archivio vecchio?
+Quasi mai tutto, e quasi mai subito. La regola pratica che diamo e' questa: si digitalizza da oggi in avanti, e del passato solo cio' che viene davvero ripreso in mano. In moltissime aziende l'archivio cartaceo degli ultimi dieci anni viene consultato per il tre o quattro per cento dei documenti.
+Scansionare ventimila fogli costa in tempo e in soldi molto piu' di quanto renda. Meglio partire dal flusso corrente e recuperare il vecchio a richiesta, quando serve.
+
+Si collega al gestionale che abbiamo gia?
+E' il punto in cui il progetto rende di piu'. Un documento agganciato al fornitore, alla commessa o al cliente giusto si trova senza cercarlo: si apre la commessa e i documenti sono li'. Verifichiamo prima che il vostro gestionale esponga i dati necessari; se e' un prodotto chiuso che non lo permette ve lo diciamo subito, perche' cambia il progetto.
+
+Chi decide chi puo vedere cosa?
+Voi, e si decide all'inizio perche' e' la parte che genera piu' discussioni. I permessi si impostano per tipo di documento e per ruolo: i contratti li vede la direzione, i certificati di produzione la qualita', le buste paga solo l'amministrazione. Ogni accesso resta tracciato, il che serve sia in caso di controllo sia per chiudere le discussioni su chi ha cancellato cosa.
+
+Quanto tempo serve per partire?
+Da quattro a otto settimane per la prima tappa, cioe' un tipo di documento in uso vero con le persone che lo usano tutti i giorni. Il lavoro piu' lungo non e' tecnico: e' decidere come si chiamano le cose e chi archivia cosa. Quella mezza giornata di riunione noiosa vale piu' di qualsiasi scelta di software.
+
+Come lo cercate
+
+## Archiviazione documentale, digitalizzazione documenti
+
+Gestione documentale, gestione documentale aziendale, software gestione documentale, programma gestione documenti, archiviazione documentale, archiviazione documenti aziendali, digitalizzazione documenti, digitalizzazione archivi, dematerializzazione documentale: le parole cambiano secondo chi le usa, ma la richiesta si divide sempre negli stessi due bisogni — ritrovare in fretta, e dimostrare quando serve.
+
+Chi cerca « digitalizzazione delle imprese » o « digitalizzazione aziendale » sta guardando qualcosa di più largo: non solo i documenti, ma il modo in cui i dati si muovono fra le persone. È il tema della pagina digitalizzazione aziendale , e i documenti ne sono di solito il primo pezzo, perché è quello dove il guadagno si vede prima.
+
+Se invece il documento è solo l’inizio e il problema vero è il giro di approvazioni — chi firma, chi controlla, chi sollecita — allora si sta parlando di automazione dei processi , e il documento diventa un passaggio dentro un flusso invece che un file da archiviare.
+
+## Pagine collegate
+
+Digitalizzazione aziendale
+Automazione processi aziendali
+Fatturazione elettronica
+Integrazione software aziendali
+Software gestionale aziendale
+Gestionale per l’agroalimentare
+Gestionale per studi professionali
+Software e automazioni
 
 
 ========================================================================
@@ -4693,6 +5087,16 @@ Guide
 ## Guide e approfondimenti
 Quello che ci chiedono più spesso al telefono, scritto per esteso. Nessuna guida qui dentro serve a venderti qualcosa: servono a farti decidere con più informazioni, anche se poi decidi di fare da solo o con un altro fornitore.
 
+Come sono scritte
+
+## Dieci guide, nessuna scritta per vendere
+
+Le guide di questa pagina nascono tutte allo stesso modo: sono le domande che ci arrivano al telefono più spesso, scritte per esteso una volta sola invece di rispondere a voce ogni volta. Per questo contengono anche le risposte che ci fanno perdere lavori — quando il su misura non conviene, quando basta un prodotto in abbonamento, quando il problema non è il software.
+
+Si dividono in tre famiglie. Le guide su come scegliere servono prima di firmare con qualcuno, noi compresi: come scegliere un gestionale , le dodici domande da fare a un’agenzia web , la differenza fra gestionale, ERP e CRM . Le guide tecniche spiegano cose che costano soldi se si sbagliano: rifare un sito senza perdere le posizioni , la velocità e i Core Web Vitals , la scheda Google Business Profile . Le guide normative stanno dietro alle scadenze: gli incentivi dopo Transizione 5.0 e l’accessibilità obbligatoria dei siti .
+
+Se cercate i numeri invece dei ragionamenti, le pagine con i prezzi sono separate: quanto costa un sito web , quanto costa un gestionale , quanto costa un e-commerce e quanto costa un’app . Tutte con fasce vere e con l’elenco delle voci che fanno lievitare il conto.
+
 ## Come scegliere un’agenzia web: le 12 domande da fare prima di firmare
 Dodici domande concrete da fare a un’agenzia web prima di firmare: proprietà del sito, prezzo a corpo, tempi, SEO inclusa, cosa succede se ve ne andate.
 Leggi la guida
@@ -4721,10 +5125,6 @@ Leggi la guida
 Cosa sono LCP, INP e CLS, quali soglie contano, perché il punteggio di PageSpeed non è il dato che Google usa e da dove si comincia.
 Leggi la guida
 
-## Pagine collegate
-
-Tutti i servizi Quanto costa un sito web Quanto costa un gestionale Consulenza SEO Chi siamo Contatti
-
 ## Come scegliere un gestionale: guida pratica
 Le domande da fare ai fornitori, il conto a tre anni che nessuno fa e i cinque errori che costano più caro. Compreso quando il su misura non conviene.
 Leggi la guida
@@ -4736,6 +5136,10 @@ Leggi la guida
 ## Sostituire Excel con un gestionale: quando conviene
 I sei segnali che il foglio di calcolo non basta più, cosa resta giustamente in Excel e come fare il passaggio senza bloccare l'azienda.
 Leggi la guida
+
+## Pagine collegate
+
+Tutti i servizi Quanto costa un sito web Quanto costa un gestionale Consulenza SEO Chi siamo Contatti
 
 
 ========================================================================
@@ -5364,6 +5768,7 @@ Digitalizzazione aziendale
 Chatbot aziendale e agenti AI
 
 Software MES per la produzione
+Incentivi e iperammortamento
 
 
 ========================================================================
@@ -5606,6 +6011,16 @@ Preferiamo il contrario: pochi lavori, con il nome del cliente e l'indirizzo del
 
 Questa pagina crescerà con i progetti nuovi, uno alla volta e solo con il consenso del cliente. Se state valutando di lavorare con noi e volete parlare con qualcuno per cui abbiamo lavorato, chiedetecelo: è la domanda più utile che potete fare a un fornitore, e mettiamo volentieri in contatto.
 
+Cosa trovate qui
+
+## Progetti veri, con quello che non ha funzionato
+
+Ogni pagina di questa sezione racconta un lavoro consegnato: chi era il cliente, qual era il problema prima, cosa abbiamo costruito e come è andata. Compreso quello che abbiamo sbagliato o rifatto, perché un portfolio in cui tutto è filato liscio non è un portfolio, è una brochure.
+
+I lavori pubblicati coprono per ora siti ed e-commerce con i loro numeri reali di traffico e di richieste. Quelli sui gestionali e sulle applicazioni interne arrivano più lentamente per un motivo semplice: riguardano il modo in cui un’azienda lavora davvero, e pubblicarli richiede un permesso che chiediamo sempre e che non sempre viene dato. Quando arriva, la pagina si scrive.
+
+Se state valutando un fornitore, il modo più utile di leggere queste pagine non è guardare la grafica: è guardare cosa c’era prima e con quali vincoli si è lavorato. Se poi volete parlare direttamente con chi ci ha lavorato, chiedetecelo: i nomi sono pubblici proprio per questo.
+
 ## Pagine collegate
 
 Software house
@@ -5618,6 +6033,7 @@ Chi siamo
 
 Software gestionale per edilizia
 App rapportini di lavoro
+Oasi Ponza
 
 
 ========================================================================
@@ -5834,6 +6250,160 @@ SEO per e-commerce
 
 
 ========================================================================
+# Posizionamento sito su Google
+URL: https://danova-tech.com/posizionamento-sito-google/
+Descrizione: Posizionamento del sito su Google: come si indicizza, cosa sposta davvero le posizioni, quanto costa e in quanto tempo. Metodo, numeri e nessuna promessa.
+========================================================================
+
+Home / SEO & posizionamento / Posizionamento sito su Google
+
+Posizionamento e indicizzazione
+
+## Posizionamento del sito su Google .
+
+Due domande diverse arrivano quasi sempre insieme: «il mio sito non si trova su Google» e «come faccio a salire». La prima si risolve in qualche giorno, la seconda in qualche mese. Qui spieghiamo come si fa, quanto costa e cosa non è possibile promettere.
+
+Fai analizzare il sito
+
+Da dove si parte
+
+La distinzione che cambia tutto
+
+## Indicizzare non è posizionare
+
+Indicizzare un sito su Google vuol dire farlo entrare nell’archivio: è una domanda a cui si risponde sì o no, succede quasi sempre da solo in pochi giorni e si accelera registrando il sito in Search Console e inviando la sitemap. Se volete verificarlo adesso, cercate site:ilvostrodominio.it : quello che compare è ciò che Google ha in archivio.
+
+Posizionare vuol dire arrivare in alto quando qualcuno cerca ciò che vendete. Non è un interruttore, è una gara con tutti gli altri che vogliono lo stesso posto, e non finisce mai: si vince pagina per pagina, ricerca per ricerca.
+
+La confusione fra le due cose costa soldi veri. Chi arriva dicendo «non sono su Google» nella quasi totalità dei casi è già indicizzato: il problema è che nessuno lo trova cercando quello che vende. Comprare un servizio di «indicizzazione veloce» in quel caso non serve a niente, perché risolve un problema che non avete.
+
+- Non indicizzato. Il sito non compare nemmeno cercando il nome esatto. Raro, si risolve in giorni.
+
+- Indicizzato ma invisibile. Compare cercando il nome, non compare cercando il servizio. È il caso normale.
+
+- Posizionato su parole inutili. Arriva traffico, non arrivano richieste. Problema di scelta delle ricerche.
+
+- Posizionato e fermo. Buone posizioni ma zero contatti: il problema è la pagina, non Google.
+
+Cosa sposta le posizioni
+
+## Quattro cose, in quest’ordine
+
+L’ottimizzazione per i motori di ricerca è fatta soprattutto delle prime due.
+
+01
+
+## Esistere per quella ricerca
+
+Nessuna pagina che parli dell’argomento, nessun posizionamento possibile. È il buco più comune e il più ignorato: si cerca di far salire la home su venti ricerche diverse invece di scrivere venti pagine. Google posiziona pagine, non siti.
+
+02
+
+## Parlare come chi cerca
+
+Il sito dice «gestionale di magazzino», la gente cerca «gestionale per magazzino»: per Google sono ricerche diverse. Allineare il vocabolario del sito a quello reale è il lavoro con il ritorno più rapido che esista, e si fa con i dati, non a intuito.
+
+03
+
+## Essere leggibili e veloci
+
+Struttura chiara, un solo titolo principale per pagina, indirizzi parlanti, dati strutturati, collegamenti interni sensati, e un sito che si apre in fretta su un telefono con la connessione della zona industriale. Non è magia, è manutenzione.
+
+04
+
+## Essere citati da altri
+
+I link da siti veri restano il segnale più forte e il più lento da costruire. Si guadagnano con lavori fatti bene, associazioni di categoria, fornitori, clienti, stampa locale. Comprarli a pacchetti è la scorciatoia che prima o poi presenta il conto.
+
+Ottimizzazione del sito
+
+## Cosa si tocca davvero, in pratica
+
+L’ ottimizzazione del sito per i motori di ricerca è fatta di interventi piccoli e molto concreti. Titolo e descrizione di ogni pagina scritti per una ricerca sola e diversi da quelli delle altre. Un solo titolo principale per pagina. Indirizzi leggibili, che dicano di cosa parla la pagina. Immagini con il testo alternativo e con le dimensioni dichiarate, così la pagina non balla mentre carica.
+
+Poi ci sono i pezzi che si vedono meno e pesano: i dati strutturati, che spiegano a Google che tipo di cosa è quella pagina; i collegamenti interni, che distribuiscono forza dalle pagine forti a quelle nuove; la sitemap e il file robots, che indirizzano il passaggio dei motori; i reindirizzamenti, quando un indirizzo cambia. Sono tutte cose che si fanno una volta e restano.
+
+Infine la velocità, che da qualche anno è anche un criterio dichiarato. Non serve la perfezione: serve che la pagina mostri qualcosa in fretta, che non si sposti mentre carica e che risponda subito al primo tocco. Come si misura e cosa conviene sistemare per primo è scritto nella guida sulla velocità e i Core Web Vitals .
+
+Chi cerca «ottimizzazione per i motori di ricerca», «ottimizzazione SEO» o «SEO ottimizzazione» sta chiedendo esattamente questo elenco. Non c’è una scorciatoia dentro: c’è una lista, e va fatta.
+
+SEO locale
+
+## Se i clienti sono a cinquanta chilometri
+
+Per chi vende in una zona, la gara è molto più abbordabile. La SEO locale — quella che molti cercano come SEO local — si gioca su tre tavoli: la scheda Google Business Profile, che compare nel riquadro con la mappa sopra i risultati normali; le pagine del sito dedicate alla zona, scritte per bene e non copiate cambiando il nome della città; e la coerenza di nome, indirizzo e telefono ovunque compaiate in rete.
+
+È anche la strada dove i risultati arrivano prima, perché i concorrenti seri sono pochi. Se lavorate nel Nordest, la pagina sul consulente SEO a Treviso entra nel merito con i numeri della zona; la guida alla scheda Google spiega cosa compilare e in che ordine.
+
+Aspettative oneste
+
+## Quanto ci vuole, senza girarci intorno
+
+- Giorni Indicizzazione delle pagine nuove, correzione degli errori tecnici bloccanti, scheda Google sistemata.
+
+- 4–8 settimane Le impressioni in Search Console iniziano a muoversi sulle ricerche nuove coperte. È il primo segnale attendibile.
+
+- 2–4 mesi Posizioni sulle ricerche locali e di coda lunga, dove la concorrenza è bassa. Qui arrivano i primi contatti.
+
+- 6–12 mesi Ricerche nazionali contese, contro siti con dieci anni di storico. Serve continuità: contenuti nuovi e link in arrivo.
+
+- Mai La prima posizione garantita. Chi la promette sta vendendo Ads travestito da SEO, oppure parole che non cerca nessuno.
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Qual e la differenza fra indicizzare e posizionare un sito?
+Indicizzare vuol dire far entrare la pagina nell'archivio di Google: e' un si o no, e di solito succede da solo in pochi giorni. Posizionare vuol dire farla arrivare in alto fra i risultati per una certa ricerca: e' una gara con tutti gli altri, e non finisce mai.
+Chi dice "il mio sito non e' su Google" nove volte su dieci e' gia' indicizzato: cercando site:ilmiosito.it le pagine compaiono. Il problema vero e' che nessuno lo trova cercando quello che vende, ed e' un problema diverso, che si risolve in mesi e non con un pulsante.
+
+Come faccio a indicizzare il mio sito su Google?
+Si registra il sito in Google Search Console, si invia la sitemap e si chiede l'indicizzazione delle pagine principali con lo strumento Controllo URL. Nella maggior parte dei casi basta questo e serve qualche giorno.
+Se una pagina non entra dopo settimane, il motivo e' quasi sempre uno di questi tre: e' bloccata dal file robots.txt, ha un meta tag noindex rimasto dallo sviluppo, oppure Google l'ha vista e ha deciso che non vale la pena tenerla perche' e' quasi identica a un'altra. I primi due si sistemano in minuti, il terzo e' un problema di contenuto.
+
+Quanto costa posizionare un sito su Google?
+Dipende da quanto e' competitivo il settore e da com'e' messo il sito oggi. Un'analisi con il piano di lavoro sta nella fascia bassa delle quattro cifre. Il lavoro continuativo si fa a mesi: per una ricerca locale o di nicchia bastano poche giornate al mese, per una ricerca nazionale contesa il conto e' molto piu' alto e va sostenuto per un anno.
+Quello che non ha senso e' un prezzo dato al telefono prima di aver guardato Search Console: senza sapere da dove si parte, e' un numero inventato.
+
+In quanto tempo si sale su Google?
+Sulle ricerche locali e di coda lunga, dove i concorrenti sono pochi, i primi movimenti si vedono in sei-dodici settimane. Sulle ricerche nazionali generiche servono da sei a dodici mesi di lavoro continuo, e il risultato non e' garantito.
+Il segnale che arriva per primo non e' la posizione: sono le impressioni in Search Console, cioe' quante volte il sito compare. Salgono settimane prima dei clic e dicono se la direzione e' giusta.
+
+Il posizionamento si compra?
+No, e qui si confondono due cose diverse. Gli annunci in cima ai risultati si comprano e sono contrassegnati come sponsorizzati: e' Google Ads, funziona benissimo e porta richieste dal primo giorno, ma smette nel momento in cui smettete di pagare. I risultati organici sotto non si comprano in nessun modo.
+Chi vi propone di "comprare la prima posizione" organica o vi sta vendendo Ads chiamandolo SEO, oppure vi sta vendendo link a pagamento, che e' contro le regole di Google e prima o poi si paga.
+
+Serve rifare il sito per posizionarlo?
+Spesso no. Nella maggior parte dei casi si lavora su quello che c'e': struttura, titoli, contenuti, velocita'. Rifarlo serve quando il sito e' costruito su una piattaforma che non permette di cambiare indirizzi e titoli, quando e' lentissimo su telefono, o quando ha una struttura che confonde sia i visitatori sia i motori.
+Se si rifa, il rischio vero e' perdere le posizioni gia' guadagnate durante il passaggio: si evita con una mappa dei reindirizzamenti fatta prima, non dopo.
+
+Come lo cercate
+
+## Posizionamento in Google, ottimizzazione motori di ricerca
+
+Posizionamento in Google, posizionamento su Google, posizionare un sito su Google, posizionamento sito web, google posizionamento, ottimizzazione del sito, ottimizzazione sito web, ottimizzazione motori di ricerca, ottimizzazione per i motori di ricerca, indicizzazione Google, indicizzare il sito su Google: sono modi diversi di chiedere le due cose spiegate qui sopra, e vale la pena capire quale delle due vi serve prima di comprare qualcosa.
+
+Chi cerca un esperto SEO , un consulente SEO freelance o la migliore agenzia SEO sta cercando soprattutto di non sbagliare fornitore. Il criterio più utile non è il listino: è se vi fanno vedere Search Console vostra durante la prima riunione, e se sanno dirvi su quali ricerche non conviene competere. Chi risponde «su tutte» non ha guardato i dati.
+
+Se vendete online il lavoro cambia parecchio e ha regole sue: schede prodotto, filtri, varianti, pagine che si moltiplicano da sole. Sta in SEO per e-commerce . Se invece vi servono contatti subito, mentre la SEO matura, la pagina giusta è Google Ads .
+
+Ottimizzare un sito web, ottimizzare il sito, ottimizzazione sito web, come ottimizzare un sito per Google, migliorare il posizionamento del sito: quando la richiesta arriva così, generica, la risposta utile non è un elenco di tecniche ma un ordine di priorità.
+
+L’ordine che funziona quasi sempre è questo. Primo: controllare in Search Console su quali ricerche il sito compare già in posizione 8-20, perché sono quelle dove basta poco per entrare fra i primi. Secondo: riscrivere titolo, descrizione e contenuto di quelle pagine con le parole esatte che la gente usa. Terzo: aggiungere le pagine che mancano per le richieste dove oggi non comparite affatto. Quarto, e solo quarto, la parte tecnica: velocità, dati strutturati, collegamenti interni. Chi parte dal quarto punto lavora per mesi senza vedere niente.
+
+## Pagine collegate
+
+SEO e posizionamento
+Consulente SEO
+Consulente SEO a Treviso
+SEO per e-commerce
+Google Ads
+Velocità e Core Web Vitals
+Rifare il sito senza perdere posizioni
+Sito web aziendale
+
+
+========================================================================
 # Quanto costa un e-commerce nel 2026
 URL: https://danova-tech.com/quanto-costa-un-ecommerce/
 Descrizione: Quanto costa aprire un negozio online in Italia: fasce di prezzo reali, costi fissi annui, cosa fa lievitare il preventivo e cosa si puo rinviare.
@@ -5964,6 +6534,14 @@ Perché di solito non contengono le stesse cose. Le differenze stanno quasi semp
 In quanto tempo si può essere online?
 Una partenza semplice in due o tre settimane. Un progetto di fascia media in quattro-otto settimane, e il tempo lo decide il catalogo più che lo sviluppo: fotografie, descrizioni e attributi sono la parte lunga. Se i contenuti li preparate voi in parallelo, si accorcia.
 
+Come lo cercate
+
+## Quanto costa aprire un ecommerce, un sito e-commerce
+
+Quanto costa un e-commerce, quanto costa aprire un ecommerce, quanto costa aprire un negozio online, quanto costa un sito ecommerce, quanto costa un sito di ecommerce, quanto costa fare un ecommerce: la domanda è la stessa e la risposta dipende quasi tutta da una cosa sola, cioè quanti prodotti avete e quanto sono complicati.
+
+Il conto che sorprende quasi sempre non è quello di partenza: è quello annuale. Piattaforma, commissioni sui pagamenti, spedizioni, fotografie, schede scritte, campagne, e il tempo di qualcuno che tiene aggiornate le giacenze. Chi apre un negozio online guardando solo il preventivo di costruzione si accorge del resto al terzo mese. Su questa pagina i numeri ci sono tutti, comprese le cinque voci che raddoppiano il conto.
+
 ## Pagine collegate
 
 Realizzazione e-commerce
@@ -5975,6 +6553,7 @@ Quanto costa un sito web
 Quanto costa un'app
 
 SEO per e-commerce
+Aprire un negozio online
 
 
 ========================================================================
@@ -6399,6 +6978,14 @@ Un'app per i vostri dipendenti — rapportini, ore, raccolta ordini, letture di 
 
 Quindi, quando la domanda è quanto costa lo sviluppo di un app, la prima cosa che chiediamo non è il budget: è chi la userà e cosa succede se non la scarica. Se la risposta è che il lavoro non si fa, siete nel primo caso e la cifra è ragionevole. Se la risposta è che non succede niente, il consiglio è fermarsi a ragionare prima di spendere, e spesso una web app che si apre dal browser risolve lo stesso problema a un terzo del costo.
 
+Come lo cercate
+
+## Quanto costa creare un’app, sviluppare un’app
+
+Quanto costa creare un app, quanto costa creare app, quanto costa fare un app, quanto costa sviluppare un app, quanto costa un applicazione, quanto costa realizzare un app: con o senza apostrofo la domanda è la stessa, e la risposta si divide sempre in due strade che costano in modo molto diverso.
+
+Un’ app aziendale , usata da persone che già lavorano con voi, si misura sul lavoro che fa risparmiare e si ripaga in mesi. Un’ app per il pubblico , che deve stare sugli store e farsi scaricare, ha un costo di sviluppo simile e un costo di promozione molto più alto, che quasi nessuno mette nel conto. Se il dubbio è fra app e sito, in metà dei casi la risposta giusta è una web app: costa meno, si aggiorna da sola e non passa dagli store.
+
 ## Pagine collegate
 
 App su misura
@@ -6522,6 +7109,16 @@ Nella pratica, entrambi, e in quest'ordine: i marketplace portano vendite prima 
 Il negozio resta mio?
 Sì: dominio, negozio, catalogo e dati dei clienti sono vostri, e gli accessi ve li consegniamo. Se un domani volete cambiare fornitore, portate via tutto. Sull'e-commerce questa domanda è più importante che altrove, perché in mezzo ci sono gli ordini e i dati dei vostri clienti.
 
+Come lo cercate
+
+## E-commerce B2C, negozio online , vendita B2B
+
+E-commerce B2C, ecommerce b2c, negozio online, shop online, vendita online, e-commerce B2B: la sigla sembra un dettaglio da addetti ai lavori e invece decide metà del progetto, perché i due negozi si assomigliano solo da fuori.
+
+Un e-commerce B2C vende a chiunque, con prezzi uguali per tutti, carrello semplice e un lavoro enorme su fiducia, spedizioni e resi. Un e-commerce B2B vende a clienti registrati, ognuno con il suo listino, il suo fido e i suoi sconti, e spesso serve soprattutto a togliere ordini dal telefono e dalla posta invece che a trovare clienti nuovi. Sul secondo abbiamo una pagina dedicata: e-commerce B2B .
+
+Molte aziende che producono hanno bisogno di entrambi, e la scelta seria non è quale piattaforma ma quale dei due si apre per primo. Di solito conviene partire da quello che porta soldi prima, che nella manifattura italiana è quasi sempre il B2B.
+
 ## Pagine collegate
 
 Siti web & E-commerce
@@ -6538,6 +7135,7 @@ E-commerce collegato al gestionale
 E-commerce B2B
 
 SEO per e-commerce
+Aprire un negozio online
 
 
 ========================================================================
@@ -6639,6 +7237,16 @@ Sì. I testi e le immagini delle pagine si modificano da un'area di gestione sem
 Fate anche il posizionamento dopo?
 Sì, ed è un lavoro separato dal sito. La creazione del sito web include l'impostazione tecnica corretta; il posizionamento vero è un'attività continua di contenuti e presenza che va avanti nei mesi. Vi diciamo prima quale delle due cose state comprando, per evitare l'equivoco più frequente di questo settore.
 
+Come lo cercate
+
+## Siti web professionali, creazione siti
+
+Siti web professionali, realizzazione siti web professionali, creazione siti web professionali, creare un sito web professionale, creazione siti internet, realizzazione siti internet: la parola «professionale» in queste ricerche non indica quasi mai la grafica. Indica la paura di ritrovarsi con un sito che sembra fatto in casa, che non si trova su Google e che nessuno può aggiornare senza chiamare qualcuno.
+
+I tre segni che distinguono un sito professionale da uno fatto per riempire un indirizzo sono concreti e verificabili prima di firmare: si apre in fretta anche su un telefono con poca rete, si aggiorna da soli senza toccare codice, ed è costruito in modo che Google capisca di cosa parla ogni pagina. Il resto — animazioni, effetti, pagine lunghissime — è gusto, e il gusto non porta clienti da solo.
+
+Se quello che vi serve è il conto prima del preventivo, la pagina onesta sui numeri è quanto costa un sito web .
+
 ## Pagine collegate
 
 Caso studio: GRG Performance
@@ -6650,6 +7258,8 @@ Quanto costa un sito web
 Consulente SEO
 Come scegliere un'agenzia web
 Accessibilità del sito web Velocità del sito web
+Restyling del sito
+Velocità e Core Web Vitals
 
 
 ========================================================================
@@ -6763,6 +7373,16 @@ Sì. Dominio, hosting, codice e contenuti sono intestati a te. Non esiste un can
 
 Fate anche SEO e campagne a Padova?
 Sì. Come agenzia SEO Padova lavoriamo su struttura, contenuti e scheda Google Business, e seguiamo il posizionamento insieme al sito. Chi cerca una web agency Padova o un'agenzia web Padova che si occupi anche di creazione siti web Padova e di campagne Google Ads con un unico interlocutore trova qui questa combinazione.
+
+Come lo cercate
+
+## Agenzia web a Padova, azienda informatica , software house
+
+Agenzia web Padova, web agency Padova, azienda informatica Padova, software house Padova, sviluppo app Padova, consulente SEO Padova, agenzia SEO Padova: chi cerca queste formule sta cercando cose diverse, e la differenza conta.
+
+Se vi serve chi tiene in piedi rete, server e postazioni, state cercando assistenza sistemistica e noi non la facciamo. Se vi serve chi progetta il sito, lo posiziona e lo collega a quello che avete già — gestionale, magazzino, e-commerce — allora siete nel posto giusto: siamo una software house che fa anche siti, e questa combinazione è esattamente il motivo per cui ci chiamano.
+
+Padova è a poco più di un’ora da Mansuè, quindi le riunioni in sede si fanno senza che diventino una spedizione. Per i gestionali e il controllo di gestione la pagina è gestionali su misura a Padova ; per il posizionamento, posizionamento del sito su Google .
 
 ## Pagine collegate
 
@@ -7028,6 +7648,16 @@ Raccontateci in mezz'ora cosa vendete e a chi. Vi diciamo cosa serve davvero, qu
 
 Richiedi un preventivo gratuito
 
+Come lo cercate
+
+## Software house a Treviso, azienda informatica , agenzia SEO
+
+Software house Treviso, azienda informatica Treviso, agenzia web Treviso, web agency Treviso, agenzia SEO Treviso, consulente SEO Treviso, sviluppo app Treviso: siamo in provincia, a Mansuè, fra Oderzo e Portogruaro, e nel trevigiano queste richieste ci arrivano tutte.
+
+La distinzione utile è sempre la stessa. Azienda informatica , nel modo in cui la gente usa la parola, indica spesso chi fa assistenza su reti e computer: non è il nostro mestiere. Software house indica chi sviluppa programmi su misura, e lo è. Agenzia web indica chi fa siti e campagne, e lo facciamo. Se dovete scegliere un fornitore, la domanda giusta non è come si chiama: è se il vostro problema finisce dentro il codice o si ferma alla grafica.
+
+Sul posizionamento nel trevigiano abbiamo una pagina che entra nel merito con i numeri della zona: consulente SEO a Treviso . Per i gestionali, gestionali su misura a Treviso .
+
 ## Zone e servizi collegati
 
 Siti web in Veneto
@@ -7045,6 +7675,7 @@ Siti web a Verona
 Restyling del sito web
 
 Guida a Google Business Profile
+Consulente SEO a Treviso
 
 
 ========================================================================
@@ -7156,6 +7787,16 @@ Sì. Dominio, hosting, codice e contenuti sono intestati a te. Non esiste un can
 
 Fate anche SEO e campagne a Udine?
 Sì. Come agenzia SEO Udine lavoriamo su struttura, contenuti e scheda Google Business, in italiano e in tedesco quando serve. Chi cerca una web agency Udine o un'agenzia web Udine capace di seguire anche il mercato austriaco nella lingua giusta trova qui la combinazione, che in Friuli è meno scontata di quanto sembri.
+
+Come lo cercate
+
+## Agenzia web a Udine, azienda informatica , software house
+
+Agenzia web Udine, web agency Udine, azienda informatica Udine, software house Udine, agenzia SEO Udine, sviluppo app Udine: in Friuli le richieste arrivano spesso da aziende che lavorano su commessa e che hanno bisogno di far parlare il sito con quello che succede in officina.
+
+La differenza fra i fornitori è la solita: chi fa assistenza su reti e postazioni, chi fa grafica e comunicazione, e chi scrive software. Noi siamo i terzi e facciamo anche i siti. Se il vostro problema è un server che si ferma, il fornitore giusto è un altro e ve lo diciamo subito.
+
+Udine è a un’ora e un quarto da Mansuè, Pordenone a mezz’ora scarsa. Per i gestionali la pagina è gestionali su misura a Udine .
 
 ## Pagine collegate
 
@@ -7550,6 +8191,16 @@ Sì. Dominio, hosting, codice e contenuti sono intestati a te. Non esiste un can
 Fate anche SEO e campagne a Verona?
 Sì. Come agenzia SEO Verona lavoriamo su struttura, contenuti e scheda Google Business, e la consulenza SEO Verona la seguiamo insieme al sito, non come servizio staccato. Chi cerca una web agency Verona o un'agenzia web Verona che faccia sito, posizionamento e campagne con la stessa logica trova qui esattamente questo: è il punto in cui fornitori separati di solito divergono.
 
+Come lo cercate
+
+## Agenzia web a Verona, azienda informatica , software house
+
+Agenzia web Verona, web agency Verona, azienda informatica Verona, software house Verona, sviluppo app Verona, sviluppo software Verona, agenzia SEO Verona: sono formule diverse per fornitori che in parte fanno cose diverse, e vale la pena sapere quale vi serve prima di chiamare.
+
+Una agenzia web si occupa di sito, contenuti e campagne. Una azienda informatica nel linguaggio comune è spesso chi fa assistenza sistemistica: reti, server, postazioni, backup. Una software house scrive programmi su misura. Noi siamo la terza e facciamo anche la prima: progettiamo siti ed e-commerce e sviluppiamo gestionali e applicazioni. L’assistenza sistemistica non la facciamo, e se è quello che cercate ve lo diciamo subito invece di provare a vendervi altro.
+
+Su Verona siamo onesti sulla distanza: siamo a Mansuè in provincia di Treviso, un’ora e mezza di macchina. Per un progetto che si costruisce con due o tre riunioni e poi prosegue da remoto — cioè la quasi totalità — non cambia niente. Se invece vi serve qualcuno che passi in sede ogni settimana, un fornitore veronese ha un vantaggio che non possiamo pareggiare. Per i gestionali la pagina dedicata è gestionali su misura a Verona .
+
 ## Pagine collegate
 
 Siti web in Veneto
@@ -7680,6 +8331,16 @@ Sì. Dominio, hosting, codice e contenuti sono intestati a te. Non esiste un can
 
 Fate anche SEO, app e campagne a Vicenza?
 Sì, tutto e tre. Come agenzia web Vicenza seguiamo sito, posizionamento e campagne insieme; lo sviluppo app Vicenza per agenti, montatori e assistenza lo cura lo stesso team. Chi cerca una web agency Vicenza che non si fermi al sito ma colleghi anche gestionale e app è esattamente il tipo di progetto su cui lavoriamo più spesso.
+
+Come lo cercate
+
+## Agenzia web a Vicenza, agenzia SEO , software house
+
+Agenzia web Vicenza, web agency Vicenza, agenzia SEO Vicenza, software house Vicenza, azienda informatica Vicenza, sviluppo software Vicenza: nel vicentino queste richieste arrivano quasi sempre da aziende che producono e che hanno già un sito, ma nessuno che lo faccia lavorare.
+
+È anche la zona dove la differenza fra i due mestieri si sente di più. Un sito di un’azienda che fa oreficeria, concia o meccatronica non deve essere bello e basta: deve reggere un catalogo tecnico, listini diversi per cliente, magari due lingue, e parlare con il gestionale. Un’agenzia di comunicazione fa la prima metà; la seconda richiede qualcuno che scriva codice, e siamo noi.
+
+Vicenza è a poco più di un’ora. Per i gestionali la pagina dedicata è gestionali su misura a Vicenza ; se il tema è vendere all’estero dal sito, ne parliamo in e-commerce B2B .
 
 ## Pagine collegate
 
@@ -7817,6 +8478,7 @@ Rifare il sito senza perdere posizioni
 Tutte le guide
 Velocità e Core Web Vitals
 Migrazione e-commerce
+Accessibilità obbligatoria dei siti
 
 
 ========================================================================
@@ -7928,6 +8590,14 @@ Meno di quanto vi dicono. Su un e-commerce il traffico che vende arriva su categ
 Lavorate sulla piattaforma che usiamo?
 Sì, su quelle diffuse e sui negozi sviluppati su misura. Quello che cambia non è il lavoro SEO ma quanto è facile applicarlo: alcune piattaforme in abbonamento non permettono di intervenire su certe parti, e in quel caso lo diciamo subito invece di promettere interventi che non si possono fare.
 
+Come lo cercate
+
+## SEO per ecommerce, agenzia SEO ecommerce
+
+SEO per ecommerce, seo per e-commerce, agenzia seo ecommerce, agenzia SEO per e-commerce, posizionamento ecommerce, ottimizzazione ecommerce, SEO negozio online: con o senza trattino è la stessa richiesta, e Google la tratta quasi allo stesso modo. Quello che cambia davvero non è la grafia, è da dove arriva oggi il vostro fatturato.
+
+La domanda che facciamo per prima è sempre la stessa: quanta parte degli ordini arriva oggi da ricerca organica, e quanta da campagne a pagamento. Se il negozio vive di Ads al novanta per cento, la SEO è un investimento che matura in un anno e nel frattempo il budget pubblicitario non si può toccare. Se invece l’organico già porta ordini ma solo sul nome del marchio, il margine di crescita è enorme ed è quasi tutto nelle categorie, non nelle schede prodotto.
+
 ## Pagine collegate
 
 SEO e posizionamento
@@ -7937,6 +8607,7 @@ Migrazione e-commerce
 E-commerce B2B
 Velocità del sito e Core Web Vitals
 Quanto costa un e-commerce
+Posizionamento su Google
 
 
 ========================================================================
@@ -8065,6 +8736,7 @@ Quanto costa un'app
 
 App gestione cantieri
 App timbrature e ore di lavoro
+App aziendali in Veneto
 
 
 ========================================================================
@@ -8343,6 +9015,16 @@ Il remarketing Google Ads è la voce con il ritorno più alto e anche la più fr
 
 Sulla lead generation B2B diciamo una cosa che non aiuta a vendere: se il vostro sito non risponde alle obiezioni di chi deve scegliere un fornitore, le campagne portano richieste che non si chiudono. In quel caso il primo investimento utile non è in pubblicità, è nelle pagine. Lo diciamo al primo incontro, non al terzo mese.
 
+Come lo cercate
+
+## Gestione campagne Google Ads, agenzia Google Ads
+
+Gestione campagne Google Ads, gestione campagna Google Ads, gestione Google Ads, agenzia Google Ads, consulente Google Ads, gestione AdWords, campagne AdWords: il nome vecchio si usa ancora e indica la stessa cosa. Quello che cambia davvero fra un fornitore e l’altro non è la piattaforma, è cosa considera un risultato.
+
+La domanda da fare prima di firmare è una sola: cosa mi mostrerete alla fine del mese? Se la risposta è clic, impressioni e costo per clic, state comprando traffico. Se la risposta è quante richieste sono arrivate, da quali parole e quante sono diventate clienti, state comprando lavoro. La seconda richiede che le conversioni siano tracciate bene prima di partire, ed è il motivo per cui la prima settimana di una campagna seria non si spende quasi niente.
+
+C’è anche un uso di Ads che quasi nessuno propone e che vale molto: farne una piccola campagna per due settimane prima di decidere i contenuti del sito. Vi dice con dati veri quali parole portano richieste e quali solo curiosi, e quella informazione indirizza mesi di lavoro SEO molto meglio di qualsiasi ipotesi.
+
 ## Pagine collegate
 
 Consulenza SEO
@@ -8597,6 +9279,16 @@ Vale anche per il link building. Un'agenzia linkbuilding che vende pacchetti di 
 
 Sui termini generici — come ottimizzare un sito, indicizzare un sito, posizionarsi su Google, arrivare ai primi posti su Google — la risposta onesta è che non esiste un intervento unico: c'è una parte tecnica che si chiude in poche settimane, e una parte di contenuti che non finisce mai. Chi promette i primi posti su Google in un tempo definito non sa di cosa sta parlando oppure lo sa benissimo.
 
+Come lo cercate
+
+## Esperto SEO, migliore agenzia SEO , SEO locale
+
+Agenzia SEO, seo agenzia, esperto SEO, esperto in SEO, specialista SEO, consulente SEO freelance, migliore agenzia SEO, migliori agenzie SEO, SEO local: chi cerca così sta soprattutto cercando di non sbagliare fornitore, perché in questo settore il danno di una scelta sbagliata non si vede per sei mesi.
+
+Due criteri pratici, che costano nulla e funzionano. Il primo: chiedete di vedere la vostra Search Console durante la prima riunione. Chi lavora sui dati la apre subito; chi vende pacchetti parla di «autorevolezza» e di «algoritmo». Il secondo: chiedete su quali ricerche non conviene competere. Una risposta seria contiene sempre un elenco di rinunce; «su tutte» vuol dire che non ha guardato i volumi.
+
+La SEO locale merita un discorso a parte perché è il caso in cui i risultati arrivano prima e costano meno: pochi concorrenti seri, scheda Google che pesa quanto il sito, e ricerche fatte da chi sta già scegliendo a chi telefonare. Se lavorate nel Nordest, i numeri della zona sono nella pagina sul consulente SEO a Treviso . Sulla differenza fra indicizzare e posizionare — che è la confusione più costosa di tutte — c’è posizionamento del sito su Google .
+
 ## Gli altri servizi
 
 Siti web & E-commerce
@@ -8615,6 +9307,8 @@ Guida a Google Business Profile
 Tutte le guide
 Velocità e Core Web Vitals
 SEO per e-commerce
+Consulente SEO a Treviso
+Posizionamento su Google
 
 
 ========================================================================
@@ -9013,6 +9707,8 @@ Consulente SEO
 Lavori realizzati
 Guida a Google Business Profile
 Velocità del sito web
+Accessibilità obbligatoria dei siti
+Velocità e Core Web Vitals
 
 
 ========================================================================
@@ -9146,6 +9842,7 @@ Fatturazione elettronica automatizzata
 
 Software MES per la produzione
 Software preventivi e configuratore
+Gestionale per studi professionali
 
 
 ========================================================================
@@ -9266,6 +9963,7 @@ Software gestionale aziendale
 E-commerce collegato al gestionale
 Gestionale cloud
 Software e automazioni
+Gestione documentale
 
 
 ========================================================================
@@ -9377,6 +10075,16 @@ Sì, ed è uno dei motivi principali per cui nell'alimentare i prodotti generali
 Possiamo collegarlo all'EDI della catena con cui lavoriamo?
 Nella maggior parte dei casi sì: ordini, conferme e documenti di trasporto verso la grande distribuzione sono un'integrazione che si fa, ma va trattata come una tappa a sé perché ogni catena ha le sue specifiche e i suoi tempi di certificazione.
 
+HACCP e registrazioni
+
+## Software HACCP e registrazioni obbligatorie
+
+Chi cerca un « software HACCP » ha in mente due cose molto diverse, e la differenza decide se vi serve un prodotto pronto o un sistema vostro. La prima è il manuale di autocontrollo e i moduli da compilare: temperature, sanificazioni, controlli in accettazione. Per questa parte esistono applicazioni in abbonamento che costano poche decine di euro al mese, sono fatte bene e vi consigliamo di usarle. Non ha senso svilupparle.
+
+La seconda è il collegamento fra quelle registrazioni e la produzione vera: il lotto, la materia prima entrata, il fornitore, la resa, la partita uscita, il cliente a cui è andata. Quando una registrazione HACCP resta in un’app separata, davanti a un controllo o a un ritiro dovete ricostruire a mano il legame fra il dato di controllo e la partita. È esattamente il lavoro che non si riesce a fare in fretta quando serve farlo in fretta.
+
+Il metro pratico è questo: se le registrazioni servono solo a essere in regola, un prodotto pronto basta e ve lo diciamo. Se servono anche a dimostrare in mezz’ora dove è finita una partita, allora devono stare dove stanno i lotti, cioè nel vostro sistema di tracciabilità.
+
 ## Pagine collegate
 
 Gestionale di magazzino
@@ -9386,6 +10094,7 @@ Controllo di gestione
 E-commerce collegato al gestionale
 Quanto costa un gestionale
 Gestionali e CRM su misura
+Gestione documentale
 
 
 ========================================================================
@@ -9502,6 +10211,10 @@ La prima: quali aree vi servono davvero adesso? Un gestionale che copre dodici a
 La seconda: quanto costa in tre anni, tutto compreso? Canoni per utente, moduli, giornate di avviamento, formazione, assistenza. È il conto che ribalta più spesso le decisioni, e quasi nessuno lo fa su un foglio prima di firmare.
 
 La terza, quella che nessuno chiede: come si esce? Se un giorno volete cambiare, i vostri dati escono in un formato aperto senza costi aggiuntivi e senza chiedere il permesso? Se la risposta è vaga, è un no. Abbiamo scritto una guida che affronta queste domande una per una , con le otto da fare a ogni fornitore.
+
+Software gestionale aziendale, software di gestione aziendale, software per la gestione aziendale, software per gestione aziendale, software gestionali aziendali, azienda software gestionale, software per aziende, software di gestione per aziende: sono modi diversi di nominare la stessa categoria, e la categoria è talmente larga che da sola non dice niente.
+
+La domanda che restringe davvero è un’altra: qual è il punto in cui oggi i dati si fermano o si riscrivono a mano? In quasi tutte le aziende ce ne sono due o tre, e sono sempre gli stessi — fra ufficio e produzione, fra magazzino e amministrazione, fra e-commerce e gestionale. Un software di gestione aziendale utile è quello che toglie proprio quei passaggi; uno che li lascia in piedi e aggiunge schermate è un costo.
 
 ## Pagine collegate
 
@@ -9631,6 +10344,14 @@ Nella maggior parte dei casi sì, leggendo anagrafiche, articoli e documenti. Lo
 
 Cosa succede se ci fermiamo dopo la prima tappa?
 Tenete tutto quello che è stato costruito, con sorgente e documentazione. È il motivo per cui la prima tappa è sempre quella che porta il beneficio maggiore: deve reggersi da sola.
+
+Come lo cercate
+
+## Software per la gestione delle commesse
+
+Software gestione commesse, software gestionale commesse, programma gestione commesse, gestione commesse aziendali, controllo commesse: la richiesta arriva quasi sempre dopo una brutta sorpresa, cioè una commessa chiusa in perdita che sembrava andare bene.
+
+Il motivo per cui succede è quasi sempre lo stesso: le ore e i materiali si sanno a consuntivo, settimane dopo. Quando il dato arriva, la commessa è finita e non c’è più niente da correggere. Un sistema di gestione commesse serve prima di tutto a saperlo mentre succede, non a fare una relazione più bella alla fine. Il resto — preventivo, avanzamento, fatturazione a stati — viene dopo.
 
 ## Pagine collegate
 
@@ -9764,6 +10485,24 @@ Sì, come scadenzario: DURC, POS, idoneità tecnico professionale e formazione c
 Funziona anche per lavori pubblici con SAL e riserve?
 Sì, ma è una tappa a sé. Gli stati di avanzamento con quadro economico, riserve e varianti hanno regole loro, e conviene affrontarli dopo che ore e costi per commessa sono già in uso e i dati sono affidabili.
 
+Computo metrico e contabilità di cantiere
+
+## Computo metrico e contabilità di cantiere
+
+Chi cerca «software computo metrico», «programma computo metrico» o «contabilità di cantiere» quasi sempre non ha bisogno di uno sviluppo su misura, e conviene dirlo. Il computo metrico è un lavoro molto normato, legato ai prezzari regionali e ai capitolati, e i prodotti specializzati che lo fanno esistono da vent’anni, costano poche centinaia di euro e li aggiorna qualcun altro ogni volta che cambia un prezzario. Riscriverli sarebbe buttare soldi.
+
+Il problema vero arriva dopo. Il computo sta in un programma, gli ordini ai fornitori in un altro, le ore delle squadre su un foglio e i SAL in un file di Excel che aggiorna una persona sola. Ogni passaggio è una ridigitazione, e alla fine nessuno sa dire in tempo utile se il cantiere sta dentro il preventivato. È lì che interveniamo: non sostituiamo il programma di computo, lo colleghiamo.
+
+In pratica significa che le voci computate diventano il budget del cantiere, le ore e i materiali consuntivi si confrontano con quel budget mentre il lavoro va avanti, e i SAL escono dai numeri veri invece che da una ricostruzione fatta la domenica. La contabilità di cantiere smette di essere un adempimento a posteriori e diventa il modo in cui vi accorgete di una commessa in perdita quando siete ancora in tempo.
+
+- Il computo resta dov’è. Non si sostituisce un prodotto normato che funziona.
+
+- Il budget nasce dal computo. Le voci computate diventano il metro di confronto del cantiere.
+
+- Il consuntivo arriva dal campo. Ore, mezzi e materiali dai rapportini, non da una ricostruzione.
+
+- Il SAL esce dai numeri. Avanzamento e fatturazione senza passare da un foglio parallelo.
+
 ## Pagine collegate
 
 Gestionale commesse
@@ -9778,6 +10517,8 @@ App gestione cantieri
 App timbrature e ore di lavoro
 
 Software preventivi e configuratore
+Gestionale per l’agroalimentare
+Incentivi e iperammortamento
 
 
 ========================================================================
@@ -9901,6 +10642,10 @@ Se il vostro problema principale è il flusso dell'intervento — dalla chiamata
 
 Una nota su app gestione manutenzioni: l'app non è un progetto separato. È la parte di questo sistema che sta nelle mani dei tecnici, e conviene svilupparla insieme al resto e non dopo, perché è quella che determina se i dati arrivano.
 
+Software gestione manutenzioni, software per gestione manutenzione, software per la gestione della manutenzione, software di manutenzione, programma manutenzioni, gestione manutenzioni programmate: chi cerca queste parole ha quasi sempre lo stesso problema, cioè ricordarsi cosa va fatto e quando, su impianti che stanno da clienti diversi.
+
+La distinzione utile è fra manutenzione a guasto e programmata . Sulla prima il software serve a rispondere in fretta: chi è libero, cosa c’è in furgone, com’è andata l’ultima volta su quell’impianto. Sulla seconda serve a non dimenticare: scadenze, contratti, visite comprese nel canone, e la fattura che parte davvero quando la visita è stata fatta. La seconda vale più soldi della prima e quasi nessuno la tiene in ordine.
+
 ## Pagine collegate
 
 App rapportini di lavoro
@@ -9915,6 +10660,7 @@ Software gestione interventi tecnici
 App timbrature e ore di lavoro
 
 Software preventivi e configuratore
+Gestionale per studi professionali
 
 
 ========================================================================
@@ -10047,6 +10793,10 @@ La terza è dove sta il sistema. Un gestionale magazzino cloud si raggiunge da p
 
 Se quello che cercate è un software picking magazzino per guidare i prelievi, oppure un programma per inventario magazzino per smettere di fermare l'azienda due giorni a dicembre, sono entrambe tappe di questo stesso progetto e si possono fare una alla volta.
 
+Software gestionale del magazzino, programma gestione magazzino, programmi per gestione magazzino, gestione magazzino programma, programmi di magazzino, programma di magazzino: sono tutte richieste della stessa cosa, e la parola «programma» la usa di solito chi ha in mente qualcosa di installato sul computer dell’ufficio. Oggi quasi sempre conviene il contrario: un sistema raggiungibile dal magazzino con un terminale in mano, non dalla scrivania.
+
+Chi cerca « app gestione magazzino », «app per gestione magazzino» o «gestione magazzino app» ha già capito il punto: il dato deve nascere dove succede la cosa, cioè davanti allo scaffale. Se il magazziniere segna su un foglio e qualcuno ricopia la sera, il magazzino è sempre sbagliato di mezza giornata. La pagina che entra nel merito di carichi, prelievi e inventario con il lettore è app di magazzino con lettore di codici a barre .
+
 - Ubicazioni, anche semplici. Corsia e scaffale bastano: è la differenza fra cercare e andare a prendere.
 
 - Movimenti letti, non digitati. Con il telefono che avete già, prima di comprare terminali.
@@ -10071,6 +10821,7 @@ Gestionale, ERP e CRM: le differenze
 
 App magazzino con codici a barre
 Gestionale agroalimentare
+App magazzino con codici a barre
 
 
 ========================================================================
@@ -10194,6 +10945,7 @@ Gestionali e CRM su misura
 
 Software MES per la produzione
 Software preventivi e configuratore
+Gestionale per officina meccanica
 
 
 ========================================================================
@@ -10464,6 +11216,7 @@ Gestionale agroalimentare
 
 Software MES per la produzione
 Software preventivi e configuratore
+Gestionale per officina meccanica
 
 
 ========================================================================
@@ -10584,6 +11337,7 @@ Controllo di gestione
 Software per PMI
 Quanto costa un gestionale
 Gestionali e CRM su misura
+Gestione documentale
 
 
 ========================================================================
@@ -10718,6 +11472,7 @@ Gestionale per il noleggio
 Gestionali a Verona
 
 Software gestione flotte
+Gestionale per il noleggio
 
 
 ========================================================================
@@ -10839,6 +11594,14 @@ Sì, ed è uno dei motivi per cui i prodotti generalisti vanno stretti a chi ha 
 Serve un'app per gli autisti?
 Non all'inizio. Si parte dall'ufficio, e l'app si aggiunge quando serve raccogliere dal campo: rifornimenti, chilometri, anomalie segnalate con una foto, checklist di partenza. È una tappa successiva e si ripaga se gli autisti sono molti.
 
+Come lo cercate
+
+## Gestione dell’autoparco e noleggio auto
+
+Gestione autoparco, software gestione autoparco, gestionale noleggio auto, gestionale autonoleggio, gestionale noleggio con conducente, software gestione parco mezzi: cambia la parola secondo il mestiere, ma la domanda di fondo è sempre quanto costa davvero ogni mezzo e chi ce l’ha adesso.
+
+La differenza vera è fra chi i mezzi li usa e chi li noleggia. Nel primo caso il conto che serve è il costo per chilometro e per mezzo, con carburante, manutenzioni, assicurazioni e fermi. Nel secondo il cuore è la disponibilità: cosa è libero in quelle date, contratti, franchigie, stato del mezzo alla consegna e al rientro. Per il noleggio di attrezzature e macchinari la pagina dedicata è gestionale per il noleggio .
+
 ## Pagine collegate
 
 Gestionale per il noleggio
@@ -10848,6 +11611,7 @@ Software gestione interventi tecnici
 Controllo di gestione
 Quanto costa un gestionale
 Gestionali e CRM su misura
+Gestionale per il noleggio
 
 
 ========================================================================
@@ -11104,6 +11868,16 @@ La sede è in provincia di Treviso e per le aziende del Nordest andiamo volentie
 
 Quanto tempo serve per il primo pezzo funzionante?
 In genere sei-otto settimane dall'inizio dello sviluppo per qualcosa che si può usare davvero, non una demo. Il progetto completo dipende dal perimetro: un gestionale multi-reparto sono mesi, ma vengono consegnati a blocchi, quindi cominciate a usarlo molto prima della fine.
+
+Come lo cercate
+
+## Azienda software, consulenza informatica , consulente gestionale
+
+Azienda software, azienda di software, software house, azienda informatica, consulenza informatica aziendale, consulente informatico, consulente gestionale: sono nomi che nel parlato si sovrappongono, ma dietro ci sono mestieri diversi e sceglierne uno per un problema dell’altro fa perdere mesi.
+
+Assistenza informatica vuol dire reti, server, postazioni, backup, posta. È un mestiere serio che non facciamo: se il problema è una macchina che non parte, il fornitore giusto non siamo noi e ve lo diciamo al telefono. Consulenza informatica aziendale , nel senso in cui la cercano le PMI, vuol dire farsi aiutare a decidere: cosa tenere, cosa sostituire, cosa far parlare con cosa. Quella la facciamo, e spesso il consiglio che diamo è di non sviluppare niente. Software house vuol dire scrivere programmi su misura, ed è il mestiere principale.
+
+Chi cerca un consulente gestionale di solito è nel mezzo: ha un gestionale che non basta più e non sa se il problema sia il prodotto, la configurazione o il modo in cui l’azienda lavora. Le tre cose si distinguono in una mezza giornata guardando due o tre processi veri, e la risposta cambia completamente il preventivo. Se la conclusione è che vi basta configurare meglio quello che avete, lo diciamo.
 
 ## Pagine collegate
 
@@ -11737,6 +12511,7 @@ Come scegliere un gestionale
 Integrazione software aziendali
 
 Software MES per la produzione
+App aziendali in Veneto
 
 
 ========================================================================
@@ -11859,3 +12634,4 @@ App su misura
 
 Quanto costa un'app
 App rapportini di lavoro
+App aziendali in Veneto
