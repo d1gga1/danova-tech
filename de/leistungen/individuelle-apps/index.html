@@ -187,7 +187,54 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
             }
           }
         ]
-      }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Web-App im Abo",
+          "description": "Webanwendung mit Hosting, Updates und Support.",
+          "price": 50.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/de/leistungen/individuelle-apps/",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": 50.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true,
+            "unitCode": "MON"
+          },
+          "seller": {
+            "@id": "https://danova-tech.com/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Web-App im Abo"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Fertige Web-App",
+          "description": "Bereits entwickelte, angepasste und sofort einsatzbereite Webanwendung.",
+          "price": 750.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/de/leistungen/individuelle-apps/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 750.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "seller": {
+            "@id": "https://danova-tech.com/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Fertige Web-App"
+          }
+        }
+      ]
     },
     {
       "@type": "WebPage",
@@ -294,6 +341,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../../#settori">Für wen</a>
       <a href="../../#lavori">Projekte</a>
       <a href="../../#processo">Ablauf</a>
+      <a href="/de/preise/" class="nav-prezzi">Preise</a>
       <a href="../../#contatti">Kontakt</a>
     </nav>
     <div class="nav-r">
@@ -315,6 +363,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
   <a href="../../#settori">Für wen</a>
   <a href="../../#lavori">Projekte</a>
   <a href="../../#processo">Ablauf</a>
+  <a href="/de/preise/" class="nav-prezzi">Preise</a>
   <a href="../../#contatti">Kontakt</a>
 
   <div class="mob-lang-links">
@@ -424,6 +473,36 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
   </div>
 </section>
 
+
+<section id="prezzo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Unser Preis</div>
+      <h2 class="title" data-rv="up">Was es <span class="grad">bei uns kostet</span></h2>
+      <p class="lead" data-rv="up">Eine Web-App öffnet sich im Browser, muss nicht installiert werden und läuft auf Rechner, Tablet und Handy. Auch hier können Sie mit einer Monatsgebühr starten oder eine fertige Anwendung nehmen und sofort loslegen.</p>
+    </div>
+    <div class="price-grid">
+      <article class="price-card" data-tilt data-rv="blur">
+        <span class="price-kind mono">Variante 1</span>
+        <h3>Web-App im Abo</h3>
+        <p class="price-amt"><b>50 €</b><span>pro Monat</span></p>
+        <p class="price-note">inkl. MwSt. · keine Aktivierungsgebühr</p>
+        <ul class="price-list"><li>Aus jedem Browser erreichbar</li><li>Hosting, Backups und Updates inklusive</li><li>Benutzer, Rollen und Berechtigungen</li><li>Korrekturen und kleine Erweiterungen enthalten</li><li>Support in der Gebühr enthalten</li></ul>
+        <a href="/de/#contatti" class="btn btn-g" data-mag><span class="lbl">Sprechen wir darüber</span></a>
+      </article>
+      <article class="price-card" data-tilt data-rv="blur">
+        <span class="price-kind mono">Variante 2</span>
+        <h3>Fertige Web-App</h3>
+        <p class="price-amt"><b>ab 750 €</b><span>einmalig</span></p>
+        <p class="price-note">inkl. MwSt. · sofort einsatzbereit</p>
+        <ul class="price-list"><li>Bereits entwickelt, keine Wartezeit von Monaten</li><li>Eingerichtet mit Ihren Daten, Farben und Ihrem Logo</li><li>Einmalzahlung, kein Pflichtabo</li><li>Spätere Erweiterungen separat kalkuliert</li><li>Einführungsschulung inklusive</li></ul>
+        <a href="/de/#contatti" class="btn btn-g" data-mag><span class="lbl">Angebot anfordern</span></a>
+      </article>
+    </div>
+    <p class="price-foot" data-rv="up"><a href="/de/preise/" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Alle Preise ansehen</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a></p>
+  </div>
+</section>
+
 <section id="faq">
   <div class="wrap">
     <div class="sec-head">
@@ -493,6 +572,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../">Alle Leistungen</a></li>
       </ul></div>
       <div><h5>Agentur</h5><ul>
+        <li><a href="/de/preise/">Preise</a></li>
         <li><a href="../../#settori">Für wen wir arbeiten</a></li>
         <li><a href="../../#lavori">Beispielprojekte</a></li>
         <li><a href="../../#processo">Unsere Methode</a></li>

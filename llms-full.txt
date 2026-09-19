@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-09-16 da https://danova-tech.com
+# Generato il 2026-09-19 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -106,6 +106,62 @@ Programmi su misura, integrazioni e automazioni che tolgono il lavoro ripetitivo
 - Software desktop e strumenti interni
 
 Ho un processo da automatizzare
+
+Prezzi
+
+## Quanto costa, detto subito.
+
+Le cifre stanno scritte, non si scoprono in fondo a una call. Tutti i prezzi sono IVA inclusa.
+
+Sito web
+
+## Sito in abbonamento o sito vostro
+
+24,80 € al mese
+
+oppure 350 € una tantum + 150 € di SEO su Google e Bing
+
+IVA inclusa · durata minima 24 mesi
+
+- Dominio e hosting inclusi
+- Manutenzione e modifiche comprese
+- Nessun costo di avvio
+
+Dettagli
+
+Applicazione web
+
+## Web app in canone o pronta da subito
+
+50 € al mese
+
+oppure da 750 € una tantum, operativa subito
+
+IVA inclusa · attivazione senza costi
+
+- Hosting e aggiornamenti inclusi
+- Utenti, ruoli e permessi
+- Assistenza compresa
+
+Dettagli
+
+Gestionale aziendale
+
+## Gestionale su misura
+
+da 1.500 € a progetto
+
+cifra definita dopo l'analisi gratuita
+
+IVA inclusa · prezzo fisso, non cambia in corsa
+
+- Analisi dei vostri processi
+- Migrazione dei dati
+- Formazione inclusa
+
+Dettagli
+
+Vedi il listino completo
 
 Per chi lavoriamo
 
@@ -6404,6 +6460,194 @@ Sito web aziendale
 
 
 ========================================================================
+# Prezzi siti web, web app e gestionali
+URL: https://danova-tech.com/prezzi/
+Descrizione: Sito web da 24,80 € al mese o 350 € una tantum (+150 € di SEO). Web app da 50 € al mese o 750 €. Gestionale aziendale da 1.500 €. Prezzi IVA inclusa.
+========================================================================
+
+Home / Servizi / Prezzi
+
+Listino
+
+## Prezzi scritti, non sussurrati.
+
+Quasi nessuna agenzia mette i prezzi sul sito. Noi sì. Qui sotto trovate quanto costa un sito web, un'applicazione web e un gestionale aziendale, cosa c'è dentro ogni cifra e quando conviene il canone mensile invece del pagamento unico. Tutti i prezzi sono IVA inclusa.
+
+Richiedi un preventivo
+
+Vai al listino
+
+Sito web
+
+## Quanto costa un sito web
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Applicazione web
+
+## Quanto costa un'applicazione web
+
+Un'applicazione web si apre dal browser, non si installa e funziona su computer, tablet e telefono. Anche qui potete partire con un canone oppure prendere un'applicazione già pronta e averla operativa subito.
+
+Opzione 1
+
+## Web app in abbonamento
+
+50 € al mese
+
+IVA inclusa · attivazione senza costi iniziali
+
+- Applicazione raggiungibile da qualsiasi browser
+- Hosting, backup e aggiornamenti inclusi
+- Utenti, ruoli e permessi
+- Correzioni e piccole evoluzioni comprese
+- Assistenza inclusa nel canone
+
+Parlane con noi
+
+Opzione 2
+
+## Web app pronta
+
+da 750 € una tantum
+
+IVA inclusa · operativa da subito
+
+- Applicazione già sviluppata, non si aspettano mesi
+- Personalizzata con i vostri dati, colori e logo
+- Pagamento unico, nessun canone obbligatorio
+- Evoluzioni successive preventivate a parte
+- Formazione iniziale inclusa
+
+Richiedi il preventivo
+
+Gestionale aziendale
+
+## Quanto costa un gestionale aziendale
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Come scegliere
+
+## Canone mensile o pagamento unico?
+
+Il canone conviene se volete partire senza mettere soldi sul tavolo all'inizio e preferite avere dominio, hosting, manutenzione e modifiche dentro una voce sola, senza pensarci più. A 24,80 € al mese il sito è online, aggiornato e assistito, e le piccole modifiche non diventano ogni volta un preventivo.
+
+Il pagamento unico conviene se preferite chiudere la spesa e non avere vincoli. A 350 € il sito è vostro, con 150 € in più lo mettiamo in condizione di farsi trovare su Google e Bing, e da lì in avanti non pagate più nulla se non dominio e hosting.
+
+Una cosa la diciamo controvoglia ma la diciamo: un canone mensile alto e generico, da chiunque arrivi, spesso è il costo del sito rateizzato. Il nostro è basso apposta perché non è quello: è il servizio, non il sito nascosto dentro una rata. Se dopo 24 mesi volete passare al sito vostro, se ne parla senza drammi.
+
+Trasparenza
+
+## Cosa c'è dentro il prezzo, e cosa no
+
+Dentro ogni cifra ci sono progettazione, sviluppo, messa online e i controlli che servono perché la pagina sia veloce e leggibile anche da telefono. Non ci sono costi di attivazione, non ci sono voci che compaiono a lavoro finito.
+
+Fuori dal prezzo restano le cose che dipendono da voi: eventuali licenze di terze parti, le fotografie professionali se le volete fatte da uno studio, la pubblicità su Google o su Meta (che è budget vostro, non nostro compenso) e le evoluzioni chieste dopo la consegna, che preventiviamo a parte e solo se le chiedete.
+
+Sui progetti più grandi — un gestionale, un'integrazione con il vostro sistema di fatturazione — la cifra arriva dopo un'analisi gratuita. È l'unico modo per dare un numero che regge fino alla fine.
+
+## FAQ
+
+Quanto costa un sito web?
+Da noi un sito web costa 24,80 € al mese IVA inclusa, con dominio, hosting, manutenzione e modifiche compresi e una durata minima di 24 mesi; oppure 350 € una tantum se preferite pagarlo in una volta sola e averlo vostro. In questo secondo caso l'ottimizzazione SEO per Google e Bing costa 150 € aggiuntivi, quindi 500 € in tutto.
+
+Cosa comprende il canone da 24,80 € al mese?
+Comprende il dominio, l'hosting con certificato SSL, la manutenzione con backup e aggiornamenti di sicurezza, le modifiche ai testi e alle immagini e l'assistenza. Non ci sono costi di avvio: si parte con la prima mensilità. La durata minima è di 24 mesi.
+
+Cosa sono i 150 € di SEO per Google e Bing?
+Sono l'ottimizzazione iniziale del sito per i motori di ricerca: struttura delle pagine, titoli e descrizioni, dati strutturati, sitemap, registrazione su Google Search Console e Bing Webmaster Tools e invio delle pagine per l'indicizzazione. È un lavoro una tantum e si aggiunge al sito da 350 €.
+
+Quanto costa un'applicazione web?
+Un'applicazione web costa 50 € al mese IVA inclusa, con hosting, aggiornamenti e assistenza inclusi, oppure a partire da 750 € una tantum se scegliete un'applicazione già pronta, che è operativa da subito.
+
+Quanto costa un gestionale aziendale?
+Un gestionale su misura parte da 1.500 € IVA inclusa. La cifra esatta si definisce dopo un'analisi gratuita dei vostri processi, perché dipende da quanti moduli servono, da quanti dati vanno migrati e da quali sistemi deve dialogare. Una volta dato, il prezzo è fisso e non cambia in corso d'opera.
+
+I prezzi sono IVA inclusa?
+Sì. Tutte le cifre indicate in questa pagina sono IVA inclusa: quello che leggete è quello che pagate.
+
+Ci sono costi nascosti o di attivazione?
+No. Non chiediamo costi di attivazione, di setup o di uscita. Le uniche voci che si aggiungono sono quelle che chiedete voi dopo la consegna, e prima di farle vi arriva sempre un preventivo scritto.
+
+Il sito resta mio?
+Con il pagamento unico sì, dal giorno della consegna: dominio, hosting e contenuti sono intestati a voi. Con il canone il sito è in gestione a noi per i 24 mesi minimi, ma i contenuti restano vostri e alla scadenza potete passare al sito di proprietà senza rifare tutto da capo.
+
+Come si arriva al preventivo?
+Con una call gratuita di mezz'ora in cui capiamo cosa vi serve. Poi vi arriva un preventivo a prezzo fisso, con dentro tutto quello che serve per andare online. Se durante la call emerge che vi basta la soluzione più piccola, ve lo diciamo.
+
+## Volete la cifra sul vostro caso?
+
+Mezz'ora di call, gratuita e senza presentazioni commerciali: vi diciamo quale delle soluzioni qui sopra vi serve davvero, quanto costa e in quanto tempo va online.
+
+Richiedi un preventivo gratuito
+
+Quanto costa un sito web — la guida
+Quanto costa un gestionale
+Quanto costa un'app
+Quanto costa un e-commerce
+Siti web & E-commerce — il servizio
+App su misura — il servizio
+Gestionali & CRM — il servizio
+SEO & posizionamento
+Come scegliere un'agenzia web
+Tutti i servizi
+
+
+========================================================================
 # Quanto costa un e-commerce nel 2026
 URL: https://danova-tech.com/quanto-costa-un-ecommerce/
 Descrizione: Quanto costa aprire un negozio online in Italia: fasce di prezzo reali, costi fissi annui, cosa fa lievitare il preventivo e cosa si puo rinviare.
@@ -6648,6 +6892,30 @@ Nessuna cifra prima di aver visto come lavorate: senza quel passaggio qualsiasi 
 
 - Si paga mano a mano Non si paga un sistema intero prima di vederne funzionare un pezzo. Le parti entrano in funzione una alla volta e cominciano a rendere subito.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -6795,6 +7063,51 @@ Nessuna cifra sparata al telefono: il prezzo arriva quando sappiamo cosa stiamo 
 - Preventivo a prezzo fisso Una cifra sola, con dentro tutto quello che serve per andare online. Se qualcosa non serve, ve lo diciamo invece di aggiungerlo.
 
 - Il prezzo non cambia in corsa Quello che avete firmato è quello che pagate. Le varianti si valutano a parte e solo se le chiedete voi.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -6948,6 +7261,46 @@ La prima versione in mano alle persone in poche settimane, poi si aggiusta con l
 - Correzioni sul campo Due settimane di uso vero fanno emergere quello che nessuno prevede a tavolino. È una tappa prevista.
 
 - Consegna Sorgente, documentazione e account degli store intestati a voi. La manutenzione si concorda, non si impone.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Un'applicazione web si apre dal browser, non si installa e funziona su computer, tablet e telefono. Anche qui potete partire con un canone oppure prendere un'applicazione già pronta e averla operativa subito.
+
+Opzione 1
+
+## Web app in abbonamento
+
+50 € al mese
+
+IVA inclusa · attivazione senza costi iniziali
+
+- Applicazione raggiungibile da qualsiasi browser
+- Hosting, backup e aggiornamenti inclusi
+- Utenti, ruoli e permessi
+- Correzioni e piccole evoluzioni comprese
+- Assistenza inclusa nel canone
+
+Parlane con noi
+
+Opzione 2
+
+## Web app pronta
+
+da 750 € una tantum
+
+IVA inclusa · operativa da subito
+
+- Applicazione già sviluppata, non si aspettano mesi
+- Personalizzata con i vostri dati, colori e logo
+- Pagamento unico, nessun canone obbligatorio
+- Evoluzioni successive preventivate a parte
+- Formazione iniziale inclusa
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -8694,6 +9047,46 @@ Il preventivo è a prezzo fisso come sempre, con l’ambito di lavoro scritto ne
 
 Prima di impegnarti in tutto il progetto puoi fermarti al prototipo : costa una frazione, ti fa vedere l’app funzionante nelle schermate principali, ed è tuo. È il modo meno rischioso di capire se l’idea sta in piedi.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Un'applicazione web si apre dal browser, non si installa e funziona su computer, tablet e telefono. Anche qui potete partire con un canone oppure prendere un'applicazione già pronta e averla operativa subito.
+
+Opzione 1
+
+## Web app in abbonamento
+
+50 € al mese
+
+IVA inclusa · attivazione senza costi iniziali
+
+- Applicazione raggiungibile da qualsiasi browser
+- Hosting, backup e aggiornamenti inclusi
+- Utenti, ruoli e permessi
+- Correzioni e piccole evoluzioni comprese
+- Assistenza inclusa nel canone
+
+Parlane con noi
+
+Opzione 2
+
+## Web app pronta
+
+da 750 € una tantum
+
+IVA inclusa · operativa da subito
+
+- Applicazione già sviluppata, non si aspettano mesi
+- Personalizzata con i vostri dati, colori e logo
+- Pagamento unico, nessun canone obbligatorio
+- Evoluzioni successive preventivate a parte
+- Formazione iniziale inclusa
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -8822,6 +9215,30 @@ Un gestionale è un investimento con un ritorno che si può stimare prima di far
 Il conto è semplice: quante ore alla settimana la tua squadra spende a copiare dati da una parte all’altra, a cercare un documento, a rifare un preventivo che esisteva già. Moltiplicate per il costo orario e per le settimane dell’anno, danno una cifra che di solito sorprende.
 
 Il preventivo è a prezzo fisso e modulare: paghi il pezzo che stiamo costruendo, lo usi, e decidi con calma se e quando aggiungere il successivo. Nessun impegno pluriennale firmato al buio il primo giorno.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -9396,6 +9813,51 @@ La domanda che ci fanno tutti per prima è quanto costa. La risposta onesta è c
 Quello che possiamo garantirti prima ancora di conoscerci è il metodo. Dopo la prima call ricevi un preventivo a prezzo fisso , con ogni voce spiegata in italiano comprensibile. Quel numero non cambia mentre lavoriamo. Sui tempi: una landing page o un sito vetrina in genere 2-4 settimane , un e-commerce 4-8 .
 
 E una cosa che diamo per scontata ma che scontata non è: il sito è tuo . Dominio, hosting, codice e accessi sono intestati a te. Se un domani vuoi portare il progetto altrove, lo fai senza chiedere il permesso a nessuno.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 

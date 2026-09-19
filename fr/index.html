@@ -798,6 +798,33 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   filter:blur(6px) saturate(.6);opacity:.35;transform:scale(.995);
   transition:filter .35s ease,opacity .35s ease,transform .35s ease}
 
+
+/* ---------- PREZZI ---------- */
+.price-grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));align-items:stretch;margin-top:8px}
+.price-card{position:relative;display:flex;flex-direction:column;background:var(--panel);border:1px solid var(--line);
+  border-radius:var(--r-md);padding:32px 30px;overflow:hidden;transition:border-color .35s,background .35s,transform .35s var(--ease)}
+.price-card::before{content:"";position:absolute;inset:0;opacity:0;transition:opacity .35s;pointer-events:none;
+  background:radial-gradient(360px circle at var(--mx,50%) var(--my,50%),rgba(30,107,255,.14),transparent 70%)}
+.price-card:hover::before{opacity:1}
+.price-card:hover{border-color:var(--line-strong);background:var(--panel-2)}
+.price-kind{display:block;color:var(--blue-2);margin-bottom:13px}
+.price-card h3{font-family:'Sora',sans-serif;font-size:1.2rem;font-weight:700;letter-spacing:-.02em;margin-bottom:20px}
+.price-amt{font-family:'Sora',sans-serif;display:flex;align-items:baseline;flex-wrap:wrap;gap:8px;letter-spacing:-.03em;margin-bottom:9px}
+.price-amt b{font-size:clamp(1.95rem,4.2vw,2.6rem);font-weight:700;line-height:1.05;
+  background:linear-gradient(100deg,#fff 10%,var(--blue-2) 60%,#fff 95%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.price-amt span{font-family:'Inter',sans-serif;font-size:15px;font-weight:500;color:var(--muted)}
+.price-extra{font-size:14.5px;color:var(--text);margin-bottom:9px}
+.price-note{font-size:13px;line-height:1.55;color:var(--muted-2);margin-bottom:20px}
+.price-list{list-style:none;display:grid;gap:11px;margin-bottom:28px}
+.price-list li{position:relative;padding-left:27px;color:var(--muted);font-size:15px;line-height:1.55}
+.price-list li::before{content:"";position:absolute;left:1px;top:.5em;width:11px;height:6px;
+  border-left:1.9px solid var(--blue-2);border-bottom:1.9px solid var(--blue-2);transform:rotate(-45deg)}
+.price-card .btn{margin-top:auto;align-self:flex-start}
+.price-foot{margin-top:34px}
+@media (max-width:1180px){nav.links a[data-nav-opt]{display:none}}
+@media (max-width:560px){.price-card{padding:27px 23px}}
+@media (max-width:1090px){nav.links{gap:0}nav.links a{padding:9px 10px;font-size:13.4px;white-space:nowrap}}
+@media (max-width:980px){nav.links a{padding:9px 8px;font-size:12.8px}}
 </style>
 <!-- Dati strutturati schema.org. sameAs: aggiungi qui gli URL dei profili social. -->
 <script type="application/ld+json">
@@ -1116,7 +1143,127 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         "https://www.google.com/search?kgmid=/g/11zf9k_btv",
         "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
       ],
-      "priceRange": "€€"
+      "priceRange": "€€",
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "name": "Site internet en abonnement",
+          "description": "Site complet avec domaine, hébergement, maintenance, mises à jour et modifications inclus. Durée minimale 24 mois.",
+          "price": 24.8,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/tarifs/",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": 24.8,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true,
+            "unitCode": "MON",
+            "billingDuration": 24,
+            "billingIncrement": 1
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Site internet en abonnement"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Site internet à prix fermé",
+          "description": "Site livré et propriété du client, paiement unique.",
+          "price": 350.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/tarifs/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "price": 350.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Site internet à prix fermé"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Optimisation SEO pour Google et Bing",
+          "description": "Optimisation initiale pour les moteurs : structure, balises, données structurées, sitemap et indexation sur Google et Bing.",
+          "price": 150.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/tarifs/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "price": 150.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Optimisation SEO pour Google et Bing"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Application web en abonnement",
+          "description": "Application web avec hébergement, mises à jour et assistance inclus.",
+          "price": 50.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/tarifs/",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": 50.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true,
+            "unitCode": "MON"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Application web en abonnement"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Application web prête",
+          "description": "Application web déjà développée, personnalisée et opérationnelle immédiatement.",
+          "price": 750.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/tarifs/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 750.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Application web prête"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Logiciel de gestion sur mesure",
+          "description": "Logiciel de gestion construit sur les processus de l'entreprise, avec reprise des données et formation.",
+          "price": 1500.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/tarifs/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 1500.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Logiciel de gestion sur mesure"
+          }
+        }
+      ]
     },
     {
       "@type": "WebSite",
@@ -1341,6 +1488,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <a href="#hero" class="brand" data-mag="" data-mb="1" data-ab="1"><img width="160" height="160" src="/assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
     <nav class="links" aria-label="Menu principale">
       <a href="#servizi" data-i18n="nav.servizi" data-ab="1">Services</a>
+      <a href="#prezzi" data-i18n="nav.prezzi" data-ab="1">Tarifs</a>
       <a href="#settori" data-i18n="nav.settori" data-ab="1">Pour qui</a>
       <a href="#lavori" data-i18n="nav.lavori" data-ab="1">Réalisations</a>
       <a href="#processo" data-i18n="nav.processo" data-ab="1">Méthode</a>
@@ -1381,6 +1529,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 <nav id="mob" aria-label="Menu mobile" class="">
   <div class="mob-links">
     <a href="#servizi" data-i18n="nav.servizi" data-ab="1">Services</a>
+    <a href="#prezzi" data-i18n="nav.prezzi" data-ab="1">Tarifs</a>
     <a href="#settori" data-i18n="nav.settori" data-ab="1">Pour qui</a>
     <a href="#lavori" data-i18n="nav.lavori" data-ab="1">Réalisations</a>
     <a href="#processo" data-i18n="nav.processo" data-ab="1">Méthode</a>
@@ -1483,6 +1632,49 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
         <a href="/fr/services/logiciels-automatisation/" class="more"><span>J'ai un processus à automatiser</span><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
       </div>
     </article></div>
+  </div>
+</section>
+
+<div class="wrap"><div class="divider"></div></div>
+
+<!-- ===== PREZZI ===== -->
+<section id="prezzi">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble="" data-i18n="prezzi.eyebrow">Tarifs</div>
+      <h2 class="title" data-rv="up" data-i18n-html="prezzi.title">Ce que ça coûte,<br><span class="grad">dit tout de suite.</span></h2>
+      <p class="lead" data-rv="up" data-i18n="prezzi.lead">Les montants sont écrits, pas révélés au bout d'un rendez-vous. Tous les prix sont TVA incluse.</p>
+    </div>
+    <div class="price-grid">
+      <article class="price-card" data-tilt="" data-rv="blur" style="transition-delay: 0ms;">
+        <span class="price-kind mono" data-i18n="prezzi.c1.k">Site internet</span>
+        <h3 data-i18n="prezzi.c1.t">Site en abonnement ou site à vous</h3>
+        <p class="price-amt"><b data-i18n="prezzi.c1.a">24,80 €</b><span data-i18n="prezzi.c1.u">par mois</span></p>
+        <p class="price-extra" data-i18n="prezzi.c1.e">ou 350 € en une fois + 150 € de SEO Google et Bing</p>
+        <p class="price-note" data-i18n="prezzi.c1.n">TVA incluse · durée minimale 24 mois</p>
+        <ul class="price-list" data-i18n-html="prezzi.c1.l"><li>Domaine et hébergement inclus</li><li>Maintenance et modifications comprises</li><li>Sans frais de mise en service</li></ul>
+        <a href="/fr/tarifs/" data-pricing class="btn btn-g" data-mag><span class="lbl" data-i18n="prezzi.c1.b">Détails</span></a>
+      </article>
+      <article class="price-card" data-tilt="" data-rv="blur" style="transition-delay: 90ms;">
+        <span class="price-kind mono" data-i18n="prezzi.c2.k">Application web</span>
+        <h3 data-i18n="prezzi.c2.t">En abonnement ou prête à l'emploi</h3>
+        <p class="price-amt"><b data-i18n="prezzi.c2.a">50 €</b><span data-i18n="prezzi.c2.u">par mois</span></p>
+        <p class="price-extra" data-i18n="prezzi.c2.e">ou à partir de 750 € en une fois, opérationnelle tout de suite</p>
+        <p class="price-note" data-i18n="prezzi.c2.n">TVA incluse · sans frais d'activation</p>
+        <ul class="price-list" data-i18n-html="prezzi.c2.l"><li>Hébergement et mises à jour inclus</li><li>Utilisateurs, rôles, permissions</li><li>Assistance comprise</li></ul>
+        <a href="/fr/tarifs/" data-pricing class="btn btn-g" data-mag><span class="lbl" data-i18n="prezzi.c2.b">Détails</span></a>
+      </article>
+      <article class="price-card" data-tilt="" data-rv="blur" style="transition-delay: 180ms;">
+        <span class="price-kind mono" data-i18n="prezzi.c3.k">Logiciel de gestion</span>
+        <h3 data-i18n="prezzi.c3.t">Logiciel de gestion sur mesure</h3>
+        <p class="price-amt"><b data-i18n="prezzi.c3.a">dès 1 500 €</b><span data-i18n="prezzi.c3.u">par projet</span></p>
+        <p class="price-extra" data-i18n="prezzi.c3.e">montant fixé après l'analyse gratuite</p>
+        <p class="price-note" data-i18n="prezzi.c3.n">TVA incluse · prix ferme, sans dérive</p>
+        <ul class="price-list" data-i18n-html="prezzi.c3.l"><li>Analyse de vos processus</li><li>Reprise des données</li><li>Formation incluse</li></ul>
+        <a href="/fr/tarifs/" data-pricing class="btn btn-g" data-mag><span class="lbl" data-i18n="prezzi.c3.b">Détails</span></a>
+      </article>
+    </div>
+    <p class="price-foot" data-rv="up"><a href="/fr/tarifs/" data-pricing class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl" data-i18n="prezzi.more">Voir la grille complète</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a></p>
   </div>
 </section>
 
@@ -1752,7 +1944,7 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
       </div>
       <div><h5 data-i18n="footer.h1">Services</h5><ul id="fc1"><li><a href="/fr/services/sites-web-ecommerce/">Sites web &amp; E-commerce</a></li><li><a href="/fr/services/seo/">SEO</a></li><li><a href="/fr/services/meta-ads/">Meta Ads</a></li>
         <li><a href="/fr/services/google-ads/">Google Ads</a></li><li><a href="/fr/services/applications-sur-mesure/">Applications sur mesure</a></li><li><a href="/fr/services/erp-crm/">ERP &amp; CRM</a></li><li><a href="/fr/services/logiciels-automatisation/">Logiciels et automatisation</a></li></ul></div>
-      <div><h5 data-i18n="footer.h2">Agence</h5><ul id="fc2"><li><a href="#settori" data-ab="1">Pour qui nous travaillons</a></li><li><a href="#lavori" data-ab="1">Réalisations</a></li><li><a href="#processo" data-ab="1">Notre méthode</a></li><li><a href="/fr/a-propos/">À propos</a></li><li><a href="#faq" data-ab="1">FAQ</a></li><li><a href="#contatti" data-ab="1">Contact</a></li></ul></div>
+      <div><h5 data-i18n="footer.h2">Agence</h5><ul id="fc2"><li><a href="/fr/tarifs/">Tarifs</a></li><li><a href="#settori" data-ab="1">Pour qui nous travaillons</a></li><li><a href="#lavori" data-ab="1">Réalisations</a></li><li><a href="#processo" data-ab="1">Notre méthode</a></li><li><a href="/fr/a-propos/">À propos</a></li><li><a href="#faq" data-ab="1">FAQ</a></li><li><a href="#contatti" data-ab="1">Contact</a></li></ul></div>
       <div><h5 data-i18n="footer.h3">Contact</h5><ul>
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
         <li><a href="tel:+393884706887">+39 388 470 6887</a></li>

@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.es={
   code:'ES', name:'Español', htmlLang:'es',
-  nav:{servizi:'Servicios',settori:'Para quién',lavori:'Proyectos',processo:'Método',chisiamo:'Sobre nosotros',faq:'FAQ',contatti:'Contacto',cta:'Hablemos'},
+  nav:{servizi:'Servicios',prezzi:'Precios',settori:'Para quién',lavori:'Proyectos',processo:'Método',chisiamo:'Sobre nosotros',faq:'FAQ',contatti:'Contacto',cta:'Hablemos'},
   hero:{
     l1:'Construimos', l2:'tecnología que',
     rot:['convierte.','vende.','ahorra tiempo.','escala.','simplifica.'],
@@ -11,6 +11,12 @@ window.I18N.es={
     cta1:'Solicitar presupuesto', cta2:'Ver lo que hacemos', scroll:'Desliza',
     stats:['Proyectos entregados','Clientes que renuevan','Tiempo medio de lanzamiento','Soporte y supervisión']
   },
+  prezzi:{eyebrow:'Precios',title:'Cuánto cuesta,<br><span class="grad">dicho ya.</span>',lead:'Las cifras están escritas, no se descubren al final de una llamada. Todos los precios con IVA incluido.',more:'Ver las tarifas completas',
+    c1:{k:'Página web',t:'Web con cuota o web en propiedad',a:'24,80 €',u:'al mes',e:'o 350 € en un pago + 150 € de SEO en Google y Bing',n:'IVA incluido · permanencia mínima 24 meses',l:'<li>Dominio y alojamiento incluidos</li><li>Mantenimiento y cambios incluidos</li><li>Sin coste de alta</li>',b:'Detalles'},
+    c2:{k:'Aplicación web',t:'Con cuota o lista desde el primer día',a:'50 €',u:'al mes',e:'o desde 750 € en un pago, operativa enseguida',n:'IVA incluido · sin coste de activación',l:'<li>Alojamiento y actualizaciones incluidos</li><li>Usuarios, roles y permisos</li><li>Soporte incluido</li>',b:'Detalles'},
+    c3:{k:'Software de gestión',t:'Software de gestión a medida',a:'desde 1.500 €',u:'por proyecto',e:'cifra definida tras el análisis gratuito',n:'IVA incluido · precio cerrado, sin sorpresas',l:'<li>Análisis de vuestros procesos</li><li>Migración de datos</li><li>Formación incluida</li>',b:'Detalles'}
+  },
+
   mq:['Webs','E-commerce','SEO','Meta Ads','Apps móviles','ERP','CRM','Automatizaciones','Landing pages','Software a medida','Integraciones IA','Soporte'],
   servizi:{
     eyebrow:'Servicios',

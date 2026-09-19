@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.en={
   code:'EN', name:'English', htmlLang:'en',
-  nav:{servizi:'Services',settori:'Who we serve',lavori:'Work',processo:'Process',chisiamo:'About us',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
+  nav:{servizi:'Services',prezzi:'Pricing',settori:'Who we serve',lavori:'Work',processo:'Process',chisiamo:'About us',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
   hero:{
     l1:'We build', l2:'technology that',
     rot:['converts.','sells.','saves time.','scales.','simplifies.'],
@@ -11,6 +11,12 @@ window.I18N.en={
     cta1:'Request a quote', cta2:'See what we do', scroll:'Scroll',
     stats:['Projects delivered','Clients who renew','Average launch time','Support and monitoring']
   },
+  prezzi:{eyebrow:'Pricing',title:'What it costs,<br><span class="grad">said upfront.</span>',lead:'The figures are written down, not revealed at the end of a call. All prices include VAT.',more:'See the full price list',
+    c1:{k:'Website',t:'Monthly plan or website you own',a:'€24.80',u:'per month',e:'or €350 one-off + €150 SEO on Google and Bing',n:'VAT included · 24-month minimum term',l:'<li>Domain and hosting included</li><li>Maintenance and changes included</li><li>No setup fee</li>',b:'Details'},
+    c2:{k:'Web app',t:'Monthly plan or ready to use',a:'€50',u:'per month',e:'or from €750 one-off, running from day one',n:'VAT included · no activation fee',l:'<li>Hosting and updates included</li><li>Users, roles and permissions</li><li>Support included</li>',b:'Details'},
+    c3:{k:'Business ERP',t:'Custom management system',a:'from €1,500',u:'per project',e:'figure set after the free analysis',n:'VAT included · fixed price, no mid-project changes',l:'<li>We map your processes</li><li>Data migration</li><li>Training included</li>',b:'Details'}
+  },
+
   mq:['Websites','E-commerce','SEO','Meta Ads','Mobile apps','ERP systems','CRM','Automations','Landing pages','Custom software','AI integrations','Support'],
   servizi:{
     eyebrow:'Services',

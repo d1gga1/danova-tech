@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.it={
   code:'IT', name:'Italiano', htmlLang:'it',
-  nav:{servizi:'Servizi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
+  nav:{servizi:'Servizi',prezzi:'Prezzi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
   hero:{
     l1:'Costruiamo', l2:'tecnologia che',
     rot:['converte.','vende.','fa risparmiare.','fa crescere.','semplifica.'],
@@ -11,6 +11,12 @@ window.I18N.it={
     cta1:'Richiedi un preventivo', cta2:'Scopri cosa facciamo', scroll:'Scroll',
     stats:['Progetti consegnati','Clienti che riconfermano','Tempo medio di lancio','Assistenza e monitoraggio']
   },
+  prezzi:{eyebrow:'Prezzi',title:'Quanto costa,<br><span class="grad">detto subito.</span>',lead:'Le cifre stanno scritte, non si scoprono in fondo a una call. Tutti i prezzi sono IVA inclusa.',more:'Vedi il listino completo',
+    c1:{k:'Sito web',t:'Sito in abbonamento o sito vostro',a:'24,80 €',u:'al mese',e:'oppure 350 € una tantum + 150 € di SEO su Google e Bing',n:'IVA inclusa · durata minima 24 mesi',l:'<li>Dominio e hosting inclusi</li><li>Manutenzione e modifiche comprese</li><li>Nessun costo di avvio</li>',b:'Dettagli'},
+    c2:{k:'Applicazione web',t:'Web app in canone o pronta da subito',a:'50 €',u:'al mese',e:'oppure da 750 € una tantum, operativa subito',n:'IVA inclusa · attivazione senza costi',l:'<li>Hosting e aggiornamenti inclusi</li><li>Utenti, ruoli e permessi</li><li>Assistenza compresa</li>',b:'Dettagli'},
+    c3:{k:'Gestionale aziendale',t:'Gestionale su misura',a:'da 1.500 €',u:'a progetto',e:'cifra definita dopo l\'analisi gratuita',n:'IVA inclusa · prezzo fisso, non cambia in corsa',l:'<li>Analisi dei vostri processi</li><li>Migrazione dei dati</li><li>Formazione inclusa</li>',b:'Dettagli'}
+  },
+
   mq:['Siti web','E-commerce','SEO','Meta Ads','App mobile','Gestionali','CRM','Automazioni','Landing page','Software su misura','Integrazioni AI','Assistenza'],
   servizi:{
     eyebrow:'Servizi',

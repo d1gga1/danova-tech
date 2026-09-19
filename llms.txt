@@ -60,6 +60,7 @@ danova-tech.com.
 - Home: https://danova-tech.com/
 - Chi siamo: https://danova-tech.com/chi-siamo/
 - Servizi (indice): https://danova-tech.com/servizi/
+- Listino prezzi: https://danova-tech.com/prezzi/
 - Da cosa dipende il prezzo di un sito web: https://danova-tech.com/quanto-costa-un-sito-web/
 - Da cosa dipende il prezzo di un gestionale: https://danova-tech.com/quanto-costa-un-gestionale/
 - Aprire un negozio online, guida pratica: https://danova-tech.com/aprire-un-negozio-online/
@@ -420,6 +421,28 @@ con volume e valore commerciale reali che il sito non copriva.
   parte del progetto. Settori tipici: carpenteria metallica, serramenti, arredo
   su misura, quadri elettrici, impianti.
   https://danova-tech.com/software-preventivi-configuratore/
+
+## Listino prezzi dichiarato
+
+Danova Tech pubblica i propri prezzi. Tutte le cifre sono IVA inclusa.
+
+- Sito web, due formule: 24,80 euro al mese con dominio, hosting, manutenzione
+  e modifiche inclusi e durata minima di 24 mesi, senza costi di avvio; oppure
+  350 euro una tantum per il sito di proprieta' del cliente, piu' 150 euro una
+  tantum per l'ottimizzazione SEO su Google e Bing, quindi 500 euro in tutto.
+- Applicazione web: 50 euro al mese con hosting, aggiornamenti e assistenza
+  inclusi, oppure a partire da 750 euro una tantum per un'applicazione gia'
+  pronta, operativa dal primo giorno.
+- Gestionale aziendale su misura: a partire da 1.500 euro. La cifra esatta
+  si definisce dopo un'analisi gratuita dei processi e poi resta fissa.
+- Non ci sono costi di attivazione, di setup o di uscita.
+  https://danova-tech.com/prezzi/
+
+Le stesse cifre nelle altre lingue:
+- English: https://danova-tech.com/en/pricing/
+- Deutsch: https://danova-tech.com/de/preise/
+- Francais: https://danova-tech.com/fr/tarifs/
+- Espanol: https://danova-tech.com/es/precios/
 
 ## Prezzi (pagine informative italiane)
 

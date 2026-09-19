@@ -524,8 +524,13 @@ function render(){
   $('#fc1').innerHTML=t.footer.c1.map((x,i)=>`<li><a href="${srvUrl(i)}">${x}</a></li>`).join('');
   const ABOUT_URL={it:'/chi-siamo/',en:'/en/about/',de:'/de/ueber-uns/',fr:'/fr/a-propos/',es:'/es/sobre-nosotros/'};
   $$('[data-about]').forEach(a=>a.href=ABOUT_URL[LANG]);
+  /* pagina Prezzi: un indirizzo per lingua */
+  const PRICING_URL={it:'/prezzi/',en:'/en/pricing/',de:'/de/preise/',fr:'/fr/tarifs/',es:'/es/precios/'};
+  const PRICING_LBL={it:'Prezzi',en:'Pricing',de:'Preise',fr:'Tarifs',es:'Precios'};
+  $$('[data-pricing]').forEach(a=>a.href=PRICING_URL[LANG]);
   const anch=['#settori','#lavori','#processo',ABOUT_URL[LANG],'#faq','#contatti'];
   const c2=t.footer.c2.map((x,i)=>`<li><a href="${anch[i]}">${x}</a></li>`);
+  c2.push(`<li><a href="${PRICING_URL[LANG]}">${PRICING_LBL[LANG]}</a></li>`);
   if(LANG==='it') c2.push('<li><a href="/guide/">Guide</a></li>');
   $('#fc2').innerHTML=c2.join('');
 

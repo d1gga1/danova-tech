@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.de={
   code:'DE', name:'Deutsch', htmlLang:'de',
-  nav:{servizi:'Leistungen',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
+  nav:{servizi:'Leistungen',prezzi:'Preise',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
   hero:{
     l1:'Wir bauen', l2:'Technologie, die',
     rot:['konvertiert.','verkauft.','Zeit spart.','wachsen lässt.','vereinfacht.'],
@@ -11,6 +11,12 @@ window.I18N.de={
     cta1:'Angebot anfordern', cta2:'Was wir machen', scroll:'Scrollen',
     stats:['Umgesetzte Projekte','Kunden, die verlängern','Durchschnittliche Launch-Zeit','Support und Monitoring']
   },
+  prezzi:{eyebrow:'Preise',title:'Was es kostet,<br><span class="grad">vorher gesagt.</span>',lead:'Die Zahlen stehen hier, nicht erst am Ende eines Gesprächs. Alle Preise inklusive MwSt.',more:'Zur vollständigen Preisliste',
+    c1:{k:'Website',t:'Website im Abo oder als Eigentum',a:'24,80 €',u:'pro Monat',e:'oder 350 € einmalig + 150 € SEO bei Google und Bing',n:'inkl. MwSt. · Mindestlaufzeit 24 Monate',l:'<li>Domain und Hosting inklusive</li><li>Wartung und Änderungen enthalten</li><li>Keine Einrichtungsgebühr</li>',b:'Details'},
+    c2:{k:'Web-App',t:'Web-App im Abo oder sofort fertig',a:'50 €',u:'pro Monat',e:'oder ab 750 € einmalig, sofort einsatzbereit',n:'inkl. MwSt. · keine Aktivierungsgebühr',l:'<li>Hosting und Updates inklusive</li><li>Benutzer, Rollen, Rechte</li><li>Support enthalten</li>',b:'Details'},
+    c3:{k:'ERP-System',t:'ERP nach Maß',a:'ab 1.500 €',u:'pro Projekt',e:'Betrag nach der kostenlosen Analyse',n:'inkl. MwSt. · Festpreis, keine Nachträge',l:'<li>Aufnahme Ihrer Prozesse</li><li>Datenübernahme</li><li>Schulung inklusive</li>',b:'Details'}
+  },
+
   mq:['Websites','E-Commerce','SEO','Meta Ads','Mobile Apps','Warenwirtschaft','CRM','Automatisierung','Landingpages','Individualsoftware','KI-Integration','Support'],
   servizi:{
     eyebrow:'Leistungen',

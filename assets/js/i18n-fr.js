@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.fr={
   code:'FR', name:'Français', htmlLang:'fr',
-  nav:{servizi:'Services',settori:'Pour qui',lavori:'Réalisations',processo:'Méthode',chisiamo:'À propos',faq:'FAQ',contatti:'Contact',cta:'Parlons-en'},
+  nav:{servizi:'Services',prezzi:'Tarifs',settori:'Pour qui',lavori:'Réalisations',processo:'Méthode',chisiamo:'À propos',faq:'FAQ',contatti:'Contact',cta:'Parlons-en'},
   hero:{
     l1:'Nous construisons', l2:'une technologie qui',
     rot:['convertit.','vend.','fait gagner du temps.','passe à l\'échelle.','simplifie.'],
@@ -11,6 +11,12 @@ window.I18N.fr={
     cta1:'Demander un devis', cta2:'Voir ce que nous faisons', scroll:'Défiler',
     stats:['Projets livrés','Clients qui renouvellent','Délai moyen de mise en ligne','Support et supervision']
   },
+  prezzi:{eyebrow:'Tarifs',title:'Ce que ça coûte,<br><span class="grad">dit tout de suite.</span>',lead:'Les montants sont écrits, pas révélés au bout d\'un rendez-vous. Tous les prix sont TVA incluse.',more:'Voir la grille complète',
+    c1:{k:'Site internet',t:'Site en abonnement ou site à vous',a:'24,80 €',u:'par mois',e:'ou 350 € en une fois + 150 € de SEO Google et Bing',n:'TVA incluse · durée minimale 24 mois',l:'<li>Domaine et hébergement inclus</li><li>Maintenance et modifications comprises</li><li>Sans frais de mise en service</li>',b:'Détails'},
+    c2:{k:'Application web',t:'En abonnement ou prête à l\'emploi',a:'50 €',u:'par mois',e:'ou à partir de 750 € en une fois, opérationnelle tout de suite',n:'TVA incluse · sans frais d\'activation',l:'<li>Hébergement et mises à jour inclus</li><li>Utilisateurs, rôles, permissions</li><li>Assistance comprise</li>',b:'Détails'},
+    c3:{k:'Logiciel de gestion',t:'Logiciel de gestion sur mesure',a:'dès 1 500 €',u:'par projet',e:'montant fixé après l\'analyse gratuite',n:'TVA incluse · prix ferme, sans dérive',l:'<li>Analyse de vos processus</li><li>Reprise des données</li><li>Formation incluse</li>',b:'Détails'}
+  },
+
   mq:['Sites web','E-commerce','SEO','Meta Ads','Applications mobiles','ERP','CRM','Automatisations','Landing pages','Logiciels sur mesure','Intégrations IA','Support'],
   servizi:{
     eyebrow:'Services',

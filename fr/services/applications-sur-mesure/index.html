@@ -187,7 +187,54 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
             }
           }
         ]
-      }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Application web en abonnement",
+          "description": "Application web avec hébergement, mises à jour et assistance inclus.",
+          "price": 50.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/services/applications-sur-mesure/",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": 50.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true,
+            "unitCode": "MON"
+          },
+          "seller": {
+            "@id": "https://danova-tech.com/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Application web en abonnement"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Application web prête",
+          "description": "Application web déjà développée, personnalisée et opérationnelle immédiatement.",
+          "price": 750.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/fr/services/applications-sur-mesure/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 750.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "seller": {
+            "@id": "https://danova-tech.com/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Application web prête"
+          }
+        }
+      ]
     },
     {
       "@type": "WebPage",
@@ -300,6 +347,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../../#settori">Pour qui</a>
       <a href="../../#lavori">Exemples</a>
       <a href="../../#processo">Méthode</a>
+      <a href="/fr/tarifs/" class="nav-prezzi">Tarifs</a>
       <a href="../../#contatti">Contact</a>
     </nav>
     <div class="nav-r">
@@ -321,6 +369,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
   <a href="../../#settori">Pour qui</a>
   <a href="../../#lavori">Exemples</a>
   <a href="../../#processo">Méthode</a>
+  <a href="/fr/tarifs/" class="nav-prezzi">Tarifs</a>
   <a href="../../#contatti">Contact</a>
 
   <div class="mob-lang-links">
@@ -419,6 +468,36 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
   </div>
 </section>
 
+
+<section id="prezzo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Notre prix</div>
+      <h2 class="title" data-rv="up">Combien ça coûte <span class="grad">chez nous</span></h2>
+      <p class="lead" data-rv="up">Une application web s'ouvre dans le navigateur, ne s'installe pas et fonctionne sur ordinateur, tablette et téléphone. Là aussi, vous pouvez démarrer avec un abonnement ou prendre une application déjà prête et l'utiliser tout de suite.</p>
+    </div>
+    <div class="price-grid">
+      <article class="price-card" data-tilt data-rv="blur">
+        <span class="price-kind mono">Option 1</span>
+        <h3>Application web en abonnement</h3>
+        <p class="price-amt"><b>50 €</b><span>par mois</span></p>
+        <p class="price-note">TVA incluse · sans frais d'activation</p>
+        <ul class="price-list"><li>Accessible depuis n'importe quel navigateur</li><li>Hébergement, sauvegardes et mises à jour inclus</li><li>Utilisateurs, rôles et permissions</li><li>Corrections et petites évolutions comprises</li><li>Assistance incluse dans l'abonnement</li></ul>
+        <a href="/fr/#contatti" class="btn btn-g" data-mag><span class="lbl">Parlons-en</span></a>
+      </article>
+      <article class="price-card" data-tilt data-rv="blur">
+        <span class="price-kind mono">Option 2</span>
+        <h3>Application web prête</h3>
+        <p class="price-amt"><b>à partir de 750 €</b><span>en une fois</span></p>
+        <p class="price-note">TVA incluse · opérationnelle immédiatement</p>
+        <ul class="price-list"><li>Déjà développée, pas de mois d'attente</li><li>Paramétrée avec vos données, vos couleurs et votre logo</li><li>Paiement unique, aucun abonnement obligatoire</li><li>Évolutions ultérieures chiffrées à part</li><li>Formation initiale incluse</li></ul>
+        <a href="/fr/#contatti" class="btn btn-g" data-mag><span class="lbl">Demander un devis</span></a>
+      </article>
+    </div>
+    <p class="price-foot" data-rv="up"><a href="/fr/tarifs/" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Voir tous les tarifs</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a></p>
+  </div>
+</section>
+
 <section id="faq">
   <div class="wrap">
     <div class="sec-head">
@@ -487,6 +566,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../">Tous les services</a></li>
       </ul></div>
       <div><h5>Agence</h5><ul>
+        <li><a href="/fr/tarifs/">Tarifs</a></li>
         <li><a href="../../#settori">Pour qui nous travaillons</a></li>
         <li><a href="../../#lavori">Exemples de projets</a></li>
         <li><a href="../../#processo">Notre méthode</a></li>

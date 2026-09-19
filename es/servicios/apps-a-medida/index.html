@@ -191,7 +191,54 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
             }
           }
         ]
-      }
+      },
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Aplicación web con cuota mensual",
+          "description": "Aplicación web con alojamiento, actualizaciones y soporte incluidos.",
+          "price": 50.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/es/servicios/apps-a-medida/",
+          "priceSpecification": {
+            "@type": "UnitPriceSpecification",
+            "price": 50.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true,
+            "unitCode": "MON"
+          },
+          "seller": {
+            "@id": "https://danova-tech.com/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Aplicación web con cuota mensual"
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Aplicación web lista",
+          "description": "Aplicación web ya desarrollada, personalizada y operativa desde el primer día.",
+          "price": 750.0,
+          "priceCurrency": "EUR",
+          "availability": "https://schema.org/InStock",
+          "url": "https://danova-tech.com/es/servicios/apps-a-medida/",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 750.0,
+            "priceCurrency": "EUR",
+            "valueAddedTaxIncluded": true
+          },
+          "seller": {
+            "@id": "https://danova-tech.com/#organization"
+          },
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Aplicación web lista"
+          }
+        }
+      ]
     },
     {
       "@type": "WebPage",
@@ -304,6 +351,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       <a href="../../#settori">Para quién</a>
       <a href="../../#lavori">Ejemplos</a>
       <a href="../../#processo">Método</a>
+      <a href="/es/precios/" class="nav-prezzi">Precios</a>
       <a href="../../#contatti">Contacto</a>
     </nav>
     <div class="nav-r">
@@ -325,6 +373,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
   <a href="../../#settori">Para quién</a>
   <a href="../../#lavori">Ejemplos</a>
   <a href="../../#processo">Método</a>
+  <a href="/es/precios/" class="nav-prezzi">Precios</a>
   <a href="../../#contatti">Contacto</a>
 
   <div class="mob-lang-links">
@@ -423,6 +472,36 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
   </div>
 </section>
 
+
+<section id="prezzo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Nuestro precio</div>
+      <h2 class="title" data-rv="up">Cuánto cuesta <span class="grad">con nosotros</span></h2>
+      <p class="lead" data-rv="up">Una aplicación web se abre desde el navegador, no se instala y funciona en ordenador, tableta y móvil. Aquí también podéis empezar con una cuota o llevaros una aplicación ya lista y usarla desde el primer día.</p>
+    </div>
+    <div class="price-grid">
+      <article class="price-card" data-tilt data-rv="blur">
+        <span class="price-kind mono">Opción 1</span>
+        <h3>Aplicación web con cuota</h3>
+        <p class="price-amt"><b>50 €</b><span>al mes</span></p>
+        <p class="price-note">IVA incluido · sin coste de activación</p>
+        <ul class="price-list"><li>Accesible desde cualquier navegador</li><li>Alojamiento, copias y actualizaciones incluidos</li><li>Usuarios, roles y permisos</li><li>Correcciones y pequeñas mejoras incluidas</li><li>Soporte incluido en la cuota</li></ul>
+        <a href="/es/#contatti" class="btn btn-g" data-mag><span class="lbl">Hablemos</span></a>
+      </article>
+      <article class="price-card" data-tilt data-rv="blur">
+        <span class="price-kind mono">Opción 2</span>
+        <h3>Aplicación web lista</h3>
+        <p class="price-amt"><b>desde 750 €</b><span>pago único</span></p>
+        <p class="price-note">IVA incluido · operativa desde el primer día</p>
+        <ul class="price-list"><li>Ya desarrollada, sin meses de espera</li><li>Configurada con vuestros datos, colores y logotipo</li><li>Un solo pago, sin cuota obligatoria</li><li>Mejoras posteriores presupuestadas aparte</li><li>Formación inicial incluida</li></ul>
+        <a href="/es/#contatti" class="btn btn-g" data-mag><span class="lbl">Pedir presupuesto</span></a>
+      </article>
+    </div>
+    <p class="price-foot" data-rv="up"><a href="/es/precios/" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Ver todos los precios</span> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a></p>
+  </div>
+</section>
+
 <section id="faq">
   <div class="wrap">
     <div class="sec-head">
@@ -490,6 +569,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
         <li><a href="../">Todos los servicios</a></li>
       </ul></div>
       <div><h5>Agencia</h5><ul>
+        <li><a href="/es/precios/">Precios</a></li>
         <li><a href="../../#settori">Para quién trabajamos</a></li>
         <li><a href="../../#lavori">Ejemplos de proyectos</a></li>
         <li><a href="../../#processo">Nuestro método</a></li>
