@@ -422,6 +422,48 @@ con volume e valore commerciale reali che il sito non copriva.
   su misura, quadri elettrici, impianti.
   https://danova-tech.com/software-preventivi-configuratore/
 
+## Pagine aggiunte il 19 settembre 2026
+
+Italiano
+- Agenzia di link building: come si costruiscono link guadagnati invece di
+  comprarli, perche' Google ignora i link acquistati, come si misura il
+  risultato (domini che linkano, posizioni delle pagine spinte, richieste
+  da ricerca organica).
+  https://danova-tech.com/agenzia-link-building/
+- Software per la gestione della manutenzione: anagrafica dei beni, piani
+  preventivi a calendario e a contatore, ordini di lavoro, app per i tecnici
+  che funziona anche senza rete, magazzino ricambi, costi per macchina.
+  Il passaggio da manutenzione su guasto a preventiva si misura con la
+  percentuale di interventi programmati sul totale: si parte dal 20% e
+  dopo un anno si arriva al 60-70%.
+  https://danova-tech.com/software-gestionale-manutenzioni/
+- Software di contabilita' aziendale su misura: prima nota, scadenzario,
+  centri di costo e commesse, riconciliazione bancaria, ciclo passivo con
+  approvazioni, esportazione concordata per il commercialista. Non
+  sostituisce la contabilita' fiscale dello studio: copre il pezzo interno
+  all'azienda che il bilancio non risolve perche' arriva troppo tardi.
+  https://danova-tech.com/software-contabilita-aziendale/
+- Agenzia SEO per aziende di Milano, seguite da remoto dal Veneto: audit
+  tecnico, ricerca delle parole con intento commerciale, contenuti, SEO
+  locale, report mensili. Nessun ufficio a Milano, e la pagina lo dice.
+  https://danova-tech.com/agenzia-seo-milano/
+
+Tedesco (DACH)
+- SEO-Agentur Muenchen: https://danova-tech.com/de/seo-agentur-muenchen/
+- SEO-Agentur Berlin: https://danova-tech.com/de/seo-agentur-berlin/
+- SEO-Agentur Wien: https://danova-tech.com/de/seo-agentur-wien/
+
+Francese
+- Agence web Marseille: https://danova-tech.com/fr/agence-web-marseille/
+- Agence SEO Bordeaux: https://danova-tech.com/fr/agence-seo-bordeaux/
+
+Spagnolo
+- Agencia SEO Valencia: https://danova-tech.com/es/agencia-seo-valencia/
+- Diseno web Sevilla: https://danova-tech.com/es/diseno-web-sevilla/
+
+Inglese
+- Web design agency London: https://danova-tech.com/en/web-design-agency-london/
+
 ## Listino prezzi dichiarato
 
 Danova Tech pubblica i propri prezzi. Tutte le cifre sono IVA inclusa.

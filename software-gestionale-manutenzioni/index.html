@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Software per la gestione della manutenzione | Danova Tech</title>
+<meta name="description" content="Gestionale per la manutenzione di impianti e macchinari: anagrafica dei beni, piani preventivi, richieste di intervento, ricambi e storico. Su misura.">
+<link rel="canonical" href="https://danova-tech.com/software-gestionale-manutenzioni/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/software-gestionale-manutenzioni/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/software-gestionale-manutenzioni/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/software-gestionale-manutenzioni/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Software gestione manutenzione — Danova Tech">
+<meta property="og:description" content="Manutenzione preventiva e su guasto in un solo sistema: beni, piani, interventi, ricambi e costi. Costruito sul vostro modo di lavorare.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Software gestione manutenzione — Danova Tech">
+<meta name="twitter:description" content="Manutenzione preventiva e su guasto in un solo sistema: beni, piani, interventi, ricambi e costi. Costruito sul vostro modo di lavorare.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+
+<link rel="icon" type="image/png" href="../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 10
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "knowsAbout": [
+        "Sviluppo software su misura",
+        "Software gestionale aziendale",
+        "ERP per PMI",
+        "CRM aziendale",
+        "Gestione commesse",
+        "Software MES per la produzione",
+        "Gestione del magazzino",
+        "Tracciabilità di filiera",
+        "Gestione documentale",
+        "Fatturazione elettronica",
+        "Integrazione di software aziendali",
+        "API e sincronizzazioni",
+        "Automazione dei processi aziendali",
+        "Intelligenza artificiale applicata alle imprese",
+        "Chatbot e agenti AI",
+        "Sviluppo di applicazioni aziendali",
+        "App per rapportini e timbrature",
+        "Realizzazione di siti web",
+        "E-commerce B2B e B2C",
+        "SEO e posizionamento sui motori di ricerca",
+        "Google Ads",
+        "Digitalizzazione delle PMI"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-sales",
+          "contactType": "sales",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English",
+            "German"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-support",
+          "contactType": "customer support",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English"
+          ]
+        }
+      ],
+      "disambiguatingDescription": "Danova Tech è una software house e agenzia digitale italiana con sede a Mansuè, in provincia di Treviso (P.IVA IT05369890263). Non ha alcun legame con Danova Analytics (danova.tech) né con Danova Tek (danovatek.com), società diverse e non collegate."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/software-gestionale-manutenzioni/#service",
+      "name": "Software per la gestione della manutenzione",
+      "serviceType": "Sviluppo di software gestionale per la manutenzione di impianti e macchinari",
+      "description": "Gestionale su misura per la manutenzione: anagrafica dei beni, piani di manutenzione preventiva a calendario e a contatore, richieste e ordini di lavoro, app per i tecnici anche offline, magazzino ricambi, storico documentale e indicatori di costo.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Software per la gestione della manutenzione",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Anagrafica impianti e macchinari"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Manutenzione preventiva programmata"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Ordini di lavoro e rapportini"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "App per tecnici in mobilità"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Magazzino ricambi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Indicatori e costi di manutenzione"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/software-gestionale-manutenzioni/#webpage",
+      "url": "https://danova-tech.com/software-gestionale-manutenzioni/",
+      "name": "Software per la gestione della manutenzione | Danova Tech",
+      "description": "Gestionale per la manutenzione di impianti e macchinari: anagrafica dei beni, piani preventivi, richieste di intervento, ricambi e storico. Su misura.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/software-gestionale-manutenzioni/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/software-gestionale-manutenzioni/#breadcrumb"
+      },
+      "datePublished": "2026-09-19",
+      "dateModified": "2026-09-19"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/software-gestionale-manutenzioni/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali & CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Gestione manutenzione",
+          "item": "https://danova-tech.com/software-gestionale-manutenzioni/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/software-gestionale-manutenzioni/#faq",
+      "inLanguage": "it-IT",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Quanto costa un software per la gestione della manutenzione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parte da 1.500 euro IVA inclusa per un impianto essenziale con anagrafica dei beni, segnalazioni e ordini di lavoro. La cifra sale con il numero di moduli, con i dati da recuperare dal sistema attuale e con le integrazioni. Il preventivo arriva dopo una giornata di analisi ed è a prezzo fisso: quello che firmate è quello che pagate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che differenza c'è fra questo e un CMMS commerciale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Un CMMS in abbonamento è più veloce da attivare e va benissimo se il vostro modo di lavorare somiglia a quello per cui è stato pensato. Un sistema su misura conviene quando avete un flusso vostro, quando serve collegarlo al gestionale che già usate, o quando il prezzo per utente di un pacchetto diventa insostenibile con molti tecnici. Ve lo diciamo francamente in fase di analisi quale delle due strade vi conviene."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Funziona senza connessione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì. L'app dei tecnici tiene i dati sul telefono e li sincronizza quando trova la rete. È un requisito, non un extra: in cabina, in cantiere e dentro un capannone la copertura manca quasi sempre."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si può collegare ai contatori delle macchine?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dove le macchine espongono un dato leggibile sì, e la manutenzione parte sulle ore reali invece che sul calendario. Dove non è possibile, il contatore si aggiorna a mano o si stima sulla produzione: è meno preciso ma funziona lo stesso."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Serve per la manutenzione degli edifici o solo degli impianti?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Per entrambi. Cambia l'anagrafica — unità immobiliari e componenti invece di macchine e gruppi — ma la logica di piani, richieste, interventi e storico è la stessa. Lo usiamo anche per flotte di veicoli e per parchi di attrezzature a noleggio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Possiamo far aprire le segnalazioni direttamente agli operatori di reparto?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, ed è il modo migliore di alimentarlo. L'operatore inquadra il codice QR della macchina, scatta una foto e scrive due righe: la segnalazione arriva a chi coordina con già dentro macchina, posizione e ora. Meno telefonate e meno segnalazioni perse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo ci vuole per partire?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La prima tappa è operativa in sei-dieci settimane, a seconda di quanti beni ci sono da caricare. Il recupero dei dati esistenti è quasi sempre la parte più lunga, e la facciamo noi partendo dai vostri fogli di calcolo."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "I dati restano nostri?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, sempre. Il database è vostro, il codice sorgente viene consegnato e potete portarlo su un altro fornitore quando volete. Non c'è nessun blocco tecnico o contrattuale."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="../" class="brand" data-mag><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="../#servizi">Servizi</a>
+      <a href="../#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="../#processo">Processo</a>
+      <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+      <a href="../#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <span class="lang-links">
+        <a href="/software-gestionale-manutenzioni/" hreflang="it" aria-current="page">IT</a>
+        </span>
+      <a href="../#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="../#servizi">Servizi</a>
+  <a href="../#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="../#processo">Processo</a>
+  <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+  <a href="../#contatti">Contatti</a>
+
+  <div class="mob-lang-links">
+    <a href="/software-gestionale-manutenzioni/" hreflang="it" aria-current="page">IT</a>
+    </div>
+</nav>
+
+<main id="main">
+
+<div class="wrap pg-crumbs">
+  <a href="/">Home</a><em>/</em><a href="/servizi/gestionali-crm/">Gestionali & CRM</a><em>/</em>Gestione manutenzione
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>Manutenzione</div>
+    <h1 data-rv="up">Software per la <span class="grad">gestione della manutenzione.</span></h1>
+    <p class="lead" data-rv="up">Finché gli impianti sono pochi, un foglio di calcolo e la memoria del capo officina bastano. Il problema arriva quando i beni diventano decine, i tecnici lavorano in giro e nessuno sa più quando è stato fatto l'ultimo intervento su quella macchina. Qui trovate cosa deve fare un gestionale della manutenzione, cosa non serve, e come lo costruiamo.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Richiedi una valutazione</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#moduli" class="btn btn-g" data-mag><span class="lbl">Cosa deve fare</span></a>
+    </div>
+  </div>
+</section>
+
+<section id="moduli">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>I pezzi che servono</div>
+      <h2 class="title" data-rv="up">Cosa deve fare <span class="grad">davvero</span></h2>
+      <p class="lead" data-rv="up">Un sistema di manutenzione serio si regge su sei cose. Tutto il resto è contorno, e spesso è il contorno a far costare il triplo un progetto.</p>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Anagrafica dei beni</h3>
+        <p>Ogni macchina, impianto, veicolo o attrezzatura con matricola, posizione, dati di targa, documenti, garanzia e fornitore. È la base: senza un elenco affidabile di cosa avete, ogni altra funzione è un'approssimazione.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Piani di manutenzione preventiva</h3>
+        <p>Scadenze per calendario (ogni sei mesi) o per contatore (ogni 500 ore, ogni 10.000 pezzi). Il sistema genera da solo l'ordine di lavoro quando la soglia si avvicina, così nessuno deve ricordarselo.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Richieste e ordini di lavoro</h3>
+        <p>Chi in reparto vede un problema apre una segnalazione dal telefono, con foto. Chi coordina la trasforma in intervento, assegna il tecnico e la data. Il tecnico chiude con ore, ricambi usati e cosa ha trovato.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Ricambi e magazzino tecnico</h3>
+        <p>Quali ricambi sono collegati a quale macchina, quanti ce ne sono, quando riordinare. È la funzione che fa risparmiare le fermate più lunghe, quelle in cui si aspetta un pezzo che si poteva avere in casa.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">05</span>
+        <h3>Storico e documenti</h3>
+        <p>Tutto quello che è stato fatto su una macchina, in ordine di data, con allegati e firme. Serve per le verifiche, serve quando il fornitore dice che la garanzia è decaduta, e serve quando il tecnico che sapeva tutto va in pensione.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">06</span>
+        <h3>Costi e indicatori</h3>
+        <p>Quanto è costata la manutenzione per macchina e per reparto, quante ore di fermo, quanti interventi su guasto rispetto a quelli programmati. È il numero che dice se conviene riparare ancora o sostituire.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="preventiva">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Il punto della questione</div>
+      <h2 class="title" data-rv="up">Il vero salto:<br>dalla riparazione <span class="grad">alla prevenzione</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Quasi tutte le aziende che ci chiamano lavorano in emergenza: si interviene quando si rompe. Non è incapacità, è che nessuno ha il tempo di fermarsi a impostare i piani, e senza uno strumento che li ricordi da solo i piani muoiono dopo tre settimane.</p>
+      <p>Il passaggio da manutenzione su guasto a manutenzione preventiva si misura con un numero solo: <b>la percentuale di interventi programmati sul totale</b>. Chi parte sta intorno al 20 per cento; dopo un anno con i piani impostati e rispettati si arriva al 60-70. La differenza non è teorica: è il numero di fermate impreviste in piena produzione.</p>
+      <p>Non serve partire da tutti gli impianti. Si parte dai cinque o sei che, se si fermano, bloccano la linea o costano di più: si mettono a piano quelli, si verifica che il meccanismo regga per tre mesi, e poi si allarga. Un progetto che parte da tutto insieme non arriva mai in fondo.</p>
+      <p>C'è anche il caso contrario, e lo diciamo quando capita: se avete dieci macchine semplici e un manutentore che le conosce tutte, un software della manutenzione è una spesa che non si ripaga. In quel caso conviene mettere a posto lo scadenzario e basta.</p>
+    </div>
+  </div>
+</section>
+
+<section id="tecnici">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Chi lo usa sul serio</div>
+      <h2 class="title" data-rv="up">I tecnici lo usano<br>solo se è <span class="grad">più veloce del foglio.</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>La ragione numero uno per cui un gestionale della manutenzione viene abbandonato dopo sei mesi non è tecnica: è che chiudere un intervento richiede troppi passaggi. Se un tecnico deve compilare dodici campi su una schermata pensata per il computer dell'ufficio, quel campo resterà vuoto e il sistema sarà pieno di dati inutili.</p>
+      <p>Per questo la parte che usa il tecnico la costruiamo per il telefono e per una mano sola: apri l'intervento, fotografi, scrivi due righe, segni le ore e i ricambi, chiudi. Tre schermate, non dodici campi. Funziona anche senza rete, e si sincronizza quando il telefono ritrova il segnale: in cantiere e in cabina elettrica il segnale non c'è quasi mai.</p>
+      <p>L'altra metà è il codice QR sulla macchina. Il tecnico lo inquadra e ha davanti quella macchina: storico, manuali, ricambi, ultimo intervento. È la funzione che, nella nostra esperienza, fa la differenza fra un sistema usato e un sistema comprato.</p>
+    </div>
+  </div>
+</section>
+
+<section id="metodo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Come lo costruiamo</div>
+      <h2 class="title" data-rv="up">A tappe,<br>con il prezzo <span class="grad">deciso prima.</span></h2>
+    </div>
+    <ol class="pg-passi" data-rv="up">
+      <li><b>Giornata in azienda</b><span>Veniamo a vedere gli impianti, parliamo con chi fa la manutenzione e con chi la subisce. Da lì esce l'elenco vero di cosa serve, che quasi mai coincide con quello scritto prima.</span></li>
+      <li><b>Prima tappa: beni e interventi</b><span>Anagrafica, segnalazioni, ordini di lavoro e app per i tecnici. È la parte che si usa dal primo giorno e che da sola risolve metà del disordine.</span></li>
+      <li><b>Seconda tappa: piani e ricambi</b><span>Manutenzione preventiva, contatori, magazzino ricambi e riordino. Si attiva quando i dati della prima tappa sono affidabili, non prima.</span></li>
+      <li><b>Terza tappa: costi e collegamenti</b><span>Indicatori, costi per macchina, collegamento al gestionale e alla contabilità. È la parte che serve a chi decide, e arriva quando c'è abbastanza storico da rendere i numeri veri.</span></li>
+    </ol>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>FAQ</div>
+      <h2 class="title" data-rv="up">Le domande di chi <span class="grad">ci sta pensando.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Quanto costa un software per la gestione della manutenzione?<span class="pm"></span></summary>
+        <div class="ans"><p>Parte da 1.500 euro IVA inclusa per un impianto essenziale con anagrafica dei beni, segnalazioni e ordini di lavoro. La cifra sale con il numero di moduli, con i dati da recuperare dal sistema attuale e con le integrazioni. Il preventivo arriva dopo una giornata di analisi ed è a prezzo fisso: quello che firmate è quello che pagate.</p></div></details>
+      <details data-rv="up"><summary>Che differenza c'è fra questo e un CMMS commerciale?<span class="pm"></span></summary>
+        <div class="ans"><p>Un CMMS in abbonamento è più veloce da attivare e va benissimo se il vostro modo di lavorare somiglia a quello per cui è stato pensato. Un sistema su misura conviene quando avete un flusso vostro, quando serve collegarlo al gestionale che già usate, o quando il prezzo per utente di un pacchetto diventa insostenibile con molti tecnici. Ve lo diciamo francamente in fase di analisi quale delle due strade vi conviene.</p></div></details>
+      <details data-rv="up"><summary>Funziona senza connessione?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì. L'app dei tecnici tiene i dati sul telefono e li sincronizza quando trova la rete. È un requisito, non un extra: in cabina, in cantiere e dentro un capannone la copertura manca quasi sempre.</p></div></details>
+      <details data-rv="up"><summary>Si può collegare ai contatori delle macchine?<span class="pm"></span></summary>
+        <div class="ans"><p>Dove le macchine espongono un dato leggibile sì, e la manutenzione parte sulle ore reali invece che sul calendario. Dove non è possibile, il contatore si aggiorna a mano o si stima sulla produzione: è meno preciso ma funziona lo stesso.</p></div></details>
+      <details data-rv="up"><summary>Serve per la manutenzione degli edifici o solo degli impianti?<span class="pm"></span></summary>
+        <div class="ans"><p>Per entrambi. Cambia l'anagrafica — unità immobiliari e componenti invece di macchine e gruppi — ma la logica di piani, richieste, interventi e storico è la stessa. Lo usiamo anche per flotte di veicoli e per parchi di attrezzature a noleggio.</p></div></details>
+      <details data-rv="up"><summary>Possiamo far aprire le segnalazioni direttamente agli operatori di reparto?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì, ed è il modo migliore di alimentarlo. L'operatore inquadra il codice QR della macchina, scatta una foto e scrive due righe: la segnalazione arriva a chi coordina con già dentro macchina, posizione e ora. Meno telefonate e meno segnalazioni perse.</p></div></details>
+      <details data-rv="up"><summary>Quanto tempo ci vuole per partire?<span class="pm"></span></summary>
+        <div class="ans"><p>La prima tappa è operativa in sei-dieci settimane, a seconda di quanti beni ci sono da caricare. Il recupero dei dati esistenti è quasi sempre la parte più lunga, e la facciamo noi partendo dai vostri fogli di calcolo.</p></div></details>
+      <details data-rv="up"><summary>I dati restano nostri?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì, sempre. Il database è vostro, il codice sorgente viene consegnato e potete portarlo su un altro fornitore quando volete. Non c'è nessun blocco tecnico o contrattuale.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="pg-cta">
+  <div class="wrap">
+    <div class="box" data-rv="up">
+      <h2 class="title">Volete capire se vi conviene?</h2>
+      <p>Una call gratuita di mezz'ora: ci raccontate quanti impianti avete e come gestite oggi gli interventi, e vi diciamo se serve un sistema, quale parte per prima e quanto costa.</p>
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Richiedi una valutazione gratuita</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Approfondimenti collegati</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/servizi/gestionali-crm/">Gestionali &amp; CRM — il servizio</a>
+      <a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a>
+      <a href="/software-gestionale-impiantisti/">Gestionale per impiantisti</a>
+      <a href="/app-rapportini-di-lavoro/">App rapportini di lavoro</a>
+      <a href="/software-gestione-flotte/">Software gestione flotte</a>
+      <a href="/software-gestionale-magazzino/">Gestionale di magazzino</a>
+      <a href="/software-mes-produzione/">Software MES per la produzione</a>
+      <a href="/quanto-costa-un-gestionale/">Quanto costa un gestionale</a>
+      <a href="/prezzi/">Prezzi</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="../servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="../servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="../servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="../servizi/google-ads/">Google Ads</a></li>
+        <li><a href="../servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="../servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="../servizi/software-automazioni/">Software &amp; automazioni</a></li>
+      </ul></div>
+      <div><h5>Siti web</h5><ul>
+        <li><a href="../realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="../realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
+        <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
+        <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
+      </ul></div>
+      <div><h5>Gestionali</h5><ul>
+        <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="../gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="../gestionali-su-misura-pordenone/">Gestionali a Pordenone</a></li>
+        <li><a href="../gestionali-su-misura-venezia-mestre/">Gestionali a Venezia e Mestre</a></li>
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
+        <li><a href="../software-gestionale-produzione/">Gestionale per la produzione</a></li>
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="../software-gestionale-magazzino/">Gestionale di magazzino</a></li>
+        <li><a href="../software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a></li>
+        <li><a href="../quanto-costa-un-gestionale/">Quanto costa un gestionale</a></li>
+      
+        <li><a href="/software-gestionale-manutenzioni/">Gestione manutenzione</a></li>
+        <li><a href="/software-contabilita-aziendale/">Contabilità aziendale</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
+      
+        <li><a href="../software-per-pmi/">Software per PMI</a></li>
+        <li><a href="../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="/gestione-documentale-aziendale/">Gestione documentale aziendale</a></li>
+      
+        <li><a href="/app-magazzino-codici-a-barre/">App magazzino e codici a barre</a></li>
+        <li><a href="/app-per-agenti-di-commercio/">App per agenti di commercio</a></li>
+        <li><a href="/app-rapportini-di-lavoro/">App rapportini di lavoro</a></li>
+        <li><a href="/sviluppo-web-app/">Sviluppo web app</a></li>
+        <li><a href="/sviluppo-app-aziendali-veneto/">App aziendali in Veneto</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="/posizionamento-sito-google/">Posizionamento su Google</a></li>
+        <li><a href="/consulente-seo-treviso/">Consulente SEO a Treviso</a></li>
+      
+        <li><a href="/migrazione-ecommerce/">Migrazione e-commerce</a></li>
+        <li><a href="/restyling-sito-web/">Restyling sito web</a></li>
+        <li><a href="/aprire-un-negozio-online/">Aprire un negozio online</a></li>
+        <li><a href="/quanto-costa-un-ecommerce/">Quanto costa un e-commerce</a></li>
+        <li><a href="/quanto-costa-una-app/">Quanto costa un'app</a></li>
+      
+        <li><a href="/agenzia-seo-milano/">Agenzia SEO a Milano</a></li>
+        <li><a href="/agenzia-link-building/">Agenzia di link building</a></li>
+      </ul></div>
+      <div><h5>Settori</h5><ul>
+        <li><a href="/software-gestionale-edilizia/">Edilizia e cantieri</a></li>
+        <li><a href="/software-gestionale-impiantisti/">Impianti e manutenzioni</a></li>
+        <li><a href="/software-gestionale-metalmeccanica/">Metalmeccanica</a></li>
+        <li><a href="/software-gestionale-agroalimentare/">Agroalimentare</a></li>
+        <li><a href="/software-gestionale-noleggio/">Noleggio</a></li>
+        <li><a href="/software-gestionale-studi-professionali/">Studi professionali</a></li>
+        <li><a href="/software-gestionale-commesse/">Gestione commesse</a></li>
+        <li><a href="/gestionale-officina-meccanica/">Officine meccaniche</a></li>
+        <li><a href="/software-controllo-di-gestione/">Controllo di gestione</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/prezzi/">Prezzi</a></li>
+        <li><a href="../#settori">Per chi lavoriamo</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="../#processo">Il nostro metodo</a></li>
+        <li><a href="../chi-siamo/">Chi siamo</a></li>
+        <li><a href="../servizi/">Tutti i servizi</a></li>
+        <li><a href="../#contatti">Contatti</a></li>
+      
+        <li><a href="../glossario/">Glossario</a></li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>
