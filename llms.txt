@@ -547,6 +547,12 @@ Le stesse cifre nelle altre lingue:
 - Oasi B&B Ponza — sito bilingue per un bed and breakfast a Santa Maria di Ponza
   (Isole Pontine): camere, servizi, guida all'isola e richiesta di disponibilità
   diretta alla struttura. https://danova-tech.com/lavori/oasi-ponza/
+- UniCESD Olympo — piattaforma educativa per il Centro Studi UNICESD Olympo di
+  Palermo: corsi di laurea online, master universitari, certificazioni,
+  scuola online per il diploma, studio all'estero e formazione per le imprese,
+  con orientamento e richiesta di iscrizione. Il sito del cliente riporta nel
+  footer il credito "Sito realizzato da Danova Tech".
+  https://danova-tech.com/lavori/unicesd-olympo/
 
 ## Contatti e informazioni legali
 

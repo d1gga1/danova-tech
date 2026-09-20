@@ -5,9 +5,17 @@
     <link>https://danova-tech.com/</link>
     <description>Guide pratiche su siti web, SEO e software gestionali, e i lavori consegnati da Danova Tech, software house italiana con sede a Mansuè (Treviso).</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:00:00 -0000</lastBuildDate>
     <atom:link href="https://danova-tech.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://danova-tech.com/assets/img/logo.png</url><title>Danova Tech</title><link>https://danova-tech.com/</link></image>
+    <item>
+      <title>UniCESD Olympo: piattaforma educativa</title>
+      <link>https://danova-tech.com/lavori/unicesd-olympo/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/unicesd-olympo/</guid>
+      <category>Lavori</category>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio UniCESD Olympo: piattaforma educativa per un centro studi di Palermo, con lauree online, master, certificazioni, orientamento e iscrizioni.</description>
+    </item>
     <item>
       <title>Come scegliere un gestionale: guida pratica</title>
       <link>https://danova-tech.com/guide/come-scegliere-un-gestionale/</link>

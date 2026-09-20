@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-09-19 da https://danova-tech.com
+# Generato il 2026-09-20 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -296,6 +296,16 @@ Sito ricettivo
 Bed and breakfast a Santa Maria di Ponza, in una casa ponzese di fine Ottocento. Sito bilingue, camere fotografate una per una e richiesta di disponibilità che arriva diretta alla struttura: prenotazioni senza commissioni di intermediazione.
 
 Caso studio · oasiponzabb.it
+
+Leggi il caso studio
+
+Piattaforma educativa
+
+## UniCESD Olympo
+
+Centro Studi di Palermo per lauree online, master universitari e certificazioni. Un'offerta formativa ampia ordinata per obiettivo, una sezione per ogni pubblico — studenti, famiglie, imprese — e un orientamento in tre passi che porta dritto alla richiesta di iscrizione.
+
+Caso studio · unicesd-olympo.com
 
 Vuoi parlare con uno di loro prima di decidere? Chiedetecelo : è la domanda più utile che potete fare a un fornitore, e vi mettiamo in contatto. Tutti i lavori
 
@@ -914,6 +924,7 @@ Via Rigole 48 — 31040 Mansuè (TV), Italia
 
 Caso studio: Artantiss
 Caso studio: GRG Performance
+Caso studio: UniCESD Olympo
 Veneto
 Treviso e provincia
 Pordenone e provincia
@@ -2846,6 +2857,30 @@ Poi si parte piccolo: anagrafica unificata, storico e offerte. Non si mette tutt
 
 I dati esistenti — quelli sparsi fra il gestionale, i fogli di calcolo personali e le rubriche dei telefoni — vengono raccolti e uniti. È la parte meno visibile e la più delicata: è anche il momento in cui si scopre che lo stesso cliente esiste in tre versioni con tre indirizzi diversi. Si sistema lì, una volta sola.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -3339,6 +3374,30 @@ Terzo: che succede se smettete di pagare o se il fornitore chiude. Deve esserci 
 
 - Backup verificati, non solo programmati. Un backup che nessuno ha mai provato a ripristinare non è un backup.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -3591,6 +3650,30 @@ Dopo ogni tappa c'è qualcosa che l'azienda usa.
 
 - Consegna Sorgente, documentazione e accessi vostri. Assistenza a richiesta, senza canone obbligatorio.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -3696,6 +3779,30 @@ Ogni fase ha una consegna che potete vedere e approvare prima di passare alla su
 - Sviluppo e migrazione dei dati Costruiamo il primo modulo e ci portiamo dentro lo storico che avete già.
 
 - Affiancamento Restiamo mentre le persone imparano a usarlo, e correggiamo quello che sul campo si rivela scomodo. Poi si aggiunge il modulo successivo.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -3834,6 +3941,30 @@ Sai sempre a che punto siamo, quanto costa e quando arriva. E ci si vede di pers
 
 - Affiancamento Restiamo mentre le persone imparano a usarlo, e correggiamo quello che sul campo si rivela scomodo. Poi si aggiunge il modulo successivo.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -3962,6 +4093,30 @@ Tappe a prezzo fisso, ognuna utilizzabile da sola.
 
 - Consegna Sorgente, documentazione e accessi vostri. Assistenza a richiesta.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -4069,6 +4224,30 @@ Sai sempre a che punto siamo, quanto costa e quando arriva. Ogni fase ha una con
 - Sviluppo e migrazione dei dati Costruiamo il primo modulo e ci portiamo dentro lo storico che avete già.
 
 - Affiancamento Restiamo mentre le persone imparano a usarlo, e correggiamo quello che sul campo si rivela scomodo. Poi si aggiunge il modulo successivo.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -4205,6 +4384,30 @@ Ogni fase produce qualcosa che potete vedere e approvare. Nessun progetto che sp
 - Sviluppo e migrazione dei dati Costruiamo il primo modulo e ci portiamo dentro lo storico che avete già.
 
 - Affiancamento Restiamo mentre le persone imparano a usarlo, e correggiamo quello che sul campo si rivela scomodo. Poi si aggiunge il modulo successivo.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -4346,6 +4549,30 @@ Tappe con prezzo fisso, ognuna utilizzabile da sola.
 
 - Consegna Sorgente, documentazione e accessi vostri. Assistenza a richiesta.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -4477,6 +4704,30 @@ Ogni tappa lascia qualcosa che si usa in reparto.
 - Tappe successive Costi, distinte, rintracciabilità, collegamento all'ERP o alla fatturazione.
 
 - Consegna Sorgente, documentazione e accessi vostri. Assistenza a richiesta.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -6193,6 +6444,7 @@ Il credito «Powered by Danova Tech» in fondo alle pagine di Artantiss è lì c
 ## Pagine collegate
 
 Tutti i lavori
+UniCESD Olympo
 Oasi B&B Ponza
 GRG Performance
 Sviluppo web app
@@ -6284,6 +6536,7 @@ L'altra cosa che si porta a casa è che per un'attività di zona il sito e la sc
 ## Pagine collegate
 
 Tutti i lavori
+UniCESD Olympo
 Artantiss
 Oasi B&B Ponza
 Sito web aziendale
@@ -6295,7 +6548,7 @@ Consulente SEO
 ========================================================================
 # Lavori realizzati da Danova Tech
 URL: https://danova-tech.com/lavori/
-Descrizione: I lavori di Danova Tech con nome del cliente e sito online: la piattaforma Artantiss, il sito dell'officina GRG Performance e quello del B&B Oasi Ponza.
+Descrizione: Lavori di Danova Tech con nome del cliente e sito online: la piattaforma educativa UniCESD Olympo, Artantiss, l'officina GRG Performance e Oasi B&B Ponza.
 ========================================================================
 
 Home / Lavori
@@ -6314,7 +6567,7 @@ I progetti
 
 ## Lavori pubblicati, con il nome del cliente
 
-Tre progetti diversi in tutto: una piattaforma editoriale, il sito di un'officina e quello di un bed and breakfast su un'isola. Sono tutti online e potete aprirli.
+Quattro progetti diversi in tutto: una piattaforma educativa, una piattaforma editoriale, il sito di un'officina e quello di un bed and breakfast su un'isola. Sono tutti online e potete aprirli.
 
 01
 
@@ -6339,6 +6592,14 @@ Leggi il caso studio · grgperformance.it
 Bed and breakfast a Santa Maria di Ponza, in una casa ponzese di fine Ottocento. Sito bilingue con le camere fotografate una per una, i servizi dichiarati per esteso e la richiesta di disponibilità che arriva diretta alla struttura, senza intermediari.
 
 Leggi il caso studio · oasiponzabb.it
+
+04
+
+## UniCESD Olympo
+
+Piattaforma educativa per un Centro Studi di Palermo: corsi di laurea online, master, certificazioni, scuola online per il diploma e formazione per le imprese. Offerta ordinata per obiettivo, orientamento in tre passi e richiesta di iscrizione diretta.
+
+Leggi il caso studio · unicesd-olympo.com
 
 Il criterio
 
@@ -6458,12 +6719,106 @@ L'altra cosa che si porta a casa è la stagionalità. Una struttura di mare lavo
 ## Pagine collegate
 
 Tutti i lavori
+UniCESD Olympo
 Artantiss
 GRG Performance
 Realizzazione siti internet
 Sito web aziendale
 Restyling sito web
 Consulente SEO
+
+
+========================================================================
+# UniCESD Olympo: piattaforma educativa
+URL: https://danova-tech.com/lavori/unicesd-olympo/
+Descrizione: Caso studio UniCESD Olympo: piattaforma educativa per un centro studi di Palermo, con lauree online, master, certificazioni, orientamento e iscrizioni.
+========================================================================
+
+Home / Lavori / UniCESD Olympo
+
+Caso studio · Piattaforma educativa
+
+## UniCESD Olympo: un'offerta formativa enorme, resa leggibile in un posto solo .
+
+UNICESD Olympo è un Centro Studi con sede a Palermo, nato nel 2015, che coordina corsi di laurea online, master universitari, certificazioni informatiche e linguistiche, una scuola online per il diploma e percorsi per le imprese. Tanti percorsi, tanti pubblici diversi, e una sola domanda da parte di tutti: «da dove comincio?». La piattaforma è costruita per rispondere a quella.
+
+Apri unicesd-olympo.com
+
+Come è strutturata
+
+Il progetto
+
+## Un centro studi con sette mestieri diversi
+
+Chi arriva su un sito di formazione online non è mai la stessa persona. C'è il lavoratore che vuole finalmente laurearsi e ha paura di non avere tempo. C'è il genitore che cerca una scuola online per il diploma del figlio. C'è il ragazzo fermato dal test di Medicina che vuole sapere se esiste un'altra strada. C'è l'azienda che ha sentito parlare del Fondo Nuove Competenze, e il professionista che deve mettersi in regola con l'AI Act.
+
+UNICESD Olympo segue tutti questi percorsi: corsi di laurea triennali, magistrali e a ciclo unico, master di primo e secondo livello, certificazioni informatiche e linguistiche, corsi singoli per il riconoscimento dei crediti, l'Istituto Janus per il diploma, lo studio all'estero nelle facoltà sanitarie, la formazione finanziata per le imprese. Ognuna di queste cose, raccontata male, schiaccia le altre.
+
+Il lavoro è stato soprattutto di architettura: decidere cosa vede per primo ciascuno di questi visitatori, come passa da «mi interessa» a «voglio parlarne con qualcuno», e come si fa a dare fiducia in un settore — quello della formazione telematica — dove chi cerca è giustamente diffidente.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Una piattaforma educativa deve fare tre cose insieme: orientare, rassicurare e raccogliere il contatto. Ogni sezione è stata pensata per una di queste.
+
+01
+
+## L'offerta formativa, divisa per obiettivo
+
+Corsi di laurea, master e post laurea, certificazioni, corsi singoli: quattro schede che si sfogliano senza cambiare pagina. Ogni corso dichiara subito classe di laurea, durata e CFU, cioè le tre informazioni che chi confronta i percorsi cerca per prime.
+
+02
+
+## Orientamento in tre passi
+
+Il modulo chiede solo nome, contatto e area di interesse, e spiega cosa succede dopo: un orientatore richiama, si fa il colloquio, arriva il piano con percorso, crediti riconoscibili, costi e rate. Accanto, i numeri diretti delle persone, per chi preferisce telefonare subito.
+
+03
+
+## Una sezione per ogni pubblico
+
+Janus per il diploma online, Study with Athena per le facoltà sanitarie in Europa, il Master Made in Italy Global Leadership, il progetto sull'intelligenza artificiale, il Fondo Nuove Competenze per le imprese. Ognuno ha il suo spazio e il suo linguaggio, invece di finire in un elenco puntato.
+
+04
+
+## La piattaforma e i servizi agli studenti
+
+Videolezioni, materiali, test di autovalutazione, calendario esami, tutor dedicato, supporto per DSA e BES, tirocini, rateizzazioni. È quello che lo studente lavoratore deve sapere prima di iscriversi: non «se è bravo abbastanza», ma se ce la fa con i tempi che ha.
+
+05
+
+## La fiducia, messa in pagina
+
+Storia, governance, fondatore, rete dei partner filtrabile per ambito, rassegna stampa, agenda degli eventi, sedi con indirizzi veri, dati societari completi. E domande frequenti che dicono le cose come stanno, a partire da chi rilascia il titolo di studio.
+
+06
+
+## SEO e dati strutturati
+
+Titoli e descrizioni costruiti sulle ricerche reali — centro studi a Palermo, lauree online, master, certificazioni — e dati strutturati di tipo EducationalOrganization con ragione sociale, sedi e contatti, perché Google e i motori di risposta AI capiscano con precisione che cos'è e dove si trova.
+
+Cosa si impara
+
+## Perché questo caso è utile a scuole, enti di formazione e centri studi
+
+Nella formazione il sito non vende un corso: vende la decisione di iscriversi, che per molti è una decisione presa dopo anni di rinvii. Chi ci arriva ha bisogno prima di tutto di capire se il percorso fa per lui, e subito dopo di capire se può fidarsi di chi glielo propone. Un catalogo di corsi, da solo, non risponde a nessuna delle due domande.
+
+La seconda lezione riguarda la trasparenza. Dire chiaramente cosa fa il centro studi e cosa fa l'ateneo, come funziona il riconoscimento dei crediti e chi lo delibera, quanto costa e come si paga: sono risposte che molti siti del settore evitano, ed è proprio per questo che, date bene, distinguono. Una FAQ onesta porta più richieste di contatto di una promessa in grassetto.
+
+La terza è che un'offerta ampia è un vantaggio solo se è ordinata. Sette linee di attività raccontate con lo stesso peso diventano rumore; raccontate per pubblico, diventano sette porte d'ingresso diverse verso lo stesso modulo di orientamento.
+
+## Pagine collegate
+
+Tutti i lavori
+Artantiss
+GRG Performance
+Oasi B&B Ponza
+Sviluppo web app
+Realizzazione siti internet
+Sito web aziendale
+Consulente SEO
+Prezzi di siti web, app e gestionali
 
 
 ========================================================================
@@ -6743,7 +7098,7 @@ Sito web aziendale
 
 
 ========================================================================
-# Prezzi siti web, web app e gestionali
+# Prezzi siti web, app e gestionali 2026
 URL: https://danova-tech.com/prezzi/
 Descrizione: Sito web da 24,80 € al mese o 350 € una tantum (+150 € di SEO). Web app da 50 € al mese o 750 €. Gestionale aziendale da 1.500 €. Prezzi IVA inclusa.
 ========================================================================
@@ -6752,13 +7107,34 @@ Home / Servizi / Prezzi
 
 Listino
 
-## Prezzi scritti, non sussurrati.
+## Prezzi di siti web, app e gestionali: scritti, non sussurrati.
 
 Quasi nessuna agenzia mette i prezzi sul sito. Noi sì. Qui sotto trovate quanto costa un sito web, un'applicazione web e un gestionale aziendale, cosa c'è dentro ogni cifra e quando conviene il canone mensile invece del pagamento unico. Tutti i prezzi sono IVA inclusa.
 
 Richiedi un preventivo
 
 Vai al listino
+
+In sintesi
+
+## Il listino in una tabella
+
+Prezzi Danova Tech per siti web, applicazioni web e gestionali, IVA inclusa
+Servizio Formula Prezzo (IVA inclusa) Cosa comprende
+
+Sito web in abbonamento Canone mensile, minimo 24 mesi 24,80 € / mese Sito web completo con dominio, hosting, manutenzione, aggiornamenti e modifiche inclusi. Durata minima 24 mesi.
+
+Sito web a costo chiuso Pagamento unico 350 € Sito web consegnato e di proprietà del cliente, pagamento unico.
+
+Ottimizzazione SEO per Google e Bing Pagamento unico 150 € Ottimizzazione iniziale per i motori di ricerca: struttura, tag, dati strutturati, sitemap e indicizzazione su Google e Bing.
+
+Applicazione web in abbonamento Canone mensile 50 € / mese Applicazione web con hosting, aggiornamenti e assistenza inclusi.
+
+Applicazione web pronta Pagamento unico, a partire da da 750 € Applicazione web già sviluppata, personalizzata e operativa da subito.
+
+Gestionale aziendale su misura Pagamento unico, a partire da da 1.500 € Software gestionale costruito sui processi dell'azienda, con migrazione dati e formazione.
+
+Prezzi aggiornati al 20 settembre 2026 .
 
 Sito web
 
@@ -6883,7 +7259,7 @@ Fuori dal prezzo restano le cose che dipendono da voi: eventuali licenze di terz
 
 Sui progetti più grandi — un gestionale, un'integrazione con il vostro sistema di fatturazione — la cifra arriva dopo un'analisi gratuita. È l'unico modo per dare un numero che regge fino alla fine.
 
-## FAQ
+## Domande frequenti sui prezzi
 
 Quanto costa un sito web?
 Da noi un sito web costa 24,80 € al mese IVA inclusa, con dominio, hosting, manutenzione e modifiche compresi e una durata minima di 24 mesi; oppure 350 € una tantum se preferite pagarlo in una volta sola e averlo vostro. In questo secondo caso l'ottimizzazione SEO per Google e Bing costa 150 € aggiuntivi, quindi 500 € in tutto.
@@ -7854,6 +8230,51 @@ Nei primi tre mesi le richieste, se arrivano, arrivano da due fonti: chi vi cono
 
 Per questo consegniamo sempre il sito con Search Console già attiva e configurata, e con l'elenco scritto di cosa fare nei tre mesi successivi. Che poi lo facciate voi, noi o nessuno è una vostra scelta; ma nessuno dovrebbe scoprire dopo la consegna che il lavoro non era finito.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -7886,6 +8307,7 @@ Se quello che vi serve è il conto prima del preventivo, la pagina onesta sui nu
 ## Pagine collegate
 
 Caso studio: GRG Performance
+Caso studio: UniCESD Olympo
 Siti web & E-commerce
 Sito web aziendale
 Realizzazione e-commerce
@@ -7987,6 +8409,51 @@ Sai sempre a che punto è il progetto, quanto costa e quando va online.
 - Design e sviluppo Vedi le bozze prima che si costruisca qualcosa. Poi sviluppo, prova su telefono e controllo della velocità.
 
 - Messa online e affiancamento Pubblichiamo, colleghiamo Search Console e le statistiche e restiamo disponibili il primo mese per le correzioni.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -8125,6 +8592,51 @@ Sapete sempre a che punto siamo, quanto costa e quando va online.
 
 - Online e affiancamento Andiamo online, colleghiamo Search Console e le statistiche, e restiamo per il primo mese a sistemare quello che emerge dall'uso reale.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -8255,6 +8767,51 @@ Sapete sempre a che punto siamo, quanto costa e quando va online.
 - Design e sviluppo Vi mostriamo le schermate prima di costruirle. Poi si sviluppa, si testa su telefono e si controlla la velocità.
 
 - Online e affiancamento Andiamo online, colleghiamo Search Console e le statistiche, e restiamo per il primo mese a sistemare quello che emerge dall'uso reale.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -8402,6 +8959,51 @@ Sai sempre a che punto è il progetto, quanto costa e quando va online.
 
 - Messa online e affiancamento Pubblichiamo, colleghiamo Search Console e le statistiche e restiamo disponibili il primo mese per le correzioni.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -8539,6 +9141,51 @@ Sapete sempre a che punto siamo, quanto costa e quando va online.
 
 - Online e affiancamento Andiamo online, colleghiamo Search Console e le statistiche, e restiamo per il primo mese a sistemare quello che emerge dall'uso reale.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -8673,6 +9320,51 @@ Sapete sempre a che punto siamo, quanto costa e quando va online.
 
 - Online e affiancamento Andiamo online, colleghiamo Search Console e le statistiche, e restiamo per il primo mese a sistemare quello che emerge dall'uso reale.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -8804,6 +9496,51 @@ Sai sempre a che punto è il progetto, quanto costa e quando va online.
 - Design e sviluppo Vedi le bozze prima che si costruisca qualcosa. Poi sviluppo, prova su telefono e controllo della velocità.
 
 - Messa online e affiancamento Pubblichiamo, colleghiamo Search Console e le statistiche e restiamo disponibili il primo mese per le correzioni.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -8946,6 +9683,51 @@ Sai sempre a che punto è il progetto, quanto costa e quando va online.
 
 - Messa online e affiancamento Pubblichiamo, colleghiamo Search Console e le statistiche e restiamo disponibili il primo mese per le correzioni.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -9082,6 +9864,51 @@ L'analisi iniziale è gratuita e serve anche a dirti se il restyling non ti conv
 - Struttura, contenuti e sviluppo Si conservano i contenuti che funzionano, si scrivono quelli mancanti, si costruisce il sito nuovo.
 
 - Pubblicazione e monitoraggio Reindirizzamenti attivi dal primo minuto, Search Console controllata per le settimane successive.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -10410,6 +11237,51 @@ Le due cose però lavorano insieme e non in alternativa. La scheda si posiziona 
 
 Quindi quando facciamo un sito aziendale guardiamo anche la scheda, e se è incompleta lo diciamo. Non è un servizio che vi vendiamo per forza: spesso è mezz'ora del vostro tempo, e vale più di parecchie ore delle nostre.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+
+Zero anticipo
+Opzione 1
+
+## Sito in abbonamento
+
+24,80 € al mese
+
+IVA inclusa · durata minima 24 mesi · nessun costo di avvio
+
+- Dominio incluso e rinnovato da noi
+- Hosting e certificato SSL inclusi
+- Manutenzione, backup e aggiornamenti di sicurezza
+- Modifiche ai testi e alle immagini comprese nel canone
+- Assistenza via email e telefono
+
+Parlane con noi
+
+Opzione 2
+
+## Sito a costo chiuso
+
+350 € una tantum
+
++ 150 € per l'ottimizzazione SEO su Google e Bing
+
+IVA inclusa · nessun canone, nessun vincolo
+
+Sito + SEO: 500 € una volta sola
+
+- Il sito è vostro dal giorno della consegna
+- Dominio e hosting intestati a voi
+- SEO per Google e Bing: 150 € una tantum
+- Nessuna durata minima da rispettare
+- Manutenzione facoltativa, solo se la volete
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -10444,6 +11316,7 @@ Quale delle tre conviene lo diciamo dopo aver guardato il sito attuale e i numer
 ## Pagine collegate
 
 Caso studio: GRG Performance
+Caso studio: UniCESD Olympo
 Realizzazione siti internet
 Siti web & E-commerce
 Quanto costa un sito web
@@ -11068,6 +11941,30 @@ Si parte migrando i dati in una copia di prova e facendola girare in parallelo a
 Poi si passa un reparto alla volta, cominciando da quello che rischia meno se si inceppa. Il vecchio sistema resta acceso in sola lettura per mesi, non per giorni: costa quasi niente tenerlo e toglie l'ansia a tutti. La formazione si fa sui dati veri dell'azienda, mai su un database di esempio, perché le persone imparano sul proprio lavoro e non su un caso inventato.
 
 Un chiarimento sui termini, perché nei preventivi girano tutti. Software per PMI , software gestionale per PMI , gestionali personalizzati e programma gestionale su misura indicano la stessa famiglia di prodotti vista da angoli diversi: il primo mette l'accento sulla dimensione dell'azienda, gli altri sul fatto che il programma viene adattato. Quello che conta davvero non è l'etichetta ma due cose concrete: se il costo cresce per ogni utente aggiunto — con venti persone in azienda fa una differenza enorme sul totale a cinque anni — e se i dati si esportano quando volete voi. Nella stessa area rientra la business intelligence aziendale , cioè la parte che trasforma i dati del gestionale in numeri leggibili: marginalità per commessa, scostamenti, andamenti. Su una PMI non serve una piattaforma dedicata, servono i cinque numeri giusti aggiornati da soli.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -12912,6 +13809,7 @@ Chi cerca un consulente gestionale di solito è nel mezzo: ha un gestionale che 
 
 Caso studio: Artantiss
 Caso studio: GRG Performance
+Caso studio: UniCESD Olympo
 Sviluppo software su misura
 Software gestionale aziendale
 Gestionali & CRM
@@ -13134,6 +14032,30 @@ Onestà
 Lo diciamo prima del preventivo, perché è la conversazione che fa risparmiare più soldi di qualsiasi sconto.
 Conviene il su misura quando il modo in cui lavorate è una parte del vostro vantaggio competitivo e nessun prodotto da catalogo lo regge; quando fate un lavoro che il vostro settore fa in modo diverso da voi; quando i processi che contano sono già descritti da fogli di calcolo complicati che qualcuno mantiene a mano.
 Non conviene quando quello che vi serve è contabilità e fatturazione standard: lì il mercato offre prodotti maturi a un costo che nessuno sviluppo su misura può battere. Nel dubbio ve lo diciamo, e se la risposta è «compratelo», quella è la risposta.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Qui non esiste un prezzo di listino onesto, perché un gestionale si costruisce sul modo in cui lavorate. Quello che possiamo dire prima è il punto di partenza e come arriviamo alla cifra: analisi, preventivo a prezzo fisso, e da lì non si muove.
+
+Su misura
+
+## Gestionale aziendale
+
+da 1.500 € progetto
+
+IVA inclusa · cifra definita dopo l'analisi, poi non cambia
+
+- Analisi dei vostri processi prima di scrivere una riga di codice
+- Moduli scelti su come lavorate davvero, non un pacchetto standard
+- Migrazione dei dati da Excel o dal gestionale attuale
+- Formazione delle persone che lo useranno
+- Prezzo fisso concordato prima di iniziare
+
+Chiedi una valutazione
+
+Vedi tutti i prezzi
 
 ## Domande frequenti
 
@@ -13379,6 +14301,46 @@ Si parte piccoli, si mette in mano alle persone in fretta, si aggiunge quello ch
 - Sviluppo e collegamenti Costruiamo l'app e la colleghiamo ai sistemi che usate già, gestionale compreso.
 
 - Prova sul campo e correzioni La provano le persone vere, nelle condizioni vere. Quello che si rivela scomodo lo sistemiamo, poi si aggiunge la funzione successiva.
+
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Un'applicazione web si apre dal browser, non si installa e funziona su computer, tablet e telefono. Anche qui potete partire con un canone oppure prendere un'applicazione già pronta e averla operativa subito.
+
+Opzione 1
+
+## Web app in abbonamento
+
+50 € al mese
+
+IVA inclusa · attivazione senza costi iniziali
+
+- Applicazione raggiungibile da qualsiasi browser
+- Hosting, backup e aggiornamenti inclusi
+- Utenti, ruoli e permessi
+- Correzioni e piccole evoluzioni comprese
+- Assistenza inclusa nel canone
+
+Parlane con noi
+
+Opzione 2
+
+## Web app pronta
+
+da 750 € una tantum
+
+IVA inclusa · operativa da subito
+
+- Applicazione già sviluppata, non si aspettano mesi
+- Personalizzata con i vostri dati, colori e logo
+- Pagamento unico, nessun canone obbligatorio
+- Evoluzioni successive preventivate a parte
+- Formazione iniziale inclusa
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
 
 Domande frequenti
 
@@ -13633,6 +14595,46 @@ Dopo ogni tappa c'è un risultato utilizzabile in produzione.
 
 - Misura e consegna Si verifica cosa ha prodotto, si decide la tappa successiva. Sorgente, documentazione e accessi intestati a te.
 
+Il nostro prezzo
+
+## Quanto costa da noi
+
+Un'applicazione web si apre dal browser, non si installa e funziona su computer, tablet e telefono. Anche qui potete partire con un canone oppure prendere un'applicazione già pronta e averla operativa subito.
+
+Opzione 1
+
+## Web app in abbonamento
+
+50 € al mese
+
+IVA inclusa · attivazione senza costi iniziali
+
+- Applicazione raggiungibile da qualsiasi browser
+- Hosting, backup e aggiornamenti inclusi
+- Utenti, ruoli e permessi
+- Correzioni e piccole evoluzioni comprese
+- Assistenza inclusa nel canone
+
+Parlane con noi
+
+Opzione 2
+
+## Web app pronta
+
+da 750 € una tantum
+
+IVA inclusa · operativa da subito
+
+- Applicazione già sviluppata, non si aspettano mesi
+- Personalizzata con i vostri dati, colori e logo
+- Pagamento unico, nessun canone obbligatorio
+- Evoluzioni successive preventivate a parte
+- Formazione iniziale inclusa
+
+Richiedi il preventivo
+
+Vedi tutti i prezzi
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -13655,6 +14657,7 @@ Tieni tutto: codice sorgente, documentazione, accessi e dati. L'applicazione con
 ## Pagine collegate
 
 Artantiss: una piattaforma editoriale
+UniCESD Olympo: una piattaforma educativa
 Software su misura e automazioni
 Sviluppo app aziendali in Veneto
 Gestionali e CRM su misura
