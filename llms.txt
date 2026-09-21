@@ -553,6 +553,13 @@ Le stesse cifre nelle altre lingue:
   con orientamento e richiesta di iscrizione. Il sito del cliente riporta nel
   footer il credito "Sito realizzato da Danova Tech".
   https://danova-tech.com/lavori/unicesd-olympo/
+- DajbocTechDon — sito multilingua per DajbocTechDon S.R.L., azienda di
+  lavorazioni CNC di Turt (Satu Mare, Romania): tornitura e fresatura di
+  precisione, progettazione di macchine su misura e componenti metallici per
+  automotive, industria, agricoltura ed energia. Processo produttivo in otto
+  fasi, quasi trenta lingue e una pagina per ogni paese europeo servito. Il
+  sito del cliente riporta nel footer il credito "Website by DANOVA TECH".
+  https://danova-tech.com/lavori/dajboctechdon/
 
 ## Contatti e informazioni legali
 

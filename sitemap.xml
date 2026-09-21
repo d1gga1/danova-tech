@@ -1616,7 +1616,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/dt-06.webp</image:loc>
     </image:image>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -1674,7 +1674,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-unicesd.webp</image:loc>
     </image:image>
-    <lastmod>2026-09-20</lastmod>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1697,6 +1697,17 @@
       <image:loc>https://danova-tech.com/assets/img/lavoro-unicesd.webp</image:loc>
     </image:image>
     <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/lavori/dajboctechdon/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/dajboctechdon/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/dajboctechdon/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-dajboc.webp</image:loc>
+    </image:image>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

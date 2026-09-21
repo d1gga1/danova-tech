@@ -6822,6 +6822,100 @@ Prezzi di siti web, app e gestionali
 
 
 ========================================================================
+# DajbocTechDon: sito multilingua CNC
+URL: https://danova-tech.com/lavori/dajboctechdon/
+Descrizione: Caso studio DajbocTechDon: sito multilingua per un'officina CNC rumena, con il processo produttivo in otto fasi e una pagina per ogni paese europeo servito.
+========================================================================
+
+Home / Lavori / DajbocTechDon
+
+Caso studio · Sito multilingua per l'export
+
+## DajbocTechDon: un'officina CNC che deve farsi trovare in tutta Europa .
+
+DajbocTechDon è un'azienda meccanica di Turt, nella provincia di Satu Mare, nel nord-ovest della Romania. Nata nel 2023 da Daniel Dan, fa tornitura e fresatura CNC, progetta macchine su misura e produce componenti metallici di precisione. I suoi clienti però non sono in paese: sono uffici acquisti in Germania, in Francia, in Scandinavia, che cercano un fornitore nella loro lingua. Il sito è costruito per quel lettore lì.
+
+Apri dajboctechdon.com
+
+Come è strutturato
+
+Il progetto
+
+## Vendere una lavorazione che il cliente non può vedere
+
+La subfornitura meccanica ha un problema di fiducia che nessun altro settore ha nella stessa forma. Chi compra non compra un prodotto finito che può guardare: manda un disegno tecnico e chiede che qualcuno, a mille chilometri di distanza, lo trasformi in un pezzo che rientra nelle tolleranze, arrivi nei tempi e non fermi la linea di montaggio. Prima di mandare quel disegno vuole capire con chi ha a che fare.
+
+DajbocTechDon parte per di più da una posizione che va spiegata bene: è un'azienda giovane, in un paese che molti compratori occidentali associano al prezzo basso prima che alla precisione. Nascondere la sede o la data di fondazione sarebbe stato il modo più veloce per perdere credibilità alla prima verifica. La scelta è stata l'opposta: dire tutto, e far vedere come si lavora.
+
+Poi c'è la questione della lingua. Un responsabile acquisti tedesco che cerca un fornitore CNC non digita in inglese e non digita in rumeno: digita in tedesco. Se il sito non esiste in tedesco, l'azienda non esiste per lui. Il lavoro è stato costruire una struttura che regge quasi trenta lingue e oltre quaranta paesi senza diventare un ammasso di pagine tutte uguali.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Un sito per l'export industriale deve fare tre cose: farsi trovare nella lingua giusta, dimostrare come si lavora, e rendere facilissimo mandare un disegno e chiedere un prezzo.
+
+01
+
+## Il processo produttivo in otto fasi
+
+Raccolta dei requisiti, progettazione, simulazione, produzione, assemblaggio, controllo, collaudo, consegna. Ogni fase ha il suo spazio e la sua immagine. È la risposta visiva alla domanda che si fa ogni ufficio acquisti prima di affidare una commessa: come lavorate, e chi controlla che il pezzo sia giusto prima che parta.
+
+02
+
+## Quasi trenta lingue, non una traduzione automatica
+
+Inglese e rumeno come versioni principali, e da lì tedesco, francese, italiano, spagnolo, polacco, ungherese, ceco, le lingue scandinave, le lingue baltiche e balcaniche. Ogni versione ha i propri titoli, le proprie descrizioni e i propri hreflang, perché una pagina tradotta ma senza dati di lingua corretti a Google non serve.
+
+03
+
+## Una pagina per ogni paese servito
+
+Oltre quaranta paesi europei, ciascuno con la propria pagina nella propria lingua: chi cerca «lavorazioni CNC» aggiungendo il nome del suo paese trova una pagina che parla di consegne verso quel paese, non una generica. È la differenza fra comparire in una ricerca e comparire in quella giusta.
+
+04
+
+## I settori, dichiarati apertamente
+
+Automotive, industria, agricoltura, energia. Dirlo per nome serve a due cose: chi arriva dal settore giusto si riconosce subito, e chi arriva dal settore sbagliato se ne accorge prima di scrivere. Un contatto in meno ma pertinente vale più di dieci richieste fuori bersaglio.
+
+05
+
+## FAQ che rispondono davvero, e un modulo corto
+
+Accettate pezzi singoli e piccole serie? Progettate una macchina da zero? Dove siete e dove consegnate? Sono le domande che un compratore farebbe per email prima di fidarsi: messe in pagina, tolgono un giro di messaggi. Il modulo di contatto chiede il minimo indispensabile, perché chi ha un disegno da mandare non vuole compilare una scheda.
+
+06
+
+## Identità aziendale verificabile e dati strutturati
+
+Ragione sociale completa, indirizzo della sede a Turt, anno di fondazione, nome del fondatore, telefono ed email in chiaro, più i dati strutturati che descrivono l'azienda ai motori di ricerca e agli assistenti AI. In un settore dove il primo controllo di un compratore è «questa azienda esiste davvero?», è la parte che lavora di più.
+
+Cosa si impara
+
+## Perché questo caso è utile alle aziende meccaniche che esportano
+
+La prima lezione riguarda la lingua, e vale per qualsiasi PMI che vende all'estero. Moltissime aziende italiane fanno un sito in italiano e ne aggiungono una versione in inglese, dando per scontato che chi compra in Europa cerchi in inglese. Non è così: si cerca nella propria lingua, e la SEO internazionale si gioca lì. Finché una pagina in tedesco non esiste, il mercato tedesco non è raggiungibile, per quanto bravi si sia in officina.
+
+La seconda riguarda il processo. Un subfornitore non ha un catalogo da mostrare: ha un modo di lavorare. Raccontare le fasi una per una — chi riceve il disegno, chi simula, chi controlla, chi collauda — è l'unico modo per rendere visibile una competenza che altrimenti resta una promessa. Vale per la meccanica come per qualunque azienda che lavora su commessa.
+
+La terza è che la trasparenza è una leva commerciale, non un obbligo burocratico. Sede, anno di fondazione, nome di chi ha avviato l'azienda, telefono che risponde: sono le prime cose che un compratore verifica e le ultime che molti siti mettono. Dichiararle in chiaro, soprattutto quando si è giovani o si parte da un paese che il cliente non conosce, è quello che trasforma una visita in una richiesta di preventivo.
+
+## Pagine collegate
+
+Tutti i lavori
+Artantiss
+GRG Performance
+Oasi B&B Ponza
+UniCESD Olympo
+Realizzazione siti internet
+Sito web aziendale
+Gestionale per la metalmeccanica
+Consulente SEO
+Prezzi di siti web, app e gestionali
+
+
+========================================================================
 # Migrazione e-commerce senza perdere vendite
 URL: https://danova-tech.com/migrazione-ecommerce/
 Descrizione: Cambiare piattaforma e-commerce senza perdere posizioni su Google: redirect, dati, recensioni e storico ordini. Piano di migrazione e verifiche.
