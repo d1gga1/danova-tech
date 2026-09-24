@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-09-20 da https://danova-tech.com
+# Generato il 2026-09-24 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -306,6 +306,16 @@ Piattaforma educativa
 Centro Studi di Palermo per lauree online, master universitari e certificazioni. Un'offerta formativa ampia ordinata per obiettivo, una sezione per ogni pubblico — studenti, famiglie, imprese — e un orientamento in tre passi che porta dritto alla richiesta di iscrizione.
 
 Caso studio · unicesd-olympo.com
+
+Leggi il caso studio
+
+Sito multilingua
+
+## DajbocTechDon
+
+Officina di lavorazioni CNC nel nord della Romania: tornitura, fresatura e macchine su misura per automotive, industria, agricoltura ed energia. Il processo produttivo raccontato in otto fasi, in quasi trenta lingue, con una pagina per ogni paese europeo servito.
+
+Caso studio · dajboctechdon.com
 
 Vuoi parlare con uno di loro prima di decidere? Chiedetecelo : è la domanda più utile che potete fare a un fornitore, e vi mettiamo in contatto. Tutti i lavori
 
@@ -1475,16 +1485,16 @@ Prezzi
 
 
 ========================================================================
-# App gestione cantieri e rapportini
+# Software e app gestione cantieri e rapportini
 URL: https://danova-tech.com/app-gestione-cantieri/
-Descrizione: App per la gestione dei cantieri: rapportini, ore squadra, materiali, foto, sicurezza e avanzamento lavori dal telefono, anche senza connessione.
+Descrizione: Software e app per la gestione dei cantieri: rapportini, ore squadra, materiali, foto, sicurezza e avanzamento lavori dal telefono, anche offline.
 ========================================================================
 
 Home / App su misura / App gestione cantieri
 
 Cantieri
 
-## App gestione cantieri e rapportini.
+## Software e app gestione cantieri e rapportini.
 
 In cantiere il dato nasce sporco e arriva tardi: le ore su un foglio nel furgone, i materiali a voce, le foto sul telefono del capocantiere, le varianti in un messaggio. Poi in ufficio qualcuno prova a ricostruire la settimana, e quello che ne esce non è la settimana che è successa davvero.
 
@@ -1600,6 +1610,7 @@ Gestionale commesse
 Gestionale per impiantisti
 App su misura
 Quanto costa un'app
+Contabilità di cantiere
 
 
 ========================================================================
@@ -2621,6 +2632,8 @@ Google Ads
 Siti web a Treviso
 Guida a Google Business Profile
 Velocità e Core Web Vitals
+Web agency a Oderzo e Motta di Livenza
+Web agency a Conegliano
 
 
 ========================================================================
@@ -2760,7 +2773,7 @@ Consulente SEO a Treviso
 
 
 ========================================================================
-# CRM aziendale su misura per PMI
+# CRM aziendale e programma gestione clienti
 URL: https://danova-tech.com/crm-aziendale/
 Descrizione: CRM aziendale e software CRM su misura: clienti, trattative e offerte in un posto solo, collegati al gestionale. Un CRM per PMI che le persone usano davvero.
 ========================================================================
@@ -2930,6 +2943,7 @@ App per agenti di commercio
 E-commerce B2B
 
 Software preventivi e configuratore
+Lead generation B2B
 
 
 ========================================================================
@@ -3854,16 +3868,16 @@ Gestionali a Udine
 
 
 ========================================================================
-# Software gestionale a Treviso e provincia
+# Software gestionale Treviso, su misura e online
 URL: https://danova-tech.com/gestionali-su-misura-treviso/
-Descrizione: Software gestionale su misura per le aziende della Marca: magazzino, produzione e controllo di gestione. Sviluppo vicino a Treviso, incontri in azienda.
+Descrizione: Software gestionale su misura a Treviso, anche online in cloud: magazzino, produzione e controllo di gestione. Sviluppo in provincia, incontri in azienda.
 ========================================================================
 
 Home / Gestionali & CRM / Software gestionale a Treviso
 
 Treviso e provincia
 
-## Software gestionale su misura per le aziende della Marca .
+## Software gestionale su misura a Treviso .
 
 Mobile e arredo, calzatura sportiva, agroalimentare, meccanica leggera. La provincia di Treviso è fatta di aziende che hanno un modo di lavorare loro, costruito in trent’anni, e che nessun gestionale a pacchetto ha mai previsto. Il software dovrebbe adattarsi a quel modo di lavorare, non il contrario.
 
@@ -4001,6 +4015,8 @@ Quanto costa un gestionale
 
 Gestionali a Padova
 Gestionali a Vicenza
+Software house in Veneto
+Web agency a Oderzo e Motta di Livenza
 
 
 ========================================================================
@@ -4307,6 +4323,7 @@ Gestionali a Verona
 Gestionali a Udine
 
 Software MES per la produzione
+Software house in Veneto
 
 
 ========================================================================
@@ -4460,16 +4477,16 @@ Gestionali a Padova
 
 
 ========================================================================
-# Software gestionale su misura a Verona
+# Software gestionale e magazzino a Verona
 URL: https://danova-tech.com/gestionali-su-misura-verona/
-Descrizione: Gestionali su misura per le aziende veronesi: logistica, agroalimentare, vino e marmo. Magazzino, lotti, commesse e costi reali. Prezzo fisso per tappa.
+Descrizione: Gestionali e software di magazzino su misura per le aziende veronesi: logistica, agroalimentare, vino e marmo. Lotti, commesse e costi reali. Prezzo fisso.
 ========================================================================
 
 Home / Gestionali & CRM / Gestionali a Verona
 
 Verona e provincia
 
-## Software gestionale su misura a Verona .
+## Software gestionale e di magazzino su misura a Verona .
 
 Verona è logistica, agroalimentare, vino e pietra. Quattro mondi con un problema in comune: il dato che serve per decidere — dove è la merce, quanto rende un lotto, quanto costa una commessa — esiste, ma sta su fogli diversi e arriva sempre troppo tardi.
 
@@ -6454,6 +6471,100 @@ Sviluppo software su misura
 
 
 ========================================================================
+# DajbocTechDon: sito multilingua CNC
+URL: https://danova-tech.com/lavori/dajboctechdon/
+Descrizione: Caso studio DajbocTechDon: sito multilingua per un'officina CNC rumena, con il processo produttivo in otto fasi e una pagina per ogni paese europeo servito.
+========================================================================
+
+Home / Lavori / DajbocTechDon
+
+Caso studio · Sito multilingua per l'export
+
+## DajbocTechDon: un'officina CNC che deve farsi trovare in tutta Europa .
+
+DajbocTechDon è un'azienda meccanica di Turt, nella provincia di Satu Mare, nel nord-ovest della Romania. Nata nel 2023 da Daniel Dan, fa tornitura e fresatura CNC, progetta macchine su misura e produce componenti metallici di precisione. I suoi clienti però non sono in paese: sono uffici acquisti in Germania, in Francia, in Scandinavia, che cercano un fornitore nella loro lingua. Il sito è costruito per quel lettore lì.
+
+Apri dajboctechdon.com
+
+Come è strutturato
+
+Il progetto
+
+## Vendere una lavorazione che il cliente non può vedere
+
+La subfornitura meccanica ha un problema di fiducia che nessun altro settore ha nella stessa forma. Chi compra non compra un prodotto finito che può guardare: manda un disegno tecnico e chiede che qualcuno, a mille chilometri di distanza, lo trasformi in un pezzo che rientra nelle tolleranze, arrivi nei tempi e non fermi la linea di montaggio. Prima di mandare quel disegno vuole capire con chi ha a che fare.
+
+DajbocTechDon parte per di più da una posizione che va spiegata bene: è un'azienda giovane, in un paese che molti compratori occidentali associano al prezzo basso prima che alla precisione. Nascondere la sede o la data di fondazione sarebbe stato il modo più veloce per perdere credibilità alla prima verifica. La scelta è stata l'opposta: dire tutto, e far vedere come si lavora.
+
+Poi c'è la questione della lingua. Un responsabile acquisti tedesco che cerca un fornitore CNC non digita in inglese e non digita in rumeno: digita in tedesco. Se il sito non esiste in tedesco, l'azienda non esiste per lui. Il lavoro è stato costruire una struttura che regge quasi trenta lingue e oltre quaranta paesi senza diventare un ammasso di pagine tutte uguali.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Un sito per l'export industriale deve fare tre cose: farsi trovare nella lingua giusta, dimostrare come si lavora, e rendere facilissimo mandare un disegno e chiedere un prezzo.
+
+01
+
+## Il processo produttivo in otto fasi
+
+Raccolta dei requisiti, progettazione, simulazione, produzione, assemblaggio, controllo, collaudo, consegna. Ogni fase ha il suo spazio e la sua immagine. È la risposta visiva alla domanda che si fa ogni ufficio acquisti prima di affidare una commessa: come lavorate, e chi controlla che il pezzo sia giusto prima che parta.
+
+02
+
+## Quasi trenta lingue, non una traduzione automatica
+
+Inglese e rumeno come versioni principali, e da lì tedesco, francese, italiano, spagnolo, polacco, ungherese, ceco, le lingue scandinave, le lingue baltiche e balcaniche. Ogni versione ha i propri titoli, le proprie descrizioni e i propri hreflang, perché una pagina tradotta ma senza dati di lingua corretti a Google non serve.
+
+03
+
+## Una pagina per ogni paese servito
+
+Oltre quaranta paesi europei, ciascuno con la propria pagina nella propria lingua: chi cerca «lavorazioni CNC» aggiungendo il nome del suo paese trova una pagina che parla di consegne verso quel paese, non una generica. È la differenza fra comparire in una ricerca e comparire in quella giusta.
+
+04
+
+## I settori, dichiarati apertamente
+
+Automotive, industria, agricoltura, energia. Dirlo per nome serve a due cose: chi arriva dal settore giusto si riconosce subito, e chi arriva dal settore sbagliato se ne accorge prima di scrivere. Un contatto in meno ma pertinente vale più di dieci richieste fuori bersaglio.
+
+05
+
+## FAQ che rispondono davvero, e un modulo corto
+
+Accettate pezzi singoli e piccole serie? Progettate una macchina da zero? Dove siete e dove consegnate? Sono le domande che un compratore farebbe per email prima di fidarsi: messe in pagina, tolgono un giro di messaggi. Il modulo di contatto chiede il minimo indispensabile, perché chi ha un disegno da mandare non vuole compilare una scheda.
+
+06
+
+## Identità aziendale verificabile e dati strutturati
+
+Ragione sociale completa, indirizzo della sede a Turt, anno di fondazione, nome del fondatore, telefono ed email in chiaro, più i dati strutturati che descrivono l'azienda ai motori di ricerca e agli assistenti AI. In un settore dove il primo controllo di un compratore è «questa azienda esiste davvero?», è la parte che lavora di più.
+
+Cosa si impara
+
+## Perché questo caso è utile alle aziende meccaniche che esportano
+
+La prima lezione riguarda la lingua, e vale per qualsiasi PMI che vende all'estero. Moltissime aziende italiane fanno un sito in italiano e ne aggiungono una versione in inglese, dando per scontato che chi compra in Europa cerchi in inglese. Non è così: si cerca nella propria lingua, e la SEO internazionale si gioca lì. Finché una pagina in tedesco non esiste, il mercato tedesco non è raggiungibile, per quanto bravi si sia in officina.
+
+La seconda riguarda il processo. Un subfornitore non ha un catalogo da mostrare: ha un modo di lavorare. Raccontare le fasi una per una — chi riceve il disegno, chi simula, chi controlla, chi collauda — è l'unico modo per rendere visibile una competenza che altrimenti resta una promessa. Vale per la meccanica come per qualunque azienda che lavora su commessa.
+
+La terza è che la trasparenza è una leva commerciale, non un obbligo burocratico. Sede, anno di fondazione, nome di chi ha avviato l'azienda, telefono che risponde: sono le prime cose che un compratore verifica e le ultime che molti siti mettono. Dichiararle in chiaro, soprattutto quando si è giovani o si parte da un paese che il cliente non conosce, è quello che trasforma una visita in una richiesta di preventivo.
+
+## Pagine collegate
+
+Tutti i lavori
+Artantiss
+GRG Performance
+Oasi B&B Ponza
+UniCESD Olympo
+Realizzazione siti internet
+Sito web aziendale
+Gestionale per la metalmeccanica
+Consulente SEO
+Prezzi di siti web, app e gestionali
+
+
+========================================================================
 # GRG Performance: sito per officina moto
 URL: https://danova-tech.com/lavori/grg-performance/
 Descrizione: Caso studio GRG Performance: sito per officina moto di Fossalta di Portogruaro, concessionaria TM Moto, con banco prova, preparazione motori e team corse.
@@ -6548,7 +6659,7 @@ Consulente SEO
 ========================================================================
 # Lavori realizzati da Danova Tech
 URL: https://danova-tech.com/lavori/
-Descrizione: Lavori di Danova Tech con nome del cliente e sito online: la piattaforma educativa UniCESD Olympo, Artantiss, l'officina GRG Performance e Oasi B&B Ponza.
+Descrizione: Lavori di Danova Tech con nome del cliente e sito online: DajbocTechDon, UniCESD Olympo, Artantiss, l'officina GRG Performance e Oasi B&B Ponza.
 ========================================================================
 
 Home / Lavori
@@ -6600,6 +6711,14 @@ Leggi il caso studio · oasiponzabb.it
 Piattaforma educativa per un Centro Studi di Palermo: corsi di laurea online, master, certificazioni, scuola online per il diploma e formazione per le imprese. Offerta ordinata per obiettivo, orientamento in tre passi e richiesta di iscrizione diretta.
 
 Leggi il caso studio · unicesd-olympo.com
+
+05
+
+## DajbocTechDon
+
+Officina di lavorazioni CNC di Turt, in Romania: tornitura, fresatura, progettazione di macchine su misura e componenti di precisione per automotive, industria, agricoltura ed energia. Sito in quasi trenta lingue, con una pagina per ogni paese europeo servito.
+
+Leggi il caso studio · dajboctechdon.com
 
 Il criterio
 
@@ -6822,97 +6941,118 @@ Prezzi di siti web, app e gestionali
 
 
 ========================================================================
-# DajbocTechDon: sito multilingua CNC
-URL: https://danova-tech.com/lavori/dajboctechdon/
-Descrizione: Caso studio DajbocTechDon: sito multilingua per un'officina CNC rumena, con il processo produttivo in otto fasi e una pagina per ogni paese europeo servito.
+# Lead generation B2B per PMI
+URL: https://danova-tech.com/lead-generation-b2b/
+Descrizione: Lead generation B2B per PMI: pagine che rispondono a ricerche vere, campagne Google e Meta, moduli qualificanti e CRM collegato. Contatti misurati.
 ========================================================================
 
-Home / Lavori / DajbocTechDon
+Home / Google Ads / Lead generation B2B
 
-Caso studio · Sito multilingua per l'export
+Contatti commerciali
 
-## DajbocTechDon: un'officina CNC che deve farsi trovare in tutta Europa .
+## Lead generation B2B per PMI.
 
-DajbocTechDon è un'azienda meccanica di Turt, nella provincia di Satu Mare, nel nord-ovest della Romania. Nata nel 2023 da Daniel Dan, fa tornitura e fresatura CNC, progetta macchine su misura e produce componenti metallici di precisione. I suoi clienti però non sono in paese: sono uffici acquisti in Germania, in Francia, in Scandinavia, che cercano un fornitore nella loro lingua. Il sito è costruito per quel lettore lì.
+Per un'azienda che vende ad altre aziende, un contatto non vale quanto un altro: dieci richieste qualificate valgono più di cento indirizzi email. La lead generation B2B che facciamo non è una campagna, è una catena di quattro anelli, e si rompe sempre in quello che nessuno guarda.
 
-Apri dajboctechdon.com
+Analizziamo la vostra catena
 
-Come è strutturato
+I quattro anelli
 
-Il progetto
+Come funziona
 
-## Vendere una lavorazione che il cliente non può vedere
-
-La subfornitura meccanica ha un problema di fiducia che nessun altro settore ha nella stessa forma. Chi compra non compra un prodotto finito che può guardare: manda un disegno tecnico e chiede che qualcuno, a mille chilometri di distanza, lo trasformi in un pezzo che rientra nelle tolleranze, arrivi nei tempi e non fermi la linea di montaggio. Prima di mandare quel disegno vuole capire con chi ha a che fare.
-
-DajbocTechDon parte per di più da una posizione che va spiegata bene: è un'azienda giovane, in un paese che molti compratori occidentali associano al prezzo basso prima che alla precisione. Nascondere la sede o la data di fondazione sarebbe stato il modo più veloce per perdere credibilità alla prima verifica. La scelta è stata l'opposta: dire tutto, e far vedere come si lavora.
-
-Poi c'è la questione della lingua. Un responsabile acquisti tedesco che cerca un fornitore CNC non digita in inglese e non digita in rumeno: digita in tedesco. Se il sito non esiste in tedesco, l'azienda non esiste per lui. Il lavoro è stato costruire una struttura che regge quasi trenta lingue e oltre quaranta paesi senza diventare un ammasso di pagine tutte uguali.
-
-Cosa abbiamo fatto
-
-## Le scelte concrete
-
-Un sito per l'export industriale deve fare tre cose: farsi trovare nella lingua giusta, dimostrare come si lavora, e rendere facilissimo mandare un disegno e chiedere un prezzo.
+## Quattro anelli, uno per volta
 
 01
 
-## Il processo produttivo in otto fasi
+## Farsi trovare
 
-Raccolta dei requisiti, progettazione, simulazione, produzione, assemblaggio, controllo, collaudo, consegna. Ogni fase ha il suo spazio e la sua immagine. È la risposta visiva alla domanda che si fa ogni ufficio acquisti prima di affidare una commessa: come lavorate, e chi controlla che il pezzo sia giusto prima che parta.
+Pagine che rispondono a ricerche precise, del tipo che fa un buyer quando ha già il problema: un servizio, un materiale, una lavorazione, una zona. Posizionamento su Google per il lungo periodo, Google Ads per le ricerche che servono subito.
 
 02
 
-## Quasi trenta lingue, non una traduzione automatica
+## Convincere
 
-Inglese e rumeno come versioni principali, e da lì tedesco, francese, italiano, spagnolo, polacco, ungherese, ceco, le lingue scandinave, le lingue baltiche e balcaniche. Ogni versione ha i propri titoli, le proprie descrizioni e i propri hreflang, perché una pagina tradotta ma senza dati di lingua corretti a Google non serve.
+Una pagina di destinazione per ogni offerta, con prezzi o fasce quando è possibile, casi reali e certificazioni. Un buyer B2B confronta tre fornitori: chi gli fa perdere meno tempo parte avanti.
 
 03
 
-## Una pagina per ogni paese servito
+## Raccogliere bene
 
-Oltre quaranta paesi europei, ciascuno con la propria pagina nella propria lingua: chi cerca «lavorazioni CNC» aggiungendo il nome del suo paese trova una pagina che parla di consegne verso quel paese, non una generica. È la differenza fra comparire in una ricerca e comparire in quella giusta.
+Un modulo che chiede le due o tre informazioni che servono al commerciale per capire se il contatto è buono. Non dieci campi, non un solo campo email.
 
 04
 
-## I settori, dichiarati apertamente
+## Non perdere il contatto
 
-Automotive, industria, agricoltura, energia. Dirlo per nome serve a due cose: chi arriva dal settore giusto si riconosce subito, e chi arriva dal settore sbagliato se ne accorge prima di scrivere. Un contatto in meno ma pertinente vale più di dieci richieste fuori bersaglio.
+Il modulo arriva nel CRM, non in una casella di posta condivisa. Il commerciale ha un promemoria, il responsabile vede quanti contatti sono stati richiamati e quando.
 
-05
+Dove si rompe
 
-## FAQ che rispondono davvero, e un modulo corto
+## Il problema, quasi sempre, è dopo il modulo
 
-Accettate pezzi singoli e piccole serie? Progettate una macchina da zero? Dove siete e dove consegnate? Sono le domande che un compratore farebbe per email prima di fidarsi: messe in pagina, tolgono un giro di messaggi. Il modulo di contatto chiede il minimo indispensabile, perché chi ha un disegno da mandare non vuole compilare una scheda.
+Quando un'azienda ci dice che le campagne non portano contatti, la prima cosa che guardiamo non sono le campagne. Guardiamo cosa succede a una richiesta arrivata dal sito: chi la riceve, dopo quanto risponde, cosa ne resta dopo un mese.
 
-06
+Più volte abbiamo trovato richieste arrivate in una casella che nessuno controllava, o richiamate dopo una settimana, quando il buyer aveva già scelto. Un contatto B2B si raffredda in fretta : chi ha chiesto tre preventivi di solito lavora con chi ha risposto per primo in modo serio.
 
-## Identità aziendale verificabile e dati strutturati
+Per questo il nostro lavoro comprende sempre l'ultimo anello: il collegamento del sito al CRM, o un CRM semplice se non c'è, con avvisi al commerciale e un cruscotto che mostra quanti contatti sono arrivati, quanti sono stati richiamati e quanti sono diventati offerte.
 
-Ragione sociale completa, indirizzo della sede a Turt, anno di fondazione, nome del fondatore, telefono ed email in chiaro, più i dati strutturati che descrivono l'azienda ai motori di ricerca e agli assistenti AI. In un settore dove il primo controllo di un compratore è «questa azienda esiste davvero?», è la parte che lavora di più.
+I canali
 
-Cosa si impara
+## Quali canali, e in che ordine
 
-## Perché questo caso è utile alle aziende meccaniche che esportano
+Google, prima di tutto. Nel B2B la maggior parte della domanda nasce da una ricerca: qualcuno ha un problema e cerca chi lo risolve. Le campagne Google Ads sulle ricerche più specifiche portano contatti in settimane; il posizionamento organico costa meno nel tempo e arriva in mesi. Di solito si usano entrambi, spostando il budget man mano che l'organico cresce.
 
-La prima lezione riguarda la lingua, e vale per qualsiasi PMI che vende all'estero. Moltissime aziende italiane fanno un sito in italiano e ne aggiungono una versione in inglese, dando per scontato che chi compra in Europa cerchi in inglese. Non è così: si cerca nella propria lingua, e la SEO internazionale si gioca lì. Finché una pagina in tedesco non esiste, il mercato tedesco non è raggiungibile, per quanto bravi si sia in officina.
+Meta per ricordare, non per trovare. Facebook e Instagram funzionano poco per cercare un buyer industriale da zero, ma bene per farsi rivedere da chi è già passato dal sito e non ha scritto. Budget piccolo, pubblico ristretto, messaggio diverso da quello della prima visita.
 
-La seconda riguarda il processo. Un subfornitore non ha un catalogo da mostrare: ha un modo di lavorare. Raccontare le fasi una per una — chi riceve il disegno, chi simula, chi controlla, chi collauda — è l'unico modo per rendere visibile una competenza che altrimenti resta una promessa. Vale per la meccanica come per qualunque azienda che lavora su commessa.
+I contenuti che fanno lavorare il commerciale. Una scheda tecnica scaricabile, un confronto fra soluzioni, un calcolatore del costo: sono le cose che un buyer gira al collega, e che fanno arrivare il vostro nome in una riunione a cui non siete invitati.
 
-La terza è che la trasparenza è una leva commerciale, non un obbligo burocratico. Sede, anno di fondazione, nome di chi ha avviato l'azienda, telefono che risponde: sono le prime cose che un compratore verifica e le ultime che molti siti mettono. Dichiararle in chiaro, soprattutto quando si è giovani o si parte da un paese che il cliente non conosce, è quello che trasforma una visita in una richiesta di preventivo.
+Come si parte
+
+## Prima si misura, poi si spende.
+
+- Analisi della catena Da dove arrivano oggi i contatti, quanti diventano offerte, dove si perdono. Spesso il primo intervento non costa niente in pubblicità.
+
+- Tracciamento Ogni modulo, chiamata e email dal sito misurata e attribuita al canale che l'ha portata, nel rispetto del consenso ai cookie.
+
+- Primo canale Si parte da uno, di solito Google Ads sulle ricerche più vicine all'acquisto, con un budget definito e un obiettivo di costo per contatto.
+
+- Report mensile Contatti, costo per contatto, contatti diventati offerte. Se un canale non funziona dopo il periodo di prova, si chiude.
+
+FAQ
+
+## Le domande sulla lead generation.
+
+Quanto costa la lead generation B2B?
+Si divide in due voci: il nostro lavoro, cioè pagine, tracciamento, collegamento al CRM e gestione delle campagne, a prezzo fisso o mensile; e il budget pubblicitario, che pagate direttamente a Google o Meta. Vi diamo un preventivo scritto dopo l'analisi, con una stima del costo per contatto basata sui prezzi reali delle vostre parole chiave.
+
+Comprate liste di contatti?
+No. Le liste comprate nel B2B rendono poco, e l'invio di comunicazioni commerciali a chi non ha dato il consenso espone l'azienda a problemi con il GDPR. Lavoriamo solo con persone che vi hanno cercato o che hanno scelto di lasciare i propri dati.
+
+In quanto tempo arrivano i primi contatti?
+Con Google Ads sulle ricerche giuste, in genere entro le prime settimane. Con il posizionamento organico servono alcuni mesi. Un buon piano usa i due canali insieme e riduce la pubblicità quando l'organico comincia a rendere.
+
+Serve un CRM?
+Serve un posto dove i contatti non si perdono. Se avete già un CRM lo colleghiamo; se non l'avete, a volte basta uno strumento semplice, altre volte conviene costruirlo intorno al vostro modo di vendere. Ve lo diciamo dopo aver visto quanti contatti gestite.
+
+Funziona per aziende molto di nicchia?
+Spesso funziona meglio. Nelle nicchie le ricerche sono poche ma molto precise, i concorrenti sono pochi e il costo per clic è basso. Il limite è il volume: se in Italia cercano la vostra lavorazione venti persone al mese, il piano deve tenerne conto.
+
+## Dove si perdono i vostri contatti?
+
+In una call di mezz'ora guardiamo insieme da dove arrivano oggi le richieste e cosa ne succede dopo. Vi diciamo qual è l'anello più debole, anche se si sistema senza di noi.
+
+Prenota la call gratuita
 
 ## Pagine collegate
 
-Tutti i lavori
-Artantiss
-GRG Performance
-Oasi B&B Ponza
-UniCESD Olympo
-Realizzazione siti internet
+Consulente Google Ads
+Meta Ads: Facebook e Instagram
+CRM aziendale su misura
+Posizionamento su Google
+E-commerce B2B
 Sito web aziendale
-Gestionale per la metalmeccanica
-Consulente SEO
-Prezzi di siti web, app e gestionali
+Software preventivi e configuratore
+Prezzi
 
 
 ========================================================================
@@ -8415,7 +8555,7 @@ Velocità e Core Web Vitals
 
 
 ========================================================================
-# Realizzazione siti web a Padova e provincia
+# Web agency Padova: realizzazione siti web
 URL: https://danova-tech.com/realizzazione-siti-web-padova/
 Descrizione: Realizzazione siti web ed e-commerce per aziende di Padova e provincia: SEO inclusa, preventivo a corpo, online in 2-8 settimane. Il sito resta tuo.
 ========================================================================
@@ -8772,10 +8912,11 @@ Google Ads
 Siti web a Verona
 Siti web a Padova
 Restyling del sito web
+Web agency a Oderzo e Motta di Livenza
 
 
 ========================================================================
-# Realizzazione siti web a Treviso e provincia
+# Web agency Treviso: realizzazione siti web
 URL: https://danova-tech.com/realizzazione-siti-web-treviso/
 Descrizione: Siti web ed e-commerce su misura per le aziende della provincia di Treviso: veloci, multilingua e costruiti per portare richieste. Prezzo fisso.
 ========================================================================
@@ -8963,6 +9104,8 @@ Restyling del sito web
 
 Guida a Google Business Profile
 Consulente SEO a Treviso
+Web agency a Oderzo e Motta di Livenza
+Web agency a Conegliano
 
 
 ========================================================================
@@ -9502,7 +9645,7 @@ Restyling del sito web
 
 
 ========================================================================
-# Realizzazione siti web a Verona e provincia
+# Web agency Verona: realizzazione siti web
 URL: https://danova-tech.com/realizzazione-siti-web-verona/
 Descrizione: Realizzazione siti web ed e-commerce per aziende di Verona e provincia: SEO inclusa, preventivo a corpo, online in 2-8 settimane. Il sito resta tuo.
 ========================================================================
@@ -9688,7 +9831,7 @@ Gestionali a Verona
 
 
 ========================================================================
-# Realizzazione siti web a Vicenza e provincia
+# Web agency Vicenza: realizzazione siti web
 URL: https://danova-tech.com/realizzazione-siti-web-vicenza/
 Descrizione: Realizzazione siti web, e-commerce e app per aziende di Vicenza e provincia: SEO inclusa, preventivo a corpo, online in 2-8 settimane. Il sito resta tuo.
 ========================================================================
@@ -10653,6 +10796,7 @@ Meta Ads e campagne
 Siti web ed e-commerce
 Quanto costa un sito web
 Tutti i servizi
+Lead generation B2B
 
 
 ========================================================================
@@ -10774,6 +10918,7 @@ Siti web in Veneto
 Quanto costa un sito web
 
 Google Ads
+Lead generation B2B
 
 
 ========================================================================
@@ -11567,6 +11712,133 @@ Prezzi
 
 
 ========================================================================
+# Software per la contabilità di cantiere
+URL: https://danova-tech.com/software-contabilita-cantiere/
+Descrizione: Contabilità di cantiere per imprese edili: SAL attivi e passivi, misure, varianti, subappalti e costi reali per cantiere. Su misura, collegata al gestionale.
+========================================================================
+
+Home / Gestionale edilizia / Contabilità di cantiere
+
+Edilizia
+
+## Software per la contabilità di cantiere.
+
+In quasi tutte le imprese edili il margine di un cantiere si scopre alla fine, quando non si può più correggere niente. La contabilità di cantiere serve a saperlo mentre il cantiere è aperto: quanto è stato prodotto, quanto è stato fatturato, quanto è stato speso e quanto manca. Questa pagina spiega cosa deve fare il software, e dove un prodotto standard non basta.
+
+Parliamo dei vostri cantieri
+
+Le due contabilità
+
+Il punto di partenza
+
+## Due contabilità che vanno tenute insieme
+
+Quando si dice contabilità di cantiere si intendono due cose diverse, ed è la prima fonte di confusione. C'è la contabilità dei lavori , quella del rapporto con il committente: misure, libretto, stati di avanzamento, certificati di pagamento, varianti. Negli appalti pubblici i suoi documenti sono definiti dal codice dei contratti e la tiene la direzione lavori; nei lavori privati è più libera, ma la logica è la stessa.
+
+E c'è la contabilità industriale del cantiere , quella interna all'impresa: ore della squadra, materiali, noli, subappalti, spese generali attribuite. Risponde a una domanda sola: su questo cantiere stiamo guadagnando o perdendo?
+
+I programmi per la direzione lavori fanno bene la prima. I gestionali contabili fanno, a fatica, la seconda. Quasi nessuno le mette una accanto all'altra, ed è proprio lì che si vede il margine: SAL attivo emesso contro costi sostenuti alla stessa data , cantiere per cantiere.
+
+Cosa gestisce
+
+## Le funzioni che servono
+
+01
+
+## Budget dal computo
+
+Il computo metrico estimativo diventa il budget del cantiere, voce per voce. Ogni costo che arriva dopo viene confrontato con quella voce, non con un totale generico.
+
+02
+
+## SAL attivi
+
+Stati di avanzamento verso il committente con quantità, prezzi, ritenute e anticipazioni, e la proposta di fattura pronta per il gestionale che usate già.
+
+03
+
+## SAL passivi e subappalti
+
+Lo specchio del precedente: quanto hanno prodotto i subappaltatori, quanto va pagato, cosa è trattenuto a garanzia. Con i documenti di regolarità collegati al fornitore.
+
+04
+
+## Varianti e lavori extra
+
+Ogni variante con il suo stato: richiesta, approvata, eseguita, contabilizzata. I lavori fatti e mai contabilizzati sono il margine che sparisce più spesso.
+
+05
+
+## Costi dal campo
+
+Ore squadra, materiali e noli registrati dal cantiere con l'app, attribuiti alla voce giusta senza ricopiare i rapportini in ufficio.
+
+06
+
+## Margine a data
+
+Per ogni cantiere: prodotto, fatturato, incassato, speso, previsto a finire. Un numero per riga, aggiornato ogni settimana, non a fine lavori.
+
+Onestamente
+
+## Quando basta un programma e quando no
+
+Se fate soprattutto lavori pubblici e il vostro problema è produrre i documenti contabili nel formato richiesto, esistono programmi specifici per la contabilità dei lavori, usati da anni da direttori lavori e imprese. Vanno bene, e non ha senso rifarli.
+
+Il su misura conviene quando il problema è l'altra metà: sapere il margine per cantiere mentre il cantiere è aperto, collegare i rapportini di campo ai costi, far parlare il programma dei SAL con il gestionale della contabilità e con il magazzino. Lì i prodotti standard si fermano, e il lavoro di collegamento lo fa ancora qualcuno in ufficio con un foglio di calcolo.
+
+Spesso la soluzione giusta è una via di mezzo: tenete il programma che avete per i documenti ufficiali, e noi costruiamo intorno il pezzo che manca, leggendo i dati da lì invece di chiedere di reinserirli.
+
+Come lo costruiamo
+
+## Si parte da un cantiere, non da tutti.
+
+- Analisi su un cantiere vero Prendiamo un cantiere chiuso di recente e ricostruiamo con voi da dove arrivano i numeri. È il modo più rapido per capire dove si perdono informazioni.
+
+- Prima tappa: costi e margine Budget dal computo, costi dal campo, margine a data. È la parte che si usa da subito e che cambia le riunioni del lunedì.
+
+- Seconda tappa: SAL e subappalti Stati di avanzamento attivi e passivi, varianti, ritenute, collegamento alla fatturazione.
+
+- Terza tappa: collegamenti Gestionale contabile, magazzino, programma dei documenti ufficiali. Ogni dato si inserisce una volta sola.
+
+FAQ
+
+## Le domande delle imprese edili.
+
+Che differenza c'è con la vostra pagina sul gestionale per l'edilizia?
+Il gestionale per l'edilizia copre tutta l'impresa: preventivi, cantieri, squadre, mezzi, sicurezza. Questa pagina riguarda un pezzo solo, la contabilità e il margine del singolo cantiere, che per molte imprese è il punto da cui partire.
+
+Sostituisce il programma della direzione lavori?
+No, e di solito non conviene. Se il programma che usate produce correttamente i documenti ufficiali, lo teniamo e ne leggiamo i dati. Costruiamo la parte che manca, cioè il confronto con i costi e il margine.
+
+Quanto costa?
+Un gestionale su misura parte da 1.500 euro IVA inclusa. Una prima tappa con budget, costi dal campo e margine per cantiere sta di norma nella fascia medio-bassa delle quattro cifre; il prezzo esatto si fissa dopo l'analisi e non cambia a lavoro in corso.
+
+Funziona anche per impiantisti e serramentisti?
+Sì. Cambiano le voci del budget e le unità di misura, ma la logica di commessa, avanzamento e costi è la stessa. Per chi lavora su molti interventi piccoli invece che su pochi cantieri grandi è più adatto il gestionale delle commesse.
+
+I capisquadra devono usare un'app?
+Per avere i costi dal campo sì, ma un'app che chiede tre cose: ore, materiali, foto. Se oggi compilano un rapportino di carta, l'app richiede meno tempo, non di più. Funziona anche senza connessione.
+
+## Quanto rende davvero quel cantiere?
+
+Portateci i numeri di un cantiere chiuso: in un'ora vi mostriamo dove si perdono le informazioni e cosa servirebbe per saperlo prima. Gratuito.
+
+Prenota l'analisi
+
+## Pagine collegate
+
+Software gestionale per edilizia
+Software e app gestione cantieri
+Gestionale per commesse
+Software controllo di gestione
+Software di contabilità aziendale
+App rapportini di lavoro
+Gestionale per impiantisti
+Quanto costa un gestionale
+
+
+========================================================================
 # Software controllo di gestione su misura
 URL: https://danova-tech.com/software-controllo-di-gestione/
 Descrizione: Margini per commessa, prodotto e cliente, budget e scostamenti, cruscotti aggiornati dai dati che hai già. A tappe, con prezzo fisso concordato prima.
@@ -11950,6 +12222,7 @@ E-commerce collegato al gestionale
 Quanto costa un gestionale
 Gestionali e CRM su misura
 Gestione documentale
+Web agency a Conegliano
 
 
 ========================================================================
@@ -12253,10 +12526,11 @@ App gestione cantieri
 
 Software MES per la produzione
 Software preventivi e configuratore
+Contabilità di cantiere
 
 
 ========================================================================
-# Software gestionale per edilizia su misura
+# Software gestionale edilizia e imprese edili
 URL: https://danova-tech.com/software-gestionale-edilizia/
 Descrizione: Gestionale per imprese edili: cantieri, costi per commessa, SAL, subappalti, rapportini e sicurezza. Su misura, a tappe con prezzo fisso.
 ========================================================================
@@ -12398,6 +12672,7 @@ App timbrature e ore di lavoro
 Software preventivi e configuratore
 Gestionale per l’agroalimentare
 Incentivi e iperammortamento
+Contabilità di cantiere
 
 
 ========================================================================
@@ -12543,7 +12818,7 @@ Gestionale per studi professionali
 
 
 ========================================================================
-# Software gestionale di magazzino su misura
+# Programma e software di gestione magazzino
 URL: https://danova-tech.com/software-gestionale-magazzino/
 Descrizione: Giacenze reali, ubicazioni, lotti e scadenze, codici a barre e collegamento a fatturazione ed e-commerce. Su misura, senza costo per utente.
 ========================================================================
@@ -13635,7 +13910,7 @@ Gestionale per il noleggio
 
 
 ========================================================================
-# Software gestione interventi tecnici
+# Software per gestione interventi tecnici
 URL: https://danova-tech.com/software-gestione-interventi-tecnici/
 Descrizione: Software gestione interventi tecnici e manutenzioni: chiamate, ticket assistenza, squadre, rapportini e contratti. Su misura, a tappe con prezzo fisso.
 ========================================================================
@@ -13743,6 +14018,9 @@ Sì, e per chi lavora in centrale termica, in cabina o in un capannone schermato
 Si collega al gestionale che usiamo per le fatture?
 Di norma sì: l'intervento chiuso diventa una proposta di fattura nel programma che già usate, senza doppia digitazione. Verifichiamo prima che il vostro gestionale abbia un canale per riceverla; se è chiuso lo diciamo subito, non a metà progetto.
 
+Esiste un software open source per la gestione degli interventi?
+Sì: per l'assistenza informatica c'è GLPI, e Odoo Community ha un modulo di manutenzione. Sono gratuiti da scaricare, ma vanno installati, adattati e tenuti aggiornati da qualcuno, e il costo vero sta lì. Se il vostro flusso è standard possono bastare, e ve lo diciamo; se avete contratti, SLA o fatturazione particolari, adattarli costa spesso più che scrivere solo quello che vi serve.
+
 ## Pagine collegate
 
 Gestionale per impiantisti
@@ -13752,6 +14030,138 @@ App gestione cantieri
 Gestionale commesse
 Gestionale per officina meccanica
 Gestionali e CRM su misura
+
+
+========================================================================
+# Software house in Veneto, a Treviso
+URL: https://danova-tech.com/software-house-veneto/
+Descrizione: Software house veneta con sede a Mansuè (TV): gestionali, app e integrazioni su misura per le aziende del Veneto. Analisi in azienda, prezzo fisso a tappe.
+========================================================================
+
+Home / Software house / Veneto
+
+Software house veneta
+
+## Software house in Veneto.
+
+Siamo a Mansuè, in provincia di Treviso, fra Oderzo e Motta di Livenza. Dieci persone che scrivono gestionali, applicazioni e collegamenti fra programmi per aziende che stanno a un'ora o due di macchina. Questa pagina non spiega cos'è una software house: spiega cosa cambia, per un'azienda veneta, averne una vicino.
+
+Fissiamo un incontro
+
+Perché vicino conta
+
+Il punto
+
+## Perché la distanza conta ancora
+
+Un gestionale su misura si sbaglia quasi sempre nello stesso punto: nell'analisi. Chi lo scrive non ha mai visto il magazzino, non ha parlato con chi prepara le spedizioni, non sa che il lunedì mattina l'ufficio acquisti lavora su un foglio che nessuno ha mai mostrato. Il risultato è un programma corretto sulla carta e scomodo nella realtà.
+
+Per questo la prima giornata la passiamo da voi. Non in videochiamata: in azienda, con le persone che useranno il software. È il motivo per cui lavoriamo soprattutto con aziende del Veneto e del Friuli occidentale, dove arrivare è una questione di ore e non di voli. Tornare per il collaudo, per la formazione, per il primo mese di uso vero costa poco a noi e cambia molto il risultato per voi.
+
+Il resto del lavoro si fa a distanza, come per tutti. Ma la differenza fra un fornitore che può venire a vedere quando qualcosa non torna e uno che può solo chiedervi uno screenshot si sente, soprattutto nei primi tre mesi.
+
+Il territorio
+
+## Il Veneto non è un mercato solo: è una somma di distretti
+
+Ogni distretto ha un modo suo di lavorare, e il software deve rispettarlo. Questi sono i casi che incontriamo più spesso.
+
+01
+
+## Il mobile del Livenza
+
+Fra Motta di Livenza, Mansuè, Brugnera e Prata si lavora per commessa, con varianti di finitura infinite e contoterzisti a catena. Il gestionale deve seguire il pezzo fuori dall'azienda e riportarlo dentro, non solo contarlo in magazzino.
+
+02
+
+## La meccanica vicentina e padovana
+
+Conto lavoro, lotti, certificati di materiale, tempi ciclo. Qui il valore sta nel sapere quanto è costato davvero un ordine, e quasi sempre il dato è sparso fra tre programmi e un quaderno in officina.
+
+03
+
+## L'occhialeria bellunese
+
+Subfornitura per pochi grandi marchi, capitolati rigidi, tracciabilità del singolo componente. Serve un software che parli la lingua del committente e che esporti quello che il committente chiede, nel formato che chiede.
+
+04
+
+## Lo sportsystem di Montebelluna
+
+Taglie, colori, stagioni, campionari. Sono le varianti a far esplodere le anagrafiche, e i gestionali generici le gestiscono moltiplicando gli articoli invece di organizzarli.
+
+05
+
+## Vino e agroalimentare
+
+Dal Prosecco di Conegliano al Valpolicella, passando per il Piave: lotti, vendemmie, giacenze fiscali, schede per l'export. Tracciabilità vera, dalla vigna alla bottiglia, senza doppia registrazione.
+
+06
+
+## Logistica e trasporti
+
+Interporto di Padova, porto di Venezia, corridoio verso il Nord Europa. Le aziende di questo settore hanno quasi sempre un gestionale che funziona e dieci fogli di calcolo intorno che lo tengono in piedi.
+
+Cosa facciamo
+
+## Cosa ci chiedono le aziende venete
+
+La richiesta più frequente non è un gestionale nuovo. È far parlare fra loro programmi che già esistono : il gestionale contabile che nessuno vuole cambiare, l'e-commerce, il foglio delle commesse, il sistema del corriere. Un collegamento fatto bene elimina la doppia digitazione e costa una frazione di un software nuovo.
+
+Subito dopo vengono le applicazioni per chi lavora fuori dall'ufficio: tecnici, agenti, capisquadra. Un'app che apre l'intervento, fotografa, fa firmare il cliente e manda tutto in ufficio senza che nessuno ricopi niente. Poi i gestionali veri e propri, quando l'azienda ha superato quello che un pacchetto standard riesce a fare.
+
+Quando il problema si risolve con un programma già in commercio, lo diciamo. È successo più di una volta di chiudere la prima riunione consigliando un prodotto esistente: non ci guadagniamo niente quel giorno, ma è il motivo per cui ci richiamano dopo.
+
+Come lavoriamo
+
+## Dal primo incontro al software in uso.
+
+- Giornata in azienda Veniamo da voi e guardiamo il lavoro com'è fatto, non come è descritto. L'incontro è gratuito e senza impegno, anche se alla fine vi diciamo che non vi serviamo.
+
+- Proposta scritta a tappe Ogni tappa ha un risultato che si può usare e un prezzo fisso. Potete fermarvi dopo la prima e tenere quello che è stato fatto: il codice è vostro dal primo giorno.
+
+- Sviluppo con consegne frequenti Ogni due o tre settimane vedete qualcosa che funziona. Gli errori di analisi si scoprono lì, quando costano poco, non alla consegna finale.
+
+- Avvio affiancato Il primo giorno di uso vero siamo in azienda. Le prime settimane sono quelle in cui un software viene adottato o abbandonato, e non le lasciamo al caso.
+
+FAQ
+
+## Le domande che ci fanno al primo incontro.
+
+Dove siete esattamente?
+A Mansuè, in provincia di Treviso, fra Oderzo e Motta di Livenza. Da qui Treviso, Pordenone e Conegliano sono a meno di mezz'ora; Venezia, Padova e Udine intorno all'ora; Vicenza, Belluno e Verona fra un'ora e mezza e due.
+
+Venite anche fuori dal Veneto?
+Sì. Lavoriamo in tutta Italia e con clienti esteri, e buona parte del lavoro si fa a distanza. Per il Veneto e il Friuli occidentale gli incontri in azienda sono la regola; più lontano si concordano le visite nei momenti che contano, cioè analisi, collaudo e avvio.
+
+Quanto costa un software su misura?
+Un gestionale su misura parte da 1.500 euro IVA inclusa per un primo modulo, un'applicazione web pronta da personalizzare da 750 euro. Il prezzo vero dipende da quanti processi copre e da quanti programmi deve collegare: lo fissiamo dopo l'analisi, per tappe, e non cambia a lavoro in corso.
+
+Che differenza c'è rispetto a una grande software house?
+Le dimensioni. Con dieci persone parlate sempre con chi conosce il vostro progetto, e le decisioni si prendono in un giorno. Il limite è lo stesso: non siamo la scelta giusta per un ERP da duecento utenti in dieci stabilimenti, e se è il vostro caso ve lo diciamo.
+
+Il codice sorgente resta nostro?
+Sì, sempre, per contratto. Database, codice e accessi sono intestati a voi. Se un giorno volete cambiare fornitore, potete farlo senza chiederci il permesso.
+
+Ci sono incentivi per il software nel 2026?
+Alcune misure nazionali e regionali coprono l'acquisto di software e la digitalizzazione, ma cambiano spesso e hanno requisiti precisi. Prima del preventivo verifichiamo con il vostro consulente quali sono aperte e costruiamo la documentazione tecnica in modo che sia utilizzabile.
+
+## Veniamo a vedere come lavorate?
+
+Un incontro in azienda, gratuito, per capire dove il software vi fa perdere tempo. Se la soluzione è un programma già in commercio, ve lo diciamo lì.
+
+Fissiamo un incontro
+
+## Pagine collegate
+
+Software house: cos’è e come sceglierla
+Software gestionale su misura in Veneto
+Sviluppo app aziendali in Veneto
+Gestionale a Treviso
+Integrazione software aziendali
+Sviluppo software su misura
+Quanto costa un gestionale
+Chi siamo
 
 
 ========================================================================
@@ -13918,6 +14328,7 @@ Integrazione software aziendali
 Chatbot aziendale e agenti AI
 
 Software MES per la produzione
+Software house in Veneto
 
 
 ========================================================================
@@ -14311,16 +14722,16 @@ Gestionali e CRM su misura
 
 
 ========================================================================
-# Sviluppo app aziendali in Veneto
+# Sviluppo app aziendali in Veneto e Triveneto
 URL: https://danova-tech.com/sviluppo-app-aziendali-veneto/
-Descrizione: Applicazioni mobile e web su misura per le aziende venete: magazzino, tecnici in trasferta, aree clienti. Collegate al vostro gestionale, prezzo fisso.
+Descrizione: Sviluppo di applicazioni aziendali su misura in Veneto e Triveneto: magazzino, tecnici in trasferta, aree clienti. Collegate al vostro gestionale.
 ========================================================================
 
 Home / App su misura / App aziendali in Veneto
 
 Veneto e Friuli
 
-## Applicazioni che le persone usano davvero .
+## Sviluppo di applicazioni aziendali in Veneto e Triveneto .
 
 Non app da vetrina: applicazioni mobile e web che tolgono il doppio lavoro a chi sta in magazzino, in trasferta o al banco. Costruite sul vostro flusso reale e collegate ai sistemi che avete già. Il codice resta vostro, senza costo per utente.
 
@@ -14475,6 +14886,7 @@ Sviluppo web app
 App rapportini di lavoro
 App per agenti di commercio
 Quanto costa un'app
+Software house in Veneto
 
 
 ========================================================================
@@ -14761,3 +15173,246 @@ App su misura
 Quanto costa un'app
 App rapportini di lavoro
 App aziendali in Veneto
+
+
+========================================================================
+# Web agency a Conegliano e Vittorio Veneto
+URL: https://danova-tech.com/web-agency-conegliano/
+Descrizione: Siti web, SEO e software per le aziende di Conegliano, Vittorio Veneto e delle colline del Prosecco: cantine, enoturismo, meccanica. A mezz'ora da voi.
+========================================================================
+
+Home / Siti web & E-commerce / Conegliano
+
+Sinistra Piave
+
+## Web agency a Conegliano e Vittorio Veneto.
+
+Conegliano ha due economie che vivono accanto: quella delle colline, fatta di cantine e ospitalità, e quella della pianura, fatta di meccanica, elettrodomestici e subfornitura. Hanno bisogni diversi dal web e dal software, e questa pagina li tiene separati. Siamo a mezz'ora, a Mansuè.
+
+Parliamone
+
+Cantine e ospitalità
+
+Le colline
+
+## Cantine e ospitalità: il sito è la prima degustazione
+
+Da quando le colline del Conegliano Valdobbiadene sono patrimonio UNESCO, chi arriva cerca online prima di partire: una cantina da visitare, un agriturismo, una degustazione il sabato mattina. La ricerca si fa in inglese e in tedesco almeno quanto in italiano, e quasi sempre dal telefono.
+
+Il sito di una cantina ha tre lavori da fare: raccontare vino e territorio senza la retorica di tutti, far prenotare una visita in due tocchi e vendere le bottiglie a chi è già tornato a casa. Il terzo è quello che si dimentica, ed è quello che fa fatturato a novembre, quando le visite sono finite.
+
+Per le strutture ricettive vale una regola semplice: ogni prenotazione diretta dal sito è una commissione che non si paga al portale. Un sito veloce, con disponibilità e prezzi chiari, non sostituisce i portali, ma sposta una quota di clienti sul canale che vi fa guadagnare di più.
+
+La pianura
+
+## Meccanica e subfornitura: meno vetrina, più strumenti
+
+Fra Conegliano, Susegana, San Vendemiano e Vittorio Veneto lavorano molte aziende di subfornitura per grandi gruppi. Per loro il sito conta meno della capacità di rispondere in fretta a una richiesta d'offerta con i documenti giusti, e di sapere a che punto è ogni commessa.
+
+Qui il lavoro che facciamo più spesso non è il sito, ma il software: un gestionale delle commesse che dice il costo vero di un lotto, un'app per registrare le ore in reparto senza fogli, un collegamento fra il gestionale e il portale del committente che oggi qualcuno alimenta a mano ogni mattina.
+
+Il sito, per queste aziende, deve fare una cosa sola e farla bene: dire a un buyer che non vi conosce cosa sapete fare, su quali materiali, con quali macchine e con quali certificazioni. Una pagina chiara vale più di dieci pagine di presentazione.
+
+Cosa facciamo
+
+## I servizi, divisi per chi li usa
+
+01
+
+## Sito per cantine
+
+Multilingua, con prenotazione delle visite e negozio online collegato al magazzino. Schede dei vini leggibili da telefono, non PDF da scaricare.
+
+02
+
+## Sito per strutture ricettive
+
+Veloce, con disponibilità e richiesta di prenotazione diretta. Dati strutturati per comparire bene su Google e Maps.
+
+03
+
+## Sito per aziende manifatturiere
+
+Capacità produttive, materiali, certificazioni e un modulo di richiesta d'offerta che arriva già completo.
+
+04
+
+## Gestionali e commesse
+
+Costi reali per commessa, conto lavoro, avanzamento in reparto. Su misura, a tappe con prezzo fisso.
+
+05
+
+## SEO in italiano e in inglese
+
+Per le cantine la ricerca turistica straniera; per le aziende quella dei buyer. Due strategie diverse, non una tradotta.
+
+06
+
+## Scheda Google e recensioni
+
+Per chi riceve visitatori è il primo contatto. La impostiamo e vi spieghiamo come raccogliere recensioni vere.
+
+FAQ
+
+## Le domande più frequenti.
+
+Venite in sede a Conegliano?
+Sì. Da Mansuè sono circa trenta-quaranta minuti, e il primo incontro lo facciamo in azienda o in cantina, gratuitamente. Vediamo come lavorate prima di proporre qualcosa.
+
+Quanto costa il sito di una cantina?
+Un sito aziendale parte da 350 euro una tantum o 24,80 euro al mese, IVA inclusa. Il negozio online e la prenotazione delle visite si aggiungono in base a quanti prodotti e lingue servono: preventivo scritto e fisso dopo il primo incontro.
+
+Potete vendere vino online anche all'estero?
+Tecnicamente sì, ma la vendita di alcolici fuori dall'Italia ha regole fiscali e di spedizione diverse per ogni Paese. Di solito si parte dall'Italia e si aggiungono i Paesi uno alla volta, con il vostro consulente per le accise.
+
+Lavorate anche a Vittorio Veneto, Pieve di Soligo e Valdobbiadene?
+Sì, tutta la Sinistra Piave e la zona collinare fino a Valdobbiadene. Per la parte di software lavoriamo anche con aziende del Bellunese.
+
+Il sito deve essere in più lingue?
+Per una cantina o una struttura sulle colline quasi sempre sì: almeno inglese e tedesco, perché una parte grande dei visitatori arriva da lì e cerca nella propria lingua. Traduciamo con persone, non con un traduttore automatico, e ogni lingua ha titoli e descrizioni pensati per le ricerche di quel Paese. Per un'azienda manifatturiera la lingua dipende dai clienti: l'inglese basta quasi sempre, il tedesco se vendete in Germania e Austria.
+
+Serve un gestionale per una cantina?
+Dipende dalle dimensioni. Sotto una certa soglia bastano il programma della contabilità e un buon foglio di cantina; oltre, con registri telematici, lotti e più canali di vendita, un collegamento fra i sistemi fa risparmiare molte ore. Ve lo diciamo francamente dopo aver visto come lavorate.
+
+## Un'ora a Conegliano, senza impegno.
+
+Veniamo noi: guardiamo sito, scheda Google e come arrivano oggi i vostri clienti. Vi lasciamo una lista scritta di cosa sistemare, anche se poi non lavoriamo insieme.
+
+Fissiamo l'incontro
+
+## Pagine collegate
+
+Realizzazione siti web a Treviso
+Web agency a Oderzo e Motta di Livenza
+Gestionale agroalimentare e tracciabilità
+Gestionale per commesse
+Realizzazione e-commerce
+Consulente SEO a Treviso
+Guida a Google Business Profile
+Prezzi
+
+
+========================================================================
+# Web agency a Oderzo e Motta di Livenza
+URL: https://danova-tech.com/web-agency-oderzo-motta-di-livenza/
+Descrizione: Web agency a Mansuè, fra Oderzo e Motta di Livenza: siti web, SEO locale, e-commerce e gestionali per le aziende dell'Opitergino-Mottense. A 10 minuti.
+========================================================================
+
+Home / Siti web & E-commerce / Oderzo e Motta di Livenza
+
+Opitergino-Mottense
+
+## Web agency a Oderzo e Motta di Livenza.
+
+La nostra sede è a Mansuè, a una decina di minuti da Oderzo e altrettanti da Motta di Livenza. Per le aziende della zona non siamo un'agenzia che lavora anche qui: siamo quella che sta qui. Siti web, posizionamento su Google, e-commerce e software gestionali, con un incontro di persona ogni volta che serve.
+
+Passate da noi, o veniamo noi
+
+Cosa facciamo in zona
+
+La zona
+
+## Un'area piccola con aziende grandi
+
+L'Opitergino-Mottense è una zona che da fuori si conosce poco e che dentro ha un tessuto produttivo fitto: il distretto del mobile che dal Livenza arriva fino a Brugnera e Prata, la meccanica di subfornitura, le cantine del Piave, il commercio di Oderzo che serve mezza provincia. Molte di queste aziende vendono in tutta Europa e hanno un sito fermo a dieci anni fa.
+
+Il motivo è quasi sempre lo stesso: il sito non è mai stato una priorità, perché i clienti arrivavano per conoscenza. Funziona finché funziona. Poi cambia una generazione negli uffici acquisti, i nuovi buyer cercano su Google, e l'azienda che produce meglio non compare.
+
+Qui il lavoro è concreto: un sito che dica chiaramente cosa fate, per chi e con quali certificazioni , in italiano e nelle lingue dei vostri clienti, e che venga trovato da chi cerca un fornitore come voi.
+
+Cosa facciamo
+
+## Quello che ci chiedono più spesso in zona
+
+01
+
+## Sito aziendale multilingua
+
+Per chi esporta, il sito in inglese e tedesco non è un'aggiunta: è il catalogo che il buyer estero guarda prima di chiedere un'offerta. Traduzioni curate, non automatiche, e pagine pensate per chi cerca un fornitore.
+
+02
+
+## Scheda Google e SEO locale
+
+Per chi lavora sul territorio, dal negozio di Oderzo all'impresa edile di Motta, la scheda Google Business Profile porta più contatti del sito. La impostiamo, la curiamo e la colleghiamo a pagine che rispondono alle ricerche di zona.
+
+03
+
+## E-commerce e cataloghi B2B
+
+Rivenditori che ordinano da un'area riservata con i loro listini, invece di mandare un'email che qualcuno ricopia. Collegato al gestionale che già usate, senza doppia digitazione.
+
+04
+
+## Gestionali per il mobile
+
+Distinte, varianti di finitura, conto lavoro verso i terzisti del distretto. Sono le cose che i gestionali generici gestiscono male, e che conosciamo perché le vediamo tutti i giorni a pochi chilometri.
+
+05
+
+## App per chi lavora fuori
+
+Rapportini, montaggi, consegne e assistenze registrate dal telefono, con foto e firma del cliente. Il capo non deve più aspettare il venerdì per sapere com'è andata la settimana.
+
+06
+
+## Campagne Google e Meta
+
+Per chi ha bisogno di contatti subito, mentre il posizionamento organico cresce. Budget sotto controllo e numeri mostrati ogni mese, compresi quelli che non vanno.
+
+Prezzi
+
+## Prezzi scritti, come per tutti gli altri
+
+Non abbiamo un listino per chi è vicino e uno per chi è lontano. Un sito aziendale costa 350 euro una tantum, oppure 24,80 euro al mese con dominio, hosting e modifiche compresi; l'ottimizzazione iniziale per Google e Bing costa 150 euro. Un gestionale su misura parte da 1.500 euro. Tutti i prezzi sono IVA inclusa e li trovate nella pagina dei prezzi.
+
+L'unica cosa che la vicinanza cambia è il tempo: un incontro in più non costa niente a nessuno dei due, e di solito fa risparmiare una settimana di email.
+
+Come si parte
+
+## Un caffè, poi un piano scritto.
+
+- Incontro Da noi a Mansuè o da voi in azienda. Guardiamo il sito attuale, la scheda Google e cosa cercano i vostri clienti. Mezz'ora, gratuita.
+
+- Proposta Cosa serve, in che ordine, quanto costa e in quanto tempo. Per iscritto, con il prezzo fisso.
+
+- Lavoro Vedete le pagine mentre le costruiamo, non solo alla fine. Testi scritti con voi, foto vere quando possibile.
+
+- Dopo la consegna Search Console, scheda Google e statistiche restano intestati a voi. Vi facciamo vedere cosa succede nei primi mesi, anche quando i numeri sono piccoli.
+
+FAQ
+
+## Le domande di chi è in zona.
+
+Posso venire di persona in sede?
+Sì, su appuntamento. Siamo a Mansuè: da Oderzo e da Motta di Livenza sono una decina di minuti, da Gorgo al Monticano, Meduna di Livenza, Portobuffolè e Cessalto anche meno. Se preferite veniamo noi in azienda, senza costi aggiuntivi.
+
+Lavorate anche per negozi e piccole attività?
+Sì. Per un'attività locale spesso basta un sito semplice e una scheda Google curata bene: con il sito in abbonamento a 24,80 euro al mese si parte senza anticipo. Non proponiamo progetti più grandi del necessario.
+
+In quanto tempo si compare su Google per le ricerche di zona?
+Sulle ricerche con il nome del comune, come quelle su Oderzo o Motta di Livenza, la concorrenza è bassa e i primi movimenti si vedono in qualche settimana. La scheda Google Business Profile, se è curata, porta contatti anche prima del sito.
+
+Seguite anche aziende di Pordenone e del Portogruarese?
+Sì, siamo sul confine. Brugnera, Prata, Pasiano, Sacile, Portogruaro e Annone Veneto sono a un quarto d'ora o poco più, e il distretto del mobile non si ferma al fiume.
+
+Fate anche il gestionale, oltre al sito?
+Sì, ed è spesso lì che il sito diventa utile davvero: un catalogo che prende prezzi e disponibilità dal gestionale non va aggiornato a mano. Se il gestionale che avete funziona lo colleghiamo, se non basta più lo costruiamo su misura.
+
+## Siamo qui dietro l'angolo.
+
+Scriveteci o chiamateci: fissiamo mezz'ora, da noi o da voi, e guardiamo insieme sito e scheda Google. Vi diciamo cosa sistemare, anche se poi decidete di farlo da soli.
+
+Fissiamo un incontro
+
+## Pagine collegate
+
+Realizzazione siti web a Treviso
+Web agency a Conegliano
+Realizzazione siti web a Pordenone
+Consulente SEO a Treviso
+Gestionale a Treviso
+Guida a Google Business Profile
+E-commerce B2B
+Prezzi
