@@ -19,6 +19,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/app-fidelizzazione-clienti/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/app-fidelizzazione-clienti/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-fidelizzazione-clienti/"/>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/app-gestione-cantieri/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/app-gestione-cantieri/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-gestione-cantieri/"/>
@@ -46,6 +54,22 @@
     <loc>https://danova-tech.com/app-per-agenti-di-commercio/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/app-per-agenti-di-commercio/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-per-agenti-di-commercio/"/>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/app-per-personal-trainer/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/app-per-personal-trainer/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-per-personal-trainer/"/>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/app-prenotazioni/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/app-prenotazioni/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-prenotazioni/"/>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1394,6 +1418,14 @@
     <loc>https://danova-tech.com/gestionale-officina-meccanica/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/gestionale-officina-meccanica/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/gestionale-officina-meccanica/"/>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/gestionale-palestra/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/gestionale-palestra/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/gestionale-palestra/"/>
     <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

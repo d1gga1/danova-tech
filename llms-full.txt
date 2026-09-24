@@ -1485,6 +1485,131 @@ Prezzi
 
 
 ========================================================================
+# App fidelizzazione clienti e fidelity card
+URL: https://danova-tech.com/app-fidelizzazione-clienti/
+Descrizione: App di fidelizzazione su misura: fidelity card digitale nel wallet del telefono, punti, premi, coupon, notifiche e inviti. Dati vostri, niente cartoncini.
+========================================================================
+
+Home / App su misura / Fidelizzazione clienti
+
+Fidelizzazione
+
+## App di fidelizzazione clienti.
+
+Il cartoncino con i timbri funziona ancora, ma non vi dice niente: chi sono i clienti migliori, quanto spesso tornano, chi ha smesso di venire. Una fidelity digitale fa lo stesso lavoro dal telefono del cliente, e in più vi restituisce i numeri per decidere a chi scrivere, quando e con quale offerta.
+
+Parliamo dei vostri clienti
+
+Come funziona
+
+Come funziona
+
+## I pezzi di un programma di fedeltà
+
+01
+
+## Tessera nel wallet
+
+Il cliente si iscrive con un QR alla cassa e trova la tessera nel wallet del telefono, accanto alle carte d'imbarco. Non deve scaricare niente, e la tessera non si dimentica a casa.
+
+02
+
+## Punti, timbri o cashback
+
+Il meccanismo che capiscono i vostri clienti: dieci caffè e l'undicesimo è offerto, punti che diventano premi, una percentuale restituita come credito. Uno solo, spiegato in una riga.
+
+03
+
+## Premi e livelli
+
+Premi raggiungibili, non cataloghi che nessuno completa. Per chi spende molto, un livello con vantaggi veri: priorità, anteprime, un servizio in più.
+
+04
+
+## Coupon e offerte
+
+Offerte mirate a chi non torna da un mese, a chi compie gli anni, a chi compra sempre la stessa cosa. Non la stessa promozione a tutti.
+
+05
+
+## Inviti
+
+Il cliente invita un amico con un link; quando l'amico fa il primo acquisto, entrambi ricevono qualcosa. È il canale di acquisizione più economico che esista, se il prodotto è buono.
+
+06
+
+## Numeri
+
+Iscritti, clienti attivi, frequenza media, clienti persi, effetto di ogni campagna. Il valore del programma non sono i premi: sono questi dati.
+
+Perché conviene
+
+## Il cliente che torna costa meno
+
+Trovare un cliente nuovo costa pubblicità, sconti di benvenuto, tempo. Farne tornare uno che vi conosce già costa un messaggio al momento giusto. È la ragione per cui supermercati, catene di caffetterie e compagnie aeree hanno tutti un programma fedeltà, e la ragione per cui ha senso anche per un negozio, un ristorante o un centro estetico.
+
+La differenza fra un programma che funziona e uno che nessuno usa sta quasi sempre in due cose: quanto è facile iscriversi , e quanto è vicino il primo premio . Se servono cinque minuti per iscriversi e sei mesi per arrivare a un premio, il cliente perde interesse alla seconda visita.
+
+Il resto si costruisce guardando i dati: dopo tre mesi si vede chi torna e chi no, e si decide dove mettere i soldi dei premi.
+
+Da fare bene
+
+## Consensi separati, dati vostri
+
+Per partecipare al programma basta il consenso al programma. Per ricevere offerte serve un consenso al marketing, e per usare gli acquisti per offerte personalizzate serve un consenso alla profilazione: sono tre cose diverse, e il GDPR chiede di tenerle separate. Le impostiamo così dall'inizio, con testi chiari che non spaventano il cliente.
+
+I dati dei clienti restano vostri, su server in Europa. Non vengono usati per altri negozi né venduti, a differenza di alcune app di fidelizzazione gratuite dove il prodotto siete voi.
+
+Come si parte
+
+## Dalla cassa al telefono.
+
+- Il meccanismo Timbri, punti o cashback: scegliamo insieme quello che i vostri clienti capiscono al primo colpo, e il primo premio.
+
+- Tessera e iscrizione Tessera digitale con il vostro marchio, iscrizione con QR alla cassa in meno di un minuto.
+
+- Messaggi automatici Benvenuto, compleanno, cliente che non torna, premio vicino. Partono da soli.
+
+- Collegamenti Cassa, e-commerce, gestionale: quando servono, i punti si caricano da soli senza passaggi alla cassa.
+
+FAQ
+
+## Le domande più frequenti.
+
+Quanto costa un'app di fidelizzazione?
+Una fidelity digitale con il vostro marchio, tessera nel wallet e pannello di gestione parte da 50 euro al mese oppure da 750 euro una tantum, IVA inclusa. App sugli store, collegamento alla cassa o all'e-commerce e più punti vendita si preventivano a parte, con prezzo fisso.
+
+Il cliente deve scaricare un'app?
+No, se non volete. La tessera va nel wallet del telefono, Apple o Google, con una scansione. L'app vera conviene quando volete offrire di più: ordini, prenotazioni, contenuti. Si può partire dalla tessera e aggiungerla dopo.
+
+Si collega alla cassa?
+Dipende dal software di cassa: molti permettono un collegamento, altri no. Se non si può, il punto si assegna alla cassa leggendo il QR del cliente con un telefono o un tablet, in due secondi.
+
+Funziona per più negozi?
+Sì. I punti valgono in tutti i punti vendita, e vedete i numeri per negozio e complessivi. Per una piccola catena locale è spesso il primo strumento che mette in comune i clienti.
+
+Che differenza c'è con le app di fidelizzazione gratuite?
+Quelle gratuite si ripagano in altro modo: con i dati dei vostri clienti, con la pubblicità di altri negozi o con commissioni. Con un sistema vostro pagate il servizio, e i clienti restano vostri.
+
+## Sapete chi sono i vostri clienti migliori?
+
+In mezz'ora di chiamata guardiamo come funziona oggi la vostra clientela abituale e vi proponiamo un meccanismo semplice, con quanto costa e quando si ripaga.
+
+Prenota la chiamata gratuita
+
+## Pagine collegate
+
+Sviluppo app su misura
+App per prenotazioni e appuntamenti
+Gestionale per palestre
+App per personal trainer
+CRM aziendale e gestione clienti
+Realizzazione e-commerce
+Meta Ads: Facebook e Instagram
+Prezzi
+
+
+========================================================================
 # Software e app gestione cantieri e rapportini
 URL: https://danova-tech.com/app-gestione-cantieri/
 Descrizione: Software e app per la gestione dei cantieri: rapportini, ore squadra, materiali, foto, sicurezza e avanzamento lavori dal telefono, anche offline.
@@ -1874,7 +1999,7 @@ Quanto costa un'app
 
 
 ========================================================================
-# App per agenti di commercio su misura
+# App agenti di commercio e raccolta ordini
 URL: https://danova-tech.com/app-per-agenti-di-commercio/
 Descrizione: App per la raccolta ordini degli agenti: catalogo, listini per cliente, disponibilita, ordini offline e provvigioni. Collegata al vostro gestionale.
 ========================================================================
@@ -2003,6 +2128,267 @@ Integrazione software aziendali
 Sviluppo web app
 
 Software preventivi e configuratore
+
+
+========================================================================
+# App per personal trainer su misura
+URL: https://danova-tech.com/app-per-personal-trainer/
+Descrizione: App per personal trainer con il vostro marchio: schede con video, progressi dei clienti, check-in, chat, calendario e abbonamenti. Web app o app sugli store.
+========================================================================
+
+Home / App su misura / Personal trainer
+
+Fitness e coaching
+
+## App per personal trainer.
+
+La maggior parte dei personal trainer lavora con tre strumenti: WhatsApp per parlare con i clienti, un foglio di calcolo per le schede e un'app di pagamento. Funziona finché i clienti sono dieci. Con trenta, o con il coaching online, il tempo se ne va a ricopiare, ricordare e rincorrere. Un'app vostra mette tutto in un posto, con il vostro nome sopra.
+
+Raccontateci come lavorate
+
+Cosa fa l'app
+
+Le funzioni
+
+## Cosa fa l'app
+
+Non tutte servono dal primo giorno. Si parte da quelle che vi fanno risparmiare più tempo, di solito le prime tre.
+
+01
+
+## Schede di allenamento con video
+
+Create la scheda una volta, da computer, pescando da una libreria di esercizi con i vostri video. Il cliente la apre in palestra dal telefono, esercizio per esercizio, e segna carichi e ripetizioni mentre si allena.
+
+02
+
+## Progressi del cliente
+
+Peso, misure, foto, carichi, test periodici. Grafici semplici che il cliente capisce e che voi usate per correggere il programma, invece di chiedere ogni volta come va.
+
+03
+
+## Check-in settimanale
+
+Un breve questionario che arriva da solo ogni settimana: sonno, energia, aderenza, dolori. Per il coaching online è il momento che sostituisce la sessione di persona, e con l'app lo leggete in un minuto per cliente.
+
+04
+
+## Chat e notifiche
+
+I messaggi con il cliente restano dentro l'app, collegati alla sua scheda e ai suoi progressi. WhatsApp resta per la vita privata. Promemoria per l'allenamento e per il check-in partono da soli.
+
+05
+
+## Calendario e sessioni
+
+Il cliente prenota le sessioni di persona negli orari che aprite voi, con promemoria automatico. Pacchetti a dieci ingressi, sessioni residue e scadenze sempre visibili.
+
+06
+
+## Abbonamenti e pagamenti
+
+Pagamento mensile ricorrente o pacchetti, con carta. Chi non ha pagato lo vedete senza aprire l'estratto conto, e l'accesso ai contenuti si sospende da solo se volete.
+
+La scelta vera
+
+## Piattaforma in abbonamento o app vostra?
+
+Esistono piattaforme per coach che si pagano al mese e si attivano in un'ora. Per chi comincia sono spesso la scelta giusta, e ve lo diciamo. I limiti arrivano dopo: il costo cresce con il numero di clienti, il cliente scarica l'app della piattaforma e non la vostra, e il giorno che volete cambiare portare via i dati non è sempre semplice.
+
+Un'app vostra conviene quando il marchio è parte del prodotto : un metodo con un nome, un programma online che vendete anche a chi non vi ha mai visto, uno studio con più trainer. Lì il cliente deve trovare sul telefono il vostro logo, non quello di un fornitore.
+
+C'è anche una via di mezzo, che proponiamo spesso: una web app installabile . Si apre dal browser, si aggiunge alla schermata del telefono con la vostra icona, non passa dagli store e costa una frazione di un'app nativa. Se il progetto cresce, si trasforma in app per iPhone e Android partendo dalla stessa base.
+
+Da sapere prima
+
+## Tre cose che nessuno vi dice
+
+I dati sulla salute sono dati particolari. Peso, misure, infortuni e foto del corpo rientrano fra le categorie che il GDPR protegge di più. Servono un consenso esplicito, un'informativa chiara e server in Europa. Li mettiamo nel progetto dall'inizio, non dopo.
+
+La dieta non la può dare il personal trainer. In Italia i piani alimentari sono riservati a biologi nutrizionisti, dietisti e medici. L'app può ospitare il piano scritto dal professionista con cui collaborate e le indicazioni generali di alimentazione; non deve farvi sembrare quello che non potete essere.
+
+Apple e Google hanno regole sui pagamenti. Le sessioni svolte di persona si possono far pagare con il vostro sistema di pagamento; per i contenuti digitali venduti dentro un'app pubblicata sugli store valgono le loro regole e le loro commissioni. Si decide prima come vendere, perché cambia come si costruisce l'app.
+
+Come si parte
+
+## Prima la versione che usate domani.
+
+- Chiamata Ci raccontate come lavorate oggi: quanti clienti, di persona o online, cosa vi porta via più tempo. Mezz'ora, gratuita.
+
+- Prototipo Le schermate principali, navigabili dal telefono. Le fate provare a due clienti prima di spendere per lo sviluppo.
+
+- Prima versione Schede, progressi e check-in, con il vostro marchio. Si usa con i clienti veri mentre si costruisce il resto.
+
+- Crescita Pagamenti, calendario, pubblicazione sugli store, nuove funzioni. Aggiunte quando servono, con il prezzo concordato prima.
+
+FAQ
+
+## Le domande dei trainer.
+
+Quanto costa un'app per personal trainer?
+Si può partire da una web app installabile con il vostro marchio a 50 euro al mese, oppure da 750 euro una tantum, IVA inclusa. Un'app nativa pubblicata su App Store e Google Play costa di più e dipende dalle funzioni: vi diamo un prezzo fisso dopo il prototipo.
+
+L'app sarà sugli store con il mio nome?
+Sì, se scegliete l'app nativa: viene pubblicata con il vostro account sviluppatore, a vostro nome. Apple chiede un abbonamento annuale da sviluppatore e Google un pagamento una tantum: sono costi vostri e restano vostri. La web app invece non passa dagli store.
+
+Posso caricare i miei video degli esercizi?
+Sì, ed è il cuore dell'app. Caricate i video una volta nella vostra libreria e li usate in tutte le schede. Se avete già i video su YouTube o Vimeo, possiamo collegarli invece di ricaricarli.
+
+Funziona anche per uno studio con più trainer?
+Sì. Ogni trainer vede i suoi clienti, il titolare vede tutto: incassi, sessioni, clienti che non si allenano da due settimane. È una delle situazioni in cui un'app vostra conviene di più rispetto a una piattaforma che si paga a trainer.
+
+Posso vendere programmi online a chi non conosco?
+Sì: un programma di allenamento di otto o dodici settimane, acquistabile dal sito, che sblocca le schede nell'app. È il modo per guadagnare anche nelle ore in cui non siete in sala. Va progettato bene il pagamento, per le regole degli store.
+
+I dati dei clienti di chi sono?
+Vostri. Il database e il codice sono intestati a voi, e i dati si possono esportare in qualsiasi momento. Se un giorno cambiate fornitore, i vostri clienti non se ne accorgono.
+
+## Quanto tempo vi porta via l'amministrazione?
+
+In mezz'ora di chiamata guardiamo come lavorate e vi diciamo se vi conviene un'app vostra, una piattaforma in abbonamento o semplicemente sistemare quello che avete.
+
+Prenota la chiamata gratuita
+
+## Pagine collegate
+
+Sviluppo app su misura
+Gestionale per palestre e centri fitness
+App per prenotazioni e appuntamenti
+App fidelizzazione clienti
+Quanto costa creare un’app
+Sviluppo web app
+Meta Ads: Facebook e Instagram
+Prezzi
+
+
+========================================================================
+# App per prenotazioni e appuntamenti
+URL: https://danova-tech.com/app-prenotazioni/
+Descrizione: App e sistema di prenotazione su misura: calendario di persone, sale e campi, promemoria contro le assenze, caparra online, link dalla scheda Google.
+========================================================================
+
+Home / App su misura / Prenotazioni
+
+Prenotazioni
+
+## App per prenotazioni e appuntamenti.
+
+Ogni telefonata per fissare un appuntamento è un'interruzione, e ogni appuntamento saltato senza avviso è un'ora pagata a vuoto. Un sistema di prenotazione fatto bene risolve entrambe le cose: il cliente prenota quando vuole, anche alle undici di sera, e riceve un promemoria che riduce le assenze.
+
+Raccontateci la vostra agenda
+
+Per chi funziona
+
+Per chi
+
+## Una logica, agende diverse
+
+La tecnica è la stessa, le regole no. Ecco i casi che vediamo più spesso, e cosa hanno di particolare.
+
+01
+
+## Studi professionali e sanitari
+
+Più professionisti, prestazioni di durata diversa, pause, visite che richiedono una stanza o un macchinario. Il sistema propone solo gli orari in cui persona e stanza sono libere insieme.
+
+02
+
+## Parrucchieri e centri estetici
+
+Servizi combinati, tempi di posa, operatori preferiti. Chi prenota colore e taglio deve trovare uno slot che tiene conto di entrambi, non due appuntamenti separati.
+
+03
+
+## Campi sportivi e padel
+
+Prenotazione a ore, pagamento anticipato, divisione della quota fra i giocatori, luci e costi diversi per fascia. Il campo non prenotato alle 21 è l'incasso che si perde più spesso.
+
+04
+
+## Cantine e visite guidate
+
+Gruppi, lingue, degustazioni con posti limitati, prenotazioni che arrivano dall'estero con mesi di anticipo e pagamento al momento della prenotazione.
+
+05
+
+## Officine e assistenza
+
+Tagliandi, cambio gomme stagionale, ritiro e consegna. Il picco di ottobre e aprile si gestisce aprendo gli slot in anticipo invece di rispondere a cento telefonate.
+
+06
+
+## Sale, mezzi e attrezzature
+
+Sale riunioni, auto aziendali, attrezzature a noleggio. La prenotazione è interna, ma il problema è lo stesso: due persone che pensano di avere la stessa cosa alla stessa ora.
+
+Il punto
+
+## Il vero guadagno: meno assenze
+
+Il cliente che non si presenta quasi mai lo fa per cattiveria: se ne dimentica. Per questo la funzione che rende di più non è la prenotazione online, è il promemoria : un messaggio il giorno prima con il pulsante per confermare o spostare. Chi sposta libera lo slot per qualcun altro; chi conferma di solito arriva.
+
+Dove le assenze pesano molto, come nei campi sportivi o nei servizi lunghi, si aggiunge la caparra online : una piccola somma pagata al momento della prenotazione, trattenuta solo se il cliente non disdice in tempo. È una regola che va scritta chiara nella pagina di prenotazione, e che cambia il comportamento più di qualsiasi messaggio.
+
+Il terzo pezzo è la lista d'attesa : quando uno slot si libera, il sistema avvisa chi lo voleva. Senza, uno slot disdetto la sera prima resta vuoto.
+
+Dove prenota il cliente
+
+## Dal sito, dall'app o da Google
+
+Non serve per forza un'app da scaricare. Per la maggior parte delle attività la prenotazione funziona meglio da una pagina web veloce, raggiungibile dal sito, da un link su Instagram e dalla scheda Google Business Profile , dove si può aggiungere il collegamento per prenotare. È lì che il cliente vi trova, ed è lì che deve poter prenotare senza cercare altro.
+
+L'app vera, installata sul telefono, conviene quando il cliente prenota spesso: la palestra, il campo da padel ogni settimana, il centro dove si fanno trattamenti a ciclo. In quel caso l'app ricorda i dati, mostra lo storico e permette di riprenotare con un tocco.
+
+Dal vostro lato, l'agenda si vede da computer e da telefono, si sincronizza con Google Calendar o Outlook se lo usate già, e le prenotazioni telefoniche si inseriscono nello stesso posto, così non esistono due agende.
+
+Come si parte
+
+## Online in poche settimane.
+
+- Le regole della vostra agenda Durate, pause, risorse, chi può prenotare cosa, fino a quando si può disdire. Scritte insieme, perché sono loro a fare la differenza.
+
+- Pagina di prenotazione Veloce, con il vostro marchio, collegata al sito e alla scheda Google. Si usa da subito.
+
+- Promemoria e pagamenti Messaggi automatici, caparra o pagamento anticipato dove serve, lista d'attesa.
+
+- App e collegamenti App per i clienti abituali, collegamento a gestionale, cassa o fatturazione quando servono.
+
+FAQ
+
+## Le domande più frequenti.
+
+Quanto costa un sistema di prenotazione su misura?
+Una web app di prenotazione con il vostro marchio parte da 50 euro al mese oppure da 750 euro una tantum, IVA inclusa. Pagamenti online, più sedi, app sugli store e collegamenti al gestionale si aggiungono in base a cosa serve, con prezzo fisso deciso prima.
+
+Perché non usare un servizio di prenotazione già pronto?
+Spesso è la scelta giusta, e ve lo diciamo. Il su misura conviene quando le vostre regole non entrano nel prodotto pronto, quando pagate una commissione su ogni prenotazione, o quando il cliente deve prenotare da voi e non da un portale che gli mostra anche i vostri concorrenti.
+
+I promemoria arrivano via SMS, email o WhatsApp?
+Email e notifiche dell'app non hanno costi per messaggio. SMS e WhatsApp hanno un costo per invio, pagato al fornitore del servizio, e per WhatsApp servono modelli di messaggio approvati. Di solito si parte dall'email e si aggiunge il canale che i vostri clienti leggono davvero.
+
+Si può chiedere un pagamento al momento della prenotazione?
+Sì: pagamento completo, caparra o carta a garanzia addebitata solo in caso di assenza. Il denaro arriva sul vostro conto tramite il circuito di pagamento, non passa da noi.
+
+Posso ancora prendere prenotazioni al telefono?
+Certo. Le inserite nella stessa agenda, dal computer o dal telefono, e il cliente riceve lo stesso promemoria di chi ha prenotato online. L'importante è che l'agenda sia una sola.
+
+## Quante ore al mese perdete al telefono?
+
+In mezz'ora guardiamo come prendete oggi le prenotazioni e vi diciamo se vi basta un servizio pronto o se conviene un sistema vostro. Gratuito.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Sviluppo app su misura
+App per personal trainer
+Gestionale per palestre
+App fidelizzazione clienti
+Gestionale per studi professionali
+Guida a Google Business Profile
+Sviluppo web app
+Prezzi
 
 
 ========================================================================
@@ -2944,6 +3330,7 @@ E-commerce B2B
 
 Software preventivi e configuratore
 Lead generation B2B
+App fidelizzazione clienti
 
 
 ========================================================================
@@ -3572,6 +3959,131 @@ App rapportini di lavoro
 
 Software gestione flotte
 Gestione interventi tecnici
+
+
+========================================================================
+# Gestionale per palestre e centri fitness
+URL: https://danova-tech.com/gestionale-palestra/
+Descrizione: Gestionale per palestre, box e centri fitness: abbonamenti, ingressi con QR, corsi a posti limitati, istruttori, pagamenti ricorrenti e app per i soci.
+========================================================================
+
+Home / App su misura / Gestionale palestra
+
+Palestre e fitness
+
+## Gestionale per palestre e centri fitness.
+
+Una palestra è un'azienda di abbonamenti che ogni giorno deve rispondere a quattro domande: chi è entrato, chi ha pagato, chi sta per andarsene e quanti posti restano nel corso delle 19. Un buon gestionale risponde da solo. Questa pagina spiega cosa deve fare, quando basta un programma pronto e quando conviene farselo costruire.
+
+Parliamo della vostra palestra
+
+Le funzioni
+
+Le funzioni
+
+## Il gestionale in sei pezzi
+
+01
+
+## Soci e abbonamenti
+
+Mensili, trimestrali, annuali, a ingressi, famiglia, aziendali. Rinnovi e scadenze in automatico, con avviso al socio prima che l'abbonamento finisca.
+
+02
+
+## Ingressi
+
+Codice QR sul telefono, badge o collegamento al tornello. Chi ha l'abbonamento scaduto non entra, e alla reception compare il motivo invece di una discussione.
+
+03
+
+## Corsi e sale
+
+Calendario dei corsi con posti limitati, prenotazione dall'app, lista d'attesa che si scorre da sola quando qualcuno disdice. Presenze registrate per corso e per istruttore.
+
+04
+
+## Pagamenti ricorrenti
+
+Addebito automatico sulla carta o in conto, solleciti gentili a chi non ha pagato, incassi riconciliati. La reception smette di fare la cassa a fine mese.
+
+05
+
+## Documenti e scadenze
+
+Moduli di iscrizione firmati dal telefono, consensi privacy, certificati medici con la loro scadenza quando li richiedete. Tutto nella scheda del socio, niente raccoglitori.
+
+06
+
+## Numeri che contano
+
+Soci attivi, nuovi, disdette del mese, frequenza media, soci che non vengono da tre settimane. Quest'ultimo è il numero che salva gli abbonamenti, se lo guardate in tempo.
+
+Onestamente
+
+## Programma pronto o su misura?
+
+Per una palestra singola con abbonamenti classici e un calendario di corsi, esistono gestionali in abbonamento che fanno bene il lavoro. Costano poco al mese e si attivano in fretta. Se siete in questa situazione ve lo diciamo al primo incontro, e vi aiutiamo a scegliere.
+
+Il su misura conviene in casi precisi: più sedi con abbonamenti validi ovunque e regole diverse per ognuna; un modello vostro , come box di functional training, piscine con corsi a turni, centri che uniscono fisioterapia e sala; collegamenti che i pacchetti non fanno, con il gestionale contabile, con i tornelli che avete già o con il sito che vende gli abbonamenti online.
+
+E conviene quando l'app dei soci deve essere vostra, con il vostro nome sugli store, e non l'app del fornitore con dentro altre cento palestre. Per molte catene locali è diventato un pezzo del marchio.
+
+L'app per i soci
+
+## L'app che i soci aprono davvero
+
+Un socio apre l'app della palestra per tre ragioni: entrare, prenotare un corso, vedere quando scade l'abbonamento. Se queste tre cose sono immediate, la riapre. Tutto il resto viene dopo, e le app piene di funzioni che nessuno usa sono le prime a essere cancellate.
+
+Sopra queste tre si aggiungono le cose che fanno restare i soci: la scheda del personal trainer, i progressi, le notifiche quando si libera un posto al corso preferito, la possibilità di rinnovare dall'app senza passare dalla reception. Se nella vostra palestra lavorano personal trainer, la parte che usano loro può essere la stessa della nostra app per personal trainer.
+
+Come lo costruiamo
+
+## Senza fermare la reception.
+
+- Una mattina in palestra Guardiamo la reception nell'ora di punta: cosa si chiede, cosa si cerca, cosa si scrive a mano. È lì che si capisce cosa serve.
+
+- Prima tappa Soci, abbonamenti, ingressi e pagamenti. Si importano i soci dal programma attuale e si parte in un giorno di chiusura o di poca affluenza.
+
+- Seconda tappa Corsi, prenotazioni e app per i soci, pubblicata con il vostro nome.
+
+- Terza tappa Statistiche, campagne di rinnovo, collegamenti con contabilità, sito e tornelli.
+
+FAQ
+
+## Le domande dei gestori.
+
+Quanto costa un gestionale per palestra su misura?
+Un gestionale su misura parte da 1.500 euro IVA inclusa per il primo modulo, con soci, abbonamenti e ingressi. L'app per i soci pubblicata sugli store e i collegamenti ai tornelli si aggiungono in base a cosa avete già. Il prezzo è fisso per tappa, deciso dopo l'analisi.
+
+Potete importare i soci dal programma che usiamo?
+Quasi sempre sì, partendo da un'esportazione in foglio di calcolo o dal database. Soci, scadenze e storico dei pagamenti si portano nel nuovo sistema; lo facciamo noi e lo verifichiamo con voi prima di spegnere il vecchio.
+
+Funziona con i tornelli che abbiamo già?
+Dipende dal modello: molti tornelli e lettori di badge accettano un comando dall'esterno, altri sono chiusi. Lo verifichiamo prima di fare il preventivo; se non si può, si usa l'ingresso con codice QR alla reception.
+
+I soci possono pagare e rinnovare dall'app?
+Sì, con carta o addebito ricorrente. Il rinnovo dall'app riduce le code alla reception e soprattutto le dimenticanze: l'avviso arriva qualche giorno prima della scadenza, con il pulsante per rinnovare.
+
+Va bene anche per box di functional, piscine e centri danza?
+Sì, ed è proprio lì che il su misura rende di più, perché hanno regole che i gestionali generici gestiscono male: turni, livelli, corsi a pacchetto, iscrizioni stagionali.
+
+## Quanto vi costa la reception, ogni mese?
+
+Un incontro in palestra, gratuito: guardiamo come gestite oggi soci, ingressi e pagamenti, e vi diciamo se vi basta un programma pronto o se conviene costruirlo.
+
+Fissiamo l'incontro
+
+## Pagine collegate
+
+App per personal trainer
+App per prenotazioni e appuntamenti
+App fidelizzazione clienti
+Sviluppo app su misura
+Gestionale cloud su misura
+CRM aziendale
+Quanto costa un gestionale
+Prezzi
 
 
 ========================================================================
@@ -8056,7 +8568,7 @@ Quanto costa un'app
 
 
 ========================================================================
-# Quanto costa un'app aziendale nel 2026
+# Quanto costa creare un'app nel 2026
 URL: https://danova-tech.com/quanto-costa-una-app/
 Descrizione: Quanto costa sviluppare un'app: fasce di prezzo reali, cosa cambia fra app aziendale e app per il pubblico, costi annui e come non spendere troppo.
 ========================================================================
@@ -8244,6 +8756,8 @@ Quanto costa un e-commerce
 
 App gestione cantieri
 App timbrature e ore di lavoro
+App per personal trainer
+App per prenotazioni
 
 
 ========================================================================
@@ -8382,6 +8896,7 @@ E-commerce B2B
 
 SEO per e-commerce
 Aprire un negozio online
+App fidelizzazione clienti
 
 
 ========================================================================
@@ -10356,6 +10871,84 @@ Accessi e ruoli, notifiche, pagamenti in-app, caricamento di foto e documenti, f
 
 L’app parla con il gestionale, il sito, il magazzino o il CRM che usi già. Nessuna isola separata che ti costringe a inserire gli stessi dati due volte.
 
+Per tipo e funzione
+
+## Le app che sviluppiamo, per ogni funzione
+
+Applicazioni per aziende, professionisti e attività: per i vostri dipendenti, per i vostri clienti o per vendere un servizio. Ogni tipo ha una pagina con funzioni, tempi e prezzi.
+
+01
+
+## App per personal trainer
+
+Schede con video, progressi, check-in, chat e abbonamenti, con il marchio del trainer o dello studio.
+
+02
+
+## Gestionale e app per palestre
+
+Soci, abbonamenti, ingressi con QR, corsi a posti limitati e l’app per i soci.
+
+03
+
+## App per prenotazioni
+
+Agenda online per studi, centri, campi sportivi e officine, con promemoria che riducono le assenze.
+
+04
+
+## App di fidelizzazione
+
+Tessera fedeltà nel wallet del telefono, punti, premi, coupon e inviti.
+
+05
+
+## App per agenti e raccolta ordini
+
+Catalogo, listini e ordini dal tablet, anche offline, collegati al gestionale.
+
+06
+
+## App magazzino e codici a barre
+
+Carichi, scarichi, inventario e picking leggendo i codici con il telefono.
+
+07
+
+## App rapportini di lavoro
+
+Interventi, ore, materiali, foto e firma del cliente, senza carta.
+
+08
+
+## App gestione cantieri
+
+Rapportini di squadra, materiali, avanzamento e sicurezza dal cantiere.
+
+09
+
+## App timbrature e ore
+
+Presenze e ore per commessa dal telefono, con posizione e riepiloghi per le paghe.
+
+10
+
+## Web app su misura
+
+Applicazioni che si aprono dal browser, senza store, su qualsiasi dispositivo.
+
+11
+
+## Chatbot e agenti AI
+
+Assistenti che rispondono ai clienti o cercano nei documenti aziendali.
+
+12
+
+## E la vostra idea
+
+Se riuscite a descrivere cosa deve fare, possiamo costruirla: si parte da un prototipo che costa una frazione del progetto.
+
 ## Perché si lavora a moduli
 
 Un’app su misura non si consegna dopo sei mesi di silenzio sperando che sia quello che avevi in testa. Si costruisce a pezzi, e ogni pezzo lo puoi usare appena è pronto.
@@ -10477,6 +11070,10 @@ Quanto costa un'app
 App gestione cantieri
 App timbrature e ore di lavoro
 App aziendali in Veneto
+App per personal trainer
+App per prenotazioni
+App fidelizzazione clienti
+Gestionale per palestre
 
 
 ========================================================================
@@ -13633,6 +14230,7 @@ Software per PMI
 Quanto costa un gestionale
 Gestionali e CRM su misura
 Gestione documentale
+App per prenotazioni
 
 
 ========================================================================
@@ -15173,6 +15771,8 @@ App su misura
 Quanto costa un'app
 App rapportini di lavoro
 App aziendali in Veneto
+App per prenotazioni
+App fidelizzazione clienti
 
 
 ========================================================================

@@ -580,6 +580,19 @@ Le stesse cifre nelle altre lingue:
   raccogliere, non perdere il contatto), canali e costi.
   https://danova-tech.com/lead-generation-b2b/
 
+- App per personal trainer: schede con video, progressi, check-in, chat,
+  calendario e abbonamenti con il marchio del trainer; web app o app sugli store.
+  https://danova-tech.com/app-per-personal-trainer/
+- Gestionale per palestre e centri fitness: soci, abbonamenti, ingressi con QR,
+  corsi a posti limitati, pagamenti ricorrenti e app per i soci.
+  https://danova-tech.com/gestionale-palestra/
+- App per prenotazioni e appuntamenti: agenda online per studi, centri,
+  campi sportivi, cantine e officine, promemoria, caparra e lista d'attesa.
+  https://danova-tech.com/app-prenotazioni/
+- App di fidelizzazione clienti: tessera nel wallet, punti, premi, coupon,
+  inviti e statistiche, con consensi GDPR separati.
+  https://danova-tech.com/app-fidelizzazione-clienti/
+
 ## Contatti e informazioni legali
 
 - Contatti: https://danova-tech.com/contatti/ (EN https://danova-tech.com/en/contact/,
