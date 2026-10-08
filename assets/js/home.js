@@ -836,3 +836,10 @@ const OTHERS=['it','en','de','fr','es'].filter(l=>l!==LANG);
 const idle=window.requestIdleCallback||(f=>setTimeout(f,2500));
 addEventListener('load',()=>idle(()=>OTHERS.forEach((l,i)=>setTimeout(()=>loadLang(l,()=>{}),i*300))));
 })();
+
+/* Allestimenti fieristici: il pulsante della sezione preseleziona la voce nel modulo contatti */
+document.addEventListener('click',e=>{
+  const a=e.target.closest&&e.target.closest('[data-pick-tipo]'); if(!a) return;
+  const s=document.getElementById('tipo'); if(!s||s.options.length<3) return;
+  s.selectedIndex=s.options.length-2; s.dispatchEvent(new Event('change',{bubbles:true}));
+});

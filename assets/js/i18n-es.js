@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.es={
   code:'ES', name:'Español', htmlLang:'es',
-  nav:{servizi:'Servicios',prezzi:'Precios',settori:'Para quién',lavori:'Proyectos',processo:'Método',chisiamo:'Sobre nosotros',faq:'FAQ',contatti:'Contacto',cta:'Hablemos'},
+  nav:{fiere:"Ferias",servizi:'Servicios',prezzi:'Precios',settori:'Para quién',lavori:'Proyectos',processo:'Método',chisiamo:'Sobre nosotros',faq:'FAQ',contatti:'Contacto',cta:'Hablemos'},
   hero:{
     l1:'Construimos', l2:'tecnología que',
     rot:['convierte.','vende.','ahorra tiempo.','escala.','simplifica.'],
@@ -11,6 +11,7 @@ window.I18N.es={
     cta1:'Solicitar presupuesto', cta2:'Ver lo que hacemos', scroll:'Desliza',
     stats:['Proyectos entregados','Clientes que renuevan','Tiempo medio de lanzamiento','Soporte y supervisión']
   },
+  fiere:{"badge": "Novedad", "news": "Stands feriales llave en mano", "eyebrow": "Montaje de stands", "title": "Tu stand en la feria,<br><span class=\"grad\">llave en mano.</span>", "lead": "Ahora también nos ocupamos del montaje de stands feriales. Sea cual sea tu empresa, encontramos el material necesario, todos los componentes que se requieren y los montadores que construyen tu stand directamente en la feria. Tú te ocupas de tus clientes; nosotros, del resto.", "a": {"t": "Materiales", "p": "Paredes, suelos, gráficas, mobiliario e iluminación: buscamos y suministramos todo el material que necesita tu stand."}, "b": {"t": "Componentes", "p": "Estructuras, perfiles, uniones y cualquier componente que exija el proyecto o la normativa técnica de la feria, listos para usar."}, "c": {"t": "Montadores en la feria", "p": "Equipos de montadores que construyen tu stand directamente en la feria, dentro de los plazos de montaje fijados por el organizador."}, "pts": ["Un único interlocutor del proyecto al montaje", "Presupuesto claro antes de empezar", "Para empresas de cualquier sector y tamaño"], "cta": "Pide presupuesto para tu stand", "cta2": "Más información"},
   prezzi:{eyebrow:'Precios',title:'Cuánto cuesta,<br><span class="grad">dicho ya.</span>',lead:'Las cifras están escritas, no se descubren al final de una llamada. Todos los precios con IVA incluido.',more:'Ver las tarifas completas',
     c1:{k:'Página web',t:'Web con cuota o web en propiedad',a:'24,80 €',u:'al mes',e:'o 350 € en un pago + 150 € de SEO en Google y Bing',n:'IVA incluido · permanencia mínima 24 meses',l:'<li>Dominio y alojamiento incluidos</li><li>Mantenimiento y cambios incluidos</li><li>Sin coste de alta</li>',b:'Detalles'},
     c2:{k:'Aplicación web',t:'Con cuota o lista desde el primer día',a:'50 €',u:'al mes',e:'o desde 750 € en un pago, operativa enseguida',n:'IVA incluido · sin coste de activación',l:'<li>Alojamiento y actualizaciones incluidos</li><li>Usuarios, roles y permisos</li><li>Soporte incluido</li>',b:'Detalles'},
@@ -107,7 +108,7 @@ window.I18N.es={
     f:{nome:'Nombre y apellidos',tel:'Teléfono',email:'Email (opcional)',azienda:'Empresa / actividad',tipo:'Qué necesitas',send:'Enviar por WhatsApp',pref:'Prefijo',telerr:'Introduce un número de teléfono válido.',emailerr:'Introduce una dirección de email válida o deja el campo vacío.',
        ok:'¡Listo! WhatsApp se abre con tu solicitud preparada, solo falta enviarla.',
        note:'Al enviar aceptas que te contactemos. Nunca compartimos tus datos con nadie.',
-       opts:['Web / e-commerce','SEO y posicionamiento','Meta Ads y campañas','App a medida','ERP / CRM','Software o automatización','Aún no lo sé, hablemos'],
+       opts:['Web / e-commerce','SEO y posicionamiento','Meta Ads y campañas','App a medida','ERP / CRM','Software o automatización',"Stand ferial",'Aún no lo sé, hablemos'],
        subj:'Nueva solicitud desde la web'}
   },
   footer:{

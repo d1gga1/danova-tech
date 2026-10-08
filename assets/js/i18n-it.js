@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.it={
   code:'IT', name:'Italiano', htmlLang:'it',
-  nav:{servizi:'Servizi',prezzi:'Prezzi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
+  nav:{fiere:"Fiere",servizi:'Servizi',prezzi:'Prezzi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
   hero:{
     l1:'Costruiamo', l2:'tecnologia che',
     rot:['converte.','vende.','fa risparmiare.','fa crescere.','semplifica.'],
@@ -11,6 +11,7 @@ window.I18N.it={
     cta1:'Richiedi un preventivo', cta2:'Scopri cosa facciamo', scroll:'Scroll',
     stats:['Progetti consegnati','Clienti che riconfermano','Tempo medio di lancio','Assistenza e monitoraggio']
   },
+  fiere:{"badge": "Novità", "news": "Allestimenti fieristici chiavi in mano", "eyebrow": "Allestimenti fieristici", "title": "Il tuo stand in fiera,<br><span class=\"grad\">chiavi in mano.</span>", "lead": "Da oggi ci occupiamo anche di allestimenti fieristici. Qualunque sia la tua azienda, troviamo noi il materiale necessario, tutta la componentistica richiesta e i montatori che costruiscono lo stand direttamente in fiera. Tu pensi ai clienti, al resto pensiamo noi.", "a": {"t": "Materiali", "p": "Pareti, pavimentazioni, grafiche, arredi e illuminazione: cerchiamo e procuriamo tutto il materiale che serve al tuo stand."}, "b": {"t": "Componentistica", "p": "Strutture, profili, raccordi e ogni componente richiesto dal progetto o dal regolamento della fiera, già pronto all'uso."}, "c": {"t": "Montatori in fiera", "p": "Squadre di montatori che costruiscono il tuo stand direttamente in fiera, nei tempi di allestimento previsti dall'organizzatore."}, "pts": ["Un unico referente dal progetto al montaggio", "Preventivo chiaro prima di partire", "Per aziende di ogni settore e dimensione"], "cta": "Richiedi un preventivo per lo stand", "cta2": "Scopri il servizio"},
   prezzi:{eyebrow:'Prezzi',title:'Quanto costa,<br><span class="grad">detto subito.</span>',lead:'Le cifre stanno scritte, non si scoprono in fondo a una call. Tutti i prezzi sono IVA inclusa.',more:'Vedi il listino completo',
     c1:{k:'Sito web',t:'Sito in abbonamento o sito vostro',a:'24,80 €',u:'al mese',e:'oppure 350 € una tantum + 150 € di SEO su Google e Bing',n:'IVA inclusa · durata minima 24 mesi',l:'<li>Dominio e hosting inclusi</li><li>Manutenzione e modifiche comprese</li><li>Nessun costo di avvio</li>',b:'Dettagli'},
     c2:{k:'Applicazione web',t:'Web app in canone o pronta da subito',a:'50 €',u:'al mese',e:'oppure da 750 € una tantum, operativa subito',n:'IVA inclusa · attivazione senza costi',l:'<li>Hosting e aggiornamenti inclusi</li><li>Utenti, ruoli e permessi</li><li>Assistenza compresa</li>',b:'Dettagli'},
@@ -107,7 +108,7 @@ window.I18N.it={
     f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia su WhatsApp',pref:'Prefisso',telerr:'Inserisci un numero di telefono valido.',emailerr:'Inserisci un indirizzo email valido oppure lascia il campo vuoto.',
        ok:'Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.',
        note:'Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.',
-       opts:['Sito web / e-commerce','SEO e posizionamento','Meta Ads e campagne','App su misura','Gestionale / CRM','Software o automazione','Non lo so ancora, parliamone'],
+       opts:['Sito web / e-commerce','SEO e posizionamento','Meta Ads e campagne','App su misura','Gestionale / CRM','Software o automazione',"Allestimento fieristico",'Non lo so ancora, parliamone'],
        subj:'Nuova richiesta dal sito'}
   },
   footer:{

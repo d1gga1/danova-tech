@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.de={
   code:'DE', name:'Deutsch', htmlLang:'de',
-  nav:{servizi:'Leistungen',prezzi:'Preise',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
+  nav:{fiere:"Messen",servizi:'Leistungen',prezzi:'Preise',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
   hero:{
     l1:'Wir bauen', l2:'Technologie, die',
     rot:['konvertiert.','verkauft.','Zeit spart.','wachsen lässt.','vereinfacht.'],
@@ -11,6 +11,7 @@ window.I18N.de={
     cta1:'Angebot anfordern', cta2:'Was wir machen', scroll:'Scrollen',
     stats:['Umgesetzte Projekte','Kunden, die verlängern','Durchschnittliche Launch-Zeit','Support und Monitoring']
   },
+  fiere:{"badge": "Neu", "news": "Messestände schlüsselfertig", "eyebrow": "Messebau", "title": "Ihr Messestand,<br><span class=\"grad\">schlüsselfertig.</span>", "lead": "Ab sofort übernehmen wir auch den Messebau. Für jedes Unternehmen besorgen wir das nötige Material, alle geforderten Komponenten und die Monteure, die Ihren Stand direkt auf der Messe aufbauen. Sie kümmern sich um Ihre Kunden, wir um den Rest.", "a": {"t": "Material", "p": "Wände, Böden, Grafiken, Möbel und Beleuchtung: Wir finden und liefern das gesamte Material, das Ihr Stand braucht."}, "b": {"t": "Komponenten", "p": "Strukturen, Profile, Verbinder und jedes Bauteil, das das Projekt oder die technischen Richtlinien der Messe verlangen – einsatzbereit."}, "c": {"t": "Monteure vor Ort", "p": "Montageteams, die Ihren Stand direkt auf der Messe aufbauen – in den vom Veranstalter vorgegebenen Aufbauzeiten."}, "pts": ["Ein Ansprechpartner von der Planung bis zum Aufbau", "Ein klares Angebot vor dem Start", "Für Unternehmen jeder Branche und Größe"], "cta": "Angebot für Ihren Stand anfragen", "cta2": "Mehr erfahren"},
   prezzi:{eyebrow:'Preise',title:'Was es kostet,<br><span class="grad">vorher gesagt.</span>',lead:'Die Zahlen stehen hier, nicht erst am Ende eines Gesprächs. Alle Preise inklusive MwSt.',more:'Zur vollständigen Preisliste',
     c1:{k:'Website',t:'Website im Abo oder als Eigentum',a:'24,80 €',u:'pro Monat',e:'oder 350 € einmalig + 150 € SEO bei Google und Bing',n:'inkl. MwSt. · Mindestlaufzeit 24 Monate',l:'<li>Domain und Hosting inklusive</li><li>Wartung und Änderungen enthalten</li><li>Keine Einrichtungsgebühr</li>',b:'Details'},
     c2:{k:'Web-App',t:'Web-App im Abo oder sofort fertig',a:'50 €',u:'pro Monat',e:'oder ab 750 € einmalig, sofort einsatzbereit',n:'inkl. MwSt. · keine Aktivierungsgebühr',l:'<li>Hosting und Updates inklusive</li><li>Benutzer, Rollen, Rechte</li><li>Support enthalten</li>',b:'Details'},
@@ -107,7 +108,7 @@ window.I18N.de={
     f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Per WhatsApp senden',pref:'Vorwahl',telerr:'Bitte geben Sie eine gültige Telefonnummer ein.',emailerr:'Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer.',
        ok:'Fertig! WhatsApp öffnet sich mit Ihrer vorbereiteten Anfrage — einfach absenden.',
        note:'Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.',
-       opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung','Noch unklar, sprechen wir'],
+       opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung',"Messestand / Messebau",'Noch unklar, sprechen wir'],
        subj:'Neue Anfrage über die Website'}
   },
   footer:{

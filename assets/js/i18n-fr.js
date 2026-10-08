@@ -3,7 +3,7 @@
 window.I18N=window.I18N||{};
 window.I18N.fr={
   code:'FR', name:'Français', htmlLang:'fr',
-  nav:{servizi:'Services',prezzi:'Tarifs',settori:'Pour qui',lavori:'Réalisations',processo:'Méthode',chisiamo:'À propos',faq:'FAQ',contatti:'Contact',cta:'Parlons-en'},
+  nav:{fiere:"Salons",servizi:'Services',prezzi:'Tarifs',settori:'Pour qui',lavori:'Réalisations',processo:'Méthode',chisiamo:'À propos',faq:'FAQ',contatti:'Contact',cta:'Parlons-en'},
   hero:{
     l1:'Nous construisons', l2:'une technologie qui',
     rot:['convertit.','vend.','fait gagner du temps.','passe à l\'échelle.','simplifie.'],
@@ -11,6 +11,7 @@ window.I18N.fr={
     cta1:'Demander un devis', cta2:'Voir ce que nous faisons', scroll:'Défiler',
     stats:['Projets livrés','Clients qui renouvellent','Délai moyen de mise en ligne','Support et supervision']
   },
+  fiere:{"badge": "Nouveau", "news": "Stands de salon clés en main", "eyebrow": "Stands de salon", "title": "Votre stand de salon,<br><span class=\"grad\">clés en main.</span>", "lead": "Nous prenons désormais aussi en charge l'aménagement de stands de salon. Quelle que soit votre entreprise, nous trouvons les matériaux nécessaires, tous les composants requis et les monteurs qui construisent votre stand directement sur le salon. Vous vous occupez de vos clients, nous du reste.", "a": {"t": "Matériaux", "p": "Cloisons, sols, graphismes, mobilier et éclairage : nous trouvons et fournissons tous les matériaux dont votre stand a besoin."}, "b": {"t": "Composants", "p": "Structures, profilés, raccords et chaque composant exigé par le projet ou le règlement technique du salon, prêts à l'emploi."}, "c": {"t": "Monteurs sur place", "p": "Des équipes de monteurs qui construisent votre stand directement sur le salon, dans les délais de montage fixés par l'organisateur."}, "pts": ["Un seul interlocuteur, du projet au montage", "Un devis clair avant de commencer", "Pour les entreprises de tous secteurs et toutes tailles"], "cta": "Demander un devis pour votre stand", "cta2": "En savoir plus"},
   prezzi:{eyebrow:'Tarifs',title:'Ce que ça coûte,<br><span class="grad">dit tout de suite.</span>',lead:'Les montants sont écrits, pas révélés au bout d\'un rendez-vous. Tous les prix sont TVA incluse.',more:'Voir la grille complète',
     c1:{k:'Site internet',t:'Site en abonnement ou site à vous',a:'24,80 €',u:'par mois',e:'ou 350 € en une fois + 150 € de SEO Google et Bing',n:'TVA incluse · durée minimale 24 mois',l:'<li>Domaine et hébergement inclus</li><li>Maintenance et modifications comprises</li><li>Sans frais de mise en service</li>',b:'Détails'},
     c2:{k:'Application web',t:'En abonnement ou prête à l\'emploi',a:'50 €',u:'par mois',e:'ou à partir de 750 € en une fois, opérationnelle tout de suite',n:'TVA incluse · sans frais d\'activation',l:'<li>Hébergement et mises à jour inclus</li><li>Utilisateurs, rôles, permissions</li><li>Assistance comprise</li>',b:'Détails'},
@@ -107,7 +108,7 @@ window.I18N.fr={
     f:{nome:'Nom et prénom',tel:'Téléphone',email:'E-mail (facultatif)',azienda:'Entreprise / activité',tipo:'Ce dont vous avez besoin',send:'Envoyer sur WhatsApp',pref:'Indicatif',telerr:'Merci d\'indiquer un numéro de téléphone valide.',emailerr:'Merci d\'indiquer une adresse e-mail valide ou de laisser le champ vide.',
        ok:'C\'est prêt ! WhatsApp s\'ouvre avec votre demande, il ne reste qu\'à l\'envoyer.',
        note:'En envoyant ce formulaire vous acceptez d\'être recontacté. Nous ne transmettons jamais vos données à qui que ce soit.',
-       opts:['Site web / e-commerce','SEO et visibilité','Meta Ads et campagnes','Application sur mesure','ERP / CRM','Logiciel ou automatisation','Je ne sais pas encore, parlons-en'],
+       opts:['Site web / e-commerce','SEO et visibilité','Meta Ads et campagnes','Application sur mesure','ERP / CRM','Logiciel ou automatisation',"Stand de salon",'Je ne sais pas encore, parlons-en'],
        subj:'Nouvelle demande depuis le site'}
   },
   footer:{
