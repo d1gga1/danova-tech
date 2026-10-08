@@ -63,11 +63,14 @@
     s.onerror=function(){ $('#cal-map .ph').textContent='La mappa non si è caricata: trovi tutte le fiere nell’elenco qui sotto.'; };
     document.head.appendChild(s);
   }
-  var box=$('#cal-map');
+  // la mappa si carica appena il riquadro si avvicina allo schermo, e comunque poco dopo l'apertura della pagina
+  var box=$('#cal-map'), avviata=false;
+  function avvia(){ if(avviata) return; avviata=true; caricaMappa(); }
   if('IntersectionObserver' in window){
-    var io=new IntersectionObserver(function(en){ if(en[0].isIntersecting){ io.disconnect(); caricaMappa(); } },{rootMargin:'300px'});
+    var io=new IntersectionObserver(function(en){ if(en.some(function(x){return x.isIntersecting})){ io.disconnect(); avvia(); } },{rootMargin:'400px'});
     io.observe(box);
-  } else caricaMappa();
+  }
+  if(document.readyState==='complete') setTimeout(avvia,800); else window.addEventListener('load',function(){ setTimeout(avvia,800); });
   // "Dettagli" dal popup: porta alla riga in elenco e la evidenzia
   document.addEventListener('click',function(e){
     var g=e.target.closest&&e.target.closest('[data-goto]'); if(!g) return;
