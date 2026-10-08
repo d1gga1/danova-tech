@@ -53,9 +53,15 @@
     var s=document.createElement('script'); s.src='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js'; s.async=true;
     s.onload=function(){
       var box=$('#cal-map'); box.innerHTML='';
-      map=L.map(box,{scrollWheelZoom:false,worldCopyJump:true}).setView([47,9],4);
-      L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',{maxZoom:18,subdomains:'abcd',
-        attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'}).addTo(map);
+      // mappa senza servizi esterni: confini dei paesi (Natural Earth, pubblico dominio) ospitati dal sito
+      map=L.map(box,{scrollWheelZoom:false,zoomSnap:0.5,minZoom:3,maxZoom:9,maxBounds:[[24,-40],[76,60]],maxBoundsViscosity:0.8,attributionControl:true}).setView([47,9],4);
+      map.attributionControl.setPrefix(false).addAttribution('Confini: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a>');
+      fetch('/assets/data/europa.geojson').then(function(r){return r.json()}).then(function(g){
+        L.geoJSON(g,{interactive:false,style:function(f){
+          var it=f.properties.n==='Italy';
+          return {color:it?'rgba(122,169,255,.75)':'rgba(122,169,255,.32)',weight:it?1.2:0.8,fillColor:it?'#13224a':'#0d1630',fillOpacity:1};
+        }}).addTo(map).bringToBack();
+      }).catch(function(){});
       layer=L.layerGroup().addTo(map);
       map.on('click',function(){ map.scrollWheelZoom.enable(); });
       disegna();

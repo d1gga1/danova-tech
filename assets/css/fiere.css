@@ -107,5 +107,6 @@ html[dir=rtl]{direction:ltr}
 .leaflet-container a.leaflet-popup-close-button{color:#9fc0ff!important}
 .leaflet-control-attribution{background:rgba(5,7,14,.75)!important;color:#8b97b0!important}.leaflet-control-attribution a{color:#9fc0ff!important}
 .cal-pin{width:30px;height:30px;border-radius:50%;display:grid;place-items:center;background:#1E6BFF;color:#fff;font:600 12px/1 Inter,sans-serif;border:2px solid #cfe0ff;box-shadow:0 0 0 6px rgba(30,107,255,.25)}
-.cal-map .leaflet-container{background:#070b16;font:inherit}
+.cal-map.leaflet-container,.cal-map .leaflet-container{background:#04060c!important;font:inherit}
 .pg-lista a,.sec-head .lead a,.pg-testo a{color:#9fc0ff;border-bottom:1px solid rgba(122,169,255,.35)}.pg-lista a:hover,.sec-head .lead a:hover,.pg-testo a:hover{color:#fff}
+.cal-map .leaflet-control-attribution{font-size:11px}
