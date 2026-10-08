@@ -1,0 +1,56 @@
+/* Pagine allestimenti fieristici (ottobre 2026) */
+.pg-hero{position:relative}
+.fr-hero-vis{position:absolute;right:max(22px,calc((100vw - 1240px)/2));top:50%;transform:translateY(-46%);width:min(31vw,440px);pointer-events:none}
+.fr-hero-vis::before{content:"";position:absolute;inset:12% 6%;background:radial-gradient(closest-side,rgba(30,107,255,.3),transparent);filter:blur(24px)}
+@media (max-width:1180px){.fr-hero-vis{display:none}}
+.fr-svg{position:relative;width:100%;height:auto;display:block}
+.fr-svg *{vector-effect:non-scaling-stroke;stroke-linejoin:round}
+.fr-svg .pl.tp{fill:rgba(30,107,255,.07);stroke:rgba(122,169,255,.45);stroke-width:1}
+.fr-svg .pl.fl,.fr-svg .pl.fr{fill:rgba(30,107,255,.16);stroke:rgba(122,169,255,.45);stroke-width:1}
+.fr-svg .gr{stroke:rgba(122,169,255,.12);stroke-width:1}
+.fr-svg .wl{fill:rgba(255,255,255,.035);stroke:rgba(122,169,255,.5);stroke-width:1}
+.fr-svg .wl.back{fill:rgba(30,107,255,.06)}
+.fr-svg .wa.tp{fill:rgba(122,169,255,.35);stroke:rgba(122,169,255,.6);stroke-width:1}
+.fr-svg .wa.fl,.fr-svg .wa.fr{fill:rgba(122,169,255,.18);stroke:rgba(122,169,255,.6);stroke-width:1}
+.fr-svg .gfx{fill:url(#frg);stroke:#7aa9ff;stroke-width:1.2}
+.fr-svg .gl{stroke:rgba(255,255,255,.75);stroke-width:2.4;stroke-linecap:round}
+.fr-svg .sh{fill:rgba(122,169,255,.25);stroke:rgba(122,169,255,.7);stroke-width:1}
+.fr-svg .hd.fl{fill:#1E6BFF;stroke:#7aa9ff;stroke-width:1}
+.fr-svg .hd.fr{fill:#1550c4;stroke:#7aa9ff;stroke-width:1}
+.fr-svg .hd.tp{fill:#5b93ff;stroke:#9fc0ff;stroke-width:1}
+.fr-svg .arm{stroke:rgba(188,211,255,.7);stroke-width:1.4}
+.fr-svg .spot{fill:#fff;filter:drop-shadow(0 0 6px #7aa9ff)}
+.fr-svg .cone{fill:url(#frc);animation:frpulse 4s ease-in-out infinite}
+.fr-svg .tt.fl{fill:rgba(30,107,255,.5);stroke:#7aa9ff;stroke-width:1}
+.fr-svg .tt.fr{fill:rgba(30,107,255,.3);stroke:#7aa9ff;stroke-width:1}
+.fr-svg .tt.tp{fill:#7aa9ff}
+.fr-svg .ct.fl{fill:rgba(255,255,255,.1);stroke:rgba(188,211,255,.8);stroke-width:1}
+.fr-svg .ct.fr{fill:rgba(255,255,255,.05);stroke:rgba(188,211,255,.8);stroke-width:1}
+.fr-svg .ct.tp{fill:rgba(255,255,255,.1)}
+.fr-svg .cttop.fl,.fr-svg .cttop.fr{fill:#cfe0ff;stroke:#fff;stroke-width:.6}
+.fr-svg .cttop.tp{fill:#eaf1ff}
+.fr-svg .stool{fill:rgba(122,169,255,.5);stroke:#bcd3ff;stroke-width:1}
+.fr-svg .mk{fill:none;stroke:#7aa9ff;stroke-width:1.4;stroke-dasharray:3 3;animation:frspin 6s linear infinite;transform-box:fill-box;transform-origin:center}
+.fr-svg .dim{stroke:rgba(122,169,255,.5);stroke-width:1;stroke-dasharray:4 4}
+@keyframes frpulse{0%,100%{opacity:.55}50%{opacity:1}}
+@keyframes frspin{to{transform:rotate(360deg)}}
+@media (prefers-reduced-motion:reduce){.fr-svg .cone,.fr-svg .mk{animation:none}}
+.fr-chips{display:flex;flex-wrap:wrap;gap:10px}
+.fr-chips a,.fr-chips span{display:inline-flex;align-items:center;padding:10px 16px;border-radius:99px;border:1px solid var(--line);background:rgba(255,255,255,.03);font-size:14.5px;color:#cfd7e8;transition:border-color .3s,background .3s,color .3s}
+.fr-chips a{border-color:rgba(122,169,255,.35);color:#dbe6ff}
+.fr-chips a:hover{background:rgba(30,107,255,.18);border-color:#7aa9ff;color:#fff}
+.fr-chips a::after{content:"→";margin-left:8px;color:var(--blue-2)}
+.lang-links a{padding:6px 10px}
+/* Arabo: lettura da destra */
+html[dir=rtl]{direction:ltr}
+[dir=rtl] main,[dir=rtl] footer .fb,[dir=rtl] footer .f-top>div,[dir=rtl] #mob{direction:rtl;text-align:right}
+[dir=rtl] .eyebrow::before{background:linear-gradient(270deg,transparent,var(--blue))}
+[dir=rtl] .pg-lista li{padding-left:0;padding-right:32px}
+[dir=rtl] .pg-lista li::before{left:auto;right:0}
+[dir=rtl] .btn svg,[dir=rtl] .pg-altri a::after,[dir=rtl] .fr-chips a::after{transform:scaleX(-1)}
+[dir=rtl] .fr-chips a::after{margin-left:0;margin-right:8px}
+[dir=rtl] .fr-hero-vis{right:auto;left:max(22px,calc((100vw - 1240px)/2))}
+[dir=rtl] .pg-passi li{text-align:right}
+[dir=rtl] .faq summary{text-align:right}
+[dir=rtl] .bar,[dir=rtl] .wordmark,[dir=rtl] .lang-links{direction:ltr}
+.fr-ct{justify-content:center;flex-wrap:wrap;gap:12px;display:flex;margin-top:22px}
