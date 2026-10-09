@@ -482,6 +482,7 @@ h1.hero-t .ch.in{transform:none;opacity:1;filter:blur(0);transition:transform .9
 .pf .pic{position:relative;aspect-ratio:16/9;overflow:hidden;background:#04070f}
 .pf .pic img{width:100%;height:100%;object-fit:cover;transition:transform 1.2s var(--ease)}
 .pf:hover .pic img{transform:scale(1.09)}
+@media (hover:hover){#clienti .pf .pic img{filter:grayscale(1) brightness(.85);transition:transform 1.2s var(--ease),filter .6s var(--ease)}#clienti .pf:hover .pic img,#clienti .pf:focus-within .pic img{filter:none}}
 .pf .ov{position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,rgba(3,5,10,.92));
   display:flex;align-items:flex-end;padding:22px;opacity:0;transition:opacity .5s}
 .pf:hover .ov{opacity:1}
