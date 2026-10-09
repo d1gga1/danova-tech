@@ -2021,6 +2021,9 @@
       <image:loc>https://danova-tech.com/assets/img/dt-11.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-kone-studio.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-guido-arcangeli.webp</image:loc>
     </image:image>
     <image:image>
@@ -2121,6 +2124,9 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/"/>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-kone-studio.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-guido-arcangeli.webp</image:loc>
     </image:image>
     <image:image>
@@ -2140,6 +2146,17 @@
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-dajboc.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/lavori/kone-studio/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/kone-studio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/kone-studio/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-kone-studio.webp</image:loc>
     </image:image>
     <lastmod>2026-10-09</lastmod>
     <changefreq>monthly</changefreq>

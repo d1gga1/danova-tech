@@ -300,6 +300,16 @@ Progetti reali che potete aprire e guardare. Questa sezione cresce a ogni conseg
 
 Leggi il caso studio
 
+Sito + app su misura
+
+## Kone Moctar Studio
+
+Personal training e massaggi professionali. Sito con metodo e listino completo, e un'app su misura per i clienti: scheda con video, carichi, grafici dei progressi, prenotazioni e chat con il coach.
+
+Caso studio · kone-studio.com
+
+Leggi il caso studio
+
 Sito web
 
 ## Guido Arcangeli DJ
@@ -14060,7 +14070,7 @@ Consulente SEO
 ========================================================================
 # Lavori realizzati da Danova Tech
 URL: https://danova-tech.com/lavori/
-Descrizione: Lavori di Danova Tech con nome del cliente e sito online: Guido Arcangeli DJ, Pan.door.a, DajbocTechDon, UniCESD Olympo, Artantiss, GRG Performance e Oasi B&B Ponza.
+Descrizione: Lavori di Danova Tech con nome del cliente e sito online: Kone Moctar Studio, Guido Arcangeli DJ, Pan.door.a, DajbocTechDon, UniCESD Olympo, Artantiss, GRG Performance e Oasi B&B Ponza.
 ========================================================================
 
 Home / Lavori
@@ -14079,9 +14089,17 @@ I progetti
 
 ## Lavori pubblicati, con il nome del cliente
 
-Sette progetti diversi: il sito di un DJ e producer, una piattaforma educativa, una piattaforma editoriale, il sito di un'officina, quello di un bed and breakfast su un'isola, un sito in trenta lingue e la SEO di un produttore di porte per interni, con lo screenshot di Search Console. Sono tutti online e potete aprirli.
+Otto progetti diversi: il sito e l'app su misura di uno studio di personal training e massaggi, il sito di un DJ e producer, una piattaforma educativa, una piattaforma editoriale, il sito di un'officina, quello di un bed and breakfast su un'isola, un sito in trenta lingue e la SEO di un produttore di porte per interni, con lo screenshot di Search Console. Sono tutti online e potete aprirli.
 
 01
+
+## Kone Moctar Studio
+
+Studio di personal training e massaggi professionali. Sito con il metodo, i trattamenti e il listino completo, più un'applicazione su misura per i clienti: scheda con foto e video, registro dei carichi, grafici dei progressi, prenotazioni e chat diretta con il coach.
+
+Leggi il caso studio · kone-studio.com
+
+02
 
 ## Guido Arcangeli DJ
 
@@ -14089,7 +14107,7 @@ DJ, producer e sound engineer toscano, in radio dal 1976 e da allora nei dancing
 
 Leggi il caso studio · guidoarcangeli.com
 
-02
+03
 
 ## Pan.door.a
 
@@ -14097,7 +14115,7 @@ Produttore di porte per interni, pannelli tamburati e componenti per mobili di F
 
 Leggi il caso studio · pandooragroup.it
 
-03
+04
 
 ## Artantiss
 
@@ -14105,7 +14123,7 @@ Piattaforma editoriale italiana dove si incontrano ricerca, medicina, arte e ben
 
 Leggi il caso studio · artantiss.com
 
-04
+05
 
 ## GRG Performance
 
@@ -14113,7 +14131,7 @@ Officina moto e scooter di Fossalta di Portogruaro, concessionaria ufficiale TM 
 
 Leggi il caso studio · grgperformance.it
 
-05
+06
 
 ## Oasi B&B Ponza
 
@@ -14121,7 +14139,7 @@ Bed and breakfast a Santa Maria di Ponza, in una casa ponzese di fine Ottocento.
 
 Leggi il caso studio · oasiponzabb.it
 
-06
+07
 
 ## UniCESD Olympo
 
@@ -14129,7 +14147,7 @@ Piattaforma educativa per un Centro Studi di Palermo: corsi di laurea online, ma
 
 Leggi il caso studio · unicesd-olympo.com
 
-07
+08
 
 ## DajbocTechDon
 
@@ -14171,6 +14189,99 @@ Software gestionale per edilizia
 App rapportini di lavoro
 Oasi Ponza
 Pan.door.a
+
+
+========================================================================
+# Kone Moctar Studio: caso studio sito e app
+URL: https://danova-tech.com/lavori/kone-studio/
+Descrizione: Caso studio Kone Moctar Studio: sito e applicazione su misura per un personal trainer e massaggiatore, con schede, registro carichi, prenotazioni e chat.
+========================================================================
+
+Home / Lavori / Kone Moctar Studio
+
+Caso studio · Sito + app su misura
+
+## Kone Moctar Studio: il sito che porta i clienti e l'app che li segue .
+
+Kone Moctar è personal trainer e massaggiatore professionale, e ha uno studio suo. Gli abbiamo realizzato il sito e un'applicazione su misura per i clienti: la scheda di allenamento con foto e video, il registro dei carichi, i grafici dei progressi, le prenotazioni e la chat diretta con lui. Due strumenti, un unico percorso.
+
+Parliamo del vostro progetto
+
+Apri kone-studio.com
+
+Il progetto
+
+## Allenamento e massaggi nello stesso percorso
+
+Kone lavora su due fronti: personal training one to one, in coppia e in piccoli gruppi, e massaggi professionali, dal decontratturante allo sportivo, dal linfodrenante alla coppettazione. Il suo punto di forza è proprio tenerli insieme: il massaggio entra nel programma al momento giusto, non come extra.
+
+Senza strumenti dedicati, un lavoro così passa da messaggi, fogli e memoria: la scheda su carta, i carichi annotati a mano, le prenotazioni via WhatsApp, i pacchetti contati a occhio. Funziona con pochi clienti, non quando lo studio cresce.
+
+Il progetto ha due parti. Il sito , all'indirizzo kone-studio.com , presenta lo studio, il metodo, i trattamenti e il listino completo, e porta a prenotare la prima seduta. L' applicazione su misura è lo strumento di lavoro quotidiano di Kone e dei suoi clienti. Nel footer del sito trovate la firma: Powered by Danova Tech.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Un sito che fa scegliere lo studio e un'app che fa restare i clienti. Ogni parte è stata costruita sul modo in cui Kone lavora davvero.
+
+01
+
+## Un sito che spiega il metodo
+
+Cinque passi chiari: conoscersi, valutare, programmare, curare, misurare. Chi arriva capisce subito cosa succede dalla prima seduta in poi, e perché allenamento e massaggi stanno nello stesso percorso.
+
+02
+
+## Il listino completo, in chiaro
+
+Sedute singole, pacchetti, abbonamenti mensili, corsi, massaggi da 30 e 60 minuti, combo e percorsi: tutto con il prezzo scritto. Chi confronta studi diversi non deve chiedere un preventivo per sapere quanto spende.
+
+03
+
+## App su misura per i clienti
+
+Ogni cliente ha la sua scheda del giorno con foto e video degli esercizi, registra i carichi mentre si allena e vede i grafici di peso, carichi e costanza. Il progresso non è più un'impressione: è un numero che sale.
+
+04
+
+## Prenotazioni e chat in un tocco
+
+One to one, corsi di gruppo e trattamenti si prenotano dall'app, e c'è la chat diretta con Kone. Niente più catene di messaggi per spostare un appuntamento, niente sovrapposizioni.
+
+05
+
+## Corsi che si adattano ai partecipanti
+
+I corsi sono al massimo da dieci persone e il programma della lezione si costruisce in base a chi partecipa e ai feedback della volta precedente, con regole di sicurezza: intensità regolata un passo alla volta, esercizi esclusi per chi ha una zona delicata.
+
+06
+
+## Installabile, senza store
+
+L'app si installa sul telefono dalla schermata Home, senza passare da App Store o Google Play. L'accesso lo attiva Kone in studio, così i dati restano tra lui e i suoi clienti. Identità nero e oro, coerente con il marchio KM Studio.
+
+Cosa si impara
+
+## Perché a un personal trainer serve anche un'app sua
+
+Il sito porta clienti nuovi: chi cerca un personal trainer o un massaggiatore guarda il metodo, i prezzi e come si prenota. Ma il valore di uno studio si vede dopo, nei mesi di lavoro, ed è lì che un'app fa la differenza.
+
+Una scheda con i video, i carichi registrati e i grafici rendono visibile il risultato, e un cliente che vede i propri progressi rinnova il pacchetto. Le prenotazioni ordinate e la chat in un posto solo restituiscono al coach il tempo che prima finiva nei messaggi.
+
+E un'app su misura, a differenza delle piattaforme generiche, segue il metodo del professionista e non il contrario: qui massaggi e allenamento convivono nello stesso percorso, perché è così che Kone lavora.
+
+## Pagine collegate
+
+Tutti i lavori
+Guido Arcangeli DJ
+Artantiss
+App per personal trainer
+Gestionale palestra
+App prenotazioni
+App su misura
+Sviluppo web app
+Realizzazione siti internet
 
 
 ========================================================================
