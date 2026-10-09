@@ -300,6 +300,16 @@ Progetti reali che potete aprire e guardare. Questa sezione cresce a ogni conseg
 
 Leggi il caso studio
 
+Sito web
+
+## Guido Arcangeli DJ
+
+DJ, producer e sound engineer toscano, in consolle dal 1976. Sito con la musica da ascoltare subito, l'archivio di oltre cinquanta produzioni, le serate, i locali e la richiesta di booking in un messaggio.
+
+Caso studio · guidoarcangeli.com
+
+Leggi il caso studio
+
 Sito e SEO
 
 ## Pan.door.a
@@ -13955,9 +13965,102 @@ Consulente SEO
 
 
 ========================================================================
+# Guido Arcangeli DJ: caso studio
+URL: https://danova-tech.com/lavori/guido-arcangeli/
+Descrizione: Caso studio Guido Arcangeli: sito per un DJ e producer toscano con produzioni da ascoltare, archivio brani, serate, locali e richiesta di booking diretta.
+========================================================================
+
+Home / Lavori / Guido Arcangeli DJ
+
+Caso studio
+
+## Guido Arcangeli DJ: quarant'anni di consolle, in un sito che si ascolta .
+
+DJ, producer e sound engineer toscano, in radio dal 1976 e da allora nei dancing e nelle discoteche. Le sue produzioni girano, le serate sono ogni settimana, ma mancava un posto unico dove ascoltare la musica, vedere dove suona e chiedere una data senza passare dai social.
+
+Parliamo del vostro progetto
+
+Come è strutturato
+
+Il progetto
+
+## Un artista con un pubblico vero e nessun indirizzo proprio
+
+Guido Arcangeli lavora con la musica da ballo: cumbia, balli di gruppo, dance, kizomba, liscio e revival anni Settanta e Ottanta. Ha iniziato in radio nel 1976, ha diretto emittenti toscane, ha suonato in locali storici come il Moulin del Topo a Firenze, il Bimbo's a Pistoia e l'All Music Tramp a Montecatini. Oggi produce musica propria e suona ogni settimana nei dancing della Toscana.
+
+Un percorso così, sui social, si frammenta: un brano su una piattaforma, un video su un'altra, le date in una storia che sparisce dopo ventiquattro ore. Chi lo cerca per nome, che sia un ballerino o il gestore di un locale, trova pezzi, non un quadro.
+
+Il sito è quel quadro: la musica da ascoltare subito, l'archivio delle produzioni, le serate, i locali, la storia e un modo diretto per chiedere una data. Tutto all'indirizzo guidoarcangeli.com , che è suo e resta suo.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Il sito di un DJ ha due pubblici: chi balla e chi lo ingaggia. Ognuno doveva trovare quello che cerca in pochi secondi.
+
+01
+
+## Prima la musica
+
+Il brano del momento si ascolta subito dalla home, con il pulsante per scaricare l'MP3. Chi arriva sul sito di un DJ vuole sentire che musica fa prima di leggere chi è: farlo cercare in una pagina interna significa perderlo.
+
+02
+
+## L'archivio completo dei brani
+
+Oltre cinquanta produzioni pubblicate, raccolte in una pagina sola con le copertine: cumbia, balli di gruppo, dance, remix. È la pagina che usano i gestori dei locali per farsi un'idea, e quella che fa tornare chi balla.
+
+03
+
+## Le serate e i locali
+
+Il calendario delle prossime serate e l'elenco dei locali e delle residenze in Toscana. Per chi organizza è la prova più concreta: dove suona, con quale continuità, per quale pubblico.
+
+04
+
+## Quarant'anni raccontati bene
+
+Dalla radio nel 1976 alle discoteche storiche, fino alle produzioni di oggi: la biografia ha una pagina sua, e in home restano i numeri che contano. Dieci nomination radiofoniche, più di cinquanta produzioni, più di trenta locali.
+
+05
+
+## Booking in un messaggio
+
+Telefono e WhatsApp sempre a portata di pollice, più un modulo per la richiesta di una serata con data e locale. Il gestore che ha bisogno di un DJ per sabato non compila questionari: scrive, e deve poterlo fare in dieci secondi.
+
+06
+
+## Un'identità da consolle
+
+Fondo scuro, un marchio che richiama un disco in rotazione, i colori delle luci da pista. Foto vere delle serate e i video del canale. Il sito ha lo stesso tono delle serate che racconta, ed è veloce anche dal telefono, che è da dove lo aprono quasi tutti.
+
+Cosa si impara
+
+## Perché un artista ha bisogno di un sito suo
+
+Per musicisti, DJ, band e artisti i social sono indispensabili per farsi vedere, ma non sono un posto dove farsi trovare. L'algoritmo decide chi vede cosa, i contenuti scorrono via e un profilo può sparire da un giorno all'altro. Un sito con il proprio nome resta, e su Google compare a chi cerca proprio voi.
+
+Il secondo motivo è il lavoro. Chi organizza una serata, un matrimonio o una festa cerca un DJ per zona e per genere: un sito che dice chiaramente cosa suonate, dove e con quale esperienza, e che permette di scrivere in un clic, arriva a quelle ricerche. Un profilo social, quasi mai.
+
+Il terzo è la musica stessa: un archivio ordinato delle produzioni, ascoltabili e scaricabili, vale come un curriculum. Racconta quarant'anni di lavoro meglio di qualsiasi testo.
+
+## Pagine collegate
+
+Tutti i lavori
+Oasi B&B Ponza
+Pan.door.a
+GRG Performance
+Realizzazione siti internet
+Siti web ed e-commerce
+Quanto costa un sito web
+Come ottenere recensioni Google
+Consulente SEO
+
+
+========================================================================
 # Lavori realizzati da Danova Tech
 URL: https://danova-tech.com/lavori/
-Descrizione: Lavori di Danova Tech con nome del cliente e sito online: Pan.door.a, DajbocTechDon, UniCESD Olympo, Artantiss, GRG Performance e Oasi B&B Ponza.
+Descrizione: Lavori di Danova Tech con nome del cliente e sito online: Guido Arcangeli DJ, Pan.door.a, DajbocTechDon, UniCESD Olympo, Artantiss, GRG Performance e Oasi B&B Ponza.
 ========================================================================
 
 Home / Lavori
@@ -13976,9 +14079,17 @@ I progetti
 
 ## Lavori pubblicati, con il nome del cliente
 
-Sei progetti diversi: una piattaforma educativa, una piattaforma editoriale, il sito di un'officina, quello di un bed and breakfast su un'isola, un sito in trenta lingue e la SEO di un produttore di porte per interni, con lo screenshot di Search Console. Sono tutti online e potete aprirli.
+Sette progetti diversi: il sito di un DJ e producer, una piattaforma educativa, una piattaforma editoriale, il sito di un'officina, quello di un bed and breakfast su un'isola, un sito in trenta lingue e la SEO di un produttore di porte per interni, con lo screenshot di Search Console. Sono tutti online e potete aprirli.
 
 01
+
+## Guido Arcangeli DJ
+
+DJ, producer e sound engineer toscano, in radio dal 1976 e da allora nei dancing e nelle discoteche. Sito con il brano del momento da ascoltare e scaricare, l'archivio di oltre cinquanta produzioni, le serate, i locali e la richiesta di booking via WhatsApp.
+
+Leggi il caso studio · guidoarcangeli.com
+
+02
 
 ## Pan.door.a
 
@@ -13986,7 +14097,7 @@ Produttore di porte per interni, pannelli tamburati e componenti per mobili di F
 
 Leggi il caso studio · pandooragroup.it
 
-02
+03
 
 ## Artantiss
 
@@ -13994,7 +14105,7 @@ Piattaforma editoriale italiana dove si incontrano ricerca, medicina, arte e ben
 
 Leggi il caso studio · artantiss.com
 
-03
+04
 
 ## GRG Performance
 
@@ -14002,7 +14113,7 @@ Officina moto e scooter di Fossalta di Portogruaro, concessionaria ufficiale TM 
 
 Leggi il caso studio · grgperformance.it
 
-04
+05
 
 ## Oasi B&B Ponza
 
@@ -14010,7 +14121,7 @@ Bed and breakfast a Santa Maria di Ponza, in una casa ponzese di fine Ottocento.
 
 Leggi il caso studio · oasiponzabb.it
 
-05
+06
 
 ## UniCESD Olympo
 
@@ -14018,7 +14129,7 @@ Piattaforma educativa per un Centro Studi di Palermo: corsi di laurea online, ma
 
 Leggi il caso studio · unicesd-olympo.com
 
-06
+07
 
 ## DajbocTechDon
 

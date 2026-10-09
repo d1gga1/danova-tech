@@ -2021,6 +2021,9 @@
       <image:loc>https://danova-tech.com/assets/img/dt-11.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-guido-arcangeli.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-pandoora.webp</image:loc>
     </image:image>
     <image:image>
@@ -2103,9 +2106,23 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/lavori/guido-arcangeli/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/guido-arcangeli/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/guido-arcangeli/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-guido-arcangeli.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/lavori/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-guido-arcangeli.webp</image:loc>
+    </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-pandoora.webp</image:loc>
     </image:image>
