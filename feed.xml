@@ -5,9 +5,17 @@
     <link>https://danova-tech.com/</link>
     <description>Guide pratiche su siti web, SEO e software gestionali, e i lavori consegnati da Danova Tech, software house italiana con sede a Mansuè (Treviso).</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 08 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 00:00:00 -0000</lastBuildDate>
     <atom:link href="https://danova-tech.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://danova-tech.com/assets/img/logo.png</url><title>Danova Tech</title><link>https://danova-tech.com/</link></image>
+    <item>
+      <title>Pan.door.a: sito e SEO per porte per interni</title>
+      <link>https://danova-tech.com/lavori/pandoora/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/pandoora/</guid>
+      <category>Lavori</category>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio Pan.door.a: sito e SEO per un produttore di porte per interni di Fontanelle (TV). Da pochi clic a oltre 50 al giorno in tre mesi, dati Search Console.</description>
+    </item>
     <item>
       <title>Come preparare una fiera: checklist mese per mese</title>
       <link>https://danova-tech.com/guide/come-preparare-una-fiera/</link>

@@ -1939,6 +1939,9 @@
       <image:loc>https://danova-tech.com/assets/img/lavoro-grg.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-pandoora.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-oasi.webp</image:loc>
     </image:image>
     <image:image>
@@ -2004,6 +2007,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/lavori/pandoora/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/pandoora/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/pandoora/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-pandoora.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/seo-pandoora-search-console.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/lavori/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/lavori/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/lavori/"/>
@@ -2012,6 +2029,9 @@
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-grg.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/lavoro-pandoora.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/lavoro-oasi.webp</image:loc>

@@ -653,6 +653,13 @@ Le stesse cifre nelle altre lingue:
   fasi, quasi trenta lingue e una pagina per ogni paese europeo servito. Il
   sito del cliente riporta nel footer il credito "Website by DANOVA TECH".
   https://danova-tech.com/lavori/dajboctechdon/
+- Pan.door.a — sito e SEO per Pan.door.a S.r.l., produttore di porte per
+  interni, pannelli tamburati, parquet e componenti per mobili di Fontanelle
+  (Treviso). Pagine per prodotto e per zona (Veneto, Friuli Venezia Giulia,
+  Treviso), guide con i prezzi. Dati Google Search Console dal 7 luglio al
+  6 ottobre 2026: 931 clic, 29.900 impressioni, CTR medio 3,1%, posizione
+  media 10,5; da pochi clic al giorno a luglio a oltre 50 a inizio ottobre.
+  https://danova-tech.com/lavori/pandoora/
 
 ## Pagine aggiunte il 24 settembre 2026
 
