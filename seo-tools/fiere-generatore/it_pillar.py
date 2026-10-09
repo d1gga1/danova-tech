@@ -14,7 +14,7 @@ qa=[
 ("Lavorate anche con aziende straniere che espongono in Italia?","Sì, è una parte importante del nostro lavoro. Puoi scriverci nella tua lingua: abbiamo pagine dedicate in inglese, tedesco, francese, spagnolo, cinese, turco e arabo, e seguiamo tutto noi in Italia, dalla fornitura al montaggio."),
 ]
 main = hero("Allestimenti fieristici · Novità",
- 'Allestimenti fieristici e stand <span class="grad">chiavi in mano</span>.',
+ 'Allestimenti fieristici e stand per fiere <span class="grad">chiavi in mano</span>.',
  "Progettiamo, forniamo e montiamo stand fieristici per aziende di ogni settore, in Italia e all'estero. Troviamo il materiale necessario e tutta la componentistica richiesta, e le nostre squadre di montatori costruiscono lo stand direttamente in fiera. Oltre 25 anni di esperienza nel settore fieristico, un unico referente dal primo schizzo allo smontaggio.",
  "Richiedi un preventivo per lo stand",CT,"Come lavoriamo","#metodo")
 main+=cards("cosa","Tutto quello che serve allo stand, in un unico fornitore",
@@ -68,7 +68,7 @@ nodes=[service_node(URL,"Allestimenti fieristici","Allestimento e montaggio di s
  "Allestimenti fieristici chiavi in mano per aziende di ogni settore in Italia e all'estero: progetto e render 3D, materiali e componentistica, grafica e stampa, impianto elettrico, illuminazione e LED, montaggio e smontaggio in fiera, trasporto, magazzino e pratiche con l'ente fiera. Stand preallestiti, modulari, in tessuto teso e su misura, a noleggio o in acquisto.",
  AREAS_IT,["Progettazione stand e render 3D","Stand preallestiti","Stand modulari in alluminio","Stand in tessuto teso","Stand su misura in legno","Grafica e stampa per stand","Impianto elettrico, illuminazione e LED","Montaggio e smontaggio stand in fiera","Trasporto, logistica e magazzino","Pratiche con l'ente fiera","Noleggio stand e arredi"],'it')]
 alts={'it':P,'en':'/en/exhibition-stand-builder-italy/','de':'/de/messebau-italien/','fr':'/fr/standiste-salon-italie/','es':'/es/montaje-stands-feriales-italia/','zh':'/zh/italy-exhibition-stand/','tr':'/tr/italya-fuar-standi/','ar':'/ar/italy-exhibition-stand/'}
-print(build('it',P,"Allestimenti fieristici e stand chiavi in mano | Danova Tech",
- "Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, componentistica, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto, oltre 25 anni di esperienza.",
+print(build('it',P,"Allestimenti fieristici e stand per fiere chiavi in mano",
+ "Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto, 25 anni di esperienza.",
  "Allestimenti fieristici chiavi in mano — Danova Tech","Progetto, materiali, componentistica e montatori in fiera. Stand preallestiti, modulari e su misura, in Italia e all'estero.",
  [("Home","/"),("Servizi","/#servizi"),("Allestimenti fieristici",None)],main,qa,nodes,alts))

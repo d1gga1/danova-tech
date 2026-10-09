@@ -33,7 +33,7 @@ m+=passi("metodo","Come funziona","Dal disegno <span class=\"grad\">allo stand a
   ("Montaggio in fiera","Strutture, pavimenti, impianto elettrico, grafiche, arredi. Pulizia finale e consegna."),
   ("Smontaggio","A fine fiera disallestimento, carico e, se serve, magazzino fino alla prossima manifestazione.")])
 page(P,"Montaggio stand fieristici: montatori in fiera | Danova Tech",
- "Montaggio e smontaggio di stand fieristici con montatori direttamente in fiera, in Italia e all'estero. Materiali, componentistica, impianto elettrico e grafiche. Anche urgenze.",
+ "Montaggio e smontaggio di stand fieristici con montatori in fiera, in Italia e all'estero. Materiali, impianto elettrico e grafiche. Anche in urgenza.",
  "Montaggio stand fieristici — montatori direttamente in fiera","Squadre di montatori, materiali e componentistica: montiamo e smontiamo il tuo stand in fiera, anche se il progetto è di altri.",
  "Montaggio stand fieristici",m,[
  ("Montate anche stand progettati da altri?","Sì. Possiamo occuparci solo di materiali, componentistica e montaggio seguendo i disegni del tuo progettista, oppure di rimontare uno stand che hai già."),
@@ -70,7 +70,7 @@ m+=passi("metodo","Come nasce","Dall'idea <span class=\"grad\">al padiglione.</s
   ("Produzione","Costruzione degli elementi, stampa delle grafiche, preparazione di arredi e tecnologia."),
   ("Montaggio e smontaggio","Montaggio in fiera, consegna dello stand e smontaggio a fine manifestazione.")])
 page(P,"Stand fieristici su misura in legno, progetto 3D | Danova Tech",
- "Stand fieristici su misura: progetto e render 3D, costruzione in legno, materiali, grafica, luci e montaggio in fiera. Stand a isola e a due piani, in Italia e all'estero.",
+ "Stand fieristici su misura: progetto e render 3D, costruzione in legno, grafica, luci e montaggio in fiera. Stand a isola e a due piani, in Italia e all'estero.",
  "Stand fieristici su misura — Danova Tech","Progetto 3D, costruzione, grafica e montaggio: uno stand unico, costruito sul tuo marchio.",
  "Stand fieristici su misura",m,[
  ("Quanto costa uno stand su misura?","Dipende da metratura, materiali, finiture, tecnologia e città della fiera. Ti diamo un preventivo dettagliato dopo il brief; nella <a href=\"/quanto-costa-uno-stand-fieristico/\">guida ai costi</a> trovi le voci che incidono di più."),
@@ -99,7 +99,7 @@ m+=testo("formula","Noleggio o acquisto?",None,
   ("Tessuto teso.","Leggero e d'impatto, perfetto per grafiche grandi e retroilluminate."),
   ("Misto.","Struttura modulare con elementi su misura in legno per banchi e zone prodotto.")])
 page(P,"Stand modulari in alluminio e tessuto teso | Danova Tech",
- "Stand fieristici modulari in alluminio e tessuto teso, a noleggio o in acquisto: riutilizzabili, riconfigurabili e montati in fiera dalle nostre squadre. In Italia e all'estero.",
+ "Stand fieristici modulari in alluminio e tessuto teso, a noleggio o in acquisto: riutilizzabili, riconfigurabili e montati in fiera. In Italia e all'estero.",
  "Stand modulari riutilizzabili — Danova Tech","Strutture in alluminio e tessuto teso, a noleggio o in acquisto, montate in fiera dalle nostre squadre.",
  "Stand modulari",m,[
  ("Uno stand modulare si può usare in fiere con metrature diverse?","Sì, è il suo vantaggio principale: la stessa struttura si riconfigura su spazi e forme diverse, aggiungendo o togliendo moduli."),
@@ -128,7 +128,7 @@ m+=testo("quando","Quando conviene il noleggio",None,
   ("Anche all'ultimo momento.","Accettiamo richieste urgenti, compatibilmente con la disponibilità del materiale."),
   ("Misto noleggio e proprietà.","Struttura a noleggio, grafiche e alcuni elementi tuoi.")])
 page(P,"Noleggio stand fieristici e arredi per fiere | Danova Tech",
- "Noleggio stand fieristici preallestiti e modulari, arredi, luci, moquette, schermi e LED, con trasporto e montaggio in fiera. In Italia e all'estero, anche con poco preavviso.",
+ "Noleggio stand fieristici preallestiti e modulari, arredi, luci, schermi LED, con trasporto e montaggio in fiera. In Italia e all'estero, anche last minute.",
  "Noleggio stand fieristici — Danova Tech","Stand preallestiti e modulari, arredi e tecnologia a noleggio, montati in fiera.",
  "Noleggio stand fieristici",m,[
  ("Cosa comprende il noleggio di uno stand?","Le strutture, gli arredi e le attrezzature che scegli, più, se lo desideri, trasporto, montaggio, smontaggio e ritiro. Le grafiche personalizzate si stampano a parte."),
@@ -167,7 +167,7 @@ qa=[("Quanto costa uno stand fieristico al metro quadro?","Non c'è una cifra un
  ("Come si risparmia su uno stand?","Riutilizzando struttura e arredi, scegliendo grafiche intercambiabili, decidendo con anticipo e affidando tutto a un unico fornitore."),
  ("Fate preventivi gratuiti?","Sì. Scrivici fiera, date e metratura e ti mandiamo un preventivo dettagliato.")]
 page(P,"Quanto costa uno stand fieristico: le voci di costo | Danova Tech",
- "Quanto costa uno stand fieristico? Area, struttura, progetto, grafica, impianti, arredi, montaggio e trasporto: tutte le voci che compongono il prezzo e come confrontare i preventivi.",
+ "Quanto costa uno stand fieristico? Area, struttura, progetto, grafica, impianti, arredi, montaggio e trasporto: le voci del prezzo e come confrontare i preventivi.",
  "Quanto costa uno stand fieristico — guida alle voci di costo","Le voci che compongono il prezzo di uno stand e come confrontare due preventivi.",
  "Quanto costa uno stand fieristico",m,qa,[article_node(SITE+P,"Quanto costa uno stand fieristico: da cosa dipende il prezzo","Le voci che compongono il costo di uno stand fieristico e come confrontare i preventivi.","it")])
 
@@ -186,8 +186,8 @@ m+=cards("cosa","Cosa allestiamo",None,
 m+=testo("perche","Un solo partner per spazi fisici e digitali",None,
  ["Oltre 25 anni di fiere ci hanno insegnato a lavorare con tempi stretti, regolamenti rigidi e spazi da allestire in poche ore. Le stesse regole valgono per un congresso in hotel, uno showroom che apre lunedì o una mostra che deve essere pronta per l'inaugurazione.",
   "E siamo anche un'agenzia tech: allo spazio fisico possiamo affiancare <a href=\"/servizi/siti-web-ecommerce/\">landing page</a> per le iscrizioni, <a href=\"/app-prenotazioni/\">prenotazioni</a>, <a href=\"/servizi/meta-ads/\">campagne</a> per portare persone e un <a href=\"/crm-aziendale/\">CRM</a> per non perdere i contatti."])
-page(P,"Allestimenti per eventi, congressi, showroom, negozi e mostre | Danova Tech",
- "Allestimenti per eventi aziendali e congressi, showroom, negozi, temporary store e mostre d'arte: progetto, materiali, grafica, luci e montaggio. Oltre 25 anni di esperienza.",
+page(P,"Allestimenti per eventi, showroom, negozi e mostre | Danova Tech",
+ "Allestimenti per eventi aziendali e congressi, showroom, negozi, temporary store e mostre: progetto, grafica, luci e montaggio. Oltre 25 anni di esperienza.",
  "Allestimenti per eventi, showroom, negozi e mostre — Danova Tech","Progetto, materiali, grafica e montaggio per eventi, congressi, showroom, retail e mostre d'arte.",
  "Eventi, showroom, negozi e mostre",m,[
  ("Allestite anche eventi fuori dai quartieri fieristici?","Sì: hotel, centri congressi, spazi aziendali, location per eventi, negozi e spazi espositivi."),
@@ -217,8 +217,8 @@ m+=passi("metodo","Come lavoriamo","Una fiera all'estero, <span class=\"grad\">o
   ("Approvazioni e logistica","Pratiche con l'ente fiera estero, imballi, spedizione, orari di consegna."),
   ("Montaggio e smontaggio","Squadre in fiera, consegna dello stand, smontaggio e rientro."),
   ("Dopo la fiera","Magazzino per la prossima manifestazione e, se vuoi, gestione dei contatti raccolti.")])
-page(P,"Stand per fiere all'estero: Germania, Francia, Spagna | Danova Tech",
- "Allestimenti fieristici all'estero per aziende italiane: progetto, produzione, trasporto internazionale, montatori e smontaggio in Germania, Francia, Spagna e in Europa.",
+page(P,"Stand per fiere all'estero: Germania, Francia, Spagna",
+ "Allestimenti fieristici all'estero per aziende italiane: progetto, produzione, trasporto, montatori e smontaggio in Germania, Francia, Spagna e Europa.",
  "Stand per fiere all'estero — Danova Tech","Progetto, trasporto e montatori per le fiere in Germania, Francia, Spagna e in Europa.",
  "Fiere all'estero",m,[
  ("In quali paesi montate stand?","Germania, Francia, Spagna e nel resto d'Europa."),

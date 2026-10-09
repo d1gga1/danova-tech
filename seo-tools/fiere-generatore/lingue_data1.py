@@ -2,7 +2,7 @@
 D={}
 D['en']=dict(path='/en/exhibition-stand-builder-italy/',
  title='Exhibition stand builder in Italy and Europe | Danova Tech',
- desc='Exhibition stand design and build in Italy and Europe: 3D design, materials, components, graphics, electrics and on-site installers at Milan, Verona, Bologna and more.',
+ desc='Exhibition stand design and build in Italy and Europe: 3D design, graphics, electrics and on-site installers at Milan, Verona, Bologna and more.',
  ogt='Exhibition stand builder in Italy — Danova Tech',ogd='Turnkey trade fair stands in Italy and Europe: design, materials, components and installers on site.',
  crumbs=[('Home','/en/'),('Services','/en/#servizi'),('Exhibition stands',None)],
  eyebrow='Exhibition stands · Italy & Europe',
@@ -42,7 +42,7 @@ D['en']=dict(path='/en/exhibition-stand-builder-italy/',
  svc_name='Exhibition stand design and build',svc_desc='Turnkey exhibition stands in Italy and Europe: 3D design, materials and components, graphics, electrics, lighting and LED, installation and dismantling on site, logistics, storage and paperwork. Preassembled, modular, fabric and custom stands, rented or bought.',
  offers=['Exhibition stand design','Modular exhibition stands','Custom exhibition stands','Stand installation and dismantling','Exhibition stand rental'])
 D['de']=dict(path='/de/messebau-italien/',
- title='Messebau in Italien und Europa: Messestände schlüsselfertig | Danova Tech',
+ title='Messebau in Italien und Europa: Messestände schlüsselfertig',
  desc='Messebau in Italien und Europa: 3D-Planung, Material, Komponenten, Grafik, Elektrik und Monteure direkt auf der Messe in Mailand, Verona, Bologna und mehr.',
  ogt='Messebau in Italien — Danova Tech',ogd='Schlüsselfertige Messestände in Italien und Europa: Planung, Material, Komponenten und Monteure vor Ort.',
  crumbs=[('Home','/de/'),('Leistungen','/de/#servizi'),('Messebau',None)],

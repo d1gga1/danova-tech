@@ -141,7 +141,7 @@ PAGINE.append({
 # ---------------------------------------------------------------------------
 PAGINE.append({
  "lang":"it", "url":"/app-prenotazioni/",
- "title":"App per prenotazioni e appuntamenti | Danova Tech",
+ "title":"App e gestionale prenotazioni e appuntamenti | Danova Tech",
  "desc":"App e sistema di prenotazione su misura: calendario di persone, sale e campi, promemoria contro le assenze, caparra online, link dalla scheda Google.",
  "ogtitle":"App prenotazioni e appuntamenti — Danova Tech",
  "ogdesc":"Prenotazioni 24 ore su 24, promemoria automatici e meno assenze. Per studi, centri, campi sportivi, cantine e officine.",

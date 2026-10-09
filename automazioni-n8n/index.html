@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Automazioni n8n per aziende: consulenza e sviluppo | Danova Tech</title>
+<meta name="description" content="Automazioni con n8n per aziende: colleghiamo gestionale, CRM, email, WhatsApp e AI. n8n su server europeo, alternativa a Zapier e Make senza costi a operazione.">
+<link rel="canonical" href="https://danova-tech.com/automazioni-n8n/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/automazioni-n8n/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/automazioni-n8n/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/automazioni-n8n/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Automazioni con n8n — Danova Tech">
+<meta property="og:description" content="I lavori ripetitivi fra un software e l&#x27;altro, fatti da soli. Con n8n installato su un server vostro, in Europa.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Automazioni con n8n — Danova Tech">
+<meta name="twitter:description" content="I lavori ripetitivi fra un software e l&#x27;altro, fatti da soli. Con n8n installato su un server vostro, in Europa.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/og-cover.jpg">
+
+<link rel="icon" type="image/png" href="../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 10
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        }
+      ],
+      "knowsAbout": [
+        "Sviluppo software su misura",
+        "Software gestionale aziendale",
+        "ERP per PMI",
+        "CRM aziendale",
+        "Gestione commesse",
+        "Software MES per la produzione",
+        "Gestione del magazzino",
+        "Tracciabilità di filiera",
+        "Gestione documentale",
+        "Fatturazione elettronica",
+        "Integrazione di software aziendali",
+        "API e sincronizzazioni",
+        "Automazione dei processi aziendali",
+        "Intelligenza artificiale applicata alle imprese",
+        "Chatbot e agenti AI",
+        "Sviluppo di applicazioni aziendali",
+        "App per rapportini e timbrature",
+        "Realizzazione di siti web",
+        "E-commerce B2B e B2C",
+        "SEO e posizionamento sui motori di ricerca",
+        "Google Ads",
+        "Digitalizzazione delle PMI"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-sales",
+          "contactType": "sales",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English",
+            "German"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-support",
+          "contactType": "customer support",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English"
+          ]
+        }
+      ],
+      "disambiguatingDescription": "Danova Tech è una software house e agenzia digitale italiana con sede a Mansuè, in provincia di Treviso (P.IVA IT05369890263). Non ha alcun legame con Danova Analytics (danova.tech) né con Danova Tek (danovatek.com), società diverse e non collegate."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/automazioni-n8n/#service",
+      "name": "Automazioni con n8n",
+      "serviceType": "Automazione dei processi aziendali",
+      "description": "Progettazione, installazione su server europeo e manutenzione di automazioni n8n che collegano gestionale, CRM, email, e-commerce e servizi di intelligenza artificiale.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Automazioni con n8n",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Mappatura dei processi"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Installazione n8n su server europeo"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Automazioni con intelligenza artificiale"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Migrazione da Zapier e Make"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Monitoraggio e manutenzione"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/automazioni-n8n/#webpage",
+      "url": "https://danova-tech.com/automazioni-n8n/",
+      "name": "Automazioni n8n per aziende: consulenza e sviluppo | Danova Tech",
+      "description": "Automazioni con n8n per aziende: colleghiamo gestionale, CRM, email, WhatsApp e AI. n8n su server europeo, alternativa a Zapier e Make senza costi a operazione.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/automazioni-n8n/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/automazioni-n8n/#breadcrumb"
+      },
+      "datePublished": "2026-10-09",
+      "dateModified": "2026-10-09"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/automazioni-n8n/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Software e automazioni",
+          "item": "https://danova-tech.com/servizi/software-automazioni/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Automazioni n8n",
+          "item": "https://danova-tech.com/automazioni-n8n/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/automazioni-n8n/#faq",
+      "inLanguage": "it-IT",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cos'è n8n?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "È una piattaforma per automatizzare i flussi di lavoro collegando software diversi: gestionale, CRM, email, fogli di calcolo, e-commerce, servizi di intelligenza artificiale. Si può usare in cloud o installare su un server proprio."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "n8n è gratis?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La versione installabile su un server proprio si può usare per i processi interni dell'azienda senza costi di licenza a operazione; esistono anche piani in cloud e enterprise a pagamento. Restano i costi del server e della realizzazione delle automazioni."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Meglio n8n o Zapier?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Zapier è più semplice per automazioni leggere. n8n conviene quando le automazioni sono tante o complesse, quando servono logica e codice personalizzati o quando volete i dati su un server vostro in Europa."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si può collegare al nostro gestionale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Quasi sempre sì: tramite API, database, file di scambio o email. Se il gestionale non ha collegamenti, valutiamo la strada più solida prima di promettere."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Che cos'è l'RPA e che differenza c'è?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "L'RPA imita una persona che clicca sui programmi. È utile quando un software non ha alcun modo di essere collegato, ma è più fragile. Con n8n si lavora sulle API e sui dati, ed è più stabile."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un'automazione?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende da quante sono e da quanto sono complesse. Vi diamo un prezzo fisso dopo la mappatura, e vi diciamo quante ore al mese vi fa risparmiare: se il conto non torna, ve lo diciamo."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+</head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="../" class="brand" data-mag><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="../#servizi">Servizi</a>
+      <a href="../#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="../#processo">Processo</a>
+      <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+      <a href="../#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <span class="lang-links">
+        <a href="/automazioni-n8n/" hreflang="it" aria-current="page">IT</a>
+        </span>
+      <a href="../#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="../#servizi">Servizi</a>
+  <a href="../#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="../#processo">Processo</a>
+  <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+  <a href="../#contatti">Contatti</a>
+
+  <div class="mob-lang-links">
+    <a href="/automazioni-n8n/" hreflang="it" aria-current="page">IT</a>
+    </div>
+</nav>
+
+<main id="main">
+
+<div class="wrap pg-crumbs">
+  <a href="/">Home</a><em>/</em><a href="/servizi/software-automazioni/">Software e automazioni</a><em>/</em>Automazioni n8n
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>n8n · Zapier · Make · agenti AI</div>
+    <h1 data-rv="up">Automazioni con n8n: <span class="grad">i software parlano fra loro.</span></h1>
+    <p class="lead" data-rv="up">Ogni azienda ha qualcuno che passa ore a copiare dati da un programma all'altro: l'ordine dall'email al gestionale, il contatto dal modulo al CRM, la fattura dalla PEC alla cartella giusta. n8n è lo strumento con cui colleghiamo questi passaggi e li facciamo girare da soli, anche con l'intelligenza artificiale in mezzo quando serve leggere o decidere.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Raccontateci il lavoro ripetitivo</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#esempi" class="btn btn-g" data-mag><span class="lbl">Cosa si automatizza</span></a>
+    </div>
+  </div>
+</section>
+
+<section id="esempi">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Esempi reali</div>
+      <h2 class="title" data-rv="up">Cosa si automatizza<br><span class="grad">in una PMI</span></h2>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Ordini da email a gestionale</h3>
+        <p>L'ordine arriva in PDF per email. L'AI legge articoli e quantità, n8n crea la bozza d'ordine nel gestionale e la segnala a chi deve approvarla. Da venti minuti a pochi secondi per ordine.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Contatti dal sito al CRM</h3>
+        <p>Il modulo del sito, la campagna Meta e il messaggio WhatsApp finiscono nello stesso CRM, con la fonte, l'assegnazione al commerciale giusto e la risposta automatica entro un minuto.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Documenti nelle cartelle giuste</h3>
+        <p>Fatture, DDT e certificati estratti dalla PEC, rinominati, archiviati e registrati, con un avviso quando manca qualcosa.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Report che arrivano da soli</h3>
+        <p>Ogni lunedì il riepilogo di vendite, preventivi aperti e consegne in ritardo, preso da tre programmi diversi e mandato via email o Teams.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">05</span>
+        <h3>E-commerce e magazzino</h3>
+        <p>Ordini dello shop nel gestionale, giacenze aggiornate sul sito, etichette del corriere create, cliente avvisato con il tracking.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">06</span>
+        <h3>Agenti AI con le vostre regole</h3>
+        <p>Assistenti che rispondono alle richieste ripetitive dei clienti usando i vostri listini e documenti, e passano a una persona quando non sono sicuri.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="perche">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Perché n8n</div>
+      <h2 class="title" data-rv="up">n8n, Zapier o Make:<br><span class="grad">cosa scegliere</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Zapier e Make sono ottimi per partire e per automazioni semplici. Si pagano a operazione: quando le automazioni girano migliaia di volte al mese, il costo sale in fretta, e i dati passano da server fuori dal vostro controllo.</p>
+      <p><b>n8n</b> si può installare su un server vostro, in Europa, e la licenza permette l'uso interno senza costi a operazione. Collega centinaia di servizi già pronti e, quando un collegamento non esiste, si scrive in codice. Per un'azienda che manipola ordini, dati dei clienti e documenti, è la scelta che consigliamo più spesso.</p>
+      <p>Non è sempre la risposta giusta: se un'automazione è il cuore del vostro lavoro, a volte conviene scriverla direttamente nel gestionale. Ve lo diciamo dopo aver visto il processo.</p>
+    </div>
+  </div>
+</section>
+
+<section id="metodo">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Come lavoriamo</div>
+      <h2 class="title" data-rv="up">Dal lavoro manuale<br>all'<span class="grad">automazione che regge.</span></h2>
+    </div>
+    <ol class="pg-passi" data-rv="up">
+      <li><b>Mappatura</b><span>Guardiamo con chi fa il lavoro oggi ogni passaggio, le eccezioni e i casi strani. Le automazioni falliscono sulle eccezioni, non sul caso normale.</span></li>
+      <li><b>Prima automazione</b><span>Partiamo da quella che fa risparmiare più ore. Online in pochi giorni, con un controllo umano finché non ci fidiamo.</span></li>
+      <li><b>Installazione e sicurezza</b><span>n8n su server europeo, accessi con ruoli, credenziali cifrate, backup e registri di ogni esecuzione.</span></li>
+      <li><b>Monitoraggio</b><span>Se un'automazione fallisce, arriva un avviso e la vediamo noi prima che ve ne accorgiate voi.</span></li>
+    </ol>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>FAQ</div>
+      <h2 class="title" data-rv="up">Le domande <span class="grad">sulle automazioni.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Cos'è n8n?<span class="pm"></span></summary>
+        <div class="ans"><p>È una piattaforma per automatizzare i flussi di lavoro collegando software diversi: gestionale, CRM, email, fogli di calcolo, e-commerce, servizi di intelligenza artificiale. Si può usare in cloud o installare su un server proprio.</p></div></details>
+      <details data-rv="up"><summary>n8n è gratis?<span class="pm"></span></summary>
+        <div class="ans"><p>La versione installabile su un server proprio si può usare per i processi interni dell'azienda senza costi di licenza a operazione; esistono anche piani in cloud e enterprise a pagamento. Restano i costi del server e della realizzazione delle automazioni.</p></div></details>
+      <details data-rv="up"><summary>Meglio n8n o Zapier?<span class="pm"></span></summary>
+        <div class="ans"><p>Zapier è più semplice per automazioni leggere. n8n conviene quando le automazioni sono tante o complesse, quando servono logica e codice personalizzati o quando volete i dati su un server vostro in Europa.</p></div></details>
+      <details data-rv="up"><summary>Si può collegare al nostro gestionale?<span class="pm"></span></summary>
+        <div class="ans"><p>Quasi sempre sì: tramite API, database, file di scambio o email. Se il gestionale non ha collegamenti, valutiamo la strada più solida prima di promettere.</p></div></details>
+      <details data-rv="up"><summary>Che cos'è l'RPA e che differenza c'è?<span class="pm"></span></summary>
+        <div class="ans"><p>L'RPA imita una persona che clicca sui programmi. È utile quando un software non ha alcun modo di essere collegato, ma è più fragile. Con n8n si lavora sulle API e sui dati, ed è più stabile.</p></div></details>
+      <details data-rv="up"><summary>Quanto costa un'automazione?<span class="pm"></span></summary>
+        <div class="ans"><p>Dipende da quante sono e da quanto sono complesse. Vi diamo un prezzo fisso dopo la mappatura, e vi diciamo quante ore al mese vi fa risparmiare: se il conto non torna, ve lo diciamo.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="pg-cta">
+  <div class="wrap">
+    <div class="box" data-rv="up">
+      <h2 class="title">Qual è il lavoro che odiate di più?</h2>
+      <p>Raccontateci un'attività che fate a mano ogni settimana. Vi diciamo se si può automatizzare e quante ore vi restituisce.</p>
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Prenota la chiamata gratuita</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Pagine collegate</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/automazione-processi-aziendali/">Automazione processi aziendali</a>
+      <a href="/integrazione-software-aziendali/">Integrazione software aziendali</a>
+      <a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a>
+      <a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a>
+      <a href="/ai-act-aziende/">AI Act per le aziende</a>
+      <a href="/crm-aziendale/">CRM aziendale</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="../servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="../servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="../servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="../servizi/google-ads/">Google Ads</a></li>
+        <li><a href="../servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="../servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="../servizi/software-automazioni/">Software &amp; automazioni</a></li>
+      
+        <li><a href="/servizi/allestimenti-fieristici/">Allestimenti fieristici</a></li>
+      </ul></div>
+      <div><h5>Siti web</h5><ul>
+        <li><a href="../realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="../realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
+        <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
+        <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
+      </ul></div>
+      <div><h5>Gestionali</h5><ul>
+        <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="../gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="../gestionali-su-misura-pordenone/">Gestionali a Pordenone</a></li>
+        <li><a href="../gestionali-su-misura-venezia-mestre/">Gestionali a Venezia e Mestre</a></li>
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
+        <li><a href="../software-gestionale-produzione/">Gestionale per la produzione</a></li>
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="../software-gestionale-magazzino/">Gestionale di magazzino</a></li>
+        <li><a href="../software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a></li>
+        <li><a href="../quanto-costa-un-gestionale/">Quanto costa un gestionale</a></li>
+      
+        <li><a href="/software-gestionale-manutenzioni/">Gestione manutenzione</a></li>
+        <li><a href="/software-contabilita-aziendale/">Contabilità aziendale</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/software-house-veneto/">Software house in Veneto</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
+      
+        <li><a href="../software-per-pmi/">Software per PMI</a></li>
+        <li><a href="../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="/gestione-documentale-aziendale/">Gestione documentale aziendale</a></li>
+      
+        <li><a href="/app-magazzino-codici-a-barre/">App magazzino e codici a barre</a></li>
+        <li><a href="/app-per-agenti-di-commercio/">App per agenti di commercio</a></li>
+        <li><a href="/app-rapportini-di-lavoro/">App rapportini di lavoro</a></li>
+        <li><a href="/app-per-personal-trainer/">App per personal trainer</a></li>
+        <li><a href="/gestionale-palestra/">Gestionale palestra</a></li>
+        <li><a href="/app-prenotazioni/">App prenotazioni</a></li>
+        <li><a href="/app-fidelizzazione-clienti/">App fidelizzazione clienti</a></li>
+        <li><a href="/sviluppo-web-app/">Sviluppo web app</a></li>
+        <li><a href="/sviluppo-app-aziendali-veneto/">App aziendali in Veneto</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="/posizionamento-sito-google/">Posizionamento su Google</a></li>
+        <li><a href="/consulente-seo-treviso/">Consulente SEO a Treviso</a></li>
+        <li><a href="/lead-generation-b2b/">Lead generation B2B</a></li>
+      
+        <li><a href="/migrazione-ecommerce/">Migrazione e-commerce</a></li>
+        <li><a href="/restyling-sito-web/">Restyling sito web</a></li>
+        <li><a href="/web-agency-conegliano/">Web agency Conegliano</a></li>
+        <li><a href="/web-agency-oderzo-motta-di-livenza/">Web agency Oderzo e Motta</a></li>
+        <li><a href="/aprire-un-negozio-online/">Aprire un negozio online</a></li>
+        <li><a href="/quanto-costa-un-ecommerce/">Quanto costa un e-commerce</a></li>
+        <li><a href="/quanto-costa-una-app/">Quanto costa un'app</a></li>
+      
+        <li><a href="/agenzia-seo-milano/">Agenzia SEO a Milano</a></li>
+        <li><a href="/agenzia-link-building/">Agenzia di link building</a></li>
+      </ul></div>
+      <div><h5>Settori</h5><ul>
+        <li><a href="/software-gestionale-edilizia/">Edilizia e cantieri</a></li>
+        <li><a href="/software-contabilita-cantiere/">Contabilità di cantiere</a></li>
+        <li><a href="/software-gestionale-impiantisti/">Impianti e manutenzioni</a></li>
+        <li><a href="/software-gestionale-metalmeccanica/">Metalmeccanica</a></li>
+        <li><a href="/software-gestionale-agroalimentare/">Agroalimentare</a></li>
+        <li><a href="/software-gestionale-noleggio/">Noleggio</a></li>
+        <li><a href="/software-gestionale-studi-professionali/">Studi professionali</a></li>
+        <li><a href="/software-gestionale-commesse/">Gestione commesse</a></li>
+        <li><a href="/gestionale-officina-meccanica/">Officine meccaniche</a></li>
+        <li><a href="/software-controllo-di-gestione/">Controllo di gestione</a></li>
+      </ul></div>
+      <div><h5>Fiere</h5><ul>
+        <li><a href="/servizi/allestimenti-fieristici/">Allestimenti fieristici</a></li>
+        <li><a href="/calendario-fiere/">Calendario fiere 2026–2027</a></li>
+        <li><a href="/montaggio-stand-fieristici/">Montaggio stand</a></li>
+        <li><a href="/stand-fieristici-su-misura/">Stand su misura</a></li>
+        <li><a href="/stand-modulari/">Stand modulari</a></li>
+        <li><a href="/noleggio-stand-fieristici/">Noleggio stand</a></li>
+        <li><a href="/quanto-costa-uno-stand-fieristico/">Quanto costa uno stand</a></li>
+        <li><a href="/allestimenti-eventi-showroom-negozi/">Eventi, showroom, negozi</a></li>
+        <li><a href="/allestimenti-fieristici-estero/">Fiere all'estero</a></li>
+        <li><a href="/allestimenti-fieristici-verona/">Stand a Verona</a></li>
+        <li><a href="/allestimenti-fieristici-milano/">Stand a Milano</a></li>
+        <li><a href="/allestimenti-fieristici-bologna/">Stand a Bologna</a></li>
+        <li><a href="/allestimenti-fieristici-padova/">Stand a Padova</a></li>
+        <li><a href="/allestimenti-fieristici-vicenza/">Stand a Vicenza</a></li>
+        <li><a href="/allestimenti-fieristici-pordenone/">Stand a Pordenone</a></li>
+        <li><a href="/allestimenti-fieristici-rimini/">Stand a Rimini</a></li>
+        <li><a href="/allestimenti-fieristici-parma/">Stand a Parma</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/prezzi/">Prezzi</a></li>
+        <li><a href="../#settori">Per chi lavoriamo</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="../#processo">Il nostro metodo</a></li>
+        <li><a href="../chi-siamo/">Chi siamo</a></li>
+        <li><a href="../servizi/">Tutti i servizi</a></li>
+        <li><a href="../#contatti">Contatti</a></li>
+      
+        <li><a href="../glossario/">Glossario</a></li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>

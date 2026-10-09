@@ -116,7 +116,9 @@ for d in C:
       [{"@type":"City","name":c}],["Stand preallestiti","Stand modulari","Stand su misura","Montaggio e smontaggio in fiera","Noleggio stand e arredi"],'it')
     node["location"]={"@type":"Place","name":d['q'],"address":{"@type":"PostalAddress","addressLocality":c,"addressCountry":"IT"}}
     del node["location"]  # Service non ammette location: la sede fiera sta nella descrizione
-    print(build('it',P,f"Allestimenti fieristici a {c}: stand a {d['q']} | Danova Tech",
-      f"Allestimenti fieristici a {c}: stand chiavi in mano a {d['q']}. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.",
+    _t=f"Allestimenti fieristici a {c}: stand a {d['q']}"
+    _t=_t+" | Danova Tech" if len(_t)<=51 else _t
+    print(build('it',P,_t,
+      f"Allestimenti fieristici a {c}: stand chiavi in mano a {d['q']}. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.",
       f"Allestimenti fieristici a {c} — Danova Tech",f"Stand chiavi in mano a {d['q']}: progetto, materiali, componentistica e montatori in fiera.",
       [("Home","/"),("Allestimenti fieristici",PILLAR),(c,None)],m,qa,[node]))

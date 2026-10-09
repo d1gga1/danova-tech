@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 D={}
 D['fr']=dict(path='/fr/standiste-salon-italie/',
- title='Standiste en Italie et en Europe : stands de salon clés en main | Danova Tech',
- desc='Conception et montage de stands de salon en Italie et en Europe : projet 3D, matériaux, composants, graphisme, électricité et monteurs sur place à Milan, Vérone, Bologne.',
+ title='Standiste en Italie et en Europe : stands clés en main | Danova Tech',
+ desc='Conception et montage de stands de salon en Italie et en Europe : projet 3D, graphisme, électricité et monteurs sur place à Milan, Vérone, Bologne.',
  ogt='Standiste en Italie — Danova Tech',ogd='Stands de salon clés en main en Italie et en Europe : projet, matériaux, composants et monteurs sur place.',
  crumbs=[('Accueil','/fr/'),('Services','/fr/#servizi'),('Stands de salon',None)],
  eyebrow='Stands de salon · Italie & Europe',
@@ -42,8 +42,8 @@ D['fr']=dict(path='/fr/standiste-salon-italie/',
  svc_name='Conception et montage de stands de salon',svc_desc="Stands de salon clés en main en Italie et en Europe : projet 3D, matériaux et composants, graphisme, électricité, éclairage et LED, montage et démontage sur place, logistique, stockage et formalités. Stands pré-équipés, modulaires, en tissu et sur mesure, à la location ou à l'achat.",
  offers=['Conception de stands','Stands modulaires','Stands sur mesure','Montage et démontage de stands','Location de stands'])
 D['es']=dict(path='/es/montaje-stands-feriales-italia/',
- title='Montaje de stands feriales en Italia y Europa, llave en mano | Danova Tech',
- desc='Diseño y montaje de stands feriales en Italia y Europa: proyecto 3D, materiales, componentes, gráfica, electricidad y montadores en la feria en Milán, Verona, Bolonia.',
+ title='Montaje de stands feriales en Italia y Europa | Danova Tech',
+ desc='Diseño y montaje de stands feriales en Italia y Europa: proyecto 3D, materiales, gráfica, electricidad y montadores en la feria en Milán, Verona, Bolonia.',
  ogt='Montaje de stands en Italia — Danova Tech',ogd='Stands feriales llave en mano en Italia y Europa: proyecto, materiales, componentes y montadores en la feria.',
  crumbs=[('Inicio','/es/'),('Servicios','/es/#servizi'),('Stands feriales',None)],
  eyebrow='Stands feriales · Italia y Europa',

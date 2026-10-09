@@ -28,3 +28,12 @@ Se allestite stand in altre fiere, mettete exp=True anche li'.
 - assets/js/calendario-fiere.js filtri + mappa (Leaflet 1.9.4 da cdnjs, mappa CARTO dark, caricata solo quando visibile)
 - assets/css/fiere.css          stili aggiunti in fondo
 - lib.py: build() ha due parametri in piu' (wp_extra, scripts). Backup: *.bak-2026-10-08
+
+## 9 ottobre 2026
+Dopo aver rilanciato questi script, rilanciare anche
+    python3 seo-tools/link-pagine-2026-10.py
+che rimette nei box "Pagine collegate" i link a /contributi-fiere-2026/ (e alle altre pagine
+del 9/10). Titoli e description delle pagine citta' ora sono sotto i limiti di Google
+(it_citta.py: il marchio "| Danova Tech" si toglie da solo se il titolo e' troppo lungo).
+Calendari per citta' (/calendario-fiere-bologna|milano|rimini|parma/): python3 build_calendari_citta.py
+(prendono le date da dati_calendario.py: rilanciarlo dopo ogni aggiornamento delle date).

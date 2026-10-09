@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-10-08 da https://danova-tech.com
+# Generato il 2026-10-09 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -297,6 +297,16 @@ Clienti
 ## Lavori consegnati, con nome e indirizzo.
 
 Progetti reali che potete aprire e guardare. Questa sezione cresce a ogni consegna.
+
+Leggi il caso studio
+
+Sito e SEO
+
+## Pan.door.a
+
+Produttore di porte per interni e pannelli tamburati di Fontanelle (TV). Sito nuovo, una pagina per prodotto e per zona, guide con i prezzi: da pochi clic al giorno a oltre cinquanta in tre mesi, con il grafico di Search Console pubblicato intero.
+
+Caso studio · pandooragroup.it
 
 Leggi il caso studio
 
@@ -1510,6 +1520,7 @@ Richiedi l'audit gratuito
 
 ## Approfondimenti collegati
 
+SEO per l’intelligenza artificiale
 SEO & posizionamento — il servizio
 Posizionamento su Google
 Consulente SEO
@@ -1522,9 +1533,128 @@ Prezzi
 
 
 ========================================================================
-# Allestimenti per eventi, congressi, showroom, negozi e mostre
+# AI Act per le aziende: obblighi e scadenze 2026
+URL: https://danova-tech.com/ai-act-aziende/
+Descrizione: AI Act spiegato alle PMI: cosa è già obbligatorio, cosa cambia con il Digital Omnibus, trasparenza dei chatbot dal 2 agosto 2026 e formazione del personale.
+========================================================================
+
+Home / Intelligenza artificiale per aziende / AI Act
+
+Regolamento UE 2024/1689 · aggiornato a ottobre 2026
+
+## AI Act per le aziende: cosa fare davvero.
+
+Il regolamento europeo sull'intelligenza artificiale riguarda anche le PMI che si limitano a usare ChatGPT o a mettere un chatbot sul sito. La buona notizia è che per la maggior parte delle aziende gli obblighi sono pochi e gestibili. Il Digital Omnibus del 2026 ha spostato in avanti le regole sui sistemi ad alto rischio, ma alcune cose valgono già oggi.
+
+Controlliamo i vostri strumenti AI
+
+Il calendario
+
+Il calendario aggiornato
+
+## Le date che contano, dopo il Digital Omnibus
+
+Il Regolamento (UE) 2026/1744, il cosiddetto Digital Omnibus sull'AI, è in vigore dal 27 luglio 2026 e ha modificato alcune scadenze.
+
+- 2 febbraio 2025 Pratiche di AI vietate e obbligo di adottare misure per la formazione del personale che usa l'AI. Già in vigore.
+
+- 2 agosto 2026 Applicazione generale del regolamento e obblighi di trasparenza: chi parla con un chatbot deve saperlo, i contenuti sintetici vanno dichiarati.
+
+- 2 dicembre 2026 Marcatura tecnica dei contenuti generati per i sistemi già sul mercato e due nuovi divieti, fra cui i deepfake intimi non consensuali.
+
+- 2 dicembre 2027 e 2 agosto 2028 Obblighi per i sistemi ad alto rischio: quelli dell'allegato III, per esempio selezione del personale, credito e istruzione, slittano a dicembre 2027; quelli dentro prodotti regolati ad agosto 2028.
+
+Per una PMI tipica
+
+## Cosa fare se usate l'AI in azienda
+
+Una PMI che usa assistenti AI, un chatbot sul sito o un software con funzioni di AI è, per il regolamento, un deployer. Ecco cosa le serve.
+
+01
+
+## Un elenco degli strumenti
+
+Quali strumenti AI usate, chi li usa, per cosa e con quali dati. Spesso è la prima volta che l'azienda scopre quanti ne girano: è anche la base per la privacy.
+
+02
+
+## Formazione documentata
+
+L'obbligo resta, in forma più leggera: misure per sostenere la competenza di chi usa l'AI, senza un livello minimo da certificare. Una formazione breve e registrata su funzionamento, limiti ed errori tipici è la risposta proporzionata.
+
+03
+
+## Chatbot dichiarato
+
+Se sul sito o su WhatsApp risponde un assistente AI, l'utente deve capirlo in modo chiaro, non da una clausola nelle condizioni d'uso. Lo stesso per testi, immagini o video generati pubblicati come informazione.
+
+04
+
+## Regole interne sull'uso
+
+Cosa si può incollare negli assistenti e cosa no: dati dei clienti, contratti, progetti. Quali strumenti sono approvati. Mezza pagina scritta vale più di dieci riunioni.
+
+05
+
+## Attenzione all'alto rischio
+
+Se usate l'AI per scegliere candidati, valutare dipendenti o concedere credito, entrate nell'alto rischio: avete tempo fino a dicembre 2027, ma il progetto va impostato adesso.
+
+06
+
+## Legge italiana sull'AI
+
+La legge 132/2025 aggiunge regole nazionali, fra cui l'informazione ai lavoratori quando si usano sistemi di AI e l'obbligo per i professionisti di informare i clienti.
+
+Cosa facciamo noi
+
+## Strumenti AI già in regola
+
+Quando realizziamo un chatbot, un agente AI o un'automazione, la trasparenza la mettiamo nel progetto: l'avviso che si sta parlando con un assistente, il passaggio a una persona, i registri delle conversazioni, i dati su server europei e la possibilità di cancellarli.
+
+Possiamo anche aiutarvi a fare l'elenco degli strumenti AI in uso e a preparare la formazione interna. Per gli aspetti legali e per i sistemi ad alto rischio, invece, serve un avvocato o un consulente specializzato: siamo una software house, e questa pagina è un riassunto delle fonti pubbliche, non un parere legale.
+
+FAQ
+
+## Le domande sull'AI Act.
+
+L'AI Act riguarda anche le piccole aziende?
+Sì. Riguarda chi sviluppa sistemi di AI e anche chi li usa in azienda, compresi assistenti come ChatGPT e chatbot sul sito. Per una PMI che non usa sistemi ad alto rischio gli obblighi principali sono la formazione del personale e la trasparenza verso chi interagisce con l'AI.
+
+Cosa ha cambiato il Digital Omnibus?
+Il Regolamento (UE) 2026/1744, in vigore dal 27 luglio 2026, ha rinviato gli obblighi per i sistemi ad alto rischio al 2 dicembre 2027 e al 2 agosto 2028, ha reso più leggero l'obbligo di alfabetizzazione e ha esteso alcune semplificazioni alle imprese medio-piccole. Gli obblighi di trasparenza sono rimasti al 2 agosto 2026.
+
+La formazione sull'AI è obbligatoria?
+Resta l'obbligo di adottare misure per sostenere la competenza di chi usa l'AI per conto dell'azienda, senza dover garantire un livello minimo. In pratica: una formazione proporzionata all'uso, documentata e ripetuta quando cambiano gli strumenti.
+
+Devo dire che sul sito risponde un chatbot?
+Sì. Dal 2 agosto 2026 chi interagisce con un sistema di AI deve esserne informato in modo chiaro, salvo che sia evidente dal contesto. Il modo più semplice è un messaggio di benvenuto che lo dichiara e un pulsante per parlare con una persona.
+
+Quali sono le sanzioni?
+Per le violazioni degli obblighi di trasparenza arrivano fino a 15 milioni di euro o al 3% del fatturato mondiale, con importi ridotti per le PMI. Per le pratiche vietate le cifre sono più alte.
+
+Mi fate voi l'adeguamento legale?
+No: per il parere legale serve un avvocato. Noi rendiamo conformi gli strumenti che sviluppiamo, vi aiutiamo a censire quelli che usate e a preparare formazione e regole interne.
+
+## Usate l'AI in azienda e non sapete se siete a posto?
+
+Elenchiamo con voi gli strumenti AI in uso e vi diciamo cosa sistemare per primo: chatbot, regole interne, formazione. Mezz'ora, gratis.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Intelligenza artificiale per aziende
+Chatbot aziendale e agenti AI
+Automazioni con n8n
+SEO per l’intelligenza artificiale
+Automazione processi aziendali
+
+
+========================================================================
+# Allestimenti per eventi, showroom, negozi e mostre
 URL: https://danova-tech.com/allestimenti-eventi-showroom-negozi/
-Descrizione: Allestimenti per eventi aziendali e congressi, showroom, negozi, temporary store e mostre d'arte: progetto, materiali, grafica, luci e montaggio. Oltre 25 anni di esperienza.
+Descrizione: Allestimenti per eventi aziendali e congressi, showroom, negozi, temporary store e mostre: progetto, grafica, luci e montaggio. Oltre 25 anni di esperienza.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Eventi, showroom, negozi e mostre
@@ -1919,7 +2049,7 @@ Quanto costa uno stand
 ========================================================================
 # Allestimenti fieristici a Bologna: stand a BolognaFiere
 URL: https://danova-tech.com/allestimenti-fieristici-bologna/
-Descrizione: Allestimenti fieristici a Bologna: stand chiavi in mano a BolognaFiere. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Bologna: stand chiavi in mano a BolognaFiere. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Bologna
@@ -2047,6 +2177,7 @@ Richiedi un preventivo gratuito
 
 ## Altre città e servizi
 
+Calendario fiere Bologna
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -2506,7 +2637,7 @@ Quanto costa uno stand
 ========================================================================
 # Stand per fiere all'estero: Germania, Francia, Spagna
 URL: https://danova-tech.com/allestimenti-fieristici-estero/
-Descrizione: Allestimenti fieristici all'estero per aziende italiane: progetto, produzione, trasporto internazionale, montatori e smontaggio in Germania, Francia, Spagna e in Europa.
+Descrizione: Allestimenti fieristici all'estero per aziende italiane: progetto, produzione, trasporto, montatori e smontaggio in Germania, Francia, Spagna e Europa.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Fiere all'estero
@@ -2603,6 +2734,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Contributi per le fiere 2026
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -3090,7 +3222,7 @@ Quanto costa uno stand
 ========================================================================
 # Allestimenti fieristici a Milano: stand a Fiera Milano Rho
 URL: https://danova-tech.com/allestimenti-fieristici-milano/
-Descrizione: Allestimenti fieristici a Milano: stand chiavi in mano a Fiera Milano Rho. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Milano: stand chiavi in mano a Fiera Milano Rho. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Milano
@@ -3224,6 +3356,7 @@ Richiedi un preventivo gratuito
 
 ## Altre città e servizi
 
+Calendario fiere Milano
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -3391,7 +3524,7 @@ Quanto costa uno stand
 ========================================================================
 # Allestimenti fieristici a Padova: stand a Fiera di Padova
 URL: https://danova-tech.com/allestimenti-fieristici-padova/
-Descrizione: Allestimenti fieristici a Padova: stand chiavi in mano a Fiera di Padova. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Padova: stand chiavi in mano a Fiera di Padova. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Padova
@@ -3513,7 +3646,7 @@ Stand a Parma
 ========================================================================
 # Allestimenti fieristici a Parma: stand a Fiere di Parma
 URL: https://danova-tech.com/allestimenti-fieristici-parma/
-Descrizione: Allestimenti fieristici a Parma: stand chiavi in mano a Fiere di Parma. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Parma: stand chiavi in mano a Fiere di Parma. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Parma
@@ -3629,6 +3762,7 @@ Richiedi un preventivo gratuito
 
 ## Altre città e servizi
 
+Calendario fiere Parma
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -3651,7 +3785,7 @@ Stand a Rimini
 ========================================================================
 # Allestimenti fieristici a Pordenone: stand a Pordenone Fiere
 URL: https://danova-tech.com/allestimenti-fieristici-pordenone/
-Descrizione: Allestimenti fieristici a Pordenone: stand chiavi in mano a Pordenone Fiere. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Pordenone: stand chiavi in mano a Pordenone Fiere. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Pordenone
@@ -3783,7 +3917,7 @@ Stand a Parma
 ========================================================================
 # Allestimenti fieristici a Rimini: stand a Rimini Expo Centre
 URL: https://danova-tech.com/allestimenti-fieristici-rimini/
-Descrizione: Allestimenti fieristici a Rimini: stand chiavi in mano a Rimini Expo Centre. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Rimini: stand chiavi in mano a Rimini Expo Centre. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Rimini
@@ -3901,6 +4035,7 @@ Richiedi un preventivo gratuito
 
 ## Altre città e servizi
 
+Calendario fiere Rimini
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -4812,7 +4947,7 @@ Quanto costa uno stand
 ========================================================================
 # Allestimenti fieristici a Verona: stand a Veronafiere
 URL: https://danova-tech.com/allestimenti-fieristici-verona/
-Descrizione: Allestimenti fieristici a Verona: stand chiavi in mano a Veronafiere. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Verona: stand chiavi in mano a Veronafiere. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Verona
@@ -4946,7 +5081,7 @@ Stand a Parma
 ========================================================================
 # Allestimenti fieristici a Vicenza: stand a Fiera di Vicenza
 URL: https://danova-tech.com/allestimenti-fieristici-vicenza/
-Descrizione: Allestimenti fieristici a Vicenza: stand chiavi in mano a Fiera di Vicenza. Progetto 3D, materiali, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
+Descrizione: Allestimenti fieristici a Vicenza: stand chiavi in mano a Fiera di Vicenza. Progetto 3D, grafica, impianti e montatori in fiera, a noleggio o in acquisto.
 ========================================================================
 
 Home / Allestimenti fieristici / Vicenza
@@ -5450,6 +5585,7 @@ La domanda sul terminale viene sempre subito, e la risposta è che nella maggior
 
 ## Pagine collegate
 
+Software WMS
 Gestionale di magazzino
 App su misura
 Gestionale agroalimentare e tracciabilità
@@ -5710,6 +5846,7 @@ Nella nostra esperienza il ritorno arriva dalla combinazione: un agente che apre
 
 ## Pagine collegate
 
+Portale rivenditori B2B
 App su misura
 CRM aziendale
 E-commerce B2B
@@ -5854,7 +5991,7 @@ Prezzi
 
 
 ========================================================================
-# App per prenotazioni e appuntamenti
+# App e gestionale prenotazioni e appuntamenti
 URL: https://danova-tech.com/app-prenotazioni/
 Descrizione: App e sistema di prenotazione su misura: calendario di persone, sale e campi, promemoria contro le assenze, caparra online, link dalla scheda Google.
 ========================================================================
@@ -5972,6 +6109,7 @@ Prenota la chiamata
 
 ## Pagine collegate
 
+Siti web per ristoranti Siti web per hotel e B&B
 Sviluppo app su misura
 App per personal trainer
 Gestionale per palestre
@@ -6474,6 +6612,7 @@ Dal punto che oggi fa più male e che si misura meglio, che di solito è un trav
 
 ## Pagine collegate
 
+Automazioni con n8n Bandi digitalizzazione 2026 in Veneto
 Software & automazioni
 Intelligenza artificiale per aziende
 Software house
@@ -6488,9 +6627,1034 @@ Gestione documentale
 
 
 ========================================================================
-# Calendario fiere 2026–2027 Italia ed Europa, con mappa
+# Automazioni n8n per aziende: consulenza e sviluppo
+URL: https://danova-tech.com/automazioni-n8n/
+Descrizione: Automazioni con n8n per aziende: colleghiamo gestionale, CRM, email, WhatsApp e AI. n8n su server europeo, alternativa a Zapier e Make senza costi a operazione.
+========================================================================
+
+Home / Software e automazioni / Automazioni n8n
+
+n8n · Zapier · Make · agenti AI
+
+## Automazioni con n8n: i software parlano fra loro.
+
+Ogni azienda ha qualcuno che passa ore a copiare dati da un programma all'altro: l'ordine dall'email al gestionale, il contatto dal modulo al CRM, la fattura dalla PEC alla cartella giusta. n8n è lo strumento con cui colleghiamo questi passaggi e li facciamo girare da soli, anche con l'intelligenza artificiale in mezzo quando serve leggere o decidere.
+
+Raccontateci il lavoro ripetitivo
+
+Cosa si automatizza
+
+Esempi reali
+
+## Cosa si automatizza in una PMI
+
+01
+
+## Ordini da email a gestionale
+
+L'ordine arriva in PDF per email. L'AI legge articoli e quantità, n8n crea la bozza d'ordine nel gestionale e la segnala a chi deve approvarla. Da venti minuti a pochi secondi per ordine.
+
+02
+
+## Contatti dal sito al CRM
+
+Il modulo del sito, la campagna Meta e il messaggio WhatsApp finiscono nello stesso CRM, con la fonte, l'assegnazione al commerciale giusto e la risposta automatica entro un minuto.
+
+03
+
+## Documenti nelle cartelle giuste
+
+Fatture, DDT e certificati estratti dalla PEC, rinominati, archiviati e registrati, con un avviso quando manca qualcosa.
+
+04
+
+## Report che arrivano da soli
+
+Ogni lunedì il riepilogo di vendite, preventivi aperti e consegne in ritardo, preso da tre programmi diversi e mandato via email o Teams.
+
+05
+
+## E-commerce e magazzino
+
+Ordini dello shop nel gestionale, giacenze aggiornate sul sito, etichette del corriere create, cliente avvisato con il tracking.
+
+06
+
+## Agenti AI con le vostre regole
+
+Assistenti che rispondono alle richieste ripetitive dei clienti usando i vostri listini e documenti, e passano a una persona quando non sono sicuri.
+
+Perché n8n
+
+## n8n, Zapier o Make: cosa scegliere
+
+Zapier e Make sono ottimi per partire e per automazioni semplici. Si pagano a operazione: quando le automazioni girano migliaia di volte al mese, il costo sale in fretta, e i dati passano da server fuori dal vostro controllo.
+
+n8n si può installare su un server vostro, in Europa, e la licenza permette l'uso interno senza costi a operazione. Collega centinaia di servizi già pronti e, quando un collegamento non esiste, si scrive in codice. Per un'azienda che manipola ordini, dati dei clienti e documenti, è la scelta che consigliamo più spesso.
+
+Non è sempre la risposta giusta: se un'automazione è il cuore del vostro lavoro, a volte conviene scriverla direttamente nel gestionale. Ve lo diciamo dopo aver visto il processo.
+
+Come lavoriamo
+
+## Dal lavoro manuale all' automazione che regge.
+
+- Mappatura Guardiamo con chi fa il lavoro oggi ogni passaggio, le eccezioni e i casi strani. Le automazioni falliscono sulle eccezioni, non sul caso normale.
+
+- Prima automazione Partiamo da quella che fa risparmiare più ore. Online in pochi giorni, con un controllo umano finché non ci fidiamo.
+
+- Installazione e sicurezza n8n su server europeo, accessi con ruoli, credenziali cifrate, backup e registri di ogni esecuzione.
+
+- Monitoraggio Se un'automazione fallisce, arriva un avviso e la vediamo noi prima che ve ne accorgiate voi.
+
+FAQ
+
+## Le domande sulle automazioni.
+
+Cos'è n8n?
+È una piattaforma per automatizzare i flussi di lavoro collegando software diversi: gestionale, CRM, email, fogli di calcolo, e-commerce, servizi di intelligenza artificiale. Si può usare in cloud o installare su un server proprio.
+
+n8n è gratis?
+La versione installabile su un server proprio si può usare per i processi interni dell'azienda senza costi di licenza a operazione; esistono anche piani in cloud e enterprise a pagamento. Restano i costi del server e della realizzazione delle automazioni.
+
+Meglio n8n o Zapier?
+Zapier è più semplice per automazioni leggere. n8n conviene quando le automazioni sono tante o complesse, quando servono logica e codice personalizzati o quando volete i dati su un server vostro in Europa.
+
+Si può collegare al nostro gestionale?
+Quasi sempre sì: tramite API, database, file di scambio o email. Se il gestionale non ha collegamenti, valutiamo la strada più solida prima di promettere.
+
+Che cos'è l'RPA e che differenza c'è?
+L'RPA imita una persona che clicca sui programmi. È utile quando un software non ha alcun modo di essere collegato, ma è più fragile. Con n8n si lavora sulle API e sui dati, ed è più stabile.
+
+Quanto costa un'automazione?
+Dipende da quante sono e da quanto sono complesse. Vi diamo un prezzo fisso dopo la mappatura, e vi diciamo quante ore al mese vi fa risparmiare: se il conto non torna, ve lo diciamo.
+
+## Qual è il lavoro che odiate di più?
+
+Raccontateci un'attività che fate a mano ogni settimana. Vi diciamo se si può automatizzare e quante ore vi restituisce.
+
+Prenota la chiamata gratuita
+
+## Pagine collegate
+
+Automazione processi aziendali
+Integrazione software aziendali
+Chatbot aziendale e agenti AI
+Intelligenza artificiale per aziende
+AI Act per le aziende
+CRM aziendale
+
+
+========================================================================
+# Bandi e voucher digitalizzazione 2026 in Veneto
+URL: https://danova-tech.com/bandi-digitalizzazione-veneto-2026/
+Descrizione: Bandi digitalizzazione 2026 per imprese venete: voucher della Camera di Commercio Treviso-Belluno, bandi regionali e iperammortamento. Cosa finanziano davvero.
+========================================================================
+
+Home / Digitalizzazione aziendale / Bandi 2026
+
+Veneto · contributi · aggiornato a ottobre 2026
+
+## Bandi e voucher digitalizzazione 2026: cosa c'è davvero in Veneto.
+
+Chi cerca un bando per la digitalizzazione trova decine di pagine che promettono il 70% a fondo perduto. La realtà del 2026 è più stretta: i fondi camerali finiscono in pochi giorni, e molti bandi finanziano macchinari e software energetici, non un sito o un gestionale da soli. Qui mettiamo in fila cosa c'è, cosa copre e quando conviene non aspettare il bando.
+
+Parliamo del vostro progetto
+
+Cosa c'è nel 2026
+
+Il quadro 2026
+
+## Le misure per le imprese venete
+
+01
+
+## Camera di Commercio Treviso-Belluno: doppia transizione 2026
+
+Contributo del 50% fino a 40.000 euro per impresa, spesa minima 5.000 euro, per beni e software 4.0 e soluzioni di monitoraggio energetico. Domande dall'8 luglio al 23 ottobre 2026: la dotazione di 1,4 milioni è già esaurita e le nuove domande vanno in lista d'attesa.
+
+02
+
+## Regione Veneto: transizione delle imprese
+
+Contributo fino al 30% per investimenti in digitalizzazione ed economia circolare, in alternativa finanziamento agevolato o leasing. Si rivolge a impianti, macchinari e processi produttivi più che a progetti solo software.
+
+03
+
+## Iperammortamento 2026
+
+L'agevolazione fiscale nazionale che dal 2026 ha preso il posto dei crediti Transizione 4.0 e 5.0. Il software rientra se è nell'elenco dei beni immateriali ammessi ed è collegato a beni strumentali. Non è un contributo a fondo perduto ma una maggiorazione del costo deducibile: si gestisce con il commercialista, con le comunicazioni sulla piattaforma del GSE.
+
+04
+
+## Bandi delle altre Camere venete
+
+Padova, Vicenza, Verona e Venezia Rovigo pubblicano bandi propri per la digitalizzazione, di solito una volta l'anno, con il circuito dei Punti Impresa Digitale. Percentuali e massimali cambiano a ogni edizione e le finestre durano poche settimane.
+
+Il punto che nessuno scrive
+
+## Cosa si finanzia e cosa no
+
+I bandi del 2026 seguono quasi tutti gli elenchi dei beni 4.0 e 5.0. Questo significa che un gestionale o un sito web da soli spesso non bastano . Nel bando Treviso-Belluno 2026, per esempio, il software di gestione d'impresa è ammesso solo se acquistato insieme a una soluzione di monitoraggio dei consumi energetici.
+
+Rientrano più facilmente: software collegati a macchinari interconnessi, MES e monitoraggio della produzione, sistemi di tracciabilità, cruscotti energetici, consulenze per introdurre tecnologie 4.0 legate a quegli acquisti. Rientrano a fatica o per niente: sito vetrina, e-commerce, campagne pubblicitarie, app di marketing.
+
+Per questo, prima di progettare, leggiamo con voi il testo del bando e costruiamo il progetto in modo che le voci ammissibili siano separate da quelle che non lo sono. Se il progetto non rientra, ve lo diciamo subito: è meglio partire senza contributo che rincorrere un bando sbagliato.
+
+Come ci muoviamo
+
+## Dal bando al progetto finanziabile.
+
+- Verifica di compatibilità Ci mandate il bando che vi interessa, o lo cerchiamo insieme. In mezz'ora capiamo se il vostro progetto può rientrare e in quale misura.
+
+- Progetto e preventivo a voci separate Analisi, sviluppo, licenze, formazione e consulenza su righe distinte, con la descrizione tecnica che il bando chiede: interconnessione, integrazione con i macchinari, monitoraggio.
+
+- Domanda con il vostro consulente La domanda la presentate voi o il vostro commercialista. Noi forniamo relazione tecnica, preventivi e schede del software.
+
+- Rendicontazione Fatture con le date giuste, documentazione del collaudo e, quando serve, dichiarazione di interconnessione del software ai sistemi aziendali.
+
+Se il bando non c'è
+
+## Quando conviene non aspettare
+
+Un bando copre di solito fra il 30 e il 50% della spesa. Se un processo vi costa ore ogni settimana, sei mesi di attesa per un bando che poi chiude in tre giorni possono valere più del contributo stesso.
+
+Per i progetti più piccoli esistono anche formule che non richiedono un investimento iniziale: un'applicazione web a canone mensile, per esempio, si avvia subito e si può sostituire o ampliare quando arriva un bando adatto. Trovate le cifre sul nostro listino prezzi .
+
+Fonti ufficiali da controllare prima di decidere: Camera di Commercio Treviso-Belluno , Punto Impresa Digitale , Regione del Veneto . Dati aggiornati a ottobre 2026.
+
+FAQ
+
+## Le domande sui bandi.
+
+Ci sono voucher per la digitalizzazione nel 2026 in Veneto?
+Sì, ma con fondi limitati. La Camera di Commercio di Treviso-Belluno ha aperto il bando doppia transizione 2026 (50% fino a 40.000 euro, domande fino al 23 ottobre 2026), con dotazione già esaurita e lista d'attesa. Le altre Camere venete e la Regione pubblicano bandi propri durante l'anno.
+
+Un gestionale su misura è finanziabile?
+Dipende dal bando. Molti bandi 2026 ammettono il software di gestione solo se collegato a beni 4.0 o a un sistema di monitoraggio energetico. Un gestionale integrato con macchinari, produzione o magazzino ha molte più probabilità di un gestionale amministrativo da solo.
+
+Il sito web o l'e-commerce rientrano nei bandi digitalizzazione?
+Nei bandi del 2026 sempre meno: la maggior parte segue gli elenchi dei beni 4.0 e 5.0, che non comprendono sito vetrina, e-commerce o pubblicità online. Alcuni bandi camerali dedicati all'e-commerce o all'internazionalizzazione escono a parte durante l'anno.
+
+Cosa ha sostituito Transizione 5.0?
+Dal 2026 l'agevolazione principale per gli investimenti in beni strumentali, anche digitali, è l'iperammortamento. Per i dettagli e per capire se il vostro investimento rientra, leggete la nostra guida alla Transizione 5.0 e parlatene con il commercialista.
+
+Presentate voi la domanda?
+No. La domanda la presenta l'impresa, di solito con il commercialista o l'associazione di categoria. Noi prepariamo la parte tecnica: progetto, preventivi separati, relazione e documentazione per la rendicontazione.
+
+Questi dati sono aggiornati?
+Sono aggiornati a ottobre 2026. I bandi cambiano spesso e il testo ufficiale dell'ente fa sempre fede.
+
+## Avete un bando sotto mano e un progetto in testa?
+
+Mandateci il link del bando e due righe sul progetto: vi diciamo se e come può rientrare, prima che spendiate tempo nella domanda.
+
+Verifica il tuo progetto
+
+## Pagine collegate
+
+Iperammortamento 2026
+Digitalizzazione aziendale
+Transizione 5.0 nel 2026
+Software MES per la produzione
+Gestionali su misura in Veneto
+Automazione processi aziendali
+Intelligenza artificiale per aziende
+Contributi per le fiere 2026
+Prezzi
+
+
+========================================================================
+# Calendario fiere Bologna 2026–2027: date a BolognaFiere
+URL: https://danova-tech.com/calendario-fiere-bologna/
+Descrizione: Calendario fiere Bologna 2026 e 2027: date delle principali fiere a BolognaFiere, settori e siti ufficiali. Esponi? Richiedi lo stand chiavi in mano.
+========================================================================
+
+Home / Allestimenti fieristici / Calendario fiere / Fiere Bologna
+
+Calendario fiere Bologna · 2026–2027
+
+## Calendario fiere Bologna 2026–2027: le date a BolognaFiere .
+
+Le date delle principali fiere internazionali a BolognaFiere nei prossimi mesi: Auto e Moto d'Epoca, EIMA International, Marca by BolognaFiere, Arte Fiera e le altre. Per ogni fiera trovi date, settore, sito ufficiale e, se esponi, la richiesta dello stand già compilata.
+
+11 fiere BolognaFiere Aggiornato al 8 ottobre 2026
+
+Vedi le date
+
+Richiedi uno stand
+
+## Le fiere a Bologna, in ordine di data
+
+Le date sono quelle pubblicate dagli organizzatori. Il calendario riporta le principali fiere internazionali e di settore: per l'elenco completo, comprese le fiere per il pubblico, consulta il calendario ufficiale del quartiere fieristico.
+
+-
+22 ott 2026
+
+## Auto e Moto d'Epoca
+22–25 ottobre 2026 · Auto e moto
+
+Richiedi lo stand Sito ufficiale
+
+-
+10 nov 2026
+
+## EIMA International
+10–14 novembre 2026 · Agricoltura e zootecnia · Biennale
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+13 gen 2027
+
+## Marca by BolognaFiere
+13–14 gennaio 2027 · Food & beverage
+
+Richiedi lo stand Sito ufficiale
+
+-
+5 feb 2027
+
+## Arte Fiera
+5–7 febbraio 2027 · Arte, libri e cultura
+
+Richiedi lo stand Sito ufficiale
+
+-
+21 feb 2027
+
+## Sana Food
+21–23 febbraio 2027 · Food & beverage
+
+Richiedi lo stand Sito ufficiale
+
+-
+3 mar 2027
+
+## MECSPE
+3–5 marzo 2027 · Meccanica e industria
+
+Richiedi lo stand Sito ufficiale
+
+-
+18 mar 2027
+
+## Cosmoprof Worldwide Bologna
+18–21 marzo 2027 · Cosmetica e beauty · Cosmopack e Cosmo Perfumery & Cosmetics 18–20, Cosmo Hair Nail & Beauty Salon 18–21
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+5 apr 2027
+
+## Bologna Children's Book Fair
+5–8 aprile 2027 · Arte, libri e cultura
+
+Richiedi lo stand Sito ufficiale
+
+-
+11 mag 2027
+
+## Zoomark
+11–13 maggio 2027 · Sport e tempo libero
+
+Richiedi lo stand Sito ufficiale
+
+-
+27 set 2027
+
+## Cersaie
+27 settembre – 1 ottobre 2027 · Edilizia, energia e impianti
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+10 nov 2027
+
+## Refrigera
+10–12 novembre 2027 · Edilizia, energia e impianti
+
+Richiedi lo stand Sito ufficiale
+
+Calendario ufficiale completo: bolognafiere.it
+
+## Il quartiere fieristico di Bologna
+
+BolognaFiere è uno dei quartieri fieristici più grandi d'Italia, a nord-est del centro, vicino alla tangenziale e all'uscita Fiera. Ospita fiere internazionali di riferimento per agricoltura, cosmetica, ceramica, meccanica ed editoria per ragazzi.
+
+Sede BolognaFiere
+
+Indirizzo Viale della Fiera 20, 40127 Bologna
+
+Fiere in calendario 11
+
+## Esporre a Bologna: cosa preparare
+
+Ogni fiera a BolognaFiere ha un regolamento tecnico con le regole per gli stand: altezze massime, materiali ignifughi, portata dei pavimenti, appendimenti al soffitto, consegna del progetto per l'approvazione. Le scadenze per inviarlo cadono di solito uno o due mesi prima della fiera, e lo stesso vale per l'ordine della potenza elettrica e degli allacci.
+
+I giorni di allestimento sono pochi e gli orari di carico e scarico sono assegnati: per uno stand su misura servono una squadra che conosce il quartiere, i mezzi giusti e i materiali già pronti. Noi seguiamo tutto: progetto e pratiche con l'ente fiera, produzione, trasporto, montaggio, smontaggio e magazzino fino alla prossima edizione.
+
+Se esponi a Bologna per la prima volta, leggi anche la nostra guida per preparare una fiera e la pagina con i contributi per le fiere 2026 .
+
+- 6 mesi prima. Prenotazione dell'area e brief dello stand.
+
+- 3–4 mesi prima. Progetto, render 3D e preventivo.
+
+- 1–2 mesi prima. Progetto all'ente fiera, potenza elettrica, pass.
+
+- In fiera. Montaggio nei giorni di allestimento, smontaggio a fine manifestazione.
+
+## Stand per le fiere di Bologna
+
+Stand Cosmoprof Stand Cersaie Stand EIMA
+
+## Richiedi lo stand
+
+Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
+
+- Preventivo voce per voce, gratuito
+- Anche con poco preavviso
+- Un unico referente fino allo smontaggio
+
+Fiera e città
+
+Metri quadri (anche indicativi)
+
+In linea (1 lato aperto) Ad angolo (2 lati aperti) A penisola (3 lati aperti) A isola (4 lati aperti) Non lo so ancora Tipo di spazio
+
+Nome e cognome
+
+Azienda
+
+Telefono
+
+Email (facoltativa)
+
+Cosa ti serve (facoltativo)
+
+Invia la richiesta su WhatsApp
+
+Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Quali sono le prossime fiere a Bologna?
+Le prossime fiere internazionali a BolognaFiere sono: Auto e Moto d'Epoca (22–25 ottobre 2026); EIMA International (10–14 novembre 2026); Marca by BolognaFiere (13–14 gennaio 2027); Arte Fiera (5–7 febbraio 2027); Sana Food (21–23 febbraio 2027); MECSPE (3–5 marzo 2027). Le date sono aggiornate a ottobre 2026: verificale sempre sul sito ufficiale prima di prenotare.
+
+Dove si trova la fiera di Bologna?
+BolognaFiere si trova in Viale della Fiera 20, 40127 Bologna.
+
+Le date sono ufficiali?
+Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare.
+
+Il calendario comprende tutte le fiere?
+No: riporta le principali fiere internazionali e di settore. Per l'elenco completo, comprese le manifestazioni per il pubblico, consulta il calendario ufficiale di BolognaFiere.
+
+Allestite stand a Bologna?
+Sì: progettiamo, produciamo e montiamo stand a BolognaFiere, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.
+
+## Parliamo del tuo stand.
+
+Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
+
+Richiedi un preventivo gratuito
+
+## Approfondisci
+
+Allestimenti fieristici a Bologna
+Calendario fiere Italia ed Europa
+Allestimenti fieristici
+Calendario fiere Milano
+Calendario fiere Rimini
+Calendario fiere Parma
+Montaggio stand
+Stand su misura
+Stand modulari
+Noleggio stand
+Quanto costa uno stand
+Fiere all'estero
+
+
+========================================================================
+# Calendario fiere Milano 2026–2027: date a Fiera Milano Rho
+URL: https://danova-tech.com/calendario-fiere-milano/
+Descrizione: Calendario fiere Milano 2026 e 2027: date delle principali fiere a Fiera Milano Rho, settori e siti ufficiali. Esponi? Richiedi lo stand chiavi in mano.
+========================================================================
+
+Home / Allestimenti fieristici / Calendario fiere / Fiere Milano
+
+Calendario fiere Milano · 2026–2027
+
+## Calendario fiere Milano 2026–2027: le date a Fiera Milano Rho .
+
+Le date delle principali fiere internazionali a Fiera Milano Rho nei prossimi mesi: EICMA, SIMEI, Milano AutoClassica, Milano Home e le altre. Per ogni fiera trovi date, settore, sito ufficiale e, se esponi, la richiesta dello stand già compilata.
+
+14 fiere Fiera Milano Rho Aggiornato al 8 ottobre 2026
+
+Vedi le date
+
+Richiedi uno stand
+
+## Le fiere a Milano, in ordine di data
+
+Le date sono quelle pubblicate dagli organizzatori. Il calendario riporta le principali fiere internazionali e di settore: per l'elenco completo, comprese le fiere per il pubblico, consulta il calendario ufficiale del quartiere fieristico.
+
+-
+3 nov 2026
+
+## EICMA
+3–8 novembre 2026 · Auto e moto · 3–4 novembre giornate stampa e operatori, 5–8 aperta al pubblico
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+17 nov 2026
+
+## SIMEI
+17–20 novembre 2026 · Vino e bevande
+
+Richiedi lo stand Sito ufficiale
+
+-
+20 nov 2026
+
+## Milano AutoClassica
+20–22 novembre 2026 · Auto e moto
+
+Richiedi lo stand Sito ufficiale
+
+-
+21 gen 2027
+
+## Milano Home
+21–24 gennaio 2027 · Arredo, casa e design
+
+Richiedi lo stand Sito ufficiale
+
+-
+6 feb 2027
+
+## MIDO
+6–8 febbraio 2027 · Moda, calzature e accessori
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+9 feb 2027
+
+## BIT Milano
+9–11 febbraio 2027 · Turismo e ospitalità
+
+Richiedi lo stand Sito ufficiale
+
+-
+21 feb 2027
+
+## MICAM Milano (febbraio)
+21–23 febbraio 2027 · Moda, calzature e accessori
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+23 feb 2027
+
+## Lineapelle (febbraio)
+23–25 febbraio 2027 · Moda, calzature e accessori
+
+Richiedi lo stand Sito ufficiale
+
+-
+13 apr 2027
+
+## Salone del Mobile.Milano + Euroluce
+13–18 aprile 2027 · Arredo, casa e design · Nel 2027 con la biennale Euroluce
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+11 mag 2027
+
+## Lamiera
+11–14 maggio 2027 · Meccanica e industria
+
+Richiedi lo stand Sito ufficiale
+
+-
+12 set 2027
+
+## MICAM Milano (settembre)
+12–14 settembre 2027 · Moda, calzature e accessori
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+ott. ott 2027
+
+## HostMilano date da confermare
+ottobre 2027 (date da confermare) · Food & beverage · Biennale
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+4 ott 2027
+
+## EMO Milano
+4–8 ottobre 2027 · Meccanica e industria · La fiera mondiale delle macchine utensili, nel 2027 a Milano
+
+Richiedi lo stand Sito ufficiale
+
+-
+8 mag 2028
+
+## TUTTOFOOD
+8–11 maggio 2028 · Food & beverage
+
+Richiedi lo stand Sito ufficiale
+
+Calendario ufficiale completo: fieramilano.it
+
+## Il quartiere fieristico di Milano
+
+Fiera Milano Rho è il quartiere fieristico più grande d'Italia, raggiungibile in metropolitana (linea M1, fermata Rho Fiera), in treno e dall'autostrada. È la sede del Salone del Mobile, di EICMA, HostMilano, MIDO, MICAM e di molte altre fiere internazionali.
+
+Sede Fiera Milano Rho
+
+Indirizzo Strada Statale del Sempione 28, 20017 Rho (MI)
+
+Fiere in calendario 14
+
+## Esporre a Milano: cosa preparare
+
+Ogni fiera a Fiera Milano Rho ha un regolamento tecnico con le regole per gli stand: altezze massime, materiali ignifughi, portata dei pavimenti, appendimenti al soffitto, consegna del progetto per l'approvazione. Le scadenze per inviarlo cadono di solito uno o due mesi prima della fiera, e lo stesso vale per l'ordine della potenza elettrica e degli allacci.
+
+I giorni di allestimento sono pochi e gli orari di carico e scarico sono assegnati: per uno stand su misura servono una squadra che conosce il quartiere, i mezzi giusti e i materiali già pronti. Noi seguiamo tutto: progetto e pratiche con l'ente fiera, produzione, trasporto, montaggio, smontaggio e magazzino fino alla prossima edizione.
+
+Se esponi a Milano per la prima volta, leggi anche la nostra guida per preparare una fiera e la pagina con i contributi per le fiere 2026 .
+
+- 6 mesi prima. Prenotazione dell'area e brief dello stand.
+
+- 3–4 mesi prima. Progetto, render 3D e preventivo.
+
+- 1–2 mesi prima. Progetto all'ente fiera, potenza elettrica, pass.
+
+- In fiera. Montaggio nei giorni di allestimento, smontaggio a fine manifestazione.
+
+## Stand per le fiere di Milano
+
+Stand Salone del Mobile Stand EICMA Stand Host Milano Stand MICAM Stand MIDO
+
+## Richiedi lo stand
+
+Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
+
+- Preventivo voce per voce, gratuito
+- Anche con poco preavviso
+- Un unico referente fino allo smontaggio
+
+Fiera e città
+
+Metri quadri (anche indicativi)
+
+In linea (1 lato aperto) Ad angolo (2 lati aperti) A penisola (3 lati aperti) A isola (4 lati aperti) Non lo so ancora Tipo di spazio
+
+Nome e cognome
+
+Azienda
+
+Telefono
+
+Email (facoltativa)
+
+Cosa ti serve (facoltativo)
+
+Invia la richiesta su WhatsApp
+
+Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Quali sono le prossime fiere a Milano?
+Le prossime fiere internazionali a Fiera Milano Rho sono: EICMA (3–8 novembre 2026); SIMEI (17–20 novembre 2026); Milano AutoClassica (20–22 novembre 2026); Milano Home (21–24 gennaio 2027); MIDO (6–8 febbraio 2027); BIT Milano (9–11 febbraio 2027). Le date sono aggiornate a ottobre 2026: verificale sempre sul sito ufficiale prima di prenotare.
+
+Dove si trova la fiera di Milano?
+Fiera Milano Rho si trova in Strada Statale del Sempione 28, 20017 Rho (MI).
+
+Le date sono ufficiali?
+Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare.
+
+Il calendario comprende tutte le fiere?
+No: riporta le principali fiere internazionali e di settore. Per l'elenco completo, comprese le manifestazioni per il pubblico, consulta il calendario ufficiale di Fiera Milano Rho.
+
+Allestite stand a Milano?
+Sì: progettiamo, produciamo e montiamo stand a Fiera Milano Rho, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.
+
+## Parliamo del tuo stand.
+
+Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
+
+Richiedi un preventivo gratuito
+
+## Approfondisci
+
+Allestimenti fieristici a Milano
+Calendario fiere Italia ed Europa
+Allestimenti fieristici
+Calendario fiere Bologna
+Calendario fiere Rimini
+Calendario fiere Parma
+Montaggio stand
+Stand su misura
+Stand modulari
+Noleggio stand
+Quanto costa uno stand
+Fiere all'estero
+
+
+========================================================================
+# Calendario fiere Parma 2026–2027: date a Fiere di Parma
+URL: https://danova-tech.com/calendario-fiere-parma/
+Descrizione: Calendario fiere Parma 2026 e 2027: date delle principali fiere a Fiere di Parma, settori e siti ufficiali. Esponi? Richiedi lo stand chiavi in mano.
+========================================================================
+
+Home / Allestimenti fieristici / Calendario fiere / Fiere Parma
+
+Calendario fiere Parma · 2026–2027
+
+## Calendario fiere Parma 2026–2027: le date a Fiere di Parma .
+
+Le date delle principali fiere internazionali a Fiere di Parma nei prossimi mesi: Cibus Tec, Mercanteinfiera Primavera, Automotoretrò, Cibus e le altre. Per ogni fiera trovi date, settore, sito ufficiale e, se esponi, la richiesta dello stand già compilata.
+
+5 fiere Fiere di Parma Aggiornato al 8 ottobre 2026
+
+Vedi le date
+
+Richiedi uno stand
+
+## Le fiere a Parma, in ordine di data
+
+Le date sono quelle pubblicate dagli organizzatori. Il calendario riporta le principali fiere internazionali e di settore: per l'elenco completo, comprese le fiere per il pubblico, consulta il calendario ufficiale del quartiere fieristico.
+
+-
+27 ott 2026
+
+## Cibus Tec
+27–30 ottobre 2026 · Food & beverage
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+27 feb 2027
+
+## Mercanteinfiera Primavera
+27 febbraio – 7 marzo 2027 · Arte, libri e cultura
+
+Richiedi lo stand Sito ufficiale
+
+-
+5 mar 2027
+
+## Automotoretrò
+5–7 marzo 2027 · Auto e moto
+
+Richiedi lo stand Sito ufficiale
+
+-
+4 mag 2027
+
+## Cibus
+4–6 maggio 2027 · Food & beverage
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+25 mag 2027
+
+## SPS Italia
+25–27 maggio 2027 · Meccanica e industria
+
+Richiedi lo stand Sito ufficiale
+
+Calendario ufficiale completo: fiereparma.it
+
+## Il quartiere fieristico di Parma
+
+Fiere di Parma si trova a nord della città, vicino all'uscita Parma dell'autostrada A1. È la sede di Cibus e Cibus Tec, punti di riferimento per l'agroalimentare e le tecnologie alimentari, e di fiere per l'automazione e il collezionismo.
+
+Sede Fiere di Parma
+
+Indirizzo Viale delle Esposizioni 393A, 43126 Parma
+
+Fiere in calendario 5
+
+## Esporre a Parma: cosa preparare
+
+Ogni fiera a Fiere di Parma ha un regolamento tecnico con le regole per gli stand: altezze massime, materiali ignifughi, portata dei pavimenti, appendimenti al soffitto, consegna del progetto per l'approvazione. Le scadenze per inviarlo cadono di solito uno o due mesi prima della fiera, e lo stesso vale per l'ordine della potenza elettrica e degli allacci.
+
+I giorni di allestimento sono pochi e gli orari di carico e scarico sono assegnati: per uno stand su misura servono una squadra che conosce il quartiere, i mezzi giusti e i materiali già pronti. Noi seguiamo tutto: progetto e pratiche con l'ente fiera, produzione, trasporto, montaggio, smontaggio e magazzino fino alla prossima edizione.
+
+Se esponi a Parma per la prima volta, leggi anche la nostra guida per preparare una fiera e la pagina con i contributi per le fiere 2026 .
+
+- 6 mesi prima. Prenotazione dell'area e brief dello stand.
+
+- 3–4 mesi prima. Progetto, render 3D e preventivo.
+
+- 1–2 mesi prima. Progetto all'ente fiera, potenza elettrica, pass.
+
+- In fiera. Montaggio nei giorni di allestimento, smontaggio a fine manifestazione.
+
+## Stand per le fiere di Parma
+
+Stand Cibus
+
+## Richiedi lo stand
+
+Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
+
+- Preventivo voce per voce, gratuito
+- Anche con poco preavviso
+- Un unico referente fino allo smontaggio
+
+Fiera e città
+
+Metri quadri (anche indicativi)
+
+In linea (1 lato aperto) Ad angolo (2 lati aperti) A penisola (3 lati aperti) A isola (4 lati aperti) Non lo so ancora Tipo di spazio
+
+Nome e cognome
+
+Azienda
+
+Telefono
+
+Email (facoltativa)
+
+Cosa ti serve (facoltativo)
+
+Invia la richiesta su WhatsApp
+
+Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Quali sono le prossime fiere a Parma?
+Le prossime fiere internazionali a Fiere di Parma sono: Cibus Tec (27–30 ottobre 2026); Mercanteinfiera Primavera (27 febbraio – 7 marzo 2027); Automotoretrò (5–7 marzo 2027); Cibus (4–6 maggio 2027); SPS Italia (25–27 maggio 2027). Le date sono aggiornate a ottobre 2026: verificale sempre sul sito ufficiale prima di prenotare.
+
+Dove si trova la fiera di Parma?
+Fiere di Parma si trova in Viale delle Esposizioni 393A, 43126 Parma.
+
+Le date sono ufficiali?
+Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare.
+
+Il calendario comprende tutte le fiere?
+No: riporta le principali fiere internazionali e di settore. Per l'elenco completo, comprese le manifestazioni per il pubblico, consulta il calendario ufficiale di Fiere di Parma.
+
+Allestite stand a Parma?
+Sì: progettiamo, produciamo e montiamo stand a Fiere di Parma, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.
+
+## Parliamo del tuo stand.
+
+Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
+
+Richiedi un preventivo gratuito
+
+## Approfondisci
+
+Allestimenti fieristici a Parma
+Calendario fiere Italia ed Europa
+Allestimenti fieristici
+Calendario fiere Bologna
+Calendario fiere Milano
+Calendario fiere Rimini
+Montaggio stand
+Stand su misura
+Stand modulari
+Noleggio stand
+Quanto costa uno stand
+Fiere all'estero
+
+
+========================================================================
+# Calendario fiere Rimini 2026–2027: date a Rimini Expo Centre
+URL: https://danova-tech.com/calendario-fiere-rimini/
+Descrizione: Calendario fiere Rimini 2026 e 2027: date delle principali fiere a Rimini Expo Centre, settori e siti ufficiali. Esponi? Richiedi lo stand chiavi in mano.
+========================================================================
+
+Home / Allestimenti fieristici / Calendario fiere / Fiere Rimini
+
+Calendario fiere Rimini · 2026–2027
+
+## Calendario fiere Rimini 2026–2027: le date a Rimini Expo Centre .
+
+Le date delle principali fiere internazionali a Rimini Expo Centre nei prossimi mesi: Ecomondo, Sigep World, Beer & Food Attraction, KEY – The Energy Transition Expo e le altre. Per ogni fiera trovi date, settore, sito ufficiale e, se esponi, la richiesta dello stand già compilata.
+
+6 fiere Rimini Expo Centre Aggiornato al 8 ottobre 2026
+
+Vedi le date
+
+Richiedi uno stand
+
+## Le fiere a Rimini, in ordine di data
+
+Le date sono quelle pubblicate dagli organizzatori. Il calendario riporta le principali fiere internazionali e di settore: per l'elenco completo, comprese le fiere per il pubblico, consulta il calendario ufficiale del quartiere fieristico.
+
+-
+3 nov 2026
+
+## Ecomondo
+3–6 novembre 2026 · Ambiente ed energia
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+23 gen 2027
+
+## Sigep World
+23–27 gennaio 2027 · Food & beverage
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+21 feb 2027
+
+## Beer & Food Attraction
+21–23 febbraio 2027 · Food & beverage
+
+Richiedi lo stand Sito ufficiale
+
+-
+10 mar 2027
+
+## KEY – The Energy Transition Expo
+10–12 marzo 2027 · Ambiente ed energia
+
+Richiedi lo stand Sito ufficiale
+
+-
+20 apr 2027
+
+## Macfrut
+20–22 aprile 2027 · Agricoltura e zootecnia
+
+Richiedi lo stand Scheda stand Sito ufficiale
+
+-
+27 mag 2027
+
+## RiminiWellness
+27–30 maggio 2027 · Sport e tempo libero
+
+Richiedi lo stand Sito ufficiale
+
+Calendario ufficiale completo: iegexpo.it
+
+## Il quartiere fieristico di Rimini
+
+Il Rimini Expo Centre, gestito da Italian Exhibition Group, ha una fermata ferroviaria dedicata sulla linea Bologna–Ancona. Ospita fiere di riferimento per ambiente ed energia, gelateria e pasticceria, ortofrutta, food & beverage e benessere.
+
+Sede Rimini Expo Centre
+
+Indirizzo Via Emilia 155, 47921 Rimini
+
+Fiere in calendario 6
+
+## Esporre a Rimini: cosa preparare
+
+Ogni fiera a Rimini Expo Centre ha un regolamento tecnico con le regole per gli stand: altezze massime, materiali ignifughi, portata dei pavimenti, appendimenti al soffitto, consegna del progetto per l'approvazione. Le scadenze per inviarlo cadono di solito uno o due mesi prima della fiera, e lo stesso vale per l'ordine della potenza elettrica e degli allacci.
+
+I giorni di allestimento sono pochi e gli orari di carico e scarico sono assegnati: per uno stand su misura servono una squadra che conosce il quartiere, i mezzi giusti e i materiali già pronti. Noi seguiamo tutto: progetto e pratiche con l'ente fiera, produzione, trasporto, montaggio, smontaggio e magazzino fino alla prossima edizione.
+
+Se esponi a Rimini per la prima volta, leggi anche la nostra guida per preparare una fiera e la pagina con i contributi per le fiere 2026 .
+
+- 6 mesi prima. Prenotazione dell'area e brief dello stand.
+
+- 3–4 mesi prima. Progetto, render 3D e preventivo.
+
+- 1–2 mesi prima. Progetto all'ente fiera, potenza elettrica, pass.
+
+- In fiera. Montaggio nei giorni di allestimento, smontaggio a fine manifestazione.
+
+## Stand per le fiere di Rimini
+
+Stand Sigep Stand Ecomondo Stand Macfrut
+
+## Richiedi lo stand
+
+Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
+
+- Preventivo voce per voce, gratuito
+- Anche con poco preavviso
+- Un unico referente fino allo smontaggio
+
+Fiera e città
+
+Metri quadri (anche indicativi)
+
+In linea (1 lato aperto) Ad angolo (2 lati aperti) A penisola (3 lati aperti) A isola (4 lati aperti) Non lo so ancora Tipo di spazio
+
+Nome e cognome
+
+Azienda
+
+Telefono
+
+Email (facoltativa)
+
+Cosa ti serve (facoltativo)
+
+Invia la richiesta su WhatsApp
+
+Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+
+Domande frequenti
+
+## Le risposte che servono davvero.
+
+Quali sono le prossime fiere a Rimini?
+Le prossime fiere internazionali a Rimini Expo Centre sono: Ecomondo (3–6 novembre 2026); Sigep World (23–27 gennaio 2027); Beer & Food Attraction (21–23 febbraio 2027); KEY – The Energy Transition Expo (10–12 marzo 2027); Macfrut (20–22 aprile 2027); RiminiWellness (27–30 maggio 2027). Le date sono aggiornate a ottobre 2026: verificale sempre sul sito ufficiale prima di prenotare.
+
+Dove si trova la fiera di Rimini?
+Rimini Expo Centre si trova in Via Emilia 155, 47921 Rimini.
+
+Le date sono ufficiali?
+Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare.
+
+Il calendario comprende tutte le fiere?
+No: riporta le principali fiere internazionali e di settore. Per l'elenco completo, comprese le manifestazioni per il pubblico, consulta il calendario ufficiale di Rimini Expo Centre.
+
+Allestite stand a Rimini?
+Sì: progettiamo, produciamo e montiamo stand a Rimini Expo Centre, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.
+
+## Parliamo del tuo stand.
+
+Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
+
+Richiedi un preventivo gratuito
+
+## Approfondisci
+
+Allestimenti fieristici a Rimini
+Calendario fiere Italia ed Europa
+Allestimenti fieristici
+Calendario fiere Bologna
+Calendario fiere Milano
+Calendario fiere Parma
+Montaggio stand
+Stand su misura
+Stand modulari
+Noleggio stand
+Quanto costa uno stand
+Fiere all'estero
+
+
+========================================================================
+# Calendario fiere 2026–2027 Italia ed Europa
 URL: https://danova-tech.com/calendario-fiere/
-Descrizione: Calendario delle principali fiere 2026 e 2027 in Italia ed Europa: date, quartieri fieristici e settori su mappa interattiva. Clicca una fiera e richiedi lo stand.
+Descrizione: Calendario delle principali fiere 2026 e 2027 in Italia ed Europa: date, quartieri fieristici e settori su mappa. Clicca una fiera e richiedi lo stand.
 ========================================================================
 
 Home / Allestimenti fieristici / Calendario fiere
@@ -7522,6 +8686,7 @@ Richiedi il preventivo
 
 ## Approfondisci
 
+Calendario fiere Milano Calendario fiere Bologna Calendario fiere Rimini Calendario fiere Parma Contributi per le fiere 2026
 Allestimenti fieristici
 Montaggio stand
 Stand su misura
@@ -7643,6 +8808,7 @@ Nella nostra esperienza no: sposta il lavoro. Le domande ripetitive le assorbe, 
 
 ## Pagine collegate
 
+AI Act per le aziende Automazioni con n8n
 Intelligenza artificiale per aziende
 Automazione processi aziendali
 Integrazione software aziendali
@@ -7650,6 +8816,234 @@ Software e automazioni
 CRM aziendale
 Sviluppo web app
 Glossario
+
+
+========================================================================
+# Come indicizzare un sito su Google, passo per passo
+URL: https://danova-tech.com/come-indicizzare-un-sito-su-google/
+Descrizione: Come indicizzare un sito su Google: Search Console, sitemap, controllo URL e i motivi più comuni per cui una pagina non entra nell'indice. Anche per Bing.
+========================================================================
+
+Home / SEO / Indicizzare un sito
+
+Guida pratica · Search Console
+
+## Come indicizzare un sito su Google, passo per passo.
+
+Un sito appena pubblicato non compare su Google da solo, o ci mette settimane. Indicizzare significa far sapere a Google che le pagine esistono e convincerlo a inserirle nel suo indice. Non è ancora posizionarsi, cioè comparire in alto: è il passaggio prima, e senza di questo il resto non conta.
+
+Controlliamo il vostro sito
+
+I passaggi
+
+I passaggi
+
+## Indicizzare un sito in cinque mosse
+
+- Aggiungete il sito a Search Console Google Search Console è gratuita. Si aggiunge la proprietà del dominio e si verifica con un record DNS o con un file sul sito. Da qui passa tutto il resto.
+
+- Inviate la sitemap La sitemap.xml elenca le pagine del sito. Si invia nella sezione Sitemap di Search Console: Google la legge e scopre le pagine più in fretta. Molti CMS la generano da soli.
+
+- Chiedete l'indicizzazione delle pagine importanti Con il Controllo URL si incolla l'indirizzo di una pagina e si chiede di indicizzarla. Serve per la home e le pagine principali, o dopo una modifica importante. Non serve farlo per tutte.
+
+- Collegate le pagine fra loro Google trova le pagine seguendo i link. Una pagina che nessuna altra pagina linka è un'orfana: anche se è nella sitemap, viene considerata poco importante.
+
+- Fate lo stesso con Bing Bing Webmaster Tools importa il sito da Search Console in un clic, e con IndexNow le pagine nuove vengono segnalate subito. Bing alimenta anche ChatGPT e Copilot, quindi conta più di quanto sembri.
+
+Se non entra
+
+## Perché una pagina non viene indicizzata
+
+In Search Console, alla voce Pagine, Google dice per ogni pagina esclusa il motivo. Questi sono i più frequenti.
+
+01
+
+## Tag noindex dimenticato
+
+Molti siti in costruzione hanno l'opzione di nascondersi ai motori. Se resta attiva dopo il lancio, Google obbedisce e non indicizza niente.
+
+02
+
+## Bloccata da robots.txt
+
+Una riga sbagliata nel file robots.txt può impedire a Google di leggere intere sezioni del sito.
+
+03
+
+## Canonical che punta altrove
+
+Se la pagina dichiara che la versione principale è un'altra, Google indicizza quell'altra. Succede spesso con filtri, parametri e versioni duplicate.
+
+04
+
+## Scansionata ma non indicizzata
+
+Google l'ha letta e ha deciso che non vale la pena. Di solito il contenuto è troppo scarno o troppo simile ad altre pagine: va arricchito, non reinviato.
+
+05
+
+## Rilevata ma non scansionata
+
+Google sa che esiste ma non è ancora passato. Capita con siti nuovi o lenti: migliorano link interni, velocità e qualche link da altri siti.
+
+06
+
+## Errori del server e redirect
+
+Pagine che rispondono con errori, catene di redirect o sito lentissimo: Google rallenta la scansione per non sovraccaricare il server.
+
+Quanto ci vuole
+
+## Indicizzato non vuol dire primo
+
+Per un sito nuovo, le prime pagine entrano di solito in pochi giorni o qualche settimana dall'invio della sitemap. Se dopo un mese la home non c'è, quasi sempre c'è un blocco tecnico fra quelli sopra.
+
+Una volta indicizzata, una pagina compare per le ricerche in cui Google la ritiene la risposta migliore. Arrivare in prima pagina dipende dalla qualità dei contenuti, dalla struttura del sito, dalla concorrenza e dai link: è il lavoro di posizionamento .
+
+Per controllare velocemente, cercate su Google site:nomedelvostrosito.it. Il numero di risultati è indicativo, non preciso: i dati affidabili sono in Search Console.
+
+FAQ
+
+## Le domande sull'indicizzazione.
+
+Come si indicizza un sito su Google?
+Si aggiunge e verifica il sito in Google Search Console, si invia la sitemap.xml, si chiede l'indicizzazione delle pagine principali con il Controllo URL e ci si assicura che le pagine siano collegate fra loro e senza blocchi come noindex o robots.txt.
+
+Quanto ci mette Google a indicizzare un sito?
+Da qualche giorno a qualche settimana per un sito nuovo. Le pagine nuove di un sito già conosciuto entrano spesso in poche ore o giorni. Se dopo un mese non c'è niente, c'è quasi sempre un problema tecnico.
+
+Indicizzare un sito su Google costa?
+No: Google Search Console e l'invio della sitemap sono gratuiti, e nessuno può pagare Google per essere indicizzato. Si paga, eventualmente, il lavoro di chi sistema i problemi tecnici e migliora i contenuti.
+
+Che differenza c'è fra indicizzazione e posizionamento?
+Indicizzazione significa essere nell'archivio di Google. Posizionamento significa comparire in alto per le ricerche che contano. Un sito può essere tutto indicizzato e non comparire mai in prima pagina.
+
+Perché il mio sito non compare su Google?
+Le cause più comuni sono un noindex rimasto attivo, un blocco nel robots.txt, un sito troppo nuovo senza link, oppure pagine indicizzate che non si posizionano perché troppo deboli rispetto alla concorrenza. Search Console dice quale dei due casi è il vostro.
+
+Vi occupate voi dell'indicizzazione?
+Sì: è compresa nell'ottimizzazione SEO di ogni sito che realizziamo, insieme a Search Console, Bing Webmaster Tools, sitemap e dati strutturati. Possiamo controllare anche un sito fatto da altri.
+
+## Il vostro sito non si trova su Google?
+
+Mandateci l'indirizzo: controlliamo indicizzazione, blocchi tecnici e pagine escluse, e vi diciamo cosa sistemare. Gratis.
+
+Richiedi il controllo
+
+## Pagine collegate
+
+Posizionamento sito su Google
+Consulenza SEO
+SEO per l’intelligenza artificiale
+Rifare il sito senza perdere posizioni
+Velocità del sito e Core Web Vitals
+Google Business Profile: la guida
+
+
+========================================================================
+# Come ottenere recensioni Google, nel modo giusto
+URL: https://danova-tech.com/come-ottenere-recensioni-google/
+Descrizione: Come ottenere più recensioni Google senza violare le regole: link diretto, QR code, momento giusto e risposte. Cosa è vietato e perché contano per Maps.
+========================================================================
+
+Home / SEO / Recensioni Google
+
+Google Business Profile · SEO locale
+
+## Come ottenere recensioni Google senza scorciatoie.
+
+Fra due aziende vicine che fanno la stessa cosa, il cliente sceglie quasi sempre quella con più recensioni recenti. E Google fa lo stesso quando decide chi mostrare in Maps. Ottenerle non è difficile: va chiesto alle persone giuste, nel momento giusto, con un link che porta dritto al punto. Ecco come, e cosa non fare.
+
+Sistemiamo la vostra scheda Google
+
+Come chiederle
+
+Il metodo
+
+## Come chiederle, in quattro mosse
+
+- Prendete il link diretto Dalla scheda Google Business Profile, alla voce per chiedere recensioni, Google vi dà un link breve che apre direttamente la finestra con le stelle. Niente ricerche, niente passaggi in più.
+
+- Scegliete il momento Subito dopo un buon risultato: la consegna, il collaudo, il problema risolto. Una settimana dopo la soddisfazione è già sbiadita.
+
+- Rendetelo un'abitudine Il link nella firma email, nel messaggio di fine lavoro, sulla fattura. Un QR code al banco, in negozio, allo stand in fiera. Funziona quello che si fa sempre, non la campagna una tantum.
+
+- Rispondete a tutte Ringraziate chi scrive bene, con una frase che non sia copiata. Rispondete alle critiche con calma e con i fatti: chi legge giudica la risposta più della critica.
+
+Cosa non fare
+
+## Le scorciatoie che costano care
+
+01
+
+## Comprare recensioni
+
+Vietato da Google e dalla legge italiana, che dal 2023 considera pratica commerciale scorretta le recensioni false o commissionate. Google le rimuove a ondate e può limitare la scheda.
+
+02
+
+## Sconti in cambio di stelle
+
+Offrire un regalo o uno sconto per una recensione è contro le regole di Google, anche se la recensione è sincera.
+
+03
+
+## Chiedere solo ai contenti
+
+Filtrare prima i clienti e mandare a Google solo chi è soddisfatto è vietato dalle norme di Google. Il link si manda a tutti.
+
+04
+
+## Recensioni di dipendenti e parenti
+
+Google le riconosce dalla posizione e dall'attività dell'account e le elimina. Rischiano di trascinare con sé anche quelle vere.
+
+Perché contano
+
+## Recensioni e posizione in Maps
+
+Google indica tre fattori per i risultati locali: pertinenza, distanza e prominenza. Le recensioni pesano sulla prominenza: quante sono, quanto sono recenti e cosa dicono. Una recensione che cita il servizio e la città aiuta più di cinque stelle senza testo.
+
+Le recensioni contano anche fuori da Google: gli assistenti AI come ChatGPT e Perplexity, quando consigliano un fornitore, leggono spesso le schede e le recensioni. Una scheda curata è una delle fonti più forti per essere citati.
+
+Le recensioni lavorano insieme al resto della scheda: categorie giuste, orari, foto vere, servizi descritti, post periodici. Se la scheda è incompleta, nemmeno cento recensioni la portano in cima.
+
+FAQ
+
+## Le domande sulle recensioni.
+
+Come si ottiene il link per le recensioni Google?
+Dalla gestione del profilo dell'attività su Google, alla voce per chiedere recensioni: Google genera un link breve che apre direttamente la finestra per scrivere la recensione. Si può condividere per email, WhatsApp o trasformare in QR code.
+
+Si possono cancellare le recensioni negative?
+Solo se violano le norme di Google: insulti, contenuti falsi, conflitti di interesse, recensioni non riferite a un'esperienza reale. In quel caso si segnalano dalla scheda. Una critica legittima resta, e la risposta migliore è una replica educata e concreta.
+
+È legale chiedere recensioni ai clienti?
+Sì, chiederle è legale e consigliato. È vietato offrire compensi o sconti in cambio, pubblicare recensioni false o commissionate e chiedere solo ai clienti soddisfatti.
+
+Quante recensioni servono per salire in Google Maps?
+Non c'è un numero magico: conta il confronto con le attività vicine dello stesso settore, e conta la regolarità. Qualche recensione nuova ogni mese vale più di trenta arrivate nella stessa settimana.
+
+Conviene un QR code per le recensioni?
+Sì, nei luoghi fisici: banco, negozio, cantiere, stand in fiera. Il QR code porta al link diretto e toglie al cliente la fatica di cercarvi. Sulle cartoline NFC vale lo stesso discorso.
+
+Vi occupate voi della scheda Google?
+Sì, nella consulenza SEO locale: sistemiamo la scheda, prepariamo link e QR code, impostiamo il messaggio di fine lavoro e vi aiutiamo a rispondere. Le recensioni però le devono scrivere i vostri clienti.
+
+## La vostra scheda Google lavora per voi?
+
+Mandateci il nome della vostra attività: vi diciamo come si posiziona in Maps rispetto ai concorrenti vicini e cosa sistemare per primo.
+
+Richiedi l'analisi gratuita
+
+## Pagine collegate
+
+Siti web per ristoranti
+Google Business Profile: la guida
+Consulenza SEO
+Posizionamento sito su Google
+SEO per l’intelligenza artificiale
+Consulente SEO a Treviso
 
 
 ========================================================================
@@ -7773,6 +9167,7 @@ Se la domanda di partenza è più generale — come funziona il posizionamento, 
 
 ## Pagine collegate
 
+Come ottenere recensioni Google
 SEO e posizionamento
 Consulente SEO
 Posizionamento su Google
@@ -7908,6 +9303,7 @@ L'unica cosa su cui non trattiamo è il modo di misurare: contatti e fatturato d
 
 ## Pagine collegate
 
+Come indicizzare un sito su Google SEO per l’intelligenza artificiale
 SEO & posizionamento
 Google Ads
 Restyling sito web
@@ -7922,7 +9318,125 @@ Consulente SEO a Treviso
 
 
 ========================================================================
-# CRM aziendale e programma gestione clienti
+# Contributi per le fiere 2026: SIMEST e Camere di Commercio
+URL: https://danova-tech.com/contributi-fiere-2026/
+Descrizione: Contributi e finanziamenti per partecipare alle fiere nel 2026: SIMEST Fiere ed Eventi, bandi delle Camere di Commercio, collettive ICE. Cosa copre lo stand.
+========================================================================
+
+Home / Allestimenti fieristici / Contributi per le fiere
+
+Fiere · finanziamenti · aggiornato a ottobre 2026
+
+## Contributi per le fiere 2026: chi paga una parte dello stand.
+
+Area espositiva, allestimento, grafica, trasporto: una fiera internazionale pesa sul bilancio di una PMI. In Italia esistono tre strade per farsene coprire una parte: il finanziamento agevolato SIMEST, i bandi delle Camere di Commercio e le collettive regionali e ICE. Qui trovate come funzionano, cosa coprono e come preparare preventivi che superino il controllo.
+
+Chiedi un preventivo stand
+
+Le tre strade
+
+Le tre strade
+
+## Da dove arrivano i soldi per la fiera
+
+Non sono alternative fra loro in tutti i casi: spesso un'impresa usa la collettiva per la prima fiera e SIMEST quando il programma diventa annuale.
+
+01
+
+## SIMEST Fiere ed Eventi
+
+Finanziamento agevolato del Fondo 394/81, gestito da SIMEST (gruppo CDP), per fiere, mostre ed eventi internazionali anche in Italia. Arriva fino a 500.000 euro, entro il 20% dei ricavi, durata 4 anni di cui 2 di preammortamento. Una quota fino al 10% può essere a fondo perduto per alcune categorie di PMI.
+
+02
+
+## Bandi delle Camere di Commercio
+
+Contributi a fondo perduto, di solito da 2.000 a 5.000 euro per impresa, a rimborso di una parte delle spese di area e stand. Escono una o due volte l'anno, con finestre brevi e fondi che finiscono in fretta. Esempio: la Camera di Vicenza ha messo 545.000 euro sull'ultimo bando fiere internazionali, con contributo di 2.500 euro per impresa.
+
+03
+
+## Collettive regionali e padiglioni ICE
+
+La Regione, la Camera di Commercio o ICE Agenzia prendono un padiglione e lo dividono fra più imprese. Voi pagate una quota ridotta e ricevete uno spazio già allestito. Si aderisce con mesi di anticipo e lo stand è uguale per tutti: comodo per la prima volta, stretto quando volete distinguervi.
+
+La misura più grande
+
+## SIMEST Fiere ed Eventi: cosa sapere prima
+
+È la misura con più risorse ed è aperta per tutto il 2026, a sportello: le domande si istruiscono in ordine di arrivo. Finanzia fino a tre iniziative, anche in paesi diversi, con un tasso agevolato che SIMEST aggiorna periodicamente. La parte a fondo perduto, fino al 10% e fino a 100.000 euro, è riservata ad alcune categorie: PMI giovanili, femminili o innovative, PMI che esportano almeno il 20% del fatturato, con certificazioni di sostenibilità o con sede operativa al Sud.
+
+Spese ammesse: area espositiva, allestimento e logistica, promozione, consulenze collegate alla fiera, spese digitali connesse all'evento. Devono essere sostenute dopo l'assegnazione del CUP ed entro 24 mesi dalla stipula. Il finanziamento arriva in due tranche: un anticipo fino al 25% e il saldo sulle spese rendicontate.
+
+Requisiti: sede legale e operativa in Italia e almeno un bilancio depositato; sopra i 150.000 euro servono due bilanci e una buona classe di rating. Possono essere chieste garanzie sulla parte che supera il margine operativo. Prima di presentare la domanda conviene una verifica con il vostro commercialista o con l'associazione di categoria.
+
+Fonti e condizioni aggiornate: simest.it . I numeri di questa pagina sono aggiornati a ottobre 2026 e possono cambiare.
+
+Il lato pratico
+
+## Come preparare lo stand perché il contributo regga.
+
+I contributi si perdono più spesso per un preventivo scritto male che per un requisito mancante. Ecco cosa prepariamo per chi partecipa con un bando.
+
+- Preventivo a voci separate Area, struttura, grafica, impianto elettrico, arredi, trasporto e montaggio su righe distinte. I bandi ammettono alcune voci e non altre: se è tutto in un'unica cifra, il controllo non sa cosa riconoscervi.
+
+- Date coerenti con il bando Molti bandi ammettono solo spese fatturate dopo la domanda o dopo la concessione. Concordiamo con voi quando ordinare e quando fatturare, così l'acconto non cade fuori dal periodo valido.
+
+- Documentazione fotografica Foto dello stand montato, con la fiera riconoscibile. Le chiedono quasi tutti i bandi in fase di rendicontazione e le facciamo noi a fine montaggio.
+
+- Stand riutilizzabile se il bando è annuale Con un programma di più fiere, uno stand modulare o un noleggio pesa meno sul finanziamento e lascia budget per area e promozione.
+
+Da sapere
+
+## Tre cose che fanno perdere il contributo
+
+Il de minimis. Quasi tutti questi aiuti rientrano nel regime de minimis, che ha un tetto complessivo nei tre anni. Se avete già ricevuto altri contributi, controllate il Registro nazionale degli aiuti prima di contare su quello della fiera.
+
+Il cumulo. Lo stesso costo non si può far pagare due volte. Spesso il contributo camerale per la fiera e il voucher internazionalizzazione della stessa Camera si escludono a vicenda.
+
+Le finestre brevi. I bandi camerali restano aperti poche settimane e i fondi finiscono prima della scadenza. Il voucher fiere nazionale del Ministero ha chiuso a ottobre 2025 e nel 2026 non è stato riproposto. Conviene avere i preventivi pronti prima che il bando esca.
+
+FAQ
+
+## Le domande sui contributi.
+
+Esistono contributi per partecipare alle fiere nel 2026?
+Sì. Il principale è SIMEST Fiere ed Eventi, finanziamento agevolato fino a 500.000 euro con una possibile quota a fondo perduto fino al 10%, aperto per tutto il 2026. A questo si aggiungono i bandi delle Camere di Commercio, di solito 2.000-5.000 euro a fondo perduto per impresa, e le collettive regionali e ICE a quota ridotta.
+
+Lo stand fieristico rientra nelle spese ammesse?
+Nella maggior parte dei casi sì: allestimento, grafica, impianti, arredi, trasporto e montaggio sono ammessi da SIMEST e dai bandi camerali, insieme all'affitto dell'area. Conviene un preventivo a voci separate, perché alcuni bandi escludono singole voci come il catering o i gadget.
+
+Valgono anche le fiere in Italia?
+Per SIMEST sì, se la fiera è internazionale: Vinitaly, Salone del Mobile, Marmomac, EICMA e le altre fiere con espositori esteri rientrano. Molti bandi camerali invece chiedono fiere all'estero o fiere italiane con qualifica internazionale nel calendario ufficiale.
+
+Fate voi la domanda di contributo?
+No: la domanda la presentate voi, di solito con il commercialista o l'associazione di categoria. Noi prepariamo quello che serve dalla nostra parte: preventivo a voci separate, progetto dello stand, fatture con le date giuste e foto dello stand montato per la rendicontazione.
+
+Il voucher fiere del Ministero c'è ancora?
+Il voucher fiere nazionale per le PMI ha chiuso le domande il 28 ottobre 2025 e nel 2026 non risulta una nuova edizione. Restano SIMEST, i bandi camerali e quelli regionali.
+
+Questi dati sono aggiornati?
+Sono aggiornati a ottobre 2026. I bandi cambiano spesso: prima di decidere verificate sempre il testo ufficiale sul sito dell'ente, che fa fede.
+
+## Avete una fiera in calendario e un bando in vista?
+
+Mandateci fiera, metri quadri e scadenza del bando: vi prepariamo il progetto e un preventivo a voci separate, pronto per la domanda.
+
+Richiedi il preventivo stand
+
+## Pagine collegate
+
+Allestimenti fieristici
+Quanto costa uno stand fieristico
+Calendario fiere 2026–2027
+Stand per fiere all’estero
+Noleggio stand fieristici
+Stand modulari
+Come preparare una fiera
+Bandi digitalizzazione 2026
+
+
+========================================================================
+# CRM aziendale: software CRM in cloud su misura
 URL: https://danova-tech.com/crm-aziendale/
 Descrizione: CRM aziendale e software CRM su misura: clienti, trattative e offerte in un posto solo, collegati al gestionale. Un CRM per PMI che le persone usano davvero.
 ========================================================================
@@ -8164,7 +9678,7 @@ La digitalizzazione rientra negli incentivi 4.0? Dipende dal tipo di software. I
 
 ## Pagine collegate
 
-Tutti i servizi Automazione dei processi aziendali Software gestionale aziendale CRM aziendale Software per PMI Gestionale in cloud Intelligenza artificiale per aziende Transizione 5.0: cosa è cambiato
+Iperammortamento 2026 Bandi digitalizzazione 2026 in Veneto Tutti i servizi Automazione dei processi aziendali Software gestionale aziendale CRM aziendale Software per PMI Gestionale in cloud Intelligenza artificiale per aziende Transizione 5.0: cosa è cambiato
 Sostituire Excel con un gestionale
 
 Integrazione software aziendali
@@ -8304,6 +9818,7 @@ C'è poi il caso di chi vende sia ai rivenditori sia al consumatore finale. Tene
 
 ## Pagine collegate
 
+Portale rivenditori B2B
 Realizzazione e-commerce
 E-commerce collegato al gestionale
 App per agenti di commercio
@@ -8437,6 +9952,7 @@ La nostra posizione, dopo diversi progetti di questo tipo: tenete il gestionale 
 
 ## Pagine collegate
 
+Portale rivenditori B2B Software WMS
 Realizzazione e-commerce
 E-commerce B2B
 Migrazione e-commerce
@@ -8447,7 +9963,7 @@ Quanto costa un e-commerce
 
 
 ========================================================================
-# Gestionale cloud su misura per aziende
+# Gestionale cloud e online su misura per aziende
 URL: https://danova-tech.com/gestionale-cloud/
 Descrizione: Gestionale cloud accessibile via browser da ovunque: software gestionale cloud su misura, dati vostri ed esportabili, nessun server da mantenere in azienda.
 ========================================================================
@@ -9576,6 +11092,7 @@ Una cosa vale ovunque, ed è la ragione per cui questa pagina esiste: nelle PMI 
 
 ## Zone e servizi collegati
 
+Bandi digitalizzazione 2026 in Veneto
 Software gestionale per la produzione
 Software gestionale a Treviso
 Software gestionale a Pordenone
@@ -10733,6 +12250,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Idee per stand fieristici Calendario fiere Milano Calendario fiere Bologna Contributi per le fiere 2026
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -11145,7 +12663,7 @@ Quanto costa un gestionale
 
 
 ========================================================================
-# Google Business Profile: guida pratica 2026
+# Google My Business (Business Profile): guida 2026
 URL: https://danova-tech.com/guide/google-business-profile-guida/
 Descrizione: Come configurare e usare la scheda Google Business: categorie, servizi, foto, recensioni, post e i cinque errori che tengono un’attività fuori dalla mappa.
 ========================================================================
@@ -11154,7 +12672,7 @@ Home / Guide / Guida
 
 Guida
 
-## Google Business Profile: la guida pratica per farsi trovare in zona
+## Google Business Profile (ex Google My Business): la guida pratica per farsi trovare in zona
 Per un’attività che lavora su un territorio, la scheda Google Business è quasi sempre la singola voce che porta più contatti dalla ricerca — più del sito. È gratuita, si configura in un pomeriggio, e la maggior parte delle schede è ferma al 30% di quello che potrebbe fare.
 Aggiornato il 5 settembre 2026 · Danova Tech
 
@@ -11211,7 +12729,7 @@ Ha senso avere una scheda se ho già un buon sito? Sì, e sono due cose diverse:
 
 ## Pagine collegate
 
-Consulenza SEO Siti web in Veneto Siti web a Treviso Siti web a Padova Google Ads Contatti Tutte le guide Glossario
+Come ottenere recensioni Google SEO per l’intelligenza artificiale Consulenza SEO Siti web in Veneto Siti web a Treviso Siti web a Padova Google Ads Contatti Tutte le guide Glossario
 
 
 ========================================================================
@@ -11354,7 +12872,7 @@ Il cambio di dominio è più rischioso del cambio di sito? È lo stesso lavoro c
 
 ## Pagine collegate
 
-Consulenza SEO Restyling del sito web Quanto costa un sito web Siti web ed e-commerce Siti web in Veneto Tutte le guide Velocità e Core Web Vitals Glossario
+Come indicizzare un sito su Google Consulenza SEO Restyling del sito web Quanto costa un sito web Siti web ed e-commerce Siti web in Veneto Tutte le guide Velocità e Core Web Vitals Glossario
 Migrazione e-commerce
 
 
@@ -11564,7 +13082,7 @@ Quali sono le scadenze da tenere d'occhio? La comunicazione di conferma va invia
 
 ## Pagine collegate
 
-Tutte le guide Software gestionale aziendale Automazione dei processi aziendali Software gestionale per la produzione Software house Quanto costa un gestionale
+Iperammortamento 2026 Bandi digitalizzazione 2026 in Veneto Tutte le guide Software gestionale aziendale Automazione dei processi aziendali Software gestionale per la produzione Software house Quanto costa un gestionale
 Integrazione software aziendali
 
 Software MES per la produzione
@@ -11667,6 +13185,129 @@ Tutte le guide Rifare il sito senza perdere posizioni Consulente SEO Restyling d
 Migrazione e-commerce
 
 SEO per e-commerce
+
+
+========================================================================
+# Idee per stand fieristici che attirano visitatori
+URL: https://danova-tech.com/idee-stand-fieristici/
+Descrizione: Idee per stand fieristici originali ed efficaci: altezza, luce, ledwall, prodotto in azione, aree per parlare, materiali sostenibili. Cosa funziona davvero in fiera.
+========================================================================
+
+Home / Allestimenti fieristici / Idee per stand
+
+Ispirazione · progettazione stand
+
+## Idee per stand fieristici che fanno entrare la gente.
+
+In un padiglione con centinaia di espositori, chi passa nel corridoio decide in pochi secondi se fermarsi. Uno stand originale non è quello più strano: è quello che si capisce da lontano, invita a entrare e, una volta dentro, rende facile parlare. Ecco le idee che usiamo più spesso, divise per obiettivo.
+
+Progettiamo il vostro stand
+
+Le idee
+
+Farsi notare
+
+## Idee per farsi vedere dal fondo del corridoio
+
+01
+
+## Un messaggio in alto
+
+Il marchio e una frase di cinque parole su cosa fate, sopra l'altezza delle teste. Quello che sta a un metro e mezzo da terra lo coprono i visitatori.
+
+02
+
+## Luce, non solo grafica
+
+Uno stand illuminato bene si stacca dal padiglione. Grafiche retroilluminate in tessuto, luce calda sui prodotti, nessuna zona d'ombra.
+
+03
+
+## Un ledwall con un contenuto solo
+
+Un video del prodotto in azione, senza audio e leggibile in dieci secondi. Non la presentazione aziendale di venti minuti.
+
+04
+
+## Un colore che è vostro
+
+Un colore forte e coerente, ripetuto su pareti, pavimento e divise. In fotografia e nella memoria resta più del logo.
+
+Farli entrare e restare
+
+## Idee per far entrare e far parlare
+
+01
+
+## Il prodotto in mano
+
+Il macchinario che lavora, il materiale da toccare, l'assaggio, il campione da portare via. In fiera vince quello che si prova.
+
+02
+
+## Stand aperto
+
+Niente banco che fa da barriera sul fronte. Il desk sta di lato o in fondo: chi passa deve poter fare un passo dentro senza sentirsi intrappolato.
+
+03
+
+## Un'area per sedersi
+
+Un tavolo, anche piccolo, dove la conversazione diventa un preventivo. Su uno stand a isola, una saletta chiusa per i clienti importanti.
+
+04
+
+## Raccogliere i contatti in digitale
+
+Un QR code che porta a una pagina dedicata alla fiera, un tablet per i dati del visitatore, il badge letto con l'app dell'ente fiera. Il biglietto da visita nella ciotola si perde.
+
+Con budget diversi
+
+## Idee anche per stand piccoli
+
+Su uno stand da 9 o 12 metri quadri le idee migliori sono quelle che tolgono: una parete di fondo con una grafica forte, un solo prodotto protagonista, un desk e due sgabelli. Ogni oggetto in più rende lo spazio più piccolo.
+
+Gli stand modulari in alluminio e tessuto teso permettono un'immagine curata con un costo contenuto, e si riusano per più fiere cambiando solo la grafica. Per chi fa tre o quattro fiere l'anno sono spesso la scelta più sensata.
+
+Per un'immagine sostenibile: strutture riutilizzabili, legno certificato, grafiche in tessuto riciclabile, illuminazione LED. Funziona se è vero e se si vede, non se resta scritto su un cartello.
+
+FAQ
+
+## Le domande sulle idee per lo stand.
+
+Come rendere originale uno stand fieristico?
+Con un'idea sola, chiara da lontano: un messaggio in alto, una luce che lo stacca dal padiglione, il prodotto in azione al centro. L'originalità che funziona è quella che fa capire in tre secondi cosa fate, non quella che stupisce senza spiegare.
+
+Come attirare visitatori allo stand?
+Visibilità dall'alto, stand aperto senza barriere sul fronte, il prodotto da provare, un ledwall con un contenuto breve e un invito mandato ai clienti prima della fiera con l'appuntamento già fissato.
+
+Cosa mettere in uno stand piccolo?
+Poco: una parete di fondo con una grafica forte, un prodotto protagonista, un desk e due sgabelli. Su pochi metri quadri ogni oggetto in più toglie spazio alle persone.
+
+Meglio uno stand su misura o modulare?
+Su misura quando l'immagine è il cuore del messaggio e lo stand è grande o a isola. Modulare quando fate più fiere l'anno e volete riusare la struttura cambiando la grafica. Spesso si combinano.
+
+Quanto prima bisogna progettare lo stand?
+Per uno stand su misura almeno tre o quattro mesi prima, per avere progetto, approvazione dell'ente fiera e produzione senza fretta. Per un modulare bastano alcune settimane.
+
+Fate voi il progetto?
+Sì: partiamo dai vostri obiettivi in fiera, prepariamo il progetto con render 3D e lo realizziamo, dal materiale al montaggio.
+
+## Avete una fiera in arrivo?
+
+Diteci fiera, metri quadri e cosa volete ottenere: vi mandiamo un'idea di stand con render e preventivo.
+
+Richiedi il progetto
+
+## Pagine collegate
+
+Allestimenti fieristici
+Progettazione stand e render 3D
+Stand fieristici piccoli
+Ledwall e illuminazione
+Grafica per stand
+Stand ecosostenibili
+Come preparare una fiera
 
 
 ========================================================================
@@ -11780,6 +13421,7 @@ Quasi mai. L'integrazione ha senso dove il lavoro manuale è ricorrente, misurab
 
 ## Pagine collegate
 
+Automazioni con n8n
 Software e automazioni
 Automazione processi aziendali
 E-commerce collegato al gestionale
@@ -11902,6 +13544,7 @@ Nei progetti che facciamo, no: toglie il lavoro meccanico attorno alle decisioni
 
 ## Pagine collegate
 
+AI Act per le aziende Automazioni con n8n SEO per l’intelligenza artificiale Bandi digitalizzazione 2026 in Veneto
 Automazione processi aziendali
 Software & automazioni
 Software house
@@ -11913,6 +13556,124 @@ Chatbot aziendale e agenti AI
 
 Software MES per la produzione
 Incentivi e iperammortamento
+
+
+========================================================================
+# Iperammortamento 2026: aliquote, software, scadenze
+URL: https://danova-tech.com/iperammortamento-2026/
+Descrizione: Iperammortamento 2026 spiegato da una software house: aliquote 180-100-50%, quali software rientrano, interconnessione, comunicazioni al GSE e scadenze.
+========================================================================
+
+Home / Digitalizzazione aziendale / Iperammortamento 2026
+
+Legge 199/2025 · aggiornato a ottobre 2026
+
+## Iperammortamento 2026: cosa rientra, cosa no.
+
+Dal 2026 l'agevolazione per chi investe in macchinari e software 4.0 è l'iperammortamento della Legge di Bilancio 2026, al posto di Transizione 4.0 e 5.0. Non è un credito d'imposta: è una maggiorazione del costo che si deduce. Qui trovate le aliquote, quali software rientrano davvero e la procedura al GSE, spiegati da chi i software li scrive.
+
+Verifichiamo il vostro software
+
+Le aliquote
+
+I numeri
+
+## Le aliquote, per scaglioni
+
+Le percentuali si applicano a scaglioni: un investimento da 3 milioni prende il 180% sui primi 2,5 milioni e il 100% sui restanti 500.000.
+
+01
+
+## +180% fino a 2,5 milioni
+
+Sulla quota di investimento fino a 2,5 milioni di euro il costo deducibile aumenta del 180%. È lo scaglione in cui ricadono quasi tutte le PMI.
+
+02
+
+## +100% da 2,5 a 10 milioni
+
+Sulla quota compresa fra 2,5 e 10 milioni di euro la maggiorazione è del 100%.
+
+03
+
+## +50% da 10 a 20 milioni
+
+Sulla quota fra 10 e 20 milioni di euro la maggiorazione scende al 50%. Oltre i 20 milioni non c'è maggiorazione.
+
+04
+
+## Nessun risparmio energetico da dimostrare
+
+È la differenza principale rispetto a Transizione 5.0: non serve più certificare una riduzione dei consumi. Restano i requisiti 4.0 e l'interconnessione documentata.
+
+Il punto pratico
+
+## Quali software rientrano davvero
+
+I beni immateriali agevolabili sono quelli elencati negli allegati alla norma, e hanno una caratteristica in comune: servono a far funzionare, coordinare o monitorare beni materiali 4.0 interconnessi . Rientrano, in genere: sistemi MES per la produzione, SCADA per la supervisione degli impianti, piattaforme PLM e PDM, piattaforme IoT e cloud di fabbrica, sistemi di tracciabilità collegati alle linee, applicazioni di realtà aumentata per manutenzione e formazione.
+
+Di norma non rientrano : il sito web, l'e-commerce, il gestionale amministrativo, il CRM commerciale, il software di contabilità, l'app per i clienti. Sono spesso investimenti ottimi, ma hanno la loro deducibilità ordinaria. Diffidate di chi ve li presenta come agevolati.
+
+Il requisito che scarta più pratiche è l' interconnessione : il bene deve scambiare dati con il sistema di gestione della produzione o con la rete di fornitura, in modo documentabile. Un software MES che dialoga con le macchine e con il gestionale è interconnesso; un foglio di calcolo in rete no. Quando sviluppiamo un software di produzione, l'interconnessione la progettiamo e la documentiamo dall'inizio, perché il perito la deve poter verificare.
+
+La procedura
+
+## Le tre comunicazioni al GSE
+
+Tutto passa dal portale del GSE, con accesso SPID. Servono anche una perizia asseverata sulle caratteristiche 4.0 e una certificazione contabile delle spese.
+
+- Comunicazione preventiva Prenota le risorse indicando l'investimento previsto. La piattaforma è aperta dal 12 giugno 2026.
+
+- Comunicazione di conferma Entro 60 giorni dall'esito positivo della preventiva, con ordini accettati e almeno il 20% del costo già pagato.
+
+- Comunicazione di completamento Entro il 15 novembre 2028, con gli investimenti da completare entro il 31 dicembre 2028.
+
+- Perizia e certificazione Perizia asseverata di un tecnico abilitato su caratteristiche 4.0 e interconnessione, e certificazione contabile di un revisore legale. Sono i documenti su cui si regge la pratica in caso di controllo.
+
+Una nota onesta
+
+## Prima il progetto, poi l'incentivo
+
+L'iperammortamento cambia il ritorno di un investimento, non lo crea. Il beneficio segue il piano di ammortamento del bene, quindi arriva in più esercizi e non subito come accadeva con il credito d'imposta. Se un progetto ha senso solo grazie all'agevolazione, quasi sempre non ha senso.
+
+Danova Tech è una software house, non uno studio fiscale. Questa pagina riassume le fonti pubbliche: legge 199/2025, articolo 1, commi 427-436, decreto interministeriale MIMIT-MEF del 7 maggio 2026 e decreto direttoriale del 10 giugno 2026. Prima di impegnare soldi verificate la vostra posizione con il commercialista. Se invece volete sapere se un certo software può rientrare fra i beni 4.0, ve lo guardiamo noi in mezz'ora, gratis.
+
+FAQ
+
+## Le domande sull'iperammortamento.
+
+Cos'è l'iperammortamento 2026?
+È l'agevolazione per gli investimenti in beni strumentali 4.0 introdotta dalla Legge di Bilancio 2026. Permette di dedurre un costo maggiorato: +180% fino a 2,5 milioni di euro, +100% fino a 10 milioni, +50% fino a 20 milioni. Sostituisce Transizione 4.0 e 5.0.
+
+Il software è agevolabile con l'iperammortamento?
+Sì, se è fra i beni immateriali elencati negli allegati e serve a far funzionare o monitorare beni materiali 4.0 interconnessi: MES, SCADA, PLM, piattaforme IoT di fabbrica. Un gestionale amministrativo, un CRM, un sito o un e-commerce di norma non rientrano.
+
+Serve dimostrare un risparmio energetico?
+No. Era il requisito di Transizione 5.0 che bloccava molte pratiche. Nell'iperammortamento 2026 restano i requisiti 4.0 e l'interconnessione, documentati da una perizia asseverata.
+
+Quali sono le scadenze?
+La comunicazione di conferma va inviata entro 60 giorni dall'esito positivo della preventiva, con almeno il 20% del costo pagato. La comunicazione di completamento scade il 15 novembre 2028, con investimenti completati entro il 31 dicembre 2028.
+
+Che differenza c'è con il credito d'imposta?
+Il credito d'imposta si compensava subito in F24. L'iperammortamento aumenta il costo deducibile e segue il piano di ammortamento del bene, quindi il vantaggio arriva in più anni. A parità di percentuale, l'effetto sulla cassa è più lento.
+
+Potete fare voi la pratica?
+No, la pratica la seguono il commercialista e un tecnico abilitato per la perizia. Noi progettiamo e documentiamo il software in modo che caratteristiche 4.0 e interconnessione siano verificabili, e forniamo al perito schede tecniche e prove di collegamento.
+
+## Il vostro software può rientrare?
+
+Mandateci cosa volete realizzare o acquistare: in mezz'ora vi diciamo se ha le caratteristiche per essere un bene 4.0 e cosa serve per documentarlo.
+
+Prenota la verifica gratuita
+
+## Pagine collegate
+
+Transizione 5.0: cosa è cambiato
+Software MES per la produzione
+Software gestionale produzione
+Bandi digitalizzazione 2026 in Veneto
+Digitalizzazione aziendale
+Integrazione software aziendali
 
 
 ========================================================================
@@ -12196,7 +13957,7 @@ Consulente SEO
 ========================================================================
 # Lavori realizzati da Danova Tech
 URL: https://danova-tech.com/lavori/
-Descrizione: Lavori di Danova Tech con nome del cliente e sito online: DajbocTechDon, UniCESD Olympo, Artantiss, l'officina GRG Performance e Oasi B&B Ponza.
+Descrizione: Lavori di Danova Tech con nome del cliente e sito online: Pan.door.a, DajbocTechDon, UniCESD Olympo, Artantiss, GRG Performance e Oasi B&B Ponza.
 ========================================================================
 
 Home / Lavori
@@ -12215,9 +13976,17 @@ I progetti
 
 ## Lavori pubblicati, con il nome del cliente
 
-Quattro progetti diversi in tutto: una piattaforma educativa, una piattaforma editoriale, il sito di un'officina e quello di un bed and breakfast su un'isola. Sono tutti online e potete aprirli.
+Sei progetti diversi: una piattaforma educativa, una piattaforma editoriale, il sito di un'officina, quello di un bed and breakfast su un'isola, un sito in trenta lingue e la SEO di un produttore di porte per interni, con lo screenshot di Search Console. Sono tutti online e potete aprirli.
 
 01
+
+## Pan.door.a
+
+Produttore di porte per interni, pannelli tamburati e componenti per mobili di Fontanelle (TV). Sito nuovo e SEO: una pagina per prodotto e per zona, guide con i prezzi veri. In tre mesi 931 clic e 29.900 impressioni da Google, con il grafico di Search Console pubblicato intero.
+
+Leggi il caso studio · pandooragroup.it
+
+02
 
 ## Artantiss
 
@@ -12225,7 +13994,7 @@ Piattaforma editoriale italiana dove si incontrano ricerca, medicina, arte e ben
 
 Leggi il caso studio · artantiss.com
 
-02
+03
 
 ## GRG Performance
 
@@ -12233,7 +14002,7 @@ Officina moto e scooter di Fossalta di Portogruaro, concessionaria ufficiale TM 
 
 Leggi il caso studio · grgperformance.it
 
-03
+04
 
 ## Oasi B&B Ponza
 
@@ -12241,7 +14010,7 @@ Bed and breakfast a Santa Maria di Ponza, in una casa ponzese di fine Ottocento.
 
 Leggi il caso studio · oasiponzabb.it
 
-04
+05
 
 ## UniCESD Olympo
 
@@ -12249,7 +14018,7 @@ Piattaforma educativa per un Centro Studi di Palermo: corsi di laurea online, ma
 
 Leggi il caso studio · unicesd-olympo.com
 
-05
+06
 
 ## DajbocTechDon
 
@@ -12290,6 +14059,7 @@ Chi siamo
 Software gestionale per edilizia
 App rapportini di lavoro
 Oasi Ponza
+Pan.door.a
 
 
 ========================================================================
@@ -12374,6 +14144,7 @@ L'altra cosa che si porta a casa è la stagionalità. Una struttura di mare lavo
 
 ## Pagine collegate
 
+Siti web per hotel e B&B
 Tutti i lavori
 UniCESD Olympo
 Artantiss
@@ -12382,6 +14153,106 @@ Realizzazione siti internet
 Sito web aziendale
 Restyling sito web
 Consulente SEO
+
+
+========================================================================
+# Pan.door.a: sito e SEO per porte per interni
+URL: https://danova-tech.com/lavori/pandoora/
+Descrizione: Caso studio Pan.door.a: sito e SEO per un produttore di porte per interni di Fontanelle (TV). Da pochi clic a oltre 50 al giorno in tre mesi.
+========================================================================
+
+Home / Lavori / Pan.door.a
+
+Caso studio · Sito e SEO
+
+## Pan.door.a: da pochi clic al giorno a oltre cinquanta .
+
+Un produttore di porte per interni, pannelli tamburati e componenti per mobili del distretto trevigiano del legno. Sito nuovo, una pagina per ogni prodotto e per ogni zona, guide con i prezzi veri. Qui sotto i numeri di Search Console, senza ritocchi.
+
+Parliamo del vostro progetto
+
+Vedi i numeri
+
+I numeri
+
+## Tre mesi di Search Console, lo screenshot intero
+
+Ricerca web su Google, dal 7 luglio al 6 ottobre 2026. Non è una percentuale scelta con cura: è il grafico com'è, con le giornate storte comprese.
+
+931 clic da Google in 3 mesi
+
+29.900 impressioni in 3 mesi
+
+3,1% CTR medio
+
+10,5 posizione media
+
+Google Search Console, rapporto Rendimento, tipo di ricerca Web, vista giornaliera. Linea blu: clic. Linea viola: impressioni.
+
+A luglio il sito riceveva pochi clic al giorno, spesso nessuno, e meno di cento impressioni. Da fine agosto la curva parte e non torna più indietro: a metà settembre i clic giornalieri sono stabilmente sopra i dieci, a fine mese sopra i trenta, e nei primi giorni di ottobre superano i cinquanta con circa 1.900 impressioni al giorno.
+
+Le due linee salgono insieme, ed è il dettaglio che conta di più. Se crescessero solo le impressioni vorrebbe dire che il sito compare per ricerche marginali in cui nessuno clicca; qui invece clic e impressioni si muovono in parallelo, segno che le pagine escono per ricerche che le persone fanno davvero e che il risultato viene scelto.
+
+Il progetto
+
+## Un'azienda che produce molte cose, e un sito che doveva dirle tutte
+
+Pan.door.a lavora a Fontanelle, in provincia di Treviso, dal 1987. Produce porte per interni in tre linee — laminate, laccate in qualsiasi colore RAL e pantografate — battenti, scorrevoli e filomuro, con posa inclusa in Veneto e Friuli Venezia Giulia. Accanto alle porte ci sono i pannelli tamburati per gli allestimenti fieristici, il parquet, i componenti per mobili e un reparto di verniciatura che lavora anche su pezzi del cliente.
+
+La difficoltà era la stessa di molte aziende manifatturiere: tante produzioni diverse, pubblici diversi (privati che rifanno casa, rivenditori, falegnami, allestitori di stand) e un rischio concreto di fare una home con un elenco di tutto e nessuna pagina capace di posizionarsi su qualcosa.
+
+Per questo il lavoro è partito dalla struttura e non dalla grafica: prima decidere a quali ricerche ogni pagina deve rispondere, poi scriverla.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Quattro leve, tutte visibili sul sito: potete aprirlo e controllarle una per una.
+
+01
+
+## Sito nuovo, veloce e pulito
+
+Rifatto da zero con pagine leggere, struttura dei link interni ordinata, dati strutturati e i dati aziendali completi in ogni pagina. La base tecnica su cui il resto può funzionare.
+
+02
+
+## Una pagina per prodotto
+
+Porte, montaggio porte, pannelli tamburati, parquet, componenti per mobili, verniciatura: ognuno con la sua pagina, il suo catalogo e il suo preventivo. Chi cerca una cosa atterra su quella cosa.
+
+03
+
+## Pagine per le zone servite
+
+Porte interne in Veneto, porte interne in Friuli Venezia Giulia, falegnameria a Treviso: le ricerche che portano clienti a un produttore di porte contengono quasi sempre la zona.
+
+04
+
+## Guide con i prezzi veri
+
+Quanto costano le porte interne, i pannelli tamburati, il parquet al metro quadro: cifre pubblicate, cosa le fa variare, esempi di calcolo. Più glossario e FAQ. Sono le pagine che la gente cerca prima di chiedere un preventivo.
+
+Cosa si impara
+
+## Perché questo caso è utile ad altri produttori
+
+Il primo punto è che la crescita non è stata immediata. Il grafico resta quasi piatto per tutto luglio e buona parte di agosto: è il tempo che serve a Google per scansionare le pagine nuove, capire di cosa parla ciascuna e cominciare a fidarsi. Chi promette risultati SEO in due settimane promette qualcos'altro.
+
+Il secondo è che pubblicare i prezzi paga. Le pagine con i listini e i fattori di costo intercettano chi sta già decidendo, e sono quelle che un'azienda manifatturiera di solito non vuole scrivere. Chi le scrive, spesso, è l'unico in zona ad averle.
+
+Il terzo è che c'è ancora margine, e lo diciamo apertamente: una posizione media di 10,5 significa che una parte delle ricerche esce ancora in fondo alla prima pagina o in seconda. Il lavoro dei prossimi mesi è portare in alto le pagine che oggi sono già vicine, non aprirne di nuove a caso.
+
+## Pagine collegate
+
+Tutti i lavori
+GRG Performance
+DajbocTechDon
+SEO e posizionamento
+Posizionamento su Google
+Consulente SEO a Treviso
+Sito web aziendale
+Realizzazione siti internet
 
 
 ========================================================================
@@ -12582,6 +14453,7 @@ Prenota la call gratuita
 
 ## Pagine collegate
 
+Realizzazione landing page Quanto costa Google Ads
 Consulente Google Ads
 Meta Ads: Facebook e Instagram
 CRM aziendale su misura
@@ -12728,7 +14600,7 @@ Progettazione stand e render 3D
 
 
 ========================================================================
-# Migrazione e-commerce senza perdere vendite
+# Migrazione e-commerce WooCommerce e PrestaShop
 URL: https://danova-tech.com/migrazione-ecommerce/
 Descrizione: Cambiare piattaforma e-commerce senza perdere posizioni su Google: redirect, dati, recensioni e storico ordini. Piano di migrazione e verifiche.
 ========================================================================
@@ -12852,7 +14724,7 @@ SEO per e-commerce
 ========================================================================
 # Montaggio stand fieristici: montatori in fiera
 URL: https://danova-tech.com/montaggio-stand-fieristici/
-Descrizione: Montaggio e smontaggio di stand fieristici con montatori direttamente in fiera, in Italia e all'estero. Materiali, componentistica, impianto elettrico e grafiche. Anche urgenze.
+Descrizione: Montaggio e smontaggio di stand fieristici con montatori in fiera, in Italia e all'estero. Materiali, impianto elettrico e grafiche. Anche in urgenza.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Montaggio stand fieristici
@@ -12984,7 +14856,7 @@ Stand a Parma
 ========================================================================
 # Noleggio stand fieristici e arredi per fiere
 URL: https://danova-tech.com/noleggio-stand-fieristici/
-Descrizione: Noleggio stand fieristici preallestiti e modulari, arredi, luci, moquette, schermi e LED, con trasporto e montaggio in fiera. In Italia e all'estero, anche con poco preavviso.
+Descrizione: Noleggio stand fieristici preallestiti e modulari, arredi, luci, schermi LED, con trasporto e montaggio in fiera. In Italia e all'estero, anche last minute.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Noleggio stand fieristici
@@ -13073,6 +14945,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Contributi per le fiere 2026
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -13090,6 +14963,124 @@ Stand a Vicenza
 Stand a Pordenone
 Stand a Rimini
 Stand a Parma
+
+
+========================================================================
+# Portale rivenditori B2B: ordini e listini
+URL: https://danova-tech.com/portale-rivenditori-b2b/
+Descrizione: Portale rivenditori B2B su misura: listini personalizzati, disponibilità in tempo reale, ordini, documenti e garanzie, collegato al vostro gestionale.
+========================================================================
+
+Home / Siti web ed e-commerce / Portale rivenditori
+
+B2B · rivenditori · agenti
+
+## Portale rivenditori: la rete ordina da sola.
+
+Telefonate per sapere se un articolo è disponibile, email per il listino aggiornato, ordini scritti a mano e ricopiati in ufficio. Con una rete di rivenditori, l'ufficio commerciale passa metà della giornata a rispondere invece che a vendere. Un portale riservato, collegato al gestionale, risponde da solo alle domande di tutti i giorni.
+
+Parliamo della vostra rete
+
+Cosa c'è dentro
+
+Le funzioni
+
+## Cosa trova il rivenditore
+
+01
+
+## Il suo listino
+
+Ogni rivenditore vede i prezzi suoi: sconti per classe, condizioni particolari, promozioni riservate. Presi dal gestionale, mai da un PDF vecchio.
+
+02
+
+## Disponibilità e tempi
+
+Giacenza e data di arrivo prevista, articolo per articolo. La domanda più frequente al telefono smette di esserlo.
+
+03
+
+## Ordini e riordini
+
+Carrello, ordini ricorrenti, caricamento da file o da codice. L'ordine entra nel gestionale senza essere ricopiato.
+
+04
+
+## Documenti
+
+Fatture, DDT, conferme d'ordine, schede tecniche, certificazioni, manuali. Sempre aggiornati, scaricabili quando servono.
+
+05
+
+## Materiale marketing
+
+Foto, cataloghi, video, testi per il sito del rivenditore. Il vostro marchio presentato bene anche dove non ci siete.
+
+06
+
+## Assistenza e garanzie
+
+Apertura di resi e richieste di garanzia con foto e numero di serie, e stato della pratica visibile in ogni momento.
+
+Portale o e-commerce
+
+## Un portale non è un negozio online
+
+Un e-commerce B2C vende a chiunque, a prezzo pubblico. Un portale rivenditori è chiuso, e ogni utente vede condizioni diverse: listini, pagamenti, minimi d'ordine, articoli riservati. La parte difficile non è la grafica, è il collegamento con il gestionale che quelle condizioni le conosce già.
+
+Per questo partiamo sempre dal gestionale: leggiamo da lì clienti, listini e giacenze, e scriviamo lì gli ordini. Il portale diventa una finestra aperta sui vostri dati, non una copia da tenere allineata a mano.
+
+Se gli agenti di commercio lavorano con la stessa rete, il portale può avere anche una parte per loro: ordini per conto del cliente, provvigioni, situazione dei pagamenti. Ne parliamo nella pagina sull' app per agenti di commercio .
+
+Come si parte
+
+## Dal gestionale al primo ordine online.
+
+- Analisi Come ordinano oggi i rivenditori, quali condizioni hanno, cosa chiedono più spesso al telefono, quale gestionale usate.
+
+- Collegamento al gestionale Il lavoro più importante: clienti, listini, giacenze e ordini letti e scritti in automatico.
+
+- Pilota con pochi rivenditori Partiamo con cinque o dieci rivenditori di fiducia, raccogliamo i commenti, correggiamo.
+
+- Apertura a tutta la rete Inviti, guida rapida, assistenza nelle prime settimane. Il portale funziona quando i rivenditori lo usano davvero.
+
+FAQ
+
+## Le domande sul portale.
+
+Che cos'è un portale rivenditori?
+È un'area web riservata in cui i rivenditori di un'azienda vedono il proprio listino, controllano la disponibilità, fanno ordini, scaricano documenti e materiale marketing. È collegato al gestionale, quindi i dati sono sempre aggiornati.
+
+Con quali gestionali si collega?
+Con la maggior parte dei gestionali usati dalle PMI italiane, tramite API, database o file di scambio. Prima di iniziare verifichiamo come il vostro gestionale espone i dati e ve lo diciamo con chiarezza.
+
+Ogni rivenditore vede prezzi diversi?
+Sì, ed è il punto centrale. Le condizioni di ogni rivenditore vengono lette dal gestionale: listino, sconti, pagamento, minimi d'ordine, articoli riservati.
+
+È diverso da un e-commerce B2B?
+Spesso sono la stessa cosa con nomi diversi. Parliamo di portale rivenditori quando l'accesso è riservato alla rete e le funzioni vanno oltre l'ordine: documenti, materiale marketing, garanzie, assistenza.
+
+Funziona anche in più lingue?
+Sì. Per le reti di distributori all'estero il portale può essere multilingua, con listini in valute diverse e documenti per paese.
+
+Quanto costa un portale rivenditori?
+Dipende soprattutto dall'integrazione con il gestionale e dal numero di funzioni. Vi diamo un prezzo fisso dopo l'analisi; il punto di partenza per i progetti su misura è sul nostro listino.
+
+## Quante telefonate al giorno arrivano dai rivenditori?
+
+Raccontateci la vostra rete e il gestionale che usate: vi diciamo come un portale cambierebbe il lavoro dell'ufficio commerciale.
+
+Prenota la chiamata gratuita
+
+## Pagine collegate
+
+E-commerce B2B
+E-commerce collegato al gestionale
+App per agenti di commercio
+Software preventivi e configuratore
+Integrazione software aziendali
+Prezzi
 
 
 ========================================================================
@@ -13236,6 +15227,7 @@ L’ordine che funziona quasi sempre è questo. Primo: controllare in Search Con
 
 ## Pagine collegate
 
+Come indicizzare un sito su Google Come ottenere recensioni Google SEO per l’intelligenza artificiale
 SEO e posizionamento
 Consulente SEO
 Consulente SEO a Treviso
@@ -13553,6 +15545,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Idee per stand fieristici
 Stand su misura
 Grafica per stand
 Allestimenti fieristici
@@ -13566,6 +15559,125 @@ Stand piccoli (9–24 mq)
 Stand a due piani
 Stand ecosostenibili
 Ledwall e illuminazione
+
+
+========================================================================
+# Quanto costa Google Ads: budget e costo per clic
+URL: https://danova-tech.com/quanto-costa-google-ads/
+Descrizione: Quanto costa la pubblicità su Google Ads nel 2026: costo per clic per settore, budget minimo sensato, costo della gestione e come non sprecare i primi mesi.
+========================================================================
+
+Home / Google Ads / Quanto costa
+
+Pubblicità su Google · costi 2026
+
+## Quanto costa Google Ads: budget, clic e gestione.
+
+Su Google non si paga un abbonamento: si paga ogni clic, a un prezzo che decide un'asta. Per questo la domanda giusta non è quanto costa Google Ads, ma quanto costa un cliente arrivato da Google Ads. Qui trovate i costi per clic reali di alcuni settori, il budget sotto il quale i dati non bastano per decidere, e cosa si paga a parte per la gestione.
+
+Chiedi una stima per il tuo settore
+
+Le tre voci di costo
+
+Le voci
+
+## Tre costi, pagati a tre soggetti diversi
+
+01
+
+## Il budget pubblicitario
+
+Lo pagate direttamente a Google, con la vostra carta, sull'account intestato a voi. Lo decidete voi e potete cambiarlo o fermarlo ogni giorno. Google non chiede un minimo.
+
+02
+
+## La gestione delle campagne
+
+Il compenso di chi imposta e segue le campagne: ricerca delle parole chiave, annunci, esclusioni, tracciamento delle conversioni, ottimizzazione settimanale. Di solito è una cifra mensile fissa, o fissa più una parte legata alla spesa.
+
+03
+
+## La pagina di arrivo
+
+Dove atterra chi clicca. Spesso è la voce che fa la differenza: un clic che finisce su una home generica costa come uno che finisce su una landing page fatta per quella ricerca, ma converte molto meno.
+
+Numeri reali
+
+## Quanto costa un clic, settore per settore
+
+Dai dati del Keyword Planner di Google per l'Italia (agosto 2025 – luglio 2026), le offerte per comparire in cima alla pagina su ricerche di servizi per le aziende stanno in queste fasce:
+
+Siti web e web agency: da circa 1,60 € a 4,50 € a clic nei valori tipici, fino a 10 € nelle città più contese.
+
+Software gestionali, CRM ed ERP: da 2 € a 8 € a clic, con punte di 19 € su ricerche come software gestionale produzione.
+
+SEO e posizionamento: da 2,30 € a 6 €, fino a 25 € su posizionamento su Google.
+
+Sviluppo app: da 1,40 € a 6,40 €, fino a quasi 20 €.
+
+Agenzie di pubblicità e lead generation: da 2,70 € a 9 €, fino a 25 €.
+
+Per altri settori le cifre cambiano molto: i servizi legali, le assicurazioni e i traslochi stanno in alto; il commercio locale e la ristorazione in basso. Prima di partire ricaviamo le fasce del vostro settore e della vostra zona dallo stesso strumento, gratis.
+
+Il budget minimo
+
+## Sotto una certa cifra i dati non bastano
+
+Un conto semplice: se un clic costa 3 € e una visita su trenta diventa una richiesta di contatto, ogni richiesta costa circa 90 €. Con 300 € al mese arrivano tre o quattro richieste: troppo poche per capire quali parole chiave funzionano e quali no.
+
+Per un'azienda di servizi in una provincia, il primo test sensato sta di solito fra 15 e 30 € al giorno per almeno due o tre mesi. Meno di così si può fare, ma su poche parole molto mirate e accettando di imparare più lentamente.
+
+Il budget si alza dopo, non prima: quando sappiamo quanto costa una richiesta e quante richieste diventano clienti, aumentare la spesa diventa un conto e non una scommessa.
+
+Dove si sprecano i soldi
+
+## Gli errori che alzano il costo
+
+- Parole chiave troppo larghe Gestionale da sola porta studenti, chi cerca un programma gratis e chi vuole un lavoro. Corrispondenza a frase o esatta e una lista di parole escluse fin dal primo giorno: gratis, corso, lavoro, stipendio, fai da te.
+
+- Nessun tracciamento delle conversioni Senza sapere quali clic diventano chiamate o moduli, Google ottimizza per i clic. Telefonate, moduli e messaggi WhatsApp vanno misurati prima di spendere il primo euro.
+
+- Rete Display attiva per errore Le campagne sulla rete di ricerca la includono per impostazione predefinita. Per un servizio B2B spesso porta clic economici e inutili da app e siti di giochi.
+
+- Zona troppo ampia Se lavorate in Veneto e Friuli, mostrare gli annunci a tutta Italia raddoppia la spesa senza raddoppiare i clienti. Si parte dalla zona servita e si allarga solo se i dati lo dicono.
+
+FAQ
+
+## Le domande sui costi.
+
+Quanto costa fare pubblicità su Google?
+Il budget pubblicitario lo decidete voi: Google non ha un minimo e si paga a clic. Nei servizi alle aziende un clic costa in genere da 1,50 € a 9 €. Per un primo test che dia dati utilizzabili servono di solito 15-30 € al giorno per due o tre mesi, più l'eventuale costo della gestione.
+
+Quanto costa un clic su Google Ads?
+Dipende dalla concorrenza sulla parola chiave. Dai dati del Keyword Planner per l'Italia: siti web 1,60-4,50 €, gestionali e software 2-8 €, SEO 2,30-6 €, app 1,40-6,40 €, con punte di 20-25 € sulle ricerche più contese.
+
+Si paga anche se nessuno clicca?
+Nelle campagne sulla rete di ricerca no: si paga solo il clic. Alcune campagne video e display possono essere pagate a visualizzazione, ma per i servizi alle aziende partiamo quasi sempre dalla rete di ricerca.
+
+L'account Google Ads è mio?
+Sì, sempre. L'account è intestato a voi, il budget lo paga la vostra carta direttamente a Google e noi abbiamo un accesso da gestori. Se un giorno smettiamo di lavorare insieme, campagne e dati restano vostri.
+
+Meglio Google Ads o la SEO?
+Non si escludono. Google Ads porta richieste da subito, finché pagate; la SEO impiega mesi, ma poi lavora senza costo a clic. Spesso usiamo Google Ads nei primi mesi anche per scoprire quali ricerche portano clienti, e poi costruiamo la SEO su quelle.
+
+Quanto costa la gestione delle campagne?
+Dipende da quante campagne, lingue e zone. Vi diamo un prezzo fisso mensile dopo la prima chiamata, separato dal budget pubblicitario, senza percentuali nascoste sulla spesa.
+
+## Quanto vi costerebbe un cliente da Google?
+
+Diteci cosa vendete e dove. Vi mandiamo le parole chiave del vostro settore con il costo per clic reale e un budget di partenza ragionato.
+
+Richiedi la stima gratuita
+
+## Pagine collegate
+
+Consulente Google Ads
+Meta Ads: Facebook e Instagram
+Realizzazione landing page
+Lead generation B2B
+Consulenza SEO
+Quanto costa un sito web
+Prezzi
 
 
 ========================================================================
@@ -14279,7 +16391,7 @@ App per prenotazioni
 ========================================================================
 # Quanto costa uno stand fieristico: le voci di costo
 URL: https://danova-tech.com/quanto-costa-uno-stand-fieristico/
-Descrizione: Quanto costa uno stand fieristico? Area, struttura, progetto, grafica, impianti, arredi, montaggio e trasporto: tutte le voci che compongono il prezzo e come confrontare i preventivi.
+Descrizione: Quanto costa uno stand fieristico? Area, struttura, progetto, grafica, impianti, arredi, montaggio e trasporto: le voci del prezzo e come confrontare i preventivi.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Quanto costa uno stand fieristico
@@ -14390,6 +16502,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Contributi per le fiere 2026
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -14546,6 +16659,125 @@ E-commerce B2B
 SEO per e-commerce
 Aprire un negozio online
 App fidelizzazione clienti
+
+
+========================================================================
+# Realizzazione landing page per campagne
+URL: https://danova-tech.com/realizzazione-landing-page/
+Descrizione: Realizzazione di landing page per Google Ads e Meta Ads: una pagina, un'offerta, un'azione. Veloci, misurate, collegate al CRM. Prezzo fisso dopo la prima call.
+========================================================================
+
+Home / Siti web / Landing page
+
+Landing page · campagne · conversioni
+
+## Landing page che trasformano i clic in richieste.
+
+Chi clicca un annuncio ha in testa una domanda precisa. Se atterra sulla home del sito deve cercare da solo la risposta, e quasi sempre se ne va. Una landing page è una pagina sola, fatta per quella domanda: un'offerta, le prove che la sostengono, un modo semplice per contattarvi. Dimezzare il costo di ogni contatto, spesso, si fa qui e non nella campagna.
+
+Parliamo della vostra campagna
+
+Cosa c'è dentro
+
+Cosa c'è dentro
+
+## Gli elementi di una landing che converte
+
+01
+
+## Un titolo che ripete la ricerca
+
+Se l'annuncio parla di gestionale per officine, il titolo parla di gestionale per officine. Chi arriva deve capire in tre secondi di essere nel posto giusto.
+
+02
+
+## Una sola azione
+
+Chiamare, compilare un modulo breve, scrivere su WhatsApp, prenotare una call. Una sola, ripetuta lungo la pagina. Niente menu che portano altrove.
+
+03
+
+## Prove concrete
+
+Casi studio con numeri, loghi di clienti, recensioni Google reali, foto dei lavori. Le affermazioni senza prove non convincono più nessuno.
+
+04
+
+## Velocità da telefono
+
+La maggior parte dei clic arriva da smartphone. Pagina leggera, immagini ottimizzate, caricamento sotto i due secondi: ogni secondo in più si paga in contatti persi.
+
+05
+
+## Tracciamento completo
+
+Moduli, chiamate, clic su WhatsApp ed email registrati come conversioni in Google Ads, Meta e Analytics, con il consenso cookie in regola. È quello che permette alle campagne di ottimizzare.
+
+06
+
+## Collegamento al CRM
+
+Il contatto non finisce in una casella email: arriva nel vostro CRM o gestionale, con la fonte della campagna, e parte subito la risposta automatica.
+
+Quando serve
+
+## Landing page o pagina del sito?
+
+Serve una landing page quando pagate per ogni visita: campagne Google Ads, Meta Ads, LinkedIn, e-mail. Lì ogni punto percentuale di conversione in più abbassa il costo di ogni contatto.
+
+Per la SEO, invece, funzionano meglio pagine di servizio complete, collegate al resto del sito: Google premia la profondità, gli annunci premiano la concentrazione. Spesso costruiamo entrambe partendo dagli stessi contenuti.
+
+Una landing page può stare sul vostro dominio, per esempio in una cartella dedicata, oppure su un sottodominio separato. La prima strada è quasi sempre la migliore: dominio vostro, fiducia vostra, dati vostri.
+
+Come lavoriamo
+
+## Dalla ricerca alla pagina misurata.
+
+- Chiamata Cosa vendete, a chi, cosa vi chiedono i clienti prima di comprare. Mezz'ora, gratuita.
+
+- Testi e struttura Scriviamo noi i testi partendo dalle ricerche reali che le persone fanno su Google, e ve li mandiamo da approvare prima della grafica.
+
+- Sviluppo e tracciamento Pagina veloce, responsive, con conversioni configurate e testate su Google Ads, Meta e Analytics.
+
+- Test e miglioramento Dopo le prime settimane di traffico guardiamo i dati e proviamo varianti di titolo, offerta e modulo. Una landing page non è mai finita al primo giorno.
+
+FAQ
+
+## Le domande sulle landing page.
+
+Cos'è una landing page?
+È una pagina web pensata per un solo obiettivo, di solito ricevere una richiesta di contatto da chi arriva da un annuncio o da una email. A differenza di una pagina normale del sito non ha menu né distrazioni: un'offerta, le prove e un modo semplice per agire.
+
+Quanto costa una landing page?
+Dipende da testi, grafica, integrazioni e numero di varianti. Vi diamo un prezzo fisso dopo la prima chiamata, compresi testi e tracciamento delle conversioni. Per un'idea dei nostri prezzi sui siti web trovate il listino nella pagina prezzi.
+
+Fate anche le campagne?
+Sì. Possiamo realizzare solo la landing page per la vostra agenzia o il vostro reparto marketing, oppure occuparci anche delle campagne Google Ads e Meta Ads. Quando seguiamo entrambe le cose, il miglioramento è più rapido perché vediamo tutti i dati.
+
+Su che piattaforma la realizzate?
+Scriviamo pagine in HTML pulito, che caricano in fretta e non dipendono da plugin. Se il vostro sito è in WordPress possiamo integrarla lì. In entrambi i casi la pagina è vostra.
+
+Quanto tempo serve?
+Dopo l'approvazione dei testi, una landing page è online in pochi giorni lavorativi. La parte più lunga è quasi sempre raccogliere prove, foto e casi studio.
+
+Si può usare anche per una fiera?
+Sì, ed è un uso che consigliamo: una pagina dedicata alla vostra presenza in fiera, con stand, novità e prenotazione dell'appuntamento, da linkare nelle email di invito e da raggiungere col QR code allo stand.
+
+## State pagando clic che non diventano contatti?
+
+Mandateci il link della pagina su cui atterrano i vostri annunci: vi diciamo cosa cambieremmo per primo, gratis.
+
+Richiedi l'analisi gratuita
+
+## Pagine collegate
+
+Quanto costa Google Ads
+Consulente Google Ads
+Meta Ads: Facebook e Instagram
+Lead generation B2B
+Siti web ed e-commerce
+CRM aziendale
+Prezzi
 
 
 ========================================================================
@@ -16475,16 +18707,133 @@ Posizionamento su Google
 
 
 ========================================================================
-# Allestimenti fieristici e stand chiavi in mano
+# SEO per l'AI: comparire su ChatGPT e Perplexity
+URL: https://danova-tech.com/seo-per-intelligenza-artificiale/
+Descrizione: SEO per l'intelligenza artificiale: come far citare la vostra azienda da ChatGPT, Perplexity, Gemini e dalle AI Overviews di Google. Cosa funziona e cosa no.
+========================================================================
+
+Home / SEO / SEO per l'AI
+
+GEO · AI Overviews · ChatGPT
+
+## SEO per l'intelligenza artificiale: farsi citare da ChatGPT.
+
+Una parte crescente delle ricerche non finisce più su una lista di link: finisce in una risposta scritta, da ChatGPT, Perplexity, Gemini o dal riquadro AI in cima a Google. Se in quella risposta il vostro nome non c'è, per quel cliente non esistete. La buona notizia è che le regole per entrarci somigliano molto a quelle della buona SEO, con qualche differenza che conta.
+
+Controlliamo come vi descrive l'AI
+
+Come funziona
+
+Come scelgono le fonti
+
+## Da dove prende le risposte un assistente AI
+
+Gli assistenti AI rispondono in due modi. Il primo è la memoria del modello, costruita su testi raccolti mesi prima: lì entra chi era già citato in molte fonti affidabili. Il secondo, sempre più usato, è la ricerca in tempo reale: l'assistente cerca sul web, legge poche pagine e riassume. Le AI Overviews di Google e Perplexity funzionano quasi solo così.
+
+Per la ricerca in tempo reale valgono le basi della SEO: se Google e Bing non vi trovano, non vi trova nemmeno l'AI. Poi entra in gioco una cosa diversa: l'AI cita le pagine da cui è facile estrarre una risposta . Una frase chiara che risponde alla domanda, dati precisi, una fonte riconoscibile.
+
+Per la memoria del modello conta l' entità : quante fonti indipendenti parlano di voi, in modo coerente. Nome, sede, cosa fate, per chi. Se siti diversi vi descrivono in modo diverso, o vi confondono con un omonimo, l'AI fa lo stesso.
+
+Su cosa interveniamo
+
+## Le leve che funzionano davvero
+
+01
+
+## Pagine che rispondono
+
+Una domanda per pagina, la risposta nelle prime righe, poi i dettagli. Domande frequenti scritte come le scrive un cliente, non come le scrive un ufficio marketing. È il formato che gli assistenti riprendono quasi parola per parola.
+
+02
+
+## Dati strutturati e scheda dell'azienda
+
+Schema Organization, Service, FAQ e LocalBusiness ben compilati, con partita IVA, sede, area servita e descrizione che distingue voi dagli omonimi. Più un file llms.txt che riassume chi siete per i crawler AI.
+
+03
+
+## Accesso ai crawler AI
+
+GPTBot, OAI-SearchBot, PerplexityBot, ClaudeBot, Google-Extended: molti siti li bloccano senza saperlo, da robots.txt o dal firewall. Verifichiamo che possano leggere le pagine che volete far citare.
+
+04
+
+## Citazioni esterne
+
+Google Business Profile completo, directory di settore, associazioni di categoria, articoli e casi studio sui siti dei clienti. Sono le fonti che i modelli usano per confermare che un'azienda esiste e fa quello che dice.
+
+05
+
+## Bing, non solo Google
+
+ChatGPT e Copilot si appoggiano in buona parte all'indice di Bing. Un sito ben posizionato su Google ma ignorato da Bing perde metà delle occasioni. Registriamo il sito su Bing Webmaster Tools e IndexNow.
+
+06
+
+## Misura
+
+Chiediamo agli assistenti le domande dei vostri clienti, ogni mese, e annotiamo chi viene citato. Più il traffico in arrivo da chatgpt.com e perplexity.ai in Analytics. Senza misura, la SEO per l'AI resta un atto di fede.
+
+Cosa possiamo promettere
+
+## Quello che nessuno può garantire
+
+Nessuno può garantire che ChatGPT vi nomini. Le risposte cambiano da utente a utente e da un giorno all'altro, e i modelli vengono aggiornati senza preavviso. Chi vende la prima posizione su ChatGPT vende qualcosa che non controlla.
+
+Quello che si può fare è aumentare la probabilità, in modo misurabile: essere la fonte più chiara e più confermata sul vostro argomento, nella vostra zona. È lo stesso lavoro che porta clienti da Google, fatto tenendo conto di come leggono le macchine. Per questo lo facciamo dentro la consulenza SEO, non come servizio separato.
+
+FAQ
+
+## Le domande sulla SEO per l'AI.
+
+Come si fa a comparire su ChatGPT?
+Servono tre cose: un sito che i motori di ricerca, Bing compreso, indicizzano bene; pagine che rispondono in modo chiaro alle domande dei clienti; e fonti esterne coerenti che confermano chi siete. Bisogna anche verificare che il sito non blocchi i crawler di OpenAI.
+
+Che differenza c'è fra SEO e GEO?
+GEO, Generative Engine Optimization, è il nome che si usa per l'ottimizzazione verso i motori generativi come ChatGPT e Perplexity. Le basi sono le stesse della SEO; cambia il peso di alcune cose, come la chiarezza delle risposte, i dati strutturati e le citazioni esterne.
+
+Le AI Overviews di Google mi tolgono traffico?
+Su alcune ricerche informative sì: chi trova la risposta nel riquadro non clicca. Sulle ricerche commerciali, come la scelta di un fornitore, il riquadro cita poche aziende e chi viene citato riceve clic più qualificati. Conviene essere fra quelle.
+
+Devo creare un file llms.txt?
+È utile e costa poco: è un file di testo che riassume chi siete e quali pagine contano. Non è uno standard ufficiale e non sostituisce il resto, ma aiuta gli assistenti a descrivervi correttamente.
+
+Come faccio a sapere se ChatGPT mi cita già?
+Fate le domande che farebbe un vostro cliente, per esempio il servizio più la città, su ChatGPT, Perplexity e Gemini, e annotate chi compare. In Google Analytics controllate anche le visite in arrivo da chatgpt.com e perplexity.ai.
+
+È un servizio a parte?
+No, è parte della nostra consulenza SEO. Separarlo avrebbe poco senso, perché le stesse pagine e gli stessi dati lavorano per Google e per gli assistenti AI.
+
+## Volete sapere cosa dice ChatGPT di voi?
+
+Facciamo agli assistenti AI le domande dei vostri clienti e vi mandiamo cosa rispondono, chi citano e cosa manca al vostro sito per entrarci. Gratis.
+
+Richiedi il controllo gratuito
+
+## Pagine collegate
+
+Come indicizzare un sito su Google
+Consulenza SEO
+Consulente SEO
+Posizionamento sito su Google
+Google Business Profile: la guida
+Intelligenza artificiale per aziende
+Chatbot aziendale
+Agenzia link building
+SEO per e-commerce
+
+
+========================================================================
+# Allestimenti fieristici e stand per fiere chiavi in mano
 URL: https://danova-tech.com/servizi/allestimenti-fieristici/
-Descrizione: Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, componentistica, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto, oltre 25 anni di esperienza.
+Descrizione: Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto, 25 anni di esperienza.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici
 
 Allestimenti fieristici · Novità
 
-## Allestimenti fieristici e stand chiavi in mano .
+## Allestimenti fieristici e stand per fiere chiavi in mano .
 
 Progettiamo, forniamo e montiamo stand fieristici per aziende di ogni settore, in Italia e all'estero. Troviamo il materiale necessario e tutta la componentistica richiesta, e le nostre squadre di montatori costruiscono lo stand direttamente in fiera. Oltre 25 anni di esperienza nel settore fieristico, un unico referente dal primo schizzo allo smontaggio.
 
@@ -16652,6 +19001,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Idee per stand fieristici Contributi per le fiere 2026
 Calendario fiere 2026–2027
 Montaggio stand fieristici
 Stand fieristici su misura
@@ -17056,6 +19406,7 @@ Richiedi un preventivo gratuito
 
 Siamo a Mansuè, in provincia di Treviso. Con le aziende della zona gli incontri si fanno in azienda: qui sotto le pagine dedicate a ciascun territorio.
 
+Software WMS Portale rivenditori B2B
 Treviso e provincia
 Pordenone e Friuli occidentale
 Venezia e Mestre
@@ -17104,7 +19455,7 @@ Software & automazioni
 
 
 ========================================================================
-# Consulente Google Ads: campagne che convertono
+# Agenzia Google Ads: gestione campagne che convertono
 URL: https://danova-tech.com/servizi/google-ads/
 Descrizione: Gestione campagne Google Ads per aziende: ricerca, Performance Max e remarketing. Budget sotto controllo, costo per contatto misurato, report chiari.
 ========================================================================
@@ -17234,6 +19585,7 @@ C’è anche un uso di Ads che quasi nessuno propone e che vale molto: farne una
 
 ## Pagine collegate
 
+Quanto costa Google Ads Realizzazione landing page
 Consulenza SEO
 Meta Ads e campagne
 Siti web ed e-commerce
@@ -17352,6 +19704,7 @@ Richiedi un preventivo gratuito
 
 ## Gli altri servizi
 
+Realizzazione landing page Quanto costa Google Ads
 Siti web & E-commerce
 SEO & posizionamento
 App su misura
@@ -17365,7 +19718,7 @@ Lead generation B2B
 
 
 ========================================================================
-# Consulenza SEO e posizionamento su Google
+# Agenzia SEO e consulenza SEO: posizionamento su Google
 URL: https://danova-tech.com/servizi/seo/
 Descrizione: Audit tecnico, keyword research, contenuti e SEO locale per farti trovare da chi ti sta già cercando. Report mensili leggibili, senza promesse impossibili.
 ========================================================================
@@ -17500,6 +19853,7 @@ La SEO locale merita un discorso a parte perché è il caso in cui i risultati a
 
 ## Gli altri servizi
 
+Come indicizzare un sito su Google Come ottenere recensioni Google SEO per l’intelligenza artificiale
 Siti web & E-commerce
 Meta Ads & campagne
 App su misura
@@ -17675,6 +20029,7 @@ Richiedi un preventivo gratuito
 
 ## Gli altri servizi
 
+Siti web per agenzie immobiliari Siti web per ristoranti Siti web per hotel e B&B Siti web per avvocati Realizzazione landing page
 SEO & posizionamento
 Meta Ads & campagne
 App su misura
@@ -17814,6 +20169,7 @@ Richiedi un preventivo gratuito
 
 ## Gli altri servizi
 
+Automazioni con n8n AI Act per le aziende
 Siti web & E-commerce
 SEO & posizionamento
 Meta Ads & campagne
@@ -17829,6 +20185,453 @@ Controllo di gestione
 Integrazione software aziendali
 Chatbot aziendale e agenti AI
 Fatturazione elettronica automatizzata
+
+
+========================================================================
+# Siti web per agenzie immobiliari
+URL: https://danova-tech.com/siti-web-per-agenzie-immobiliari/
+Descrizione: Siti web per agenzie immobiliari: annunci sincronizzati con il gestionale e i portali, ricerca per zona, valutazione online e contatti diretti, con SEO locale.
+========================================================================
+
+Home / Siti web / Agenzie immobiliari
+
+Agenzie immobiliari · real estate
+
+## Siti web per agenzie immobiliari: più incarichi, non solo annunci.
+
+Chi cerca casa parte quasi sempre dai grandi portali, dove i vostri annunci stanno accanto a quelli di tutti. Chi vende casa invece sceglie l'agenzia: cerca su Google, guarda il sito, legge le recensioni. Un sito per un'agenzia immobiliare deve fare bene due lavori: mostrare gli immobili senza fatica e convincere i proprietari ad affidarvi il prossimo.
+
+Parliamo della vostra agenzia
+
+Cosa serve al sito
+
+Cosa serve
+
+## Gli elementi di un sito immobiliare
+
+01
+
+## Annunci sincronizzati
+
+Gli immobili si caricano una volta nel gestionale immobiliare e compaiono sul sito e sui portali, aggiornati. Niente doppio lavoro, niente annunci venduti ancora online.
+
+02
+
+## Ricerca semplice
+
+Zona, prezzo, metri quadri, locali, mappa. Su telefono come su computer. Schede con foto grandi, planimetria, classe energetica e spese.
+
+03
+
+## Valutazione online
+
+Il proprietario inserisce indirizzo e caratteristiche e riceve una prima stima o una richiesta di sopralluogo. È la pagina che porta incarichi.
+
+04
+
+## Pagine per zona
+
+Quartieri e comuni che seguite, con prezzi medi, servizi e immobili disponibili. Sono le pagine che Google mostra a chi cerca agenzia immobiliare più il nome della zona.
+
+05
+
+## Recensioni e risultati
+
+Recensioni Google, immobili venduti, tempi medi di vendita. Chi affida la casa vuole prove, non slogan.
+
+06
+
+## Contatti rapidi
+
+Chiamata, WhatsApp e modulo su ogni scheda, con l'immobile già indicato nel messaggio.
+
+Come lavoriamo
+
+## Dal gestionale al sito che porta incarichi.
+
+- Chiamata Zone, tipo di immobili, gestionale immobiliare in uso, cosa vi porta oggi gli incarichi. Mezz'ora, gratuita.
+
+- Collegamento al gestionale Importiamo gli annunci dal gestionale che usate, con aggiornamento automatico.
+
+- Pagine e SEO locale Pagine per zona, valutazione online, scheda Google e dati strutturati per gli immobili.
+
+- Misura Contiamo richieste di visita e di valutazione arrivate dal sito, mese per mese.
+
+FAQ
+
+## Le domande delle agenzie.
+
+Il sito si collega al nostro gestionale immobiliare?
+Nella maggior parte dei casi sì: i gestionali immobiliari più usati esportano gli annunci in formati standard, che il sito importa in automatico. Verifichiamo il vostro prima di iniziare.
+
+Serve un sito se abbiamo già gli annunci sui portali?
+Per chi cerca casa i portali bastano; per chi vende no. Il proprietario sceglie l'agenzia, e prima di chiamarvi guarda sito, zone che seguite e recensioni. Il sito porta incarichi, i portali portano acquirenti.
+
+Cos'è la valutazione online?
+È un modulo in cui il proprietario descrive l'immobile e riceve una prima stima o un appuntamento. Non sostituisce il sopralluogo, ma è il modo più efficace per ricevere contatti da chi vuole vendere.
+
+Quanto costa un sito per un'agenzia immobiliare?
+Dipende da collegamento al gestionale, pagine per zona e funzioni. Il punto di partenza è sul nostro listino; con integrazioni vi diamo un prezzo fisso dopo la chiamata.
+
+Fate anche la scheda Google e le campagne?
+Sì: scheda Google, recensioni e, se volete, campagne mirate ai proprietari che vogliono vendere nella vostra zona.
+
+## Da dove vi arrivano gli incarichi oggi?
+
+Raccontateci la vostra agenzia: vi diciamo come il sito può portare più proprietari a chiamarvi.
+
+Prenota la chiamata gratuita
+
+## Pagine collegate
+
+Siti web ed e-commerce
+Siti web per hotel e B&B
+Siti web per avvocati
+Come ottenere recensioni Google
+CRM aziendale
+Prezzi
+
+
+========================================================================
+# Siti web per avvocati e studi legali
+URL: https://danova-tech.com/siti-web-per-avvocati/
+Descrizione: Siti web per avvocati e studi legali: chiari, sobri, nel rispetto del codice deontologico. Aree di pratica, schede dei professionisti e SEO locale.
+========================================================================
+
+Home / Siti web / Siti per avvocati
+
+Avvocati · studi legali · professionisti
+
+## Siti web per avvocati: chiari, sobri, trovabili.
+
+Chi cerca un avvocato su Google ha quasi sempre un problema preciso: una separazione, un licenziamento, un recupero crediti, un contratto. Vuole capire in fretta se lo studio si occupa proprio di quello, se è vicino e come contattarlo. Un sito per uno studio legale deve rispondere a queste tre domande, nel rispetto delle regole del codice deontologico.
+
+Parliamo del vostro studio
+
+Cosa serve al sito
+
+Cosa serve
+
+## Gli elementi di un buon sito legale
+
+01
+
+## Una pagina per ogni area
+
+Diritto di famiglia, lavoro, societario, recupero crediti: una pagina ciascuna, scritta in italiano comprensibile, con le domande che i clienti fanno al primo incontro.
+
+02
+
+## Schede dei professionisti
+
+Foto, percorso, iscrizione all'albo, lingue, aree di attività. Il cliente sceglie una persona, non un logo.
+
+03
+
+## Contatti protetti
+
+Modulo con informativa privacy e consenso, che non chiede dettagli riservati prima del primo contatto. Prenotazione della consulenza, anche online.
+
+04
+
+## SEO locale
+
+Scheda Google dello studio, pagine per le sedi, presenza nelle ricerche come avvocato più materia più città. È lì che arrivano i clienti.
+
+05
+
+## Articoli utili
+
+Guide brevi su scadenze, procedure e novità normative, aggiornate. Mostrano competenza meglio di qualunque slogan, e sono le pagine che gli assistenti AI citano.
+
+06
+
+## Sicurezza e privacy
+
+Certificato, server europei, cookie in regola, aggiornamenti costanti. Per uno studio legale un sito violato è un danno di reputazione serio.
+
+Le regole
+
+## Informazione e codice deontologico
+
+L'avvocato può farsi conoscere, anche online, ma l'informazione deve essere veritiera, corretta, non comparativa e non equivoca, come chiede il codice deontologico forense sull'informazione professionale. Niente promesse di risultato, niente superlativi, niente nomi di clienti senza consenso.
+
+Ne teniamo conto nei testi che scriviamo con voi: descriviamo cosa fate e come, non perché siete i migliori. È anche lo stile che convince di più chi sta per affidarvi un problema importante.
+
+L'ultima parola sui contenuti spetta sempre allo studio: vi mandiamo ogni testo da approvare prima della pubblicazione.
+
+Come lavoriamo
+
+## Dalla prima chiamata al sito online.
+
+- Chiamata Aree di attività, clienti tipici, sedi, cosa volete far sapere e cosa no. Mezz'ora, gratuita.
+
+- Testi Li scriviamo noi partendo dalle ricerche reali dei clienti, e li rivedete voi riga per riga.
+
+- Sviluppo Sito veloce e sobrio, scheda Google, modulo protetto, dati strutturati per lo studio e per i professionisti.
+
+- Dopo il lancio Aggiornamenti di sicurezza, nuovi articoli se volete, e il numero di contatti arrivati dal sito, mese per mese.
+
+FAQ
+
+## Le domande degli studi legali.
+
+Un avvocato può fare pubblicità online?
+Sì, l'avvocato può dare informazioni sulla propria attività anche con un sito e sui social, purché siano veritiere, corrette, non comparative e non equivoche, come previsto dal codice deontologico forense. Il sito deve informare, non promettere risultati.
+
+Quanto costa un sito per uno studio legale?
+Dipende da numero di aree, professionisti, sedi e lingue. Il punto di partenza è sul nostro listino; per uno studio con più sedi o più lingue vi diamo un prezzo fisso dopo la prima chiamata.
+
+Scrivete voi i testi?
+Sì, li scriviamo noi partendo da come i clienti cercano, e li rivedete voi: la responsabilità dei contenuti resta dello studio, e nessun testo va online senza la vostra approvazione.
+
+Si può prenotare la consulenza dal sito?
+Sì: richiesta di appuntamento, calendario con gli orari disponibili e, se lo fate, consulenza online con pagamento anticipato. Il modulo raccoglie solo i dati necessari al primo contatto.
+
+Fate anche Google Ads per avvocati?
+Sì, nel rispetto delle stesse regole sull'informazione. Sulle ricerche legali i clic costano spesso di più della media, quindi partiamo da poche parole chiave molto precise per materia e città.
+
+Il sito è adatto anche agli assistenti AI?
+Sì. Pagine chiare per materia, schede dei professionisti e dati strutturati sono le stesse informazioni che usano ChatGPT e Google quando consigliano uno studio.
+
+## I clienti capiscono in un minuto cosa fa il vostro studio?
+
+Mandateci l'indirizzo del sito attuale, o raccontateci lo studio: vi diciamo cosa cambieremmo per primo, gratis.
+
+Richiedi l'analisi gratuita
+
+## Pagine collegate
+
+Siti web per agenzie immobiliari
+Siti web ed e-commerce
+Software gestionale studi professionali
+Consulenza SEO
+Come ottenere recensioni Google
+Quanto costa Google Ads
+Prezzi
+
+
+========================================================================
+# Siti web per hotel e B&B con prenotazione diretta
+URL: https://danova-tech.com/siti-web-per-hotel/
+Descrizione: Siti web per hotel, B&B e case vacanza: prenotazione diretta senza commissioni, booking engine, multilingua, Google Hotel e SEO locale.
+========================================================================
+
+Home / Siti web / Siti per hotel
+
+Hotel · B&B · case vacanza
+
+## Siti web per hotel: più prenotazioni dirette.
+
+Le OTA portano clienti, e se li fanno pagare: le commissioni dei grandi portali stanno spesso fra il 15 e il 20% del soggiorno. Molti ospiti, prima di prenotare su un portale, passano dal sito della struttura a guardare foto e prezzi. Se lì trova un sito lento o senza prenotazione, torna sul portale. Un buon sito trasforma quella visita in una prenotazione diretta.
+
+Parliamo della vostra struttura
+
+Cosa serve al sito
+
+Cosa serve
+
+## Gli elementi di un sito che prenota
+
+01
+
+## Booking engine integrato
+
+Disponibilità e prezzi in tempo reale, prenotazione e pagamento in tre passaggi, sincronizzati con channel manager e gestionale. Integriamo il motore che usate già, o vi aiutiamo a sceglierlo.
+
+02
+
+## Il miglior prezzo dichiarato
+
+Un piccolo vantaggio per chi prenota diretto: colazione inclusa, late check-out, sconto riservato. Detto chiaramente, vicino al pulsante.
+
+03
+
+## Foto e camere vere
+
+Ogni camera con foto, metri quadri, letti, vista e servizi. È la pagina più visitata dopo la home, e quella che decide.
+
+04
+
+## Multilingua vero
+
+Inglese e tedesco per il Nord-Est, tradotti da persone, con indirizzi e titoli ottimizzati per ogni lingua. Non un traduttore automatico in un angolo.
+
+05
+
+## Google Hotel e Maps
+
+Scheda Google completa, link di prenotazione gratuiti su Google Hotel collegati al vostro booking engine, recensioni curate.
+
+06
+
+## Velocità da telefono
+
+Gran parte delle prenotazioni parte dallo smartphone. Pagine leggere, immagini ottimizzate, caricamento in meno di due secondi.
+
+Farsi trovare
+
+## SEO per hotel: dove si vince davvero
+
+Per hotel a Venezia o B&B a Treviso il sito di una struttura difficilmente supera i grandi portali. Si vince sulle ricerche più precise: la struttura vicino alla fiera, all'ospedale o alla cantina; quella con parcheggio, con piscina, che accetta cani; il pernottamento per l'evento di quel weekend.
+
+Per questo scriviamo pagine dedicate a eventi, fiere e motivi di viaggio della vostra zona, con informazioni utili davvero: come arrivare, dove parcheggiare, cosa vedere. Sono le pagine che portano prenotazioni dirette, e quelle che Google e gli assistenti AI citano.
+
+Usiamo anche i dati strutturati per le strutture ricettive, così Google capisce stelle, servizi, prezzi e posizione.
+
+Come lavoriamo
+
+## Dalle foto alla prima prenotazione.
+
+- Chiamata Tipo di struttura, canali di vendita, booking engine e channel manager in uso, ospiti principali. Mezz'ora, gratuita.
+
+- Contenuti Testi in italiano e lingue straniere, foto da sistemare o da rifare, pagine per eventi e motivi di viaggio.
+
+- Sviluppo e integrazione Sito veloce, booking engine collegato, tracciamento delle prenotazioni come conversioni, scheda Google.
+
+- Dopo il lancio Misuriamo quante prenotazioni arrivano dal sito e quanto vi fanno risparmiare in commissioni.
+
+FAQ
+
+## Le domande degli albergatori.
+
+Quanto costa un sito web per un hotel?
+Dipende da numero di camere, lingue e integrazioni. Il nostro sito web parte dalle cifre del listino; per una struttura con booking engine e più lingue vi diamo un prezzo fisso dopo la prima chiamata. Il conto da fare è quante commissioni risparmiate con le prenotazioni dirette.
+
+Quale booking engine usate?
+Integriamo quello che avete già, collegato al vostro channel manager. Se non ne avete uno, vi aiutiamo a sceglierlo in base alla dimensione della struttura e ai canali che usate.
+
+Il sito può sostituire Booking.com?
+Di solito no, e non conviene: i portali portano clienti che non vi conoscono. Il sito serve a far prenotare direttamente chi vi ha già trovato, chi torna e chi arriva da Google, riducendo la quota di commissioni.
+
+Fate siti anche per B&B e case vacanza?
+Sì. Per le strutture piccole spesso basta un sito semplice con prenotazione o richiesta di disponibilità e la scheda Google curata. Vi proponiamo la soluzione proporzionata.
+
+Il sito sarà in più lingue?
+Sì, con traduzioni fatte da persone e pagine ottimizzate per le ricerche in ogni lingua. Per il Nord-Est consigliamo almeno inglese e tedesco.
+
+Vi occupate anche di Google Hotel e pubblicità?
+Sì: scheda Google, link di prenotazione gratuiti su Google Hotel e, se volete, campagne Google Ads e Meta Ads per le date in cui avete camere libere.
+
+## Quanto pagate di commissioni all'anno?
+
+Diteci quante prenotazioni arrivano dai portali: vi facciamo vedere quanto potrebbe valere spostarne una parte sul vostro sito.
+
+Prenota la chiamata gratuita
+
+## Pagine collegate
+
+Siti web per ristoranti Siti web per agenzie immobiliari
+Siti web ed e-commerce
+Caso studio: Oasi Ponza
+App per prenotazioni
+Web agency a Conegliano e Vittorio Veneto
+Come ottenere recensioni Google
+Quanto costa un sito web
+Prezzi
+
+
+========================================================================
+# Siti web per ristoranti: menù, prenotazioni e Google
+URL: https://danova-tech.com/siti-web-per-ristoranti/
+Descrizione: Siti web per ristoranti, pizzerie e locali: menù sempre aggiornato, prenotazione del tavolo, orari, foto vere e scheda Google curata. Veloci da telefono.
+========================================================================
+
+Home / Siti web / Ristoranti
+
+Ristoranti · pizzerie · locali
+
+## Siti web per ristoranti: menù, tavolo, fatto.
+
+Chi sceglie dove mangiare lo fa quasi sempre dal telefono, spesso a pochi minuti dalla cena. Cerca su Google Maps, apre la scheda, guarda le foto e il menù, controlla se c'è posto. Se il menù è un PDF illeggibile o il sito non si apre, sceglie il locale accanto. Un sito per un ristorante deve essere semplice, veloce e sempre aggiornato.
+
+Parliamo del vostro locale
+
+Cosa serve al sito
+
+Cosa serve
+
+## Le cose che contano davvero
+
+01
+
+## Menù in pagina, non in PDF
+
+Piatti, prezzi e allergeni leggibili dal telefono e modificabili da voi in un minuto. Google li legge e li mostra a chi cerca un piatto preciso.
+
+02
+
+## Prenotazione del tavolo
+
+Prenotazione online collegata al sistema che usate, o una richiesta via WhatsApp con data, ora e persone già scritte. Senza passare da portali a commissione.
+
+03
+
+## Orari e chiusure aggiornati
+
+Gli stessi sul sito e sulla scheda Google, con ferie e festivi. Un orario sbagliato vale una recensione negativa.
+
+04
+
+## Foto vere
+
+Piatti, sala, dehors, persone. Poche e buone, non le foto di repertorio.
+
+05
+
+## Eventi e menù speciali
+
+Serate, menù degustazione, pranzi di lavoro, feste private: una pagina ciascuno, da condividere sui social.
+
+06
+
+## Asporto e consegna
+
+Ordine online per asporto con ritiro all'ora scelta, o il collegamento alle piattaforme di consegna che usate già.
+
+Il canale principale
+
+## Per un ristorante Google Maps viene prima
+
+La maggior parte dei clienti nuovi arriva dalla scheda Google, non dal sito. Per questo partiamo da lì: categoria giusta, orari, foto, menù, link di prenotazione, risposte alle recensioni. Il sito sostiene la scheda e la completa.
+
+Il sito conta di più per chi organizza: cene aziendali, eventi, gruppi, turisti che pianificano. Per loro servono pagine chiare su sale, menù per gruppi e come prenotare, in italiano e in inglese se lavorate con turisti.
+
+Leggete anche come ottenere più recensioni Google senza scorciatoie: per un locale è la leva più forte.
+
+FAQ
+
+## Le domande dei ristoratori.
+
+Un ristorante ha bisogno di un sito web?
+Sì, anche se la scheda Google porta la maggior parte dei clienti. Il sito ospita menù aggiornato, prenotazioni dirette senza commissioni, eventi e informazioni per i gruppi, e rafforza la scheda Google stessa.
+
+Posso aggiornare il menù da solo?
+Sì: il menù si modifica da telefono o computer in pochi secondi, senza rifare un PDF. Piatti del giorno, prezzi e allergeni restano sempre allineati.
+
+Si possono prendere prenotazioni dal sito?
+Sì, con un sistema di prenotazione collegato alla vostra agenda o con richiesta via WhatsApp già compilata. Le prenotazioni dirette non pagano commissioni ai portali.
+
+Quanto costa un sito per un ristorante?
+Un sito semplice per un locale rientra nelle cifre del nostro listino, anche con la formula in abbonamento che comprende aggiornamenti e modifiche. Con ordini online o più lingue vi diamo un prezzo fisso dopo la chiamata.
+
+Vi occupate anche della scheda Google?
+Sì: sistemiamo la scheda, colleghiamo menù e prenotazioni, prepariamo il QR code per le recensioni e vi aiutiamo a rispondere.
+
+## Il vostro menù si legge dal telefono?
+
+Mandateci il nome del locale: guardiamo scheda Google e sito e vi diciamo cosa sistemare per primo.
+
+Richiedi l'analisi gratuita
+
+## Pagine collegate
+
+Siti web ed e-commerce
+Come ottenere recensioni Google
+Siti web per hotel e B&B
+App per prenotazioni
+Quanto costa un sito web
+Prezzi
 
 
 ========================================================================
@@ -17997,6 +20800,7 @@ Quale delle tre conviene lo diciamo dopo aver guardato il sito attuale e i numer
 
 ## Pagine collegate
 
+Siti web per hotel e B&B Siti web per avvocati
 Caso studio: GRG Performance
 Caso studio: UniCESD Olympo
 Realizzazione siti internet
@@ -18416,7 +21220,7 @@ Gestionale per studi professionali
 
 
 ========================================================================
-# Automazione fatturazione elettronica
+# Programma fatturazione elettronica integrato
 URL: https://danova-tech.com/software-fatturazione-elettronica/
 Descrizione: Automatizzare il ciclo delle fatture elettroniche: emissione dai dati del gestionale, ricezione, riconciliazione e conservazione. Su misura.
 ========================================================================
@@ -18669,7 +21473,7 @@ Web agency a Conegliano
 
 
 ========================================================================
-# Software gestionale aziendale su misura
+# Gestionale aziendale: software su misura per PMI
 URL: https://danova-tech.com/software-gestionale-aziendale/
 Descrizione: Software gestionale aziendale e programma gestionale su misura per PMI: ordini, produzione, magazzino e amministrazione in un posto solo. Analisi gratuita.
 ========================================================================
@@ -18830,7 +21634,7 @@ Software MES per la produzione
 
 
 ========================================================================
-# Software gestionale per commesse su misura
+# Software gestione commesse su misura
 URL: https://danova-tech.com/software-gestionale-commesse/
 Descrizione: Preventivo, avanzamento, ore, materiali e margine reale per ogni commessa. A tappe con prezzo fisso, collegato al gestionale che usi già.
 ========================================================================
@@ -19261,7 +22065,7 @@ Gestionale per studi professionali
 
 
 ========================================================================
-# Programma e software di gestione magazzino
+# Gestionale magazzino: programma e software su misura
 URL: https://danova-tech.com/software-gestionale-magazzino/
 Descrizione: Giacenze reali, ubicazioni, lotti e scadenze, codici a barre e collegamento a fatturazione ed e-commerce. Su misura, senza costo per utente.
 ========================================================================
@@ -19270,7 +22074,7 @@ Home / Gestionali & CRM / Gestionale di magazzino
 
 Magazzino
 
-## Software gestionale di magazzino che dice la verità .
+## Gestionale magazzino: il software che dice la verità .
 
 Il problema quasi mai è il software: è che i movimenti si registrano in differita, registrare costa fatica e le eccezioni non sono previste. Un gestionale di magazzino su misura parte da queste tre cose. Nessun costo per utente, il software resta vostro.
 
@@ -19404,6 +22208,7 @@ Chi cerca « app gestione magazzino », «app per gestione magazzino» o «gesti
 
 ## Servizi e pagine collegate
 
+Software WMS
 Gestionali & CRM — il servizio
 Gestionale per la produzione
 Gestionale trasporti e logistica
@@ -19936,6 +22741,7 @@ Richiedi un preventivo gratuito
 
 ## Settori, zone e servizi collegati
 
+Iperammortamento 2026
 Software gestionale per trasporti e logistica
 Gestionali & CRM — il servizio
 Software & automazioni
@@ -20068,6 +22874,7 @@ Sì, ed è una delle tappe che i clienti apprezzano più di tutte: un'area dove 
 
 ## Pagine collegate
 
+Siti web per avvocati
 Gestionale commesse
 CRM aziendale
 Gestionale cloud
@@ -20198,6 +23005,7 @@ Se invece il vostro problema principale non è il viaggio ma il parco mezzi — 
 
 ## Settori, zone e servizi collegati
 
+Software WMS
 Software gestionale per la produzione
 Gestionali & CRM — il servizio
 Software & automazioni
@@ -20918,6 +23726,7 @@ Infine software MES migliori : non esiste una classifica utile, perche' il MES g
 
 ## Pagine collegate
 
+Iperammortamento 2026 Bandi digitalizzazione 2026 in Veneto
 Gestionale per la produzione
 Gestionale per la metalmeccanica
 Gestionale commesse
@@ -21163,6 +23972,124 @@ App per agenti di commercio
 CRM aziendale
 Controllo di gestione
 Gestionali e CRM su misura
+
+
+========================================================================
+# Software WMS per la gestione del magazzino
+URL: https://danova-tech.com/software-wms/
+Descrizione: Software WMS su misura: ubicazioni, barcode e palmari, picking guidato, lotti e scadenze, inventari rotativi, integrazione con gestionale ed e-commerce.
+========================================================================
+
+Home / Gestionali e CRM / Software WMS
+
+Warehouse Management System
+
+## Software WMS: ogni pezzo, al suo posto.
+
+Il gestionale sa quanti pezzi avete. Il WMS sa dove sono: in quale scaffale, in quale lotto, con quale scadenza, e qual è il giro più corto per prenderli. Serve quando il magazzino cresce, quando arrivano persone nuove o quando gli errori di spedizione cominciano a costare più del software.
+
+Raccontateci il vostro magazzino
+
+Cosa fa un WMS
+
+Le funzioni
+
+## Cosa fa un WMS
+
+01
+
+## Ubicazioni
+
+Ogni scaffale, ripiano e posto pallet ha un codice. La merce in arrivo viene assegnata a un'ubicazione, e chiunque la ritrova senza chiedere.
+
+02
+
+## Barcode e palmari
+
+Carico, prelievo e spostamenti si confermano sparando il codice a barre o il QR con un palmare o con il telefono. Niente più carta, niente più errori di trascrizione.
+
+03
+
+## Picking guidato
+
+Le righe d'ordine vengono raggruppate e ordinate per percorso. Il magazziniere segue la lista sul palmare e il sistema blocca il prelievo sbagliato.
+
+04
+
+## Lotti, seriali e scadenze
+
+Tracciabilità completa per lotto o numero di serie, con logica FIFO o FEFO. Indispensabile in alimentare, farmaceutico e ricambi.
+
+05
+
+## Inventari rotativi
+
+Si conta un'area alla volta durante l'anno, senza fermare il magazzino per l'inventario di fine anno.
+
+06
+
+## Integrazioni
+
+Gestionale ed ERP, e-commerce, marketplace, corrieri per etichette e tracking. Il WMS non sostituisce il gestionale: lo completa.
+
+Su misura o pacchetto
+
+## Quando serve un WMS su misura
+
+Per un magazzino semplice spesso basta il modulo magazzino del gestionale che avete già. Ve lo diciamo, se è così.
+
+Un WMS su misura conviene quando il vostro modo di lavorare è parte del vantaggio: kit e distinte da preparare, conto deposito presso clienti, magazzini su più sedi, produzione che preleva e versa, merce con regole particolari. Lì un pacchetto vi costringe ad adattarvi, o a lavorare fuori dal sistema.
+
+Lo costruiamo come applicazione web che gira su computer, palmari Android e telefoni, collegata al vostro gestionale. Se il WMS è collegato ai macchinari di produzione, può anche rientrare nell' iperammortamento 2026 : va valutato caso per caso.
+
+Come si parte
+
+## Dal sopralluogo al primo prelievo.
+
+- Sopralluogo Guardiamo il magazzino, i flussi, gli errori più frequenti e il gestionale. Mezza giornata, gratuita nel Nord-Est.
+
+- Codifica delle ubicazioni Si decide come etichettare scaffali e posti pallet. È il lavoro più fisico, e quello che rende possibile tutto il resto.
+
+- Prima versione Carico, ubicazioni e picking con palmare, collegati al gestionale. Si parte con una zona del magazzino, poi si estende.
+
+- Ottimizzazione Con i dati dei primi mesi riorganizziamo le ubicazioni: gli articoli più richiesti vicino alla spedizione.
+
+FAQ
+
+## Le domande sui WMS.
+
+Che cos'è un WMS?
+Un Warehouse Management System è il software che gestisce le operazioni fisiche del magazzino: ubicazioni, ricevimento, stoccaggio, prelievo, spedizione e inventari. A differenza del modulo magazzino del gestionale, sa dove si trova ogni articolo e guida le persone nelle operazioni.
+
+Che differenza c'è fra WMS e gestionale di magazzino?
+Il gestionale registra quantità e valori: carichi, scarichi, giacenze, costi. Il WMS gestisce lo spazio e le operazioni: dove mettere la merce, cosa prelevare, in che ordine, con quale lotto. I due lavorano insieme.
+
+Servono palmari specifici?
+Non sempre. Per volumi bassi bastano telefoni Android con la fotocamera. Per uso intenso conviene un palmare industriale con lettore laser, più robusto e veloce. Vi consigliamo i modelli in base ai volumi.
+
+Si collega al nostro gestionale?
+Sì: lo integriamo con il gestionale o l'ERP che usate, tramite API, database o scambio di file, in modo che ordini, articoli e giacenze siano sempre allineati.
+
+Quanto tempo serve per partire?
+Una prima versione con ubicazioni, barcode e picking, su una zona del magazzino, richiede di solito qualche settimana dopo il sopralluogo. La parte più lunga è etichettare gli scaffali.
+
+Quanto costa un WMS su misura?
+Dipende da volumi, numero di sedi e integrazioni. Il punto di partenza per un gestionale su misura è sul nostro listino; per il WMS vi diamo un prezzo fisso dopo il sopralluogo.
+
+## Quanto vi costano gli errori di spedizione?
+
+Raccontateci come lavora il vostro magazzino oggi: vi diciamo se vi serve un WMS o se basta sistemare quello che avete.
+
+Prenota il sopralluogo
+
+## Pagine collegate
+
+Software gestionale magazzino
+App magazzino con codici a barre
+Software trasporti e logistica
+E-commerce collegato al gestionale
+Software MES per la produzione
+Prezzi
 
 
 ========================================================================
@@ -21743,6 +24670,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Bologna
 Allestimenti fieristici a Bologna
 Calendario fiere 2026–2027
 Stand Marmomac
@@ -21925,6 +24853,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Parma
 Allestimenti fieristici a Parma
 Calendario fiere 2026–2027
 Stand per food e vino
@@ -22109,6 +25038,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Bologna
 Allestimenti fieristici a Bologna
 Calendario fiere 2026–2027
 Stand per cosmetica e beauty
@@ -22291,6 +25221,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Rimini
 Allestimenti fieristici a Rimini
 Calendario fiere 2026–2027
 Stand a isola
@@ -22472,6 +25403,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Milano
 Allestimenti fieristici a Milano
 Calendario fiere 2026–2027
 Stand a isola
@@ -22653,6 +25585,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Bologna
 Allestimenti fieristici a Bologna
 Calendario fiere 2026–2027
 Stand per agricoltura e zootecnia
@@ -24348,6 +27281,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Idee per stand fieristici
 Stand preallestiti
 Grafica per stand
 Allestimenti fieristici
@@ -24365,7 +27299,7 @@ Ledwall e illuminazione
 ========================================================================
 # Stand fieristici su misura in legno, progetto 3D
 URL: https://danova-tech.com/stand-fieristici-su-misura/
-Descrizione: Stand fieristici su misura: progetto e render 3D, costruzione in legno, materiali, grafica, luci e montaggio in fiera. Stand a isola e a due piani, in Italia e all'estero.
+Descrizione: Stand fieristici su misura: progetto e render 3D, costruzione in legno, grafica, luci e montaggio in fiera. Stand a isola e a due piani, in Italia e all'estero.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Stand fieristici su misura
@@ -24470,6 +27404,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Idee per stand fieristici
 Allestimenti fieristici
 Calendario fiere 2026–2027
 Montaggio stand fieristici
@@ -24660,6 +27595,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Milano
 Allestimenti fieristici a Milano
 Calendario fiere 2026–2027
 Stand per food e vino
@@ -24844,6 +27780,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Rimini
 Allestimenti fieristici a Rimini
 Calendario fiere 2026–2027
 Stand per agricoltura e zootecnia
@@ -25210,6 +28147,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Milano
 Allestimenti fieristici a Milano
 Calendario fiere 2026–2027
 Stand per moda e calzature
@@ -25395,6 +28333,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Milano
 Allestimenti fieristici a Milano
 Calendario fiere 2026–2027
 Stand per moda e calzature
@@ -25412,7 +28351,7 @@ Allestimenti fieristici
 ========================================================================
 # Stand modulari in alluminio e tessuto teso
 URL: https://danova-tech.com/stand-modulari/
-Descrizione: Stand fieristici modulari in alluminio e tessuto teso, a noleggio o in acquisto: riutilizzabili, riconfigurabili e montati in fiera dalle nostre squadre. In Italia e all'estero.
+Descrizione: Stand fieristici modulari in alluminio e tessuto teso, a noleggio o in acquisto: riutilizzabili, riconfigurabili e montati in fiera. In Italia e all'estero.
 ========================================================================
 
 Home / Servizi / Allestimenti fieristici / Stand modulari
@@ -26016,6 +28955,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Milano
 Allestimenti fieristici a Milano
 Calendario fiere 2026–2027
 Stand per arredo e design
@@ -26564,6 +29504,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondisci
 
+Calendario fiere Rimini
 Allestimenti fieristici a Rimini
 Calendario fiere 2026–2027
 Stand per food e vino
@@ -27234,7 +30175,7 @@ App aziendali in Veneto
 
 
 ========================================================================
-# Sviluppo web app su misura per aziende
+# Sviluppo web app e PWA su misura per aziende
 URL: https://danova-tech.com/sviluppo-web-app/
 Descrizione: Sviluppo web app aziendali: portali clienti, gestionali su browser, configuratori e cruscotti. A tappe con prezzo fisso, codice sorgente intestato a te.
 ========================================================================
@@ -27634,6 +30575,7 @@ Fissiamo l'incontro
 
 ## Pagine collegate
 
+Siti web per hotel e B&B
 Realizzazione siti web a Treviso
 Web agency a Oderzo e Motta di Livenza
 Gestionale agroalimentare e tracciabilità
@@ -27894,102 +30836,3 @@ Vinitaly Marmomac Salone del Mobile EICMA Host Cosmoprof Cersaie EIMA Sicam Samu
 发送邮件 · info@danova-tech.com
 
 WhatsApp +39 388 470 6887
-
-========================================================================
-# Pan.door.a: sito e SEO per porte per interni
-URL: https://danova-tech.com/lavori/pandoora/
-Descrizione: Caso studio Pan.door.a: sito e SEO per un produttore di porte per interni di Fontanelle (TV). Da pochi clic a oltre 50 al giorno in tre mesi, dati Search Console.
-========================================================================
-
-Home/Lavori/Pan.door.a
-
-Caso studio · Sito e SEO
-
-## Pan.door.a: da pochi clic al giorno a oltre cinquanta.
-
-Un produttore di porte per interni, pannelli tamburati e componenti per mobili del distretto trevigiano del legno. Sito nuovo, una pagina per ogni prodotto e per ogni zona, guide con i prezzi veri. Qui sotto i numeri di Search Console, senza ritocchi.
-
-Parliamo del vostro progetto
-
-Vedi i numeri
-
-I numeri
-
-## Tre mesi di Search Console, lo screenshot intero
-
-Ricerca web su Google, dal 7 luglio al 6 ottobre 2026. Non è una percentuale scelta con cura: è il grafico com'è, con le giornate storte comprese.
-
-931 clic da Google in 3 mesi
-
-29.900 impressioni in 3 mesi
-
-3,1% CTR medio
-
-10,5 posizione media
-
-Google Search Console, rapporto Rendimento, tipo di ricerca Web, vista giornaliera. Linea blu: clic. Linea viola: impressioni.
-
-A luglio il sito riceveva pochi clic al giorno, spesso nessuno, e meno di cento impressioni. Da fine agosto la curva parte e non torna più indietro: a metà settembre i clic giornalieri sono stabilmente sopra i dieci, a fine mese sopra i trenta, e nei primi giorni di ottobre superano i cinquanta con circa 1.900 impressioni al giorno.
-
-Le due linee salgono insieme, ed è il dettaglio che conta di più. Se crescessero solo le impressioni vorrebbe dire che il sito compare per ricerche marginali in cui nessuno clicca; qui invece clic e impressioni si muovono in parallelo, segno che le pagine escono per ricerche che le persone fanno davvero e che il risultato viene scelto.
-
-Il progetto
-
-## Un'azienda che produce molte cose, e un sito che doveva dirle tutte
-
-Pan.door.a lavora a Fontanelle, in provincia di Treviso, dal 1987. Produce porte per interni in tre linee — laminate, laccate in qualsiasi colore RAL e pantografate — battenti, scorrevoli e filomuro, con posa inclusa in Veneto e Friuli Venezia Giulia. Accanto alle porte ci sono i pannelli tamburati per gli allestimenti fieristici, il parquet, i componenti per mobili e un reparto di verniciatura che lavora anche su pezzi del cliente.
-
-La difficoltà era la stessa di molte aziende manifatturiere: tante produzioni diverse, pubblici diversi (privati che rifanno casa, rivenditori, falegnami, allestitori di stand) e un rischio concreto di fare una home con un elenco di tutto e nessuna pagina capace di posizionarsi su qualcosa.
-
-Per questo il lavoro è partito dalla struttura e non dalla grafica: prima decidere a quali ricerche ogni pagina deve rispondere, poi scriverla.
-
-Cosa abbiamo fatto
-
-## Le scelte concrete
-
-Quattro leve, tutte visibili sul sito: potete aprirlo e controllarle una per una.
-
-01
-
-## Sito nuovo, veloce e pulito
-
-Rifatto da zero con pagine leggere, struttura dei link interni ordinata, dati strutturati e i dati aziendali completi in ogni pagina. La base tecnica su cui il resto può funzionare.
-
-02
-
-## Una pagina per prodotto
-
-Porte, montaggio porte, pannelli tamburati, parquet, componenti per mobili, verniciatura: ognuno con la sua pagina, il suo catalogo e il suo preventivo. Chi cerca una cosa atterra su quella cosa.
-
-03
-
-## Pagine per le zone servite
-
-Porte interne in Veneto, porte interne in Friuli Venezia Giulia, falegnameria a Treviso: le ricerche che portano clienti a un produttore di porte contengono quasi sempre la zona.
-
-04
-
-## Guide con i prezzi veri
-
-Quanto costano le porte interne, i pannelli tamburati, il parquet al metro quadro: cifre pubblicate, cosa le fa variare, esempi di calcolo. Più glossario e FAQ. Sono le pagine che la gente cerca prima di chiedere un preventivo.
-
-Cosa si impara
-
-## Perché questo caso è utile ad altri produttori
-
-Il primo punto è che la crescita non è stata immediata. Il grafico resta quasi piatto per tutto luglio e buona parte di agosto: è il tempo che serve a Google per scansionare le pagine nuove, capire di cosa parla ciascuna e cominciare a fidarsi. Chi promette risultati SEO in due settimane promette qualcos'altro.
-
-Il secondo è che pubblicare i prezzi paga. Le pagine con i listini e i fattori di costo intercettano chi sta già decidendo, e sono quelle che un'azienda manifatturiera di solito non vuole scrivere. Chi le scrive, spesso, è l'unico in zona ad averle.
-
-Il terzo è che c'è ancora margine, e lo diciamo apertamente: una posizione media di 10,5 significa che una parte delle ricerche esce ancora in fondo alla prima pagina o in seconda. Il lavoro dei prossimi mesi è portare in alto le pagine che oggi sono già vicine, non aprirne di nuove a caso.
-
-## Pagine collegate
-
-Tutti i lavori
-GRG Performance
-DajbocTechDon
-SEO e posizionamento
-Posizionamento su Google
-Consulente SEO a Treviso
-Sito web aziendale
-Realizzazione siti internet

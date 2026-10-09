@@ -101,8 +101,8 @@ main+=richiesta("",titolo="Richiedi lo stand per la tua fiera",lead="Premi \"Ric
 main+=faq(FAQ_EY,FAQ_T,qa)
 main+=cta("Hai scelto la fiera?","Dicci quale, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.","Richiedi il preventivo","#richiesta")
 main+=altri("Approfondisci",uniq(rel,P))
-print(build('it',P,"Calendario fiere 2026–2027 Italia ed Europa, con mappa | Danova Tech",
- f"Calendario delle principali fiere 2026 e 2027 in Italia ed Europa: date, quartieri fieristici e settori su mappa interattiva. Clicca una fiera e richiedi lo stand.",
+print(build('it',P,"Calendario fiere 2026–2027 Italia ed Europa | Danova Tech",
+ f"Calendario delle principali fiere 2026 e 2027 in Italia ed Europa: date, quartieri fieristici e settori su mappa. Clicca una fiera e richiedi lo stand.",
  "Calendario fiere 2026–2027 in Italia e in Europa","Date, sedi e settori delle principali fiere su mappa interattiva: clicca una fiera e richiedi lo stand.",
  [("Home","/"),("Allestimenti fieristici",PILLAR),("Calendario fiere",None)],main,qa,nodes,
  wp_extra={"@type":["WebPage","CollectionPage"],"mainEntity":{"@id":URL+"#fiere"}},scripts=scripts), len(evs),'fiere', len(items),'con schema')
