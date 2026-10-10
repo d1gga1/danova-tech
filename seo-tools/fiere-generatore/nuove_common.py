@@ -89,11 +89,12 @@ def event_node(fid,url_page=None):
     i,n,v,st,s,e,c,site,nota=DC.FIERE[fid]
     if not c: return None
     vn,city,cc,lat,lon,addr=DC.V[v]
-    return {"@type":"BusinessEvent","name":n,"startDate":s,"endDate":e,"url":site,
+    from event_extra import arricchisci
+    return arricchisci({"@type":"BusinessEvent","name":n,"startDate":s,"endDate":e,"url":site,
       "eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode",
       "location":{"@type":"Place","name":vn,"address":{"@type":"PostalAddress","streetAddress":addr,"addressLocality":city,"addressCountry":cc},
         "geo":{"@type":"GeoCoordinates","latitude":lat,"longitude":lon}},
-      "description":f"{n}: fiera di settore {DC.SETT[st].lower()} a {city}."+(" "+nota+"." if nota else "")}
+      "description":f"{n}: fiera di settore {DC.SETT[st].lower()} a {city}."+(" "+nota+"." if nota else "")})
 def svc(P,name,stype,desc,offers,areas=None):
     return service_node(SITE+P,name,stype,desc,areas or AREAS_IT,offers,'it')
 SERVIZI_CARDS=lambda luogo: [
