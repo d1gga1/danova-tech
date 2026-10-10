@@ -1,0 +1,27 @@
+GOOGLE ADS > Strumento di pianificazione delle parole chiave > "Scopri nuove parole chiave"
+Località: Stati Uniti · Lingua: inglese · Periodo: ultimi 12 mesi
+Incolla UNA riga alla volta (il Planner accetta max 10 parole per ricerca), poi Scarica idee chiave > CSV.
+Chiama il file col nome del gruppo (es. USA-scoperta-App.csv).
+
+[Siti web]
+web design company, website development, small business website design, ecommerce website development, website redesign, web design agency, custom website development, wordpress website design, landing page design, ada compliant website
+
+[App]
+app development company, mobile app development, ios app development, android app development, app developers, booking app development, mvp development, progressive web app development, fitness app development, field service app
+
+[Software su misura]
+custom software development, software development company, custom software for small business, internal tools development, client portal development, business process automation, api integration services, saas development, outsourcing software development, offshore software development
+
+[Gestionali e CRM]
+custom crm development, custom erp development, inventory management software custom, construction management software, job costing software, property management software, trucking software, manufacturing software, quoting software, dispatch software
+
+[Settori]
+law firm website design, dental website design, medical website design, contractor website design, hvac website design, restaurant website design, real estate website design, shopify development agency, plumber website design, roofing website design
+
+[Costi e domande]
+how much does a website cost, how much does an app cost, app development cost, custom software cost, website design cost small business, cost to build an app, shopify website cost, erp implementation cost, crm development cost, web design pricing
+
+[Compliance]
+ada website compliance, website accessibility audit, wcag compliance, ccpa website compliance, website privacy policy requirements, hipaa compliant website, cookie consent banner, ada website lawsuit, accessibility overlay, gdpr vs ccpa
+
+Poi, per ogni gruppo, ripeti la ricerca nella scheda 'Inizia da un sito web' con: https://danova-tech.com/en/united-states/ (opzionale, 1 CSV).

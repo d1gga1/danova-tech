@@ -228,5 +228,5 @@ window.I18N.en={
     }
   },
   meta:{title:'Websites, SEO, Meta Ads and custom software | Danova Tech',
-        desc:'Italian tech agency building websites and e-commerce, SEO and Meta Ads campaigns, apps, ERP systems and custom software. Free quote, reply within 24h.'}
+        desc:'Tech agency from Italy building websites, e-commerce, apps, ERP and custom software for businesses in the US, UK and Europe. Fixed price, reply in 24h.'}
 };
