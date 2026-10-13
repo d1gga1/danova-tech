@@ -217,7 +217,8 @@ m+=passi("metodo","Come lavoriamo","Una fiera all'estero, <span class=\"grad\">o
   ("Approvazioni e logistica","Pratiche con l'ente fiera estero, imballi, spedizione, orari di consegna."),
   ("Montaggio e smontaggio","Squadre in fiera, consegna dello stand, smontaggio e rientro."),
   ("Dopo la fiera","Magazzino per la prossima manifestazione e, se vuoi, gestione dei contatti raccolti.")])
-page(P,"Stand per fiere all'estero: Germania, Francia, Spagna",
+# 13/10/2026: questa pagina ora e' l'hub Europa, generato da build_europa.py
+None and page(P,"Stand per fiere all'estero: Germania, Francia, Spagna",
  "Allestimenti fieristici all'estero per aziende italiane: progetto, produzione, trasporto, montatori e smontaggio in Germania, Francia, Spagna e Europa.",
  "Stand per fiere all'estero — Danova Tech","Progetto, trasporto e montatori per le fiere in Germania, Francia, Spagna e in Europa.",
  "Fiere all'estero",m,[

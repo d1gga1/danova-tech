@@ -186,7 +186,7 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
     g=json.loads(m.group(2)); keep=[]
     for n in g['@graph']:
         t=n.get('@type'); tt=t if isinstance(t,list) else [t]
-        if any(x in ('Service','WebPage','BreadcrumbList','FAQPage','Article','ItemList','CollectionPage','HowTo') for x in tt): continue
+        if any(x in ('Service','WebPage','BreadcrumbList','FAQPage','Article','ItemList','CollectionPage','HowTo','ImageObject') for x in tt): continue
         if 'Organization' in tt and isinstance(n.get('knowsAbout'),list):
             for k in ('Allestimenti fieristici','Montaggio stand fieristici','Exhibition stand design and build'):
                 if k not in n['knowsAbout']: n['knowsAbout'].append(k)
