@@ -895,3 +895,21 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   .price-table td[data-label]::before{content:attr(data-label);display:block;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--blue-2);margin-bottom:2px}
   .price-table .pt-amt{font-size:19px}
 }
+
+/* Render degli stand (13 ottobre 2026) */
+.fr-foto-sec{padding-top:0}
+.fr-foto{margin:0;border-radius:var(--r-lg);overflow:hidden;border:1px solid var(--line);background:var(--bg-2);position:relative}
+.fr-foto img{display:block;width:100%;height:auto;aspect-ratio:1600/1063;object-fit:cover;max-height:min(640px,70vh)}
+.fr-foto figcaption{padding:12px 18px;font-size:13.5px;line-height:1.45;color:var(--muted);border-top:1px solid var(--line)}
+.fr-gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
+.fr-gal a{display:block;border-radius:var(--r-md);overflow:hidden;border:1px solid var(--line);background:var(--panel);color:var(--text);transition:border-color .25s var(--ease),transform .35s var(--ease)}
+.fr-gal a:hover{border-color:var(--line-strong);transform:translateY(-3px)}
+.fr-gal figure{margin:0}
+.fr-gal img{display:block;width:100%;height:auto;aspect-ratio:1600/1063;object-fit:cover}
+.fr-gal figcaption{padding:12px 14px 14px;font-size:14px;line-height:1.45}
+.fr-gal figcaption b{display:block;font-weight:600;margin-bottom:4px;color:var(--white)}
+.fr-gal figcaption span{color:var(--muted);font-size:13px}
+.fr-gal-filtri{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
+.fr-gal-filtri button{font:inherit;font-size:14px;padding:8px 14px;border-radius:99px;border:1px solid var(--line);background:transparent;color:var(--text);cursor:pointer}
+.fr-gal-filtri button[aria-pressed=true]{background:var(--blue);border-color:var(--blue);color:#fff}
+@media (max-width:560px){.fr-foto figcaption{padding:10px 14px;font-size:12.5px}.fr-gal{grid-template-columns:1fr}}

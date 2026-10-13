@@ -37,3 +37,25 @@ del 9/10). Titoli e description delle pagine citta' ora sono sotto i limiti di G
 (it_citta.py: il marchio "| Danova Tech" si toglie da solo se il titolo e' troppo lungo).
 Calendari per citta' (/calendario-fiere-bologna|milano|rimini|parma/): python3 build_calendari_citta.py
 (prendono le date da dati_calendario.py: rilanciarlo dopo ogni aggiornamento delle date).
+
+## 13 ottobre 2026: render degli stand, galleria, espositori, hub regionali
+60 render 3D generati con IA (Higgsfield, GPT Image 2.5) in `assets/img/stand/`:
+`<nome>.webp` 1600px, `<nome>-800.webp` per mobile, `og/<nome>.jpg` 1200x630 per i social.
+Sono presentati sempre come "Render di progetto" (didascalia sotto l'immagine): non spacciarli per stand realizzati.
+
+- `dati_render.py`  elenco render: file, pagina, prompt usato, alt e didascalia; RIUSO = pagine che usano un render esistente
+- `immagini.py`     inserisce il render sotto l'hero + og:image + ImageObject nel JSON-LD (chiamato da lib.build)
+- `citta_extra.py`  blocco "Da Mansuè a <città>: logistica e tempi" nelle 23 pagine città (chiamato da lib.build)
+- `applica_immagini.py`  applica entrambi alle pagine già pubblicate (idempotente)
+- `build_nuove_1013.py`  /progetti-stand-fieristici/ (galleria), /espositori-desk-totem-per-fiere/,
+  /allestimenti-fieristici-veneto|lombardia|emilia-romagna/
+- `../link-pagine-2026-10-13.py`  link interni (Approfondisci, footer, home, llms.txt) + titoli città/idee/noleggio
+
+Dopo i build del 8-9 ottobre, in quest'ordine:
+    python3 build_nuove_1013.py
+    python3 applica_immagini.py          # serve per idee-stand-fieristici e contributi (generati da altri script)
+    cd .. && python3 link-pagine-2026-10-13.py && python3 genera-sitemap.py && python3 genera-feed-e-llms.py
+
+Nuovo render per una pagina: aggiungi la riga in dati_render.R (o in RIUSO), metti i 3 file in assets/img/stand/
+e rilancia applica_immagini.py. Quando avrete FOTO VERE di stand allestiti, sostituitele ai render nelle pagine
+fiera/città e cambiate la didascalia: per Google e per i clienti valgono molto di più.

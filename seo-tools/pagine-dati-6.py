@@ -69,7 +69,7 @@ PAGINE.append({
 # --- idee stand fieristici (idee stand fiera 500 x3) -------------------------
 PAGINE.append({
  "lang":"it", "url":"/idee-stand-fieristici/",
- "title":"Idee per stand fieristici che attirano visitatori | Danova Tech",
+ "title":"Stand fieristici innovativi: idee che attirano visitatori",
  "desc":"Idee per stand fieristici originali ed efficaci: altezza, luce, ledwall, prodotto in azione, aree per parlare, materiali sostenibili. Cosa funziona davvero in fiera.",
  "ogtitle":"Idee per stand fieristici — Danova Tech",
  "ogdesc":"Uno stand si guarda per tre secondi da lontano e poi si decide se entrare. Idee concrete per farli entrare.",

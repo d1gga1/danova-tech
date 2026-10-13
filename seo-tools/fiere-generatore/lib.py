@@ -245,6 +245,9 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
     if scripts: s=s.replace('<script src="/assets/js/pagina.js" defer></script>','<script src="/assets/js/pagina.js" defer></script>\n'+scripts,1)
     if lang in ('zh','ar'): s=s.replace(' data-scramble>','>')
     s=s.replace('>WhatsApp +39 388 470 6887<','>WhatsApp <bdi dir="ltr">+39 388 470 6887</bdi><')
+    from immagini import inject  # render stand sotto l'hero, og:image e ImageObject (13/10/2026)
+    s=inject(s,path)
+    import citta_extra; s=citta_extra.inject(s,path)  # logistica da Mansue' nelle pagine citta'
     out=os.path.join(R,path.strip('/'),'index.html'); os.makedirs(os.path.dirname(out),exist_ok=True)
     open(out,'w',encoding='utf-8').write(s)
     return out

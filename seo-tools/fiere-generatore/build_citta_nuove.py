@@ -32,7 +32,8 @@ def run():
         node=svc(P,f"Allestimenti fieristici a {c}","Allestimento e montaggio di stand fieristici",
             f"Progettazione, fornitura di materiali e componentistica, grafica, impianti, montaggio e smontaggio di stand fieristici a {c} ({d['q']}).",
             ["Stand preallestiti","Stand modulari","Stand su misura","Montaggio e smontaggio in fiera","Noleggio stand e arredi"],[{"@type":"City","name":c}])
-        title=f"Allestimenti fieristici e stand a {c} | Danova Tech"
+        title=f"Allestimenti fieristici a {c}: allestimento stand | Danova Tech"  # 13/10/2026: keyword "allestimento stand <citta>"
+        if len(title)>62: title=f"Allestimenti fieristici a {c}: allestimento stand"
         desc=f"Allestimenti fieristici a {c} ({d['q']}): progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto, preventivo gratuito."
         if len(desc)>160: desc=desc.replace(", preventivo gratuito","")
         if len(desc)>160: desc=f"Allestimenti fieristici a {c}: progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto."
