@@ -141,6 +141,10 @@ def build(d):
             c+mm.group(3), body, count=1, flags=re.S)
     out = os.path.join(ROOT, d['url'].strip('/'))
     os.makedirs(out, exist_ok=True)
+    lv = d['url'].strip('/').count('/') + 1   # profondita' della pagina: il donatore e' a 1 livello (../)
+    if lv > 1:                               # es. /guide/x/ -> i percorsi relativi diventano ../../ (fix 13/10/2026)
+        fx = lambda t: re.sub(r'((?:href|src|content)="|url\()\.\./(?!\.\./)', lambda m: m.group(1) + '../' * lv, t)
+        head, body = fx(head), fx(body)
     open(os.path.join(out,'index.html'),'w',encoding='utf-8').write(head+'</head><body>'+body)
     return os.path.join(d['url'].strip('/'),'index.html')
 

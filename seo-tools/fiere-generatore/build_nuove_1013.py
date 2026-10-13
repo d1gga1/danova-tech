@@ -27,7 +27,7 @@ def galleria():
             items.append((key,p,f,alt,cap,t))
     btn='<button type="button" data-f="*" aria-pressed="true">Tutti</button>'+''.join(f'<button type="button" data-f="{k}" aria-pressed="false">{l}</button>' for k,l,_,_ in CAT)
     cards_=''.join(f'''
-      <a href="{p}" data-cat="{k}"><figure><img src="{DIR}{f}-800.webp" srcset="{DIR}{f}-800.webp 800w, {DIR}{f}.webp 1600w" sizes="(max-width: 700px) 100vw, 400px" width="800" height="532" alt="{E(alt)}" loading="lazy" decoding="async"><figcaption><b>{E(t)}</b><span>{E(cap)}</span></figcaption></figure></a>''' for k,p,f,alt,cap,t in items)
+      <a href="{p}" data-cat="{k}"><figure><img src="{DIR}{f}-800.webp" srcset="{DIR}{f}-800.webp 800w, {DIR}{f}-1200.webp 1200w, {DIR}{f}.webp 1600w" sizes="(max-width: 700px) 100vw, 400px" width="800" height="532" alt="{E(alt)}" loading="lazy" decoding="async"><figcaption><b>{E(t)}</b><span>{E(cap)}</span></figcaption></figure></a>''' for k,p,f,alt,cap,t in items)
     hd=head('60 render di stand, <span class="grad">per tipo, settore e fiera</span>',"Clicca un progetto per aprire la pagina dedicata: cosa serve, come lo realizziamo e il modulo per chiedere un preventivo.")
     sec=f'''<section id="progetti">
   <div class="wrap">

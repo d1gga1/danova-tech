@@ -31,7 +31,7 @@ def url(f, kind=''):
 
 def figure(f, alt, cap):
     return (f'{A}<section class="fr-foto-sec"><div class="wrap"><figure class="fr-foto" data-rv="up">'
-            f'<img src="{DIR}{f}.webp" srcset="{DIR}{f}-800.webp 800w, {DIR}{f}.webp 1600w" '
+            f'<img src="{DIR}{f}.webp" srcset="{DIR}{f}-800.webp 800w, {DIR}{f}-1200.webp 1200w, {DIR}{f}.webp 1600w" '
             f'sizes="(max-width: 1240px) calc(100vw - 44px), 1196px" width="{W}" height="{HH}" alt="{E(alt)}" decoding="async">'
             f'<figcaption>{E(cap)}</figcaption></figure></div></section>{B}\n')
 
