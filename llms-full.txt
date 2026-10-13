@@ -1066,6 +1066,8 @@ Richiedi un preventivo
 
 Vedi i servizi
 
+Mockup illustrativo: come siti, campagne, CRM, gestionale e app lavorano insieme.
+
 ## Tutti i servizi, un solo referente
 
 Ognuno funziona da solo. Insieme funzionano meglio, perché il sito, le campagne e il gestionale smettono di essere tre mondi separati che non si parlano.
@@ -1286,6 +1288,8 @@ Parliamo del vostro profilo link
 
 Come funziona davvero
 
+Mockup illustrativo: link building fatta di citazioni vere, senza link comprati.
+
 Il punto di partenza
 
 ## Cosa rende un link utile
@@ -1425,6 +1429,8 @@ Una premessa, prima delle promesse: non abbiamo un ufficio in centro a Milano. S
 Richiedi un audit gratuito
 
 Perché da remoto funziona
+
+Mockup illustrativo: risultati SEO di un’azienda milanese misurati in contatti, non solo in posizioni.
 
 Il punto onesto
 
@@ -1569,6 +1575,8 @@ Il regolamento europeo sull'intelligenza artificiale riguarda anche le PMI che s
 Controlliamo i vostri strumenti AI
 
 Il calendario
+
+Mockup illustrativo: primi passi pratici per mettere ordine nell’uso dell’IA in azienda.
 
 Il calendario aggiornato
 
@@ -1734,6 +1742,26 @@ Trasporto, montaggio, smontaggio e magazzino, con squadre nostre e partner.
 Oltre 25 anni di fiere ci hanno insegnato a lavorare con tempi stretti, regolamenti rigidi e spazi da allestire in poche ore. Le stesse regole valgono per un congresso in hotel, uno showroom che apre lunedì o una mostra che deve essere pronta per l'inaugurazione.
 
 E siamo anche un'agenzia tech: allo spazio fisico possiamo affiancare landing page per le iscrizioni, prenotazioni , campagne per portare persone e un CRM per non perdere i contatti.
+
+Un esempio
+
+## Un esempio: la presentazione di un prodotto
+
+Un'azienda presenta la nuova linea a 120 clienti in uno spazio industriale riconvertito. Serve un palco basso con un ledwall, un'area con i prodotti su podi illuminati, un angolo lounge per le chiacchiere dopo la presentazione e una segnaletica che porti gli ospiti dal parcheggio alla sala.
+
+Lo spazio si allestisce in un giorno e si smonta la notte stessa: per questo usiamo strutture modulari, grafiche in tessuto e arredi a noleggio, e prepariamo in anticipo una pianta con gli allacci elettrici e i percorsi. Lo stesso materiale, con grafiche diverse, può tornare utile per uno showroom temporaneo o una fiera.
+
+## Cosa trovate nel preventivo
+
+- Sopralluogo e pianta. Misure dello spazio, accessi per lo scarico, punti di corrente.
+
+- Strutture e arredi. Palco, podi, pareti, lounge, a noleggio o in acquisto.
+
+- Luci e video. Illuminazione dei prodotti, ledwall, audio se serve.
+
+- Grafica e segnaletica. Fondali, totem, indicazioni per gli ospiti.
+
+- Montaggio e smontaggio. Nei tempi della location, anche in notturna.
 
 Domande frequenti
 
@@ -2969,6 +2997,26 @@ Come lavoriamo
 - Montaggio e smontaggio Squadre in fiera, consegna dello stand, smontaggio e rientro.
 
 - Dopo la fiera Magazzino per la prossima manifestazione e, se vuoi, gestione dei contatti raccolti.
+
+Un esempio
+
+## Un esempio: una fiera in Germania, organizzata dall'Italia
+
+Un'azienda veneta espone per la prima volta in una grande fiera tedesca con uno stand di 60 metri quadri. Le serve qualcuno che parli con l'organizzatore nella sua lingua, che conosca il regolamento tecnico del quartiere fieristico e che porti lo stand in tempo, senza sorprese doganali o di orari.
+
+Progettiamo e produciamo in Italia, organizziamo il trasporto con la documentazione corretta, prenotiamo gli slot di scarico e montiamo con squadre nostre o con partner locali. Il referente resta lo stesso dal primo schizzo allo smontaggio, e risponde in italiano.
+
+## Cosa trovate nel preventivo
+
+- Progetto e approvazione. Render, piante e documenti per l'ente fiera estero.
+
+- Produzione in Italia. Strutture, grafiche e arredi preparati prima della partenza.
+
+- Trasporto. Camion, documenti e slot di scarico prenotati.
+
+- Montaggio sul posto. Squadre nostre o partner locali coordinati da noi.
+
+- Servizi della fiera. Corrente, pulizie, connessione ordinati per voi.
 
 Domande frequenti
 
@@ -6043,6 +6091,8 @@ Parliamo dei vostri clienti
 
 Come funziona
 
+Mockup illustrativo: app fedeltà con tessera digitale, punti, offerte personalizzate e premi.
+
 Come funziona
 
 ## I pezzi di un programma di fedeltà
@@ -6140,6 +6190,7 @@ Prenota la chiamata gratuita
 
 ## Pagine collegate
 
+Gestionale per negozi Gestionale per parrucchieri e centri estetici
 Sviluppo app su misura
 App per prenotazioni e appuntamenti
 Gestionale per palestre
@@ -6167,6 +6218,8 @@ In cantiere il dato nasce sporco e arriva tardi: le ore su un foglio nel furgone
 Chiedi un preventivo
 
 Come funziona
+
+Mockup illustrativo: app di cantiere con rapportini, ore, materiali, foto e avanzamento.
 
 ## Cosa fa l'app
 
@@ -6297,6 +6350,8 @@ Chiedi un preventivo
 
 Come funziona
 
+Mockup illustrativo: app di magazzino che legge i codici a barre per prelievi, arrivi e inventari.
+
 ## Cosa fa l'app
 
 Quattro operazioni, tutte con la stessa regola: si legge, non si scrive.
@@ -6400,7 +6455,7 @@ La domanda sul terminale viene sempre subito, e la risposta è che nella maggior
 
 ## Pagine collegate
 
-Software WMS
+Gestione magazzino con Excel Software WMS
 Gestionale di magazzino
 App su misura
 Gestionale agroalimentare e tracciabilità
@@ -6429,6 +6484,8 @@ Il foglio delle ore compilato a fine mese a memoria è sbagliato per costruzione
 Chiedi un preventivo
 
 Come funziona
+
+Mockup illustrativo: app di timbratura con posizione verificata, ore settimanali e richieste di ferie.
 
 ## Cosa fa l'app
 
@@ -6557,6 +6614,8 @@ Un agente che raccoglie ordini su un blocco e li manda la sera per WhatsApp cost
 Chiedi un preventivo
 
 Come funziona
+
+Mockup illustrativo: app per agenti con visite, ordini offline, listini e scheda cliente.
 
 ## Cosa fa l'app
 
@@ -6691,6 +6750,8 @@ Raccontateci come lavorate
 
 Cosa fa l'app
 
+Mockup illustrativo: app per personal trainer con schede, clienti, progressi e pacchetti di lezioni.
+
 Le funzioni
 
 ## Cosa fa l'app
@@ -6823,6 +6884,8 @@ Raccontateci la vostra agenda
 
 Per chi funziona
 
+Mockup illustrativo: app di prenotazione con agenda, scelta dell’orario, promemoria SMS e acconto online.
+
 Per chi
 
 ## Una logica, agende diverse
@@ -6924,7 +6987,7 @@ Prenota la chiamata
 
 ## Pagine collegate
 
-Siti web per ristoranti Siti web per hotel e B&B
+Gestionale per ristoranti Gestionale per parrucchieri e centri estetici Gestionale per hotel Siti web per ristoranti Siti web per hotel e B&B
 Sviluppo app su misura
 App per personal trainer
 Gestionale per palestre
@@ -6952,6 +7015,8 @@ Il rapportino di carta è il punto in cui le aziende di servizi perdono più sol
 Chiedi un preventivo
 
 Come funziona
+
+Mockup illustrativo: app per rapportini con ore, materiali, foto e firma del cliente.
 
 ## Cosa fa l'app
 
@@ -7086,6 +7151,8 @@ La parte tecnica di un e-commerce è la più semplice e la meno decisiva. Quello
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: primo negozio online di una cantina, con shop e visite prenotabili.
 
 ## Gli adempimenti, in ordine
 
@@ -7338,6 +7405,8 @@ Chiedi un preventivo
 
 Dove si nasconde il tempo
 
+Mockup illustrativo: processo automatizzato con approvazione umana nel punto giusto.
+
 La mappa
 
 ## Dove si nasconde il tempo, in quasi tutte le aziende
@@ -7461,6 +7530,8 @@ Raccontateci il lavoro ripetitivo
 
 Cosa si automatizza
 
+Mockup illustrativo: flusso n8n che collega sito, CRM e messaggi ai commerciali.
+
 Esempi reali
 
 ## Cosa si automatizza in una PMI
@@ -7553,6 +7624,7 @@ Prenota la chiamata gratuita
 
 ## Pagine collegate
 
+WhatsApp aziendale
 Automazione processi aziendali
 Integrazione software aziendali
 Chatbot aziendale e agenti AI
@@ -7578,6 +7650,8 @@ Chi cerca un bando per la digitalizzazione trova decine di pagine che promettono
 Parliamo del vostro progetto
 
 Cosa c'è nel 2026
+
+Mockup illustrativo: checklist per preparare la domanda a un bando di digitalizzazione.
 
 Il quadro 2026
 
@@ -9546,6 +9620,8 @@ Parliamone
 
 A cosa serve
 
+Mockup illustrativo: agente AI interno che risponde con i dati del gestionale e cita le fonti.
+
 ## Dove funziona davvero
 
 Quattro usi con un ritorno misurabile. Fuori da questi, di solito è una demo.
@@ -9639,7 +9715,7 @@ Nella nostra esperienza no: sposta il lavoro. Le domande ripetitive le assorbe, 
 
 ## Pagine collegate
 
-AI Act per le aziende Automazioni con n8n
+WhatsApp aziendale AI Act per le aziende Automazioni con n8n
 Intelligenza artificiale per aziende
 Automazione processi aziendali
 Integrazione software aziendali
@@ -9666,6 +9742,8 @@ Un sito appena pubblicato non compare su Google da solo, o ci mette settimane. I
 Controlliamo il vostro sito
 
 I passaggi
+
+Mockup illustrativo: scheda riassuntiva della guida “Come indicizzare un sito su Google, passo per passo”.
 
 I passaggi
 
@@ -9763,6 +9841,7 @@ Richiedi il controllo
 
 ## Pagine collegate
 
+Come andare in prima pagina su Google Come inserire l’attività su Google Maps
 Posizionamento sito su Google
 Consulenza SEO
 SEO per l’intelligenza artificiale
@@ -9788,6 +9867,8 @@ Fra due aziende vicine che fanno la stessa cosa, il cliente sceglie quasi sempre
 Sistemiamo la vostra scheda Google
 
 Come chiederle
+
+Mockup illustrativo: scheda riassuntiva della guida “Come ottenere recensioni Google senza scorciatoie”.
 
 Il metodo
 
@@ -9869,7 +9950,7 @@ Richiedi l'analisi gratuita
 
 ## Pagine collegate
 
-Siti web per ristoranti
+SEO locale e Google Maps Come inserire l’attività su Google Maps Siti web per ristoranti
 Google Business Profile: la guida
 Consulenza SEO
 Posizionamento sito su Google
@@ -9894,6 +9975,8 @@ Siamo a Mansuè, fra Oderzo e Portogruaro, e lavoriamo con aziende che stanno ne
 Parliamone
 
 Come lavoriamo
+
+Mockup illustrativo: risultati SEO locali di uno studio di Treviso.
 
 Il punto di partenza
 
@@ -9998,7 +10081,7 @@ Se la domanda di partenza è più generale — come funziona il posizionamento, 
 
 ## Pagine collegate
 
-Come ottenere recensioni Google
+SEO locale e Google Maps Come inserire l’attività su Google Maps Come ottenere recensioni Google
 SEO e posizionamento
 Consulente SEO
 Posizionamento su Google
@@ -10028,6 +10111,8 @@ Il lavoro di un consulente SEO è far arrivare sul vostro sito le persone che st
 Chiedi un preventivo
 
 Cosa fa concretamente
+
+Mockup illustrativo: report SEO mensile con clic, impressioni, posizioni e richieste generate.
 
 Il lavoro
 
@@ -10134,7 +10219,7 @@ L'unica cosa su cui non trattiamo è il modo di misurare: contatti e fatturato d
 
 ## Pagine collegate
 
-Come indicizzare un sito su Google SEO per l’intelligenza artificiale
+Come andare in prima pagina su Google SEO locale e Google Maps Come indicizzare un sito su Google SEO per l’intelligenza artificiale
 SEO & posizionamento
 Google Ads
 Restyling sito web
@@ -10287,6 +10372,8 @@ Chiedi un preventivo
 
 Perché falliscono
 
+Mockup illustrativo: CRM con trattative, contatti, attività e previsioni di vendita.
+
 Il problema vero
 
 ## Perché quasi tutti i CRM finiscono inutilizzati
@@ -10428,6 +10515,7 @@ Ed è il punto giusto da cui partire. I progetti CRM falliscono quasi sempre per
 
 ## Pagine collegate
 
+Cos’è un CRM Gestionale per agenzie immobiliari WhatsApp aziendale
 Software house
 Gestionali & CRM
 Software gestionale aziendale
@@ -10457,6 +10545,8 @@ Digitalizzazione aziendale
 ## Digitalizzazione aziendale: si comincia dal foglio Excel che nessuno vuole toccare .
 La digitalizzazione di un'azienda non è un progetto da fare tutto insieme. È una sequenza di passaggi in cui ogni passo deve ripagarsi prima di autorizzare il successivo. Cominciamo guardando come lavorate oggi, non da cosa potremmo vendervi.
 Chiedi un preventivo Come funziona
+
+Mockup illustrativo: digitalizzazione per passi: si parte da un processo, non da tutto insieme.
 
 Definizione
 
@@ -10548,6 +10638,8 @@ Un portale B2B non è un negozio online con il prezzo nascosto. Chi compra è un
 Parliamone
 
 Cosa cambia nel B2B
+
+Mockup illustrativo: e-commerce B2B con listini per cliente e ordine rapido.
 
 ## Cosa cambia rispetto a un negozio normale
 
@@ -10683,6 +10775,8 @@ Parliamone
 
 Cosa si sincronizza
 
+Mockup illustrativo: e-commerce e gestionale collegati: niente più ordini ricopiati a mano.
+
 ## Cosa si sincronizza
 
 Quattro flussi che, messi in ordine, eliminano il lavoro manuale.
@@ -10786,7 +10880,7 @@ La nostra posizione, dopo diversi progetti di questo tipo: tenete il gestionale 
 
 ## Pagine collegate
 
-Portale rivenditori B2B Software WMS
+Gestionale per negozi Portale rivenditori B2B Software WMS
 Realizzazione e-commerce
 E-commerce B2B
 Migrazione e-commerce
@@ -10950,6 +11044,324 @@ Ledwall e illuminazione
 
 
 ========================================================================
+# Gestionale per agenzie immobiliari su misura
+URL: https://danova-tech.com/gestionale-agenzia-immobiliare/
+Descrizione: Gestionale per agenzie immobiliari: immobili e incarichi, richieste dei clienti, incroci automatici, visite, pubblicazione sui portali e sito sincronizzato.
+========================================================================
+
+Home / Gestionali e CRM / Agenzie immobiliari
+
+Software immobiliare
+
+## Gestionale per agenzie immobiliari: l'immobile giusto al cliente giusto.
+
+Un'agenzia immobiliare lavora su due liste che devono incontrarsi: gli immobili in incarico e le persone che cercano casa. Il gestionale tiene entrambe aggiornate, propone gli incroci, organizza le visite e pubblica gli annunci su sito e portali senza ricopiarli.
+
+Parliamo della vostra agenzia
+
+Cosa fa
+
+Mockup illustrativo: gestionale immobiliare con immobili, richieste, incroci, visite e annunci.
+
+Cosa fa
+
+## Incarichi, richieste e visite in un posto solo
+
+01
+
+## Immobili e incarichi
+
+Scheda completa, foto, planimetrie, scadenza dell'incarico e storico delle trattative.
+
+02
+
+## Richieste dei clienti
+
+Chi cerca cosa, dove e con che budget, con le richieste dal sito che entrano da sole.
+
+03
+
+## Incroci automatici
+
+Quando entra un immobile nuovo, il sistema vi dice a quali clienti proporlo.
+
+04
+
+## Agenda visite
+
+Visite con conferma al cliente e resoconto dell'agente subito dopo.
+
+05
+
+## Annunci su sito e portali
+
+L'annuncio si scrive una volta e si pubblica sul sito e sui portali collegati.
+
+06
+
+## Area proprietari
+
+Il proprietario vede visite, interesse e offerte del suo immobile senza telefonare.
+
+Sito e gestionale
+
+## Il gestionale serve anche a prendere incarichi
+
+L'area proprietari e i report sulle visite sono l'argomento migliore quando chiedete un incarico: il proprietario vede che il suo immobile è seguito. Il sito dell'agenzia, con la valutazione online, porta le richieste di chi vuole vendere: vedete i siti per agenzie immobiliari .
+
+Il primo modulo di un gestionale su misura parte da 1.500 € IVA inclusa, come da listino .
+
+Un esempio
+
+## Un'agenzia con cinque agenti, prima e dopo
+
+Prima: immobili in un programma, richieste dei clienti nelle agende personali degli agenti, annunci ricopiati a mano su ogni portale. Quando entrava un immobile nuovo, ognuno chiamava i suoi clienti a memoria, e spesso i migliori acquirenti non venivano chiamati.
+
+Dopo: le richieste dal sito e dai portali entrano nel gestionale, e quando arriva un immobile compatibile l'agente vede subito la lista dei clienti da chiamare. L'annuncio si scrive una volta e si pubblica ovunque, e i proprietari ricevono ogni settimana il resoconto delle visite.
+
+Proprio il resoconto ai proprietari è diventato l'argomento più forte per ottenere nuovi incarichi.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Gli annunci si pubblicano da soli sui portali?
+
+Ricopiare lo stesso annuncio su tre portali è il lavoro più inutile della giornata di un agente.
+
+FAQ
+
+## Le domande sul gestionale immobiliare.
+
+Il gestionale pubblica sui portali immobiliari?
+Sì, sui portali che offrono un collegamento per l'importazione degli annunci; verifichiamo quelli che usate.
+
+Come funzionano gli incroci?
+Ogni richiesta ha zona, tipologia e budget; quando entra un immobile compatibile, il sistema lo segnala all'agente.
+
+I proprietari possono vedere l'andamento?
+Sì, con un'area riservata che mostra visite, interesse e offerte.
+
+Si collega al sito dell'agenzia?
+Sì: annunci e richieste passano dal sito al gestionale e viceversa.
+
+Quanto costa?
+Il primo modulo parte da 1.500 € IVA inclusa; la cifra finale la scriviamo dopo l'analisi.
+
+Posso importare gli immobili dal programma attuale?
+Sì: immobili, clienti e richieste si importano dal programma precedente o da file.
+
+Gli agenti possono usarlo fuori ufficio?
+Sì: schede immobile, richieste e agenda visite sono disponibili dal telefono, con le foto e il resoconto della visita.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Siti web per agenzie immobiliari
+CRM aziendale
+App per agenti di commercio
+SEO locale
+Automazioni con n8n
+Quanto costa un gestionale
+
+
+========================================================================
+# Gestionale autonoleggio e NCC su misura
+URL: https://danova-tech.com/gestionale-autonoleggio/
+Descrizione: Gestionale per autonoleggio e NCC: disponibilità della flotta, prenotazioni online, contratti, danni con foto, manutenzioni e scadenze dei veicoli.
+========================================================================
+
+Home / Gestionali e CRM / Autonoleggio
+
+Noleggio auto e NCC
+
+## Gestionale per autonoleggio: ogni auto, ogni giorno, sotto controllo.
+
+Nel noleggio auto i margini si perdono nei dettagli: un'auto ferma perché nessuno ha visto la scadenza del tagliando, un danno senza foto alla riconsegna, una prenotazione doppia. Il gestionale per autonoleggio e NCC tiene insieme flotta, prenotazioni, contratti e manutenzioni.
+
+Parliamo della vostra flotta
+
+Cosa fa
+
+Mockup illustrativo: gestionale per autonoleggio e NCC con planning, contratti, danni e scadenze.
+
+Cosa fa
+
+## Dalla prenotazione alla riconsegna
+
+01
+
+## Disponibilità della flotta
+
+Planning per categoria e per auto, con fermi per manutenzione e trasferimenti fra sedi.
+
+02
+
+## Prenotazioni online
+
+Il cliente prenota e paga dal sito; la prenotazione entra nel planning senza ricopiarla.
+
+03
+
+## Contratti e documenti
+
+Contratto generato in automatico, patente e documenti caricati, firma su tablet.
+
+04
+
+## Danni con foto
+
+Al ritiro e alla riconsegna si fotografa l'auto dal telefono: le foto restano sul contratto.
+
+05
+
+## Manutenzioni e scadenze
+
+Tagliandi, revisioni, assicurazioni e gomme stagionali segnalati prima della scadenza.
+
+06
+
+## NCC e servizi con autista
+
+Servizi con conducente, turni degli autisti e preventivi per tratta.
+
+I numeri
+
+## Quanto rende ogni auto
+
+Il gestionale vi mostra utilizzo, ricavi e costi per ogni veicolo: si vede subito quale auto conviene tenere e quale vendere. Per le flotte aziendali senza noleggio a terzi vedete il software gestione flotte ; per il noleggio di attrezzature il gestionale per il noleggio .
+
+Il primo modulo di un gestionale su misura parte da 1.500 € IVA inclusa, come da listino .
+
+Un esempio
+
+## Un autonoleggio con 60 auto, prima e dopo
+
+Prima: planning su un foglio, contratti stampati e firmati a mano, danni annotati su un modulo di carta con un disegno dell'auto. Alla riconsegna, discussioni frequenti sui graffi che c'erano o non c'erano già.
+
+Dopo: il cliente prenota e paga dal sito, al ritiro l'auto si fotografa dal telefono e le foto restano sul contratto firmato su tablet. Le scadenze di tagliandi, revisioni e assicurazioni arrivano con un mese di anticipo.
+
+Il report di rendimento per auto ha mostrato che tre veicoli costavano più di quanto rendevano: sono stati sostituiti con un modello più richiesto.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Le foto dei danni restano sul contratto?
+
+Senza foto con data e ora, ogni contestazione diventa la parola del cliente contro la vostra.
+
+FAQ
+
+## Le domande sul gestionale per autonoleggio.
+
+Il cliente può prenotare e pagare online?
+Sì, dal sito, con il planning che si aggiorna in tempo reale per evitare prenotazioni doppie.
+
+Come si gestiscono i danni?
+Con foto dal telefono al ritiro e alla riconsegna, allegate al contratto con data e ora.
+
+Funziona per il noleggio con conducente?
+Sì: servizi, turni degli autisti, preventivi per tratta e fatturazione.
+
+Segnala le scadenze dei veicoli?
+Sì: tagliandi, revisioni, assicurazioni, bollo e cambio gomme.
+
+Quanto costa?
+Il primo modulo parte da 1.500 € IVA inclusa; dopo l'analisi la cifra scritta non cambia.
+
+Si possono gestire cauzioni e depositi?
+Sì: cauzioni, franchigie e addebiti per danni o carburante sono registrati sul contratto e riportati in fattura.
+
+Va bene anche per i furgoni e i veicoli commerciali?
+Sì: categorie, tariffe e documenti si configurano per ogni tipo di veicolo.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Software gestione flotte
+Gestionale per il noleggio
+App per prenotazioni
+Realizzazione siti internet
+Fatturazione elettronica
+Quanto costa un gestionale
+
+
+========================================================================
 # Gestionale cloud e online su misura per aziende
 URL: https://danova-tech.com/gestionale-cloud/
 Descrizione: Gestionale cloud accessibile via browser da ovunque: software gestionale cloud su misura, dati vostri ed esportabili, nessun server da mantenere in azienda.
@@ -10966,6 +11378,8 @@ Un gestionale cloud gira su un server raggiungibile via internet e si usa dal br
 Chiedi un preventivo
 
 Cloud o server in azienda
+
+Mockup illustrativo: gestionale cloud usato da sede, agenti e magazzino, con backup e accessi controllati.
 
 La scelta
 
@@ -11099,6 +11513,326 @@ Integrazione software aziendali
 
 
 ========================================================================
+# Gestionale per hotel: camere e prenotazioni
+URL: https://danova-tech.com/gestionale-hotel/
+Descrizione: Gestionale per hotel e strutture ricettive: planning camere, prenotazioni dirette, check-in online, extra, housekeeping e report, collegato ai portali.
+========================================================================
+
+Home / Gestionali e CRM / Hotel
+
+Software alberghiero
+
+## Gestionale per hotel: più prenotazioni dirette, meno fogli.
+
+Un hotel lavora con tanti programmi: il planning delle camere, il motore di prenotazione del sito, il channel manager dei portali, il ristorante, la spa, le pulizie. Quando non si parlano, qualcuno ricopia dati tutto il giorno. Costruiamo o colleghiamo il gestionale alberghiero in modo che ogni informazione si inserisca una volta sola.
+
+Parliamo della vostra struttura
+
+Cosa fa
+
+Mockup illustrativo: gestionale per hotel con planning, prenotazioni dirette, check-in online e housekeeping.
+
+Cosa fa
+
+## Il cuore della struttura, collegato a tutto il resto
+
+01
+
+## Planning camere
+
+Disponibilità, tariffe e prenotazioni su un unico planning, con spostamenti e sovrapposizioni gestite senza errori.
+
+02
+
+## Prenotazioni dirette
+
+Il motore di prenotazione del sito scrive direttamente nel planning: niente commissioni e nessun doppio inserimento.
+
+03
+
+## Check-in online
+
+L'ospite carica i documenti prima di arrivare; i dati per gli adempimenti di legge sono pronti al suo arrivo.
+
+04
+
+## Extra e servizi
+
+Ristorante, spa, transfer e minibar finiscono sul conto della camera, con il saldo pronto al check-out.
+
+05
+
+## Housekeeping
+
+Le cameriere vedono dal telefono quali camere preparare e segnano quelle pronte; la reception lo sa in tempo reale.
+
+06
+
+## Report e ricavi
+
+Occupazione, ricavo medio per camera, canali di vendita e costo delle commissioni, aggiornati ogni giorno.
+
+Collegamenti
+
+## Non sostituiamo tutto: colleghiamo quello che c'è
+
+Molte strutture hanno già un channel manager o un gestionale che funziona bene per una parte del lavoro. In quei casi non serve buttarlo: lo colleghiamo al sito, alla contabilità e agli altri reparti, e costruiamo su misura solo la parte che manca.
+
+Per un B&B o un piccolo hotel di solito basta un buon sito con prenotazione diretta collegata al planning: vedete i nostri siti per hotel . Per gruppi, resort e strutture con più servizi il gestionale su misura ripaga in fretta il tempo risparmiato.
+
+Il primo modulo di un gestionale su misura parte da 1.500 € IVA inclusa, come da listino .
+
+Un esempio
+
+## Un hotel di 45 camere, prima e dopo
+
+Prima: planning su un programma, prenotazioni dei portali ricopiate a mano, conti del ristorante su carta portati alla reception a fine serata, pulizie organizzate con un foglio stampato al mattino. Due overbooking in un'estate, entrambi da errori di ricopiatura.
+
+Dopo: le prenotazioni dal sito e dai portali entrano nel planning da sole, il ristorante carica gli extra sul conto della camera dal tablet e le cameriere segnano le camere pronte dal telefono. La reception vede tutto in tempo reale e al check-out il conto è già pronto.
+
+Il sito con il motore di prenotazione diretta è stato rifatto nello stesso progetto: le prenotazioni dirette sono il canale su cui la struttura non paga commissioni.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Gestisce tariffe e disponibilità sui portali?
+
+Se no, serve un channel manager collegato: chiedete come avviene la sincronizzazione e quanto spesso.
+
+FAQ
+
+## Le domande sul gestionale per hotel.
+
+Che differenza c'è fra gestionale alberghiero e channel manager?
+Il gestionale (spesso chiamato PMS) gestisce camere, prenotazioni, ospiti e conti. Il channel manager distribuisce disponibilità e tariffe sui portali. Lavorano bene solo se sono collegati.
+
+Si collega ai portali di prenotazione?
+Sì, tramite il channel manager che usate o che scegliamo insieme: le prenotazioni dei portali entrano nel planning senza ricopiarle.
+
+Va bene per un B&B?
+Per un B&B spesso basta un sito con prenotazione diretta e un planning semplice. Il gestionale su misura conviene a strutture con più servizi o più sedi.
+
+Le cameriere possono usarlo dal telefono?
+Sì: vedono le camere da preparare, segnano quelle pronte e segnalano guasti con una foto.
+
+Quanto costa un gestionale per hotel su misura?
+Il primo modulo parte da 1.500 € IVA inclusa. Dopo l'analisi vi diamo una cifra scritta che non cambia.
+
+Si possono gestire più strutture?
+Sì: planning e report per struttura, ospiti e listini condivisi o separati a seconda di come lavorate.
+
+Gli adempimenti per gli ospiti sono inclusi?
+Il check-in online raccoglie i dati necessari; le comunicazioni previste dalla legge si preparano dal gestionale e si verificano con il vostro consulente.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Siti web per hotel
+Gestionale per ristoranti
+App per prenotazioni
+Integrazione software aziendali
+Gestionale cloud
+Quanto costa un gestionale
+
+
+========================================================================
+# Gestionale per negozi: cassa e magazzino
+URL: https://danova-tech.com/gestionale-negozio/
+Descrizione: Software gestionale per negozi e negozi di abbigliamento: cassa, magazzino con taglie e colori, riassortimento, fidelity e vendite online sincronizzate.
+========================================================================
+
+Home / Gestionali e CRM / Negozi
+
+Software per il commercio
+
+## Gestionale per negozi: la cassa sa cosa c'è in magazzino.
+
+Un negozio che vende anche online, o che ha più punti vendita, ha un problema che i programmi di cassa da soli non risolvono: sapere in ogni momento cosa c'è, dove, e cosa riordinare. Costruiamo gestionali per negozi che tengono insieme cassa, magazzino, clienti e e-commerce, con le varianti che servono davvero, come taglie e colori.
+
+Parliamo del vostro negozio
+
+Cosa fa
+
+Mockup illustrativo: gestionale per negozi con cassa, taglie e colori, riassortimento ed e-commerce sincronizzato.
+
+Cosa fa
+
+## Cassa, magazzino e online sempre allineati
+
+01
+
+## Cassa veloce
+
+Lettura del codice a barre, resi, cambi e buoni regalo, collegata al registratore telematico e al POS.
+
+02
+
+## Taglie e colori
+
+Ogni articolo con le sue varianti: vedete subito quale taglia manca e in quale negozio si trova.
+
+03
+
+## Riassortimento
+
+Proposte d'ordine ai fornitori in base a venduto e scorte minime, invece che a sensazione.
+
+04
+
+## Negozio online sincronizzato
+
+Le giacenze del sito si aggiornano a ogni scontrino: niente più ordini online di articoli già venduti in negozio.
+
+05
+
+## Clienti e fidelity
+
+Tessera punti, storico acquisti e messaggi mirati ai clienti che comprano davvero.
+
+06
+
+## Più punti vendita
+
+Trasferimenti fra negozi, inventari e report per punto vendita in un unico sistema.
+
+Quando serve
+
+## Il segnale che è ora di cambiare programma
+
+Se a fine giornata qualcuno controlla a mano le vendite online contro il magazzino, se gli inventari non tornano mai o se i fornitori li sentite quando un articolo è già finito, il programma di cassa non basta più.
+
+Il gestionale su misura si collega all'e-commerce che avete o a quello che costruiamo: vedete e-commerce collegato al gestionale . Il primo modulo parte da 1.500 € IVA inclusa, come da listino .
+
+Un esempio
+
+## Un negozio di abbigliamento con e-commerce, prima e dopo
+
+Prima: cassa con un programma, negozio online con un altro, giacenze allineate a mano ogni sera. Almeno una volta a settimana un cliente online ordinava una taglia già venduta in negozio, con rimborso e scuse.
+
+Dopo: ogni scontrino aggiorna la giacenza del sito, gli ordini online prenotano la merce in negozio e il magazzino si vede per taglia e colore. Le proposte di riassortimento partono dal venduto delle ultime settimane, non dalla memoria.
+
+Il primo modulo è stata la sincronizzazione fra cassa e negozio online, perché era quello che costava clienti; fidelity e report sono arrivati dopo.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Gestisce taglie, colori e varianti?
+
+Un articolo con dieci taglie e cinque colori sono cinquanta giacenze: il programma deve mostrarle in una griglia, non in cinquanta righe.
+
+FAQ
+
+## Le domande sul gestionale per negozi.
+
+Che gestionale serve a un negozio di abbigliamento?
+Uno che gestisca varianti di taglia e colore, cambi e resi veloci, saldi e promozioni, e che sincronizzi le giacenze con il negozio online se vendete anche lì.
+
+Si collega al mio e-commerce?
+Sì, ai principali e-commerce tramite i loro collegamenti, oppure costruiamo noi il negozio online già integrato.
+
+Funziona con più negozi?
+Sì: magazzino per punto vendita, trasferimenti e report separati e complessivi.
+
+Posso usarlo dal telefono?
+Sì: inventari e controlli delle giacenze si fanno anche da telefono con la fotocamera come lettore di codici.
+
+Quanto costa?
+Il primo modulo parte da 1.500 € IVA inclusa; dopo l'analisi vi diamo una cifra scritta che non cambia.
+
+Si possono fare inventari dal telefono?
+Sì: con la fotocamera come lettore di codici a barre si conta reparto per reparto e le differenze si registrano subito.
+
+Posso vedere le vendite di ogni negozio?
+Sì: report per punto vendita, per commesso e per categoria, anche dal telefono.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+E-commerce collegato al gestionale
+Gestionale magazzino
+App di fidelizzazione
+App magazzino codici a barre
+Realizzazione e-commerce
+Quanto costa un gestionale
+
+
+========================================================================
 # Gestionale per officina meccanica su misura
 URL: https://danova-tech.com/gestionale-officina-meccanica/
 Descrizione: Software gestionale per officine meccaniche: accettazione, schede di lavorazione, ricambi, preventivi e scadenze tagliando. Su misura, a prezzo fisso.
@@ -11115,6 +11849,8 @@ In officina il problema non è la contabilità: è che il preventivo è su un fo
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale per officina con schede di lavoro, agenda ponte, ricambi e preventivi.
 
 ## Cosa gestisce
 
@@ -11209,6 +11945,7 @@ Sì, attraverso i canali ufficiali per i messaggi aziendali, oppure via SMS ed e
 
 ## Pagine collegate
 
+Gestionale per autonoleggio
 Caso studio: GRG Performance
 Gestionale di magazzino
 Gestionale per la produzione
@@ -11244,6 +11981,8 @@ Una palestra è un'azienda di abbonamenti che ogni giorno deve rispondere a quat
 Parliamo della vostra palestra
 
 Le funzioni
+
+Mockup illustrativo: gestionale per palestra con iscritti, abbonamenti, certificati e corsi.
 
 Le funzioni
 
@@ -11342,6 +12081,7 @@ Fissiamo l'incontro
 
 ## Pagine collegate
 
+Gestionale per parrucchieri e centri estetici
 App per personal trainer
 App per prenotazioni e appuntamenti
 App fidelizzazione clienti
@@ -11350,6 +12090,500 @@ Gestionale cloud su misura
 CRM aziendale
 Quanto costa un gestionale
 Prezzi
+
+
+========================================================================
+# Gestionale per parrucchieri e centri estetici
+URL: https://danova-tech.com/gestionale-parrucchieri-centri-estetici/
+Descrizione: Gestionale per parrucchieri e centri estetici: agenda online, promemoria SMS, schede cliente, pacchetti e gift card, magazzino prodotti e cassa.
+========================================================================
+
+Home / Gestionali e CRM / Parrucchieri e centri estetici
+
+Saloni e centri estetici
+
+## Gestionale per parrucchieri e centri estetici: l'agenda che si riempie da sola.
+
+In un salone il tempo è il prodotto: un appuntamento saltato è un'ora persa, una cliente che non torna è un mese di incassi in meno. Il gestionale per parrucchieri e centri estetici mette insieme agenda, promemoria, schede delle clienti e vendita dei prodotti, e lascia prenotare online anche quando il telefono squilla a vuoto.
+
+Parliamo del vostro salone
+
+Cosa fa
+
+Mockup illustrativo: gestionale per saloni con agenda, schede cliente, pacchetti e richiami.
+
+Cosa fa
+
+## Agenda, clienti e cassa nello stesso posto
+
+01
+
+## Agenda per operatrice
+
+Servizi con la loro durata, cabine e attrezzature: l'agenda impedisce sovrapposizioni e buchi.
+
+02
+
+## Prenotazione online
+
+Le clienti prenotano dal sito o da un link su Instagram e WhatsApp, anche di notte.
+
+03
+
+## Promemoria automatici
+
+Un SMS o un messaggio il giorno prima riduce gli appuntamenti dimenticati.
+
+04
+
+## Scheda cliente
+
+Colori usati, trattamenti, allergie e preferenze: chiunque la serva sa già cosa fare.
+
+05
+
+## Pacchetti e gift card
+
+Pacchetti di sedute e buoni regalo venduti anche online, con il saldo sempre aggiornato.
+
+06
+
+## Prodotti e magazzino
+
+Vendita al banco e consumo in cabina scalano lo stesso magazzino.
+
+Clienti che tornano
+
+## Il gestionale che vi ricorda le clienti
+
+Il dato più utile di un salone è chi non torna. Il gestionale vi mostra le clienti che non prenotano da più del solito e vi permette di scrivere loro al momento giusto, con un'offerta o semplicemente un promemoria.
+
+Lo colleghiamo al sito del salone e a un' app di prenotazione se vi serve; per i punti fedeltà vedete l' app di fidelizzazione .
+
+Un esempio
+
+## Un salone con quattro operatrici, prima e dopo
+
+Prima: agenda di carta sul bancone, telefono che squilla durante le pieghe, quattro o cinque appuntamenti dimenticati ogni settimana. Le schede colore stavano in un quaderno che solo una persona sapeva leggere.
+
+Dopo: le clienti prenotano dal link su Instagram e WhatsApp, il promemoria parte il giorno prima e le schede colore sono sul tablet. Gli appuntamenti dimenticati sono diventati rari e ogni lunedì il salone scrive alle clienti che non tornano da più di otto settimane.
+
+Le gift card vendute online sono state la sorpresa: sotto Natale hanno portato clienti nuove che non avevano mai prenotato.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Le clienti possono prenotare da sole?
+
+Senza prenotazione online l'agenda si riempie solo negli orari in cui qualcuno risponde al telefono.
+
+FAQ
+
+## Le domande sul gestionale per saloni.
+
+Le clienti possono prenotare online?
+Sì, dal sito o da un link condiviso sui social e su WhatsApp, scegliendo servizio, operatrice e orario libero.
+
+I promemoria funzionano davvero?
+Sì: un messaggio il giorno prima riduce in modo sensibile gli appuntamenti dimenticati, ed è la funzione che si ripaga per prima.
+
+Posso vendere gift card online?
+Sì: la cliente la paga online, la riceve via email e il saldo si scala alle visite.
+
+Va bene per più saloni?
+Sì: agenda, clienti e magazzino possono essere condivisi o separati per sede.
+
+Quanto costa?
+Per un salone singolo spesso basta una soluzione semplice; il su misura parte da 1.500 € IVA inclusa per il primo modulo.
+
+Posso gestire cabine e attrezzature?
+Sì: ogni servizio occupa l'operatrice e, se serve, la cabina o il macchinario, così non si sovrappongono.
+
+Il gestionale manda gli auguri di compleanno?
+Sì, se la cliente ha dato il consenso: messaggio automatico con un'offerta, una delle comunicazioni più apprezzate.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+App per prenotazioni
+App di fidelizzazione
+Siti per centri estetici a Oderzo
+Gestionale per negozi
+WhatsApp aziendale
+Quanto costa un gestionale
+
+
+========================================================================
+# Gestionale per ristoranti: comande e food cost
+URL: https://danova-tech.com/gestionale-ristorante/
+Descrizione: Software gestionale per ristoranti su misura: comande dal tablet, prenotazioni, magazzino, food cost per piatto e chiusura cassa. Collegato a sito e delivery.
+========================================================================
+
+Home / Gestionali e CRM / Ristoranti
+
+Software ristorazione
+
+## Gestionale per ristoranti: dalla comanda al food cost.
+
+In un ristorante le informazioni nascono in sala e in cucina e finiscono, se va bene, in un foglio Excel la domenica sera. Un gestionale per la ristorazione mette in fila comande, prenotazioni, magazzino e costi dei piatti, così sapete ogni giorno quanto guadagnate su ogni coperto e cosa ordinare ai fornitori.
+
+Parliamo del vostro locale
+
+Cosa fa
+
+Mockup illustrativo: gestionale per ristoranti con comande, prenotazioni, magazzino e food cost.
+
+Cosa fa
+
+## Un programma solo per sala, cucina e ufficio
+
+01
+
+## Comande dal tablet
+
+Il cameriere prende l'ordine al tavolo, la comanda arriva in cucina e al bar divisa per reparto. Niente foglietti illeggibili, niente piatti dimenticati.
+
+02
+
+## Prenotazioni e tavoli
+
+Le prenotazioni dal sito, dal telefono e dai portali finiscono nella stessa agenda, con la mappa dei tavoli e i coperti previsti per turno.
+
+03
+
+## Magazzino e ordini
+
+Ogni piatto venduto scala gli ingredienti dalla ricetta. Quando un prodotto scende sotto scorta, l'ordine al fornitore è già pronto da confermare.
+
+04
+
+## Food cost per piatto
+
+Il costo di ogni piatto si aggiorna con i prezzi delle ultime fatture dei fornitori. Vedete subito quali piatti rendono e quali vanno ripensati.
+
+05
+
+## Cassa e chiusura
+
+Incassi per metodo di pagamento, mance, sconti e chiusura di fine giornata in un'unica schermata, collegata al registratore telematico.
+
+06
+
+## Delivery e asporto
+
+Gli ordini dal vostro sito e dalle app di consegna entrano nello stesso flusso della cucina, senza tablet diversi sul bancone.
+
+Pacchetto o su misura
+
+## Quando conviene un gestionale su misura
+
+Per una pizzeria con un solo punto cassa un programma a pacchetto spesso basta. Il su misura conviene quando avete più locali, una produzione centralizzata, un catering o una gastronomia accanto al ristorante, oppure quando i programmi provati vi costringono a lavorare come vogliono loro.
+
+Costruiamo il gestionale partendo da come lavorate: prima il pezzo che vi fa perdere più tempo, di solito magazzino e food cost, poi il resto. Il sito con il menù e le prenotazioni si collega allo stesso sistema: vedete i nostri siti per ristoranti .
+
+Un gestionale su misura parte da 1.500 € IVA inclusa per il primo modulo, come indicato nel nostro listino ; la cifra esatta la fissiamo dopo l'analisi e poi non cambia.
+
+Come lavoriamo
+
+## Dal primo incontro al servizio di sabato sera
+
+- Una giornata nel locale Guardiamo un servizio vero, dalla mise en place alla chiusura cassa. Si capisce più lì che in dieci riunioni.
+
+- Il primo modulo Partiamo da quello che costa più ore: spesso ricette e magazzino. Va in uso in poche settimane.
+
+- Formazione in sala Camerieri e cuochi lo provano prima dell'apertura, non durante il servizio.
+
+- Gli altri moduli Comande, prenotazioni, cassa e report arrivano uno alla volta, senza fermare il locale.
+
+Un esempio
+
+## Una trattoria con 80 coperti, prima e dopo
+
+Prima: comande su carta, ordini ai fornitori fatti il lunedì guardando il frigorifero, food cost calcolato una volta l'anno con il commercialista. Il titolare scopriva a fine mese che la carne era aumentata del 15% e che due piatti del menù erano in perdita.
+
+Dopo: le comande arrivano in cucina dal tablet, ogni piatto scala gli ingredienti dalla ricetta, e il food cost si aggiorna a ogni fattura dei fornitori. Il martedì mattina c'è già la proposta d'ordine per frutta e verdura, e il titolare vede ogni giorno il margine per coperto. I due piatti in perdita sono stati ripensati in una settimana.
+
+Non serve partire da tutto: in questo caso il primo modulo è stato proprio ricette e food cost, perché era quello che faceva perdere più soldi.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Il food cost si aggiorna da solo?
+
+Se i prezzi degli ingredienti vanno inseriti a mano, nessuno lo farà: devono arrivare dalle fatture dei fornitori.
+
+FAQ
+
+## Le domande sul gestionale per ristoranti.
+
+Cosa deve fare un gestionale per ristoranti?
+Gestire comande, prenotazioni, magazzino, ricette con food cost e chiusura cassa, e collegarsi al sito, alle app di consegna e al registratore telematico. Il punto è avere i numeri del locale ogni giorno, non solo a fine mese.
+
+Funziona su tablet e telefono?
+Sì: le comande si prendono da tablet o telefono, la cucina vede gli ordini su uno schermo e il titolare consulta incassi e food cost anche da casa.
+
+Si collega al registratore di cassa?
+Sì, ai registratori telematici più diffusi tramite i loro collegamenti; verifichiamo il vostro modello prima di iniziare.
+
+Posso calcolare il food cost di ogni piatto?
+Sì: ogni ricetta ha i suoi ingredienti con le quantità, e il costo si aggiorna con i prezzi delle fatture dei fornitori. Così vedete margine per piatto e per coperto.
+
+Va bene per più locali?
+Sì, ed è uno dei casi in cui il su misura conviene di più: magazzino centrale, trasferimenti fra locali, ricette uguali dappertutto e report per punto vendita.
+
+Quanto costa?
+Il primo modulo di un gestionale su misura parte da 1.500 € IVA inclusa. Dopo l'analisi vi diamo una cifra scritta che non cambia.
+
+Posso usare il gestionale anche per il catering e l'asporto?
+Sì: ordini di catering, asporto e delivery passano dallo stesso magazzino e dalle stesse ricette del ristorante.
+
+Serve una connessione internet sempre attiva?
+Le comande devono funzionare anche se la linea cade per qualche minuto; lo prevediamo nel progetto con una modalità locale che si sincronizza al ritorno della connessione.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Siti web per ristoranti
+App per prenotazioni
+Gestionale magazzino
+Fatturazione elettronica
+Quanto costa un gestionale
+Gestionale per hotel
+
+
+========================================================================
+# Gestionale per studio dentistico su misura
+URL: https://danova-tech.com/gestionale-studio-dentistico/
+Descrizione: Gestionale per studi dentistici: agenda per poltrona, richiami di igiene, piani di cura e preventivi, pagamenti a rate e dati dei pazienti protetti.
+========================================================================
+
+Home / Gestionali e CRM / Studi dentistici
+
+Software per dentisti
+
+## Gestionale per studio dentistico: poltrone piene, richiami puntuali.
+
+Uno studio dentistico vive di agenda e di fiducia: poltrone occupate, pazienti richiamati al momento giusto, preventivi chiari e pagamenti senza imbarazzi. Il gestionale deve fare tutto questo trattando i dati sanitari con la cura che richiedono.
+
+Parliamo del vostro studio
+
+Cosa fa
+
+Mockup illustrativo: gestionale per studi dentistici con agenda, richiami, preventivi e rate. I dati dei pazienti sono inventati.
+
+Cosa fa
+
+## Lo studio in ordine, dalla prima visita al controllo
+
+01
+
+## Agenda per poltrona
+
+Medici, igienisti, poltrone e durata delle prestazioni: l'agenda si riempie senza sovrapposizioni.
+
+02
+
+## Richiami automatici
+
+Igiene e controlli richiamati ogni sei mesi, con messaggio e link per prenotare.
+
+03
+
+## Piani di cura e preventivi
+
+Preventivo per fasi, firmato anche su tablet, con avanzamento del piano visibile a tutto lo studio.
+
+04
+
+## Pagamenti a rate
+
+Rate, acconti e solleciti gentili, con lo stato dei pagamenti sempre chiaro.
+
+05
+
+## Prenotazione online
+
+I pazienti prenotano la prima visita o l'igiene dal sito, negli orari che decidete voi.
+
+06
+
+## Dati protetti
+
+Accessi per ruolo, registro delle operazioni e backup: i dati sanitari richiedono attenzione in più.
+
+Dati sanitari
+
+## I dati dei pazienti non sono dati qualunque
+
+I dati sanitari sono una categoria particolare per il GDPR: chi può vederli, dove sono conservati e come vengono protetti va deciso prima di scrivere una riga di codice. Lo facciamo insieme al vostro consulente privacy.
+
+Il gestionale si affianca al software clinico che usate per radiografie e cartella, quando c'è: non serve cambiarlo, lo colleghiamo dove ha senso. Per il sito dello studio vedete la nostra pagina con un esempio di sito per dentisti .
+
+Un esempio
+
+## Uno studio con tre poltrone, prima e dopo
+
+Prima: agenda su un programma, richiami di igiene fatti a mano da una segretaria quando aveva tempo, preventivi in Word e rate seguite su un foglio. Molti pazienti di igiene si perdevano semplicemente perché nessuno li richiamava.
+
+Dopo: i richiami partono alla scadenza con il link per prenotare, i preventivi si firmano su tablet e le rate sono visibili nella scheda del paziente. Le poltrone dell'igiene sono piene con settimane di anticipo.
+
+Il software clinico per radiografie e cartella è rimasto quello di prima: il gestionale lo affianca e si occupa di agenda, richiami, preventivi e pagamenti.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Dove sono conservati i dati dei pazienti?
+
+Chiedete dove sono i server, chi può accedere ai dati e come vengono registrati gli accessi.
+
+FAQ
+
+## Le domande sul gestionale per dentisti.
+
+Il gestionale sostituisce il software clinico?
+Non necessariamente: spesso lo affianca, occupandosi di agenda, richiami, preventivi e pagamenti, e si collega al software clinico già in uso.
+
+Come vengono protetti i dati dei pazienti?
+Con accessi per ruolo, registro delle operazioni, cifratura e backup, decisi insieme al vostro consulente privacy.
+
+I richiami di igiene si fanno da soli?
+Sì: il sistema prepara i richiami alla scadenza e manda messaggio e link per prenotare.
+
+I pazienti possono prenotare online?
+Sì, per le prestazioni e negli orari che scegliete voi.
+
+Quanto costa?
+Il primo modulo di un gestionale su misura parte da 1.500 € IVA inclusa.
+
+Si possono inviare documenti ai pazienti?
+Sì: preventivi, piani di cura e ricevute si inviano in modo sicuro e restano nella scheda del paziente.
+
+Funziona per studi con più sedi?
+Sì: agenda e poltrone per sede, pazienti e listini condivisi.
+
+## Ci raccontate come lavorate oggi?
+
+Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Gestionale per studi professionali
+App per prenotazioni
+Gestione documentale
+Realizzazione landing page
+Gestionale cloud o server
+Quanto costa un gestionale
 
 
 ========================================================================
@@ -11369,6 +12603,8 @@ Fra la zona industriale di Padova, la meccanica dell'Alta e l'agroalimentare del
 Chiedi un preventivo
 
 Cosa mettiamo in ordine
+
+Mockup illustrativo: gestionale su misura per un’azienda di Padova nel settore commesse e impianti.
 
 ## Cosa mettiamo in ordine
 
@@ -11513,6 +12749,8 @@ Meccanica, componentistica, elettrodomestico, mobile del Livenza. Il Pordenonese
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale su misura per un’azienda di Pordenone nel settore componenti per il mobile.
 
 ## Cosa mettiamo in ordine
 
@@ -11662,6 +12900,8 @@ Mobile e arredo, calzatura sportiva, agroalimentare, meccanica leggera. La provi
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale su misura per un’azienda di Treviso nel settore produzione su commessa.
 
 ## Cosa mettiamo in ordine
 
@@ -11815,6 +13055,8 @@ Chiedi un preventivo
 
 Cosa mettiamo in ordine
 
+Mockup illustrativo: gestionale su misura per un’azienda di Udine nel settore carpenteria e logistica.
+
 ## Cosa mettiamo in ordine
 
 Quattro aree pensate per chi lavora su commessa e su misura.
@@ -11960,6 +13202,8 @@ Il Veneto è la regione dei distretti: aziende medie e piccole, specializzate, c
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale su misura per un’azienda di Veneto nel settore PMI manifatturiere.
 
 ## Cosa mettiamo in ordine
 
@@ -12123,6 +13367,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: gestionale su misura per un’azienda di Venezia-Mestre nel settore servizi e turismo.
+
 ## Cosa mettiamo in ordine
 
 Un gestionale su misura non prova a fare tutto. Copre bene le aree dove state perdendo più tempo, e lascia fuori il resto finché non serve.
@@ -12272,6 +13518,8 @@ Verona è logistica, agroalimentare, vino e pietra. Quattro mondi con un problem
 Chiedi un preventivo
 
 Cosa mettiamo in ordine
+
+Mockup illustrativo: gestionale su misura per un’azienda di Verona nel settore magazzino e vino.
 
 ## Cosa mettiamo in ordine
 
@@ -12429,6 +13677,8 @@ Chiedi un preventivo
 
 Cosa mettiamo in ordine
 
+Mockup illustrativo: gestionale su misura per un’azienda di Vicenza nel settore oreficeria e meccanica.
+
 ## Cosa mettiamo in ordine
 
 Quattro aree, scelte perché qui sono quelle che decidono il margine.
@@ -12574,6 +13824,8 @@ Il problema non è quasi mai lo spazio: è il tempo. Un certificato che serve ad
 Parliamone
 
 Cosa fa
+
+Mockup illustrativo: gestione documentale con archivio, approvazioni, ricerca e scadenze.
 
 ## Cosa fa il sistema
 
@@ -12722,6 +13974,8 @@ Sostituire Excel con un gestionale
 Gestionale cloud o server
 
 Software MES per la produzione
+
+Mockup illustrativo: scheda riassuntiva della guida “Le parole dei preventivi digitali, spiegate”.
 
 ## Sito web e sviluppo
 
@@ -12984,6 +14238,26 @@ Prepariamo noi i file di stampa nei formati, nelle risoluzioni e con le abbondan
 
 - Anche solo la stampa. Se la grafica ce l'hai, ci occupiamo di stampa e posa.
 
+Un esempio
+
+## Un esempio: la stessa grafica, vista da dieci metri
+
+Una grafica pensata per un catalogo non funziona su una parete di tre metri vista dal corridoio. In un progetto tipico, il fondo dello stand porta solo il marchio e una frase di cinque parole su cosa fate, in alto, sopra le teste dei visitatori; le informazioni di dettaglio scendono all'altezza degli occhi, vicino ai prodotti.
+
+Prima di stampare si preparano i file nel formato del supporto, con abbondanza, risoluzione e profilo colore corretti, e si fa una prova colore del marchio. Il tessuto teso retroilluminato rende i colori più brillanti; il forex e il dibond sono più adatti a testi piccoli e dettagli.
+
+## Cosa trovate nel preventivo
+
+- Concept grafico. Messaggio principale, gerarchia, colori del marchio.
+
+- Impaginazione. File esecutivi per ogni supporto, con le misure reali.
+
+- Prova colore. Per il marchio e i colori critici.
+
+- Stampa. Tessuto, pannelli rigidi, adesivi, lightbox.
+
+- Posa. Montaggio delle grafiche nei giorni di allestimento.
+
 ## Richiedi lo stand
 
 Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
@@ -13064,6 +14338,8 @@ Guida
 ## Accessibilità del sito: cosa è diventato obbligatorio e per chi
 Dal 28 giugno 2025 una parte consistente dei siti aziendali italiani ha un obbligo di accessibilità che prima non aveva. Non riguarda tutti, e chi lo racconta come una catastrofe imminente di solito vende un badge da mettere in fondo alla pagina. Ecco chi rientra davvero, cosa serve e cosa si rischia.
 Aggiornato l'11 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Accessibilità del sito: controlli da fare”.
 
 Sintesi
 
@@ -13159,6 +14435,330 @@ Se vi interessa solo capire se rientrate, la sezione sul perimetro dei soggetti 
 
 Tutte le guide Realizzazione siti internet Realizzazione e-commerce Restyling del sito web Sito web aziendale Consulente SEO
 Quanto costa un e-commerce
+
+
+========================================================================
+# Come andare in prima pagina su Google
+URL: https://danova-tech.com/guide/come-andare-in-prima-pagina-su-google/
+Descrizione: Come portare un sito in prima pagina su Google: ricerche giuste, contenuti, SEO tecnica, link e tempi realistici. Perché nessuno garantisce il primo posto.
+========================================================================
+
+Home / Guide / Prima pagina su Google
+
+Guida · Posizionamento
+
+## Come andare in prima pagina su Google: cosa funziona davvero.
+
+Andare in prima pagina su Google è possibile per quasi tutte le aziende, ma non per qualsiasi ricerca. Il lavoro comincia dalla scelta delle ricerche giuste: quelle che fanno le persone pronte a diventare clienti, dove potete competere. Poi servono pagine che rispondono meglio delle altre, un sito tecnicamente pulito e qualche segnale di fiducia.
+
+Parliamone
+
+Cosa serve
+
+Mockup illustrativo: perché si arriva in prima pagina con le ricerche giuste, non con quelle generiche.
+
+Cosa serve
+
+## I quattro pilastri del posizionamento
+
+01
+
+## Le ricerche giuste
+
+«Gestionale» da solo è impossibile per una PMI; «gestionale per officina meccanica» no. Si parte da ricerche con intenzione e concorrenza affrontabile.
+
+02
+
+## Una pagina per ogni ricerca
+
+Ogni ricerca importante ha una pagina che risponde meglio delle altre: completa, chiara, aggiornata.
+
+03
+
+## Un sito tecnicamente pulito
+
+Veloce, indicizzabile, senza errori, con link interni sensati e dati strutturati.
+
+04
+
+## Segnali di fiducia
+
+Link da siti seri, recensioni, citazioni, chi siete scritto chiaramente.
+
+Tempi
+
+## Quanto ci vuole e cosa aspettarsi
+
+Per ricerche locali e specifiche si vedono spesso risultati in qualche settimana o pochi mesi; per ricerche nazionali e contese servono mesi e un lavoro continuo. Ogni sito parte da una situazione diversa, ed è per questo che i tempi seri si danno dopo un'analisi.
+
+Diffidate di chi garantisce il primo posto: le posizioni cambiano con il luogo e la storia di chi cerca, e Google non vende i risultati organici. Si può invece garantire il lavoro e misurare i risultati in visite e richieste. Per i passi tecnici di base vedete come indicizzare un sito ; per l'aiuto di un professionista, il servizio SEO .
+
+Da fare subito
+
+## Cinque cose da fare questa settimana
+
+- Search Console Collegate il sito e guardate per quali ricerche comparite già, magari in seconda pagina.
+
+- Titoli delle pagine Ogni pagina con un titolo che contiene la ricerca principale, scritto per le persone.
+
+- Scheda Google Se lavorate in una zona, completate la scheda Google Business Profile.
+
+- Una pagina migliore Scegliete la pagina più vicina alla prima pagina e rendetela la risposta più completa.
+
+- Link interni Collegate quella pagina dalle altre pagine del sito, con testi che dicono di cosa parla.
+
+Un esempio
+
+## Da pagina 3 a pagina 1, su una ricerca precisa
+
+Un'azienda che sviluppa gestionali compariva in terza pagina per «gestionale officina meccanica». Search Console mostrava che la ricerca portava impressioni ma quasi nessun clic.
+
+Abbiamo creato una pagina dedicata che rispondeva davvero a chi cercava: cosa fa il gestionale, una schermata di esempio, i prezzi indicativi, le domande frequenti. Poi l'abbiamo collegata dalle pagine più forti del sito con testi chiari.
+
+In alcune settimane la pagina è entrata in prima pagina per quella ricerca e per varianti vicine. La ricerca generica «gestionale», invece, è rimasta lontanissima: ed è giusto così, perché chi la fa raramente cerca un'officina.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## Su quali ricerche lavorate?
+
+Chiedete la lista, con il motivo per cui ognuna può portare clienti.
+
+02
+
+## Come misurate i risultati?
+
+Visite e richieste dalle ricerche organiche, non solo posizioni.
+
+03
+
+## Cosa cambiate sul sito?
+
+Un buon lavoro SEO tocca contenuti e struttura, non solo impostazioni.
+
+04
+
+## Comprate link?
+
+Se sì, è un rischio per il vostro sito.
+
+05
+
+## Quanto tempo serve?
+
+Diffidate di promesse in giorni su ricerche contese.
+
+06
+
+## Cosa resta se smettete?
+
+Pagine e contenuti restano vostri e continuano a lavorare.
+
+FAQ
+
+## Le domande sulla prima pagina di Google.
+
+Come si va in prima pagina su Google?
+Scegliendo ricerche con intenzione e concorrenza affrontabile, creando la pagina che risponde meglio, mantenendo il sito tecnicamente pulito e costruendo fiducia con link e recensioni.
+
+Si può pagare Google per essere primi?
+Nei risultati organici no. Si può pagare per gli annunci di Google Ads, che compaiono come sponsorizzati sopra o sotto i risultati.
+
+Quanto tempo serve per arrivare in prima pagina?
+Da qualche settimana per ricerche locali e specifiche a molti mesi per ricerche contese. Dipende dal punto di partenza del sito.
+
+Qualcuno può garantire il primo posto su Google?
+No: le posizioni cambiano con il luogo e la storia di chi cerca, e nessuno controlla l'algoritmo. Si possono garantire il lavoro e la misura dei risultati.
+
+Meglio SEO o Google Ads per comparire subito?
+Google Ads per comparire subito, finché pagate; la SEO per restare nel tempo senza costo per clic. Spesso conviene usarle insieme.
+
+Serve un blog per andare in prima pagina?
+Non per forza: servono pagine utili sulle ricerche giuste. Un blog aiuta se pubblica contenuti che rispondono a domande reali dei clienti.
+
+I social aiutano il posizionamento su Google?
+Indirettamente: possono far conoscere i contenuti e procurare citazioni, ma non sono un fattore diretto di posizionamento.
+
+## Volete sapere quanto siete lontani dalla prima pagina?
+
+Mandateci il sito e le ricerche che vi interessano: vi diciamo dove siete e cosa fare per primo, gratis.
+
+Richiedi l'analisi
+
+## Pagine collegate
+
+Posizionamento sito su Google
+Come indicizzare un sito su Google
+SEO locale
+Consulente SEO
+Servizio SEO
+Quanto costa Google Ads
+
+
+========================================================================
+# Come inserire un'attività su Google Maps, gratis
+URL: https://danova-tech.com/guide/come-inserire-attivita-su-google-maps/
+Descrizione: Come inserire la propria attività su Google Maps: creare e verificare la scheda Google Business Profile, scegliere la categoria e completare i dati.
+========================================================================
+
+Home / Guide / Attività su Google Maps
+
+Guida · Google Maps
+
+## Come inserire un'attività su Google Maps, passo per passo.
+
+Per comparire su Google Maps serve una scheda Google Business Profile, gratuita. Si crea in pochi minuti, ma i dettagli fanno la differenza tra una scheda che nessuno vede e una che porta chiamate: la categoria, l'indirizzo o l'area servita, gli orari, le foto e le recensioni.
+
+Parliamone
+
+I passaggi
+
+Mockup illustrativo: scheda riassuntiva della guida “Come inserire un’attività su Google Maps”.
+
+I passaggi
+
+## Dalla registrazione alla scheda verificata
+
+- Cercate prima se esiste già Molte attività hanno una scheda creata da altri o in automatico. Se c'è, se ne rivendica la proprietà invece di crearne una nuova.
+
+- Create la scheda Con un account Google aziendale, inserendo il nome esatto dell'attività, senza parole aggiunte.
+
+- Scegliete la categoria principale È la scelta più importante: deve descrivere cosa siete, non cosa vendete occasionalmente.
+
+- Indirizzo o area servita Chi riceve clienti indica l'indirizzo; chi va dai clienti può nasconderlo e indicare le zone servite.
+
+- Verificate la scheda Google chiede una verifica, che può avvenire in modi diversi a seconda dell'attività. Fino alla verifica la scheda non è completa.
+
+- Completate tutto Orari, telefono, sito, servizi, foto vere e una descrizione chiara.
+
+Errori da evitare
+
+## Gli errori più comuni
+
+01
+
+## Parole chiave nel nome
+
+Aggiungere città o servizi al nome dell'attività viola le linee guida e può far sospendere la scheda.
+
+02
+
+## Schede doppie
+
+Due schede per la stessa sede si fanno concorrenza e confondono i clienti.
+
+03
+
+## Orari vecchi
+
+Un cliente che trova chiuso non torna, e lascia una recensione.
+
+04
+
+## Account personale
+
+La scheda deve stare su un account aziendale: se la persona se ne va, la scheda resta all'azienda.
+
+Dopo
+
+## Inserita la scheda, comincia il lavoro
+
+Essere su Google Maps non significa comparire in alto. La posizione dipende dalla pertinenza, dalla distanza da chi cerca e dalla notorietà dell'attività, che passa soprattutto dalle recensioni. Ne parliamo nella guida al Google Business Profile e in come ottenere recensioni Google .
+
+Se volete che qualcuno se ne occupi per voi, vedete la SEO locale .
+
+Un esempio
+
+## Una scheda, da zero a completa
+
+Giorno 1: ricerca su Google Maps del nome dell'attività per verificare che non esista già una scheda; creazione con l'account aziendale, categoria principale e due categorie secondarie pertinenti, indirizzo e telefono identici a quelli del sito.
+
+Giorni 2–5: verifica della scheda con il metodo proposto da Google. Nel frattempo si preparano orari (anche quelli festivi), descrizione, servizi con una frase ciascuno e una decina di foto vere: esterno, interno, persone al lavoro, prodotti.
+
+Settimane successive: si chiede la recensione ai clienti soddisfatti con un link diretto, si risponde a tutte e si pubblica un aggiornamento al mese. La scheda completa è il punto di partenza, non il traguardo.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## La scheda è sul vostro account?
+
+Se è sull'account di un ex dipendente o di un'agenzia, rischiate di perderla.
+
+02
+
+## Avete scelto la categoria giusta?
+
+È il fattore che pesa di più sulla pertinenza.
+
+03
+
+## Nome, indirizzo e telefono coincidono?
+
+Devono essere identici su sito, scheda ed elenchi.
+
+04
+
+## Gli orari sono aggiornati?
+
+Anche quelli delle festività.
+
+05
+
+## Le foto sono vere?
+
+Le foto di repertorio non convincono nessuno.
+
+06
+
+## Rispondete alle recensioni?
+
+Tutte, anche quelle negative, con calma e una soluzione.
+
+FAQ
+
+## Le domande su Google Maps.
+
+Inserire un'attività su Google Maps è gratis?
+Sì: la scheda Google Business Profile è gratuita. Gli annunci a pagamento sulla mappa sono una cosa diversa.
+
+Quanto ci vuole per comparire su Google Maps?
+Dopo la verifica la scheda è di solito visibile in breve tempo; la verifica può richiedere da pochi minuti ad alcuni giorni a seconda del metodo.
+
+Posso comparire su Maps senza un negozio?
+Sì: le attività che lavorano presso i clienti nascondono l'indirizzo e indicano l'area servita.
+
+Come si sale nei risultati di Google Maps?
+Con una scheda completa e nella categoria giusta, recensioni costanti con risposte, dati coerenti ovunque e un sito con pagine pertinenti per la zona.
+
+Cosa fare se la mia attività è già su Maps ma non è mia?
+Si chiede la proprietà della scheda tramite Google Business Profile, seguendo la procedura di rivendicazione.
+
+Posso inserire più sedi?
+Sì: ogni sede ha la sua scheda, gestita dallo stesso account aziendale.
+
+Posso cambiare il nome dell'attività sulla scheda?
+Sì, se cambia il nome reale dell'attività; aggiungere parole chiave al nome invece viola le linee guida.
+
+## Volete una scheda che porti chiamate?
+
+Controlliamo la vostra scheda e vi diciamo cosa sistemare per primo, gratis.
+
+Richiedi il controllo
+
+## Pagine collegate
+
+SEO locale
+Google Business Profile: la guida
+Come ottenere recensioni Google
+Come indicizzare un sito su Google
+Come andare in prima pagina su Google
+Consulente SEO a Treviso
 
 
 ========================================================================
@@ -13276,6 +14876,8 @@ Guida
 Quasi tutte le brutte esperienze con un fornitore digitale nascono da tre cose che nessuno ha chiesto all’inizio: di chi è il sito, cosa succede se si cambia fornitore, e cosa comprende esattamente il prezzo. Queste dodici domande servono a scoprirlo prima, non dopo.
 Aggiornato il 5 settembre 2026 · Danova Tech
 
+Mockup illustrativo: scheda riassuntiva della guida “Come scegliere un’agenzia web: le domande da fare”.
+
 ## Perché i preventivi sono così diversi tra loro
 
 Se chiedete tre preventivi per lo stesso sito, è normale ricevere cifre che vanno da 900 a 12.000 euro. Non è che due su tre stiano truffando: state confrontando cose diverse a cui è stato dato lo stesso nome.
@@ -13349,6 +14951,8 @@ Guida
 Scegliere un gestionale è una decisione che vi accompagna per otto o dieci anni, e nella quasi totalità dei casi viene presa confrontando funzionalità in una tabella. È il modo sbagliato: le tabelle dei fornitori dicono tutte sì a tutto. Questa guida propone un metodo diverso, fatto di domande scomode e di un conto su tre anni.
 
 Aggiornato il 12 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Come scegliere un gestionale senza pentirsene”.
 
 Sintesi
 
@@ -13457,6 +15061,7 @@ La decisione è della direzione, ma la valutazione deve coinvolgere chi userà i
 
 ## Pagine collegate
 
+Cos’è un gestionale Gestione magazzino con Excel
 Tutte le guide
 Differenza fra gestionale, ERP e CRM
 Gestionale cloud o server
@@ -13464,6 +15069,352 @@ Sostituire Excel con un gestionale
 Quanto costa un gestionale
 Software gestionale aziendale
 Software per PMI
+
+
+========================================================================
+# Cos'è un CRM e a cosa serve, spiegato semplice
+URL: https://danova-tech.com/guide/cos-e-un-crm/
+Descrizione: Cos'è un CRM, a cosa serve e quando conviene a una PMI: contatti, trattative, attività e previsioni di vendita. Come scegliere il CRM giusto senza sbagliare.
+========================================================================
+
+Home / Guide / Cos'è un CRM
+
+Guida · CRM
+
+## Cos'è un CRM: spiegato senza sigle.
+
+CRM sta per Customer Relationship Management, gestione delle relazioni con i clienti. In pratica è un programma dove l'azienda tiene tutto quello che sa sui clienti e sui potenziali clienti: chi sono, cosa hanno chiesto, a che punto è la trattativa e cosa va fatto dopo. Serve a non perdere opportunità e a sapere in anticipo cosa venderete.
+
+Parliamone
+
+Cosa fa
+
+Mockup illustrativo: scheda riassuntiva della guida “Cos’è un CRM”.
+
+Cosa fa
+
+## Le cinque cose che fa un CRM
+
+01
+
+## Rubrica condivisa
+
+Aziende, persone, telefoni ed email in un posto solo, non nelle agende dei commerciali.
+
+02
+
+## Storico delle relazioni
+
+Chiamate, email, incontri e offerte: chiunque apra la scheda sa cosa è successo.
+
+03
+
+## Trattative per fase
+
+Ogni opportunità ha una fase, un valore e una data prevista: si vede cosa sta per chiudersi.
+
+04
+
+## Attività e promemoria
+
+Il CRM ricorda chi richiamare e quando, così nessuna offerta resta senza seguito.
+
+05
+
+## Previsioni e report
+
+Quanto venderete il mese prossimo, quali canali portano clienti, quanto tempo serve per chiudere.
+
+Quando serve
+
+## Quando a un'azienda serve un CRM
+
+Un CRM serve quando le trattative durano settimane o mesi, quando più persone seguono gli stessi clienti, quando le richieste arrivano da sito, telefono, fiere e WhatsApp e qualcuna si perde per strada. Se invece vendete al banco a clienti occasionali, vi basta probabilmente il gestionale.
+
+Il CRM non sostituisce il gestionale: il CRM segue la vendita fino al sì, il gestionale si occupa di ordine, consegna e fattura. Funzionano bene quando sono collegati: la trattativa vinta diventa ordine senza ricopiarla. Ne parliamo nella guida su gestionale, ERP e CRM .
+
+Come sceglierlo
+
+## Come scegliere il CRM giusto
+
+- Partite dal processo Scrivete le fasi della vostra vendita prima di guardare i programmi.
+
+- Contate chi lo userà Commerciali, assistenza, direzione: ognuno vede cose diverse.
+
+- Verificate i collegamenti Sito, email, WhatsApp, gestionale: il CRM vale quanto i dati che riceve da solo.
+
+- Provatelo con dati veri Una settimana con le vostre trattative vale più di dieci demo.
+
+Un esempio
+
+## Una trattativa, dall'inizio alla fine
+
+Lunedì arriva una richiesta dal sito: il CRM crea il contatto, lo assegna al commerciale della zona e gli ricorda di chiamare entro due ore. Dopo la chiamata, il commerciale registra cosa serve al cliente e fissa un sopralluogo.
+
+Dopo il sopralluogo parte l'offerta dal CRM; il sistema segnala quando il cliente la apre e propone un richiamo dopo tre giorni. Quando il cliente accetta, la trattativa diventa vinta e l'ordine passa al gestionale senza ricopiarlo.
+
+Alla fine del mese, la direzione vede quante richieste sono arrivate da ogni canale, quante sono diventate clienti e quanto tempo ci è voluto. Sono le tre domande a cui un CRM deve saper rispondere.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I commerciali lo useranno?
+
+Se è scomodo dal telefono, la risposta è no.
+
+02
+
+## Riceve i dati da solo?
+
+Moduli del sito, email e WhatsApp devono entrare senza ricopiarli.
+
+03
+
+## Si collega al gestionale?
+
+La trattativa vinta deve diventare ordine.
+
+04
+
+## I dati sono vostri?
+
+Esportazione completa in un formato aperto.
+
+05
+
+## Quanto costa per utente?
+
+Moltiplicate per gli utenti e per tre anni.
+
+06
+
+## Chi lo configura?
+
+Fasi, campi e permessi vanno disegnati sul vostro modo di vendere.
+
+FAQ
+
+## Le domande sul CRM.
+
+Cos'è un CRM in parole semplici?
+È il programma dove l'azienda tiene clienti, potenziali clienti, trattative e attività, per non perdere opportunità e sapere cosa venderà.
+
+Che differenza c'è fra CRM e gestionale?
+Il CRM segue la relazione e la vendita fino al sì; il gestionale gestisce ordini, magazzino e fatture. Vanno collegati.
+
+Qual è il miglior CRM?
+Quello che i vostri commerciali usano davvero ogni giorno e che riceve i dati da solo da sito, email e gestionale. Per alcune aziende è un prodotto pronto, per altre uno su misura.
+
+Un CRM serve anche a una piccola azienda?
+Sì, se ha trattative che durano nel tempo o più persone sugli stessi clienti. Bastano poche funzioni fatte bene.
+
+Quanto costa un CRM?
+I CRM pronti hanno un costo per utente al mese; un CRM su misura o integrato al gestionale si preventiva in base ai processi. Il nostro listino è nella pagina prezzi.
+
+CRM significa solo software?
+No: CRM indica anche il modo in cui l'azienda gestisce le relazioni con i clienti. Il software è lo strumento che lo rende ordinato e misurabile.
+
+Un CRM si può usare anche per l'assistenza?
+Sì: molti CRM gestiscono richieste di assistenza e ticket, così chi vende vede anche i problemi aperti del cliente.
+
+## State pensando a un CRM?
+
+Raccontateci come vendete oggi: vi diciamo se vi serve un prodotto pronto, un CRM su misura o un collegamento con il gestionale.
+
+Parliamone
+
+## Pagine collegate
+
+CRM aziendale
+Gestionale, ERP e CRM
+Gestionali e CRM
+Lead generation B2B
+WhatsApp aziendale
+Cos'è un gestionale
+
+
+========================================================================
+# Cos'è un gestionale aziendale e come funziona
+URL: https://danova-tech.com/guide/cos-e-un-gestionale/
+Descrizione: Cos'è un software gestionale, cosa fa e come funziona: vendite, acquisti, magazzino, produzione e contabilità. Differenze fra gestionale, ERP ed Excel.
+========================================================================
+
+Home / Guide / Cos'è un gestionale
+
+Guida · Gestionale
+
+## Cos'è un gestionale: il programma che tiene i conti dell'azienda.
+
+Un gestionale, o sistema gestionale, è il programma dove un'azienda registra quello che fa: cosa vende e a chi, cosa compra, cosa ha in magazzino, cosa produce, quanto incassa e quanto paga. È diverso dai programmi d'ufficio come Excel perché i dati sono uno solo, condiviso, e ogni operazione aggiorna tutte le altre.
+
+Parliamone
+
+Cosa fa
+
+Mockup illustrativo: scheda riassuntiva della guida “Cos’è un gestionale”.
+
+I moduli
+
+## Cosa fa un gestionale
+
+01
+
+## Vendite
+
+Offerte, ordini dei clienti, documenti di trasporto e fatture.
+
+02
+
+## Acquisti
+
+Ordini ai fornitori, arrivi della merce e fatture passive.
+
+03
+
+## Magazzino
+
+Giacenze, movimenti, lotti, ubicazioni e inventari.
+
+04
+
+## Produzione
+
+Distinte base, cicli di lavoro, ordini di produzione e avanzamento.
+
+05
+
+## Amministrazione
+
+Scadenze, incassi, pagamenti, fatturazione elettronica e dati per la contabilità.
+
+06
+
+## Report
+
+Fatturato, margini, crediti, prodotti più venduti: i numeri per decidere.
+
+Come funziona
+
+## Un dato, inserito una volta
+
+Il principio di un gestionale è semplice: ogni informazione si inserisce una volta e da lì passa a tutti. L'ordine del cliente prenota la merce in magazzino, il documento di trasporto la scarica, la fattura parte da sola e lo scadenzario sa quando arriverà l'incasso.
+
+Un gestionale può essere un prodotto a pacchetto, uguale per tutti, oppure costruito su misura sui processi dell'azienda. Si usa da un PC in ufficio, dal browser o dal telefono se è in cloud: ne parliamo in gestionale in cloud o su server . Quando un gestionale copre tutta l'azienda si parla spesso di ERP: la differenza è nella guida gestionale, ERP e CRM .
+
+Quando serve
+
+## I segnali che vi serve un gestionale
+
+01
+
+## Gli stessi dati in più file
+
+Ordini in Excel, clienti nell'email, magazzino su carta: ogni copia è un errore in attesa.
+
+02
+
+## Domande senza risposta
+
+Quanto abbiamo in magazzino? A che punto è l'ordine? Se serve una telefonata per saperlo, serve un gestionale.
+
+03
+
+## Ore di ricopiatura
+
+Se qualcuno passa le giornate a riportare dati da un programma all'altro, quelle ore hanno un costo.
+
+Un esempio
+
+## Un ordine, nel gestionale e senza
+
+Senza gestionale: l'ordine arriva per email, qualcuno lo scrive in Excel, il magazzino lo stampa, il documento di trasporto si fa a mano, la fattura si prepara a fine mese ricopiando i dati e l'incasso si controlla sull'estratto conto. Cinque passaggi, cinque possibilità di errore.
+
+Con il gestionale: l'ordine si inserisce una volta, prenota la merce, il magazzino lo vede, il documento di trasporto si genera dall'ordine, la fattura dal documento e lo scadenzario aspetta l'incasso. Ogni passaggio parte da quello prima.
+
+È tutto qui il valore di un gestionale: non fare cose nuove, ma smettere di fare due volte le stesse.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## I dati sono vostri?
+
+Chiedete in che formato potete esportare clienti, articoli e movimenti se un giorno cambiate fornitore.
+
+02
+
+## Cosa succede se cambiano le regole?
+
+Fatturazione, registratori, privacy: chi aggiorna il programma e con quali costi.
+
+03
+
+## Funziona dal telefono?
+
+Chi lavora in sala, in reparto o fuori sede deve poterlo usare senza un PC.
+
+04
+
+## Si collega a quello che avete?
+
+Sito, e-commerce, contabilità, cassa: ogni collegamento mancante è un dato ricopiato a mano.
+
+05
+
+## Chi risponde quando non va?
+
+Un numero, un nome e tempi di risposta scritti nel contratto.
+
+06
+
+## Quanto costa in tre anni?
+
+Licenze, canoni, assistenza e personalizzazioni: confrontate il totale, non il primo anno.
+
+FAQ
+
+## Le domande sul gestionale.
+
+Cos'è un gestionale in parole semplici?
+È il programma dove l'azienda registra vendite, acquisti, magazzino, produzione e pagamenti, con un'unica base di dati condivisa.
+
+Che differenza c'è fra gestionale ed ERP?
+ERP indica un gestionale che copre tutti i processi dell'azienda in modo integrato. Nel linguaggio comune i termini si sovrappongono.
+
+Un gestionale può sostituire Excel?
+Sì per i dati che devono essere uno solo e sempre giusti, come ordini e magazzino. Excel resta utile per analisi e prove.
+
+Meglio un gestionale a pacchetto o su misura?
+A pacchetto se i vostri processi sono standard; su misura se lavorate in modo particolare e i pacchetti vi costringono a giri strani. Esistono anche soluzioni miste.
+
+Quanto costa un gestionale?
+Dipende da moduli, utenti e integrazioni. Un gestionale su misura da noi parte da 1.500 € IVA inclusa: trovate i dettagli in quanto costa un gestionale.
+
+Un gestionale serve anche a una piccola azienda?
+Sì, quando gli stessi dati vengono riscritti in più posti o quando servono telefonate per sapere a che punto è un ordine.
+
+Posso partire da un solo modulo?
+Sì, ed è il modo più sicuro: si parte dall'area che fa perdere più ore e si aggiunge il resto un modulo alla volta.
+
+## Volete capire se vi serve un gestionale?
+
+Mezz'ora per vedere dove perdete ore oggi e cosa servirebbe per recuperarle.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Software gestionale aziendale
+Come scegliere un gestionale
+Sostituire Excel con un gestionale
+Quanto costa un gestionale
+Cos'è un CRM
+Gestionale cloud
 
 
 ========================================================================
@@ -13479,6 +15430,8 @@ Guida
 ## Gestionale, ERP e CRM: la differenza spiegata senza sigle
 Le tre sigle vengono usate come sinonimi da chi le vende e come misteri da chi le compra. La differenza esiste, è semplice, e sapere quale dei tre vi manca per primo vi evita di spendere trentamila euro per risolvere il problema sbagliato.
 Aggiornato il 5 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Gestionale, ERP e CRM: chi fa cosa”.
 
 ## La differenza in una riga
 
@@ -13532,7 +15485,7 @@ Quanto tempo serve per mettere in produzione un gestionale? La parte tecnica è 
 
 ## Pagine collegate
 
-Gestionali e CRM Quanto costa un gestionale Gestionale di magazzino Controllo di gestione Gestionale commesse Gestionali in Veneto Tutte le guide Software per PMI Glossario
+Cos’è un CRM Cos’è un gestionale Gestionali e CRM Quanto costa un gestionale Gestionale di magazzino Controllo di gestione Gestionale commesse Gestionali in Veneto Tutte le guide Software per PMI Glossario
 Come scegliere un gestionale
 Gestionale cloud o server
 Sostituire Excel con un gestionale
@@ -13555,6 +15508,8 @@ Guida
 È la prima domanda tecnica che arriva, e viene di solito posta come una questione di modernità. Non lo è: è una questione di costi su tre anni, di quanto reggono la vostra connessione e la vostra corrente, e di chi può occuparsi dei problemi quando succedono. Qui proviamo a dare i criteri, non una preferenza.
 
 Aggiornato il 12 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Gestionale in cloud o su un server in azienda?”.
 
 Sintesi
 
@@ -13655,6 +15610,173 @@ Quanto costa un gestionale
 
 
 ========================================================================
+# Gestione magazzino con Excel: quando basta
+URL: https://danova-tech.com/guide/gestione-magazzino-con-excel/
+Descrizione: Gestire il magazzino con Excel: come impostare il foglio, i limiti che arrivano presto e quando passare a un gestionale o a un'app con codici a barre.
+========================================================================
+
+Home / Guide / Magazzino con Excel
+
+Guida · Magazzino
+
+## Gestione magazzino con Excel: quando basta e quando no.
+
+Quasi tutte le aziende hanno gestito il magazzino con Excel almeno per un periodo. Per pochi articoli e una sola persona che aggiorna il file può funzionare. Il problema arriva quando gli articoli diventano centinaia, le persone più di una e le giacenze sul file smettono di coincidere con quelle sugli scaffali.
+
+Parliamone
+
+Come impostarlo
+
+Mockup illustrativo: il magazzino in Excel impostato bene, con i suoi limiti. I dati sono di esempio.
+
+Come impostarlo
+
+## Un foglio Excel fatto bene
+
+- Un foglio articoli Codice, descrizione, unità di misura, scorta minima e ubicazione. Il codice è unico e non si cambia.
+
+- Un foglio movimenti Ogni entrata e uscita è una riga con data, codice, quantità e causale. Non si sovrascrivono le giacenze.
+
+- Giacenze calcolate La giacenza di ogni articolo è la somma dei movimenti, calcolata con una formula, mai scritta a mano.
+
+- Controllo scorte Una colonna che confronta giacenza e scorta minima e evidenzia cosa riordinare.
+
+- Inventario periodico Si conta, si registrano le differenze come movimenti e si capisce da dove nascono.
+
+I limiti
+
+## Dove Excel comincia a costare
+
+01
+
+## Più persone, più copie
+
+Il file viene copiato, inviato, modificato in due posti: le giacenze non tornano più.
+
+02
+
+## Nessun legame con gli ordini
+
+Excel non sa che un ordine del cliente ha impegnato la merce: si vende quello che non c'è.
+
+03
+
+## Lotti e scadenze
+
+Tracciare lotti, scadenze e ubicazioni a mano diventa un lavoro a tempo pieno.
+
+04
+
+## Niente codici a barre
+
+Ogni movimento si digita, e ogni digitazione è un errore possibile.
+
+05
+
+## Nessuno storico affidabile
+
+Chi ha cambiato cosa, e quando? Il file non lo dice.
+
+Il passo dopo
+
+## Dopo Excel, un passo alla volta
+
+Il passo successivo non deve essere enorme. Spesso basta un' app di magazzino con codici a barre collegata a un piccolo gestionale: i movimenti si registrano leggendo il codice dal telefono e le giacenze sono sempre aggiornate.
+
+Quando il magazzino cresce, con ubicazioni, missioni di prelievo e più operatori, si passa a un gestionale di magazzino o a un WMS . Per il metodo generale vedete sostituire Excel con un gestionale .
+
+Le formule
+
+## Le formule che servono davvero
+
+La giacenza di un articolo è la somma delle entrate meno la somma delle uscite. Nel foglio Giacenze si usa una SOMMA.SE sul foglio Movimenti, filtrando per codice articolo e tipo di movimento: così la giacenza non si scrive mai a mano.
+
+Per le scorte minime basta una colonna che confronta giacenza e scorta minima e una formattazione condizionale che colora di rosso gli articoli da riordinare. Per il valore del magazzino si moltiplica la giacenza per il costo medio.
+
+Due regole evitano gran parte dei problemi: i codici articolo non si cambiano mai e i movimenti non si cancellano, si correggono con un movimento di rettifica. Così il file resta una storia affidabile di cosa è entrato e uscito.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## Quante persone aggiornano il file?
+
+Con più di una, i conflitti sono solo questione di tempo.
+
+02
+
+## Servono lotti e scadenze?
+
+Se sì, Excel diventa fragile molto presto.
+
+03
+
+## Il magazzino è legato agli ordini?
+
+Excel non sa cosa è già stato venduto ma non ancora spedito.
+
+04
+
+## Quanti movimenti al giorno?
+
+Oltre qualche decina, i codici a barre fanno risparmiare ore.
+
+05
+
+## Avete più magazzini?
+
+Trasferimenti e giacenze per sede complicano molto il foglio.
+
+06
+
+## Chi controlla gli errori?
+
+Se nessuno, l'inventario di fine anno sarà una sorpresa.
+
+FAQ
+
+## Le domande sul magazzino in Excel.
+
+Si può gestire un magazzino con Excel?
+Sì, per pochi articoli e una sola persona che aggiorna il file, con un foglio articoli e un foglio movimenti da cui calcolare le giacenze.
+
+Qual è il limite di Excel per il magazzino?
+Quando più persone lavorano sul file, quando servono lotti, scadenze e ubicazioni o quando il magazzino deve collegarsi agli ordini, Excel diventa fonte di errori.
+
+Esiste un modello Excel per il magazzino?
+Il modello base ha due fogli, articoli e movimenti, con giacenze calcolate dalle formule. L'importante è non scrivere mai le giacenze a mano.
+
+Cosa usare al posto di Excel?
+Un'app con lettura dei codici a barre collegata a un gestionale, oppure un gestionale di magazzino o un WMS quando le dimensioni crescono.
+
+Quanto costa passare a un gestionale di magazzino?
+Dipende da articoli, utenti e collegamenti. Un gestionale su misura parte da 1.500 € IVA inclusa per il primo modulo.
+
+Esiste un'alternativa gratuita a Excel?
+Esistono programmi gratuiti di base; il punto non è il prezzo ma se il magazzino è collegato agli ordini e se più persone possono lavorarci senza errori.
+
+Posso usare Google Fogli invece di Excel?
+Sì, con il vantaggio che più persone vedono lo stesso file; i limiti su ordini, lotti e codici a barre restano gli stessi.
+
+## Il vostro foglio Excel non torna più?
+
+Mandatecelo (anche solo la struttura): vi diciamo come sistemarlo o quale passo fare dopo.
+
+Parliamone
+
+## Pagine collegate
+
+Gestionale magazzino
+App magazzino codici a barre
+Software WMS
+Sostituire Excel con un gestionale
+Cos'è un gestionale
+Quanto costa un gestionale
+
+
+========================================================================
 # Google My Business (Business Profile): guida 2026
 URL: https://danova-tech.com/guide/google-business-profile-guida/
 Descrizione: Come configurare e usare la scheda Google Business: categorie, servizi, foto, recensioni, post e i cinque errori che tengono un’attività fuori dalla mappa.
@@ -13667,6 +15789,8 @@ Guida
 ## Google Business Profile (ex Google My Business): la guida pratica per farsi trovare in zona
 Per un’attività che lavora su un territorio, la scheda Google Business è quasi sempre la singola voce che porta più contatti dalla ricerca — più del sito. È gratuita, si configura in un pomeriggio, e la maggior parte delle schede è ferma al 30% di quello che potrebbe fare.
 Aggiornato il 5 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Google Business Profile: la scheda che porta chiamate”.
 
 ## Perché conta più del sito, per chi lavora in zona
 
@@ -13721,7 +15845,7 @@ Ha senso avere una scheda se ho già un buon sito? Sì, e sono due cose diverse:
 
 ## Pagine collegate
 
-Come ottenere recensioni Google SEO per l’intelligenza artificiale Consulenza SEO Siti web in Veneto Siti web a Treviso Siti web a Padova Google Ads Contatti Tutte le guide Glossario
+Come inserire l’attività su Google Maps SEO locale e Google Maps Come ottenere recensioni Google SEO per l’intelligenza artificiale Consulenza SEO Siti web in Veneto Siti web a Treviso Siti web a Padova Google Ads Contatti Tutte le guide Glossario
 
 
 ========================================================================
@@ -13737,6 +15861,8 @@ Guide
 ## Guide e approfondimenti
 Quello che ci chiedono più spesso al telefono, scritto per esteso. Nessuna guida qui dentro serve a venderti qualcosa: servono a farti decidere con più informazioni, anche se poi decidi di fare da solo o con un altro fornitore.
 
+Mockup illustrativo: scheda riassuntiva della guida “Guide pratiche su siti, software e marketing”.
+
 Come sono scritte
 
 ## Dieci guide, nessuna scritta per vendere
@@ -13746,6 +15872,26 @@ Le guide di questa pagina nascono tutte allo stesso modo: sono le domande che ci
 Si dividono in tre famiglie. Le guide su come scegliere servono prima di firmare con qualcuno, noi compresi: come scegliere un gestionale , le dodici domande da fare a un’agenzia web , la differenza fra gestionale, ERP e CRM . Le guide tecniche spiegano cose che costano soldi se si sbagliano: rifare un sito senza perdere le posizioni , la velocità e i Core Web Vitals , la scheda Google Business Profile . Le guide normative stanno dietro alle scadenze: gli incentivi dopo Transizione 5.0 e l’accessibilità obbligatoria dei siti .
 
 Se cercate i numeri invece dei ragionamenti, le pagine con i prezzi sono separate: quanto costa un sito web , quanto costa un gestionale , quanto costa un e-commerce e quanto costa un’app . Tutte con fasce vere e con l’elenco delle voci che fanno lievitare il conto.
+
+## Cos’è un CRM e a cosa serve, spiegato semplice
+Le cinque cose che fa un CRM, quando serve a una PMI, la differenza con il gestionale e come scegliere quello giusto.
+Leggi la guida
+
+## Cos’è un gestionale aziendale e come funziona
+I moduli di un gestionale, il principio del dato inserito una volta e i segnali che vi serve davvero.
+Leggi la guida
+
+## Gestione magazzino con Excel: quando basta e quando no
+Come impostare il foglio articoli e movimenti, i limiti che arrivano presto e il passo successivo.
+Leggi la guida
+
+## Come inserire un’attività su Google Maps
+Creare e verificare la scheda Google Business Profile, scegliere la categoria e gli errori da evitare.
+Leggi la guida
+
+## Come andare in prima pagina su Google
+I quattro pilastri del posizionamento, tempi realistici e cinque cose da fare questa settimana.
+Leggi la guida
 
 ## Come preparare una fiera: la checklist completa
 Cosa fare mese per mese, dalla scelta della fiera allo stand, dagli inviti ai contatti da richiamare. E gli errori che costano di più.
@@ -13809,6 +15955,8 @@ Guida
 ## Rifare il sito senza perdere le posizioni su Google
 Il crollo di traffico dopo un restyling non è sfortuna ed è quasi sempre lo stesso errore: gli indirizzi sono cambiati e nessuno ha detto a Google dove sono finite le vecchie pagine. Si evita con due giorni di lavoro fatti prima, non con sei mesi di recupero fatti dopo.
 Aggiornato il 5 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Rifare il sito senza perdere le posizioni su Google”.
 
 ## Cosa succede davvero quando cambiate sito
 
@@ -13883,6 +16031,8 @@ Guida
 In moltissime aziende italiane il lavoro vero sta in tre o quattro fogli di calcolo, curati da una persona che li ha costruiti negli anni. Non è un difetto: è un sistema informativo costato zero e perfettamente aderente al lavoro. Il problema è il giorno in cui quella persona non c'è, oppure il giorno in cui due persone salvano contemporaneamente.
 
 Aggiornato il 12 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Sostituire Excel con un gestionale, senza traumi”.
 
 Sintesi
 
@@ -13967,6 +16117,7 @@ Su una parte sì, e va accettato: un sistema condiviso impone regole che un fogl
 
 ## Pagine collegate
 
+Gestione magazzino con Excel Cos’è un gestionale
 Tutte le guide
 Come scegliere un gestionale
 Gestionale cloud o server
@@ -13989,6 +16140,8 @@ Guida
 ## Transizione 5.0 nel 2026: cosa è finito e cosa c'è al suo posto
 Se state cercando «Transizione 5.0» per capire se potete ancora accedere all'incentivo, la risposta breve è no: quella misura ha chiuso. Dal 2026 c'è un meccanismo diverso, per certi versi più semplice, e cambia anche quali software rientrano. Questa pagina spiega cosa è cambiato senza vendervi niente.
 Aggiornato l'11 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Transizione 5.0 e agevolazioni 2026: come orientarsi”.
 
 Sintesi
 
@@ -14093,6 +16246,8 @@ Guida
 ## Velocità del sito: cosa misura Google davvero
 Quasi tutte le discussioni sulla velocità di un sito partono dal numero sbagliato: il punteggio colorato di PageSpeed Insights. Quel numero è una simulazione. Quello che Google usa per il posizionamento è un'altra cosa, sono tre metriche, e si misurano sui visitatori veri.
 Aggiornato l'11 settembre 2026 · Danova Tech
+
+Mockup illustrativo: scheda riassuntiva della guida “Velocità del sito: cosa misura Google”.
 
 Sintesi
 
@@ -14323,6 +16478,8 @@ Parliamone
 
 Cosa colleghiamo
 
+Mockup illustrativo: software diversi che si scambiano i dati da soli.
+
 ## Cosa si collega, in pratica
 
 Non tutto va integrato. Questi quattro casi quasi sempre sì.
@@ -14443,6 +16600,8 @@ Quasi tutte le aziende che ci chiedono dell'intelligenza artificiale hanno letto
 Chiedi un preventivo
 
 Dove funziona davvero
+
+Mockup illustrativo: IA applicata a un problema preciso: leggere e confrontare offerte dei fornitori.
 
 I casi concreti
 
@@ -14570,6 +16729,8 @@ Dal 2026 l'agevolazione per chi investe in macchinari e software 4.0 è l'iperam
 Verifichiamo il vostro software
 
 Le aliquote
+
+Mockup illustrativo: metodo per verificare un investimento agevolabile.
 
 I numeri
 
@@ -15563,6 +17724,8 @@ Analizziamo la vostra catena
 
 I quattro anelli
 
+Mockup illustrativo: lead generation B2B misurata fino al contratto firmato.
+
 Come funziona
 
 ## Quattro anelli, uno per volta
@@ -15650,7 +17813,7 @@ Prenota la call gratuita
 
 ## Pagine collegate
 
-Realizzazione landing page Quanto costa Google Ads
+Web marketing per PMI WhatsApp aziendale Realizzazione landing page Quanto costa Google Ads
 Consulente Google Ads
 Meta Ads: Facebook e Instagram
 CRM aziendale su misura
@@ -15731,6 +17894,26 @@ A montaggio finito rilasciamo la dichiarazione di conformità dell'impianto elet
 
 - Luce per settore. Pietra, gioielli, cosmetica e moda chiedono luci diverse: la scegliamo sul prodotto.
 
+Un esempio
+
+## Un esempio: luce e video su uno stand di 80 mq
+
+Su uno stand di 80 metri quadri, il progetto luci prevede profili LED lineari nella struttura del soffitto per la luce generale, faretti orientabili sui prodotti e una grafica retroilluminata sul lato più visibile dal corridoio. Al centro, un ledwall di 4 per 2,5 metri mostra un video di trenta secondi senza audio.
+
+Prima di confermare, si calcola la potenza elettrica totale e si richiede all'ente fiera l'allaccio adeguato, perché una potenza sottostimata significa salvavita che scatta il primo giorno. Il contenuto del ledwall si prepara nel formato e nella risoluzione giusti, e si prova prima dell'apertura.
+
+## Cosa trovate nel preventivo
+
+- Progetto luci. Luce generale, accenti sui prodotti, grafiche retroilluminate.
+
+- Ledwall. Dimensione, passo dei pixel, struttura e regia.
+
+- Contenuti video. Formato corretto, durata breve, leggibili senza audio.
+
+- Impianto e potenza. Calcolo, allaccio e dichiarazione di conformità.
+
+- Prove. Accensione e regolazione prima dell'apertura.
+
 ## Richiedi lo stand
 
 Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
@@ -15800,6 +17983,177 @@ Progettazione stand e render 3D
 
 
 ========================================================================
+# Web marketing per PMI: piano e risultati
+URL: https://danova-tech.com/marketing-per-pmi/
+Descrizione: Web marketing per piccole e medie imprese: sito che converte, SEO, Google e Meta Ads e CRM. Un piano semplice, con budget e risultati misurati in contatti.
+========================================================================
+
+Home / Servizi / Marketing per PMI
+
+Marketing digitale per PMI
+
+## Web marketing per PMI: poche cose, fatte bene, misurate.
+
+Una piccola o media impresa non ha bisogno di essere ovunque. Ha bisogno di un sito che trasformi le visite in richieste, di farsi trovare quando qualcuno cerca quello che fa, e di sapere quanto costa ogni cliente nuovo. Il resto viene dopo.
+
+Parliamo del vostro marketing
+
+Il piano
+
+Mockup illustrativo: piano di marketing per PMI misurato in costo per cliente nuovo.
+
+Il piano
+
+## Un piano in quattro passi, nell'ordine giusto
+
+- Il sito che converte Prima di spendere un euro in pubblicità, il sito deve far capire cosa fate e rendere facile chiedere un preventivo.
+
+- Farsi trovare SEO sulle ricerche con intenzione d'acquisto e scheda Google per la vostra zona.
+
+- Campagne misurate Google Ads per chi cerca già, Meta Ads per farsi conoscere, con il tracciamento dei contatti attivo.
+
+- Non perdere i contatti Ogni richiesta finisce nel CRM, con risposta rapida e richiamo programmato.
+
+Budget
+
+## Dove mettere il budget, con ordine
+
+01
+
+## Sito
+
+È l'investimento che rende tutto il resto più efficace. Da noi parte da 350 € IVA inclusa o 24,80 € al mese.
+
+02
+
+## SEO
+
+Lavora nel tempo e non ha costo per clic. L'ottimizzazione iniziale costa 150 € IVA inclusa.
+
+03
+
+## Google Ads
+
+Porta richieste da subito, finché pagate. Per un primo test servono di solito 15–30 € al giorno per due o tre mesi.
+
+04
+
+## Meta Ads
+
+Utile per farsi conoscere e per il remarketing; funziona meglio quando il sito è già solido.
+
+05
+
+## CRM e automazioni
+
+Fanno in modo che nessun contatto pagato vada perso.
+
+06
+
+## Report
+
+Un numero solo da guardare: quanto costa un cliente nuovo.
+
+Misurare
+
+## Il marketing di una PMI si misura in clienti
+
+Clic, visualizzazioni e follower sono utili per chi lavora alle campagne, non per chi le paga. Il numero che vi mandiamo ogni mese è uno: quanti contatti sono arrivati, quanti sono diventati clienti e quanto è costato ciascuno.
+
+Approfondite i singoli pezzi: siti web , SEO , Google Ads , Meta Ads e lead generation B2B .
+
+Un esempio
+
+## Un'azienda di serramenti, il primo anno
+
+Mesi 1–2: sito rifatto con una pagina per ogni prodotto e un modulo di preventivo semplice, scheda Google sistemata, tracciamento delle richieste attivo.
+
+Mesi 3–6: Google Ads sulle ricerche di chi vuole cambiare le finestre nella zona servita, con budget limitato e parole escluse; SEO sulle pagine che le campagne mostravano più redditizie.
+
+Mesi 7–12: remarketing con Meta Ads su chi aveva visitato il sito senza chiedere il preventivo, email ai clienti per manutenzione e zanzariere. Il costo per cliente nuovo è sceso mese dopo mese, perché la parte organica cresceva mentre la pubblicità restava stabile.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## Quanto costa un cliente nuovo?
+
+Chiedete che sia questo il numero del report, non i clic.
+
+02
+
+## Chi possiede gli account?
+
+Sito, campagne e analisi devono essere intestati alla vostra azienda.
+
+03
+
+## Quanto resta a voi del budget?
+
+Separate il costo della pubblicità da quello della gestione.
+
+04
+
+## Cosa succede se smettete?
+
+Un buon lavoro lascia sito, contenuti e dati che continuano a funzionare.
+
+05
+
+## Avete esempi nel mio settore?
+
+Non per copiare, ma per capire se conoscono i vostri clienti.
+
+06
+
+## Come rispondete ai contatti?
+
+Il marketing finisce quando il contatto è richiamato, non quando arriva.
+
+FAQ
+
+## Le domande sul marketing per PMI.
+
+Da dove deve partire una PMI con il web marketing?
+Dal sito: deve spiegare in pochi secondi cosa fate e rendere facile contattarvi. Poi SEO e scheda Google per farsi trovare, e solo dopo le campagne a pagamento.
+
+Quanto deve investire una piccola impresa?
+Dipende dal settore e dagli obiettivi. Per Google Ads un primo test sensato sta di solito fra 15 e 30 € al giorno per due o tre mesi, più la gestione; sito e SEO hanno costi una tantum indicati nel listino.
+
+Meglio SEO o Google Ads?
+Google Ads porta richieste da subito ma solo finché pagate; la SEO impiega mesi ma poi lavora senza costo per clic. Spesso si usano insieme: le campagne mostrano quali ricerche portano clienti, la SEO ci costruisce sopra.
+
+Servono i social?
+Per molte aziende B2B contano meno di sito e ricerca. Meta Ads è utile per farsi conoscere e per riprendere chi ha già visitato il sito.
+
+Come si misurano i risultati?
+In contatti e clienti: con il tracciamento delle conversioni e un CRM, il report mensile dice quanto costa ogni cliente nuovo.
+
+Il marketing digitale funziona anche per il B2B?
+Sì: ricerca su Google, LinkedIn per alcuni settori, contenuti tecnici e un CRM per seguire trattative lunghe. Vedete la lead generation B2B.
+
+Posso fare tutto internamente?
+Molte attività sì, con gli strumenti giusti e un po' di metodo; spesso conviene affidare all'esterno solo le parti tecniche, come sito e campagne.
+
+## Volete un piano su misura?
+
+Mezz'ora per capire dove siete oggi e cosa fare per primo, con un budget realistico per la vostra azienda.
+
+Prenota la chiamata
+
+## Pagine collegate
+
+Siti web e e-commerce
+SEO
+Google Ads
+Meta Ads
+Lead generation B2B
+Quanto costa Google Ads
+
+
+========================================================================
 # Migrazione e-commerce WooCommerce e PrestaShop
 URL: https://danova-tech.com/migrazione-ecommerce/
 Descrizione: Cambiare piattaforma e-commerce senza perdere posizioni su Google: redirect, dati, recensioni e storico ordini. Piano di migrazione e verifiche.
@@ -15816,6 +18170,8 @@ Cambiare piattaforma è una delle operazioni che più spesso va male, e quando v
 Parliamone
 
 Cosa va spostato
+
+Mockup illustrativo: migrazione di un e-commerce con redirect e controlli, senza perdere vendite.
 
 ## Cosa va spostato, e in che ordine
 
@@ -16126,6 +18482,26 @@ Se invece le fiere diventano molte, valutiamo insieme l' acquisto di uno stand m
 
 - Misto noleggio e proprietà. Struttura a noleggio, grafiche e alcuni elementi tuoi.
 
+Un esempio
+
+## Un esempio: uno stand di 32 mq a noleggio
+
+Un'azienda alla prima fiera di settore ha uno spazio di 32 metri quadri ad angolo. Con il noleggio sceglie pareti con grafica stampata, un banco reception luminoso, un piccolo ripostiglio chiuso, un tavolo con tre sedie, mensole per i prodotti e illuminazione a binario.
+
+Non deve comprare, trasportare né conservare nulla: a fine fiera smontiamo e ritiriamo tutto. Se la fiera va bene e l'azienda decide di esporre più volte l'anno, lo stesso progetto può diventare uno stand modulare di proprietà, conservato nel nostro magazzino.
+
+## Cosa trovate nel preventivo
+
+- Strutture e pareti. Telai, pannelli, ripostiglio, eventuale soppalco.
+
+- Arredi. Banco, tavoli, sedie, vetrine, mensole, appendiabiti.
+
+- Grafica. Stampa su pannelli o tessuto, inclusa nel noleggio o a parte.
+
+- Impianti. Quadro elettrico, luci, dichiarazione di conformità.
+
+- Logistica. Trasporto, montaggio, smontaggio e ritiro.
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -16187,6 +18563,8 @@ Telefonate per sapere se un articolo è disponibile, email per il listino aggior
 Parliamo della vostra rete
 
 Cosa c'è dentro
+
+Mockup illustrativo: portale B2B dove ogni rivenditore vede i suoi prezzi e ordina da solo.
 
 Le funzioni
 
@@ -16305,6 +18683,8 @@ Due domande diverse arrivano quasi sempre insieme: «il mio sito non si trova su
 Fai analizzare il sito
 
 Da dove si parte
+
+Mockup illustrativo: come cambia il posizionamento di un sito in sei mesi.
 
 La distinzione che cambia tutto
 
@@ -16432,7 +18812,7 @@ L’ordine che funziona quasi sempre è questo. Primo: controllare in Search Con
 
 ## Pagine collegate
 
-Come indicizzare un sito su Google Come ottenere recensioni Google SEO per l’intelligenza artificiale
+Come andare in prima pagina su Google SEO locale e Google Maps Come indicizzare un sito su Google Come ottenere recensioni Google SEO per l’intelligenza artificiale
 SEO e posizionamento
 Consulente SEO
 Consulente SEO a Treviso
@@ -16460,6 +18840,8 @@ Quasi nessuna agenzia mette i prezzi sul sito. Noi sì. Qui sotto trovate quanto
 Richiedi un preventivo
 
 Vai al listino
+
+Mockup illustrativo: il listino prezzi in sintesi, IVA inclusa.
 
 In sintesi
 
@@ -16700,6 +19082,26 @@ Il render serve anche dopo: per far approvare il progetto internamente, per i so
 
 - Riutilizzo. Progettiamo pensando a configurazioni diverse per fiere diverse.
 
+Un esempio
+
+## Un esempio: dal brief al render in due settimane
+
+Il brief arriva con tre informazioni: fiera, 48 metri quadri a penisola, obiettivo far provare un macchinario e incontrare distributori esteri. Nella prima settimana prepariamo due proposte in render 3D: una più aperta, con il macchinario al centro, e una con una saletta riunioni chiusa sul fondo.
+
+Il cliente sceglie la seconda, chiede di spostare il banco e di ingrandire il marchio sul lato del corridoio principale. Nella seconda settimana il render è aggiornato, i disegni esecutivi sono pronti per l'ente fiera e il preventivo è dettagliato voce per voce. Da lì parte la produzione.
+
+## Cosa trovate nel preventivo
+
+- Brief. Obiettivi, spazio, prodotti, budget, vincoli del regolamento.
+
+- Render 3D. Una o più proposte, modificate fino all'approvazione.
+
+- Disegni esecutivi. Piante, sezioni, prospetti per produzione ed ente fiera.
+
+- Schede materiali. Finiture, reazione al fuoco, certificazioni.
+
+- Preventivo. Voce per voce, dal progetto al montaggio.
+
 ## Richiedi lo stand
 
 Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
@@ -16800,7 +19202,7 @@ Noleggio stand fieristici, arredi e attrezzature Render di progetto: stand a nol
 Quanto costa uno stand fieristico Render di progetto: stand di fascia media di circa 32 mq, aperto su due lati.
 Allestimenti per eventi, congressi, showroom, negozi e mostre Render di progetto: allestimento per presentazione di prodotto ed eventi aziendali.
 Stand per fiere all'estero, con un fornitore italiano Render di progetto: stand di circa 150 mq per una fiera internazionale in Europa.
-Render di espositori per fiere Render di progetto: desk, totem, roll-up ed espositori coordinati per lo stand.
+Espositori, desk e totem per fiere Render di progetto: desk, totem, roll-up ed espositori coordinati per lo stand.
 Idee per stand fieristici che fanno entrare la gente Render di progetto: idee per uno stand che attira visitatori, con ledwall curvo e installazione interattiva.
 Stand preallestiti Render di progetto: stand preallestito di circa 16 mq personalizzato con grafica.
 Stand a isola Render di progetto: stand a isola aperto su quattro lati, circa 120 mq.
@@ -16955,6 +19357,8 @@ Chiedi una stima per il tuo settore
 
 Le tre voci di costo
 
+Mockup illustrativo: come leggere il costo di Google Ads in contatti e clienti.
+
 Le voci
 
 ## Tre costi, pagati a tre soggetti diversi
@@ -17047,6 +19451,7 @@ Richiedi la stima gratuita
 
 ## Pagine collegate
 
+Web marketing per PMI
 Consulente Google Ads
 Meta Ads: Facebook e Instagram
 Realizzazione landing page
@@ -17073,6 +19478,8 @@ La risposta che trovate in giro è da mille a centomila euro, che non è una ris
 Chiedi un preventivo
 
 Le fasce di prezzo
+
+Mockup illustrativo: costi di avvio e di gestione di un e-commerce.
 
 ## Le fasce, con dentro cosa c'è
 
@@ -17227,6 +19634,8 @@ Richiedi un preventivo
 
 Da cosa dipende
 
+Mockup illustrativo: da cosa dipende il costo di un gestionale su misura.
+
 ## Le cinque cose che decidono il prezzo
 
 Non è il numero di schermate. Sono queste, e le guardiamo insieme prima di scrivere qualsiasi cifra.
@@ -17355,6 +19764,7 @@ Richiedi un preventivo gratuito
 
 ## Approfondimenti collegati
 
+Cos’è un gestionale Gestionale per ristoranti Gestionale per hotel
 Gestionali & CRM — il servizio
 Gestionale di magazzino
 Gestionale per la produzione
@@ -17390,6 +19800,8 @@ La risposta onesta è che dipende, ma non è una scusa: dipende da cinque cose p
 Richiedi un preventivo
 
 Da cosa dipende
+
+Mockup illustrativo: le voci che fanno il prezzo di un sito web.
 
 ## Le cinque cose che decidono il prezzo
 
@@ -17588,6 +20000,8 @@ La domanda arriva quasi sempre nella forma sbagliata. Un'app per i vostri venti 
 Chiedi un preventivo
 
 Le fasce di prezzo
+
+Mockup illustrativo: da cosa dipende il costo di un’app.
 
 ## Le fasce, con dentro cosa c'è
 
@@ -17918,6 +20332,8 @@ Chiedi un preventivo
 
 Le domande da fare prima
 
+Mockup illustrativo: negozio online con carrello, abbonamenti e pagamenti.
+
 Prima di partire
 
 ## Sei domande a cui rispondere prima di aprire
@@ -18021,6 +20437,7 @@ Molte aziende che producono hanno bisogno di entrambi, e la scelta seria non è 
 
 ## Pagine collegate
 
+Gestionale per negozi
 Siti web & E-commerce
 Aprire un negozio online
 Realizzazione siti internet
@@ -18056,6 +20473,8 @@ Chi clicca un annuncio ha in testa una domanda precisa. Se atterra sulla home de
 Parliamo della vostra campagna
 
 Cosa c'è dentro
+
+Mockup illustrativo: landing page con un solo obiettivo: la prenotazione.
 
 Cosa c'è dentro
 
@@ -18149,6 +20568,7 @@ Richiedi l'analisi gratuita
 
 ## Pagine collegate
 
+Gestionale per studi dentistici Web marketing per PMI
 Quanto costa Google Ads
 Consulente Google Ads
 Meta Ads: Facebook e Instagram
@@ -18175,6 +20595,8 @@ Un sito internet aziendale ha un compito solo: trasformare chi vi sta cercando i
 Chiedi un preventivo
 
 Cosa comprende
+
+Mockup illustrativo: sito aziendale costruito per far arrivare richieste di preventivo.
 
 Il perimetro
 
@@ -18345,6 +20767,8 @@ La zona industriale di Padova è una delle più dense d'Europa e piena di aziend
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: sito web per un’agenzia immobiliare di Padova.
 
 ## Cosa costruiamo per le aziende padovane
 
@@ -18532,6 +20956,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: sito web per un’azienda meccanica di Pordenone.
+
 ## Cosa costruiamo
 
 Quattro tipi di progetto coprono quasi tutto quello che ci chiedono le aziende del Pordenonese.
@@ -18706,6 +21132,8 @@ Mobile e arredo, calzatura sportiva, vino, meccanica. Le aziende di questa provi
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: sito web per una trattoria di Treviso.
 
 ## Cosa costruiamo
 
@@ -18900,6 +21328,8 @@ Chiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: sito web per uno studio tecnico di Udine.
+
 ## Cosa costruiamo per le aziende friulane
 
 Il taglio è transfrontaliero: italiano, tedesco e inglese.
@@ -19082,6 +21512,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: sito web per un’azienda di serramenti di Veneto.
+
 ## Cosa costruiamo
 
 Quattro tipi di progetto, scelti in base a cosa deve fare il sito, non a quanto deve essere bello.
@@ -19263,6 +21695,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: sito web per un hotel di Venezia.
+
 ## Cosa costruiamo
 
 Quattro progetti tipo, calibrati su come si lavora davvero fra Venezia, Mestre e la terraferma.
@@ -19435,6 +21869,8 @@ Verona vive di vino, marmo, logistica e fiere: settori dove il cliente arriva da
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: sito web per una cantina di Verona.
 
 ## Cosa costruiamo per le aziende veronesi
 
@@ -19622,6 +22058,8 @@ Chiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: sito web per uno studio dentistico di Vicenza.
+
 ## Cosa costruiamo per le aziende vicentine
 
 Il taglio è export e industria.
@@ -19806,6 +22244,8 @@ Chiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: sito rinnovato mantenendo indirizzi e contenuti che portavano visite.
+
 ## Quando ha senso rifare il sito
 
 Quattro situazioni in cui il restyling si ripaga; se non sei in nessuna, probabilmente non ti serve.
@@ -19956,6 +22396,177 @@ Accessibilità obbligatoria dei siti
 
 
 ========================================================================
+# SEO locale e posizionamento su Google Maps
+URL: https://danova-tech.com/seo-locale/
+Descrizione: SEO locale per attività e aziende: scheda Google Business Profile, posizionamento su Google Maps, recensioni e pagine per città. Misurata in chiamate.
+========================================================================
+
+Home / SEO / SEO locale
+
+SEO locale · Google Maps
+
+## SEO locale: farsi trovare da chi è qui vicino.
+
+Quando qualcuno cerca «idraulico», «commercialista Treviso» o «ristorante vicino a me», Google mostra prima la mappa con tre attività e poi i siti. La SEO locale lavora su entrambe le cose: la scheda dell'attività su Google Maps e le pagine del sito che parlano della vostra zona.
+
+Controlliamo la vostra scheda
+
+Cosa facciamo
+
+Mockup illustrativo: SEO locale misurata in chiamate e indicazioni stradali, zona per zona.
+
+Cosa facciamo
+
+## La mappa e il sito, insieme
+
+01
+
+## Scheda Google Business Profile
+
+Categoria giusta, servizi, orari, foto vere, prodotti e domande frequenti. È il punto di partenza di tutto.
+
+02
+
+## Posizionamento su Google Maps
+
+Pertinenza, distanza e notorietà: lavoriamo sulle prime e sulla terza, che dipende da recensioni, citazioni e link.
+
+03
+
+## Recensioni
+
+Un metodo per chiederle dopo ogni lavoro riuscito e rispondere a tutte. Niente recensioni comprate.
+
+04
+
+## Pagine per città e quartiere
+
+Pagine vere, con contenuti utili per ogni zona servita, non copie con il nome della città cambiato.
+
+05
+
+## Dati strutturati
+
+Indirizzo, orari, area servita e servizi descritti in modo che Google li legga senza ambiguità.
+
+06
+
+## Citazioni e coerenza
+
+Nome, indirizzo e telefono identici su sito, scheda, elenchi e social.
+
+Come lavoriamo
+
+## Dalla scheda alle telefonate
+
+- Controllo iniziale Scheda, sito, recensioni e posizione sulla mappa per le ricerche che contano, quartiere per quartiere.
+
+- Sistemazione della scheda Categoria, servizi, foto, orari e prodotti. Spesso basta questo per salire.
+
+- Pagine locali Una pagina utile per ogni città o servizio importante, collegata alla scheda.
+
+- Recensioni e misura Metodo per le recensioni e report mensile in chiamate, indicazioni stradali e richieste.
+
+Cosa aspettarsi
+
+## Nessuno garantisce il primo posto
+
+Chi vi promette il primo posto su Google Maps garantito non vi sta dicendo la verità: la posizione cambia con la posizione di chi cerca. Possiamo invece migliorare in modo misurabile la presenza nelle ricerche della vostra zona e le chiamate che arrivano dalla scheda.
+
+Per la parte di base vedete la guida al Google Business Profile e come ottenere recensioni Google ; per l'ottimizzazione del sito, il servizio SEO . L'ottimizzazione SEO iniziale di un sito costa 150 € IVA inclusa, come da listino .
+
+Un esempio
+
+## Un idraulico di Treviso, prima e dopo
+
+Prima: scheda Google con la categoria sbagliata, orari vecchi, dodici recensioni in cinque anni. Il sito aveva una sola pagina con scritto «idraulico» e nessun riferimento alle zone servite.
+
+Dopo: categoria corretta, servizi descritti, foto dei lavori, un metodo semplice per chiedere la recensione dopo ogni intervento e una pagina utile per ogni comune servito. Le chiamate arrivate dalla scheda sono quasi raddoppiate in sei mesi.
+
+Il dato da guardare non è la posizione sulla mappa, che cambia a seconda di dove si trova chi cerca, ma le chiamate e le indicazioni stradali che la scheda genera.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## Come misurate i risultati?
+
+Chiamate, indicazioni stradali e richieste dal sito, non solo posizioni.
+
+02
+
+## Garantite il primo posto?
+
+Se la risposta è sì, cambiate fornitore: nessuno può garantirlo.
+
+03
+
+## Comprate recensioni?
+
+Se sì, è un rischio per la vostra scheda: le recensioni vanno chieste ai clienti veri.
+
+04
+
+## La scheda resta vostra?
+
+L'account deve essere aziendale; l'agenzia entra solo come gestore.
+
+05
+
+## Fate pagine copia-incolla per città?
+
+Pagine identiche con il nome della città cambiato non aiutano e possono danneggiare.
+
+06
+
+## Ogni quanto ci aggiornate?
+
+Un report mensile con pochi numeri chiari vale più di un PDF di trenta pagine.
+
+FAQ
+
+## Le domande sulla SEO locale.
+
+Cos'è la SEO locale?
+È l'insieme di attività che fanno comparire un'attività nelle ricerche legate a un luogo: la scheda su Google Maps, le recensioni, le pagine del sito dedicate alla zona e i dati strutturati.
+
+Come si sale su Google Maps?
+Con una scheda completa e nella categoria giusta, recensioni costanti con risposte, coerenza di nome, indirizzo e telefono e un sito con pagine pertinenti per la zona.
+
+Quanto costa apparire su Google Maps?
+La scheda è gratuita. Si paga, eventualmente, il lavoro per ottimizzarla e mantenerla, oppure gli annunci a pagamento sulla mappa, che sono un'altra cosa.
+
+Funziona anche senza negozio fisico?
+Sì: le attività che vanno dal cliente possono nascondere l'indirizzo e indicare l'area servita.
+
+In quanto tempo si vedono i risultati?
+Le correzioni alla scheda possono dare effetti in poche settimane; recensioni e pagine locali lavorano nei mesi.
+
+La SEO locale serve anche a chi lavora in tutta Italia?
+Sì, per le sedi fisiche e le zone dove avete più clienti; per il resto conta la SEO nazionale sulle ricerche specifiche.
+
+Quanto conta il sito per Google Maps?
+Molto: la scheda collegata a un sito con pagine pertinenti e coerenti con nome, indirizzo e servizi ha più possibilità di comparire.
+
+## Volete sapere dove siete sulla mappa?
+
+Mandateci il nome dell'attività e la zona: vi diciamo dove comparite oggi per le ricerche principali e cosa sistemare per primo.
+
+Richiedi il controllo
+
+## Pagine collegate
+
+Google Business Profile: la guida
+Come ottenere recensioni Google
+Come inserire l'attività su Google Maps
+Consulente SEO a Treviso
+Posizionamento su Google
+Servizio SEO
+
+
+========================================================================
 # SEO per e-commerce: consulenza e agenzia
 URL: https://danova-tech.com/seo-per-ecommerce/
 Descrizione: SEO per ecommerce: struttura del catalogo, schede prodotto, filtri, prodotti esauriti e Core Web Vitals. Lavoro tecnico e contenuti, con numeri veri.
@@ -19972,6 +22583,8 @@ Un negozio online ha un problema che un sito vetrina non ha: migliaia di indiriz
 Parliamone
 
 Da cosa si parte
+
+Mockup illustrativo: SEO per e-commerce misurata in vendite dalle ricerche organiche.
 
 ## Da cosa si parte
 
@@ -20101,6 +22714,8 @@ Una parte crescente delle ricerche non finisce più su una lista di link: finisc
 Controlliamo come vi descrive l'AI
 
 Come funziona
+
+Mockup illustrativo: come un sito ben strutturato viene citato come fonte dagli assistenti AI.
 
 Come scelgono le fonti
 
@@ -20419,6 +23034,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: app su misura per i tecnici, collegata al gestionale.
+
 ## Cosa sviluppiamo
 
 Dal prototipo che serve a validare un’idea fino all’app che gestisce il lavoro quotidiano di decine di persone.
@@ -20670,6 +23287,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: gestionale e CRM nello stesso sistema: la trattativa vinta diventa ordine.
+
 ## Cosa mettiamo in ordine
 
 Un gestionale su misura non prova a fare tutto. Copre bene le aree dove stai perdendo più tempo, e lascia fuori il resto finché non serve.
@@ -20786,7 +23405,7 @@ Richiedi un preventivo gratuito
 
 Siamo a Mansuè, in provincia di Treviso. Con le aziende della zona gli incontri si fanno in azienda: qui sotto le pagine dedicate a ciascun territorio.
 
-Software WMS Portale rivenditori B2B
+Gestionale per ristoranti Gestionale per hotel Gestionale per negozi Cos’è un CRM Cos’è un gestionale Software WMS Portale rivenditori B2B
 Treviso e provincia
 Pordenone e Friuli occidentale
 Venezia e Mestre
@@ -20851,6 +23470,8 @@ Una campagna Google Ads è la via più rapida per comparire in cima quando qualc
 Chiedi un'analisi gratuita
 
 Come lavoriamo
+
+Mockup illustrativo: campagne Google Ads misurate in contatti e clienti, non in clic.
 
 ## Cosa gestiamo
 
@@ -20965,7 +23586,7 @@ C’è anche un uso di Ads che quasi nessuno propone e che vale molto: farne una
 
 ## Pagine collegate
 
-Quanto costa Google Ads Realizzazione landing page
+Web marketing per PMI Quanto costa Google Ads Realizzazione landing page
 Consulenza SEO
 Meta Ads e campagne
 Siti web ed e-commerce
@@ -20991,6 +23612,8 @@ La differenza fra chi butta soldi in pubblicità e chi ci guadagna quasi mai sta
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: campagne su Facebook e Instagram gestite come un investimento.
 
 ## Cosa comprende la gestione
 
@@ -21084,7 +23707,7 @@ Richiedi un preventivo gratuito
 
 ## Gli altri servizi
 
-Realizzazione landing page Quanto costa Google Ads
+Web marketing per PMI Realizzazione landing page Quanto costa Google Ads
 Siti web & E-commerce
 SEO & posizionamento
 App su misura
@@ -21114,6 +23737,8 @@ C’è una differenza enorme fra interrompere qualcuno con una pubblicità e com
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: report SEO con clic, impressioni, posizioni e richieste generate.
 
 ## Su cosa interveniamo
 
@@ -21233,7 +23858,7 @@ La SEO locale merita un discorso a parte perché è il caso in cui i risultati a
 
 ## Gli altri servizi
 
-Come indicizzare un sito su Google Come ottenere recensioni Google SEO per l’intelligenza artificiale
+SEO locale e Google Maps Come andare in prima pagina su Google Come inserire l’attività su Google Maps Come indicizzare un sito su Google Come ottenere recensioni Google SEO per l’intelligenza artificiale
 Siti web & E-commerce
 Meta Ads & campagne
 App su misura
@@ -21271,6 +23896,8 @@ Un sito non è una brochure online. È il posto dove una persona decide se fidar
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: sito aziendale progettato per portare richieste di preventivo.
 
 ## Cosa costruiamo
 
@@ -21459,6 +24086,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: automazione che collega e-commerce, gestionale e fatturazione.
+
 ## Su cosa interveniamo
 
 Non serve un progetto enorme. Le automazioni più utili sono spesso piccole, e si ripagano nel giro di poche settimane.
@@ -21549,7 +24178,7 @@ Richiedi un preventivo gratuito
 
 ## Gli altri servizi
 
-Automazioni con n8n AI Act per le aziende
+WhatsApp aziendale Automazioni con n8n AI Act per le aziende
 Siti web & E-commerce
 SEO & posizionamento
 Meta Ads & campagne
@@ -21584,6 +24213,8 @@ Chi cerca casa parte quasi sempre dai grandi portali, dove i vostri annunci stan
 Parliamo della vostra agenzia
 
 Cosa serve al sito
+
+Mockup illustrativo: sito per agenzia immobiliare orientato alle acquisizioni di incarichi.
 
 Cosa serve
 
@@ -21664,6 +24295,7 @@ Prenota la chiamata gratuita
 
 ## Pagine collegate
 
+Gestionale per agenzie immobiliari SEO locale e Google Maps
 Siti web ed e-commerce
 Siti web per hotel e B&B
 Siti web per avvocati
@@ -21689,6 +24321,8 @@ Chi cerca un avvocato su Google ha quasi sempre un problema preciso: una separaz
 Parliamo del vostro studio
 
 Cosa serve al sito
+
+Mockup illustrativo: sito per studio legale sobrio, con aree di attività e primo incontro prenotabile.
 
 Cosa serve
 
@@ -21809,6 +24443,8 @@ Parliamo della vostra struttura
 
 Cosa serve al sito
 
+Mockup illustrativo: sito per hotel con prenotazione diretta, camere e offerte.
+
 Cosa serve
 
 ## Gli elementi di un sito che prenota
@@ -21901,7 +24537,7 @@ Prenota la chiamata gratuita
 
 ## Pagine collegate
 
-Siti web per ristoranti Siti web per agenzie immobiliari
+Gestionale per hotel SEO locale e Google Maps Siti web per ristoranti Siti web per agenzie immobiliari
 Siti web ed e-commerce
 Caso studio: Oasi Ponza
 App per prenotazioni
@@ -21928,6 +24564,8 @@ Chi sceglie dove mangiare lo fa quasi sempre dal telefono, spesso a pochi minuti
 Parliamo del vostro locale
 
 Cosa serve al sito
+
+Mockup illustrativo: sito per ristorante con menù, prenotazione del tavolo ed eventi.
 
 Cosa serve
 
@@ -22006,6 +24644,7 @@ Richiedi l'analisi gratuita
 
 ## Pagine collegate
 
+Gestionale per ristoranti SEO locale e Google Maps
 Siti web ed e-commerce
 Come ottenere recensioni Google
 Siti web per hotel e B&B
@@ -22031,6 +24670,8 @@ Chi arriva sul sito della vostra azienda ha già deciso in trenta secondi se sie
 Chiedi un preventivo
 
 Cosa genera fiducia
+
+Mockup illustrativo: sito aziendale B2B con richiesta di offerta su disegno.
 
 Il punto
 
@@ -22213,6 +24854,8 @@ Parliamone
 
 Cosa vi manca davvero
 
+Mockup illustrativo: software di contabilità con scadenzario, banche, flussi di cassa e riconciliazione.
+
 Il pezzo mancante
 
 ## Cosa costruiamo e cosa no
@@ -22356,6 +24999,8 @@ Parliamo dei vostri cantieri
 
 Le due contabilità
 
+Mockup illustrativo: contabilità di cantiere con libretto misure, SAL e varianti.
+
 Il punto di partenza
 
 ## Due contabilità che vanno tenute insieme
@@ -22482,6 +25127,8 @@ Quasi tutte le PMI sanno quanto hanno fatturato e quasi nessuna sa quanto ha gua
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: software per il controllo di gestione con margini, budget e scostamenti.
 
 ## Cosa fa il sistema
 
@@ -22617,6 +25264,8 @@ Parliamone
 
 Cosa si automatizza
 
+Mockup illustrativo: fatturazione elettronica automatica con esiti SdI, incassi e conservazione.
+
 ## Cosa si automatizza
 
 Quattro passaggi che in molte aziende sono ancora a mano, ogni mese.
@@ -22737,6 +25386,8 @@ Nell'alimentare la domanda che conta è una sola: se domani arriva una non confo
 Chiedi un preventivo
 
 Cosa gestisce
+
+Mockup illustrativo: gestionale agroalimentare con lotti, scadenze e tracciabilità.
 
 ## Cosa gestisce
 
@@ -22870,6 +25521,8 @@ Chiedi un preventivo
 
 Quando cambiarlo
 
+Mockup illustrativo: gestionale aziendale con vendite, acquisti, magazzino, produzione e amministrazione in un unico cruscotto.
+
 I sintomi
 
 ## Cinque segnali che il gestionale non regge più
@@ -22997,6 +25650,7 @@ La domanda che restringe davvero è un’altra: qual è il punto in cui oggi i d
 
 ## Pagine collegate
 
+Cos’è un gestionale Gestionale per ristoranti Gestionale per hotel Gestionale per negozi
 Software house
 Gestionale cloud
 CRM aziendale
@@ -23030,6 +25684,8 @@ Chi lavora su commessa scopre quasi sempre a lavoro finito se ci ha guadagnato. 
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale per commesse con avanzamento, ore, costi e marginalità.
 
 ## Cosa gestisce
 
@@ -23173,6 +25829,8 @@ In un'impresa edile il conto vero si fa a cantiere chiuso, e spesso è troppo ta
 Chiedi un preventivo
 
 Cosa gestisce
+
+Mockup illustrativo: gestionale per l’edilizia con cantieri, squadre, computi, SAL e sicurezza.
 
 ## Cosa gestisce
 
@@ -23320,6 +25978,8 @@ Chiedi un preventivo
 
 Cosa gestisce
 
+Mockup illustrativo: gestionale per impiantisti con interventi, manutenzioni, furgoni e dichiarazioni.
+
 ## Cosa gestisce
 
 Il giro completo di un intervento, dalla chiamata alla fattura.
@@ -23462,6 +26122,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: gestionale di magazzino con giacenze, ubicazioni, scorte minime e spedizioni.
+
 ## Cosa mette a posto
 
 Quattro problemi che si presentano quasi sempre insieme, e che si risolvono meglio insieme.
@@ -23588,7 +26250,7 @@ Chi cerca « app gestione magazzino », «app per gestione magazzino» o «gesti
 
 ## Servizi e pagine collegate
 
-Software WMS
+Gestione magazzino con Excel Gestionale per negozi Gestionale per ristoranti Software WMS
 Gestionali & CRM — il servizio
 Gestionale per la produzione
 Gestionale trasporti e logistica
@@ -23623,6 +26285,8 @@ Finché gli impianti sono pochi, un foglio di calcolo e la memoria del capo offi
 Richiedi una valutazione
 
 Cosa deve fare
+
+Mockup illustrativo: software di manutenzione con asset, piano preventivo, guasti e ricambi.
 
 I pezzi che servono
 
@@ -23765,6 +26429,8 @@ Chiedi un preventivo
 
 Cosa gestisce
 
+Mockup illustrativo: gestionale per la metalmeccanica con preventivi, cicli, conto lavoro e materiali.
+
 ## Cosa gestisce
 
 Le quattro cose che decidono il margine di un'azienda che lavora il metallo.
@@ -23889,6 +26555,8 @@ Chiedi un preventivo
 
 Cosa gestisce
 
+Mockup illustrativo: gestionale per il noleggio con parco mezzi, contratti, consegne e manutenzioni.
+
 ## Cosa gestisce
 
 Il ciclo di un mezzo che esce e rientra, ripetuto centinaia di volte l'anno.
@@ -23992,6 +26660,7 @@ Nella pratica i due progetti si sovrappongono e si costruiscono insieme: prima l
 
 ## Pagine collegate
 
+Gestionale per autonoleggio
 Gestionale trasporti e logistica
 Gestionale di magazzino
 Gestionale per officina meccanica
@@ -24020,6 +26689,8 @@ Distinta base, avanzamento, tempi, scarti, margini. In quasi tutte le aziende ma
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale di produzione con ordini, reparti, pianificazione e costi.
 
 ## Cosa mettiamo in ordine
 
@@ -24161,6 +26832,8 @@ Chiedi un preventivo
 
 Cosa gestisce
 
+Mockup illustrativo: gestionale per studi professionali con pratiche, scadenze, ore e parcelle.
+
 ## Cosa gestisce
 
 Quattro cose che negli studi convivono fra cartelle di rete, calendari personali e memoria.
@@ -24254,7 +26927,7 @@ Sì, ed è una delle tappe che i clienti apprezzano più di tutte: un'area dove 
 
 ## Pagine collegate
 
-Siti web per avvocati
+Gestionale per studi dentistici Siti web per avvocati
 Gestionale commesse
 CRM aziendale
 Gestionale cloud
@@ -24283,6 +26956,8 @@ Viaggi, mezzi, autisti, documenti di trasporto, un tariffario diverso per ogni c
 Richiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: gestionale per trasporti con viaggi, autisti, mezzi e documenti di consegna.
 
 ## Cosa mettiamo in ordine
 
@@ -24420,6 +27095,8 @@ Chiedi un preventivo
 
 Cosa gestisce
 
+Mockup illustrativo: software gestione flotte con veicoli, scadenze, carburante e multe.
+
 ## Cosa gestisce
 
 Quattro aree che in un autoparco vivono su fogli diversi e in teste diverse.
@@ -24531,6 +27208,7 @@ La differenza vera è fra chi i mezzi li usa e chi li noleggia. Nel primo caso i
 
 ## Pagine collegate
 
+Gestionale per autonoleggio
 Gestionale per il noleggio
 Gestionale trasporti e logistica
 Gestionale per officina meccanica
@@ -24558,6 +27236,8 @@ Una chiamata arriva al telefono, qualcuno la scrive su un post-it, un tecnico pa
 Chiedi un preventivo
 
 Cosa gestisce
+
+Mockup illustrativo: software per interventi tecnici con ticket, SLA, tecnici e rapportini.
 
 ## Il giro completo di un intervento
 
@@ -24681,6 +27361,8 @@ Siamo a Mansuè, in provincia di Treviso, fra Oderzo e Motta di Livenza. Dieci p
 Fissiamo un incontro
 
 Perché vicino conta
+
+Mockup illustrativo: avanzamento di un progetto per un’azienda veneta, visibile al cliente in ogni momento.
 
 Il punto
 
@@ -24813,6 +27495,8 @@ Una software house progetta e sviluppa programmi su misura invece di rivenderne 
 Chiedi un preventivo
 
 Cosa fa una software house
+
+Mockup illustrativo: come seguiamo un progetto software: attività, rilasci e budget sempre visibili al cliente.
 
 Definizione
 
@@ -24981,6 +27665,8 @@ Chiedi un preventivo
 
 Cosa fa un MES
 
+Mockup illustrativo: software MES con stato macchine, OEE, fermi e qualità.
+
 ## Cosa fa un MES, in concreto
 
 Quattro funzioni. Le prime due sono il novanta per cento del valore.
@@ -25130,6 +27816,8 @@ Software per PMI
 Un'azienda da quindici persone non ha bisogno di un decimo del software di un'azienda da millecinquecento: ha bisogno di una cosa diversa. Costruiamo gestionali, CRM e automazioni per piccole e medie imprese, dimensionati su come lavorate adesso e non su come lavorerete se un giorno diventerete una multinazionale.
 Chiedi un preventivo Come lavoriamo
 
+Mockup illustrativo: software per PMI introdotto un modulo alla volta, senza fermare l’azienda.
+
 Il problema
 
 ## Perché i software pensati per le grandi aziende non funzionano nelle piccole
@@ -25209,7 +27897,7 @@ Serve un CRM in un'azienda di dieci persone? Serve se più di una persona parla 
 
 ## Pagine collegate
 
-Tutti i servizi Software gestionale aziendale CRM aziendale Gestionale in cloud Sviluppo software su misura Software house Digitalizzazione aziendale Quanto costa un gestionale
+Cos’è un gestionale Web marketing per PMI Tutti i servizi Software gestionale aziendale CRM aziendale Gestionale in cloud Sviluppo software su misura Software house Digitalizzazione aziendale Quanto costa un gestionale
 Come scegliere un gestionale
 Sostituire Excel con un gestionale
 
@@ -25231,6 +27919,8 @@ In moltissime aziende su commessa il preventivo è il collo di bottiglia commerc
 Chiedi un preventivo
 
 Cosa fa
+
+Mockup illustrativo: configuratore di prodotto che genera preventivo, distinta e disegno.
 
 ## Cosa fa il sistema
 
@@ -25372,6 +28062,8 @@ Raccontateci il vostro magazzino
 
 Cosa fa un WMS
 
+Mockup illustrativo: software WMS con missioni di prelievo, ubicazioni e banchine.
+
 Le funzioni
 
 ## Cosa fa un WMS
@@ -25464,6 +28156,7 @@ Prenota il sopralluogo
 
 ## Pagine collegate
 
+Gestione magazzino con Excel
 Software gestionale magazzino
 App magazzino con codici a barre
 Software trasporti e logistica
@@ -27980,6 +30673,26 @@ Se partecipi a fiere su ambiente ed energia, come Ecomondo, KEY o Klimahouse, lo
 
 - Trasparenza. Ti diciamo quali elementi sono riutilizzabili e quali no.
 
+Un esempio
+
+## Un esempio: meno materiale, stesso impatto
+
+Uno stand ecosostenibile non è uno stand di cartone: è uno stand pensato per durare e per produrre meno scarti. In un progetto tipico, la struttura è un sistema modulare riutilizzabile, le grafiche sono in tessuto riciclabile e si stampano solo quelle che cambiano, l'illuminazione è tutta LED e gli arredi sono a noleggio.
+
+Alla fine della fiera quasi nulla finisce in discarica: la struttura torna in magazzino, gli arredi tornano al noleggio e i tessuti si riusano o si avviano al riciclo. Il messaggio di sostenibilità si vede, perché è vero, e non serve scriverlo su un cartello.
+
+## Cosa trovate nel preventivo
+
+- Strutture riutilizzabili. Alluminio e legno pensati per più fiere.
+
+- Grafiche in tessuto. Leggere, riciclabili, stampate solo quando cambiano.
+
+- Illuminazione LED. Meno consumi e meno calore nello stand.
+
+- Arredi a noleggio. Niente acquisti destinati a una sola fiera.
+
+- Fine vita. Cosa si riusa, cosa si ricicla, cosa resta.
+
 ## Richiedi lo stand
 
 Compila i campi: si apre WhatsApp con la richiesta già pronta. Ti rispondiamo con quello che serve e quanto costa.
@@ -29861,6 +32574,26 @@ Facciamo entrambe le cose, e si possono mescolare: struttura di proprietà, arre
 
 - Misto. Struttura modulare con elementi su misura in legno per banchi e zone prodotto.
 
+Un esempio
+
+## Un esempio: uno stand per quattro fiere l'anno
+
+Un'azienda espone in quattro fiere l'anno con spazi diversi: 24 metri quadri in linea, 36 ad angolo, un'isola da 48. Uno stand su misura per ciascuna costerebbe troppo; un preallestito ogni volta la renderebbe uguale a tutti gli altri.
+
+La soluzione è un sistema modulare in alluminio con grafiche in tessuto teso: lo stesso kit si configura per le tre metrature, cambiando la disposizione dei moduli e, quando serve, solo le stampe. Tra una fiera e l'altra resta nel nostro magazzino, pronto per la prossima partenza.
+
+## Cosa trovate nel preventivo
+
+- Kit di moduli. Telai, pannelli, lightbox, banco e mensole.
+
+- Configurazioni. Una pianta per ogni metratura e tipo di spazio.
+
+- Grafiche in tessuto. Si cambiano senza cambiare la struttura.
+
+- Magazzino. Conservazione e controllo tra una fiera e l'altra.
+
+- Montaggio. Rapido, anche con squadre ridotte.
+
 Domande frequenti
 
 ## Le risposte che servono davvero.
@@ -30166,6 +32899,26 @@ Molti organizzatori offrono un proprio pacchetto preallestito: è comodo, ma tut
 - Nessun magazzino. A fine fiera smontiamo e ritiriamo tutto.
 
 - Personalizzabile. Grafica, arredi, luci, schermi.
+
+Un esempio
+
+## Un esempio: 16 mq preallestiti, ma riconoscibili
+
+Un preallestito standard ha pareti bianche, moquette blu e un fascione con il nome: in un padiglione con duecento stand uguali, è facile non essere visti. Con poco in più si cambia molto: pareti rivestite da una grafica stampata, luce sui prodotti, un banco luminoso e uno schermo con un video breve.
+
+La struttura resta quella del preallestito, e quindi costi e tempi restano contenuti; quello che cambia è la percezione di chi passa nel corridoio. È spesso il modo migliore per una prima fiera o per uno spazio piccolo.
+
+## Cosa trovate nel preventivo
+
+- Struttura. Pareti, moquette, fascione, ripostiglio se serve.
+
+- Grafiche. Pannelli o tessuti stampati al posto del bianco.
+
+- Luci. Faretti o bracci luce sui prodotti.
+
+- Arredi. Banco, tavolo, sedie, mensole.
+
+- Extra. Schermo, lightbox, vetrine, a scelta.
 
 ## Richiedi lo stand
 
@@ -31370,6 +34123,8 @@ Richiedi un preventivo
 
 Come lavoriamo
 
+Mockup illustrativo: app aziendale su misura per approvazioni, segnalazioni e cruscotti.
+
 ## Che tipo di applicazioni costruiamo
 
 Non app da vetrina. Applicazioni che qualcuno usa tutti i giorni per lavorare, e che tolgono passaggi manuali.
@@ -31538,6 +34293,8 @@ Chiedi un preventivo
 
 Quando conviene davvero
 
+Mockup illustrativo: sviluppo su misura con rilasci frequenti e ore sotto controllo.
+
 Il criterio
 
 ## Quando conviene il software su misura
@@ -31659,6 +34416,8 @@ Una web app è un'applicazione che si apre nel browser, senza installare niente 
 Chiedi un preventivo
 
 Come lavoriamo
+
+Mockup illustrativo: web app su misura, usabile da browser e telefono, per prenotare sale e risorse.
 
 ## Cosa costruiamo
 
@@ -31955,6 +34714,8 @@ Parliamone
 
 Cantine e ospitalità
 
+Mockup illustrativo: sito per una cantina delle colline del Prosecco.
+
 Le colline
 
 ## Cantine e ospitalità: il sito è la prima degustazione
@@ -32074,6 +34835,8 @@ Passate da noi, o veniamo noi
 
 Cosa facciamo in zona
 
+Mockup illustrativo: sito per un centro estetico con prenotazioni e gift card.
+
 La zona
 
 ## Un'area piccola con aziende grandi
@@ -32171,6 +34934,7 @@ Fissiamo un incontro
 
 ## Pagine collegate
 
+Gestionale per parrucchieri e centri estetici SEO locale e Google Maps
 Realizzazione siti web a Treviso
 Web agency a Conegliano
 Realizzazione siti web a Pordenone
@@ -32179,6 +34943,165 @@ Gestionale a Treviso
 Guida a Google Business Profile
 E-commerce B2B
 Prezzi
+
+
+========================================================================
+# WhatsApp aziendale: collegato a CRM e gestionale
+URL: https://danova-tech.com/whatsapp-aziendale/
+Descrizione: WhatsApp aziendale per PMI: numero condiviso dal team, risposte rapide, messaggi automatici di conferma e promemoria, collegamento al CRM e al gestionale.
+========================================================================
+
+Home / Software e automazioni / WhatsApp aziendale
+
+WhatsApp Business · automazioni
+
+## WhatsApp aziendale: i messaggi diventano lavoro, non caos.
+
+I clienti scrivono su WhatsApp perché è comodo. Poi però i messaggi stanno sul telefono di una persona, nessuno li vede quando è in ferie e i preventivi chiesti in chat non finiscono da nessuna parte. Organizziamo WhatsApp in azienda: numero condiviso, risposte rapide, messaggi automatici e collegamento al CRM.
+
+Parliamo dei vostri messaggi
+
+Cosa si può fare
+
+Mockup illustrativo: WhatsApp aziendale collegato a magazzino e CRM: la chat diventa un ordine.
+
+Cosa si può fare
+
+## WhatsApp come strumento di lavoro
+
+01
+
+## Un numero per tutto il team
+
+Un solo numero aziendale gestito da più persone, con le conversazioni assegnate a chi se ne occupa.
+
+02
+
+## Risposte rapide
+
+Orari, listini, indicazioni e moduli pronti, per rispondere in pochi secondi alle domande di sempre.
+
+03
+
+## Messaggi automatici
+
+Conferme d'ordine, promemoria degli appuntamenti, avvisi di consegna: inviati dal gestionale, non a mano.
+
+04
+
+## Collegato al CRM
+
+Ogni conversazione finisce nella scheda del cliente: chi viene dopo sa cosa è stato detto.
+
+05
+
+## Richieste dal sito
+
+Il modulo del sito apre la chat con il messaggio già compilato, come facciamo sulle nostre pagine.
+
+06
+
+## Regole e privacy
+
+Consensi, orari di risposta e messaggi solo a chi li ha chiesti, nel rispetto delle regole della piattaforma.
+
+Come
+
+## App, piattaforma o integrazione su misura
+
+Per un negozio con una persona al banco basta l'app WhatsApp Business. Quando le persone sono più di una, o i messaggi devono partire dal gestionale, serve la piattaforma per le aziende e un'integrazione con i vostri programmi.
+
+Costruiamo il collegamento con automazioni n8n o software su misura, e lo colleghiamo al CRM e al gestionale. I costi dei messaggi inviati tramite la piattaforma dipendono dalle tariffe di Meta e ve li spieghiamo prima di partire.
+
+Un esempio
+
+## Un distributore con 300 rivenditori, prima e dopo
+
+Prima: i rivenditori scrivevano su WhatsApp al telefono personale di due commerciali. Quando uno era in ferie, i messaggi restavano senza risposta; gli ordini presi in chat venivano ricopiati nel gestionale a fine giornata.
+
+Dopo: un numero aziendale unico, le conversazioni assegnate al commerciale della zona, le disponibilità lette dal magazzino in tempo reale e l'ordine creato direttamente dalla chat. Al rivenditore arriva in automatico il messaggio con il tracking.
+
+I commerciali non usano più il telefono personale per lavoro, e la direzione vede quante richieste arrivano da WhatsApp e quante diventano ordini.
+
+Prima di scegliere
+
+## Le domande da fare a chi vi propone il programma
+
+01
+
+## Chi vede le conversazioni?
+
+Servono ruoli e permessi: non tutti devono leggere tutto.
+
+02
+
+## I messaggi automatici rispettano le regole?
+
+Solo a chi ha dato il consenso, con modelli approvati dalla piattaforma.
+
+03
+
+## Dove finiscono le chat?
+
+Nella scheda del cliente nel CRM, non solo nel telefono.
+
+04
+
+## Quanto costano i messaggi?
+
+Le tariffe della piattaforma vanno capite prima, non scoperte in bolletta.
+
+05
+
+## Si collega al gestionale?
+
+Disponibilità, ordini e spedizioni devono essere letti dai vostri sistemi.
+
+06
+
+## Cosa succede se cambiate numero?
+
+Chiedete come si migra senza perdere contatti e storico.
+
+FAQ
+
+## Le domande su WhatsApp aziendale.
+
+Più persone possono usare lo stesso numero WhatsApp?
+Sì, con la piattaforma per le aziende e uno strumento di gestione condivisa: le conversazioni si assegnano alle persone giuste.
+
+Si possono inviare messaggi automatici?
+Sì, come conferme, promemoria e avvisi, a chi ha dato il consenso e con i modelli approvati dalla piattaforma.
+
+WhatsApp si collega al CRM?
+Sì: le conversazioni e i contatti finiscono nella scheda del cliente, e dal CRM si possono avviare messaggi.
+
+Serve un numero nuovo?
+Non sempre; dipende dal numero attuale e da come lo usate. Lo valutiamo insieme.
+
+Quanto costa?
+Dipende dalla soluzione: l'app è gratuita, la piattaforma ha costi per messaggio stabiliti da Meta, e l'integrazione si preventiva in base ai collegamenti.
+
+Si possono mandare cataloghi e listini su WhatsApp?
+Sì: catalogo prodotti, PDF dei listini e link alle schede del sito, anche come risposte rapide.
+
+Un chatbot può rispondere su WhatsApp?
+Sì, per le domande frequenti e per raccogliere i dati della richiesta, passando la conversazione a una persona quando serve. Vedete il chatbot aziendale.
+
+## Vi scrivono già su WhatsApp?
+
+Raccontateci come lo usate oggi: vi diciamo come organizzarlo e collegarlo ai vostri programmi.
+
+Parliamone
+
+## Pagine collegate
+
+Automazioni con n8n
+CRM aziendale
+Chatbot aziendale
+App per prenotazioni
+Integrazione software aziendali
+Lead generation B2B
 
 
 ========================================================================

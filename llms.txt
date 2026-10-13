@@ -846,3 +846,20 @@ Le stesse cifre nelle altre lingue:
 
 Il sito non usa cookie di profilazione e non costruisce profili commerciali
 degli utenti.
+
+## Pagine aggiunte il 13 ottobre 2026
+- Gestionale per ristoranti: https://danova-tech.com/gestionale-ristorante/
+- Gestionale per hotel: https://danova-tech.com/gestionale-hotel/
+- Gestionale per negozi: https://danova-tech.com/gestionale-negozio/
+- Gestionale per parrucchieri e centri estetici: https://danova-tech.com/gestionale-parrucchieri-centri-estetici/
+- Gestionale per studi dentistici: https://danova-tech.com/gestionale-studio-dentistico/
+- Gestionale per agenzie immobiliari: https://danova-tech.com/gestionale-agenzia-immobiliare/
+- Gestionale per autonoleggio: https://danova-tech.com/gestionale-autonoleggio/
+- SEO locale e Google Maps: https://danova-tech.com/seo-locale/
+- WhatsApp aziendale: https://danova-tech.com/whatsapp-aziendale/
+- Web marketing per PMI: https://danova-tech.com/marketing-per-pmi/
+- Cos’è un CRM: https://danova-tech.com/guide/cos-e-un-crm/
+- Cos’è un gestionale: https://danova-tech.com/guide/cos-e-un-gestionale/
+- Gestione magazzino con Excel: https://danova-tech.com/guide/gestione-magazzino-con-excel/
+- Come inserire l’attività su Google Maps: https://danova-tech.com/guide/come-inserire-attivita-su-google-maps/
+- Come andare in prima pagina su Google: https://danova-tech.com/guide/come-andare-in-prima-pagina-su-google/

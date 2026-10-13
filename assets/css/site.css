@@ -912,4 +912,5 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 .fr-gal-filtri{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:22px}
 .fr-gal-filtri button{font:inherit;font-size:14px;padding:8px 14px;border-radius:99px;border:1px solid var(--line);background:transparent;color:var(--text);cursor:pointer}
 .fr-gal-filtri button[aria-pressed=true]{background:var(--blue);border-color:var(--blue);color:#fff}
+.fr-foto.mk img{max-height:none;object-fit:contain}
 @media (max-width:560px){.fr-foto figcaption{padding:10px 14px;font-size:12.5px}.fr-gal{grid-template-columns:1fr}}

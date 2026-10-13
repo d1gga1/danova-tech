@@ -1,0 +1,1760 @@
+{
+ "/gestionale-officina-meccanica/": {
+  "file": "gestionale-officina-meccanica",
+  "alt": "Mockup di gestionale per officina meccanica: schede di lavoro per targa, ore fatturate, preventivi aperti e ricambi sotto scorta",
+  "cap": "Mockup illustrativo: gestionale per officina con schede di lavoro, agenda ponte, ricambi e preventivi.",
+  "lang": "it"
+ },
+ "/gestionale-palestra/": {
+  "file": "gestionale-palestra",
+  "alt": "Mockup di gestionale per palestra: iscritti, abbonamenti in scadenza, certificati medici e ingressi per fascia oraria",
+  "cap": "Mockup illustrativo: gestionale per palestra con iscritti, abbonamenti, certificati e corsi.",
+  "lang": "it"
+ },
+ "/software-gestionale-magazzino/": {
+  "file": "software-gestionale-magazzino",
+  "alt": "Mockup di software gestionale di magazzino: giacenze per ubicazione, articoli sotto scorta, ordini da evadere e movimenti",
+  "cap": "Mockup illustrativo: gestionale di magazzino con giacenze, ubicazioni, scorte minime e spedizioni.",
+  "lang": "it"
+ },
+ "/software-wms/": {
+  "file": "software-wms",
+  "alt": "Mockup di software WMS: missioni di prelievo con radiofrequenza, righe per ora, banchine di carico e scarico",
+  "cap": "Mockup illustrativo: software WMS con missioni di prelievo, ubicazioni e banchine.",
+  "lang": "it"
+ },
+ "/software-gestionale-produzione/": {
+  "file": "software-gestionale-produzione",
+  "alt": "Mockup di software gestionale per la produzione: ordini di produzione per reparto, carico macchine, consegne puntuali e costo per pezzo",
+  "cap": "Mockup illustrativo: gestionale di produzione con ordini, reparti, pianificazione e costi.",
+  "lang": "it"
+ },
+ "/software-mes-produzione/": {
+  "file": "software-mes-produzione",
+  "alt": "Mockup di software MES: stato delle macchine in tempo reale, OEE per turno, pezzi prodotti e fermi",
+  "cap": "Mockup illustrativo: software MES con stato macchine, OEE, fermi e qualità.",
+  "lang": "it"
+ },
+ "/software-gestionale-commesse/": {
+  "file": "software-gestionale-commesse",
+  "alt": "Mockup di software gestionale per commesse: avanzamento, ore consuntivate, previsto e consuntivo, marginalità per commessa",
+  "cap": "Mockup illustrativo: gestionale per commesse con avanzamento, ore, costi e marginalità.",
+  "lang": "it"
+ },
+ "/software-gestionale-edilizia/": {
+  "file": "software-gestionale-edilizia",
+  "alt": "Mockup di software gestionale per edilizia: cantieri aperti, avanzamento, costi rispetto al computo, SAL e documenti di sicurezza",
+  "cap": "Mockup illustrativo: gestionale per l’edilizia con cantieri, squadre, computi, SAL e sicurezza.",
+  "lang": "it"
+ },
+ "/software-contabilita-cantiere/": {
+  "file": "software-contabilita-cantiere",
+  "alt": "Mockup di software per la contabilità di cantiere: libretto delle misure, stati di avanzamento lavori, varianti e importi",
+  "cap": "Mockup illustrativo: contabilità di cantiere con libretto misure, SAL e varianti.",
+  "lang": "it"
+ },
+ "/software-gestionale-impiantisti/": {
+  "file": "software-gestionale-impiantisti",
+  "alt": "Mockup di gestionale per impiantisti: interventi per tecnico, manutenzioni programmate, impianti dei clienti e materiale sui furgoni",
+  "cap": "Mockup illustrativo: gestionale per impiantisti con interventi, manutenzioni, furgoni e dichiarazioni.",
+  "lang": "it"
+ },
+ "/software-gestionale-manutenzioni/": {
+  "file": "software-gestionale-manutenzioni",
+  "alt": "Mockup di software di manutenzione: asset con QR code, piano preventivo, ordini di lavoro per guasto, ore di fermo e ricambi critici",
+  "cap": "Mockup illustrativo: software di manutenzione con asset, piano preventivo, guasti e ricambi.",
+  "lang": "it"
+ },
+ "/software-gestionale-metalmeccanica/": {
+  "file": "software-gestionale-metalmeccanica",
+  "alt": "Mockup di gestionale per metalmeccanica: preventivi da disegno con cicli di lavoro, conto lavoro, lamiere e saturazione delle macchine",
+  "cap": "Mockup illustrativo: gestionale per la metalmeccanica con preventivi, cicli, conto lavoro e materiali.",
+  "lang": "it"
+ },
+ "/software-gestionale-noleggio/": {
+  "file": "software-gestionale-noleggio",
+  "alt": "Mockup di gestionale per il noleggio: disponibilità delle attrezzature, contratti, consegne e ritiri, manutenzioni del parco mezzi",
+  "cap": "Mockup illustrativo: gestionale per il noleggio con parco mezzi, contratti, consegne e manutenzioni.",
+  "lang": "it"
+ },
+ "/software-gestionale-agroalimentare/": {
+  "file": "software-gestionale-agroalimentare",
+  "alt": "Mockup di gestionale per l’agroalimentare: lotti di produzione, materie prime, scadenze, tracciabilità e ricevimento merci",
+  "cap": "Mockup illustrativo: gestionale agroalimentare con lotti, scadenze e tracciabilità.",
+  "lang": "it"
+ },
+ "/software-gestionale-studi-professionali/": {
+  "file": "software-gestionale-studi-professionali",
+  "alt": "Mockup di gestionale per studi professionali: pratiche, scadenze, ore per area, parcelle e documenti dei clienti",
+  "cap": "Mockup illustrativo: gestionale per studi professionali con pratiche, scadenze, ore e parcelle.",
+  "lang": "it"
+ },
+ "/software-gestionale-trasporti-logistica/": {
+  "file": "software-gestionale-trasporti-logistica",
+  "alt": "Mockup di software per trasporti e logistica: viaggi in corso, ordini di trasporto, autisti, mezzi, consegne puntuali e km a vuoto",
+  "cap": "Mockup illustrativo: gestionale per trasporti con viaggi, autisti, mezzi e documenti di consegna.",
+  "lang": "it"
+ },
+ "/software-gestione-flotte/": {
+  "file": "software-gestione-flotte",
+  "alt": "Mockup di software per la gestione delle flotte aziendali: veicoli, assegnatari, scadenze, manutenzioni, carburante e multe",
+  "cap": "Mockup illustrativo: software gestione flotte con veicoli, scadenze, carburante e multe.",
+  "lang": "it"
+ },
+ "/software-gestione-interventi-tecnici/": {
+  "file": "software-gestione-interventi-tecnici",
+  "alt": "Mockup di software per la gestione degli interventi tecnici: chiamate, SLA, pianificazione dei tecnici, rapportini firmati e contratti di assistenza",
+  "cap": "Mockup illustrativo: software per interventi tecnici con ticket, SLA, tecnici e rapportini.",
+  "lang": "it"
+ },
+ "/software-preventivi-configuratore/": {
+  "file": "software-preventivi-configuratore",
+  "alt": "Mockup di software per preventivi con configuratore: opzioni di prodotto, prezzi da listino, distinta automatica e conversione in ordine",
+  "cap": "Mockup illustrativo: configuratore di prodotto che genera preventivo, distinta e disegno.",
+  "lang": "it"
+ },
+ "/crm-aziendale/": {
+  "file": "crm-aziendale",
+  "alt": "Mockup di CRM aziendale: trattative per fase, valore in pipeline, richieste dal sito e attività dei commerciali",
+  "cap": "Mockup illustrativo: CRM con trattative, contatti, attività e previsioni di vendita.",
+  "lang": "it"
+ },
+ "/software-contabilita-aziendale/": {
+  "file": "software-contabilita-aziendale",
+  "alt": "Mockup di software di contabilità aziendale: scadenzario incassi e pagamenti, saldo banche, flussi di cassa e riconciliazione",
+  "cap": "Mockup illustrativo: software di contabilità con scadenzario, banche, flussi di cassa e riconciliazione.",
+  "lang": "it"
+ },
+ "/software-controllo-di-gestione/": {
+  "file": "software-controllo-di-gestione",
+  "alt": "Mockup di software per il controllo di gestione: margini per linea di prodotto, budget e consuntivo, centri di costo e scostamenti",
+  "cap": "Mockup illustrativo: software per il controllo di gestione con margini, budget e scostamenti.",
+  "lang": "it"
+ },
+ "/software-fatturazione-elettronica/": {
+  "file": "software-fatturazione-elettronica",
+  "alt": "Mockup di software per la fatturazione elettronica: fatture emesse dagli ordini, esiti dello SdI, ricevute, incassi e conservazione",
+  "cap": "Mockup illustrativo: fatturazione elettronica automatica con esiti SdI, incassi e conservazione.",
+  "lang": "it"
+ },
+ "/gestione-documentale-aziendale/": {
+  "file": "gestione-documentale-aziendale",
+  "alt": "Mockup di software di gestione documentale aziendale: archivio, flussi di approvazione, ricerca nei documenti e scadenze dei contratti",
+  "cap": "Mockup illustrativo: gestione documentale con archivio, approvazioni, ricerca e scadenze.",
+  "lang": "it"
+ },
+ "/software-gestionale-aziendale/": {
+  "file": "software-gestionale-aziendale",
+  "alt": "Mockup di software gestionale aziendale: cruscotto con vendite, ordini da evadere, magazzino, crediti scaduti e fatturato mensile",
+  "cap": "Mockup illustrativo: gestionale aziendale con vendite, acquisti, magazzino, produzione e amministrazione in un unico cruscotto.",
+  "lang": "it"
+ },
+ "/gestionale-cloud/": {
+  "file": "gestionale-cloud",
+  "alt": "Mockup di gestionale in cloud: ordini inseriti da sede, agenti e portale clienti, accessi per luogo, backup e sicurezza",
+  "cap": "Mockup illustrativo: gestionale cloud usato da sede, agenti e magazzino, con backup e accessi controllati.",
+  "lang": "it"
+ },
+ "/portale-rivenditori-b2b/": {
+  "file": "portale-rivenditori-b2b",
+  "alt": "Mockup di portale rivenditori B2B: catalogo con prezzi e sconti personalizzati, disponibilità, ordini, fido e spedizioni",
+  "cap": "Mockup illustrativo: portale B2B dove ogni rivenditore vede i suoi prezzi e ordina da solo.",
+  "lang": "it"
+ },
+ "/sviluppo-web-app/": {
+  "file": "sviluppo-web-app",
+  "alt": "Mockup di web app su misura per la prenotazione di sale e attrezzature: calendario, sedi, check-in e utilizzo",
+  "cap": "Mockup illustrativo: web app su misura, usabile da browser e telefono, per prenotare sale e risorse.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-padova/": {
+  "file": "gestionali-su-misura-padova",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Padova (commesse e impianti): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Padova nel settore commesse e impianti.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-pordenone/": {
+  "file": "gestionali-su-misura-pordenone",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Pordenone (componenti per il mobile): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Pordenone nel settore componenti per il mobile.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-treviso/": {
+  "file": "gestionali-su-misura-treviso",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Treviso (produzione su commessa): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Treviso nel settore produzione su commessa.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-udine/": {
+  "file": "gestionali-su-misura-udine",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Udine (carpenteria e logistica): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Udine nel settore carpenteria e logistica.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-veneto/": {
+  "file": "gestionali-su-misura-veneto",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Veneto (PMI manifatturiere): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Veneto nel settore PMI manifatturiere.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-venezia-mestre/": {
+  "file": "gestionali-su-misura-venezia-mestre",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Venezia-Mestre (servizi e turismo): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Venezia-Mestre nel settore servizi e turismo.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-verona/": {
+  "file": "gestionali-su-misura-verona",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Verona (magazzino e vino): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Verona nel settore magazzino e vino.",
+  "lang": "it"
+ },
+ "/gestionali-su-misura-vicenza/": {
+  "file": "gestionali-su-misura-vicenza",
+  "alt": "Mockup di software gestionale su misura per un’azienda di Vicenza (oreficeria e meccanica): ordini e commesse, consegne, magazzino e segnalazioni automatiche",
+  "cap": "Mockup illustrativo: gestionale su misura per un’azienda di Vicenza nel settore oreficeria e meccanica.",
+  "lang": "it"
+ },
+ "/app-prenotazioni/": {
+  "file": "app-prenotazioni",
+  "alt": "Mockup di app per prenotazioni e appuntamenti: agenda del giorno, scelta dell’orario e conferma con promemoria e acconto",
+  "cap": "Mockup illustrativo: app di prenotazione con agenda, scelta dell’orario, promemoria SMS e acconto online.",
+  "lang": "it"
+ },
+ "/app-fidelizzazione-clienti/": {
+  "file": "app-fidelizzazione-clienti",
+  "alt": "Mockup di app di fidelizzazione clienti: tessera punti con QR, offerte personalizzate e catalogo premi",
+  "cap": "Mockup illustrativo: app fedeltà con tessera digitale, punti, offerte personalizzate e premi.",
+  "lang": "it"
+ },
+ "/app-gestione-cantieri/": {
+  "file": "app-gestione-cantieri",
+  "alt": "Mockup di app per la gestione dei cantieri: cantieri della squadra, rapportino giornaliero con ore, materiali e foto, avanzamento lavori",
+  "cap": "Mockup illustrativo: app di cantiere con rapportini, ore, materiali, foto e avanzamento.",
+  "lang": "it"
+ },
+ "/app-magazzino-codici-a-barre/": {
+  "file": "app-magazzino-codici-a-barre",
+  "alt": "Mockup di app per magazzino con lettura dei codici a barre: scheda articolo, lista di prelievo e inventario dal telefono",
+  "cap": "Mockup illustrativo: app di magazzino che legge i codici a barre per prelievi, arrivi e inventari.",
+  "lang": "it"
+ },
+ "/app-ore-di-lavoro-e-timbrature/": {
+  "file": "app-ore-di-lavoro-e-timbrature",
+  "alt": "Mockup di app per timbrature e ore di lavoro: timbratura con posizione, riepilogo settimanale delle ore e richiesta ferie",
+  "cap": "Mockup illustrativo: app di timbratura con posizione verificata, ore settimanali e richieste di ferie.",
+  "lang": "it"
+ },
+ "/app-per-agenti-di-commercio/": {
+  "file": "app-per-agenti-di-commercio",
+  "alt": "Mockup di app per agenti di commercio: giro visite, ordine con prezzi e sconti del cliente, scheda cliente con fatturato e insoluti",
+  "cap": "Mockup illustrativo: app per agenti con visite, ordini offline, listini e scheda cliente.",
+  "lang": "it"
+ },
+ "/app-per-personal-trainer/": {
+  "file": "app-per-personal-trainer",
+  "alt": "Mockup di app per personal trainer: scheda di allenamento, elenco clienti con aderenza e progressi misurati",
+  "cap": "Mockup illustrativo: app per personal trainer con schede, clienti, progressi e pacchetti di lezioni.",
+  "lang": "it"
+ },
+ "/app-rapportini-di-lavoro/": {
+  "file": "app-rapportini-di-lavoro",
+  "alt": "Mockup di app per rapportini di lavoro: interventi del giorno, rapportino con materiali, ore e foto, firma del cliente sul telefono",
+  "cap": "Mockup illustrativo: app per rapportini con ore, materiali, foto e firma del cliente.",
+  "lang": "it"
+ },
+ "/sviluppo-app-aziendali-veneto/": {
+  "file": "sviluppo-app-aziendali-veneto",
+  "alt": "Mockup di app aziendale su misura: attività da approvare, segnalazione di non conformità con foto, cruscotto di stabilimento",
+  "cap": "Mockup illustrativo: app aziendale su misura per approvazioni, segnalazioni e cruscotti.",
+  "lang": "it"
+ },
+ "/software-house/": {
+  "file": "software-house",
+  "alt": "Mockup del tabellone di un progetto software su misura: attività per modulo, rilasci, segnalazioni e ore rispetto al budget",
+  "cap": "Mockup illustrativo: come seguiamo un progetto software: attività, rilasci e budget sempre visibili al cliente.",
+  "lang": "it"
+ },
+ "/software-house-veneto/": {
+  "file": "software-house-veneto",
+  "alt": "Mockup del tabellone di avanzamento di un software su misura per un’azienda veneta: attività, rilasci e segnalazioni",
+  "cap": "Mockup illustrativo: avanzamento di un progetto per un’azienda veneta, visibile al cliente in ogni momento.",
+  "lang": "it"
+ },
+ "/sviluppo-software-su-misura/": {
+  "file": "sviluppo-software-su-misura",
+  "alt": "Mockup di gestione di un progetto di sviluppo software su misura: attività, versioni, stima delle ore e stato",
+  "cap": "Mockup illustrativo: sviluppo su misura con rilasci frequenti e ore sotto controllo.",
+  "lang": "it"
+ },
+ "/software-per-pmi/": {
+  "file": "software-per-pmi",
+  "alt": "Mockup di avanzamento di un software per PMI introdotto un modulo alla volta: vendite, amministrazione, magazzino",
+  "cap": "Mockup illustrativo: software per PMI introdotto un modulo alla volta, senza fermare l’azienda.",
+  "lang": "it"
+ },
+ "/siti-web-per-ristoranti/": {
+  "file": "siti-web-per-ristoranti",
+  "alt": "Mockup di sito web per un ristorante: menù aggiornato, prenotazione del tavolo online e versione per smartphone",
+  "cap": "Mockup illustrativo: sito per ristorante con menù, prenotazione del tavolo ed eventi.",
+  "lang": "it"
+ },
+ "/siti-web-per-hotel/": {
+  "file": "siti-web-per-hotel",
+  "alt": "Mockup di sito web per un hotel: verifica disponibilità, prenotazione diretta senza commissioni, camere e offerte",
+  "cap": "Mockup illustrativo: sito per hotel con prenotazione diretta, camere e offerte.",
+  "lang": "it"
+ },
+ "/siti-web-per-avvocati/": {
+  "file": "siti-web-per-avvocati",
+  "alt": "Mockup di sito web per uno studio legale: aree di attività, primo incontro prenotabile e costi chiari",
+  "cap": "Mockup illustrativo: sito per studio legale sobrio, con aree di attività e primo incontro prenotabile.",
+  "lang": "it"
+ },
+ "/siti-web-per-agenzie-immobiliari/": {
+  "file": "siti-web-per-agenzie-immobiliari",
+  "alt": "Mockup di sito web per un’agenzia immobiliare: valutazione gratuita della casa, annunci curati e area clienti",
+  "cap": "Mockup illustrativo: sito per agenzia immobiliare orientato alle acquisizioni di incarichi.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-internet/": {
+  "file": "realizzazione-siti-internet",
+  "alt": "Mockup di sito internet aziendale: pagina iniziale con richiesta di sopralluogo, servizi e versione mobile",
+  "cap": "Mockup illustrativo: sito aziendale costruito per far arrivare richieste di preventivo.",
+  "lang": "it"
+ },
+ "/sito-web-aziendale/": {
+  "file": "sito-web-aziendale",
+  "alt": "Mockup di sito web aziendale per un’azienda di lavorazioni meccaniche: lavorazioni, qualità e richiesta di offerta su disegno",
+  "cap": "Mockup illustrativo: sito aziendale B2B con richiesta di offerta su disegno.",
+  "lang": "it"
+ },
+ "/restyling-sito-web/": {
+  "file": "restyling-sito-web",
+  "alt": "Mockup di restyling di un sito web: nuova pagina iniziale più chiara, servizi in evidenza e versione mobile",
+  "cap": "Mockup illustrativo: sito rinnovato mantenendo indirizzi e contenuti che portavano visite.",
+  "lang": "it"
+ },
+ "/realizzazione-landing-page/": {
+  "file": "realizzazione-landing-page",
+  "alt": "Mockup di landing page per una campagna: un solo obiettivo, prenotazione della prima visita e recensioni",
+  "cap": "Mockup illustrativo: landing page con un solo obiettivo: la prenotazione.",
+  "lang": "it"
+ },
+ "/realizzazione-ecommerce/": {
+  "file": "realizzazione-ecommerce",
+  "alt": "Mockup di e-commerce: negozio online con carrello, spedizione gratuita, abbonamento e pagamenti sicuri",
+  "cap": "Mockup illustrativo: negozio online con carrello, abbonamenti e pagamenti.",
+  "lang": "it"
+ },
+ "/aprire-un-negozio-online/": {
+  "file": "aprire-un-negozio-online",
+  "alt": "Mockup di negozio online di una cantina: shop, spedizioni in Europa, club del vino e visite prenotabili",
+  "cap": "Mockup illustrativo: primo negozio online di una cantina, con shop e visite prenotabili.",
+  "lang": "it"
+ },
+ "/ecommerce-b2b/": {
+  "file": "ecommerce-b2b",
+  "alt": "Mockup di e-commerce B2B per rivenditori: listini personalizzati, ordine rapido da codice e disponibilità collegata al gestionale",
+  "cap": "Mockup illustrativo: e-commerce B2B con listini per cliente e ordine rapido.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-padova/": {
+  "file": "realizzazione-siti-web-padova",
+  "alt": "Mockup di sito web per un’agenzia immobiliare di Padova: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per un’agenzia immobiliare di Padova.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-pordenone/": {
+  "file": "realizzazione-siti-web-pordenone",
+  "alt": "Mockup di sito web per un’azienda meccanica di Pordenone: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per un’azienda meccanica di Pordenone.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-treviso/": {
+  "file": "realizzazione-siti-web-treviso",
+  "alt": "Mockup di sito web per una trattoria di Treviso: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per una trattoria di Treviso.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-udine/": {
+  "file": "realizzazione-siti-web-udine",
+  "alt": "Mockup di sito web per uno studio tecnico di Udine: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per uno studio tecnico di Udine.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-veneto/": {
+  "file": "realizzazione-siti-web-veneto",
+  "alt": "Mockup di sito web per un’azienda di serramenti di Veneto: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per un’azienda di serramenti di Veneto.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-venezia-mestre/": {
+  "file": "realizzazione-siti-web-venezia-mestre",
+  "alt": "Mockup di sito web per un hotel di Venezia: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per un hotel di Venezia.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-verona/": {
+  "file": "realizzazione-siti-web-verona",
+  "alt": "Mockup di sito web per una cantina di Verona: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per una cantina di Verona.",
+  "lang": "it"
+ },
+ "/realizzazione-siti-web-vicenza/": {
+  "file": "realizzazione-siti-web-vicenza",
+  "alt": "Mockup di sito web per uno studio dentistico di Vicenza: pagina iniziale, servizi, richiesta di contatto e versione per smartphone",
+  "cap": "Mockup illustrativo: sito web per uno studio dentistico di Vicenza.",
+  "lang": "it"
+ },
+ "/web-agency-conegliano/": {
+  "file": "web-agency-conegliano",
+  "alt": "Mockup di sito web per una cantina di Conegliano: vini, visite con degustazione e shop online",
+  "cap": "Mockup illustrativo: sito per una cantina delle colline del Prosecco.",
+  "lang": "it"
+ },
+ "/web-agency-oderzo-motta-di-livenza/": {
+  "file": "web-agency-oderzo-motta-di-livenza",
+  "alt": "Mockup di sito web per un centro estetico di Oderzo: prenotazione online, listino e gift card",
+  "cap": "Mockup illustrativo: sito per un centro estetico con prenotazioni e gift card.",
+  "lang": "it"
+ },
+ "/consulente-seo/": {
+  "file": "consulente-seo",
+  "alt": "Mockup di report SEO: clic e impressioni da Google in crescita, pagine con più clic e posizioni delle ricerche principali",
+  "cap": "Mockup illustrativo: report SEO mensile con clic, impressioni, posizioni e richieste generate.",
+  "lang": "it"
+ },
+ "/consulente-seo-treviso/": {
+  "file": "consulente-seo-treviso",
+  "alt": "Mockup di report SEO per un’attività di Treviso: ricerche locali in prima pagina, clic e telefonate dal sito",
+  "cap": "Mockup illustrativo: risultati SEO locali di uno studio di Treviso.",
+  "lang": "it"
+ },
+ "/agenzia-seo-milano/": {
+  "file": "agenzia-seo-milano",
+  "alt": "Mockup di report SEO per un’azienda di Milano: ricerche ad alta concorrenza, pagine che portano più contatti e posizioni medie",
+  "cap": "Mockup illustrativo: risultati SEO di un’azienda milanese misurati in contatti, non solo in posizioni.",
+  "lang": "it"
+ },
+ "/posizionamento-sito-google/": {
+  "file": "posizionamento-sito-google",
+  "alt": "Mockup di report sul posizionamento di un sito su Google: posizione media migliorata, ricerche principali e pagine con più clic",
+  "cap": "Mockup illustrativo: come cambia il posizionamento di un sito in sei mesi.",
+  "lang": "it"
+ },
+ "/seo-per-ecommerce/": {
+  "file": "seo-per-ecommerce",
+  "alt": "Mockup di report SEO per un e-commerce: clic organici, ricavi dalla ricerca, categorie e schede prodotto indicizzate",
+  "cap": "Mockup illustrativo: SEO per e-commerce misurata in vendite dalle ricerche organiche.",
+  "lang": "it"
+ },
+ "/agenzia-link-building/": {
+  "file": "agenzia-link-building",
+  "alt": "Mockup di report di link building pulita: domini che citano il sito, menzioni da testate e associazioni, crescita dei clic",
+  "cap": "Mockup illustrativo: link building fatta di citazioni vere, senza link comprati.",
+  "lang": "it"
+ },
+ "/seo-per-intelligenza-artificiale/": {
+  "file": "seo-per-intelligenza-artificiale",
+  "alt": "Mockup di risposta di un assistente di intelligenza artificiale che cita un’azienda e le sue pagine come fonti",
+  "cap": "Mockup illustrativo: come un sito ben strutturato viene citato come fonte dagli assistenti AI.",
+  "lang": "it"
+ },
+ "/chatbot-aziendale/": {
+  "file": "chatbot-aziendale",
+  "alt": "Mockup di chatbot aziendale collegato al gestionale e ai documenti interni: risposta con fonti, bozza di email e promemoria",
+  "cap": "Mockup illustrativo: agente AI interno che risponde con i dati del gestionale e cita le fonti.",
+  "lang": "it"
+ },
+ "/intelligenza-artificiale-per-aziende/": {
+  "file": "intelligenza-artificiale-per-aziende",
+  "alt": "Mockup di intelligenza artificiale applicata in azienda: confronto automatico di offerte dei fornitori con consumi e magazzino",
+  "cap": "Mockup illustrativo: IA applicata a un problema preciso: leggere e confrontare offerte dei fornitori.",
+  "lang": "it"
+ },
+ "/lead-generation-b2b/": {
+  "file": "lead-generation-b2b",
+  "alt": "Mockup di report di lead generation B2B: contatti qualificati per canale, costo per contatto e opportunità nel CRM",
+  "cap": "Mockup illustrativo: lead generation B2B misurata fino al contratto firmato.",
+  "lang": "it"
+ },
+ "/automazione-processi-aziendali/": {
+  "file": "automazione-processi-aziendali",
+  "alt": "Mockup di automazione di un processo aziendale: dalla email del cliente al preventivo nel gestionale, con approvazione e promemoria",
+  "cap": "Mockup illustrativo: processo automatizzato con approvazione umana nel punto giusto.",
+  "lang": "it"
+ },
+ "/automazioni-n8n/": {
+  "file": "automazioni-n8n",
+  "alt": "Mockup di flusso di automazione con n8n: dal modulo del sito al CRM, assegnazione al commerciale e notifica",
+  "cap": "Mockup illustrativo: flusso n8n che collega sito, CRM e messaggi ai commerciali.",
+  "lang": "it"
+ },
+ "/integrazione-software-aziendali/": {
+  "file": "integrazione-software-aziendali",
+  "alt": "Mockup di integrazione tra software aziendali: e-commerce, gestionale, magazzino, corriere e contabilità sincronizzati",
+  "cap": "Mockup illustrativo: software diversi che si scambiano i dati da soli.",
+  "lang": "it"
+ },
+ "/ecommerce-collegato-al-gestionale/": {
+  "file": "ecommerce-collegato-al-gestionale",
+  "alt": "Mockup di e-commerce collegato al gestionale: ordini, clienti, giacenze e fatture sincronizzati in automatico",
+  "cap": "Mockup illustrativo: e-commerce e gestionale collegati: niente più ordini ricopiati a mano.",
+  "lang": "it"
+ },
+ "/migrazione-ecommerce/": {
+  "file": "migrazione-ecommerce",
+  "alt": "Mockup di piano di migrazione e-commerce: inventario dati, mappa dei redirect, import, test e monitoraggio dopo la messa online",
+  "cap": "Mockup illustrativo: migrazione di un e-commerce con redirect e controlli, senza perdere vendite.",
+  "lang": "it"
+ },
+ "/digitalizzazione-aziendale/": {
+  "file": "digitalizzazione-aziendale",
+  "alt": "Mockup di percorso di digitalizzazione aziendale: dal foglio Excel condiviso al gestionale, app di reparto e cruscotto",
+  "cap": "Mockup illustrativo: digitalizzazione per passi: si parte da un processo, non da tutto insieme.",
+  "lang": "it"
+ },
+ "/quanto-costa-un-gestionale/": {
+  "file": "quanto-costa-un-gestionale",
+  "alt": "Mockup di scheda sui costi di un gestionale su misura: voci di budget, tempi tipici e confronto tra pacchetto e su misura",
+  "cap": "Mockup illustrativo: da cosa dipende il costo di un gestionale su misura.",
+  "lang": "it"
+ },
+ "/quanto-costa-una-app/": {
+  "file": "quanto-costa-una-app",
+  "alt": "Mockup di scheda sui costi di sviluppo di un’app: voci di budget, tempi e confronto tra app interna, app per clienti e web app",
+  "cap": "Mockup illustrativo: da cosa dipende il costo di un’app.",
+  "lang": "it"
+ },
+ "/quanto-costa-un-ecommerce/": {
+  "file": "quanto-costa-un-ecommerce",
+  "alt": "Mockup di scheda sui costi di un e-commerce: costi del primo anno, cosa serve e confronto tra piattaforme",
+  "cap": "Mockup illustrativo: costi di avvio e di gestione di un e-commerce.",
+  "lang": "it"
+ },
+ "/quanto-costa-google-ads/": {
+  "file": "quanto-costa-google-ads",
+  "alt": "Mockup di scheda sul costo di Google Ads: ripartizione del budget, checklist prima di partire ed esempio di costo per contatto",
+  "cap": "Mockup illustrativo: come leggere il costo di Google Ads in contatti e clienti.",
+  "lang": "it"
+ },
+ "/ai-act-aziende/": {
+  "file": "ai-act-aziende",
+  "alt": "Mockup di scheda pratica sull’AI Act per le aziende: inventario degli strumenti di IA, domande da porsi e primi passi",
+  "cap": "Mockup illustrativo: primi passi pratici per mettere ordine nell’uso dell’IA in azienda.",
+  "lang": "it"
+ },
+ "/bandi-digitalizzazione-veneto-2026/": {
+  "file": "bandi-digitalizzazione-veneto-2026",
+  "alt": "Mockup di scheda per prepararsi ai bandi di digitalizzazione: documenti da raccogliere, spese tipiche e cosa verificare",
+  "cap": "Mockup illustrativo: checklist per preparare la domanda a un bando di digitalizzazione.",
+  "lang": "it"
+ },
+ "/iperammortamento-2026/": {
+  "file": "iperammortamento-2026",
+  "alt": "Mockup di scheda sull’iperammortamento: verifiche prima dell’acquisto, esempi di beni e software, passi e documenti",
+  "cap": "Mockup illustrativo: metodo per verificare un investimento agevolabile.",
+  "lang": "it"
+ },
+ "/guide/": {
+  "file": "guide",
+  "alt": "Mockup di scheda riassuntiva: guide pratiche su siti, software e marketing",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Guide pratiche su siti, software e marketing”.",
+  "lang": "it"
+ },
+ "/guide/accessibilita-sito-web/": {
+  "file": "guide-accessibilita-sito-web",
+  "alt": "Mockup di scheda riassuntiva: accessibilità del sito: controlli da fare",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Accessibilità del sito: controlli da fare”.",
+  "lang": "it"
+ },
+ "/guide/come-scegliere-agenzia-web/": {
+  "file": "guide-come-scegliere-agenzia-web",
+  "alt": "Mockup di scheda riassuntiva: come scegliere un’agenzia web: le domande da fare",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Come scegliere un’agenzia web: le domande da fare”.",
+  "lang": "it"
+ },
+ "/guide/come-scegliere-un-gestionale/": {
+  "file": "guide-come-scegliere-un-gestionale",
+  "alt": "Mockup di scheda riassuntiva: come scegliere un gestionale senza pentirsene",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Come scegliere un gestionale senza pentirsene”.",
+  "lang": "it"
+ },
+ "/guide/differenza-gestionale-erp-crm/": {
+  "file": "guide-differenza-gestionale-erp-crm",
+  "alt": "Mockup di scheda riassuntiva: gestionale, erp e crm: chi fa cosa",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Gestionale, ERP e CRM: chi fa cosa”.",
+  "lang": "it"
+ },
+ "/guide/gestionale-cloud-o-server/": {
+  "file": "guide-gestionale-cloud-o-server",
+  "alt": "Mockup di scheda riassuntiva: gestionale in cloud o su un server in azienda?",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Gestionale in cloud o su un server in azienda?”.",
+  "lang": "it"
+ },
+ "/guide/google-business-profile-guida/": {
+  "file": "guide-google-business-profile-guida",
+  "alt": "Mockup di scheda riassuntiva: google business profile: la scheda che porta chiamate",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Google Business Profile: la scheda che porta chiamate”.",
+  "lang": "it"
+ },
+ "/guide/rifare-sito-senza-perdere-posizioni/": {
+  "file": "guide-rifare-sito-senza-perdere-posizioni",
+  "alt": "Mockup di scheda riassuntiva: rifare il sito senza perdere le posizioni su google",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Rifare il sito senza perdere le posizioni su Google”.",
+  "lang": "it"
+ },
+ "/guide/sostituire-excel-con-un-gestionale/": {
+  "file": "guide-sostituire-excel-con-un-gestionale",
+  "alt": "Mockup di scheda riassuntiva: sostituire excel con un gestionale, senza traumi",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Sostituire Excel con un gestionale, senza traumi”.",
+  "lang": "it"
+ },
+ "/guide/transizione-5-0/": {
+  "file": "guide-transizione-5-0",
+  "alt": "Mockup di scheda riassuntiva: transizione 5.0 e agevolazioni 2026: come orientarsi",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Transizione 5.0 e agevolazioni 2026: come orientarsi”.",
+  "lang": "it"
+ },
+ "/guide/velocita-sito-web-core-web-vitals/": {
+  "file": "guide-velocita-sito-web-core-web-vitals",
+  "alt": "Mockup di scheda riassuntiva: velocità del sito: cosa misura google",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Velocità del sito: cosa misura Google”.",
+  "lang": "it"
+ },
+ "/come-indicizzare-un-sito-su-google/": {
+  "file": "come-indicizzare-un-sito-su-google",
+  "alt": "Mockup di scheda riassuntiva: come indicizzare un sito su google, passo per passo",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Come indicizzare un sito su Google, passo per passo”.",
+  "lang": "it"
+ },
+ "/come-ottenere-recensioni-google/": {
+  "file": "come-ottenere-recensioni-google",
+  "alt": "Mockup di scheda riassuntiva: come ottenere recensioni google senza scorciatoie",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Come ottenere recensioni Google senza scorciatoie”.",
+  "lang": "it"
+ },
+ "/glossario/": {
+  "file": "glossario",
+  "alt": "Mockup di scheda riassuntiva: le parole dei preventivi digitali, spiegate",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Le parole dei preventivi digitali, spiegate”.",
+  "lang": "it"
+ },
+ "/servizi/siti-web-ecommerce/": {
+  "file": "servizi-siti-web-ecommerce",
+  "alt": "Mockup di sito web aziendale: pagina iniziale con richiesta di sopralluogo, servizi in evidenza e versione per smartphone",
+  "cap": "Mockup illustrativo: sito aziendale progettato per portare richieste di preventivo.",
+  "lang": "it"
+ },
+ "/en/services/websites-ecommerce/": {
+  "file": "en-services-websites-ecommerce",
+  "alt": "Website mockup for a windows and doors company: homepage with free visit booking, services and mobile version",
+  "cap": "Illustrative mockup: a business website designed to generate quote requests.",
+  "lang": "en"
+ },
+ "/de/leistungen/websites-ecommerce/": {
+  "file": "de-leistungen-websites-ecommerce",
+  "alt": "Mockup einer Firmenwebsite für Fenster und Türen: Startseite mit Terminbuchung, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Firmenwebsite, die Angebotsanfragen bringt.",
+  "lang": "de"
+ },
+ "/fr/services/sites-web-ecommerce/": {
+  "file": "fr-services-sites-web-ecommerce",
+  "alt": "Maquette de site web d’entreprise de menuiserie : page d’accueil avec prise de rendez-vous, services et version mobile",
+  "cap": "Maquette illustrative : site d’entreprise conçu pour générer des demandes de devis.",
+  "lang": "fr"
+ },
+ "/es/servicios/webs-ecommerce/": {
+  "file": "es-servicios-webs-ecommerce",
+  "alt": "Maqueta de web corporativa para una empresa de ventanas: portada con petición de visita, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web corporativa pensada para recibir peticiones de presupuesto.",
+  "lang": "es"
+ },
+ "/servizi/app-su-misura/": {
+  "file": "servizi-app-su-misura",
+  "alt": "Mockup di app su misura per tecnici: interventi del giorno, rapportino con foto e firma del cliente, sincronizzazione con il gestionale",
+  "cap": "Mockup illustrativo: app su misura per i tecnici, collegata al gestionale.",
+  "lang": "it"
+ },
+ "/en/services/custom-apps/": {
+  "file": "en-services-custom-apps",
+  "alt": "Mockup of a custom field service app: today’s jobs, job report with photos and customer signature, synced with the back office",
+  "cap": "Illustrative mockup: custom app for technicians, connected to the back office.",
+  "lang": "en"
+ },
+ "/de/leistungen/individuelle-apps/": {
+  "file": "de-leistungen-individuelle-apps",
+  "alt": "Mockup einer individuellen Service-App: heutige Einsätze, Bericht mit Fotos und Kundenunterschrift, Abgleich mit der Warenwirtschaft",
+  "cap": "Illustratives Mockup: individuelle App für Techniker, verbunden mit der Warenwirtschaft.",
+  "lang": "de"
+ },
+ "/fr/services/applications-sur-mesure/": {
+  "file": "fr-services-applications-sur-mesure",
+  "alt": "Maquette d’application sur mesure pour techniciens : interventions du jour, rapport avec photos et signature du client, synchronisation avec l’ERP",
+  "cap": "Maquette illustrative : application sur mesure pour les techniciens, reliée à l’ERP.",
+  "lang": "fr"
+ },
+ "/es/servicios/apps-a-medida/": {
+  "file": "es-servicios-apps-a-medida",
+  "alt": "Maqueta de app a medida para técnicos: avisos del día, parte de trabajo con fotos y firma del cliente, sincronizado con el ERP",
+  "cap": "Maqueta ilustrativa: app a medida para técnicos, conectada al ERP.",
+  "lang": "es"
+ },
+ "/servizi/gestionali-crm/": {
+  "file": "servizi-gestionali-crm",
+  "alt": "Mockup di gestionale con CRM integrato: trattative per fase, ordini, richieste dal sito e attività dei commerciali",
+  "cap": "Mockup illustrativo: gestionale e CRM nello stesso sistema: la trattativa vinta diventa ordine.",
+  "lang": "it"
+ },
+ "/en/services/erp-crm/": {
+  "file": "en-services-erp-crm",
+  "alt": "Mockup of an ERP with built-in CRM: deals by stage, orders, website leads and sales tasks",
+  "cap": "Illustrative mockup: ERP and CRM in one system: a won deal becomes an order.",
+  "lang": "en"
+ },
+ "/de/leistungen/warenwirtschaft-crm/": {
+  "file": "de-leistungen-warenwirtschaft-crm",
+  "alt": "Mockup einer Warenwirtschaft mit integriertem CRM: Verkaufschancen nach Phase, Aufträge, Website-Anfragen und Aufgaben",
+  "cap": "Illustratives Mockup: Warenwirtschaft und CRM in einem System: aus der gewonnenen Chance wird der Auftrag.",
+  "lang": "de"
+ },
+ "/fr/services/erp-crm/": {
+  "file": "fr-services-erp-crm",
+  "alt": "Maquette d’ERP avec CRM intégré : affaires par étape, commandes, demandes du site et tâches commerciales",
+  "cap": "Maquette illustrative : ERP et CRM dans un seul système : l’affaire gagnée devient commande.",
+  "lang": "fr"
+ },
+ "/es/servicios/erp-crm/": {
+  "file": "es-servicios-erp-crm",
+  "alt": "Maqueta de ERP con CRM integrado: oportunidades por fase, pedidos, contactos de la web y tareas comerciales",
+  "cap": "Maqueta ilustrativa: ERP y CRM en un solo sistema: la oportunidad ganada se convierte en pedido.",
+  "lang": "es"
+ },
+ "/servizi/seo/": {
+  "file": "servizi-seo",
+  "alt": "Mockup di report SEO: clic e impressioni da Google in crescita, pagine con più clic e posizioni delle ricerche principali",
+  "cap": "Mockup illustrativo: report SEO con clic, impressioni, posizioni e richieste generate.",
+  "lang": "it"
+ },
+ "/en/services/seo/": {
+  "file": "en-services-seo",
+  "alt": "Mockup of an SEO report: growing clicks and impressions from Google, top pages and positions of the main queries",
+  "cap": "Illustrative mockup: SEO report with clicks, impressions, positions and leads.",
+  "lang": "en"
+ },
+ "/de/leistungen/seo/": {
+  "file": "de-leistungen-seo",
+  "alt": "Mockup eines SEO-Berichts: steigende Klicks und Impressionen aus Google, Top-Seiten und Positionen der wichtigsten Suchanfragen",
+  "cap": "Illustratives Mockup: SEO-Bericht mit Klicks, Impressionen, Positionen und Anfragen.",
+  "lang": "de"
+ },
+ "/fr/services/seo/": {
+  "file": "fr-services-seo",
+  "alt": "Maquette de rapport SEO : clics et impressions Google en hausse, pages les plus cliquées et positions des requêtes principales",
+  "cap": "Maquette illustrative : rapport SEO avec clics, impressions, positions et demandes.",
+  "lang": "fr"
+ },
+ "/es/servicios/seo/": {
+  "file": "es-servicios-seo",
+  "alt": "Maqueta de informe SEO: clics e impresiones de Google en aumento, páginas con más clics y posiciones de las búsquedas principales",
+  "cap": "Maqueta ilustrativa: informe SEO con clics, impresiones, posiciones y contactos.",
+  "lang": "es"
+ },
+ "/servizi/google-ads/": {
+  "file": "servizi-google-ads",
+  "alt": "Mockup di report Google Ads: spesa, contatti, costo per contatto, campagne di ricerca e percorso dal clic al cliente",
+  "cap": "Mockup illustrativo: campagne Google Ads misurate in contatti e clienti, non in clic.",
+  "lang": "it"
+ },
+ "/en/services/google-ads/": {
+  "file": "en-services-google-ads",
+  "alt": "Mockup of a Google Ads report: spend, leads, cost per lead, search campaigns and the path from click to customer",
+  "cap": "Illustrative mockup: Google Ads campaigns measured in leads and customers, not clicks.",
+  "lang": "en"
+ },
+ "/de/leistungen/google-ads/": {
+  "file": "de-leistungen-google-ads",
+  "alt": "Mockup eines Google-Ads-Berichts: Kosten, Anfragen, Kosten pro Anfrage, Suchkampagnen und der Weg vom Klick zum Kunden",
+  "cap": "Illustratives Mockup: Google-Ads-Kampagnen gemessen in Anfragen und Kunden, nicht in Klicks.",
+  "lang": "de"
+ },
+ "/fr/services/google-ads/": {
+  "file": "fr-services-google-ads",
+  "alt": "Maquette de rapport Google Ads : dépenses, contacts, coût par contact, campagnes de recherche et parcours du clic au client",
+  "cap": "Maquette illustrative : campagnes Google Ads mesurées en contacts et clients, pas en clics.",
+  "lang": "fr"
+ },
+ "/es/servicios/google-ads/": {
+  "file": "es-servicios-google-ads",
+  "alt": "Maqueta de informe de Google Ads: gasto, contactos, coste por contacto, campañas de búsqueda y recorrido del clic al cliente",
+  "cap": "Maqueta ilustrativa: campañas de Google Ads medidas en contactos y clientes, no en clics.",
+  "lang": "es"
+ },
+ "/servizi/meta-ads/": {
+  "file": "servizi-meta-ads",
+  "alt": "Mockup di report campagne Meta su Facebook e Instagram: lead form, video, caroselli e costo per contatto",
+  "cap": "Mockup illustrativo: campagne su Facebook e Instagram gestite come un investimento.",
+  "lang": "it"
+ },
+ "/en/services/meta-ads/": {
+  "file": "en-services-meta-ads",
+  "alt": "Mockup of a Meta campaigns report for Facebook and Instagram: lead forms, video, carousels and cost per lead",
+  "cap": "Illustrative mockup: Facebook and Instagram campaigns managed as an investment.",
+  "lang": "en"
+ },
+ "/de/leistungen/meta-ads/": {
+  "file": "de-leistungen-meta-ads",
+  "alt": "Mockup eines Meta-Kampagnenberichts für Facebook und Instagram: Lead-Formulare, Videos, Karussells und Kosten pro Anfrage",
+  "cap": "Illustratives Mockup: Facebook- und Instagram-Kampagnen als Investition gesteuert.",
+  "lang": "de"
+ },
+ "/fr/services/meta-ads/": {
+  "file": "fr-services-meta-ads",
+  "alt": "Maquette de rapport de campagnes Meta sur Facebook et Instagram : formulaires, vidéos, carrousels et coût par contact",
+  "cap": "Maquette illustrative : campagnes Facebook et Instagram pilotées comme un investissement.",
+  "lang": "fr"
+ },
+ "/es/servicios/meta-ads/": {
+  "file": "es-servicios-meta-ads",
+  "alt": "Maqueta de informe de campañas de Meta en Facebook e Instagram: formularios, vídeos, carruseles y coste por contacto",
+  "cap": "Maqueta ilustrativa: campañas en Facebook e Instagram gestionadas como una inversión.",
+  "lang": "es"
+ },
+ "/servizi/software-automazioni/": {
+  "file": "servizi-software-automazioni",
+  "alt": "Mockup di automazione tra software: ordine dal sito, cliente, magazzino, fattura e avvisi senza ricopiare dati",
+  "cap": "Mockup illustrativo: automazione che collega e-commerce, gestionale e fatturazione.",
+  "lang": "it"
+ },
+ "/en/services/software-automation/": {
+  "file": "en-services-software-automation",
+  "alt": "Mockup of a software automation: web order, customer, stock, invoice and notifications with no retyping",
+  "cap": "Illustrative mockup: automation linking e-commerce, ERP and invoicing.",
+  "lang": "en"
+ },
+ "/de/leistungen/software-automatisierung/": {
+  "file": "de-leistungen-software-automatisierung",
+  "alt": "Mockup einer Software-Automatisierung: Webshop-Bestellung, Kunde, Lager, Rechnung und Benachrichtigung ohne Abtippen",
+  "cap": "Illustratives Mockup: Automatisierung zwischen Onlineshop, Warenwirtschaft und Rechnung.",
+  "lang": "de"
+ },
+ "/fr/services/logiciels-automatisation/": {
+  "file": "fr-services-logiciels-automatisation",
+  "alt": "Maquette d’automatisation logicielle : commande web, client, stock, facture et notifications sans ressaisie",
+  "cap": "Maquette illustrative : automatisation entre boutique en ligne, ERP et facturation.",
+  "lang": "fr"
+ },
+ "/es/servicios/software-automatizacion/": {
+  "file": "es-servicios-software-automatizacion",
+  "alt": "Maqueta de automatización entre programas: pedido web, cliente, almacén, factura y avisos sin volver a teclear",
+  "cap": "Maqueta ilustrativa: automatización entre tienda online, ERP y facturación.",
+  "lang": "es"
+ },
+ "/servizi/": {
+  "file": "servizi",
+  "alt": "Mockup dei servizi collegati: campagne, sito, SEO, CRM, gestionale e app che si scambiano i dati",
+  "cap": "Mockup illustrativo: come siti, campagne, CRM, gestionale e app lavorano insieme.",
+  "lang": "it"
+ },
+ "/en/services/": {
+  "file": "en-services",
+  "alt": "Mockup of connected services: campaigns, website, SEO, CRM, ERP and app sharing data",
+  "cap": "Illustrative mockup: how website, campaigns, CRM, ERP and apps work together.",
+  "lang": "en"
+ },
+ "/de/leistungen/": {
+  "file": "de-leistungen",
+  "alt": "Mockup verbundener Leistungen: Kampagnen, Website, SEO, CRM, Warenwirtschaft und App mit gemeinsamen Daten",
+  "cap": "Illustratives Mockup: wie Website, Kampagnen, CRM, Warenwirtschaft und App zusammenarbeiten.",
+  "lang": "de"
+ },
+ "/fr/services/": {
+  "file": "fr-services",
+  "alt": "Maquette des services reliés : campagnes, site, SEO, CRM, ERP et application qui partagent les données",
+  "cap": "Maquette illustrative : comment site, campagnes, CRM, ERP et applications travaillent ensemble.",
+  "lang": "fr"
+ },
+ "/es/servicios/": {
+  "file": "es-servicios",
+  "alt": "Maqueta de servicios conectados: campañas, web, SEO, CRM, ERP y app que comparten los datos",
+  "cap": "Maqueta ilustrativa: cómo web, campañas, CRM, ERP y apps trabajan juntos.",
+  "lang": "es"
+ },
+ "/prezzi/": {
+  "file": "prezzi",
+  "alt": "Mockup del listino prezzi: sito in abbonamento o a costo chiuso, SEO, web app e gestionale su misura con IVA inclusa",
+  "cap": "Mockup illustrativo: il listino prezzi in sintesi, IVA inclusa.",
+  "lang": "it"
+ },
+ "/en/pricing/": {
+  "file": "en-pricing",
+  "alt": "Mockup of the price list: website subscription or one-off, SEO, web app and custom business software, VAT included",
+  "cap": "Illustrative mockup: the price list at a glance, VAT included.",
+  "lang": "en"
+ },
+ "/de/preise/": {
+  "file": "de-preise",
+  "alt": "Mockup der Preisliste: Website im Abo oder zum Festpreis, SEO, Web-App und individuelle Software inkl. MwSt.",
+  "cap": "Illustratives Mockup: die Preisliste im Überblick, inkl. MwSt.",
+  "lang": "de"
+ },
+ "/fr/tarifs/": {
+  "file": "fr-tarifs",
+  "alt": "Maquette de la grille tarifaire : site en abonnement ou à prix fixe, SEO, web app et logiciel sur mesure, TVA incluse",
+  "cap": "Maquette illustrative : les tarifs en un coup d’œil, TVA incluse.",
+  "lang": "fr"
+ },
+ "/es/precios/": {
+  "file": "es-precios",
+  "alt": "Maqueta de la tarifa: web por suscripción o a precio cerrado, SEO, web app y software a medida, IVA incluido",
+  "cap": "Maqueta ilustrativa: las tarifas de un vistazo, IVA incluido.",
+  "lang": "es"
+ },
+ "/quanto-costa-un-sito-web/": {
+  "file": "quanto-costa-un-sito-web",
+  "alt": "Mockup di scheda su quanto costa un sito web: voci del prezzo, domande da fare nel preventivo, tempi e tipi di sito",
+  "cap": "Mockup illustrativo: le voci che fanno il prezzo di un sito web.",
+  "lang": "it"
+ },
+ "/en/how-much-does-a-website-cost/": {
+  "file": "en-how-much-does-a-website-cost",
+  "alt": "Mockup of a website cost guide card: price drivers, questions for the quote, timelines and website types",
+  "cap": "Illustrative mockup: what drives the price of a website.",
+  "lang": "en"
+ },
+ "/de/was-kostet-eine-website/": {
+  "file": "de-was-kostet-eine-website",
+  "alt": "Mockup einer Ratgeber-Karte zu Website-Kosten: Preisfaktoren, Fragen ans Angebot, Dauer und Website-Typen",
+  "cap": "Illustratives Mockup: wovon der Preis einer Website abhängt.",
+  "lang": "de"
+ },
+ "/fr/prix-creation-site-internet/": {
+  "file": "fr-prix-creation-site-internet",
+  "alt": "Maquette de fiche sur le prix d’un site internet : facteurs de prix, questions pour le devis, délais et types de sites",
+  "cap": "Maquette illustrative : ce qui fait le prix d’un site internet.",
+  "lang": "fr"
+ },
+ "/es/cuanto-cuesta-una-pagina-web/": {
+  "file": "es-cuanto-cuesta-una-pagina-web",
+  "alt": "Maqueta de ficha sobre cuánto cuesta una web: factores del precio, preguntas para el presupuesto, plazos y tipos de web",
+  "cap": "Maqueta ilustrativa: qué hace el precio de una página web.",
+  "lang": "es"
+ },
+ "/en/web-design-agency-london/": {
+  "file": "en-web-design-agency-london",
+  "alt": "Website mockup for a restaurant in London: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a restaurant in London.",
+  "lang": "en"
+ },
+ "/en/web-design-agency-uk/": {
+  "file": "en-web-design-agency-uk",
+  "alt": "Website mockup for a roofing contractor in UK and Irish: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a roofing contractor in UK and Irish.",
+  "lang": "en"
+ },
+ "/en/web-design-agency-usa/": {
+  "file": "en-web-design-agency-usa",
+  "alt": "Website mockup for a dental practice in US: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a dental practice in US.",
+  "lang": "en-US"
+ },
+ "/en/web-design-atlanta/": {
+  "file": "en-web-design-atlanta",
+  "alt": "Website mockup for a law firm in Atlanta: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a law firm in Atlanta.",
+  "lang": "en-US"
+ },
+ "/en/web-design-austin/": {
+  "file": "en-web-design-austin",
+  "alt": "Website mockup for an HVAC company in Austin: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for an HVAC company in Austin.",
+  "lang": "en-US"
+ },
+ "/en/web-design-boston/": {
+  "file": "en-web-design-boston",
+  "alt": "Website mockup for a real estate brokerage in Boston: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a real estate brokerage in Boston.",
+  "lang": "en-US"
+ },
+ "/en/web-design-charlotte/": {
+  "file": "en-web-design-charlotte",
+  "alt": "Website mockup for a beauty salon in Charlotte: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a beauty salon in Charlotte.",
+  "lang": "en-US"
+ },
+ "/en/web-design-chicago/": {
+  "file": "en-web-design-chicago",
+  "alt": "Website mockup for a landscaping company in Chicago: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a landscaping company in Chicago.",
+  "lang": "en-US"
+ },
+ "/en/web-design-columbus/": {
+  "file": "en-web-design-columbus",
+  "alt": "Website mockup for an online coffee shop in Columbus: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for an online coffee shop in Columbus.",
+  "lang": "en-US"
+ },
+ "/en/web-design-dallas/": {
+  "file": "en-web-design-dallas",
+  "alt": "Website mockup for a boutique hotel in Dallas: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a boutique hotel in Dallas.",
+  "lang": "en-US"
+ },
+ "/en/web-design-denver/": {
+  "file": "en-web-design-denver",
+  "alt": "Website mockup for a restaurant in Denver: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a restaurant in Denver.",
+  "lang": "en-US"
+ },
+ "/en/web-design-detroit/": {
+  "file": "en-web-design-detroit",
+  "alt": "Website mockup for a roofing contractor in Detroit: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a roofing contractor in Detroit.",
+  "lang": "en-US"
+ },
+ "/en/web-design-houston/": {
+  "file": "en-web-design-houston",
+  "alt": "Website mockup for a dental practice in Houston: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a dental practice in Houston.",
+  "lang": "en-US"
+ },
+ "/en/web-design-kansas-city/": {
+  "file": "en-web-design-kansas-city",
+  "alt": "Website mockup for a law firm in Kansas City: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a law firm in Kansas City.",
+  "lang": "en-US"
+ },
+ "/en/web-design-las-vegas/": {
+  "file": "en-web-design-las-vegas",
+  "alt": "Website mockup for an HVAC company in Las Vegas: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for an HVAC company in Las Vegas.",
+  "lang": "en-US"
+ },
+ "/en/web-design-los-angeles/": {
+  "file": "en-web-design-los-angeles",
+  "alt": "Website mockup for a real estate brokerage in Los Angeles: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a real estate brokerage in Los Angeles.",
+  "lang": "en-US"
+ },
+ "/en/web-design-miami/": {
+  "file": "en-web-design-miami",
+  "alt": "Website mockup for a beauty salon in Miami: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a beauty salon in Miami.",
+  "lang": "en-US"
+ },
+ "/en/web-design-minneapolis/": {
+  "file": "en-web-design-minneapolis",
+  "alt": "Website mockup for a landscaping company in Minneapolis: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a landscaping company in Minneapolis.",
+  "lang": "en-US"
+ },
+ "/en/web-design-nashville/": {
+  "file": "en-web-design-nashville",
+  "alt": "Website mockup for an online coffee shop in Nashville: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for an online coffee shop in Nashville.",
+  "lang": "en-US"
+ },
+ "/en/web-design-new-york/": {
+  "file": "en-web-design-new-york",
+  "alt": "Website mockup for a boutique hotel in New York: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a boutique hotel in New York.",
+  "lang": "en-US"
+ },
+ "/en/web-design-orlando/": {
+  "file": "en-web-design-orlando",
+  "alt": "Website mockup for a restaurant in Orlando: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a restaurant in Orlando.",
+  "lang": "en-US"
+ },
+ "/en/web-design-philadelphia/": {
+  "file": "en-web-design-philadelphia",
+  "alt": "Website mockup for a roofing contractor in Philadelphia: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a roofing contractor in Philadelphia.",
+  "lang": "en-US"
+ },
+ "/en/web-design-phoenix/": {
+  "file": "en-web-design-phoenix",
+  "alt": "Website mockup for a dental practice in Phoenix: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a dental practice in Phoenix.",
+  "lang": "en-US"
+ },
+ "/en/web-design-portland/": {
+  "file": "en-web-design-portland",
+  "alt": "Website mockup for a law firm in Portland: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a law firm in Portland.",
+  "lang": "en-US"
+ },
+ "/en/web-design-raleigh/": {
+  "file": "en-web-design-raleigh",
+  "alt": "Website mockup for an HVAC company in Raleigh: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for an HVAC company in Raleigh.",
+  "lang": "en-US"
+ },
+ "/en/web-design-salt-lake-city/": {
+  "file": "en-web-design-salt-lake-city",
+  "alt": "Website mockup for a real estate brokerage in Salt Lake City: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a real estate brokerage in Salt Lake City.",
+  "lang": "en-US"
+ },
+ "/en/web-design-san-antonio/": {
+  "file": "en-web-design-san-antonio",
+  "alt": "Website mockup for a beauty salon in San Antonio: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a beauty salon in San Antonio.",
+  "lang": "en-US"
+ },
+ "/en/web-design-san-diego/": {
+  "file": "en-web-design-san-diego",
+  "alt": "Website mockup for a landscaping company in San Diego: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a landscaping company in San Diego.",
+  "lang": "en-US"
+ },
+ "/en/web-design-san-francisco/": {
+  "file": "en-web-design-san-francisco",
+  "alt": "Website mockup for an online coffee shop in San Francisco: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for an online coffee shop in San Francisco.",
+  "lang": "en-US"
+ },
+ "/en/web-design-san-jose/": {
+  "file": "en-web-design-san-jose",
+  "alt": "Website mockup for a boutique hotel in San Jose: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a boutique hotel in San Jose.",
+  "lang": "en-US"
+ },
+ "/en/web-design-seattle/": {
+  "file": "en-web-design-seattle",
+  "alt": "Website mockup for a restaurant in Seattle: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a restaurant in Seattle.",
+  "lang": "en-US"
+ },
+ "/en/web-design-tampa/": {
+  "file": "en-web-design-tampa",
+  "alt": "Website mockup for a roofing contractor in Tampa: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a roofing contractor in Tampa.",
+  "lang": "en-US"
+ },
+ "/en/web-design-washington-dc/": {
+  "file": "en-web-design-washington-dc",
+  "alt": "Website mockup for a dental practice in Washington, DC: homepage with booking or quote request, services and mobile version",
+  "cap": "Illustrative mockup: website for a dental practice in Washington, DC.",
+  "lang": "en-US"
+ },
+ "/en/contractor-website-design/": {
+  "file": "en-contractor-website-design",
+  "alt": "Website mockup for a roofing contractor: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a roofing contractor.",
+  "lang": "en-US"
+ },
+ "/en/medical-practice-website-design/": {
+  "file": "en-medical-practice-website-design",
+  "alt": "Website mockup for a dental practice: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a dental practice.",
+  "lang": "en-US"
+ },
+ "/en/real-estate-website-development/": {
+  "file": "en-real-estate-website-development",
+  "alt": "Website mockup for a real estate brokerage: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a real estate brokerage.",
+  "lang": "en-US"
+ },
+ "/en/restaurant-website-design/": {
+  "file": "en-restaurant-website-design",
+  "alt": "Website mockup for a restaurant: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a restaurant.",
+  "lang": "en-US"
+ },
+ "/en/shopify-development-agency/": {
+  "file": "en-shopify-development-agency",
+  "alt": "Website mockup for a Shopify coffee store: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a Shopify coffee store.",
+  "lang": "en-US"
+ },
+ "/en/small-business-web-design/": {
+  "file": "en-small-business-web-design",
+  "alt": "Website mockup for a small business: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a small business.",
+  "lang": "en-US"
+ },
+ "/en/web-design-for-law-firms/": {
+  "file": "en-web-design-for-law-firms",
+  "alt": "Website mockup for a law firm: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a law firm.",
+  "lang": "en-US"
+ },
+ "/en/wordpress-web-design/": {
+  "file": "en-wordpress-web-design",
+  "alt": "Website mockup for a WordPress business site: homepage with clear calls to action, services and mobile version",
+  "cap": "Illustrative mockup: website for a WordPress business site.",
+  "lang": "en-US"
+ },
+ "/es/diseno-web-barcelona/": {
+  "file": "es-diseno-web-barcelona",
+  "alt": "Maqueta de página web para un restaurante en Barcelona: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para un restaurante en Barcelona.",
+  "lang": "es"
+ },
+ "/es/diseno-web-espana/": {
+  "file": "es-diseno-web-espana",
+  "alt": "Maqueta de página web para una empresa de reformas en España: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una empresa de reformas en España.",
+  "lang": "es"
+ },
+ "/es/diseno-web-madrid/": {
+  "file": "es-diseno-web-madrid",
+  "alt": "Maqueta de página web para una clínica dental en Madrid: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una clínica dental en Madrid.",
+  "lang": "es"
+ },
+ "/es/diseno-web-sevilla/": {
+  "file": "es-diseno-web-sevilla",
+  "alt": "Maqueta de página web para una inmobiliaria en Sevilla: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una inmobiliaria en Sevilla.",
+  "lang": "es"
+ },
+ "/es/diseno-web-valencia/": {
+  "file": "es-diseno-web-valencia",
+  "alt": "Maqueta de página web para una tienda online de café en Valencia: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una tienda online de café en Valencia.",
+  "lang": "es"
+ },
+ "/es/diseno-web-houston/": {
+  "file": "es-diseno-web-houston",
+  "alt": "Maqueta de página web para un despacho de abogados en Houston: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para un despacho de abogados en Houston.",
+  "lang": "es-US"
+ },
+ "/es/diseno-web-los-angeles/": {
+  "file": "es-diseno-web-los-angeles",
+  "alt": "Maqueta de página web para un restaurante en Los Ángeles: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para un restaurante en Los Ángeles.",
+  "lang": "es-US"
+ },
+ "/es/diseno-web-miami/": {
+  "file": "es-diseno-web-miami",
+  "alt": "Maqueta de página web para una empresa de reformas en Miami: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una empresa de reformas en Miami.",
+  "lang": "es-US"
+ },
+ "/es/diseno-web-nueva-york/": {
+  "file": "es-diseno-web-nueva-york",
+  "alt": "Maqueta de página web para una clínica dental en Nueva York: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una clínica dental en Nueva York.",
+  "lang": "es-US"
+ },
+ "/es/diseno-web-san-antonio/": {
+  "file": "es-diseno-web-san-antonio",
+  "alt": "Maqueta de página web para una inmobiliaria en San Antonio: portada con reserva o petición de presupuesto, servicios y versión móvil",
+  "cap": "Maqueta ilustrativa: web para una inmobiliaria en San Antonio.",
+  "lang": "es-US"
+ },
+ "/de/webagentur-berlin/": {
+  "file": "de-webagentur-berlin",
+  "alt": "Website-Mockup für eine Schreinerei in Berlin: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für eine Schreinerei in Berlin.",
+  "lang": "de"
+ },
+ "/de/webagentur-deutschland/": {
+  "file": "de-webagentur-deutschland",
+  "alt": "Website-Mockup für eine Zahnarztpraxis in Deutschland: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für eine Zahnarztpraxis in Deutschland.",
+  "lang": "de"
+ },
+ "/de/webagentur-frankfurt/": {
+  "file": "de-webagentur-frankfurt",
+  "alt": "Website-Mockup für eine Steuerkanzlei in Frankfurt: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für eine Steuerkanzlei in Frankfurt.",
+  "lang": "de"
+ },
+ "/de/webagentur-graz/": {
+  "file": "de-webagentur-graz",
+  "alt": "Website-Mockup für ein Hotel in Graz: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für ein Hotel in Graz.",
+  "lang": "de"
+ },
+ "/de/webagentur-hamburg/": {
+  "file": "de-webagentur-hamburg",
+  "alt": "Website-Mockup für einen Onlineshop in Hamburg: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für einen Onlineshop in Hamburg.",
+  "lang": "de"
+ },
+ "/de/webagentur-kaernten/": {
+  "file": "de-webagentur-kaernten",
+  "alt": "Website-Mockup für einen Elektrobetrieb in Kärnten: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für einen Elektrobetrieb in Kärnten.",
+  "lang": "de"
+ },
+ "/de/webagentur-muenchen/": {
+  "file": "de-webagentur-muenchen",
+  "alt": "Website-Mockup für eine Schreinerei in München: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für eine Schreinerei in München.",
+  "lang": "de"
+ },
+ "/de/webagentur-oesterreich/": {
+  "file": "de-webagentur-oesterreich",
+  "alt": "Website-Mockup für eine Zahnarztpraxis in Österreich: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für eine Zahnarztpraxis in Österreich.",
+  "lang": "de"
+ },
+ "/de/webagentur-schweiz/": {
+  "file": "de-webagentur-schweiz",
+  "alt": "Website-Mockup für eine Steuerkanzlei in Schweiz: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für eine Steuerkanzlei in Schweiz.",
+  "lang": "de"
+ },
+ "/de/webagentur-suedtirol/": {
+  "file": "de-webagentur-suedtirol",
+  "alt": "Website-Mockup für ein Hotel in Südtirol: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für ein Hotel in Südtirol.",
+  "lang": "de"
+ },
+ "/de/webagentur-wien/": {
+  "file": "de-webagentur-wien",
+  "alt": "Website-Mockup für einen Onlineshop in Wien: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für einen Onlineshop in Wien.",
+  "lang": "de"
+ },
+ "/de/webagentur-zuerich/": {
+  "file": "de-webagentur-zuerich",
+  "alt": "Website-Mockup für einen Elektrobetrieb in Zürich: Startseite mit Terminanfrage, Leistungen und Mobilversion",
+  "cap": "Illustratives Mockup: Website für einen Elektrobetrieb in Zürich.",
+  "lang": "de"
+ },
+ "/fr/agence-web-bruxelles/": {
+  "file": "fr-agence-web-bruxelles",
+  "alt": "Maquette de site web pour un bistrot à Bruxelles : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour un bistrot à Bruxelles.",
+  "lang": "fr"
+ },
+ "/fr/agence-web-geneve/": {
+  "file": "fr-agence-web-geneve",
+  "alt": "Maquette de site web pour un cabinet d’avocats à Genève : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour un cabinet d’avocats à Genève.",
+  "lang": "fr"
+ },
+ "/fr/agence-web-lyon/": {
+  "file": "fr-agence-web-lyon",
+  "alt": "Maquette de site web pour un artisan menuisier à Lyon : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour un artisan menuisier à Lyon.",
+  "lang": "fr"
+ },
+ "/fr/agence-web-marseille/": {
+  "file": "fr-agence-web-marseille",
+  "alt": "Maquette de site web pour un hôtel à Marseille : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour un hôtel à Marseille.",
+  "lang": "fr"
+ },
+ "/fr/agence-web-paris/": {
+  "file": "fr-agence-web-paris",
+  "alt": "Maquette de site web pour une boutique en ligne à Paris : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour une boutique en ligne à Paris.",
+  "lang": "fr"
+ },
+ "/fr/creation-site-internet-belgique/": {
+  "file": "fr-creation-site-internet-belgique",
+  "alt": "Maquette de site web pour un bistrot à Belgique : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour un bistrot à Belgique.",
+  "lang": "fr"
+ },
+ "/fr/creation-site-internet-france/": {
+  "file": "fr-creation-site-internet-france",
+  "alt": "Maquette de site web pour un cabinet d’avocats à France : page d’accueil avec réservation ou devis, services et version mobile",
+  "cap": "Maquette illustrative : site web pour un cabinet d’avocats à France.",
+  "lang": "fr"
+ },
+ "/en/seo-company-usa/": {
+  "file": "en-seo-company-usa",
+  "alt": "Mockup of an SEO report for a US business: clicks and calls from Google search, top pages and keyword positions",
+  "cap": "Illustrative mockup: SEO measured in calls and leads, not just rankings.",
+  "lang": "en-US"
+ },
+ "/de/seo-agentur-berlin/": {
+  "file": "de-seo-agentur-berlin",
+  "alt": "Mockup eines SEO-Berichts für ein Unternehmen in Berlin: lokale Suchanfragen auf Seite 1, Klicks und Anfragen",
+  "cap": "Illustratives Mockup: lokale SEO-Ergebnisse für ein Unternehmen in Berlin.",
+  "lang": "de"
+ },
+ "/de/seo-agentur-muenchen/": {
+  "file": "de-seo-agentur-muenchen",
+  "alt": "Mockup eines SEO-Berichts für ein Unternehmen in München: lokale Suchanfragen auf Seite 1, Klicks und Anfragen",
+  "cap": "Illustratives Mockup: lokale SEO-Ergebnisse für ein Unternehmen in München.",
+  "lang": "de"
+ },
+ "/de/seo-agentur-wien/": {
+  "file": "de-seo-agentur-wien",
+  "alt": "Mockup eines SEO-Berichts für ein Unternehmen in Wien: lokale Suchanfragen auf Seite 1, Klicks und Anfragen",
+  "cap": "Illustratives Mockup: lokale SEO-Ergebnisse für ein Unternehmen in Wien.",
+  "lang": "de"
+ },
+ "/fr/agence-seo-bordeaux/": {
+  "file": "fr-agence-seo-bordeaux",
+  "alt": "Maquette de rapport SEO pour une entreprise (Bordeaux) : requêtes en première page, clics et demandes de contact",
+  "cap": "Maquette illustrative : résultats SEO mesurés en demandes de contact (Bordeaux).",
+  "lang": "fr"
+ },
+ "/fr/agence-seo-france/": {
+  "file": "fr-agence-seo-france",
+  "alt": "Maquette de rapport SEO pour une entreprise (France) : requêtes en première page, clics et demandes de contact",
+  "cap": "Maquette illustrative : résultats SEO mesurés en demandes de contact (France).",
+  "lang": "fr"
+ },
+ "/es/agencia-seo-espana/": {
+  "file": "es-agencia-seo-espana",
+  "alt": "Maqueta de informe SEO para una empresa (España): búsquedas en primera página, clics y contactos",
+  "cap": "Maqueta ilustrativa: resultados SEO medidos en contactos (España).",
+  "lang": "es"
+ },
+ "/es/agencia-seo-valencia/": {
+  "file": "es-agencia-seo-valencia",
+  "alt": "Maqueta de informe SEO para una empresa (Valencia): búsquedas en primera página, clics y contactos",
+  "cap": "Maqueta ilustrativa: resultados SEO medidos en contactos (Valencia).",
+  "lang": "es"
+ },
+ "/en/construction-management-software/": {
+  "file": "en-construction-management-software",
+  "alt": "Mockup of construction management software with jobs, crews, change orders and job costing",
+  "cap": "Illustrative mockup: construction software with jobs, crews, change orders and job costing.",
+  "lang": "en-US"
+ },
+ "/en/manufacturing-software-development/": {
+  "file": "en-manufacturing-software-development",
+  "alt": "Mockup of manufacturing software with work orders, work centers and costs",
+  "cap": "Illustrative mockup: manufacturing software with work orders, work centers and costs.",
+  "lang": "en-US"
+ },
+ "/en/mes-software-development/": {
+  "file": "en-mes-software-development",
+  "alt": "Mockup of MES software with live machine status, OEE and downtime",
+  "cap": "Illustrative mockup: MES with live machine status, OEE and downtime.",
+  "lang": "en-US"
+ },
+ "/en/property-management-software-development/": {
+  "file": "en-property-management-software-development",
+  "alt": "Mockup of property management software with units, rent and maintenance",
+  "cap": "Illustrative mockup: property management software with units, rent and maintenance.",
+  "lang": "en-US"
+ },
+ "/en/trucking-logistics-software-development/": {
+  "file": "en-trucking-logistics-software-development",
+  "alt": "Mockup of trucking and logistics software with loads, drivers and PODs",
+  "cap": "Illustrative mockup: dispatch software with loads, drivers and PODs.",
+  "lang": "en-US"
+ },
+ "/en/custom-crm-development/": {
+  "file": "en-custom-crm-development",
+  "alt": "Mockup of custom CRM with pipeline, web leads and tasks",
+  "cap": "Illustrative mockup: custom CRM with pipeline, web leads and tasks.",
+  "lang": "en-US"
+ },
+ "/en/custom-erp-crm-development-usa/": {
+  "file": "en-custom-erp-crm-development-usa",
+  "alt": "Mockup of custom ERP dashboard with sales, purchasing, inventory and accounting",
+  "cap": "Illustrative mockup: custom ERP with sales, purchasing, inventory and accounting.",
+  "lang": "en-US"
+ },
+ "/en/web-app-development-company/": {
+  "file": "en-web-app-development-company",
+  "alt": "Mockup of custom web app: custom web app for booking rooms and equipment across offices",
+  "cap": "Illustrative mockup: custom web app for booking rooms and equipment across offices.",
+  "lang": "en-US"
+ },
+ "/en/hire-app-developers/": {
+  "file": "en-hire-app-developers",
+  "alt": "Mockup of software project board: how we run a custom software project: tasks, releases and budget in plain view",
+  "cap": "Illustrative mockup: how we run a custom software project: tasks, releases and budget in plain view.",
+  "lang": "en-US"
+ },
+ "/en/outsourcing-software-development-to-europe/": {
+  "file": "en-outsourcing-software-development-to-europe",
+  "alt": "Mockup of software project board: how we run a custom software project: tasks, releases and budget in plain view",
+  "cap": "Illustrative mockup: how we run a custom software project: tasks, releases and budget in plain view.",
+  "lang": "en-US"
+ },
+ "/en/software-development-company-usa/": {
+  "file": "en-software-development-company-usa",
+  "alt": "Mockup of custom ERP dashboard with sales, purchasing, inventory and accounting",
+  "cap": "Illustrative mockup: custom ERP with sales, purchasing, inventory and accounting.",
+  "lang": "en-US"
+ },
+ "/en/software-development-company-uk/": {
+  "file": "en-software-development-company-uk",
+  "alt": "Mockup of custom CRM with pipeline, web leads and tasks",
+  "cap": "Illustrative mockup: custom CRM with pipeline, web leads and tasks.",
+  "lang": "en"
+ },
+ "/en/software-development-italy/": {
+  "file": "en-software-development-italy",
+  "alt": "Mockup of software project board: how we run a custom software project: tasks, releases and budget in plain view",
+  "cap": "Illustrative mockup: how we run a custom software project: tasks, releases and budget in plain view.",
+  "lang": "en"
+ },
+ "/en/software-development-atlanta/": {
+  "file": "en-software-development-atlanta",
+  "alt": "Mockup of field service software for a Atlanta company with tickets, SLAs and signed reports",
+  "cap": "Illustrative mockup: field service software with tickets, SLAs and signed reports.",
+  "lang": "en-US"
+ },
+ "/en/software-development-austin/": {
+  "file": "en-software-development-austin",
+  "alt": "Mockup of construction management software for a Austin company with jobs, crews, change orders and job costing",
+  "cap": "Illustrative mockup: construction software with jobs, crews, change orders and job costing.",
+  "lang": "en-US"
+ },
+ "/en/software-development-chicago/": {
+  "file": "en-software-development-chicago",
+  "alt": "Mockup of trucking and logistics software for a Chicago company with loads, drivers and PODs",
+  "cap": "Illustrative mockup: dispatch software with loads, drivers and PODs.",
+  "lang": "en-US"
+ },
+ "/en/software-development-dallas/": {
+  "file": "en-software-development-dallas",
+  "alt": "Mockup of property management software for a Dallas company with units, rent and maintenance",
+  "cap": "Illustrative mockup: property management software with units, rent and maintenance.",
+  "lang": "en-US"
+ },
+ "/en/software-development-denver/": {
+  "file": "en-software-development-denver",
+  "alt": "Mockup of manufacturing software for a Denver company with work orders, work centers and costs",
+  "cap": "Illustrative mockup: manufacturing software with work orders, work centers and costs.",
+  "lang": "en-US"
+ },
+ "/en/software-development-houston/": {
+  "file": "en-software-development-houston",
+  "alt": "Mockup of custom CRM for a Houston company with pipeline, web leads and tasks",
+  "cap": "Illustrative mockup: custom CRM with pipeline, web leads and tasks.",
+  "lang": "en-US"
+ },
+ "/en/software-development-los-angeles/": {
+  "file": "en-software-development-los-angeles",
+  "alt": "Mockup of custom web app for a Los Angeles company: custom web app for booking rooms and equipment across offices",
+  "cap": "Illustrative mockup: custom web app for booking rooms and equipment across offices.",
+  "lang": "en-US"
+ },
+ "/en/software-development-miami/": {
+  "file": "en-software-development-miami",
+  "alt": "Mockup of MES software for a Miami company with live machine status, OEE and downtime",
+  "cap": "Illustrative mockup: MES with live machine status, OEE and downtime.",
+  "lang": "en-US"
+ },
+ "/en/software-development-new-york/": {
+  "file": "en-software-development-new-york",
+  "alt": "Mockup of custom ERP dashboard for a New York company with sales, purchasing, inventory and accounting",
+  "cap": "Illustrative mockup: custom ERP with sales, purchasing, inventory and accounting.",
+  "lang": "en-US"
+ },
+ "/en/software-development-orlando/": {
+  "file": "en-software-development-orlando",
+  "alt": "Mockup of field service software for a Orlando company with tickets, SLAs and signed reports",
+  "cap": "Illustrative mockup: field service software with tickets, SLAs and signed reports.",
+  "lang": "en-US"
+ },
+ "/en/software-development-san-francisco/": {
+  "file": "en-software-development-san-francisco",
+  "alt": "Mockup of construction management software for a San Francisco company with jobs, crews, change orders and job costing",
+  "cap": "Illustrative mockup: construction software with jobs, crews, change orders and job costing.",
+  "lang": "en-US"
+ },
+ "/de/individualsoftware-deutschland/": {
+  "file": "de-individualsoftware-deutschland",
+  "alt": "Mockup einer individuellen Warenwirtschaft für ein Unternehmen in Deutschland: Bestände nach Lagerplatz, Mindestbestände, Aufträge und Lagerbewegungen",
+  "cap": "Illustratives Mockup: individuelle Warenwirtschaft für ein Unternehmen in Deutschland.",
+  "lang": "de"
+ },
+ "/de/individualsoftware-oesterreich/": {
+  "file": "de-individualsoftware-oesterreich",
+  "alt": "Mockup einer individuellen Warenwirtschaft für ein Unternehmen in Österreich: Bestände nach Lagerplatz, Mindestbestände, Aufträge und Lagerbewegungen",
+  "cap": "Illustratives Mockup: individuelle Warenwirtschaft für ein Unternehmen in Österreich.",
+  "lang": "de"
+ },
+ "/de/softwareentwicklung-schweiz/": {
+  "file": "de-softwareentwicklung-schweiz",
+  "alt": "Mockup einer individuellen Warenwirtschaft für ein Unternehmen in Schweiz: Bestände nach Lagerplatz, Mindestbestände, Aufträge und Lagerbewegungen",
+  "cap": "Illustratives Mockup: individuelle Warenwirtschaft für ein Unternehmen in Schweiz.",
+  "lang": "de"
+ },
+ "/fr/logiciel-sur-mesure-france/": {
+  "file": "fr-logiciel-sur-mesure-france",
+  "alt": "Maquette de logiciel de gestion sur mesure pour la production : ordres de fabrication, charge des ateliers, livraisons à l’heure et coûts",
+  "cap": "Maquette illustrative : logiciel de gestion sur mesure pour une PME industrielle française.",
+  "lang": "fr"
+ },
+ "/es/software-a-medida-espana/": {
+  "file": "es-software-a-medida-espana",
+  "alt": "Maqueta de software de gestión a medida para una pyme española: ventas, pedidos por servir, almacén, cobros vencidos y facturación mensual",
+  "cap": "Maqueta ilustrativa: software de gestión a medida con ventas, compras, almacén y contabilidad en un solo panel.",
+  "lang": "es"
+ },
+ "/en/field-service-app-development/": {
+  "file": "en-field-service-app-development",
+  "alt": "Mockup of a field service app: today’s jobs, job report with photos and customer signature, synced with the office",
+  "cap": "Illustrative mockup: field service app with jobs, reports, photos and signatures.",
+  "lang": "en-US"
+ },
+ "/en/gym-fitness-app-development/": {
+  "file": "en-gym-fitness-app-development",
+  "alt": "Mockup of a gym and fitness app: workout of the day, class booking with waitlist and member progress",
+  "cap": "Illustrative mockup: gym app with workouts, class booking and progress tracking.",
+  "lang": "en-US"
+ },
+ "/en/mobile-app-development-company-usa/": {
+  "file": "en-mobile-app-development-company-usa",
+  "alt": "Mockup of a customer loyalty app: digital card with QR code, personalized offers and rewards catalog",
+  "cap": "Illustrative mockup: loyalty app with digital card, offers and rewards.",
+  "lang": "en-US"
+ },
+ "/en/mobile-app-development-company-uk/": {
+  "file": "en-mobile-app-development-company-uk",
+  "alt": "Mockup of a booking app for a UK business: daily diary, time slot picker and confirmation with deposit",
+  "cap": "Illustrative mockup: booking app with diary, time slots, reminders and deposits.",
+  "lang": "en"
+ },
+ "/en/mvp-development-for-startups/": {
+  "file": "en-mvp-development-for-startups",
+  "alt": "Mockup of a startup MVP marketplace app: item discovery, listing creation and early traction metrics",
+  "cap": "Illustrative mockup: MVP built in weeks to test the idea with real users.",
+  "lang": "en-US"
+ },
+ "/en/united-states/": {
+  "file": "en-united-states",
+  "alt": "Mockup of connected services for US businesses: campaigns, website, SEO, CRM, ERP and app sharing data",
+  "cap": "Illustrative mockup: websites, apps and software for US businesses, connected end to end.",
+  "lang": "en-US"
+ },
+ "/es/estados-unidos/": {
+  "file": "es-estados-unidos",
+  "alt": "Maqueta de servicios conectados para empresas en Estados Unidos: campañas, web, SEO, CRM, ERP y app",
+  "cap": "Maqueta ilustrativa: webs, apps y software para empresas en Estados Unidos, todo conectado.",
+  "lang": "es-US"
+ },
+ "/en/api-integration-services/": {
+  "file": "en-api-integration-services",
+  "alt": "Mockup of an API integration flow: web forms, HubSpot, Salesforce, ERP and QuickBooks syncing data automatically",
+  "cap": "Illustrative mockup: API integrations so every system shares the same data.",
+  "lang": "en-US"
+ },
+ "/en/business-process-automation/": {
+  "file": "en-business-process-automation",
+  "alt": "Mockup of a business process automation: customer email to quote in the ERP, with human approval and follow-up",
+  "cap": "Illustrative mockup: automation with a human approval at the right step.",
+  "lang": "en-US"
+ },
+ "/en/how-much-does-an-app-cost/": {
+  "file": "en-how-much-does-an-app-cost",
+  "alt": "Mockup of an app cost guide card: budget breakdown, what to decide first and app types compared",
+  "cap": "Illustrative mockup: what drives the cost of building an app.",
+  "lang": "en-US"
+ },
+ "/en/how-much-does-custom-software-cost/": {
+  "file": "en-how-much-does-custom-software-cost",
+  "alt": "Mockup of a custom software cost guide card: budget breakdown, first module timeline and off-the-shelf vs custom",
+  "cap": "Illustrative mockup: what drives the cost of custom software.",
+  "lang": "en-US"
+ },
+ "/en/ada-website-audit/": {
+  "file": "en-ada-website-audit",
+  "alt": "Mockup of an ADA website audit summary: checks performed, most common issues and remediation steps against WCAG",
+  "cap": "Illustrative mockup: what an accessibility audit checks and delivers.",
+  "lang": "en-US"
+ },
+ "/en/ada-website-compliance/": {
+  "file": "en-ada-website-compliance",
+  "alt": "Mockup of an ADA compliance guide card: first steps, where the effort goes and who does what",
+  "cap": "Illustrative mockup: practical steps toward an accessible website.",
+  "lang": "en-US"
+ },
+ "/en/website-privacy-laws-us-states/": {
+  "file": "en-website-privacy-laws-us-states",
+  "alt": "Mockup of a website privacy checklist for US states: what to check on the site, common gaps and what to verify per state",
+  "cap": "Illustrative mockup: privacy checklist for websites operating across US states.",
+  "lang": "en-US"
+ },
+ "/gestionale-ristorante/": {
+  "file": "gestionale-ristorante",
+  "alt": "Mockup di gestionale per ristoranti: food cost per piatto, coperti per giorno, magazzino sotto scorta e prenotazioni",
+  "cap": "Mockup illustrativo: gestionale per ristoranti con comande, prenotazioni, magazzino e food cost.",
+  "lang": "it"
+ },
+ "/gestionale-hotel/": {
+  "file": "gestionale-hotel",
+  "alt": "Mockup di gestionale per hotel: planning camere, arrivi con check-in online, prenotazioni per canale e housekeeping",
+  "cap": "Mockup illustrativo: gestionale per hotel con planning, prenotazioni dirette, check-in online e housekeeping.",
+  "lang": "it"
+ },
+ "/gestionale-negozio/": {
+  "file": "gestionale-negozio",
+  "alt": "Mockup di gestionale per negozi di abbigliamento: magazzino per taglia e colore, vendite in negozio e online, riassortimento",
+  "cap": "Mockup illustrativo: gestionale per negozi con cassa, taglie e colori, riassortimento ed e-commerce sincronizzato.",
+  "lang": "it"
+ },
+ "/gestionale-parrucchieri-centri-estetici/": {
+  "file": "gestionale-parrucchieri-centri-estetici",
+  "alt": "Mockup di gestionale per parrucchieri e centri estetici: agenda per operatrice, scheda cliente con colore e pacchetti, clienti da richiamare",
+  "cap": "Mockup illustrativo: gestionale per saloni con agenda, schede cliente, pacchetti e richiami.",
+  "lang": "it"
+ },
+ "/gestionale-studio-dentistico/": {
+  "file": "gestionale-studio-dentistico",
+  "alt": "Mockup di gestionale per studio dentistico: agenda per poltrona, richiami di igiene, preventivi e rate, prestazioni della settimana",
+  "cap": "Mockup illustrativo: gestionale per studi dentistici con agenda, richiami, preventivi e rate. I dati dei pazienti sono inventati.",
+  "lang": "it"
+ },
+ "/gestionale-agenzia-immobiliare/": {
+  "file": "gestionale-agenzia-immobiliare",
+  "alt": "Mockup di gestionale per agenzie immobiliari: incroci automatici fra immobili e richieste, visite, incarichi e annunci",
+  "cap": "Mockup illustrativo: gestionale immobiliare con immobili, richieste, incroci, visite e annunci.",
+  "lang": "it"
+ },
+ "/gestionale-autonoleggio/": {
+  "file": "gestionale-autonoleggio",
+  "alt": "Mockup di gestionale per autonoleggio: ritiri e riconsegne, utilizzo della flotta per categoria, danni con foto e scadenze dei veicoli",
+  "cap": "Mockup illustrativo: gestionale per autonoleggio e NCC con planning, contratti, danni e scadenze.",
+  "lang": "it"
+ },
+ "/seo-locale/": {
+  "file": "seo-locale",
+  "alt": "Mockup di report di SEO locale: chiamate dalla scheda Google, indicazioni stradali, presenza nel pacchetto locale per zona e posizioni",
+  "cap": "Mockup illustrativo: SEO locale misurata in chiamate e indicazioni stradali, zona per zona.",
+  "lang": "it"
+ },
+ "/whatsapp-aziendale/": {
+  "file": "whatsapp-aziendale",
+  "alt": "Mockup di WhatsApp aziendale collegato a gestionale e CRM: richiesta del cliente, disponibilità in tempo reale e ordine creato dalla chat",
+  "cap": "Mockup illustrativo: WhatsApp aziendale collegato a magazzino e CRM: la chat diventa un ordine.",
+  "lang": "it"
+ },
+ "/marketing-per-pmi/": {
+  "file": "marketing-per-pmi",
+  "alt": "Mockup di report di web marketing per PMI: budget per canale, contatti organici e a pagamento, costo per cliente nuovo",
+  "cap": "Mockup illustrativo: piano di marketing per PMI misurato in costo per cliente nuovo.",
+  "lang": "it"
+ },
+ "/guide/cos-e-un-crm/": {
+  "file": "guide-cos-e-un-crm",
+  "alt": "Mockup di scheda riassuntiva su cos’è un CRM: quando serve, cosa fa e come avanza una trattativa",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Cos’è un CRM”.",
+  "lang": "it"
+ },
+ "/guide/cos-e-un-gestionale/": {
+  "file": "guide-cos-e-un-gestionale",
+  "alt": "Mockup di scheda riassuntiva su cos’è un gestionale: moduli, segnali che serve e percorso di un ordine",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Cos’è un gestionale”.",
+  "lang": "it"
+ },
+ "/guide/gestione-magazzino-con-excel/": {
+  "file": "guide-gestione-magazzino-con-excel",
+  "alt": "Mockup di magazzino gestito con Excel: fogli articoli, movimenti e giacenze calcolate, con i limiti tipici di un file condiviso",
+  "cap": "Mockup illustrativo: il magazzino in Excel impostato bene, con i suoi limiti. I dati sono di esempio.",
+  "lang": "it"
+ },
+ "/guide/come-inserire-attivita-su-google-maps/": {
+  "file": "guide-come-inserire-attivita-su-google-maps",
+  "alt": "Mockup di scheda riassuntiva su come inserire un’attività su Google Maps: passaggi, cosa completare ed errori da evitare",
+  "cap": "Mockup illustrativo: scheda riassuntiva della guida “Come inserire un’attività su Google Maps”.",
+  "lang": "it"
+ },
+ "/guide/come-andare-in-prima-pagina-su-google/": {
+  "file": "guide-come-andare-in-prima-pagina-su-google",
+  "alt": "Mockup di report sul posizionamento: ricerche specifiche arrivate in prima pagina, clic e richieste, mentre le ricerche generiche restano lontane",
+  "cap": "Mockup illustrativo: perché si arriva in prima pagina con le ricerche giuste, non con quelle generiche.",
+  "lang": "it"
+ }
+}

@@ -26,3 +26,13 @@ for s in citta_extra.C:
     a = open(fn, encoding='utf-8').read(); b = citta_extra.inject(a, p)
     if b != a: open(fn, 'w', encoding='utf-8').write(b); n += 1
 print('pagine citta con logistica:', n)
+
+# approfondimenti nelle pagine fiere piu' brevi
+import fiere_extra
+k = 0
+for p in fiere_extra.X:
+    fn = os.path.join(R, p.strip('/'), 'index.html')
+    if not os.path.exists(fn): continue
+    x = open(fn, encoding='utf-8').read(); y = fiere_extra.inject(x, p)
+    if y != x: open(fn, 'w', encoding='utf-8').write(y); k += 1
+print('pagine fiere con approfondimento:', k)
