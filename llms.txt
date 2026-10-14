@@ -45,7 +45,7 @@ danova-tech.com.
   https://danova-tech.com/servizi/allestimenti-fieristici/
 - **Siti web ed e-commerce su misura** — siti vetrina, landing page e negozi
   online costruiti su misura, non su template. Prezzo fisso dopo la prima call,
-  online in 2-8 settimane. https://danova-tech.com/servizi/siti-web-ecommerce/
+  online in 1-2 settimane, demo in 24 ore. https://danova-tech.com/servizi/siti-web-ecommerce/
 - **SEO e posizionamento** — audit tecnico, keyword research, contenuti e SEO
   locale, con report mensili leggibili. https://danova-tech.com/servizi/seo/
 - **Google Ads** — campagne sulla rete di ricerca, Performance Max e
@@ -931,3 +931,17 @@ degli utenti.
 - Gestione magazzino con Excel: https://danova-tech.com/guide/gestione-magazzino-con-excel/
 - Come inserire l’attività su Google Maps: https://danova-tech.com/guide/come-inserire-attivita-su-google-maps/
 - Come andare in prima pagina su Google: https://danova-tech.com/guide/come-andare-in-prima-pagina-su-google/
+
+## Aggiunte del 14 ottobre 2026
+
+- Gestionali su misura a Milano (uffici a Vermezzo con Zelo): https://danova-tech.com/gestionali-su-misura-milano/
+- Realizzazione siti web a Milano: https://danova-tech.com/realizzazione-siti-web-milano/
+- Gestionali su misura a Pavia e in Lomellina (sede a Trumello): https://danova-tech.com/gestionali-su-misura-pavia/
+- Realizzazione siti web a Pavia e Vigevano: https://danova-tech.com/realizzazione-siti-web-pavia/
+- Consulente SEO a Verona: https://danova-tech.com/consulente-seo-verona/
+- Gestionale per studi legali: https://danova-tech.com/gestionale-studio-legale/
+- Intelligenza artificiale per avvocati e studi legali: https://danova-tech.com/intelligenza-artificiale-per-avvocati/
+- Consulenza sull'intelligenza artificiale per aziende: https://danova-tech.com/consulenza-intelligenza-artificiale/
+- Gestionale per studi medici e poliambulatori: https://danova-tech.com/gestionale-studio-medico/
+
+Tempi: demo funzionante in meno di 24 ore e consegna in 1-2 settimane per siti, gestionali e app; per gli stand, preventivo in meno di 24 ore. Assistenza e manutenzione con contratto.

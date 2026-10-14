@@ -251,6 +251,7 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
     from immagini import inject  # render stand sotto l'hero, og:image e ImageObject (13/10/2026)
     s=inject(s,path)
     import citta_extra; s=citta_extra.inject(s,path)  # logistica da Mansue' nelle pagine citta'
+    import citta_locale; s=citta_locale.inject(s,path)  # 14/10/2026: cosa cambia sul posto, per citta'
     import fiere_extra; s=fiere_extra.inject(s,path)  # esempi e preventivo nelle pagine brevi (13/10/2026)
     import legno; s=legno.inject(s,path,lang)  # 14/10/2026: elementi in legno prodotti da noi
     out=os.path.join(R,path.strip('/'),'index.html'); os.makedirs(os.path.dirname(out),exist_ok=True)

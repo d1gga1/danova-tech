@@ -300,7 +300,7 @@ PAGINE.append({
 # ============================================================ WHATSAPP AZIENDALE
 PAGINE.append({
  "lang":"it", "url":"/whatsapp-aziendale/",
- "title":"WhatsApp aziendale: collegato a CRM e gestionale | Danova Tech",
+ "title":"Chatbot WhatsApp e WhatsApp aziendale con CRM | Danova Tech",
  "desc":"WhatsApp aziendale per PMI: numero condiviso dal team, risposte rapide, messaggi automatici di conferma e promemoria, collegamento al CRM e al gestionale.",
  "ogtitle":"WhatsApp aziendale — Danova Tech",
  "ogdesc":"I clienti vi scrivono già su WhatsApp. Facciamo in modo che i messaggi arrivino alla persona giusta e finiscano nel CRM.",

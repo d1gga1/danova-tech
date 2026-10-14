@@ -587,7 +587,7 @@ PAGINE.append({
           ("Prix d&#8217;un site internet","/fr/prix-creation-site-internet/"),
           ("Tarifs","/fr/tarifs/")],
  "svc":{"name":"Agence web pour Marseille","type":"Création de sites internet, e-commerce et logiciels sur mesure",
-        "desc":"Sites vitrines, boutiques en ligne, espaces clients et logiciels métier pour les entreprises de Marseille et de la région Provence-Alpes-Côte d'Azur. Devis à prix fermé, mise en ligne en 2 à 8 semaines, domaine et code source au nom du client.",
+        "desc":"Sites vitrines, boutiques en ligne, espaces clients et logiciels métier pour les entreprises de Marseille et de la région Provence-Alpes-Côte d'Azur. Devis à prix fermé, mise en ligne en 1 à 2 semaines, démo en 24 heures, domaine et code source au nom du client.",
         "area":FR_MRS,"lingue":["French","Italian","English"],
         "catalogo":["Site vitrine d'entreprise","Boutique en ligne","Espace client et extranet","Logiciel métier sur mesure","Refonte de site","Référencement naturel"]},
 })
@@ -743,7 +743,7 @@ PAGINE.append({
 PAGINE.append({
  "lang":"es", "url":"/es/diseno-web-sevilla/",
  "title":"Diseño web para empresas de Sevilla | Danova Tech",
- "desc":"Webs, tiendas online y software a medida para empresas sevillanas: precio cerrado, online en 2-8 semanas, dominio y código a vuestro nombre.",
+ "desc":"Webs, tiendas online y software a medida para empresas sevillanas: precio cerrado, online en 1-2 semanas, demo en 24 horas, dominio y código a vuestro nombre.",
  "ogtitle":"Diseño web Sevilla — Danova Tech",
  "ogdesc":"Webs corporativas, tiendas online y programas de gestión para empresas de Sevilla y Andalucía. Presupuesto cerrado, sin permanencia obligatoria.",
  "crumbs":[("Servicios","/es/servicios/"),("Sevilla",None)],
@@ -815,7 +815,7 @@ PAGINE.append({
 PAGINE.append({
  "lang":"en", "url":"/en/web-design-agency-london/",
  "title":"Web design agency for London businesses | Danova Tech",
- "desc":"Websites, e-commerce and custom software for London companies: fixed price agreed upfront, live in 2-8 weeks, domain and source code in your name.",
+ "desc":"Websites, e-commerce and custom software for London companies: fixed price agreed upfront, live in 1-2 weeks, demo within 24 hours, domain and source code in your name.",
  "ogtitle":"Web design agency for London — Danova Tech",
  "ogdesc":"Websites, online shops and business software for London companies, built by a small EU team at a fixed price. You own the domain and the code.",
  "crumbs":[("Services","/en/services/"),("London",None)],

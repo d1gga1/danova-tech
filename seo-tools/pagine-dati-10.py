@@ -1,0 +1,180 @@
+# -*- coding: utf-8 -*-
+"""14/10/2026 (decimo giro): pagine da ricerche Keyword Planner scoperte (consulente SEO Verona, gestionale studi legali,
+   AI per avvocati, consulenza AI, gestionale studi medici). Demo in 24 ore, consegna 1-2 settimane, assistenza con contratto.
+   Uso: python3 seo-tools/pagine-build-2.py pagine-dati-10.py"""
+OGGI = "2026-10-14"
+G = '<span class="grad">'; _G = '</span>'
+LG = ["Italian","English","German"]
+IT = [{"@type":"Country","name":"Italia"}]
+GEST = ("Gestionali e CRM", "/servizi/gestionali-crm/")
+AUT = ("Software e automazioni", "/servizi/software-automazioni/")
+SEO = ("SEO e Google", "/consulente-seo/")
+def svc(name, typ, desc, cat, area=IT): return {"name": name, "type": typ, "desc": desc, "area": area, "lingue": LG, "catalogo": cat}
+CTA_G = {"h2": "Ci raccontate come lavora lo studio?", "p": "Mezz'ora in videochiamata: capiamo dove perdete tempo e in meno di 24 ore vi mostriamo una demo funzionante.", "btn": "Prenota la chiamata"}
+CTA_AI = {"h2": "Da dove partiamo con l'AI?", "p": "Mezz'ora per capire quali attività ripetitive si possono automatizzare: in meno di 24 ore vi mostriamo un prototipo sul vostro caso.", "btn": "Prenota la chiamata"}
+FAQ_T = [("Quanto tempo serve?","Una demo funzionante arriva in meno di 24 ore e la prima versione in 1-2 settimane; poi si cresce a fasi, un modulo alla volta."),
+ ("Chi ci segue dopo la consegna?","Noi, con un contratto di assistenza e manutenzione: aggiornamenti, backup, correzioni e nuove funzioni, con un referente unico.")]
+PAGINE = []
+
+PAGINE.append({
+ "lang":"it","url":"/consulente-seo-verona/",
+ "title":"Consulente SEO a Verona: posizionamento su Google",
+ "desc":"Consulente SEO per aziende di Verona e provincia: SEO tecnica, contenuti, scheda Google e pagine locali. Analisi iniziale e piano scritto, senza promesse vuote.",
+ "ogtitle":"Consulente SEO a Verona — Danova Tech","ogdesc":"SEO tecnica, contenuti e SEO locale per le aziende veronesi.",
+ "crumbs":[SEO,("Consulente SEO a Verona",None)],"eyebrow":"SEO · Verona",
+ "h1":f"Consulente SEO a Verona: {G}più clienti da Google, misurati.{_G}",
+ "lead":"Posizionamento su Google per aziende di Verona e provincia: sistemiamo la parte tecnica del sito, scriviamo le pagine che rispondono alle ricerche dei vostri clienti e curiamo la scheda Google. Ogni mese vi diciamo cosa è cambiato, con i dati di Search Console.",
+ "cta1":"Chiedi l'analisi del sito","cta2":"Cosa facciamo",
+ "sezioni":[
+  {"id":"cosa","tipo":"cards","eyebrow":"Cosa facciamo","h2":f"La SEO che {G}porta richieste{_G}",
+   "corpo":[("SEO tecnica","Velocità, indicizzazione, struttura, dati strutturati, versione mobile: le basi senza cui il resto non funziona."),
+    ("Pagine di servizio","Una pagina per ogni servizio e per ogni ricerca importante, scritta per chi deve scegliere un fornitore."),
+    ("SEO locale","Scheda Google curata, categorie giuste, recensioni e pagine per Verona, il Garda, la Valpolicella e la provincia."),
+    ("Contenuti e guide","Guide che rispondono alle domande dei clienti prima che vi chiamino, e che Google e gli assistenti AI citano."),
+    ("Report mensile","Clic, posizioni e richieste da Google, spiegati in due righe: cosa è migliorato e cosa faremo dopo."),
+    ("Restyling senza perdite","Se rifate il sito, lo spostiamo senza perdere le posizioni conquistate.")]},
+  {"id":"verona","tipo":"testo","eyebrow":"Verona","h2":f"A Verona la SEO è anche {G}turismo, vino e fiere{_G}",
+   "corpo":["Le ricerche dei veronesi e di chi arriva a Verona sono molto diverse: chi cerca un'azienda meccanica in provincia, chi una cantina in Valpolicella, chi un albergo durante Vinitaly, chi un fornitore per il lago di Garda. Una buona strategia SEO parte da qui: capire chi cerca cosa, in che lingua e in che periodo.",
+    "Per molte aziende veronesi conta anche l'estero: pagine in inglese e tedesco, scritte per i clienti stranieri e non tradotte parola per parola, portano richieste che il sito solo in italiano non vedrà mai."]},
+  {"id":"metodo","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dall'analisi {G}ai risultati{_G}",
+   "corpo":[("Analisi del sito","Problemi tecnici, pagine mancanti, concorrenti che vi superano e perché."),("Piano scritto","Cosa facciamo, in che ordine, con quali obiettivi misurabili."),
+    ("Lavoro sul sito","Correzioni tecniche, pagine nuove, scheda Google, collegamenti interni."),("Report e aggiustamenti","Ogni mese guardiamo i dati e correggiamo la rotta.")]}],
+ "faqtitle":f"Le domande {G}sulla SEO a Verona.{_G}",
+ "faq":[("Venite a Verona?","Per il primo incontro sì, volentieri; il lavoro SEO poi si segue benissimo in videochiamata e con i report mensili. La nostra produzione di Fontanelle (TV) è a circa due ore da Verona."),
+  ("In quanto tempo si vedono i risultati?","I primi movimenti in 2-3 mesi, i risultati solidi fra il sesto e il dodicesimo, a seconda della concorrenza. Diffidate da chi promette la prima pagina in 30 giorni."),
+  ("Lavorate anche sul nostro sito attuale?","Sì: non serve rifarlo. Se il sito ha limiti tecnici gravi ve lo diciamo, e solo allora proponiamo un restyling."),
+  ("Fate anche Google Ads?","Sì: la pubblicità dà contatti da subito, la SEO costruisce traffico che non si paga a clic. Spesso conviene partire con entrambe.")],
+ "ctabox":{"h2":"Vediamo come va il vostro sito?","p":"Mandateci l'indirizzo: vi rispondiamo con i tre problemi più importanti e cosa faremmo per primo.","btn":"Chiedi l'analisi"},
+ "altrititle":"Pagine collegate",
+ "altri":[("Consulente SEO","/consulente-seo/"),("Consulente SEO a Treviso","/consulente-seo-treviso/"),("SEO locale","/seo-locale/"),("Siti web a Verona","/realizzazione-siti-web-verona/"),("Posizionamento sito Google","/posizionamento-sito-google/"),("SEO per l'intelligenza artificiale","/seo-per-intelligenza-artificiale/")],
+ "svc":svc("Consulente SEO a Verona","Consulenza SEO","SEO tecnica, contenuti, SEO locale e report mensili per aziende di Verona e provincia.",
+   ["SEO tecnica","SEO locale","Contenuti e guide","Report mensile"],[{"@type":"City","name":"Verona"},{"@type":"AdministrativeArea","name":"Veneto"}])})
+
+PAGINE.append({
+ "lang":"it","url":"/gestionale-studio-legale/",
+ "title":"Gestionale per studi legali e avvocati su misura",
+ "desc":"Gestionale per studio legale su misura: pratiche, scadenze, udienze, ore, parcelle e documenti, da PC e telefono. Demo in 24 ore, prima versione in 1-2 settimane.",
+ "ogtitle":"Gestionale per studi legali — Danova Tech","ogdesc":"Pratiche, scadenze, ore e parcelle in un gestionale costruito sullo studio.",
+ "crumbs":[GEST,("Gestionale per studi legali",None)],"eyebrow":"Studi legali",
+ "h1":f"Gestionale per studi legali: {G}costruito su come lavora lo studio.{_G}",
+ "lead":"Pratiche, scadenze, udienze, ore lavorate, parcelle e documenti in un unico gestionale, pensato per il vostro studio e non per lo studio medio. Si apre da PC, tablet e telefono, e si collega agli strumenti che usate già.",
+ "cta1":"Raccontateci come lavorate","cta2":"Cosa gestisce",
+ "sezioni":[
+  {"id":"cosa","tipo":"cards","eyebrow":"Cosa gestisce","h2":f"Lo studio, {G}in un posto solo{_G}",
+   "corpo":[("Pratiche e fascicoli","Ogni pratica con parti, controparti, atti, documenti e storico, ricercabile in un attimo."),
+    ("Scadenze e udienze","Calendario condiviso con termini, udienze e promemoria automatici, per nessuna scadenza persa."),
+    ("Ore e attività","Registrazione delle ore per pratica e per professionista, dal PC o dal telefono, anche in tribunale."),
+    ("Parcelle e incassi","Preventivi, note pro forma, fatture e solleciti, con lo stato dei pagamenti per cliente."),
+    ("Documenti e modelli","Archivio ordinato, modelli di atti e lettere che si compilano con i dati della pratica."),
+    ("Accessi e riservatezza","Utenti e permessi per ruolo, registro degli accessi, backup e dati ospitati in Europa.")]},
+  {"id":"perche","tipo":"testo","eyebrow":"Perché su misura","h2":f"Ogni studio {G}lavora a modo suo{_G}",
+   "corpo":["Uno studio civilista, uno penalista e uno che segue il recupero crediti hanno flussi di lavoro molto diversi: i programmi standard costringono tutti allo stesso schema, e il resto finisce in fogli Excel e agende di carta.",
+    "Un gestionale su misura parte dal punto che vi fa perdere più tempo, che siano le scadenze, le ore da fatturare o la ricerca dei documenti, e lo mette in uso in 1-2 settimane. Se vi interessa, aggiungiamo funzioni di <a href=\"/intelligenza-artificiale-per-avvocati/\">intelligenza artificiale per lo studio</a>, sempre sotto il vostro controllo."]},
+  {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dalla prima chiamata {G}al gestionale in uso{_G}",
+   "corpo":[("Analisi","Come nasce una pratica, chi fa cosa, dove si perde tempo."),("Demo in 24 ore","Una demo funzionante sul vostro studio."),
+    ("Prima versione in 1-2 settimane","Con i vostri dati importati da Excel e dai programmi esistenti."),("Assistenza con contratto","Aggiornamenti, backup e nuove funzioni.")]}],
+ "faqtitle":f"Le domande {G}degli studi legali.{_G}",
+ "faq":FAQ_T+[("I dati dei clienti sono al sicuro?","Sì: accessi per ruolo, connessioni cifrate, backup automatici e server in Europa. Il trattamento dei dati è impostato secondo il GDPR insieme allo studio."),
+  ("Si collega al processo telematico?","Il gestionale organizza pratiche, atti e scadenze; il deposito telematico resta sul software che usate già. Dove possibile importiamo dati e documenti per non doverli ricopiare."),
+  ("Va bene anche per uno studio piccolo?","Sì: si parte da un modulo, per esempio scadenze e ore, e si aggiunge il resto quando serve.")],
+ "ctabox":CTA_G,"altrititle":"Pagine collegate",
+ "altri":[("Intelligenza artificiale per avvocati","/intelligenza-artificiale-per-avvocati/"),("Siti web per avvocati","/siti-web-per-avvocati/"),("Gestionale personalizzato","/gestionale-personalizzato/"),("Software per studi professionali","/software-gestionale-studi-professionali/"),("Gestione documentale","/gestione-documentale-aziendale/"),("Gestionale per studi medici","/gestionale-studio-medico/")],
+ "svc":svc("Gestionale per studi legali","Sviluppo di software gestionale per studi legali","Gestionale su misura per studi legali: pratiche, scadenze, udienze, ore, parcelle, documenti e permessi.",
+   ["Gestione pratiche","Scadenzario e udienze","Registrazione ore","Parcelle e fatture","Archivio documenti"])})
+
+PAGINE.append({
+ "lang":"it","url":"/intelligenza-artificiale-per-avvocati/",
+ "title":"Intelligenza artificiale per avvocati e studi legali",
+ "desc":"Intelligenza artificiale per studi legali: ricerca nei fascicoli, sintesi di atti, bozze di lettere e classificazione documenti, con dati riservati sotto controllo.",
+ "ogtitle":"Intelligenza artificiale per avvocati — Danova Tech","ogdesc":"Strumenti AI per lo studio legale, riservati e sotto il vostro controllo.",
+ "crumbs":[AUT,("AI per avvocati",None)],"eyebrow":"AI · Studi legali",
+ "h1":f"Intelligenza artificiale per avvocati: {G}meno tempo sulle carte, più sulle pratiche.{_G}",
+ "lead":"L'intelligenza artificiale non sostituisce l'avvocato, ma può togliergli ore di lavoro ripetitivo: cercare nei fascicoli, riassumere atti lunghi, preparare bozze, ordinare documenti. Costruiamo strumenti AI per lo studio, con i dati riservati che restano sotto il vostro controllo.",
+ "cta1":"Parliamone","cta2":"Cosa si può fare",
+ "sezioni":[
+  {"id":"cosa","tipo":"cards","eyebrow":"Cosa si può fare","h2":f"L'AI che serve {G}davvero a uno studio{_G}",
+   "corpo":[("Ricerca nei fascicoli","Domande in linguaggio naturale sui documenti dello studio: trova la clausola, il precedente interno, la lettera giusta."),
+    ("Sintesi di atti e documenti","Riassunti di atti, verbali e contratti lunghi, con il rimando alla pagina da cui viene ogni punto."),
+    ("Bozze di lettere e comunicazioni","Prime bozze di diffide, solleciti e comunicazioni ai clienti, da rivedere e firmare."),
+    ("Classificazione dei documenti","Documenti in arrivo letti, classificati e associati alla pratica giusta."),
+    ("Estrazione dati","Date, importi, parti e scadenze estratti da atti e contratti e caricati nel gestionale."),
+    ("Assistente interno","Un assistente che conosce i modelli e le procedure dello studio, utile anche per i nuovi collaboratori.")]},
+  {"id":"riservatezza","tipo":"testo","eyebrow":"Riservatezza","h2":f"I dati dei clienti {G}non finiscono dove non devono{_G}",
+   "corpo":["Il punto delicato dell'AI in uno studio legale è la riservatezza. Per questo usiamo servizi con garanzie contrattuali sul trattamento dei dati, che non li usano per addestrare i modelli, con server in Europa quando serve, accessi per ruolo e registro delle operazioni.",
+    "Ogni risultato dell'AI è una bozza da verificare: lo strumento indica sempre le fonti, e la decisione resta all'avvocato. Impostiamo il progetto tenendo conto del GDPR e del nuovo <a href=\"/ai-act-aziende/\">AI Act europeo</a>."]},
+  {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dal primo caso {G}allo strumento in uso{_G}",
+   "corpo":[("Un caso concreto","Scegliamo un'attività ripetitiva che vi costa ore ogni settimana."),("Prototipo in 24 ore","Lo provate sui vostri documenti di esempio."),
+    ("In uso in 1-2 settimane","Integrato nel gestionale o negli strumenti dello studio."),("Assistenza con contratto","Aggiornamenti e miglioramenti nel tempo.")]}],
+ "faqtitle":f"Le domande {G}sull'AI per gli studi legali.{_G}",
+ "faq":[("L'AI può sbagliare?","Sì, ed è per questo che ogni risultato è una bozza con le fonti indicate, da verificare. Lo strumento fa risparmiare tempo nella ricerca e nella prima stesura, non prende decisioni."),
+  ("I dati dello studio vengono usati per addestrare l'AI?","No: usiamo servizi che per contratto non usano i dati dei clienti per l'addestramento, con accessi controllati e, se serve, server in Europa."),
+  ("Serve un gestionale nuovo?","No: lo strumento può lavorare sui vostri archivi attuali. Se avete anche bisogno di un gestionale, possiamo costruire entrambi insieme.")]+FAQ_T,
+ "ctabox":CTA_AI,"altrititle":"Pagine collegate",
+ "altri":[("Gestionale per studi legali","/gestionale-studio-legale/"),("Siti web per avvocati","/siti-web-per-avvocati/"),("Consulenza intelligenza artificiale","/consulenza-intelligenza-artificiale/"),("Intelligenza artificiale per aziende","/intelligenza-artificiale-per-aziende/"),("AI Act per le aziende","/ai-act-aziende/"),("Chatbot aziendale","/chatbot-aziendale/")],
+ "svc":svc("Intelligenza artificiale per studi legali","Sviluppo di soluzioni di intelligenza artificiale","Strumenti AI per studi legali: ricerca nei fascicoli, sintesi di atti, bozze, classificazione ed estrazione dati, con riservatezza garantita.",
+   ["Ricerca nei documenti con AI","Sintesi di atti","Bozze assistite","Classificazione documenti","Estrazione dati"])})
+
+PAGINE.append({
+ "lang":"it","url":"/consulenza-intelligenza-artificiale/",
+ "title":"Consulenza intelligenza artificiale per aziende",
+ "desc":"Consulenza sull'intelligenza artificiale per PMI: dove conviene, ChatGPT e Claude in azienda, automazioni, formazione e AI Act. Prototipo in 24 ore.",
+ "ogtitle":"Consulenza intelligenza artificiale — Danova Tech","ogdesc":"Dove l'AI fa risparmiare davvero tempo in azienda, e come introdurla senza rischi.",
+ "crumbs":[AUT,("Consulenza intelligenza artificiale",None)],"eyebrow":"Consulenza AI",
+ "h1":f"Consulenza sull'intelligenza artificiale: {G}dove conviene, e come partire.{_G}",
+ "lead":"Tutti parlano di intelligenza artificiale, pochi sanno dove fa risparmiare davvero tempo nella propria azienda. Vi aiutiamo a capirlo, a scegliere gli strumenti giusti (ChatGPT, Claude e gli altri), a formare il personale e a costruire le automazioni che servono.",
+ "cta1":"Prenota una chiamata","cta2":"Cosa facciamo",
+ "sezioni":[
+  {"id":"cosa","tipo":"cards","eyebrow":"Cosa facciamo","h2":f"Dall'idea {G}all'AI che lavora{_G}",
+   "corpo":[("Analisi delle attività","Mappiamo le attività ripetitive di uffici e reparti e stimiamo dove l'AI fa risparmiare più ore."),
+    ("ChatGPT e Claude in azienda","Quale strumento, con quali piani, con quali regole: account aziendali, dati riservati, istruzioni condivise."),
+    ("Formazione del personale","Sessioni pratiche per reparto: come scrivere le richieste, come verificare i risultati, cosa non fare."),
+    ("Automazioni e agenti","Email smistate, documenti letti, report preparati, dati inseriti nel gestionale: l'AI collegata ai vostri programmi."),
+    ("Chatbot per clienti","Assistenti per sito e WhatsApp che rispondono con le vostre informazioni e passano la mano alle persone."),
+    ("Regole e AI Act","Policy interna sull'uso dell'AI e verifica degli obblighi dell'AI Act europeo.")]},
+  {"id":"approccio","tipo":"testo","eyebrow":"Il nostro approccio","h2":f"Prima un caso concreto, {G}poi il resto{_G}",
+   "corpo":["Non partiamo da un progetto enorme: scegliamo un'attività che vi costa ore ogni settimana, costruiamo un prototipo in meno di 24 ore e lo provate sui vostri dati. Se funziona, lo mettiamo in uso in 1-2 settimane; se non funziona, lo scoprite subito e senza aver speso molto.",
+    "Siamo anche una software house: oltre a consigliarvi, l'AI la costruiamo e la colleghiamo ai vostri gestionali, CRM ed e-commerce. E la seguiamo nel tempo con un contratto di assistenza."]},
+  {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Quattro passi, {G}nessun salto nel buio{_G}",
+   "corpo":[("Chiamata","Cosa fate, dove perdete tempo, cosa vi incuriosisce dell'AI."),("Prototipo in 24 ore","Sul caso che rende di più."),
+    ("In uso in 1-2 settimane","Integrato nei vostri strumenti, con formazione."),("Assistenza","Miglioramenti e nuovi casi d'uso nel tempo.")]}],
+ "faqtitle":f"Le domande {G}sull'AI in azienda.{_G}",
+ "faq":[("Meglio ChatGPT o Claude?","Dipende dall'uso: per molte aziende conviene averne uno come strumento principale e scegliere in base a qualità sui vostri documenti, integrazioni e condizioni sul trattamento dei dati. Li proviamo insieme sui vostri casi reali."),
+  ("I dati aziendali sono al sicuro?","Con i piani aziendali giusti e regole chiare sì: impostiamo account, permessi e policy perché i dati riservati restino sotto controllo."),
+  ("Serve formare il personale?","Sì: lo strumento rende quanto chi lo usa. Una formazione pratica, per reparto, è spesso l'investimento con il ritorno più rapido."),
+  ("Cosa prevede l'AI Act?","Obblighi diversi in base al rischio dell'uso. Per la maggior parte delle PMI si tratta di trasparenza e formazione; trovate i dettagli nella nostra pagina sull'AI Act.")]+FAQ_T[1:],
+ "ctabox":CTA_AI,"altrititle":"Pagine collegate",
+ "altri":[("Intelligenza artificiale per aziende","/intelligenza-artificiale-per-aziende/"),("Automazioni con n8n","/automazioni-n8n/"),("Chatbot aziendale","/chatbot-aziendale/"),("Chatbot WhatsApp","/whatsapp-aziendale/"),("AI Act per le aziende","/ai-act-aziende/"),("AI per avvocati","/intelligenza-artificiale-per-avvocati/")],
+ "svc":svc("Consulenza intelligenza artificiale","Consulenza sull'intelligenza artificiale","Analisi dei casi d'uso, scelta degli strumenti AI, formazione del personale, automazioni, chatbot e adeguamento all'AI Act per PMI.",
+   ["Analisi dei casi d'uso AI","ChatGPT e Claude in azienda","Formazione AI per il personale","Automazioni e agenti AI","Policy e AI Act"])})
+
+PAGINE.append({
+ "lang":"it","url":"/gestionale-studio-medico/",
+ "title":"Gestionale per studi medici e poliambulatori",
+ "desc":"Gestionale per studio medico su misura: agenda, pazienti, prestazioni, fatture e promemoria, con dati sanitari protetti. Demo in 24 ore.",
+ "ogtitle":"Gestionale per studi medici — Danova Tech","ogdesc":"Agenda, pazienti e fatture in un gestionale costruito sullo studio.",
+ "crumbs":[GEST,("Gestionale per studi medici",None)],"eyebrow":"Studi medici",
+ "h1":f"Gestionale per studi medici: {G}agenda, pazienti e fatture in ordine.{_G}",
+ "lead":"Per studi medici, poliambulatori, fisioterapisti e professionisti sanitari: agenda condivisa, schede dei pazienti, prestazioni, fatture e promemoria in un unico gestionale, costruito su come lavora il vostro studio.",
+ "cta1":"Raccontateci come lavorate","cta2":"Cosa gestisce",
+ "sezioni":[
+  {"id":"cosa","tipo":"cards","eyebrow":"Cosa gestisce","h2":f"Lo studio, {G}senza carta e senza doppioni{_G}",
+   "corpo":[("Agenda e prenotazioni","Agenda per professionista e per ambulatorio, prenotazioni online e spostamenti in un clic."),
+    ("Promemoria ai pazienti","Messaggi automatici prima dell'appuntamento, per ridurre le visite saltate."),
+    ("Schede pazienti","Anagrafica, storico delle prestazioni, documenti e consensi, accessibili solo a chi è autorizzato."),
+    ("Prestazioni e listini","Prestazioni, tariffe, convenzioni e pacchetti, con la disponibilità di stanze e strumenti."),
+    ("Fatture e incassi","Fatture ai pazienti, pagamenti, incassi per professionista e report per il commercialista."),
+    ("Più sedi e professionisti","Poliambulatori con più sedi, ruoli e compensi per professionista.")]},
+  {"id":"dati","tipo":"testo","eyebrow":"Dati sanitari","h2":f"I dati dei pazienti {G}protetti come devono{_G}",
+   "corpo":["I dati sanitari sono i più delicati in assoluto: accessi per ruolo, connessioni cifrate, registro degli accessi, backup automatici e server in Europa. Il trattamento è impostato secondo il GDPR insieme al titolare dello studio.",
+    "Il gestionale organizza agenda, pazienti e amministrazione; per gli adempimenti specifici, come l'invio delle spese sanitarie, ci colleghiamo dove possibile ai servizi e ai programmi che usate già, senza costringervi a cambiare tutto."]},
+  {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dalla prima chiamata {G}al gestionale in uso{_G}",
+   "corpo":[("Analisi","Come arrivano i pazienti, come si organizza l'agenda, dove si perde tempo."),("Demo in 24 ore","Una demo funzionante sul vostro studio."),
+    ("Prima versione in 1-2 settimane","Con i dati importati dai programmi attuali."),("Assistenza con contratto","Aggiornamenti, backup e nuove funzioni.")]}],
+ "faqtitle":f"Le domande {G}degli studi medici.{_G}",
+ "faq":FAQ_T+[("I pazienti possono prenotare online?","Sì, dal sito o con un link, con gli orari reali dell'agenda e la conferma automatica."),
+  ("Va bene per un fisioterapista o uno psicologo?","Sì: il gestionale è costruito sull'attività dello studio, che sia medico, fisioterapico, psicologico o un poliambulatorio."),
+  ("Avete già un gestionale per dentisti?","Sì, trovate la pagina dedicata al gestionale per studi dentistici.")],
+ "ctabox":CTA_G,"altrititle":"Pagine collegate",
+ "altri":[("Gestionale per studio dentistico","/gestionale-studio-dentistico/"),("App prenotazioni","/app-prenotazioni/"),("Gestionale personalizzato","/gestionale-personalizzato/"),("Software per studi professionali","/software-gestionale-studi-professionali/"),("Gestionale per studi legali","/gestionale-studio-legale/"),("WhatsApp aziendale","/whatsapp-aziendale/")],
+ "svc":svc("Gestionale per studi medici","Sviluppo di software gestionale per studi medici","Gestionale su misura per studi medici e poliambulatori: agenda, prenotazioni, pazienti, prestazioni, fatture e promemoria.",
+   ["Agenda e prenotazioni online","Promemoria ai pazienti","Schede pazienti","Fatturazione","Gestione multi-sede"])})

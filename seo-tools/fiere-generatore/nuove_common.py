@@ -59,7 +59,7 @@ def richiesta(fiera="",titolo="Richiedi lo stand",lead=None,id="richiesta"):
       <div class="fr-req-txt">
         <h2 class="title">{titolo}</h2>
         <p>{lead}</p>
-        <ul class="fr-req-pt"><li>Preventivo voce per voce, gratuito</li><li>Anche con poco preavviso</li><li>Un unico referente fino allo smontaggio</li></ul>
+        <ul class="fr-req-pt"><li>Preventivo voce per voce in meno di 24 ore, gratuito</li><li>Anche con poco preavviso</li><li>Un unico referente fino allo smontaggio</li></ul>
       </div>
       <form class="fr-req" novalidate>
         <div class="fld"><input type="text" name="fiera" id="{id}-fiera" placeholder=" " required value="{E(fiera)}" autocomplete="off"><label for="{id}-fiera">Fiera e città</label></div>

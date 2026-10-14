@@ -34,6 +34,21 @@ TOT=("Totem pubblicitari personalizzati","/totem-pubblicitari/"); EXP=("Esposito
 for p in ("espositori-desk-totem-per-fiere","allestimenti-eventi-showroom-negozi","ledwall-e-illuminazione-stand","grafica-per-stand-fieristici","stand-fieristici-su-misura","servizi/allestimenti-fieristici","noleggio-stand-fieristici"):
     add(p,TOT,EXP)
 for p in ("stand-fieristici-moda-e-calzature","stand-fieristici-cosmetica-e-beauty","stand-fieristici-food-e-vino","stand-fieristici-arredo-e-design"): add(p,EXP)
+GM=("Gestionali su misura a Milano","/gestionali-su-misura-milano/"); GP=("Gestionali su misura a Pavia","/gestionali-su-misura-pavia/")
+SM=("Siti web a Milano","/realizzazione-siti-web-milano/"); SP=("Siti web a Pavia","/realizzazione-siti-web-pavia/")
+for c in ("padova","pordenone","treviso","udine","veneto","venezia-mestre","verona","vicenza"):
+    add(f"gestionali-su-misura-{c}",GM,GP); add(f"realizzazione-siti-web-{c}",SM,SP)
+for p in ("software-gestionale-aziendale","gestionale-personalizzato","sviluppo-software-su-misura","software-house"): add(p,GM,GP)
+for p in ("realizzazione-siti-internet","sito-web-aziendale","realizzazione-ecommerce"): add(p,SM,SP)
+add("allestimenti-fieristici-milano",GM,SM); add("allestimenti-fieristici-lombardia",GM,GP,SM,SP)
+add("software-gestionale-agroalimentare",GP); add("software-gestionale-produzione",GP)
+SV=("Consulente SEO a Verona","/consulente-seo-verona/"); GL=("Gestionale per studi legali","/gestionale-studio-legale/")
+AIA=("Intelligenza artificiale per avvocati","/intelligenza-artificiale-per-avvocati/"); CAI=("Consulenza intelligenza artificiale","/consulenza-intelligenza-artificiale/")
+GMED=("Gestionale per studi medici","/gestionale-studio-medico/")
+for p in ("consulente-seo","consulente-seo-treviso","realizzazione-siti-web-verona","gestionali-su-misura-verona","seo-locale","posizionamento-sito-google"): add(p,SV)
+add("siti-web-per-avvocati",GL,AIA); add("software-gestionale-studi-professionali",GL,GMED); add("gestionale-studio-dentistico",GMED)
+for p in ("intelligenza-artificiale-per-aziende","chatbot-aziendale","automazioni-n8n","ai-act-aziende","whatsapp-aziendale","servizi/software-automazioni"): add(p,CAI)
+add("ai-act-aziende",AIA); add("intelligenza-artificiale-per-aziende",AIA); add("app-prenotazioni",GMED); add("gestionale-personalizzato",GL,GMED)
 n=0
 for p,links in T.items():
     fp=os.path.join(R,p,"index.html")

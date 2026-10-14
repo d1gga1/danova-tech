@@ -8,7 +8,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 spec = importlib.util.spec_from_file_location('pp', os.path.join(HERE, 'prezzi-pagine.py'))
 pp = importlib.util.module_from_spec(spec); spec.loader.exec_module(pp)
 
-CITTA_IT = ['padova','pordenone','treviso','udine','veneto','venezia-mestre','verona','vicenza']
+CITTA_IT = ['milano','pavia','padova','pordenone','treviso','udine','veneto','venezia-mestre','verona','vicenza']
 PAGES = {
  'it': [('realizzazione-siti-internet',0),('sito-web-aziendale',0),('restyling-sito-web',0)]
        + [('realizzazione-siti-web-'+c,0) for c in CITTA_IT]

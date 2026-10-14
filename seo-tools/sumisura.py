@@ -20,7 +20,7 @@ def blocco(app):
         lead = "I gestionali commerciali sono fatti per andare bene a migliaia di aziende diverse, e per questo costringono tutte a lavorare nello stesso modo. Noi facciamo il contrario: partiamo da come lavorate voi e costruiamo un software che esiste solo per la vostra azienda."
         c1 = ("Costruito sui vostri processi", "Schermate, campi, documenti e passaggi sono quelli che usate davvero, con i vostri nomi. Niente menu pieni di funzioni che non vi servono.")
     cards = [c1,
-      ("Prima versione in pochi giorni", "Partiamo dal pezzo che vi fa perdere più tempo: una prima versione funzionante arriva in pochi giorni o in poche settimane, poi si migliora a fasi."),
+      ("Prima versione in pochi giorni", "Partiamo dal pezzo che vi fa perdere più tempo: una demo funzionante arriva in meno di 24 ore e la prima versione in 1-2 settimane, poi si migliora a fasi."),
       ("I vostri dati, senza ripartire da zero", "Importiamo i fogli Excel e gli archivi che avete già e colleghiamo il software ai programmi che usate: fatturazione, contabilità, e-commerce."),
       ("Da PC, tablet e telefono", "Si apre dal browser o come app: in ufficio, in magazzino, in cantiere o dal cliente, con utenti e permessi diversi."),
       ("Canone o pagamento unico", "Scegliete voi: un canone mensile con tutto incluso oppure un pagamento unico. Le cifre sono nel nostro <a href=\"/prezzi/\">listino prezzi</a>."),

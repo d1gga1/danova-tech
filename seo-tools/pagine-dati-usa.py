@@ -1184,7 +1184,7 @@ def hub(url, title, desc, ogtitle, ogdesc, eyebrow, h1, lead, sezioni, faq, svc_
 PAGINE.append(hub(
  "/en/web-design-agency-usa/",
  "Web Design Company USA | Website Design & Development",
- "Website design and development for US businesses: from €350, fixed price agreed upfront, built to WCAG 2.1 AA, live in 2-8 weeks, code in your name.",
+ "Website design and development for US businesses: from €350, fixed price agreed upfront, built to WCAG 2.1 AA, live in 1-2 weeks, demo within 24 hours, code in your name.",
  "Web design agency for US businesses — Danova Tech",
  "Company websites and e-commerce for US businesses, built by a ten-person team in Italy at a fixed price.",
  "Web design",
