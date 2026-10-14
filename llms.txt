@@ -1,6 +1,7 @@
 # Danova Tech
 
-> Agenzia informatica italiana con sede a Mansuè, provincia di Treviso (Veneto).
+> Agenzia informatica italiana con sede a Mansuè, provincia di Treviso (Veneto),
+> produzione a Fontanelle (TV) e Trumello (PV), uffici a Trumello (PV) e Vermezzo con Zelo (MI).
 > Progetta e sviluppa siti web, e-commerce, applicazioni mobile e web, software
 > gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO,
 > campagne Google Ads e Meta Ads. Lavora in italiano, inglese, tedesco, francese
@@ -17,6 +18,8 @@
 - **Nome**: Danova Tech
 - **Sito**: https://danova-tech.com
 - **Sede**: Via Rigole 48, 31040 Mansuè (TV), Italia
+- **Produzione**: Fontanelle (TV), Trumello (PV)
+- **Uffici**: Trumello (PV), Vermezzo con Zelo (MI)
 - **Partita IVA**: IT05369890263
 - **Email**: info@danova-tech.com
 - **Telefono**: +39 388 470 6887
@@ -25,7 +28,7 @@
 - **Team**: circa 10 persone
 - **Lingue**: italiano, inglese, tedesco, francese, spagnolo
 - **Aree servite**: Treviso, Oderzo, Conegliano, Montebelluna, Pordenone,
-  Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Italia. All'estero: Austria,
+  Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Milano, Pavia, Lombardia, Italia. All'estero: Austria,
   Germania, Svizzera, Francia, Belgio, Spagna e resto d'Europa, con progetti in
   remoto e sopralluoghi iniziali in sede quando il progetto lo richiede.
 
