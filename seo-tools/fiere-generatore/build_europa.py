@@ -49,7 +49,7 @@ NUMERI = [("Fiere all'estero","Oltre 1.000"),("Esperienza","Più di 25 anni"),("
 
 CARDS_ESTERO = [
  ("Progetto e pratiche con l'ente fiera","Render 3D, piante, calcoli statici per gli stand a due piani, certificati dei materiali: prepariamo e presentiamo noi la documentazione che chiede il regolamento tecnico del quartiere fieristico."),
- ("Produzione in Italia","Strutture, pareti, arredi e grafiche si costruiscono e si provano nel nostro laboratorio prima di partire. In fiera si monta, non si improvvisa."),
+ ("Produzione in Italia","Strutture, pareti e arredi in legno li costruiamo noi, dalla A alla Z, e tutto lo stand si prova prima di partire. In fiera si monta, non si improvvisa."),
  ("Trasporto con i nostri mezzi","Lo stand viaggia sui nostri camion, con i nostri imballi e gli orari di scarico prenotati. Nessun passaggio di mano tra spedizionieri."),
  ("Montatori sul posto","Squadre nostre dall'Italia, affiancate da partner locali di fiducia quando lo stand è grande o i tempi di allestimento sono stretti."),
  ("Dogana Svizzera e Regno Unito","Per le fiere fuori dall'Unione europea prepariamo con lo spedizioniere doganale i documenti per l'importazione temporanea dello stand e il rientro in Italia."),

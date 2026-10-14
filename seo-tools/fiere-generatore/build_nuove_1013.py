@@ -17,18 +17,20 @@ def h1_of(path):
     return strip_tags(m.group(1)).strip().rstrip('.') if m else None
 
 # ---------------------------------------------------------------- GALLERIA
-CAT=[("servizi","Servizi",0,10),("tipi","Tipologie",10,19),("settori","Settori",19,25),("fiere","Fiere",25,45),("citta","Città",45,60)]
+CAT=[("servizi","Servizi",[(0,10)]),("tipi","Tipologie",[(10,19)]),("metrature","Metrature",[(67,71)]),("settori","Settori",[(19,25)]),("fiere","Fiere",[(25,45),(60,67)]),("citta","Città",[(45,60)]),("guide","Guide",[(71,73)])]  # 14/10/2026: render nuovi
 def galleria():
     items=[]
-    for key,lab,a,b in CAT:
+    for key,lab,rng in CAT:
+      for a,b in rng:
         for f,pages,_s,alt,cap in DR.R[a:b]:
             p=pages[0]; t=h1_of(p) or alt
             t=t.split(':')[0]
             items.append((key,p,f,alt,cap,t))
-    btn='<button type="button" data-f="*" aria-pressed="true">Tutti</button>'+''.join(f'<button type="button" data-f="{k}" aria-pressed="false">{l}</button>' for k,l,_,_ in CAT)
+    NR=len(items)
+    btn='<button type="button" data-f="*" aria-pressed="true">Tutti</button>'+''.join(f'<button type="button" data-f="{k}" aria-pressed="false">{l}</button>' for k,l,_ in CAT)
     cards_=''.join(f'''
       <a href="{p}" data-cat="{k}"><figure><img src="{DIR}{f}-800.webp" srcset="{DIR}{f}-800.webp 800w, {DIR}{f}-1200.webp 1200w, {DIR}{f}.webp 1600w" sizes="(max-width: 700px) 100vw, 400px" width="800" height="532" alt="{E(alt)}" loading="lazy" decoding="async"><figcaption><b>{E(t)}</b><span>{E(cap)}</span></figcaption></figure></a>''' for k,p,f,alt,cap,t in items)
-    hd=head('60 render di stand, <span class="grad">per tipo, settore e fiera</span>',"Clicca un progetto per aprire la pagina dedicata: cosa serve, come lo realizziamo e il modulo per chiedere un preventivo.")
+    hd=head(f'{NR} render di stand, <span class="grad">per tipo, settore e fiera</span>',"Clicca un progetto per aprire la pagina dedicata: cosa serve, come lo realizziamo e il modulo per chiedere un preventivo.")
     sec=f'''<section id="progetti">
   <div class="wrap">
 {hd}
@@ -56,7 +58,7 @@ def galleria():
     gal={"@type":"ImageGallery","@id":SITE+GAL+"#galleria","name":"Progetti e render di stand fieristici","isPartOf":{"@id":SITE+GAL+"#webpage"},
          "image":[image_object(f,alt,cap,'it') for k,p,f,alt,cap,t in items]}
     for io in gal["image"]: io.pop("@id",None)
-    out=pagina(GAL,"Progetti di stand fieristici: 60 render e idee | Danova Tech",
+    out=pagina(GAL,f"Progetti di stand fieristici: {len(DR.R)} render e idee",
       "Render di stand fieristici per tipo, settore e fiera: isola, angolo, due piani, su misura e modulari; vino, arredo, meccanica, moda, cosmetica. Chiedi il render del tuo stand.",
       "Progetti di stand fieristici — Danova Tech","60 render di stand per tipo, settore e fiera: il punto di partenza per il progetto del tuo stand.",
       crumbs("Progetti di stand"),m,qa,[gal],SERVIZI_LINKS+TIPI_LINKS,wp_extra={"@type":["WebPage","CollectionPage"],"mainEntity":{"@id":SITE+GAL+"#galleria"}})

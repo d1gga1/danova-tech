@@ -194,13 +194,13 @@ dict(mq=100, slug="stand-100-mq", dims="10 × 10 m e oltre", render="stand-isola
  title="Stand 100 mq e oltre: stand grandi a isola e a due piani | Danova Tech",
  desc="Stand fieristici da 100 mq a oltre 300 mq: isole, stand a due piani, strutture sospese, ledwall e sale riunioni. Squadre di montaggio nostre, magazzino e produzione interna.",
  h1='Stand da 100 mq e oltre: <span class="grad">isole, due piani, grandi spazi.</span>',
- lead="Da cento metri quadri in su lo stand è un progetto di architettura temporanea: isole su quattro lati, stand a due piani, strutture sospese, ledwall, bar e sale riunioni. Realizziamo stand anche oltre i 300 metri quadri, con squadre di montaggio nostre, magazzino e produzione interna di strutture, arredi e grafiche.",
+ lead="Da cento metri quadri in su lo stand è un progetto di architettura temporanea: isole su quattro lati, stand a due piani, strutture sospese, ledwall, bar e sale riunioni. Realizziamo stand anche oltre i 300 metri quadri, con squadre di montaggio nostre, magazzino e produzione interna di strutture e arredi in legno.",
  rows=[("Misure tipiche","10 × 10 m, 12 × 10 m, fino a oltre 300 mq"),("Lati aperti","Di solito quattro (isola)"),("Soluzioni adatte","Su misura, sistemi modulari di grandi dimensioni, due piani"),("Squadre","Squadre di montaggio nostre, coordinate da un capocantiere"),("Montaggio","Da due giorni a una settimana, secondo progetto e fiera")],
  sections=[
   ('t','come',"Come si progetta uno stand grande",None,[
     "Su un'isola grande si parte dai flussi: da dove arrivano i visitatori, dove si fermano, dove si siedono i clienti importanti, dove passa lo staff con il materiale. Il progetto mette al centro i volumi chiusi (magazzini, sale riunioni, cucina del bar) e lascia aperti i fronti sui corridoi.",
     "Lo stand a due piani raddoppia la superficie utile: sale riunioni e lounge al piano superiore, esposizione libera al piano terra. Richiede un calcolo strutturale firmato e l'approvazione dell'ente fiera, e tempi di montaggio più lunghi. Lo progettiamo e lo realizziamo noi, dalle strutture alle finiture."],None),
-  ('s','numeri',"Come lavoriamo sugli stand grandi",[("Progetto","Render 3D, esecutivi, calcoli strutturali per due piani e strutture sospese"),("Produzione","Interna: strutture, arredi e grafiche"),("Montaggio","Squadre nostre con capocantiere, partner per i picchi di lavoro"),("Magazzino","Nostro: lo stand si conserva e si riusa nelle edizioni successive"),("Pratiche","Progetto, impianti, dichiarazione di conformità, certificati dei materiali")],None),
+  ('s','numeri',"Come lavoriamo sugli stand grandi",[("Progetto","Render 3D, esecutivi, calcoli strutturali per due piani e strutture sospese"),("Produzione","Interna: strutture e arredi in legno, dalla A alla Z"),("Montaggio","Squadre nostre con capocantiere, partner per i picchi di lavoro"),("Magazzino","Nostro: lo stand si conserva e si riusa nelle edizioni successive"),("Pratiche","Progetto, impianti, dichiarazione di conformità, certificati dei materiali")],None),
   ('t','cosa',"Cosa può avere uno stand da 100 mq in su",None,[],[
     ("Secondo piano.","Sale riunioni, lounge e terrazza affacciata sul padiglione."),
     ("Strutture sospese.","Anelli, cubi e fascioni in tessuto retroilluminato, montati tramite i rigger autorizzati."),
@@ -406,7 +406,7 @@ dict(slug="come-scegliere-un-allestitore-fieristico", render="montaggio-stand-in
  sections=[
   ('t','domande',"Le 10 domande",None,[],[
    ("1. Chi è il mio referente?","Una persona unica dal progetto allo smontaggio evita rimpalli fra fornitori."),
-   ("2. Producete voi o subappaltate?","Strutture, arredi e grafiche prodotti internamente significano più controllo su qualità e tempi."),
+   ("2. Producete voi o subappaltate?","Strutture e arredi in legno prodotti internamente significano più controllo su qualità e tempi."),
    ("3. Le squadre di montaggio sono vostre?","Squadre proprie, coordinate da un capocantiere, rispondono meglio agli imprevisti dell'allestimento."),
    ("4. Chi segue le pratiche con l'ente fiera?","Progetto, approvazioni, servizi, pass: se non lo fa l'allestitore, lo devi fare tu."),
    ("5. Chi firma la dichiarazione di conformità?","L'impianto elettrico deve essere fatto da un'impresa abilitata."),
@@ -417,7 +417,7 @@ dict(slug="come-scegliere-un-allestitore-fieristico", render="montaggio-stand-in
    ("10. Cosa succede se c'è un problema in fiera?","Chi interviene, in quanto tempo, durante i giorni di manifestazione?")]),
   ('t','noi',"Le nostre risposte",None,[],[
    ("Referente unico.","Dal primo schizzo allo smontaggio."),
-   ("Produzione interna.","Strutture, arredi e grafiche."),
+   ("Produzione interna.","Tutti gli elementi in legno, dalla A alla Z."),
    ("Squadre nostre.","Con partner per i picchi di lavoro, coordinati da noi."),
    ("Pratiche e certificati.","Progetto, servizi, dichiarazione di conformità e certificati dei materiali."),
    ("Magazzino nostro.","Per conservare e riusare gli stand dei clienti."),

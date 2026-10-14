@@ -69,6 +69,6 @@ nodes=[service_node(URL,"Allestimenti fieristici","Allestimento e montaggio di s
  AREAS_IT,["Progettazione stand e render 3D","Stand preallestiti","Stand modulari in alluminio","Stand in tessuto teso","Stand su misura in legno","Grafica e stampa per stand","Impianto elettrico, illuminazione e LED","Montaggio e smontaggio stand in fiera","Trasporto, logistica e magazzino","Pratiche con l'ente fiera","Noleggio stand e arredi"],'it')]
 alts={'it':P,'en':'/en/exhibition-stand-builder-italy/','de':'/de/messebau-italien/','fr':'/fr/standiste-salon-italie/','es':'/es/montaje-stands-feriales-italia/','zh':'/zh/italy-exhibition-stand/','tr':'/tr/italya-fuar-standi/','ar':'/ar/italy-exhibition-stand/'}
 print(build('it',P,"Allestimenti fieristici e stand per fiere chiavi in mano",
- "Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto.",
+ "Allestimenti fieristici in Italia e all'estero: stand e arredi in legno prodotti da noi dalla A alla Z, progetto 3D, impianti e montatori. Prezzi competitivi.",
  "Allestimenti fieristici chiavi in mano — Danova Tech","Progetto, materiali, componentistica e montatori in fiera. Stand preallestiti, modulari e su misura, in Italia e all'estero.",
  [("Home","/"),("Servizi","/#servizi"),("Allestimenti fieristici",None)],main,qa,nodes,alts))

@@ -284,3 +284,19 @@ import dati_metrature_guide as _MG
 RIUSO.update({f"/{x['slug']}/": x['render'] for x in _MG.M})
 RIUSO.update({f"/guide/{g['slug']}/": g['render'] for g in _MG.G})
 RIUSO['/stand-fieristici-per-metratura/']='stand-medio-32-mq'
+# 14/10/2026 render nuovi (Higgsfield GPT Image 2.5), originali in seo-tools/render-stand/originali/danova-ai-*.png
+R+=[
+("stand-key-energia-fotovoltaico",["/stand-key/"],None,"Render di stand per le energie rinnovabili con moduli fotovoltaici su parete in legno, inverter, sistemi di accumulo e area incontri","Render di progetto: stand per fotovoltaico e accumulo, adatto a fiere come KEY."),
+("stand-tuttofood-alimentare",["/stand-tuttofood/"],None,"Render di stand alimentare con banco assaggi in legno, vetrine refrigerate, parete di prodotti confezionati e cucina dimostrativa","Render di progetto: stand per l'agroalimentare, adatto a fiere come TUTTOFOOD."),
+("stand-emo-macchine-utensili-due-piani",["/stand-emo/"],None,"Render di stand a due piani per macchine utensili con centri di lavoro CNC al piano terra e sale riunioni vetrate al piano superiore","Render di progetto: stand a due piani per macchine utensili, adatto a fiere come EMO Milano."),
+("stand-lamiera-taglio-laser",["/stand-lamiera/"],None,"Render di stand per macchine per lamiera con laser di taglio, pressa piegatrice, barriere di sicurezza e vetrina di pezzi lavorati","Render di progetto: stand per lavorazione lamiera, adatto a fiere come Lamiera."),
+("stand-lineapelle-materiali-moda",["/stand-lineapelle/"],None,"Render di stand per pelli e materiali moda con pareti in rovere, campionari a colori, tavoli di lavoro e saletta vetrata","Render di progetto: stand per pelli e materiali, adatto a fiere come Lineapelle."),
+("stand-mecspe-subfornitura",["/stand-mecspe/"],None,"Render di stand per subfornitura meccanica con vetrine di pezzi lavorati, robot collaborativo e tavolo con disegni tecnici","Render di progetto: stand per subfornitura meccanica, adatto a fiere come MECSPE."),
+("stand-zoomark-prodotti-animali",["/stand-zoomark/"],None,"Render di stand per prodotti per animali allestito come un pet shop con scaffali in legno, accessori e acquario","Render di progetto: stand per prodotti per animali, adatto a fiere come Zoomark."),
+("stand-9-mq-3x3",["/stand-9-mq/"],None,"Render di stand fieristico di 9 mq (3 × 3 m) con parete grafica, desk curvo in legno, tavolino alto e prodotto su podio luminoso","Render di progetto: stand di 9 mq aperto su un lato."),
+("stand-16-mq-angolo",["/stand-16-mq/"],None,"Render di stand fieristico ad angolo di 16 mq con pareti a listelli in legno, banco reception sull'angolo, tavolo incontri e ripostiglio","Render di progetto: stand di 16 mq ad angolo, con due lati aperti."),
+("stand-24-mq-penisola",["/stand-24-mq/"],None,"Render di stand fieristico a penisola di 24 mq con torre in tessuto retroilluminato, parete espositiva in legno e zona incontri","Render di progetto: stand di 24 mq a penisola, con tre lati aperti."),
+("stand-48-mq-isola",["/stand-48-mq/"],None,"Render di stand fieristico a isola di 48 mq con nucleo centrale in legno, bar, isole espositive, ledwall e anello sospeso in tessuto","Render di progetto: stand di 48 mq a isola, con quattro lati aperti."),
+("progetto-stand-tavolo-disegni",["/guide/regolamento-tecnico-fiera/"],None,"Render di tavolo di progettazione con piante e prospetti di uno stand, plastico di stand a due piani e render 3D sul portatile","Render illustrativo: progetto e disegni di uno stand da presentare all'ente fiera."),
+("stand-quadro-elettrico-allestimento",["/guide/dichiarazione-di-conformita-stand/"],None,"Render del quadro elettrico di uno stand fieristico installato nel ripostiglio in legno, con cablaggi ordinati verso luci e schermo","Render illustrativo: quadro elettrico di uno stand durante l'allestimento."),
+]

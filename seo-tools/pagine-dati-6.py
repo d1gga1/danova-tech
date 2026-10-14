@@ -8,7 +8,7 @@ PAGINE = []
 # --- indicizzare un sito su Google (cluster ~20 varianti da 500) ---------------
 PAGINE.append({
  "lang":"it", "url":"/come-indicizzare-un-sito-su-google/",
- "title":"Come indicizzare un sito su Google, passo per passo | Danova Tech",
+ "title":"Come indicizzare un sito su Google, passo per passo",
  "desc":"Come indicizzare un sito su Google: Search Console, sitemap, controllo URL e i motivi più comuni per cui una pagina non entra nell'indice. Anche per Bing.",
  "ogtitle":"Come indicizzare un sito su Google — Danova Tech",
  "ogdesc":"Il sito è online ma su Google non c'è? Ecco i passaggi per farlo indicizzare e i controlli da fare quando una pagina non entra.",
@@ -179,7 +179,7 @@ PAGINE.append({
 # --- siti per ristoranti (siti per ristoranti 500, siti ristoranti 500) ------
 PAGINE.append({
  "lang":"it", "url":"/siti-web-per-ristoranti/",
- "title":"Siti web per ristoranti: menù, prenotazioni e Google | Danova Tech",
+ "title":"Siti web per ristoranti: menù, prenotazioni e Google",
  "desc":"Siti web per ristoranti, pizzerie e locali: menù sempre aggiornato, prenotazione del tavolo, orari, foto vere e scheda Google curata. Veloci da telefono.",
  "ogtitle":"Siti web per ristoranti — Danova Tech",
  "ogdesc":"Chi sceglie dove mangiare guarda menù, foto e orari dal telefono, in piedi, in un minuto. Il sito deve vincere quel minuto.",

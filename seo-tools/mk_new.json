@@ -1,0 +1,62 @@
+{
+ "/gestionale-personalizzato/": {
+  "file": "gestionale-personalizzato",
+  "alt": "Mockup di gestionale personalizzato: commesse in lavorazione, ore per reparto, consegne e avvisi del giorno",
+  "cap": "Mockup illustrativo: gestionale su misura per un'azienda metalmeccanica, con commesse, reparti e avvisi.",
+  "lang": "it"
+ },
+ "/guide/gestionale-su-misura-o-standard/": {
+  "file": "gestionale-su-misura-o-standard",
+  "alt": "Mockup di gestionale su misura per gli ordini: ordini da evadere per canale, righe senza giacenza e spedizioni",
+  "cap": "Mockup illustrativo: un gestionale su misura costruito sul flusso degli ordini di un'azienda.",
+  "lang": "it"
+ },
+ "/gestionale-per-associazioni/": {
+  "file": "gestionale-per-associazioni",
+  "alt": "Mockup di gestionale per associazioni e ASD: soci e tesserati, quote da incassare, certificati medici in scadenza e corsi",
+  "cap": "Mockup illustrativo: gestionale per una polisportiva con soci, quote, certificati e corsi.",
+  "lang": "it"
+ },
+ "/software-ticketing/": {
+  "file": "software-ticketing",
+  "alt": "Mockup di software ticketing: ticket aperti per canale, SLA, priorità, tecnici assegnati e interventi",
+  "cap": "Mockup illustrativo: help desk su misura con ticket da email, WhatsApp, telefono e portale.",
+  "lang": "it"
+ },
+ "/sito-vetrina/": {
+  "file": "sito-vetrina",
+  "alt": "Mockup di sito vetrina per un'azienda artigiana, su computer e smartphone, con servizi, recensioni e contatti",
+  "cap": "Mockup illustrativo: sito vetrina con home chiara, pagine servizio e contatti in evidenza.",
+  "lang": "it"
+ },
+ "/dashboard-aziendale/": {
+  "file": "dashboard-aziendale",
+  "alt": "Mockup di dashboard aziendale: fatturato, margine, incassi scaduti, ordini in produzione e clienti principali",
+  "cap": "Mockup illustrativo: cruscotto aziendale con i numeri del giorno presi dai programmi esistenti.",
+  "lang": "it"
+ },
+ "/erp-per-piccole-aziende/": {
+  "file": "erp-per-piccole-aziende",
+  "alt": "Mockup di ERP per piccole aziende: ordini di produzione, lotti in stagionatura, materie sotto scorta e resa",
+  "cap": "Mockup illustrativo: ERP su misura per un salumificio con produzione, lotti e magazzino.",
+  "lang": "it"
+ },
+ "/app-personalizzata/": {
+  "file": "app-personalizzata",
+  "alt": "Mockup di app personalizzata per agenti: ordini della settimana, visite, clienti inattivi e obiettivi",
+  "cap": "Mockup illustrativo: app su misura per agenti di commercio, anche offline.",
+  "lang": "it"
+ },
+ "/guide/cos-e-la-rpa/": {
+  "file": "cos-e-la-rpa",
+  "alt": "Mockup di pannello automazioni RPA: ordini da email, DDT dai portali, riconciliazioni e ore risparmiate",
+  "cap": "Mockup illustrativo: automazioni dei processi con esecuzioni, errori e ore risparmiate.",
+  "lang": "it"
+ },
+ "/app-fidelizzazione-clienti/": {
+  "file": "app-fidelizzazione-clienti",
+  "alt": "Mockup di app di fidelizzazione clienti: tessere, ritorno entro 30 giorni, premi riscattati e clienti migliori",
+  "cap": "Mockup illustrativo: programma fedeltà su misura per un panificio con più negozi.",
+  "lang": "it"
+ }
+}

@@ -5,9 +5,25 @@
     <link>https://danova-tech.com/</link>
     <description>Guide pratiche su siti web, SEO e software gestionali, e i lavori consegnati da Danova Tech, software house italiana con sede a Mansuè (Treviso).</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 -0000</lastBuildDate>
     <atom:link href="https://danova-tech.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://danova-tech.com/assets/img/logo.png</url><title>Danova Tech</title><link>https://danova-tech.com/</link></image>
+    <item>
+      <title>Cos&#x27;è la RPA: automazione dei processi con i software robot</title>
+      <link>https://danova-tech.com/guide/cos-e-la-rpa/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/cos-e-la-rpa/</guid>
+      <category>Guide</category>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Cos&#x27;è la RPA (Robotic Process Automation), come funziona, esempi in azienda, differenze con le integrazioni e quando conviene un&#x27;automazione su misura.</description>
+    </item>
+    <item>
+      <title>Gestionale su misura o standard: quale scegliere</title>
+      <link>https://danova-tech.com/guide/gestionale-su-misura-o-standard/</link>
+      <guid isPermaLink="true">https://danova-tech.com/guide/gestionale-su-misura-o-standard/</guid>
+      <category>Guide</category>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 -0000</pubDate>
+      <description>Gestionale su misura o standard commerciale: differenze, costi nel tempo, licenze, adattabilità e quando conviene l&#x27;uno o l&#x27;altro. Guida pratica.</description>
+    </item>
     <item>
       <title>Come andare in prima pagina su Google</title>
       <link>https://danova-tech.com/guide/come-andare-in-prima-pagina-su-google/</link>

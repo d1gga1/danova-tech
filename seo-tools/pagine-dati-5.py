@@ -133,7 +133,7 @@ PAGINE.append({
 # --- n8n / automazioni (n8n 50.000, zapier 50.000, rpa 5.000) ---------------
 PAGINE.append({
  "lang":"it", "url":"/automazioni-n8n/",
- "title":"Automazioni n8n per aziende: consulenza e sviluppo | Danova Tech",
+ "title":"Automazioni n8n per aziende: consulenza e sviluppo",
  "desc":"Automazioni con n8n per aziende: colleghiamo gestionale, CRM, email, WhatsApp e AI. n8n su server europeo, alternativa a Zapier e Make senza costi a operazione.",
  "ogtitle":"Automazioni con n8n — Danova Tech",
  "ogdesc":"I lavori ripetitivi fra un software e l'altro, fatti da soli. Con n8n installato su un server vostro, in Europa.",
@@ -366,7 +366,7 @@ PAGINE.append({
 # --- siti per hotel (sito web per hotel 500, siti web hotel 500, bid 8,82) ---
 PAGINE.append({
  "lang":"it", "url":"/siti-web-per-hotel/",
- "title":"Siti web per hotel e B&B con prenotazione diretta | Danova Tech",
+ "title":"Siti web per hotel e B&B con prenotazione diretta",
  "desc":"Siti web per hotel, B&B e case vacanza: prenotazione diretta senza commissioni, booking engine, multilingua, Google Hotel e SEO locale.",
  "ogtitle":"Siti web per hotel e B&B — Danova Tech",
  "ogdesc":"Ogni prenotazione che arriva dal vostro sito è una commissione che non pagate. Come costruire un sito che prenota.",

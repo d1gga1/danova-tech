@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Dashboard aziendale su misura: i numeri in tempo reale</title>
+<meta name="description" content="Dashboard aziendale su misura: vendite, margini, magazzino, produzione e incassi in tempo reale, presi dai programmi che usate già. Da PC, tablet e telefono.">
+<link rel="canonical" href="https://danova-tech.com/dashboard-aziendale/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/dashboard-aziendale/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/dashboard-aziendale/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/dashboard-aziendale/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Dashboard aziendale su misura — Danova Tech">
+<meta property="og:description" content="I numeri che guardate ogni giorno, in una schermata, senza esportare in Excel.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/mockup/og/dashboard-aziendale.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Mockup di dashboard aziendale: fatturato, margine, incassi scaduti, ordini in produzione e clienti principali">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dashboard aziendale su misura — Danova Tech">
+<meta name="twitter:description" content="I numeri che guardate ogni giorno, in una schermata, senza esportare in Excel.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/mockup/og/dashboard-aziendale.jpg">
+
+<link rel="icon" type="image/png" href="../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../assets/img/logo.png">
+<link rel="manifest" href="../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin>
+<link rel="stylesheet" href="../assets/css/fonts.css">
+<link rel="stylesheet" href="../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech"
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 10
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "knowsAbout": [
+        "Sviluppo software su misura",
+        "Software gestionale aziendale",
+        "ERP per PMI",
+        "CRM aziendale",
+        "Gestione commesse",
+        "Software MES per la produzione",
+        "Gestione del magazzino",
+        "Tracciabilità di filiera",
+        "Gestione documentale",
+        "Fatturazione elettronica",
+        "Integrazione di software aziendali",
+        "API e sincronizzazioni",
+        "Automazione dei processi aziendali",
+        "Intelligenza artificiale applicata alle imprese",
+        "Chatbot e agenti AI",
+        "Sviluppo di applicazioni aziendali",
+        "App per rapportini e timbrature",
+        "Realizzazione di siti web",
+        "E-commerce B2B e B2C",
+        "SEO e posizionamento sui motori di ricerca",
+        "Google Ads",
+        "Digitalizzazione delle PMI"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-sales",
+          "contactType": "sales",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English",
+            "German"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-support",
+          "contactType": "customer support",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English"
+          ]
+        }
+      ],
+      "disambiguatingDescription": "Danova Tech è una software house e agenzia digitale italiana con sede a Mansuè, in provincia di Treviso (P.IVA IT05369890263). Non ha alcun legame con Danova Analytics (danova.tech) né con Danova Tek (danovatek.com), società diverse e non collegate."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/dashboard-aziendale/#service",
+      "name": "Dashboard aziendale su misura",
+      "serviceType": "Sviluppo dashboard e business intelligence",
+      "description": "Dashboard aziendali su misura collegate ai programmi esistenti: vendite, margini, incassi, magazzino, produzione e marketing in tempo reale.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Dashboard aziendale su misura",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Collegamento ai programmi esistenti"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Indicatori su misura"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Avvisi automatici"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Accesso da PC, tablet e telefono"
+            }
+          }
+        ]
+      },
+      "image": {
+        "@id": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale.webp#img"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/dashboard-aziendale/#webpage",
+      "url": "https://danova-tech.com/dashboard-aziendale/",
+      "name": "Dashboard aziendale su misura: i numeri in tempo reale",
+      "description": "Dashboard aziendale su misura: vendite, margini, magazzino, produzione e incassi in tempo reale, presi dai programmi che usate già. Da PC, tablet e telefono.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/dashboard-aziendale/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale.webp#img"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/dashboard-aziendale/#breadcrumb"
+      },
+      "datePublished": "2026-10-14",
+      "dateModified": "2026-10-14",
+      "image": {
+        "@id": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale.webp#img"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/dashboard-aziendale/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Gestionali e CRM",
+          "item": "https://danova-tech.com/servizi/gestionali-crm/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Dashboard aziendale",
+          "item": "https://danova-tech.com/dashboard-aziendale/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/dashboard-aziendale/#faq",
+      "inLanguage": "it-IT",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Cos'è una dashboard aziendale?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una schermata che mostra in tempo reale i numeri principali dell'azienda, presi automaticamente dai programmi che usate."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Da quali programmi prende i dati?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Da gestionale, fatturazione, e-commerce, CRM ed Excel: verifichiamo i vostri programmi prima di iniziare."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Si vede dal telefono?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì, da PC, tablet e telefono, con utenti che vedono solo i numeri di loro competenza."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto tempo serve?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Una prima versione in pochi giorni o poche settimane, a seconda di quanti programmi collegare."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale.webp#img",
+      "url": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale.webp",
+      "contentUrl": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale.webp",
+      "width": 1600,
+      "height": 1063,
+      "caption": "Mockup illustrativo: cruscotto aziendale con i numeri del giorno presi dai programmi esistenti.",
+      "description": "Mockup di dashboard aziendale: fatturato, margine, incassi scaduti, ordini in produzione e clienti principali",
+      "inLanguage": "it",
+      "creditText": "Mockup illustrativo Danova Tech",
+      "copyrightNotice": "© Danova Tech",
+      "creator": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "thumbnailUrl": "https://danova-tech.com/assets/img/mockup/dashboard-aziendale-800.webp"
+    }
+  ]
+}
+</script>
+</head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="../" class="brand" data-mag><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="../#servizi">Servizi</a>
+      <a href="../#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="../#processo">Processo</a>
+      <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+      <a href="../#contatti">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <span class="lang-links">
+        <a href="/dashboard-aziendale/" hreflang="it" aria-current="page">IT</a>
+        </span>
+      <a href="../#contatti" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="../#servizi">Servizi</a>
+  <a href="../#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="../#processo">Processo</a>
+  <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+  <a href="../#contatti">Contatti</a>
+
+  <div class="mob-lang-links">
+    <a href="/dashboard-aziendale/" hreflang="it" aria-current="page">IT</a>
+    </div>
+</nav>
+
+<main id="main">
+
+<div class="wrap pg-crumbs">
+  <a href="/">Home</a><em>/</em><a href="/servizi/gestionali-crm/">Gestionali e CRM</a><em>/</em>Dashboard aziendale
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>Cruscotto aziendale</div>
+    <h1 data-rv="up">Dashboard aziendale: <span class="grad">i numeri che contano, ogni mattina.</span></h1>
+    <p class="lead" data-rv="up">In molte aziende i numeri esistono già, ma sono sparsi fra gestionale, fatturazione, e-commerce e fogli Excel. Per avere il quadro qualcuno deve esportare, copiare e incollare, e quando il report è pronto è già vecchio. Una dashboard su misura li raccoglie da soli e ve li mostra aggiornati.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Parliamo dei vostri numeri</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#cosa" class="btn btn-g" data-mag><span class="lbl">Cosa mostra</span></a>
+    </div>
+  </div>
+</section>
+<!--mk-foto--><section class="fr-foto-sec"><div class="wrap"><figure class="fr-foto mk" data-rv="up"><img src="/assets/img/mockup/dashboard-aziendale.webp" srcset="/assets/img/mockup/dashboard-aziendale-800.webp 800w, /assets/img/mockup/dashboard-aziendale-1200.webp 1200w, /assets/img/mockup/dashboard-aziendale.webp 1600w" sizes="(max-width: 1240px) calc(100vw - 44px), 1196px" width="1600" height="1063" alt="Mockup di dashboard aziendale: fatturato, margine, incassi scaduti, ordini in produzione e clienti principali" decoding="async"><figcaption>Mockup illustrativo: cruscotto aziendale con i numeri del giorno presi dai programmi esistenti.</figcaption></figure></div></section><!--/mk-foto-->
+
+<section id="cosa">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Cosa mostra</div>
+      <h2 class="title" data-rv="up">Solo gli indicatori <span class="grad">che usate per decidere</span></h2>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Vendite e margini</h3>
+        <p>Per cliente, prodotto, agente, periodo, confrontati con l'anno prima.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Incassi e scadenze</h3>
+        <p>Cosa deve entrare, cosa è scaduto, cosa dobbiamo pagare.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Magazzino</h3>
+        <p>Giacenze, prodotti fermi, sottoscorta, valore.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Produzione e commesse</h3>
+        <p>Avanzamento, ritardi, ore previste e consumate.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">05</span>
+        <h3>Marketing e sito</h3>
+        <p>Contatti, campagne, costo per contatto, vendite online.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">06</span>
+        <h3>Avvisi</h3>
+        <p>Una notifica quando un numero esce dai limiti che decidete voi.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="come">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Come funziona</div>
+      <h2 class="title" data-rv="up">Dai vostri programmi, <span class="grad">senza ricopiare niente</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Colleghiamo la dashboard ai programmi che usate già: gestionale, fatturazione, e-commerce, CRM, fogli Excel condivisi. I dati si aggiornano da soli; voi aprite la dashboard da PC, tablet o telefono e vedete la situazione di oggi.</p>
+      <p>Ogni azienda guarda numeri diversi: per questo la dashboard è costruita su di voi, con i vostri indicatori e i vostri nomi. Una prima versione arriva in pochi giorni o poche settimane; poi si aggiungono indicatori quando servono. Canone mensile o pagamento unico, a vostra scelta.</p>
+    </div>
+  </div>
+</section>
+
+<!--su-misura--><section id="solo-vostro">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono">Su misura, davvero</div>
+      <h2 class="title" data-rv="up">Un gestionale solo vostro, <span class="grad">non un programma uguale per tutti.</span></h2>
+      <p class="lead" data-rv="up">I gestionali commerciali sono fatti per andare bene a migliaia di aziende diverse, e per questo costringono tutte a lavorare nello stesso modo. Noi facciamo il contrario: partiamo da come lavorate voi e costruiamo un software che esiste solo per la vostra azienda.</p>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Costruito sui vostri processi</h3>
+        <p>Schermate, campi, documenti e passaggi sono quelli che usate davvero, con i vostri nomi. Niente menu pieni di funzioni che non vi servono.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Prima versione in pochi giorni</h3>
+        <p>Partiamo dal pezzo che vi fa perdere più tempo: una prima versione funzionante arriva in pochi giorni o in poche settimane, poi si migliora a fasi.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>I vostri dati, senza ripartire da zero</h3>
+        <p>Importiamo i fogli Excel e gli archivi che avete già e colleghiamo il software ai programmi che usate: fatturazione, contabilità, e-commerce.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Da PC, tablet e telefono</h3>
+        <p>Si apre dal browser o come app: in ufficio, in magazzino, in cantiere o dal cliente, con utenti e permessi diversi.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">05</span>
+        <h3>Canone o pagamento unico</h3>
+        <p>Scegliete voi: un canone mensile con tutto incluso oppure un pagamento unico. Le cifre sono nel nostro <a href="/prezzi/">listino prezzi</a>.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">06</span>
+        <h3>Cresce con voi</h3>
+        <p>Quando cambia il vostro modo di lavorare cambia anche il software: nuovi moduli, report e collegamenti, uno alla volta.</p>
+      </article>
+    </div>
+  </div>
+</section>
+<!--/su-misura-->
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>FAQ</div>
+      <h2 class="title" data-rv="up">Le domande <span class="grad">sulla dashboard aziendale.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Cos'è una dashboard aziendale?<span class="pm"></span></summary>
+        <div class="ans"><p>Una schermata che mostra in tempo reale i numeri principali dell'azienda, presi automaticamente dai programmi che usate.</p></div></details>
+      <details data-rv="up"><summary>Da quali programmi prende i dati?<span class="pm"></span></summary>
+        <div class="ans"><p>Da gestionale, fatturazione, e-commerce, CRM ed Excel: verifichiamo i vostri programmi prima di iniziare.</p></div></details>
+      <details data-rv="up"><summary>Si vede dal telefono?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì, da PC, tablet e telefono, con utenti che vedono solo i numeri di loro competenza.</p></div></details>
+      <details data-rv="up"><summary>Quanto tempo serve?<span class="pm"></span></summary>
+        <div class="ans"><p>Una prima versione in pochi giorni o poche settimane, a seconda di quanti programmi collegare.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="pg-cta">
+  <div class="wrap">
+    <div class="box" data-rv="up">
+      <h2 class="title">Ci raccontate come lavorate oggi?</h2>
+      <p>Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.</p>
+      <a href="/#contatti" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Prenota la chiamata</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Pagine collegate</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/software-controllo-di-gestione/">Software controllo di gestione</a>
+      <a href="/gestionale-personalizzato/">Gestionale personalizzato</a>
+      <a href="/integrazione-software-aziendali/">Integrazione software aziendali</a>
+      <a href="/erp-per-piccole-aziende/">ERP per piccole aziende</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+        <li><a href="../servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="../servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="../servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="../servizi/google-ads/">Google Ads</a></li>
+        <li><a href="../servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="../servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="../servizi/software-automazioni/">Software &amp; automazioni</a></li>
+      
+        <li><a href="/servizi/allestimenti-fieristici/">Allestimenti fieristici</a></li>
+      </ul></div>
+      <div><h5>Siti web</h5><ul>
+        <li><a href="../realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="../realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
+        <li><a href="../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
+        <li><a href="../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../guide/">Guide e approfondimenti</a></li>
+      </ul></div>
+      <div><h5>Gestionali</h5><ul>
+        <li><a href="../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="../gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="../gestionali-su-misura-pordenone/">Gestionali a Pordenone</a></li>
+        <li><a href="../gestionali-su-misura-venezia-mestre/">Gestionali a Venezia e Mestre</a></li>
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
+        <li><a href="../software-gestionale-produzione/">Gestionale per la produzione</a></li>
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="../software-gestionale-magazzino/">Gestionale di magazzino</a></li>
+        <li><a href="../software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a></li>
+        <li><a href="../quanto-costa-un-gestionale/">Quanto costa un gestionale</a></li>
+      
+        <li><a href="/software-gestionale-manutenzioni/">Gestione manutenzione</a></li>
+        <li><a href="/software-contabilita-aziendale/">Contabilità aziendale</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/gestionale-personalizzato/">Gestionale personalizzato</a></li>
+        <li><a href="/erp-per-piccole-aziende/">ERP per piccole aziende</a></li>
+        <li><a href="/dashboard-aziendale/">Dashboard aziendale</a></li>
+        <li><a href="/app-personalizzata/">App personalizzata</a></li>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/software-house-veneto/">Software house in Veneto</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
+      
+        <li><a href="../software-per-pmi/">Software per PMI</a></li>
+        <li><a href="../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="/gestione-documentale-aziendale/">Gestione documentale aziendale</a></li>
+      
+        <li><a href="/app-magazzino-codici-a-barre/">App magazzino e codici a barre</a></li>
+        <li><a href="/app-per-agenti-di-commercio/">App per agenti di commercio</a></li>
+        <li><a href="/app-rapportini-di-lavoro/">App rapportini di lavoro</a></li>
+        <li><a href="/app-per-personal-trainer/">App per personal trainer</a></li>
+        <li><a href="/gestionale-palestra/">Gestionale palestra</a></li>
+        <li><a href="/app-prenotazioni/">App prenotazioni</a></li>
+        <li><a href="/app-fidelizzazione-clienti/">App fidelizzazione clienti</a></li>
+        <li><a href="/sviluppo-web-app/">Sviluppo web app</a></li>
+        <li><a href="/sviluppo-app-aziendali-veneto/">App aziendali in Veneto</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/sito-vetrina/">Sito vetrina</a></li>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="/posizionamento-sito-google/">Posizionamento su Google</a></li>
+        <li><a href="/consulente-seo-treviso/">Consulente SEO a Treviso</a></li>
+        <li><a href="/lead-generation-b2b/">Lead generation B2B</a></li>
+      
+        <li><a href="/migrazione-ecommerce/">Migrazione e-commerce</a></li>
+        <li><a href="/restyling-sito-web/">Restyling sito web</a></li>
+        <li><a href="/web-agency-conegliano/">Web agency Conegliano</a></li>
+        <li><a href="/web-agency-oderzo-motta-di-livenza/">Web agency Oderzo e Motta</a></li>
+        <li><a href="/aprire-un-negozio-online/">Aprire un negozio online</a></li>
+        <li><a href="/quanto-costa-un-ecommerce/">Quanto costa un e-commerce</a></li>
+        <li><a href="/quanto-costa-una-app/">Quanto costa un'app</a></li>
+      
+        <li><a href="/agenzia-seo-milano/">Agenzia SEO a Milano</a></li>
+        <li><a href="/agenzia-link-building/">Agenzia di link building</a></li>
+      
+        <li><a href="/seo-locale/">SEO locale e Google Maps</a></li>
+        <li><a href="/marketing-per-pmi/">Web marketing per PMI</a></li>
+        <li><a href="/whatsapp-aziendale/">WhatsApp aziendale</a></li></ul></div>
+      <div><h5>Settori</h5><ul>
+        <li><a href="/software-gestionale-edilizia/">Edilizia e cantieri</a></li>
+        <li><a href="/software-contabilita-cantiere/">Contabilità di cantiere</a></li>
+        <li><a href="/software-gestionale-impiantisti/">Impianti e manutenzioni</a></li>
+        <li><a href="/software-gestionale-metalmeccanica/">Metalmeccanica</a></li>
+        <li><a href="/software-gestionale-agroalimentare/">Agroalimentare</a></li>
+        <li><a href="/software-gestionale-noleggio/">Noleggio</a></li>
+        <li><a href="/software-gestionale-studi-professionali/">Studi professionali</a></li>
+        <li><a href="/software-gestionale-commesse/">Gestione commesse</a></li>
+        <li><a href="/gestionale-officina-meccanica/">Officine meccaniche</a></li>
+        <li><a href="/software-controllo-di-gestione/">Controllo di gestione</a></li>
+      
+        <li><a href="/gestionale-ristorante/">Gestionale per ristoranti</a></li>
+        <li><a href="/gestionale-hotel/">Gestionale per hotel</a></li>
+        <li><a href="/gestionale-negozio/">Gestionale per negozi</a></li>
+        <li><a href="/gestionale-parrucchieri-centri-estetici/">Gestionale per parrucchieri e centri estetici</a></li>
+        <li><a href="/gestionale-studio-dentistico/">Gestionale per studi dentistici</a></li>
+        <li><a href="/gestionale-agenzia-immobiliare/">Gestionale per agenzie immobiliari</a></li>
+        <li><a href="/gestionale-autonoleggio/">Gestionale per autonoleggio</a></li></ul></div>
+      <div><h5>Fiere</h5><ul>
+        <li><a href="/servizi/allestimenti-fieristici/">Allestimenti fieristici</a></li>
+        <li><a href="/calendario-fiere/">Calendario fiere 2026–2027</a></li>
+        <li><a href="/progetti-stand-fieristici/">Progetti di stand</a></li>
+        <li><a href="/espositori-desk-totem-per-fiere/">Espositori, desk e totem</a></li>
+        <li><a href="/montaggio-stand-fieristici/">Montaggio stand</a></li>
+        <li><a href="/stand-fieristici-su-misura/">Stand su misura</a></li>
+        <li><a href="/stand-modulari/">Stand modulari</a></li>
+        <li><a href="/noleggio-stand-fieristici/">Noleggio stand</a></li>
+        <li><a href="/quanto-costa-uno-stand-fieristico/">Quanto costa uno stand</a></li>
+        <li><a href="/stand-fieristici-per-metratura/">Stand per metratura</a></li>
+        <li><a href="/guide/regolamento-tecnico-fiera/">Regolamento tecnico fiera</a></li>
+        <li><a href="/allestimenti-eventi-showroom-negozi/">Eventi, showroom, negozi</a></li>
+        <li><a href="/allestimenti-fieristici-estero/">Fiere all'estero</a></li>
+        <li><a href="/allestimenti-fieristici-verona/">Stand a Verona</a></li>
+        <li><a href="/allestimenti-fieristici-milano/">Stand a Milano</a></li>
+        <li><a href="/allestimenti-fieristici-bologna/">Stand a Bologna</a></li>
+        <li><a href="/allestimenti-fieristici-padova/">Stand a Padova</a></li>
+        <li><a href="/allestimenti-fieristici-vicenza/">Stand a Vicenza</a></li>
+        <li><a href="/allestimenti-fieristici-pordenone/">Stand a Pordenone</a></li>
+        <li><a href="/allestimenti-fieristici-rimini/">Stand a Rimini</a></li>
+        <li><a href="/allestimenti-fieristici-parma/">Stand a Parma</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/prezzi/">Prezzi</a></li>
+        <li><a href="../#settori">Per chi lavoriamo</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="../#processo">Il nostro metodo</a></li>
+        <li><a href="../chi-siamo/">Chi siamo</a></li>
+        <li><a href="../servizi/">Tutti i servizi</a></li>
+        <li><a href="../#contatti">Contatti</a></li>
+      
+        <li><a href="../glossario/">Glossario</a></li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+</body></html>

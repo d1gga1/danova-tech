@@ -77,7 +77,7 @@ if 'Stand per metratura' not in s:
     lines = ["", "### Stand per metratura e guide fiere (14 ottobre 2026)", f"- Stand per metratura: https://danova-tech.com{HUB[0]}"]
     lines += [f"- {t}: https://danova-tech.com{u}" for u, t in MQ.values()]
     lines += [f"- Guida: {t}: https://danova-tech.com{u}" for u, t in GD.values()]
-    lines += ["- Dati aziendali: squadre di montaggio proprie, magazzino proprio, produzione interna di strutture, arredi e grafiche; stand a due piani; stand anche oltre i 300 mq.",
+    lines += ["- Dati aziendali: squadre di montaggio proprie, magazzino proprio, produzione interna di strutture e arredi in legno; stand a due piani; stand anche oltre i 300 mq.",
               "- Esperienza dichiarata: Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sigep, MICAM, MIDO, Lineapelle, VicenzaOro, Ecomondo, Macfrut, Sicam, Samuexpo."]
     s = s.replace('\n## Pagine principali', '\n'.join(lines) + '\n\n## Pagine principali', 1)
     open(f, 'w', encoding='utf-8').write(s); print('llms aggiornato')

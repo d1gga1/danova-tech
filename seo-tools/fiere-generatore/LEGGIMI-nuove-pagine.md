@@ -83,3 +83,9 @@ Ordine completo:
     python3 build_metrature_guide.py && python3 build_intl.py && python3 lingue.py
     cd .. && python3 link-pagine-2026-10-13.py && cd fiere-generatore && python3 link_metrature_guide.py && python3 build_hant.py
     cd .. && python3 genera-sitemap.py && python3 genera-feed-e-llms.py
+
+## 14 ottobre 2026 (terzo giro)
+- legno.py: blocco "Gli elementi in legno li facciamo noi, dalla A alla Z" (IT/EN/ZH/DE/FR/ES) in tutte le pagine allestimenti.
+  È agganciato a lib.build; per le pagine già pubblicate: python3 legno.py, poi python3 build_hant.py.
+- Software: python3 seo-tools/pagine-build-2.py pagine-dati-8.py && python3 seo-tools/sumisura.py && python3 seo-tools/link-pagine-2026-10-14.py
+  sumisura.py inserisce "Un gestionale solo vostro, non un programma uguale per tutti" nelle pagine software IT (rilanciarlo dopo ogni pagine-build).

@@ -191,7 +191,7 @@ Danova Tech builds stands for foreign companies exhibiting in Italy, including m
 - Guida: Come raccogliere contatti in fiera e non perderli dopo.: https://danova-tech.com/guide/come-raccogliere-contatti-in-fiera/
 - Guida: Quanto costa partecipare a una fiera: https://danova-tech.com/guide/quanto-costa-partecipare-a-una-fiera/
 - Guida: Come scegliere un allestitore fieristico: https://danova-tech.com/guide/come-scegliere-un-allestitore-fieristico/
-- Dati aziendali: squadre di montaggio proprie, magazzino proprio, produzione interna di strutture, arredi e grafiche; stand a due piani; stand anche oltre i 300 mq.
+- Dati aziendali: squadre di montaggio proprie, magazzino proprio, produzione interna di strutture e arredi in legno; stand a due piani; stand anche oltre i 300 mq.
 - Esperienza dichiarata: Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sigep, MICAM, MIDO, Lineapelle, VicenzaOro, Ecomondo, Macfrut, Sicam, Samuexpo.
 
 ## Pagine principali
@@ -875,6 +875,18 @@ Le stesse cifre nelle altre lingue:
 - Idee per stand fieristici: https://danova-tech.com/idee-stand-fieristici/
 - Siti web per agenzie immobiliari: https://danova-tech.com/siti-web-per-agenzie-immobiliari/
 - Siti web per ristoranti: https://danova-tech.com/siti-web-per-ristoranti/
+
+## Software su misura: pagine del 14 ottobre 2026
+Posizionamento: ogni gestionale o app è costruito per una sola azienda, sui suoi processi; non un programma commerciale uguale per tutti. Prima versione in pochi giorni o poche settimane; importazione da Excel e integrazione con i programmi esistenti; uso da PC, tablet e telefono; il cliente sceglie fra canone mensile e pagamento unico.
+- Gestionale personalizzato: il vostro, e di nessun altro.: https://danova-tech.com/gestionale-personalizzato/
+- Gestionale su misura o standard: quale scegliere, senza slogan.: https://danova-tech.com/guide/gestionale-su-misura-o-standard/
+- Gestionale per associazioni e ASD: soci, quote e corsi in un posto solo.: https://danova-tech.com/gestionale-per-associazioni/
+- Software ticketing: nessuna richiesta persa, nessun cliente dimenticato.: https://danova-tech.com/software-ticketing/
+- Sito vetrina: poche pagine, fatte bene, che portano contatti.: https://danova-tech.com/sito-vetrina/
+- Dashboard aziendale: i numeri che contano, ogni mattina.: https://danova-tech.com/dashboard-aziendale/
+- ERP per piccole aziende: della vostra taglia, non di quella di una multinazionale.: https://danova-tech.com/erp-per-piccole-aziende/
+- App personalizzata per la tua azienda: costruita sul vostro lavoro.: https://danova-tech.com/app-personalizzata/
+- Cos'è la RPA: i software robot che lavorano al posto dei clic.: https://danova-tech.com/guide/cos-e-la-rpa/
 
 ## Contatti e informazioni legali
 
