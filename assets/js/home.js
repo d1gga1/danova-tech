@@ -694,8 +694,9 @@ $('#form').addEventListener('submit',e=>{
   if(g('email')) lines.push('Email: '+g('email'));
   const url='https://wa.me/'+WA+'?text='+encodeURIComponent(lines.join('\n'));
   $('#ok').classList.add('on');
-  const w=window.open(url,'_blank','noopener');
-  if(!w) location.href=url;
+  // 14/10/2026: senza 'noopener' (che faceva restituire null a window.open e apriva WhatsApp due volte, anche nella pagina corrente)
+  let w=null; try{ w=window.open(url,'_blank'); }catch(_){}
+  if(w){ try{ w.opener=null; }catch(_){} } else location.href=url;
 });
 
 /* =========================================================

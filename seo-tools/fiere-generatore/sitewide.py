@@ -3,7 +3,7 @@ import os,re,json,sys
 sys.path.insert(0,os.path.dirname(__file__))
 from it_common import CL,CITY_LINKS
 R=os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','..'))
-FIERE_COL=[("Allestimenti fieristici","/servizi/allestimenti-fieristici/"),("Calendario fiere 2026–2027","/calendario-fiere/"),("Montaggio stand","/montaggio-stand-fieristici/"),
+FIERE_COL=[("Allestimenti fieristici","/servizi/allestimenti-fieristici/"),("Stand per metratura","/stand-fieristici-per-metratura/"),("Calendario fiere 2026–2027","/calendario-fiere/"),("Montaggio stand","/montaggio-stand-fieristici/"),
  ("Stand su misura","/stand-fieristici-su-misura/"),("Stand modulari","/stand-modulari/"),("Noleggio stand","/noleggio-stand-fieristici/"),
  ("Quanto costa uno stand","/quanto-costa-uno-stand-fieristico/"),("Eventi, showroom, negozi","/allestimenti-eventi-showroom-negozi/"),
  ("Fiere all'estero","/allestimenti-fieristici-estero/")]+CITY_LINKS

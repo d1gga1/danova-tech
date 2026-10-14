@@ -4,7 +4,7 @@ import sys,os; sys.path.insert(0,os.path.dirname(__file__))
 from lib import *; from it_common import *
 import dati_calendario as DC
 CAL="/calendario-fiere/"
-REQ_JS='<script src="/assets/js/fiere-richiesta.js" defer></script>'
+REQ_JS='<script src="/assets/js/fiere-richiesta.js?v=20261014" defer></script>'
 # ---------------- registro di tutte le pagine fiere (vecchie + nuove), per i link interni
 FIERA_PAGES=[("vinitaly","Stand Vinitaly"),("marmomac","Stand Marmomac"),("salone-del-mobile","Stand Salone del Mobile"),("eicma","Stand EICMA"),
  ("host","Stand Host Milano"),("cosmoprof","Stand Cosmoprof"),("cersaie","Stand Cersaie"),("eima","Stand EIMA"),("sicam","Stand Sicam"),

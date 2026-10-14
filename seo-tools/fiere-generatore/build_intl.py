@@ -96,6 +96,57 @@ T = {
    subj='展台询价：{n}'),
 }
 
+
+REQ_JS = '<script src="/assets/js/fiere-richiesta.js?v=20261014" defer></script>'
+FT = {
+ 'en': dict(t='Request your stand', p='Fill in the fields: WhatsApp opens with your request ready. No WhatsApp? Use the email link.',
+   pts=['Free itemised quote', 'Also at short notice', 'One contact person until dismantling'], fiera='Fair and city', mq='Square metres (approx.)', sp='Type of space',
+   sps=['Inline (1 open side)', 'Corner (2 open sides)', 'Peninsula (3 open sides)', 'Island (4 open sides)', 'Not sure yet'],
+   nome='Full name', az='Company', tel='Phone (with country code)', em='Email (optional)', note='What you need (optional)', btn='Send the request on WhatsApp',
+   alt='Prefer email or cannot use WhatsApp?', mail='Write to info@danova-tech.com', priv='By sending you agree to be contacted; we never share your data.'),
+ 'zh': dict(t='提交展台询价', p='填写以下信息后会打开WhatsApp，询价内容已自动填好。无法使用WhatsApp？请点击邮件链接。',
+   pts=['免费逐项报价', '临近开幕也可评估', '一位联系人负责到撤展'], fiera='展会和城市', mq='面积（平方米，可估算）', sp='展位类型',
+   sps=['单开口（1面开放）', '双开口/角位（2面开放）', '三面开放', '岛型（4面开放）', '还不确定'],
+   nome='姓名', az='公司', tel='电话（含国家代码）', em='邮箱（选填）', note='您的需求（选填）', btn='通过WhatsApp发送询价',
+   alt='更习惯用邮件，或无法使用WhatsApp？', mail='发邮件到 info@danova-tech.com', priv='提交即表示同意我们与您联系；我们不会向任何人分享您的信息。'),
+}
+def richiesta_l(L, fiera='', id='richiesta'):
+    t = FT[L]
+    opts = ''.join(f'<option>{o}</option>' for o in t['sps'])
+    pts = ''.join(f'<li>{x}</li>' for x in t['pts'])
+    return f'''<section id="{id}" class="fr-req-sec">
+  <div class="wrap">
+    <div class="fr-req-box" data-rv="up">
+      <div class="fr-req-txt">
+        <h2 class="title">{t['t']}</h2>
+        <p>{t['p']}</p>
+        <ul class="fr-req-pt">{pts}</ul>
+      </div>
+      <form class="fr-req" novalidate>
+        <div class="fld"><input type="text" name="fiera" id="{id}-fiera" placeholder=" " required value="{E(fiera)}" autocomplete="off"><label for="{id}-fiera">{t['fiera']}</label></div>
+        <div class="fr-req-2">
+          <div class="fld"><input type="text" name="mq" id="{id}-mq" placeholder=" " inputmode="numeric"><label for="{id}-mq">{t['mq']}</label></div>
+          <div class="fld"><select name="spazio" id="{id}-spazio"><option value="" selected hidden></option>{opts}</select><label for="{id}-spazio">{t['sp']}</label></div>
+        </div>
+        <div class="fr-req-2">
+          <div class="fld"><input type="text" name="nome" id="{id}-nome" placeholder=" " required autocomplete="name"><label for="{id}-nome">{t['nome']}</label></div>
+          <div class="fld"><input type="text" name="azienda" id="{id}-azienda" placeholder=" " required autocomplete="organization"><label for="{id}-azienda">{t['az']}</label></div>
+        </div>
+        <div class="fr-req-2">
+          <div class="fld"><input type="tel" name="tel" id="{id}-tel" placeholder=" " required inputmode="tel" autocomplete="tel"><label for="{id}-tel">{t['tel']}</label></div>
+          <div class="fld"><input type="email" name="email" id="{id}-email" placeholder=" " autocomplete="email"><label for="{id}-email">{t['em']}</label></div>
+        </div>
+        <div class="fld"><textarea name="note" id="{id}-note" placeholder=" "></textarea><label for="{id}-note">{t['note']}</label></div>
+        <p class="fr-req-err" role="alert"></p>
+        <button type="submit" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">{t['btn']}</span>
+          {ARR}</button>
+        <p class="form-note">{t['alt']} <a class="fr-req-mail" href="mailto:info@danova-tech.com">{t['mail']}</a>. {t['priv']}</p>
+      </form>
+    </div>
+  </div>
+</section>
+'''
+
 def contact(L, n):
     t = T[L]
     wa = 'https://wa.me/393884706887?text=' + quote(t['wa_txt'].format(n=n))
@@ -178,6 +229,7 @@ def build_fair(f, L):
     p_t = (f'From the brief to a stand <span class="grad">ready at {vn_en}.</span>' if L == 'en' else f'从需求沟通 <span class="grad">到{vn_zh}的完工展台。</span>')
     m += passi("metodo", t['steps_ey'], p_t, None, t['steps'])
     qa = d['qa'] + [(a.format(n=sn), b) for a, b in t['gen_qa']]
+    m += richiesta_l(L, (f"{sn} {year} – {city_en}" if L == 'en' else f"{n}（{city_zh}）{year}"))
     m += faq(t['faq_ey'], t['faq_t'], qa)
     m += contact(L, f"{sn} {year}")
     rel = [(T[L]['pillar'], PILL[L])]
@@ -208,7 +260,7 @@ def build_fair(f, L):
         offers = [f"{sn}展台设计", "模块化展台和特装展台", "现场搭建与拆除", "展台租赁与仓储"]
     evs = [e for e in (event(x, L) for x in f['cal']) if e]
     node = svc(L, P, name, sdesc, offers, city_en)
-    out = build(L, P, title, desc, ogt, ogd, crumbs, m, qa, [node], IM.ALTS[P], wp_extra=({"mentions": evs} if evs else None))
+    out = build(L, P, title, desc, ogt, ogd, crumbs, m, qa, [node], IM.ALTS[P], wp_extra=({"mentions": evs} if evs else None), scripts=REQ_JS)
     print(f"{W(title):3d} {len(desc):3d} {P}")
 
 # ---------------------------------------------------------------- citta'
@@ -247,6 +299,7 @@ def build_city(c, L):
     else:
         qa = [(f"你们在{d['venue_txt']}搭建展台吗？", f"是的。我们在{d['venue_txt']}提供展台设计、材料和现场搭建，并负责与主办方之间的审批和证书。"),
               ("临近开幕还能搭建吗？", "我们会立即评估紧急需求：采用模块化结构和印花布，通常在开幕前几周也能完成。")] + qa
+    m += richiesta_l(L, (f"Trade fair in {d['name']}" if L == 'en' else f"{d['name']}的展会"))
     m += faq(t['faq_ey'], t['faq_t'], qa)
     m += contact(L, d['name'] if L == 'en' else f"{d['name']}的展会")
     rel = [(T[L]['pillar'], PILL[L])] + [(fair_label(L, k), FAIR_URL[L][k]) for k in c['fairs']]
@@ -272,7 +325,7 @@ def build_city(c, L):
         sdesc = f"在{d['venue_txt']}提供展台设计、材料与配件、平面印刷、电气、现场搭建与拆除服务。"
         offers = ["特装展台", "模块化展台", "展台搭建与拆除", "展台租赁"]
     node = svc(L, P, name, sdesc, offers, city_en)
-    build(L, P, title, desc, ogt, ogd, crumbs, m, qa, [node], IM.ALTS[P])
+    build(L, P, title, desc, ogt, ogd, crumbs, m, qa, [node], IM.ALTS[P], scripts=REQ_JS)
     print(f"{W(title):3d} {len(desc):3d} {P}")
 
 # ---------------------------------------------------------------- guida
@@ -347,6 +400,7 @@ def build_guide(L):
         m += testo(sid, title, None, [], lista)
     m += chips("fiere", ("Stand pages for the main Italian fairs" if L == 'en' else "意大利主要展会展台专题"), None, [(fair_label(L, k), FAIR_URL[L][k]) for k in FAIR_URL[L]])
     m += passi("metodo", t['steps_ey'], ('How we work <span class="grad">with foreign exhibitors.</span>' if L == 'en' else '我们如何 <span class="grad">与外国参展商合作。</span>'), None, t['steps'])
+    m += richiesta_l(L)
     m += faq(t['faq_ey'], t['faq_t'], g['qa'])
     m += contact(L, ("a fair in Italy" if L == 'en' else "意大利展会"))
     rel = [(t['pillar'], PILL[L])] + [((f"Exhibition stands in {c['en']['name']}" if L == 'en' else f"{c['zh']['name']}展台搭建"), CITY_URL[L][c['s']]) for c in DI.CITIES]
@@ -355,7 +409,7 @@ def build_guide(L):
     crumbs = [(t['home'], "/en/"), (t['pillar'], PILL[L]), (g['crumb'], None)]
     title = g['title'] if L == 'zh' else g['title']
     node = article_node(SITE + P, IM_STRIP(g['h1']), g['desc'], 'zh-Hans' if L == 'zh' else 'en')
-    build(L, P, title, g['desc'], g['title'].split(' | ')[0], g['desc'], crumbs, m, g['qa'], [node], IM.ALTS[P])
+    build(L, P, title, g['desc'], g['title'].split(' | ')[0], g['desc'], crumbs, m, g['qa'], [node], IM.ALTS[P], scripts=REQ_JS)
     print(f"{W(title):3d} {len(g['desc']):3d} {P}")
 IM_STRIP = strip_tags
 

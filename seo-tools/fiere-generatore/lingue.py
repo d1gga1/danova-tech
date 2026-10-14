@@ -25,6 +25,9 @@ for L,d in D.items():
         m+=chips('fiere-italia',t1,t2,cl+fl+[(gt,gu)])
     m+=chips('esperienza',d['e_t'],None,[(f,None) for f in FIERE])
     m+=passi('metodo',d['p_ey'],d['p_t'],None,d['steps'])
+    if L in ('en','zh'):
+        from build_intl import richiesta_l  # 14/10/2026 modulo richiesta nelle pagine EN/ZH
+        m+=richiesta_l(L)
     m+=faq(d['faq_ey'],d['faq_t'],d['qa'])
     m+=f'''<section class="pg-cta" id="contatti-fiera">
   <div class="wrap">
@@ -42,4 +45,4 @@ for L,d in D.items():
 '''
     node=service_node(SITE+d['path'],d['svc_name'],d['svc_name'],d['svc_desc'],
       [{"@type":"Country","name":"Italy"},{"@type":"Place","name":"Europe"}],d['offers'],L)
-    print(build(L,d['path'],d['title'],d['desc'],d['ogt'],d['ogd'],d['crumbs'],m,d['qa'],[node],ALTS))
+    print(build(L,d['path'],d['title'],d['desc'],d['ogt'],d['ogd'],d['crumbs'],m,d['qa'],[node],ALTS,scripts=('<script src="/assets/js/fiere-richiesta.js?v=20261014" defer></script>' if L in ('en','zh') else '')))

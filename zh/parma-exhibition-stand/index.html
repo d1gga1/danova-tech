@@ -495,6 +495,37 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
     </ol>
   </div>
 </section>
+<section id="richiesta" class="fr-req-sec">
+  <div class="wrap">
+    <div class="fr-req-box" data-rv="up">
+      <div class="fr-req-txt">
+        <h2 class="title">提交展台询价</h2>
+        <p>填写以下信息后会打开WhatsApp，询价内容已自动填好。无法使用WhatsApp？请点击邮件链接。</p>
+        <ul class="fr-req-pt"><li>免费逐项报价</li><li>临近开幕也可评估</li><li>一位联系人负责到撤展</li></ul>
+      </div>
+      <form class="fr-req" novalidate>
+        <div class="fld"><input type="text" name="fiera" id="richiesta-fiera" placeholder=" " required value="帕尔马的展会" autocomplete="off"><label for="richiesta-fiera">展会和城市</label></div>
+        <div class="fr-req-2">
+          <div class="fld"><input type="text" name="mq" id="richiesta-mq" placeholder=" " inputmode="numeric"><label for="richiesta-mq">面积（平方米，可估算）</label></div>
+          <div class="fld"><select name="spazio" id="richiesta-spazio"><option value="" selected hidden></option><option>单开口（1面开放）</option><option>双开口/角位（2面开放）</option><option>三面开放</option><option>岛型（4面开放）</option><option>还不确定</option></select><label for="richiesta-spazio">展位类型</label></div>
+        </div>
+        <div class="fr-req-2">
+          <div class="fld"><input type="text" name="nome" id="richiesta-nome" placeholder=" " required autocomplete="name"><label for="richiesta-nome">姓名</label></div>
+          <div class="fld"><input type="text" name="azienda" id="richiesta-azienda" placeholder=" " required autocomplete="organization"><label for="richiesta-azienda">公司</label></div>
+        </div>
+        <div class="fr-req-2">
+          <div class="fld"><input type="tel" name="tel" id="richiesta-tel" placeholder=" " required inputmode="tel" autocomplete="tel"><label for="richiesta-tel">电话（含国家代码）</label></div>
+          <div class="fld"><input type="email" name="email" id="richiesta-email" placeholder=" " autocomplete="email"><label for="richiesta-email">邮箱（选填）</label></div>
+        </div>
+        <div class="fld"><textarea name="note" id="richiesta-note" placeholder=" "></textarea><label for="richiesta-note">您的需求（选填）</label></div>
+        <p class="fr-req-err" role="alert"></p>
+        <button type="submit" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">通过WhatsApp发送询价</span>
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button>
+        <p class="form-note">更习惯用邮件，或无法使用WhatsApp？ <a class="fr-req-mail" href="mailto:info@danova-tech.com">发邮件到 info@danova-tech.com</a>. 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。</p>
+      </form>
+    </div>
+  </div>
+</section>
 <section id="faq">
   <div class="wrap">
     <div class="sec-head">
@@ -580,6 +611,7 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
 </button>
 
 <script src="/assets/js/pagina.js" defer></script>
+<script src="/assets/js/fiere-richiesta.js?v=20261014" defer></script>
 <!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
 <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
 <!-- End Cloudflare Web Analytics -->
