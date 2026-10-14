@@ -168,6 +168,14 @@ F=[
 ("wtm","WTM – World Travel Market","london","turismo","2026-11-03","2026-11-05",1,"https://www.wtm.com",""),
 ("watches-wonders","Watches and Wonders Geneva","geneve","gioielli","2027-04-05","2027-04-11",1,"https://www.watchesandwonders.com",""),
 ("art-basel","Art Basel","basel","arte","2027-06-17","2027-06-20",1,"https://www.artbasel.com",""),
+# ---------------- VERONA (aggiunte 14/10/2026: calendario ufficiale Veronafiere; 2027 da confermare)
+("verona-mineral-show","Verona Mineral Show","verona","gioielli","2026-11-20","2026-11-22",1,"https://www.veronafiere.it/manifestazione/verona-mineral-show-2026-2/","Minerali, fossili e preziosi"),
+("job-orienta","JOB&Orienta","verona","arte","2026-11-25","2026-11-28",1,"https://www.veronafiere.it/manifestazione/joborienta-2026/","Orientamento, scuola, formazione e lavoro"),
+("numisfero","Numisfero","verona","arte","2026-12-10","2026-12-12",1,"https://www.veronafiere.it/manifestazione/numisfero-2026/","Collezionismo"),
+("motor-bike-expo","Motor Bike Expo","verona","auto","2027-01-22","2027-01-24",0,"https://www.veronafiere.it/calendario-fiere/",""),
+("sol-expo","SOL Expo","verona","food","2027-02-28","2027-03-02",0,"https://www.veronafiere.it/calendario-fiere/","Olio extravergine e agroalimentare"),
+("model-expo","Model Expo Italy","verona","sport","2027-03-06","2027-03-07",0,"https://www.veronafiere.it/calendario-fiere/","Modellismo"),
+("automotive-dealer-day","Automotive Dealer Day","verona","auto","2027-05-11","2027-05-13",0,"https://www.veronafiere.it/calendario-fiere/",""),
 ]
 FIERE={f[0]:f for f in F}
 MESI=['gennaio','febbraio','marzo','aprile','maggio','giugno','luglio','agosto','settembre','ottobre','novembre','dicembre']

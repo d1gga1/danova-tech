@@ -300,3 +300,4 @@ R+=[
 ("progetto-stand-tavolo-disegni",["/guide/regolamento-tecnico-fiera/"],None,"Render di tavolo di progettazione con piante e prospetti di uno stand, plastico di stand a due piani e render 3D sul portatile","Render illustrativo: progetto e disegni di uno stand da presentare all'ente fiera."),
 ("stand-quadro-elettrico-allestimento",["/guide/dichiarazione-di-conformita-stand/"],None,"Render del quadro elettrico di uno stand fieristico installato nel ripostiglio in legno, con cablaggi ordinati verso luci e schermo","Render illustrativo: quadro elettrico di uno stand durante l'allestimento."),
 ]
+RIUSO.update({"/totem-pubblicitari/":"espositori-desk-totem-fiera","/espositori-pubblicitari/":"allestimento-showroom-evento"})  # 14/10/2026

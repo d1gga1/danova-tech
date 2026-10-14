@@ -109,7 +109,7 @@ dict(s="treviso",c="Treviso",q="Treviso e provincia",venue=None,sedi="la nostra 
   ("Prova di montaggio.","Per gli stand su misura possiamo premontare le parti principali prima della fiera."),
   ("Magazzino vicino.","Lo stand resta a pochi chilometri dall'azienda fra una fiera e l'altra."),
   ("Dalla Marca a tutta Europa.","Verona, Milano, Bologna, Pordenone e le fiere estere con lo stesso referente.")],
- qa=[("Dove siete?","A Mansuè (TV), in via Rigole 48: seguiamo le aziende di Treviso e provincia e lavoriamo in tutte le fiere italiane ed europee."),
+ qa=[("Dove siete?","La sede è a Mansuè (TV), in via Rigole 48, con la produzione a Fontanelle (TV) e Trumello (PV) e uffici a Trumello e a Vermezzo con Zelo (MI): seguiamo le aziende di Treviso e provincia e lavoriamo in tutte le fiere italiane ed europee."),
   ("Allestite anche eventi aziendali e showroom in provincia?","Sì: open day, convention, showroom e negozi. Vedi <a href=\"/allestimenti-eventi-showroom-negozi/\">allestimenti per eventi e showroom</a>.")]),
 dict(s="udine",c="Udine",q="Udine e Gorizia Fiere",venue="udine",sedi="quartiere fieristico di Torreano di Martignacco",
  fiere=[("Casa Moderna",None),("Fiere agricole e di settore",None),("Eventi e manifestazioni per il pubblico",None)],

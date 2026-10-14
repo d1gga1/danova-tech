@@ -230,6 +230,7 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
         <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
         <li><a href="https://wa.me/393884706887">WhatsApp +39 388 470 6887</a></li>
         <li>Via Rigole 48, 31040 Mansuè (TV), Italia</li>
+        <li>Fontanelle (TV) · Trumello (PV) · Vermezzo con Zelo (MI)</li>
       </ul></div>
       <div><h5>{z["more"]}</h5><ul>
         <li><a href="/en/exhibition-stand-builder-italy/">English</a></li>

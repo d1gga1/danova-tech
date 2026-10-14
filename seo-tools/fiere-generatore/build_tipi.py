@@ -218,7 +218,7 @@ T("/grafica-per-stand-fieristici/","Grafica per stand fieristici: stampa e posa 
  "Grafica per stand fieristici: progetto, impaginazione, stampa su tessuto teso e pannelli rigidi, posa in fiera.")
 
 # ---------------- LEDWALL E LUCI
-T("/ledwall-e-illuminazione-stand/","Ledwall e illuminazione per stand fieristici | Danova Tech",
+T("/ledwall-e-illuminazione-stand/","Noleggio ledwall e illuminazione per stand ed eventi",
  "Ledwall, monitor e illuminazione per stand fieristici a noleggio o in acquisto: progetto luci, impianto elettrico certificato, potenze per l'ente fiera e contenuti video.",
  "Ledwall e luci",'Ledwall e illuminazione: <span class="grad">lo stand che si accende</span>.',
  "Luce e schermi fanno la differenza fra uno stand che si vede e uno che si nota. Progettiamo l'illuminazione sul prodotto, forniamo ledwall e monitor a noleggio, realizziamo l'impianto elettrico certificato e calcoliamo la potenza da richiedere all'ente fiera.",

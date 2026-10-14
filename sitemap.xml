@@ -541,6 +541,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/calendario-fiere-agricoltura/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-agricoltura/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-agricoltura/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-arredo-e-design/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-arredo-e-design/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-arredo-e-design/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/calendario-fiere-bologna/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-bologna/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-bologna/"/>
@@ -552,12 +568,60 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/calendario-fiere-edilizia-ed-energia/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-edilizia-ed-energia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-edilizia-ed-energia/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-elettronica-e-tecnologia/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-elettronica-e-tecnologia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-elettronica-e-tecnologia/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-firenze/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-firenze/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-firenze/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-food-e-ristorazione/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-food-e-ristorazione/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-food-e-ristorazione/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-meccanica-e-industria/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-meccanica-e-industria/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-meccanica-e-industria/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/calendario-fiere-milano/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-milano/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-milano/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-milano-rho-tecnologia.webp</image:loc>
     </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-moda/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-moda/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-moda/"/>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -580,6 +644,22 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-sigep-gelato-pasticceria.webp</image:loc>
     </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-turismo/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-turismo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-turismo/"/>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/calendario-fiere-verona/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-verona/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-verona/"/>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -727,7 +807,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/conditions/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/condiciones/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -739,7 +819,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/cookies/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/cookies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -751,7 +831,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/privacidad/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -804,7 +884,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-individualsoftware-deutschland.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -815,7 +895,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-individualsoftware-oesterreich.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -827,7 +907,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/contact/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/contacto/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/contatti/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -842,7 +922,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-google-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -857,7 +937,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -872,7 +952,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-individuelle-apps.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -887,7 +967,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-meta-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -902,7 +982,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-seo.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -917,7 +997,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-software-automatisierung.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -932,7 +1012,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-warenwirtschaft-crm.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -947,7 +1027,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-leistungen-websites-ecommerce.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -981,7 +1061,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-preise.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -992,7 +1072,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-seo-agentur-berlin.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1003,7 +1083,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-seo-agentur-muenchen.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1014,7 +1094,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-seo-agentur-wien.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1025,7 +1105,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-softwareentwicklung-schweiz.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1037,7 +1117,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/a-propos/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/sobre-nosotros/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/chi-siamo/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1052,7 +1132,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-was-kostet-eine-website.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1063,7 +1143,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-berlin.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1074,7 +1154,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-deutschland.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1085,7 +1165,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-frankfurt.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1096,7 +1176,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-graz.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1107,7 +1187,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-hamburg.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1118,7 +1198,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-kaernten.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1129,7 +1209,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-muenchen.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1140,7 +1220,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-oesterreich.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1151,7 +1231,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-schweiz.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1162,7 +1242,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-suedtirol.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1173,7 +1253,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-wien.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1184,7 +1264,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/de-webagentur-zuerich.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1229,7 +1309,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/a-propos/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/sobre-nosotros/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/chi-siamo/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1240,7 +1320,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-ada-website-audit.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1262,7 +1342,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-api-integration-services.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1273,7 +1353,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-business-process-automation.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1312,7 +1392,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-construction-management-software.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1324,7 +1404,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/contact/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/contacto/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/contatti/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1335,7 +1415,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-contractor-website-design.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1347,7 +1427,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/cookies/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/cookies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1372,7 +1452,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-custom-crm-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1383,7 +1463,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-custom-erp-crm-development-usa.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1609,7 +1689,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-field-service-app-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1620,7 +1700,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-gym-fitness-app-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1631,7 +1711,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-hire-app-developers.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1660,7 +1740,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-how-much-does-a-website-cost.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1671,7 +1751,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-how-much-does-an-app-cost.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1682,7 +1762,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-how-much-does-custom-software-cost.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1791,7 +1871,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-manufacturing-software-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1830,7 +1910,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-medical-practice-website-design.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1841,7 +1921,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-mes-software-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1880,7 +1960,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-mobile-app-development-company-uk.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1902,7 +1982,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-mvp-development-for-startups.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1913,7 +1993,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-outsourcing-software-development-to-europe.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1942,7 +2022,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-pricing.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -1954,7 +2034,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/privacidad/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -1965,7 +2045,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-property-management-software-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1976,7 +2056,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-real-estate-website-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1987,7 +2067,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-restaurant-website-design.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2012,7 +2092,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-seo-company-usa.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2027,7 +2107,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-custom-apps.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2042,7 +2122,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-erp-crm.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2057,7 +2137,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-google-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2072,7 +2152,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2087,7 +2167,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-meta-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2102,7 +2182,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-seo.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2117,7 +2197,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-software-automation.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2132,7 +2212,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-services-websites-ecommerce.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2143,7 +2223,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-shopify-development-agency.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2182,7 +2262,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-small-business-web-design.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2193,7 +2273,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-atlanta.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2204,7 +2284,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-austin.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2215,7 +2295,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-chicago.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2226,7 +2306,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-company-uk.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2237,7 +2317,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-company-usa.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2248,7 +2328,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-dallas.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2259,7 +2339,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-denver.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2270,7 +2350,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-houston.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2281,7 +2361,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-italy.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2292,7 +2372,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-los-angeles.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2303,7 +2383,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-miami.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2314,7 +2394,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-new-york.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2325,7 +2405,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-orlando.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2336,7 +2416,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-software-development-san-francisco.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2348,7 +2428,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/conditions/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/condiciones/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -2359,7 +2439,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-trucking-logistics-software-development.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2385,7 +2465,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-united-states.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2424,7 +2504,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-app-development-company.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2435,7 +2515,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-agency-london.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2446,7 +2526,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-agency-uk.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2457,7 +2537,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-agency-usa.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2468,7 +2548,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-atlanta.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2479,7 +2559,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-austin.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2490,7 +2570,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-boston.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2501,7 +2581,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-charlotte.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2512,7 +2592,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-chicago.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2523,7 +2603,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-columbus.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2534,7 +2614,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-dallas.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2545,7 +2625,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-denver.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2556,7 +2636,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-detroit.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2567,7 +2647,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-for-law-firms.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2579,7 +2659,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-houston.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2590,7 +2670,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-kansas-city.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2601,7 +2681,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-las-vegas.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2613,7 +2693,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-los-angeles.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2625,7 +2705,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-miami.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2636,7 +2716,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-minneapolis.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2647,7 +2727,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-nashville.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2659,7 +2739,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-new-york.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2670,7 +2750,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-orlando.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2681,7 +2761,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-philadelphia.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2692,7 +2772,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-phoenix.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2703,7 +2783,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-portland.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2714,7 +2794,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-raleigh.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2725,7 +2805,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-salt-lake-city.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2737,7 +2817,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-san-antonio.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2748,7 +2828,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-san-diego.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2759,7 +2839,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-san-francisco.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2770,7 +2850,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-san-jose.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2781,7 +2861,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-seattle.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2792,7 +2872,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-tampa.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2803,7 +2883,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-web-design-washington-dc.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2814,7 +2894,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-website-privacy-laws-us-states.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2825,7 +2905,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/en-wordpress-web-design.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2861,7 +2941,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-agencia-seo-espana.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2872,7 +2952,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-agencia-seo-valencia.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2884,7 +2964,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/conditions/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/condiciones/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -2896,7 +2976,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/contact/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/contacto/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/contatti/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2908,7 +2988,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/cookies/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/cookies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -2923,7 +3003,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-cuanto-cuesta-una-pagina-web.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2934,7 +3014,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-barcelona.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2945,7 +3025,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-espana.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2957,7 +3037,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-houston.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2969,7 +3049,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-los-angeles.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2980,7 +3060,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-madrid.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2992,7 +3072,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-miami.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3004,7 +3084,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-nueva-york.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3016,7 +3096,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-san-antonio.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3027,7 +3107,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-sevilla.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3038,7 +3118,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-diseno-web-valencia.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3050,7 +3130,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-estados-unidos.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3126,7 +3206,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-precios.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -3138,7 +3218,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/privacidad/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -3153,7 +3233,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-apps-a-medida.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3168,7 +3248,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-erp-crm.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3183,7 +3263,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-google-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3198,7 +3278,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3213,7 +3293,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-meta-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3228,7 +3308,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-seo.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3243,7 +3323,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-software-automatizacion.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3258,7 +3338,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-servicios-webs-ecommerce.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3270,7 +3350,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/a-propos/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/sobre-nosotros/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/chi-siamo/"/>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3281,7 +3361,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/es-software-a-medida-espana.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3297,6 +3377,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/espositori-pubblicitari/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/espositori-pubblicitari/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/espositori-pubblicitari/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/allestimento-showroom-evento.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/fr/a-propos/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/chi-siamo/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/about/"/>
@@ -3304,7 +3395,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/a-propos/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/sobre-nosotros/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/chi-siamo/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3315,7 +3406,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-seo-bordeaux.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3326,7 +3417,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-seo-france.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3337,7 +3428,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-web-bruxelles.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3348,7 +3439,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-web-geneve.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3359,7 +3450,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-web-lyon.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3370,7 +3461,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-web-marseille.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3381,7 +3472,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-agence-web-paris.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3393,7 +3484,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/conditions/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/condiciones/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -3405,7 +3496,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/confidentialite/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/privacidad/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -3417,7 +3508,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/contact/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/contacto/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/contatti/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3429,7 +3520,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/cookies/"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://danova-tech.com/es/cookies/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -3440,7 +3531,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-creation-site-internet-belgique.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3451,7 +3542,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-creation-site-internet-france.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3504,7 +3595,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-logiciel-sur-mesure-france.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3519,7 +3610,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-prix-creation-site-internet.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3534,7 +3625,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-applications-sur-mesure.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3549,7 +3640,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-erp-crm.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3564,7 +3655,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-google-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3579,7 +3670,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3594,7 +3685,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-logiciels-automatisation.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3609,7 +3700,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-meta-ads.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3624,7 +3715,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-seo.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3639,7 +3730,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-services-sites-web-ecommerce.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3673,7 +3764,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/fr-tarifs.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -6178,6 +6269,17 @@
     <lastmod>2026-10-14</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/totem-pubblicitari/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/totem-pubblicitari/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/totem-pubblicitari/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/espositori-desk-totem-fiera.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/tr/italya-fuar-standi/</loc>

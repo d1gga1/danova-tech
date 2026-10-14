@@ -5,6 +5,13 @@ fieristico, organizzazione in base alla distanza e link all'hub regionale. Idemp
 import re, math
 A, B = '<!--fr-logistica-->', '<!--/fr-logistica-->'
 SEDE = (45.826, 12.533)
+# Sedi operative (14/10/2026): la distanza si calcola dalla sede piu' vicina al quartiere fieristico
+SEDI = [
+ ("Mansuè (TV)", "Dalla sede di Mansuè (TV)", "Mansuè", 45.826, 12.533),
+ ("Fontanelle (TV)", "Dalla produzione di Fontanelle (TV)", "Fontanelle", 45.834, 12.467),
+ ("Trumello (PV)", "Dalla produzione e dagli uffici di Trumello (PV)", "Trumello", 45.094, 8.882),
+ ("Vermezzo con Zelo (MI)", "Dagli uffici di Vermezzo con Zelo (MI)", "Vermezzo", 45.392, 8.978),
+]
 # slug: (citta, sede fieristica, lat, lon, regione-hub or None)
 C = {
  'verona': ("Verona", "Veronafiere", 45.4186, 10.9826, 'veneto'),
@@ -34,10 +41,14 @@ C = {
 HUBS = {'veneto': ("Veneto", "/allestimenti-fieristici-veneto/"), 'lombardia': ("Lombardia", "/allestimenti-fieristici-lombardia/"),
         'emilia': ("Emilia-Romagna", "/allestimenti-fieristici-emilia-romagna/")}
 
-def km(lat, lon):
-    R = 6371; p1, p2 = math.radians(SEDE[0]), math.radians(lat)
-    d = 2 * R * math.asin(math.sqrt(math.sin((p2 - p1) / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(math.radians(lon - SEDE[1]) / 2) ** 2))
+def km(lat, lon, da=None):
+    da = da or SEDE
+    R = 6371; p1, p2 = math.radians(da[0]), math.radians(lat)
+    d = 2 * R * math.asin(math.sqrt(math.sin((p2 - p1) / 2) ** 2 + math.cos(p1) * math.cos(p2) * math.sin(math.radians(lon - da[1]) / 2) ** 2))
     return int(round(d * 1.3 / 10.0)) * 10 or 10
+
+def piu_vicina(lat, lon):
+    return min(((km(lat, lon, (a, b)),) + x[:3] for x in SEDI for a, b in [x[3:5]]), key=lambda t: t[0])
 
 def ore(k):
     h = k / 85.0
@@ -49,24 +60,24 @@ def ore(k):
 
 def blocco(slug):
     c, sede, lat, lon, hub = C[slug]
-    k = km(lat, lon)
+    k, DA, DA_LUNGO, DA_BREVE = piu_vicina(lat, lon)
     if slug == 'treviso':
-        d1 = f"Treviso è la nostra provincia: la sede di Mansuè è a circa {k} km dal capoluogo. Qui lavoriamo come a casa: sopralluoghi in giornata, consegne con i nostri mezzi e interventi durante l'evento anche con poche ore di preavviso."
+        d1 = f"Treviso è la nostra provincia: tra la sede di Mansuè e la produzione di Fontanelle siamo a circa {k} km dal capoluogo. Qui lavoriamo come a casa: sopralluoghi in giornata, consegne con i nostri mezzi e interventi durante l'evento anche con poche ore di preavviso."
     elif k <= 80:
-        d1 = f"Da Mansuè (TV) a {sede} ci sono circa {k} km, {ore(k)} di furgone. Per {c} lavoriamo come per una fiera di casa: sopralluogo in giornata, materiali portati con i nostri mezzi, squadra che rientra la sera e che può tornare in fiera durante la manifestazione se serve un intervento."
+        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km, {ore(k)} di furgone. Per {c} lavoriamo come per una fiera di casa: sopralluogo in giornata, materiali portati con i nostri mezzi, squadra che rientra la sera e che può tornare in fiera durante la manifestazione se serve un intervento."
     elif k <= 300:
-        d1 = f"Da Mansuè (TV) a {sede} ci sono circa {k} km, {ore(k)} di strada. Organizziamo il trasporto con i nostri mezzi o con corriere dedicato, la squadra di montaggio lavora in trasferta per i giorni di allestimento e un referente resta raggiungibile per tutta la durata della fiera."
+        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km, {ore(k)} di strada. Organizziamo il trasporto con i nostri mezzi o con corriere dedicato, la squadra di montaggio lavora in trasferta per i giorni di allestimento e un referente resta raggiungibile per tutta la durata della fiera."
     else:
-        d1 = f"Da Mansuè (TV) a {sede} ci sono circa {k} km. Per una fiera così lontana pianifichiamo tutto in anticipo: stand e materiali viaggiano con trasporto dedicato, la squadra di montaggio è in trasferta (con partner locali quando conviene) e pass, orari di scarico e pratiche con l'ente fiera sono pronti prima di partire."
+        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km. Per una fiera così lontana pianifichiamo tutto in anticipo: stand e materiali viaggiano con trasporto dedicato, la squadra di montaggio è in trasferta (con partner locali quando conviene) e pass, orari di scarico e pratiche con l'ente fiera sono pronti prima di partire."
     d2 = "La distanza non cambia il preventivo a sorpresa: trasporto e trasferta sono voci separate e chiare, così sai da subito quanto pesano sul totale. Se esponi più volte nella stessa zona, uno stand di proprietà conservato in magazzino riduce i costi di ogni fiera."
-    lis = [("Distanza dalla sede.", f"Circa {k} km da Mansuè (TV) a {sede}, stima su strada."),
+    lis = [("Distanza dalla sede.", f"Circa {k} km da {DA} a {sede}, stima su strada. Le nostre sedi: Mansuè e Fontanelle (TV), Trumello (PV), Vermezzo con Zelo (MI)."),
            ("Trasporto.", "Con mezzi nostri o corriere dedicato, coordinato con gli orari di scarico della fiera."),
            ("Squadra.", "Montatori nostri e partner di fiducia, con un referente unico dall'arrivo allo smontaggio.")]
     if hub:
         n, u = HUBS[hub]
         lis.append(("In regione.", f"Tutti i quartieri fieristici della regione nella pagina <a href=\"{u}\">allestimenti fieristici in {n}</a>."))
     li = ''.join(f'\n      <li><b>{b}</b> {t}</li>' for b, t in lis)
-    return (f'{A}<section id="logistica">\n  <div class="wrap">\n    <div class="sec-head">\n      <h2 class="title" data-rv="up">Da Mansuè a {c}: <span class="grad">logistica e tempi</span></h2>\n    </div>\n'
+    return (f'{A}<section id="logistica">\n  <div class="wrap">\n    <div class="sec-head">\n      <h2 class="title" data-rv="up">Da {DA_BREVE} a {c}: <span class="grad">logistica e tempi</span></h2>\n    </div>\n'
             f'    <div class="pg-testo" data-rv="up">\n      <p>{d1}</p>\n      <p>{d2}</p>\n    </div>\n    <ul class="pg-lista" data-rv="up">{li}\n    </ul>\n  </div>\n</section>\n{B}\n')
 
 def inject(s, path):
