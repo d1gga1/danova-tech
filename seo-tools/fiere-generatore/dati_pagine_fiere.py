@@ -152,8 +152,8 @@ dict(k="samuexpo",cal=["samuexpo"],nome="Samuexpo",citta="Pordenone",cs="pordeno
   ("Siete vicini a Pordenone?","Sì, la nostra sede è a Mansuè (TV), a pochi chilometri dal quartiere fieristico.")],
  off=["Stand per Samuexpo","Pedane e allacci per macchinari","Stand modulari per fiere della meccanica","Montaggio a Pordenone Fiere"]),
 
-dict(k="sigep",cal=["sigep"],nome="Sigep World",citta="Rimini",cs="rimini",q="Rimini Expo Centre",sett="food",cad="Annuale, a gennaio",exp=False,
- lead="Stand per Sigep World a Rimini: laboratori a vista, vetrine per gelato e pasticceria, allacci elettrici e idrici, aree assaggio, grafica e montaggio al Rimini Expo Centre.",
+dict(k="sigep",cal=["sigep"],nome="Sigep World",citta="Rimini",cs="rimini",q="Rimini Expo Centre",sett="food",cad="Annuale, a gennaio",exp=True,
+ lead="Stand per Sigep World a Rimini: laboratori a vista, vetrine per gelato e pasticceria, allacci elettrici e idrici, aree assaggio, grafica e montaggio al Rimini Expo Centre. Abbiamo già allestito stand al Sigep.",
  intro=["Sigep World è la fiera internazionale del foodservice dolce: gelateria, pasticceria, panificazione, cioccolato e caffè. A gennaio, al Rimini Expo Centre, produttori di ingredienti, macchine, vetrine e arredi incontrano artigiani, catene e distributori da tutto il mondo.",
   "Al Sigep si lavora dal vivo: il gelato si manteca davanti al pubblico, i pasticceri fanno dimostrazioni, il caffè si estrae in continuazione. Lo stand è un laboratorio aperto, con macchine assetate di potenza elettrica, acqua e scarichi, e deve restare pulito e attraente per cinque giorni di lavoro intenso."],
  esig=[("Laboratorio a vista.","Piani di lavoro, lavelli e attrezzature disposti perché il pubblico veda le lavorazioni senza intralciare chi lavora."),
@@ -182,8 +182,8 @@ dict(k="cibus",cal=["cibus","cibus-tec"],nome="Cibus",citta="Parma",cs="parma",q
   ("Avete soluzioni per chi fa molte fiere food in Europa?","Sì, uno stand modulare di proprietà si riusa a Cibus, Anuga, SIAL e nelle altre fiere del settore. Le date sono nel <a href=\"/calendario-fiere/\">calendario fiere</a>.")],
  off=["Stand per Cibus","Stand per Cibus Tec","Banchi refrigerati a noleggio","Montaggio a Fiere di Parma"]),
 
-dict(k="vicenzaoro",cal=["vicenzaoro"],nome="VicenzaOro",citta="Vicenza",cs="vicenza",q="Vicenza Expo Centre",sett="gioielli",cad="A gennaio e a settembre",exp=False,
- lead="Stand per VicenzaOro: vetrine e teche di sicurezza, illuminazione per preziosi, salottini riservati, grafica e montaggio al Vicenza Expo Centre, con un fornitore veneto.",
+dict(k="vicenzaoro",cal=["vicenzaoro"],nome="VicenzaOro",citta="Vicenza",cs="vicenza",q="Vicenza Expo Centre",sett="gioielli",cad="A gennaio e a settembre",exp=True,
+ lead="Stand per VicenzaOro: vetrine e teche di sicurezza, illuminazione per preziosi, salottini riservati, grafica e montaggio al Vicenza Expo Centre, con un fornitore veneto. Abbiamo già allestito stand a VicenzaOro.",
  intro=["VicenzaOro è uno degli appuntamenti internazionali di riferimento per gioielleria e oreficeria. Al Vicenza Expo Centre, a gennaio e a settembre, produttori, designer e grossisti incontrano buyer da tutto il mondo; accanto si tengono T.Gold, dedicata alle tecnologie per la lavorazione dei preziosi, e VO Vintage.",
   "Lo stand per la gioielleria è uno degli allestimenti più delicati: deve proteggere merce di grande valore, esaltare metalli e pietre con una luce precisa e offrire riservatezza alle trattative. Il visitatore deve sentirsi in una boutique, non in un padiglione."],
  esig=[("Vetrine e teche di sicurezza.","Teche con vetri adeguati e serrature, integrate negli arredi dello stand."),
@@ -197,8 +197,8 @@ dict(k="vicenzaoro",cal=["vicenzaoro"],nome="VicenzaOro",citta="Vicenza",cs="vic
   ("Siete vicini a Vicenza?","Sì, siamo in Veneto, in provincia di Treviso: per VicenzaOro seguiamo sopralluoghi e assistenza in fiera senza trasferte lunghe.")],
  off=["Stand per VicenzaOro","Vetrine e teche per gioielleria","Illuminazione per preziosi","Montaggio al Vicenza Expo Centre"]),
 
-dict(k="ecomondo",cal=["ecomondo"],nome="Ecomondo",citta="Rimini",cs="rimini",q="Rimini Expo Centre",sett="ambiente",cad="Annuale, a novembre",exp=False,
- lead="Stand per Ecomondo a Rimini, anche riutilizzabili e a basso impatto: strutture modulari, tessuti riciclabili, illuminazione LED, aree incontri e montaggio al Rimini Expo Centre.",
+dict(k="ecomondo",cal=["ecomondo"],nome="Ecomondo",citta="Rimini",cs="rimini",q="Rimini Expo Centre",sett="ambiente",cad="Annuale, a novembre",exp=True,
+ lead="Stand per Ecomondo a Rimini, anche riutilizzabili e a basso impatto: strutture modulari, tessuti riciclabili, illuminazione LED, aree incontri e montaggio al Rimini Expo Centre. Abbiamo già allestito stand a Ecomondo.",
  intro=["Ecomondo è la fiera della green technology e dell'economia circolare: gestione dei rifiuti, riciclo, trattamento delle acque, bonifiche, bioeconomia. A novembre, al Rimini Expo Centre, imprese, utility, enti pubblici e tecnici si confrontano sulle tecnologie per l'ambiente.",
   "Per chi espone a Ecomondo lo stand è anche un messaggio: difficile parlare di economia circolare da uno stand costruito per essere buttato dopo quattro giorni. Strutture riutilizzabili, materiali riciclabili e consumi ridotti sono una scelta coerente, oltre che un risparmio sulle edizioni successive."],
  esig=[("Strutture riutilizzabili.","Telai modulari in alluminio che si smontano, si conservano e si rimontano per anni."),
@@ -227,8 +227,8 @@ dict(k="pitti-uomo",cal=["pitti-uomo","pitti-uomo-giugno"],nome="Pitti Uomo",cit
   ("Fate stand anche per Pitti Bimbo, Pitti Filati e Taste?","Sì, le date di tutte le manifestazioni sono nel <a href=\"/calendario-fiere/\">calendario fiere</a>.")],
  off=["Stand per Pitti Uomo","Allestimenti boutique per la moda","Strutture leggere per spazi storici","Montaggio alla Fortezza da Basso"]),
 
-dict(k="micam",cal=["micam-feb","micam-set"],nome="MICAM Milano",citta="Milano",cs="milano",q="Fiera Milano Rho",sett="moda",cad="Due edizioni l'anno, a febbraio e a settembre",exp=False,
- lead="Stand per MICAM Milano a Fiera Milano Rho: espositori per calzature, mensole illuminate, sedute per la prova, magazzino campionario, grafica e montaggio.",
+dict(k="micam",cal=["micam-feb","micam-set"],nome="MICAM Milano",citta="Milano",cs="milano",q="Fiera Milano Rho",sett="moda",cad="Due edizioni l'anno, a febbraio e a settembre",exp=True,
+ lead="Stand per MICAM Milano a Fiera Milano Rho: espositori per calzature, mensole illuminate, sedute per la prova, magazzino campionario, grafica e montaggio. Abbiamo già allestito stand al MICAM.",
  intro=["MICAM Milano è il salone internazionale della calzatura: due edizioni l'anno, a febbraio e a settembre, a Fiera Milano Rho, in contemporanea con altre manifestazioni della filiera moda e pelle. Calzaturifici e marchi presentano le collezioni a buyer e negozi da tutto il mondo.",
   "Le scarpe si vendono quando si vedono bene e si toccano: lo stand deve esporre decine di modelli in poco spazio, con luce che valorizzi pellami e colori, e offrire ai buyer un tavolo dove sfogliare il campionario e scrivere l'ordine."],
  esig=[("Mensole e pareti espositive.","Mensole illuminate, nicchie e pareti attrezzate per mostrare molti modelli in modo ordinato."),
@@ -242,8 +242,8 @@ dict(k="micam",cal=["micam-feb","micam-set"],nome="MICAM Milano",citta="Milano",
   ("Fate stand anche per Expo Riva Schuh?","Sì, vedi la pagina <a href=\"/stand-expo-riva-schuh/\">stand per Expo Riva Schuh</a>.")],
  off=["Stand per MICAM","Espositori per calzature","Stand riallestibili per due edizioni l'anno","Montaggio a Fiera Milano Rho"]),
 
-dict(k="mido",cal=["mido"],nome="MIDO",citta="Milano",cs="milano",q="Fiera Milano Rho",sett="moda",cad="Annuale, a febbraio",exp=False,
- lead="Stand per MIDO, la fiera dell'occhialeria a Fiera Milano Rho: teche ed espositori per montature, specchi e postazioni prova, luce dedicata, grafica e montaggio.",
+dict(k="mido",cal=["mido"],nome="MIDO",citta="Milano",cs="milano",q="Fiera Milano Rho",sett="moda",cad="Annuale, a febbraio",exp=True,
+ lead="Stand per MIDO, la fiera dell'occhialeria a Fiera Milano Rho: teche ed espositori per montature, specchi e postazioni prova, luce dedicata, grafica e montaggio. Abbiamo già allestito stand al MIDO.",
  intro=["MIDO è la fiera internazionale dell'occhialeria: montature, occhiali da sole, lenti, macchinari per l'ottica e arredi per negozi. Ogni febbraio, a Fiera Milano Rho, produttori e marchi incontrano ottici, catene e distributori da tutto il mondo.",
   "Un occhiale si sceglie provandolo: lo stand deve avere espositori ordinati e sicuri, specchi ben illuminati e postazioni comode per i buyer, che passano molto tempo seduti a selezionare modelli. Le sezioni della fiera hanno identità molto diverse, dal design di ricerca ai grandi gruppi."],
  esig=[("Teche ed espositori sicuri.","Espositori con chiusura per le montature, ordinati per collezione."),
@@ -257,8 +257,8 @@ dict(k="mido",cal=["mido"],nome="MIDO",citta="Milano",cs="milano",q="Fiera Milan
   ("Lo stand si può riutilizzare per Silmo o altre fiere estere?","Sì, con una struttura modulare si adatta a metrature diverse. Trovi le date nel <a href=\"/calendario-fiere/\">calendario fiere</a>.")],
  off=["Stand per MIDO","Espositori e teche per occhialeria","Postazioni prova illuminate","Montaggio a Fiera Milano Rho"]),
 
-dict(k="macfrut",cal=["macfrut"],nome="Macfrut",citta="Rimini",cs="rimini",q="Rimini Expo Centre",sett="agri",cad="Annuale, in primavera",exp=False,
- lead="Stand per Macfrut, la fiera dell'ortofrutta al Rimini Expo Centre: esposizione del prodotto fresco, refrigerazione, pedane per macchinari, aree incontri e montaggio.",
+dict(k="macfrut",cal=["macfrut"],nome="Macfrut",citta="Rimini",cs="rimini",q="Rimini Expo Centre",sett="agri",cad="Annuale, in primavera",exp=True,
+ lead="Stand per Macfrut, la fiera dell'ortofrutta al Rimini Expo Centre: esposizione del prodotto fresco, refrigerazione, pedane per macchinari, aree incontri e montaggio. Abbiamo già allestito stand al Macfrut.",
  intro=["Macfrut è la fiera internazionale della filiera ortofrutticola: produttori, consorzi, aziende di sementi, tecnologie per la raccolta e il confezionamento, logistica e distribuzione. Si tiene in primavera al Rimini Expo Centre, con una forte presenza di buyer esteri.",
   "Esporre frutta e verdura significa lavorare con un prodotto vivo, che deve restare bello per tre giorni. Accanto al fresco ci sono macchine per selezione e confezionamento, imballaggi e servizi: lo stand deve tenere insieme colore, freschezza e tecnica."],
  esig=[("Esposizione del fresco.","Banchi, cassette e vetrine refrigerate che mantengono il prodotto in condizioni perfette."),
@@ -302,3 +302,7 @@ dict(k="fieracavalli",cal=["fieracavalli"],nome="Fieracavalli",citta="Verona",cs
   ("Accettate richieste urgenti?","Sì, valutiamo subito materiali e squadre disponibili.")],
  off=["Stand per Fieracavalli","Stand con area vendita","Montaggio a Veronafiere","Allestimenti per allevamenti e associazioni"]),
 ]
+
+# 14/10/2026: fiere aggiunte (Lineapelle, KEY, EMO, Zoomark, Lamiera, MECSPE, TUTTOFOOD)
+from dati_pagine_fiere_2 import P2
+P+=P2

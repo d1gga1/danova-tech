@@ -9,7 +9,7 @@ qa=[
 ("Accettate anche richieste urgenti?","Sì. Lavoriamo anche a ridosso della fiera: con squadre nostre e squadre esterne riusciamo a organizzare materiali e montaggio in tempi stretti. Prima ci scrivi, più scelta hai su soluzioni e finiture, ma una richiesta urgente non la rifiutiamo a priori."),
 ("Lo stand si può riutilizzare in più fiere?","Sì, ed è spesso la scelta più conveniente se esponi più volte l'anno. Gli stand modulari in alluminio e in tessuto teso nascono per essere smontati e rimontati, anche in configurazioni diverse; tra una fiera e l'altra possiamo conservarli nel nostro magazzino."),
 ("Meglio noleggiare o acquistare lo stand?","Se fai una o due fiere l'anno il noleggio di strutture e arredi di solito conviene; se ne fai molte, o vuoi uno stand riconoscibile che ti segue ovunque, l'acquisto si ripaga nel tempo. Facciamo entrambe le cose e te lo diciamo con i numeri del tuo caso."),
-("In quali fiere lavorate?","In tutti i principali quartieri fieristici italiani, da Verona a Milano, Bologna, Padova, Vicenza, Pordenone, Rimini e Parma, e nelle fiere all'estero, in Germania, Francia, Spagna e nel resto d'Europa. Abbiamo allestito stand a fiere come Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sicam e Samuexpo."),
+("In quali fiere lavorate?","In tutti i principali quartieri fieristici italiani, da Verona a Milano, Bologna, Padova, Vicenza, Pordenone, Rimini e Parma, e nelle fiere all'estero, in Germania, Francia, Spagna e nel resto d'Europa. Abbiamo allestito stand a fiere come Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sigep, MICAM, MIDO, Lineapelle, VicenzaOro, Ecomondo, Macfrut, Sicam e Samuexpo."),
 ("Vi occupate voi delle pratiche con l'ente fiera?","Sì. Il progetto dello stand va approvato secondo il regolamento tecnico della manifestazione, e servono documenti, pass per i montatori e orari per carico e scarico. Ce ne occupiamo noi, così non devi studiare il regolamento."),
 ("Lavorate anche con aziende straniere che espongono in Italia?","Sì, è una parte importante del nostro lavoro. Puoi scriverci nella tua lingua: abbiamo pagine dedicate in inglese, tedesco, francese, spagnolo, cinese, turco e arabo, e seguiamo tutto noi in Italia, dalla fornitura al montaggio."),
 ]
@@ -37,7 +37,7 @@ main+=testo("tipi","Ogni tipo di stand, <span class=\"grad\">a noleggio o in acq
 main+=chips("fiere","Lavoriamo in <span class=\"grad\">tutte le fiere</span>",
  "Siamo presenti nei principali quartieri fieristici italiani e nelle fiere all'estero. Per ogni città trovi una pagina dedicata.",
  CITTA_LINKS_ALL+[("Fiere all'estero","/allestimenti-fieristici-estero/"),("Fiere in Germania","/allestimenti-fieristici-germania/")])
-main+=chips("manifestazioni","Alcune fiere in cui abbiamo allestito stand",None,[(f,FIERA_URL.get({"Salone del Mobile":"salone-del-mobile"}.get(f,f.lower()))) for f in FIERE],"Esperienza")
+main+=chips("manifestazioni","Alcune fiere in cui abbiamo allestito stand",None,[(f,FIERA_URL.get({"Salone del Mobile":"salone-del-mobile"}.get(f,f.lower().replace(" ","-")))) for f in FIERE],"Esperienza")
 main+=chips("calendario-fiere","Calendario fiere 2026–2027, <span class=\"grad\">con mappa</span>",
  "Le date delle principali fiere in Italia e in Europa su una mappa interattiva: clicca una fiera e richiedi lo stand. Qui sotto le pagine dedicate alle fiere più importanti.",
  [("Apri il calendario fiere",CAL)]+FIERA_LINKS)

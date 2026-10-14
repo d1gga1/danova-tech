@@ -5,9 +5,9 @@ R=os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)),'..','
 SITE='https://danova-tech.com'
 TODAY='2026-10-08'
 TPL={'it':'servizi/meta-ads','en':'en/services/meta-ads','de':'de/leistungen/meta-ads','fr':'fr/services/meta-ads','es':'es/servicios/meta-ads'}
-LOCALE={'it':'it_IT','en':'en_US','de':'de_DE','fr':'fr_FR','es':'es_ES','zh':'zh_CN','tr':'tr_TR','ar':'ar_AR'}
-LANGNAME={'it':'Italian','en':'English','de':'German','fr':'French','es':'Spanish','zh':'Chinese','tr':'Turkish','ar':'Arabic'}
-CODE={'it':'IT','en':'EN','de':'DE','fr':'FR','es':'ES','zh':'中文','tr':'TR','ar':'ع'}
+LOCALE={'it':'it_IT','en':'en_US','de':'de_DE','fr':'fr_FR','es':'es_ES','zh':'zh_CN','zh-hant':'zh_TW','tr':'tr_TR','ar':'ar_AR'}
+LANGNAME={'it':'Italian','en':'English','de':'German','fr':'French','es':'Spanish','zh':'Chinese','zh-hant':'Chinese','tr':'Turkish','ar':'Arabic'}
+CODE={'it':'IT','en':'EN','de':'DE','fr':'FR','es':'ES','zh':'简体','zh-hant':'繁體','tr':'TR','ar':'ع'}
 HOMES={'it':'/','en':'/en/','de':'/de/','fr':'/fr/','es':'/es/','zh':'/en/','tr':'/en/','ar':'/en/'}
 CUR=' aria-current="page"'
 ARR='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg>'
@@ -19,6 +19,7 @@ def svg():
         SVG=re.search(r'<svg class="fr-svg".*?</svg>',h,re.S).group(0)
     return SVG
 E=lambda s: html.escape(s,quote=True)
+HLC=lambda l: {'zh':'zh-Hans','zh-hant':'zh-Hant'}.get(l,l)  # codici hreflang (14/10/2026)
 
 def absolutize(s, base):
     def fix(m):
@@ -167,7 +168,7 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
     s=re.sub(r'<link rel="alternate" hreflang="[^"]*" href="[^"]*">\n','',s)
     import intl_map; alts=intl_map.merge(path,alts,lang)  # 14/10/2026: hreflang IT<->EN<->ZH
     alts=alts or {lang:path}
-    hl=''.join(f'<link rel="alternate" hreflang="{("zh-Hans" if l=="zh" else l)}" href="{SITE+p}">\n' for l,p in alts.items())
+    hl=''.join(f'<link rel="alternate" hreflang="{HLC(l)}" href="{SITE+p}">\n' for l,p in alts.items())
     xd=alts.get('it') or alts.get('en') or path
     hl+=f'<link rel="alternate" hreflang="x-default" href="{SITE+xd}">\n'
     s=s.replace(f'<link rel="canonical" href="{url}">\n',f'<link rel="canonical" href="{url}">\n',1)
@@ -205,8 +206,8 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
     s=s[:m.start(2)]+'\n'+json.dumps(g,ensure_ascii=False,indent=2)+'\n'+s[m.end(2):]
     # selettore lingua
     if len(alts)>1:
-        order=[l for l in ('it','en','de','fr','es','zh','tr','ar') if l in alts]
-        mk=lambda ind: ''.join(f'\n{ind}<a href="{alts[l]}" hreflang="{l}"{CUR if l==lang else ""}>{CODE[l]}</a>' for l in order)
+        order=[l for l in ('it','en','de','fr','es','zh','zh-hant','tr','ar') if l in alts]
+        mk=lambda ind: ''.join(f'\n{ind}<a href="{alts[l]}" hreflang="{HLC(l)}"{CUR if l==lang else ""}>{CODE[l]}</a>' for l in order)
     else:
         order=['it','en','de','fr','es']
         mk=lambda ind: ''.join(f'\n{ind}<a href="{path if l==lang else HOMES[l]}" hreflang="{l}"{CUR if l==lang else ""}>{CODE[l]}</a>' for l in order)

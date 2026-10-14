@@ -23,7 +23,9 @@ def when(fid, L):
 
 VEN = {'rho': ('Fiera Milano Rho', 'Milan', '米兰Rho展览中心', '米兰'), 'bologna': ('BolognaFiere', 'Bologna', '博洛尼亚展览中心', '博洛尼亚'),
        'verona': ('Veronafiere', 'Verona', '维罗纳展览中心', '维罗纳'), 'vicenza': ('Vicenza Expo Centre', 'Vicenza', '维琴察展览中心', '维琴察'),
-       'rimini': ('Rimini Expo Centre', 'Rimini', '里米尼展览中心', '里米尼')}
+       'rimini': ('Rimini Expo Centre', 'Rimini', '里米尼展览中心', '里米尼'),
+       'parma': ('Fiere di Parma', 'Parma', '帕尔马展览中心', '帕尔马'), 'firenze': ('Fortezza da Basso', 'Florence', 'Fortezza da Basso展馆', '佛罗伦萨'),
+       'riva': ('Riva del Garda Fierecongressi', 'Riva del Garda', '里瓦展览会议中心', '加尔达湖里瓦'), 'pordenone': ('Pordenone Fiere', 'Pordenone', '波代诺内展览中心', '波代诺内')}
 PILL = {'en': '/en/exhibition-stand-builder-italy/', 'zh': '/zh/italy-exhibition-stand/'}
 GUIDE = {'en': '/en/exhibiting-at-trade-fairs-in-italy/', 'zh': '/zh/italy-trade-fair-guide/'}
 FAIR_URL = {L: {f['k']: f"/{L}/{f[L]['slug']}/" for f in DI.FAIRS} for L in ('en', 'zh')}
@@ -41,7 +43,9 @@ T = {
      ("Rent or buy", "Shell scheme, modular, fabric or custom-built stands, rented or owned."),
      ("Logistics, storage, paperwork", "Transport, passes and unloading slots, approval of the project by the organiser, storage between shows.")],
    foreign_t='Exhibiting from China or from abroad', foreign_l='Most of our international clients have never worked with an Italian stand builder before. This is how we make it simple.',
-   foreign=[("One contact person.", "From the first sketch to dismantling you talk to the same person, in English or Chinese, by email, phone or WhatsApp."),
+   foreign=[("One contact person.", "From the first sketch to dismantling you talk to the same person, by email, phone or WhatsApp: in English, or in Chinese with the help of translation tools."),
+     ("Our own crews, warehouse and production.", "Installation crews, warehouse and in-house production of structures, furniture and graphics: fewer subcontractors, more control over quality and deadlines."),
+     ("Large and two-storey stands.", "From small shell scheme stands to custom stands of over 300 m², including two-storey stands with meeting rooms upstairs."),
      ("We work with your design.", "If your designer in China has already drawn the stand, we build it, check it against the Italian technical regulations and propose changes only where needed."),
      ("Contract with your company.", "We sign and invoice directly with your company, in China or abroad, with an itemised quote in euro."),
      ("Approvals and certificates.", "We submit drawings to the organiser and provide the electrical declaration of conformity and fire-rating certificates."),
@@ -54,7 +58,7 @@ T = {
      ("Show and dismantling", "Assistance during the show, dismantling at the end and, if the stand is yours, storage for next time.")],
    faq_ey='FAQ', faq_t='Questions we are <span class="grad">often asked.</span>',
    gen_qa=[("How much does a stand for {n} cost?", "It depends on floor space, type of structure, finishes, electrics and services. We do not publish standard prices: we send you a free itemised quote for your project."),
-     ("Can we communicate in Chinese?", "Yes, write to us in Chinese or English. We reply to every request."),
+     ("Can we communicate in Chinese?", "Yes. Write to us in Chinese or English: we reply in Chinese with the help of translation tools and confirm important technical details in English too, to avoid misunderstandings."),
      ("Is the stand rented or bought?", "As you prefer: shell scheme, modular, fabric or custom-built, rented or bought. If it is yours, we store it for the next edition.")],
    k_t='Exhibiting at {n}?', k_p='Tell us the fair, the dates and your floor space. We will reply with what you need and what it costs, also at short notice.',
    mail='Write to us', wa='WhatsApp', related='Related pages', it_ver='Italian version',
@@ -69,7 +73,9 @@ T = {
      ("租赁或购买", "标准展台、模块化展台、张拉布展台或特装展台，可租可买。"),
      ("物流、仓储与手续", "运输、证件和卸货时段、主办方方案审批，以及两次展会之间的仓储。")],
    foreign_t='从中国或海外来意大利参展', foreign_l='我们的大多数国际客户以前从未和意大利搭建商合作过。我们这样让一切变得简单。',
-   foreign=[("一位专属联系人。", "从第一张草图到拆展，始终由同一个人对接，可以用中文或英文，通过邮件、电话或WhatsApp沟通。"),
+   foreign=[("一位专属联系人。", "从第一张草图到拆展，始终由同一个人对接，通过邮件、电话或WhatsApp沟通：可以用英文，也可以用中文（我们借助翻译工具回复）。"),
+     ("自有施工团队、仓库和生产。", "自有搭建团队、仓库，以及结构、家具和画面的内部生产：外包环节更少，质量和工期更可控。"),
+     ("大型展台和双层展台。", "从小型标准展台到300平方米以上的特装展台，包括上层设有会议室的双层展台。"),
      ("可以按您的设计施工。", "如果您在国内的设计师已经完成展台设计，我们负责搭建，并按照意大利技术规定进行核查，只在必要时提出修改。"),
      ("直接与贵公司签约。", "我们直接与贵公司（中国或海外公司）签订合同并开具发票，报价以欧元逐项列明。"),
      ("审批和证书。", "我们向主办方提交图纸，并提供电气合格声明和防火等级证书。"),
@@ -82,7 +88,7 @@ T = {
      ("展期与拆除", "展期内现场支持，展会结束后拆除；如果展台归您所有，我们负责仓储到下一次。")],
    faq_ey='常见问题', faq_t='客户经常问的 <span class="grad">问题。</span>',
    gen_qa=[("{n}的展台需要多少钱？", "取决于面积、结构类型、装修、电气和服务内容。我们不公布统一价格，会根据您的项目免费提供逐项报价。"),
-     ("可以用中文沟通吗？", "可以，请用中文或英文联系我们，我们会回复每一个询价。"),
+     ("可以用中文沟通吗？", "可以。请用中文或英文写信给我们：我们借助翻译工具用中文回复，重要的技术细节会同时用英文确认，避免误解。"),
      ("展台是租赁还是购买？", "按您的需要：标准展台、模块化、张拉布或特装展台，可租可买。如果展台归您所有，我们会仓储到下一届。")],
    k_t='准备参加{n}？', k_p='请告诉我们展会名称、日期和展位面积，我们会回复您所需的内容和费用，临近开幕也可以评估。',
    mail='发送邮件', wa='WhatsApp', related='相关页面', it_ver='意大利语版本',
@@ -141,7 +147,7 @@ def build_fair(f, L):
     vn_en, city_en, vn_zh, city_zh = VEN[f['venue']]
     year = min(DC.FIERE[x][4][:4] for x in f['cal'])
     n = d['name']; sn = d.get('short', n)
-    dates = ''.join(f'<span>{DC.FIERE[x][1].replace("(febbraio)","(February)" if L=="en" else "（2月）").replace("(settembre)","(September)" if L=="en" else "（9月）")}: {when(x, L)}</span>' for x in f['cal'])
+    dates = ''.join(f'<span>{DC.FIERE[x][1].replace("(febbraio)","(February)" if L=="en" else "（2月）").replace("(settembre)","(September)" if L=="en" else "（9月）").replace("(giugno)","(June)" if L=="en" else "（6月）")}: {when(x, L)}</span>' for x in f['cal'])
     if L == 'en':
         extra = f'\n    <div class="fr-dates" data-rv="up">{dates}<span>{vn_en}, {city_en}</span></div>'
         h1 = f'{sn} stand builder: <span class="grad">turnkey stands</span> at {vn_en}.'
@@ -185,6 +191,7 @@ def build_fair(f, L):
         title = f"{sn} Stand Builder {year} in {city_en} | Danova Tech"
         if len(title) > 60: title = f"{sn} Stand Builder {year} in {city_en}"
         desc = f"{sn} {year} stand builder at {vn_en}: 3D design, materials, graphics, electrics and on-site installation crews. Free itemised quote."
+        if len(desc) > 158: desc = desc.replace("on-site installation crews", "installation")
         ogt = f"{sn} stand builder — Danova Tech"; ogd = f"Turnkey stands for {sn} at {vn_en}: design, materials, graphics, electrics and installation."
         crumbs = [("Home", "/en/"), (t['pillar'], PILL['en']), (f"{sn} stand builder", None)]
         name = f"Stand design and build for {sn}"
@@ -224,7 +231,7 @@ def build_city(c, L):
     if evs:
         def lab(x):
             k = next((f['k'] for f in DI.FAIRS if x[0] in f['cal']), None)
-            nm = x[1].replace('(febbraio)', '(February)' if L == 'en' else '（2月）').replace('(settembre)', '(September)' if L == 'en' else '（9月）')
+            nm = x[1].replace('(febbraio)', '(February)' if L == 'en' else '（2月）').replace('(settembre)', '(September)' if L == 'en' else '（9月）').replace('(giugno)', '(June)' if L == 'en' else '（6月）')
             link = f' · <a href="{FAIR_URL[L][k]}">{fair_label(L, k)}</a>' if k else ''
             return (nm, when(x[0], L) + link)
         m += testo("calendario", lab_next[0], lab_next[1], [], [lab(x) for x in evs])
@@ -249,6 +256,7 @@ def build_city(c, L):
     if L == 'en':
         title = f"Exhibition Stand Builder in {d['name']} | Danova Tech"
         desc = f"Exhibition stand design and build in {d['name']} ({vn_en}): 3D design, materials, graphics, electrics and installation crews on site. Free itemised quote."
+        if len(desc) > 158: desc = f"Exhibition stand design and build in {d['name']}: 3D design, materials, graphics, electrics and installation crews on site. Free itemised quote."
         ogt = f"Exhibition stand builder in {d['name']} — Danova Tech"; ogd = f"Turnkey trade fair stands at {d['venue_txt']}: design, materials and installation."
         crumbs = [("Home", "/en/"), (t['pillar'], PILL['en']), (d['name'], None)]
         name = f"Exhibition stand design and build in {d['name']}"

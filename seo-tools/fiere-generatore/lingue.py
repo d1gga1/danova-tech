@@ -4,7 +4,7 @@ from lib import *
 from urllib.parse import quote
 import lingue_data1,lingue_data2,lingue_zh,lingue_tr,lingue_ar
 D={**lingue_data1.D,**lingue_data2.D,**lingue_zh.D,**lingue_tr.D,**lingue_ar.D}
-FIERE=["Vinitaly","Marmomac","Salone del Mobile","EICMA","Host","Cosmoprof","Cersaie","EIMA","Sicam","Samuexpo"]
+FIERE=["Vinitaly","Marmomac","Salone del Mobile","EICMA","Host","Cosmoprof","Cersaie","EIMA","Sicam","Samuexpo","Sigep","VicenzaOro","Ecomondo","MICAM","MIDO","Macfrut","Lineapelle"]
 ALTS={'it':'/servizi/allestimenti-fieristici/',**{l:D[l]['path'] for l in D}}
 SUBJ={'en':'Exhibition stand request','de':'Anfrage Messestand','fr':'Demande de stand','es':'Solicitud de stand','zh':'展台询价','tr':'Fuar standı talebi','ar':'طلب جناح معرض'}
 ONLY=sys.argv[1:]  # 14/10/2026: es. python3 lingue.py en zh

@@ -11,7 +11,7 @@ CL=[("Allestimenti fieristici","/servizi/allestimenti-fieristici/"),
  ("Guida: come preparare una fiera","/guide/come-preparare-una-fiera/")]
 CITTA=[("Verona","verona"),("Milano","milano"),("Bologna","bologna"),("Padova","padova"),("Vicenza","vicenza"),("Pordenone","pordenone"),("Rimini","rimini"),("Parma","parma")]
 CITY_LINKS=[(f"Stand a {c}",f"/allestimenti-fieristici-{s}/") for c,s in CITTA]
-FIERE=["Vinitaly","Marmomac","Salone del Mobile","EICMA","Host","Cosmoprof","Cersaie","EIMA","Sicam","Samuexpo"]
+FIERE=["Vinitaly","Marmomac","Salone del Mobile","EICMA","Host","Cosmoprof","Cersaie","EIMA","Sicam","Samuexpo","Sigep","VicenzaOro","Ecomondo","MICAM","MIDO","Macfrut","Lineapelle"]
 PILLAR="/servizi/allestimenti-fieristici/"
 CT="/#contatti"
 FAQ_EY="Domande frequenti"; FAQ_T='Le risposte che <span class="grad">servono davvero.</span>'

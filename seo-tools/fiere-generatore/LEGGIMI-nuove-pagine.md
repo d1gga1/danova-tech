@@ -69,3 +69,17 @@ VicenzaOro, Ecomondo, Macfrut) + 4 città (Milano, Bologna, Verona, Rimini) + 1 
 - `lingue.py en zh` rigenera solo i pillar inglese e cinese (ora con la sezione di link alle pagine fiera/città)
 Ordine:  python3 build_intl.py && python3 lingue.py en zh && cd .. && python3 genera-sitemap.py && python3 genera-feed-e-llms.py
 Le date vengono da dati_calendario.py come per le pagine IT: aggiornate le date lì e rilanciate build_intl.py.
+
+## 14 ottobre 2026 (secondo giro)
+- Esperienza vera estesa a 17 fiere (aggiunte Sigep, VicenzaOro, Ecomondo, MICAM, MIDO, Macfrut, Lineapelle).
+- Cinese: "rispondiamo in cinese con l'aiuto di strumenti di traduzione" (non promettere madrelingua).
+- 7 fiere IT nuove (dati_pagine_fiere_2.py): Lineapelle, KEY, EMO Milano, Zoomark, Lamiera, MECSPE, TUTTOFOOD.
+- EN/ZH: 25 fiere + 8 città (dati_intl.py + dati_intl_2.py).
+- Pagine per metratura e 7 guide IT: build_metrature_guide.py + link_metrature_guide.py (dati_metrature_guide.py).
+- Cinese tradizionale /zh-hant/: build_hant.py converte tutte le pagine /zh/ (OpenCC s2t). Rilanciarlo ogni volta che cambiano le pagine cinesi.
+Ordine completo:
+    python3 build_fiere.py && python3 build_calendario.py && python3 build_citta_nuove.py && python3 build_settori.py && python3 it_pillar.py && python3 it_citta.py
+    cd .. && python3 link-pagine-2026-10.py && cd fiere-generatore && python3 build_calendari_citta.py && python3 build_nuove_1013.py && python3 applica_immagini.py
+    python3 build_metrature_guide.py && python3 build_intl.py && python3 lingue.py
+    cd .. && python3 link-pagine-2026-10-13.py && cd fiere-generatore && python3 link_metrature_guide.py && python3 build_hant.py
+    cd .. && python3 genera-sitemap.py && python3 genera-feed-e-llms.py

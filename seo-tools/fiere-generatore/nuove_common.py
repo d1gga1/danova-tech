@@ -10,7 +10,8 @@ FIERA_PAGES=[("vinitaly","Stand Vinitaly"),("marmomac","Stand Marmomac"),("salon
  ("host","Stand Host Milano"),("cosmoprof","Stand Cosmoprof"),("cersaie","Stand Cersaie"),("eima","Stand EIMA"),("sicam","Stand Sicam"),
  ("samuexpo","Stand Samuexpo"),("sigep","Stand Sigep"),("cibus","Stand Cibus"),("vicenzaoro","Stand VicenzaOro"),("ecomondo","Stand Ecomondo"),
  ("pitti-uomo","Stand Pitti Uomo"),("micam","Stand MICAM"),("mido","Stand MIDO"),("macfrut","Stand Macfrut"),("expo-riva-schuh","Stand Expo Riva Schuh"),
- ("fieracavalli","Stand Fieracavalli")]
+ ("fieracavalli","Stand Fieracavalli"),
+ ("lineapelle","Stand Lineapelle"),("key","Stand KEY Energy"),("emo","Stand EMO Milano"),("zoomark","Stand Zoomark"),("lamiera","Stand Lamiera"),("mecspe","Stand MECSPE"),("tuttofood","Stand TUTTOFOOD")]
 FIERA_URL={k:f"/stand-{k}/" for k,_ in FIERA_PAGES}
 FIERA_LINKS=[(t,FIERA_URL[k]) for k,t in FIERA_PAGES]
 CITTA_NUOVE=[("Firenze","firenze"),("Torino","torino"),("Roma","roma"),("Napoli","napoli"),("Bari","bari"),("Genova","genova"),("Bergamo","bergamo"),

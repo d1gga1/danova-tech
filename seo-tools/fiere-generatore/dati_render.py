@@ -276,3 +276,11 @@ ESTERO={
  "/tr/italya-fuar-standi/":("Açık meşe, asma kumaş halka, karşılama bankosu ve lounge alanlı 100 m² ada fuar standının 3D görseli","Proje görseli: yaklaşık 100 m² ada stand, açık meşe, asma kumaş halka ve görüşme alanı."),
  "/ar/italy-exhibition-stand/":("تصور ثلاثي الأبعاد لجناح معرض جزيرة بمساحة 100 م² من خشب البلوط الفاتح مع حلقة قماشية معلقة ومكتب استقبال","تصور تصميمي: جناح جزيرة بمساحة 100 م² تقريباً من خشب البلوط الفاتح مع حلقة معلقة ومنطقة اجتماعات."),
 }
+
+# 14/10/2026 fiere aggiunte: render riusati
+RIUSO.update({'/stand-lineapelle/':'stand-moda-calzature-boutique','/stand-key/':'stand-bolzano-edilizia-sostenibile','/stand-emo/':'stand-meccanica-macchinari','/stand-zoomark/':'stand-preallestito-personalizzato','/stand-lamiera/':'stand-brescia-metallurgia','/stand-mecspe/':'stand-bergamo-industria','/stand-tuttofood/':'stand-cibus-agroalimentare'})
+# 14/10/2026 metrature e guide fiere: render riusati
+import dati_metrature_guide as _MG
+RIUSO.update({f"/{x['slug']}/": x['render'] for x in _MG.M})
+RIUSO.update({f"/guide/{g['slug']}/": g['render'] for g in _MG.G})
+RIUSO['/stand-fieristici-per-metratura/']='stand-medio-32-mq'
