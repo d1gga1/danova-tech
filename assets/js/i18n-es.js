@@ -7,7 +7,7 @@ window.I18N.es={
   hero:{
     l1:'Construimos', l2:'tecnología que',
     rot:['convierte.','vende.','ahorra tiempo.','escala.','simplifica.'],
-    sub:'Webs, SEO, campañas de Meta Ads, aplicaciones, ERP y software a medida. De la primera línea de código a la primera venta: <b>un solo socio para toda tu tecnología.</b>',
+    sub:'Webs, SEO, campañas de Meta Ads, aplicaciones, ERP, software a medida y stands feriales. De la primera línea de código a la primera venta: <b>un solo socio para toda tu tecnología.</b>',
     cta1:'Solicitar presupuesto', cta2:'Ver lo que hacemos', scroll:'Desliza',
     stats:['Proyectos entregados','Clientes que renuevan','Tiempo medio de lanzamiento','Soporte y supervisión']
   },
@@ -82,6 +82,7 @@ window.I18N.es={
   dicono:{
     eyebrow:'Lo que dicen los clientes',
     items:[
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Reseña de Google · stand ferial en Milán'],
       ['Nuestra web llevaba seis años parada. En tres semanas entregaron algo que por fin se parece a nosotros, y que trae solicitudes todos los días.','MR','Marco R.','Gerente, fabricante de carpintería'],
       ['El sistema que construyeron eliminó tres hojas de cálculo y dos cuadernos de papel. El almacén por fin cuadra.','SL','Sara L.','Responsable de operaciones, distribución'],
       ['Ya habíamos probado campañas de Meta con otras agencias. La diferencia aquí es que explican los números en vez de esconderlos detrás de palabras.','GF','Giulia F.','Responsable de marketing, retail'],
@@ -227,6 +228,6 @@ window.I18N.es={
       ]}
     }
   },
-  meta:{title:'Diseño web, SEO y software a medida | Danova Tech',
-        desc:'Agencia tecnológica italiana: webs y e-commerce, SEO, campañas de Meta Ads, apps, ERP y software a medida. Presupuesto gratuito, respuesta en 24 h.'}
+  meta:{title:'Diseño web, software a medida y stands feriales | Danova Tech',
+        desc:'Agencia tecnológica italiana: webs y e-commerce, SEO, Meta Ads, apps, ERP, software a medida y stands para ferias. Presupuesto gratuito, respuesta en 24 h.'}
 };

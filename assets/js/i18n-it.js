@@ -7,7 +7,7 @@ window.I18N.it={
   hero:{
     l1:'Costruiamo', l2:'tecnologia che',
     rot:['converte.','vende.','fa risparmiare.','fa crescere.','semplifica.'],
-    sub:'Siti web, SEO, campagne Meta Ads, applicazioni, gestionali e software su misura. Dalla prima riga di codice alla prima vendita: <b>un unico partner per tutta la tua tecnologia.</b>',
+    sub:'Siti web, SEO, campagne Meta Ads, app, gestionali, software su misura e stand fieristici. Dalla prima riga di codice alla prima vendita: <b>un unico partner per tutta la tua tecnologia.</b>',
     cta1:'Richiedi un preventivo', cta2:'Scopri cosa facciamo', scroll:'Scroll',
     stats:['Progetti consegnati','Clienti che riconfermano','Tempo medio di lancio','Assistenza e monitoraggio']
   },
@@ -82,6 +82,7 @@ window.I18N.it={
   dicono:{
     eyebrow:'Dicono di noi',
     items:[
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Recensione Google · stand fieristico a Milano'],
       ['Avevamo un sito fermo da sei anni. In tre settimane ci hanno consegnato qualcosa che finalmente ci somiglia — e che porta richieste ogni giorno.','MR','Marco R.','Titolare, azienda di serramenti'],
       ['Il gestionale che ci hanno costruito ha eliminato tre file Excel e due quaderni. Il magazzino ora torna sempre.','SL','Sara L.','Responsabile operations, distribuzione'],
       ['Le campagne Meta le avevamo già provate con altri. La differenza è che qui ci spiegano i numeri invece di nasconderli dietro le parole.','GF','Giulia F.','Marketing manager, retail'],
@@ -227,6 +228,6 @@ window.I18N.it={
       ]}
     }
   },
-  meta:{title:'Siti web, SEO, Meta Ads e software su misura | Danova Tech',
-        desc:'Agenzia tech italiana: siti web ed e-commerce, SEO, campagne Meta Ads, app, gestionali e software su misura. Preventivo gratuito, risposta in 24 ore.'}
+  meta:{title:'Siti web, software su misura e stand fieristici | Danova Tech',
+        desc:'Agenzia italiana: siti web ed e-commerce, SEO e Meta Ads, gestionali e software su misura, progettazione e allestimento di stand fieristici. Risposta in 24 ore.'}
 };

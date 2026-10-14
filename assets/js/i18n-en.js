@@ -7,7 +7,7 @@ window.I18N.en={
   hero:{
     l1:'We build', l2:'technology that',
     rot:['converts.','sells.','saves time.','scales.','simplifies.'],
-    sub:'Websites, SEO, Meta Ads campaigns, applications, management systems and custom software. From the first line of code to the first sale: <b>one partner for your entire technology stack.</b>',
+    sub:'Websites, SEO, Meta Ads campaigns, apps, management systems, custom software and exhibition stands. From the first line of code to the first sale: <b>one partner for your entire technology stack.</b>',
     cta1:'Request a quote', cta2:'See what we do', scroll:'Scroll',
     stats:['Projects delivered','Clients who renew','Average launch time','Support and monitoring']
   },
@@ -82,6 +82,7 @@ window.I18N.en={
   dicono:{
     eyebrow:'What clients say',
     items:[
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Google review · trade fair stand in Milan'],
       ['Our site had been frozen for six years. In three weeks they delivered something that finally looks like us — and that brings in enquiries every day.','MR','Marco R.','Owner, window manufacturer'],
       ['The system they built removed three spreadsheets and two paper notebooks. Our inventory finally adds up.','SL','Sara L.','Operations manager, distribution'],
       ['We had tried Meta campaigns with other agencies. The difference here is that they explain the numbers instead of hiding them behind words.','GF','Giulia F.','Marketing manager, retail'],
@@ -227,6 +228,6 @@ window.I18N.en={
       ]}
     }
   },
-  meta:{title:'Websites, SEO, Meta Ads and custom software | Danova Tech',
-        desc:'Tech agency from Italy building websites, e-commerce, apps, ERP and custom software for businesses in the US, UK and Europe. Fixed price, reply in 24h.'}
+  meta:{title:'Websites, custom software & exhibition stands | Danova Tech',
+        desc:'Italian tech agency: websites, e-commerce, apps, ERP and custom software, plus exhibition stand design and build in Italy. Fixed price, reply in 24h.'}
 };

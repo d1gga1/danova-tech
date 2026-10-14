@@ -7,7 +7,7 @@ window.I18N.fr={
   hero:{
     l1:'Nous construisons', l2:'une technologie qui',
     rot:['convertit.','vend.','fait gagner du temps.','passe à l\'échelle.','simplifie.'],
-    sub:'Sites web, référencement, campagnes Meta Ads, applications, ERP et logiciels sur mesure. De la première ligne de code à la première vente : <b>un seul partenaire pour toute votre technologie.</b>',
+    sub:'Sites web, référencement, campagnes Meta Ads, applications, ERP, logiciels sur mesure et stands d\'exposition. De la première ligne de code à la première vente : <b>un seul partenaire pour toute votre technologie.</b>',
     cta1:'Demander un devis', cta2:'Voir ce que nous faisons', scroll:'Défiler',
     stats:['Projets livrés','Clients qui renouvellent','Délai moyen de mise en ligne','Support et supervision']
   },
@@ -82,6 +82,7 @@ window.I18N.fr={
   dicono:{
     eyebrow:'Ce que disent nos clients',
     items:[
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Avis Google · stand de salon à Milan'],
       ['Notre site n\'avait pas bougé depuis six ans. En trois semaines ils ont livré quelque chose qui nous ressemble enfin — et qui fait rentrer des demandes tous les jours.','MR','Marco R.','Dirigeant, fabricant de menuiseries'],
       ['Le système qu\'ils ont construit a supprimé trois tableurs et deux carnets papier. Notre stock tombe enfin juste.','SL','Sara L.','Responsable des opérations, distribution'],
       ['Nous avions déjà essayé les campagnes Meta avec d\'autres agences. La différence ici, c\'est qu\'ils expliquent les chiffres au lieu de les cacher derrière des mots.','GF','Giulia F.','Responsable marketing, commerce'],
@@ -227,6 +228,6 @@ window.I18N.fr={
       ]}
     }
   },
-  meta:{title:'Création de sites web, SEO et logiciels sur mesure | Danova Tech',
-        desc:'Agence tech italienne : sites web et e-commerce, référencement, campagnes Meta Ads, applications, ERP et logiciels sur mesure. Devis gratuit, réponse sous 24 h.'}
+  meta:{title:'Sites web, logiciels sur mesure et stands | Danova Tech',
+        desc:'Agence tech italienne : sites web et e-commerce, référencement, Meta Ads, applications, ERP, logiciels sur mesure et stands d\'exposition. Devis gratuit sous 24 h.'}
 };

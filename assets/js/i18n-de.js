@@ -7,7 +7,7 @@ window.I18N.de={
   hero:{
     l1:'Wir bauen', l2:'Technologie, die',
     rot:['konvertiert.','verkauft.','Zeit spart.','wachsen lässt.','vereinfacht.'],
-    sub:'Websites, SEO, Meta-Ads-Kampagnen, Anwendungen, Warenwirtschaft und maßgeschneiderte Software. Von der ersten Codezeile bis zum ersten Verkauf: <b>ein Partner für Ihre gesamte Technologie.</b>',
+    sub:'Websites, SEO, Meta-Ads-Kampagnen, Anwendungen, Warenwirtschaft, maßgeschneiderte Software und Messestände. Von der ersten Codezeile bis zum ersten Verkauf: <b>ein Partner für Ihre gesamte Technologie.</b>',
     cta1:'Angebot anfordern', cta2:'Was wir machen', scroll:'Scrollen',
     stats:['Umgesetzte Projekte','Kunden, die verlängern','Durchschnittliche Launch-Zeit','Support und Monitoring']
   },
@@ -82,6 +82,7 @@ window.I18N.de={
   dicono:{
     eyebrow:'Was Kunden sagen',
     items:[
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Google-Bewertung · Messestand in Mailand'],
       ['Unsere Seite stand seit sechs Jahren still. In drei Wochen bekamen wir etwas, das endlich zu uns passt — und das täglich Anfragen bringt.','MR','Marco R.','Inhaber, Fensterbau'],
       ['Das System, das sie gebaut haben, hat drei Excel-Dateien und zwei Notizbücher ersetzt. Das Lager stimmt jetzt immer.','SL','Sara L.','Leiterin Operations, Handel'],
       ['Meta-Kampagnen hatten wir schon woanders probiert. Der Unterschied ist, dass hier die Zahlen erklärt statt hinter Worten versteckt werden.','GF','Giulia F.','Marketingleiterin, Einzelhandel'],
@@ -227,6 +228,6 @@ window.I18N.de={
       ]}
     }
   },
-  meta:{title:'Websites, SEO, Meta Ads und Individualsoftware | Danova Tech',
-        desc:'Italienische Tech-Agentur: Websites und Onlineshops, SEO, Meta-Ads-Kampagnen, Apps, Warenwirtschaft und Individualsoftware. Angebot in 24 Stunden.'}
+  meta:{title:'Websites, Individualsoftware und Messestände | Danova Tech',
+        desc:'Italienische Tech-Agentur: Websites und Onlineshops, SEO, Meta Ads, Apps, Warenwirtschaft, Individualsoftware und Messestandbau in Italien. Angebot in 24 Stunden.'}
 };
