@@ -167,7 +167,7 @@ qa=[("Quanto costa uno stand fieristico al metro quadro?","Non c'è una cifra un
  ("Come si risparmia su uno stand?","Riutilizzando struttura e arredi, scegliendo grafiche intercambiabili, decidendo con anticipo e affidando tutto a un unico fornitore."),
  ("Fate preventivi gratuiti?","Sì. Scrivici fiera, date e metratura e ti mandiamo un preventivo dettagliato.")]
 page(P,"Quanto costa uno stand fieristico: le voci di costo | Danova Tech",
- "Quanto costa uno stand fieristico? Area, struttura, progetto, grafica, impianti, arredi, montaggio e trasporto: le voci del prezzo e come confrontare i preventivi.",
+ "Quanto costa uno stand fieristico? Area, struttura, progetto, grafica, impianti, arredi, montaggio e trasporto: le voci del prezzo e come confrontarle.",
  "Quanto costa uno stand fieristico — guida alle voci di costo","Le voci che compongono il prezzo di uno stand e come confrontare due preventivi.",
  "Quanto costa uno stand fieristico",m,qa,[article_node(SITE+P,"Quanto costa uno stand fieristico: da cosa dipende il prezzo","Le voci che compongono il costo di uno stand fieristico e come confrontare i preventivi.","it")])
 

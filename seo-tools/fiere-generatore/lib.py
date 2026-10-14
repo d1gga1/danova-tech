@@ -165,6 +165,7 @@ def build(lang,path,title,desc,ogt,ogd,crumbs,main,qa,nodes,alts=None,breadcrumb
     s=re.sub(r'<meta name="description" content="[^"]*">',f'<meta name="description" content="{E(desc)}">',s,1)
     s=re.sub(r'<link rel="canonical" href="[^"]*">',f'<link rel="canonical" href="{url}">',s,1)
     s=re.sub(r'<link rel="alternate" hreflang="[^"]*" href="[^"]*">\n','',s)
+    import intl_map; alts=intl_map.merge(path,alts,lang)  # 14/10/2026: hreflang IT<->EN<->ZH
     alts=alts or {lang:path}
     hl=''.join(f'<link rel="alternate" hreflang="{("zh-Hans" if l=="zh" else l)}" href="{SITE+p}">\n' for l,p in alts.items())
     xd=alts.get('it') or alts.get('en') or path

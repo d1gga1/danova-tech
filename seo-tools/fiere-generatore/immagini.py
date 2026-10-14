@@ -19,6 +19,17 @@ for p, f in DR.RIUSO.items():
     MAP.setdefault(p, (f, alt, cap, 'it'))
 for p, (alt, cap) in DR.ESTERO.items():
     MAP[p] = ('stand-isola-legno-rovere', alt, cap, p.strip('/').split('/')[0])
+# 14/10/2026: pagine EN e ZH per espositori stranieri (stessi render delle pagine IT, testi tradotti)
+try:
+    import dati_intl as _DI
+    _P = {f['k']: {L: f"/{L}/{f[L]['slug']}/" for L in ('en', 'zh')} for f in _DI.FAIRS}
+    _P.update({c['s']: {L: f"/{L}/{c[L]['slug']}/" for L in ('en', 'zh')} for c in _DI.CITIES})
+    _P['guide'] = {'en': '/en/exhibiting-at-trade-fairs-in-italy/', 'zh': '/zh/italy-trade-fair-guide/'}
+    for _k, (_f, _en, _zh) in _DI.IMG.items():
+        MAP[_P[_k]['en']] = (_f, _en, _DI.CAP['en'], 'en')
+        MAP[_P[_k]['zh']] = (_f, _zh, _DI.CAP['zh'], 'zh')
+except ImportError:
+    pass
 CREDIT = {'it': 'Render di progetto Danova Tech', 'en': 'Danova Tech design render', 'de': 'Entwurfsrendering Danova Tech',
           'fr': 'Rendu de projet Danova Tech', 'es': 'Render de proyecto Danova Tech', 'zh': 'Danova Tech 设计效果图',
           'tr': 'Danova Tech proje görseli', 'ar': 'تصور تصميمي من Danova Tech'}

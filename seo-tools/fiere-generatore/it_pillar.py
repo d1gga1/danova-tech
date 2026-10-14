@@ -36,7 +36,7 @@ main+=testo("tipi","Ogni tipo di stand, <span class=\"grad\">a noleggio o in acq
   ("A isola, ad angolo, a due piani.","Dallo spazio in linea all'isola aperta su quattro lati, fino agli stand a due piani con sala riunioni.")])
 main+=chips("fiere","Lavoriamo in <span class=\"grad\">tutte le fiere</span>",
  "Siamo presenti nei principali quartieri fieristici italiani e nelle fiere all'estero. Per ogni città trovi una pagina dedicata.",
- CITTA_LINKS_ALL+[("Fiere all'estero","/allestimenti-fieristici-estero/")])
+ CITTA_LINKS_ALL+[("Fiere all'estero","/allestimenti-fieristici-estero/"),("Fiere in Germania","/allestimenti-fieristici-germania/")])
 main+=chips("manifestazioni","Alcune fiere in cui abbiamo allestito stand",None,[(f,FIERA_URL.get({"Salone del Mobile":"salone-del-mobile"}.get(f,f.lower()))) for f in FIERE],"Esperienza")
 main+=chips("calendario-fiere","Calendario fiere 2026–2027, <span class=\"grad\">con mappa</span>",
  "Le date delle principali fiere in Italia e in Europa su una mappa interattiva: clicca una fiera e richiedi lo stand. Qui sotto le pagine dedicate alle fiere più importanti.",
@@ -69,6 +69,6 @@ nodes=[service_node(URL,"Allestimenti fieristici","Allestimento e montaggio di s
  AREAS_IT,["Progettazione stand e render 3D","Stand preallestiti","Stand modulari in alluminio","Stand in tessuto teso","Stand su misura in legno","Grafica e stampa per stand","Impianto elettrico, illuminazione e LED","Montaggio e smontaggio stand in fiera","Trasporto, logistica e magazzino","Pratiche con l'ente fiera","Noleggio stand e arredi"],'it')]
 alts={'it':P,'en':'/en/exhibition-stand-builder-italy/','de':'/de/messebau-italien/','fr':'/fr/standiste-salon-italie/','es':'/es/montaje-stands-feriales-italia/','zh':'/zh/italy-exhibition-stand/','tr':'/tr/italya-fuar-standi/','ar':'/ar/italy-exhibition-stand/'}
 print(build('it',P,"Allestimenti fieristici e stand per fiere chiavi in mano",
- "Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto, 25 anni di esperienza.",
+ "Allestimenti fieristici in Italia e all'estero: progetto 3D, materiali, grafica, impianti e montatori in fiera. Stand a noleggio o in acquisto.",
  "Allestimenti fieristici chiavi in mano — Danova Tech","Progetto, materiali, componentistica e montatori in fiera. Stand preallestiti, modulari e su misura, in Italia e all'estero.",
  [("Home","/"),("Servizi","/#servizi"),("Allestimenti fieristici",None)],main,qa,nodes,alts))

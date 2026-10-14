@@ -7,12 +7,22 @@ D={**lingue_data1.D,**lingue_data2.D,**lingue_zh.D,**lingue_tr.D,**lingue_ar.D}
 FIERE=["Vinitaly","Marmomac","Salone del Mobile","EICMA","Host","Cosmoprof","Cersaie","EIMA","Sicam","Samuexpo"]
 ALTS={'it':'/servizi/allestimenti-fieristici/',**{l:D[l]['path'] for l in D}}
 SUBJ={'en':'Exhibition stand request','de':'Anfrage Messestand','fr':'Demande de stand','es':'Solicitud de stand','zh':'展台询价','tr':'Fuar standı talebi','ar':'طلب جناح معرض'}
+ONLY=sys.argv[1:]  # 14/10/2026: es. python3 lingue.py en zh
+import dati_intl as DI
+INTL_T={'en':("Stand pages for Italian trade fairs","Dedicated pages for the fairs and exhibition cities where most foreign exhibitors, including many Chinese companies, come to Italy.",' stand builder',"Exhibition stands in ","Guide: exhibiting in Italy",'/en/exhibiting-at-trade-fairs-in-italy/'),
+ 'zh':("意大利主要展会展台专题","外国参展商（包括大量中国企业）最常参加的意大利展会和展会城市专题页面。",'展台搭建',"",'意大利参展指南','/zh/italy-trade-fair-guide/')}
 for L,d in D.items():
+    if ONLY and L not in ONLY: continue
     ct='#contatti-fiera'
     m=hero(d['eyebrow'],d['h1'],d['lead'],d['cta'],ct,d['cta2'],'#metodo')
     m+=cards('cosa',d['c_t'],d['c_l'],d['cards'])
     m+=testo('perche',d['t_t'],None,d['paras'],d['lista'])
     m+=chips('fiere',d['f_t'],d['f_l'],[(p,None) for p in d['places']])
+    if L in INTL_T:
+        t1,t2,suf,pre,gt,gu=INTL_T[L]
+        fl=[(f[L].get('short',f[L]['name'])+suf,f"/{L}/{f[L]['slug']}/") for f in DI.FAIRS]
+        cl=[(pre+c[L]['name']+('' if L=='en' else '展台搭建'),f"/{L}/{c[L]['slug']}/") for c in DI.CITIES]
+        m+=chips('fiere-italia',t1,t2,cl+fl+[(gt,gu)])
     m+=chips('esperienza',d['e_t'],None,[(f,None) for f in FIERE])
     m+=passi('metodo',d['p_ey'],d['p_t'],None,d['steps'])
     m+=faq(d['faq_ey'],d['faq_t'],d['qa'])

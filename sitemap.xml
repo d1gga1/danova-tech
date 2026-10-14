@@ -71,11 +71,13 @@
   <url>
     <loc>https://danova-tech.com/allestimenti-fieristici-bologna/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-bologna/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-bologna/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/bologna-exhibition-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-bologna/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-cersaie-ceramica.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -192,11 +194,13 @@
   <url>
     <loc>https://danova-tech.com/allestimenti-fieristici-milano/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-milano/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-milan/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/milan-exhibition-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-milano/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-milano-rho-tecnologia.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -247,11 +251,13 @@
   <url>
     <loc>https://danova-tech.com/allestimenti-fieristici-rimini/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-rimini/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-rimini/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/rimini-exhibition-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-rimini/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-sigep-gelato-pasticceria.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -335,11 +341,13 @@
   <url>
     <loc>https://danova-tech.com/allestimenti-fieristici-verona/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-verona/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-verona/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/verona-exhibition-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-verona/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-vinitaly-cantina.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -555,7 +563,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-fiera-estero-padiglione.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1230,6 +1238,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/en/cersaie-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-cersaie/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cersaie-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/cersaie-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-cersaie/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-cersaie-ceramica.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/en/construction-management-software/</loc>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://danova-tech.com/en/construction-management-software/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/en/construction-management-software/"/>
@@ -1276,6 +1297,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/en/cosmoprof-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-cosmoprof/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cosmoprof-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/cosmoprof-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-cosmoprof/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-cosmoprof-profumeria.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/en/custom-crm-development/</loc>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://danova-tech.com/en/custom-crm-development/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/en/custom-crm-development/"/>
@@ -1298,6 +1332,71 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/en/ecomondo-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-ecomondo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/ecomondo-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/ecomondo-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-ecomondo/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-ecomondo-ambiente.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/eicma-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-eicma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/eicma-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/eicma-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-eicma/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-eicma-moto.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/eima-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-eima/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/eima-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/eima-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-eima/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-eima-macchine-agricole.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/exhibiting-at-trade-fairs-in-italy/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/come-preparare-una-fiera/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibiting-at-trade-fairs-in-italy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/italy-trade-fair-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/come-preparare-una-fiera/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-medio-32-mq.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/exhibition-stand-builder-bologna/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-bologna/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-bologna/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/bologna-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-bologna/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-cersaie-ceramica.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/en/exhibition-stand-builder-italy/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/servizi/allestimenti-fieristici/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-italy/"/>
@@ -1311,7 +1410,46 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-isola-legno-rovere.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/exhibition-stand-builder-milan/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-milano/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-milan/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/milan-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-milano/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-milano-rho-tecnologia.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/exhibition-stand-builder-rimini/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-rimini/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-rimini/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/rimini-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-rimini/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-ecomondo-ambiente.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/exhibition-stand-builder-verona/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-verona/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-verona/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/verona-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-verona/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-marmomac-pietra.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1345,6 +1483,19 @@
       <image:loc>https://danova-tech.com/assets/img/mockup/en-hire-app-developers.webp</image:loc>
     </image:image>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/host-milano-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-host/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/host-milano-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/host-milano-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-host/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-host-caffe-ospitalita.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1428,6 +1579,19 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/en/macfrut-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-macfrut/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/macfrut-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/macfrut-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-macfrut/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-macfrut-ortofrutta.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/en/manufacturing-software-development/</loc>
     <xhtml:link rel="alternate" hreflang="en-US" href="https://danova-tech.com/en/manufacturing-software-development/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/en/manufacturing-software-development/"/>
@@ -1435,6 +1599,19 @@
       <image:loc>https://danova-tech.com/assets/img/mockup/en-manufacturing-software-development.webp</image:loc>
     </image:image>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/marmomac-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-marmomac/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/marmomac-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/marmomac-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-marmomac/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-marmomac-pietra.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1457,6 +1634,32 @@
       <image:loc>https://danova-tech.com/assets/img/mockup/en-mes-software-development.webp</image:loc>
     </image:image>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/micam-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-micam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/micam-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/micam-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-micam/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-micam-scarpe.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/mido-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-mido/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/mido-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/mido-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-mido/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-mido-occhiali.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1561,6 +1764,19 @@
       <image:loc>https://danova-tech.com/assets/img/mockup/en-restaurant-website-design.webp</image:loc>
     </image:image>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/salone-del-mobile-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-salone-del-mobile/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/salone-del-mobile-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/salone-del-mobile-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-salone-del-mobile/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-salone-mobile-design.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1903,6 +2119,19 @@
       <image:loc>https://danova-tech.com/assets/img/mockup/en-united-states.webp</image:loc>
     </image:image>
     <lastmod>2026-10-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/en/vicenzaoro-stand-builder/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-vicenzaoro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/vicenzaoro-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/vicenzaoro-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-vicenzaoro/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-vicenzaoro-gioielli.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3120,7 +3349,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-isola-legno-rovere.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3406,11 +3635,13 @@
   <url>
     <loc>https://danova-tech.com/guide/come-preparare-una-fiera/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/come-preparare-una-fiera/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibiting-at-trade-fairs-in-italy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/italy-trade-fair-guide/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/come-preparare-una-fiera/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-medio-32-mq.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -3564,7 +3795,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-innovativo-led-interattivo.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4170,7 +4401,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-medio-32-mq.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4353,7 +4584,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-isola-legno-rovere.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4832,11 +5063,13 @@
   <url>
     <loc>https://danova-tech.com/stand-cersaie/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-cersaie/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cersaie-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/cersaie-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-cersaie/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-cersaie-ceramica.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4854,44 +5087,52 @@
   <url>
     <loc>https://danova-tech.com/stand-cosmoprof/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-cosmoprof/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cosmoprof-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/cosmoprof-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-cosmoprof/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-cosmoprof-profumeria.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-ecomondo/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-ecomondo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/ecomondo-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/ecomondo-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-ecomondo/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-ecomondo-ambiente.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-eicma/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-eicma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/eicma-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/eicma-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-eicma/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-eicma-moto.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-eima/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-eima/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/eima-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/eima-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-eima/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-eima-macchine-agricole.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5019,55 +5260,65 @@
   <url>
     <loc>https://danova-tech.com/stand-host/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-host/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/host-milano-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/host-milano-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-host/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-host-caffe-ospitalita.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-macfrut/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-macfrut/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/macfrut-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/macfrut-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-macfrut/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-macfrut-ortofrutta.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-marmomac/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-marmomac/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/marmomac-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/marmomac-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-marmomac/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-marmomac-pietra.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-micam/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-micam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/micam-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/micam-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-micam/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-micam-scarpe.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://danova-tech.com/stand-mido/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-mido/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/mido-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/mido-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-mido/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-mido-occhiali.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5107,11 +5358,13 @@
   <url>
     <loc>https://danova-tech.com/stand-salone-del-mobile/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-salone-del-mobile/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/salone-del-mobile-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/salone-del-mobile-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-salone-del-mobile/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-salone-mobile-design.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5151,11 +5404,13 @@
   <url>
     <loc>https://danova-tech.com/stand-vicenzaoro/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-vicenzaoro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/vicenzaoro-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/vicenzaoro-stand/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-vicenzaoro/"/>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-vicenzaoro-gioielli.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5267,6 +5522,97 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/zh/bologna-exhibition-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-bologna/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-bologna/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/bologna-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-bologna/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-cersaie-ceramica.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/cersaie-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-cersaie/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cersaie-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/cersaie-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-cersaie/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-cersaie-ceramica.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/cosmoprof-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-cosmoprof/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cosmoprof-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/cosmoprof-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-cosmoprof/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-cosmoprof-profumeria.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/ecomondo-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-ecomondo/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/ecomondo-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/ecomondo-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-ecomondo/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-ecomondo-ambiente.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/eicma-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-eicma/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/eicma-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/eicma-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-eicma/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-eicma-moto.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/eima-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-eima/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/eima-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/eima-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-eima/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-eima-macchine-agricole.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/host-milano-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-host/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/host-milano-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/host-milano-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-host/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-host-caffe-ospitalita.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/zh/italy-exhibition-stand/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/servizi/allestimenti-fieristici/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-italy/"/>
@@ -5280,7 +5626,137 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/stand/stand-isola-legno-rovere.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/italy-trade-fair-guide/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/come-preparare-una-fiera/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibiting-at-trade-fairs-in-italy/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/italy-trade-fair-guide/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/come-preparare-una-fiera/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-medio-32-mq.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/macfrut-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-macfrut/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/macfrut-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/macfrut-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-macfrut/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-macfrut-ortofrutta.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/marmomac-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-marmomac/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/marmomac-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/marmomac-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-marmomac/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-marmomac-pietra.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/micam-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-micam/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/micam-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/micam-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-micam/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-micam-scarpe.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/mido-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-mido/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/mido-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/mido-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-mido/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-mido-occhiali.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/milan-exhibition-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-milano/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-milan/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/milan-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-milano/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-milano-rho-tecnologia.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/rimini-exhibition-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-rimini/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-rimini/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/rimini-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-rimini/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-ecomondo-ambiente.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/salone-del-mobile-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-salone-del-mobile/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/salone-del-mobile-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/salone-del-mobile-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-salone-del-mobile/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-salone-mobile-design.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/verona-exhibition-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/allestimenti-fieristici-verona/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/exhibition-stand-builder-verona/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/verona-exhibition-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/allestimenti-fieristici-verona/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-marmomac-pietra.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/zh/vicenzaoro-stand/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stand-vicenzaoro/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/vicenzaoro-stand-builder/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://danova-tech.com/zh/vicenzaoro-stand/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stand-vicenzaoro/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/stand/stand-vicenzaoro-gioielli.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

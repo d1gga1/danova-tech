@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 D={}
 D['fr']=dict(path='/fr/standiste-salon-italie/',
- title='Standiste en Italie et en Europe : stands clés en main | Danova Tech',
+ title='Standiste en Italie et en Europe : stands clés en main',
  desc='Conception et montage de stands de salon en Italie et en Europe : projet 3D, graphisme, électricité et monteurs sur place à Milan, Vérone, Bologne.',
  ogt='Standiste en Italie — Danova Tech',ogd='Stands de salon clés en main en Italie et en Europe : projet, matériaux, composants et monteurs sur place.',
  crumbs=[('Accueil','/fr/'),('Services','/fr/#servizi'),('Stands de salon',None)],

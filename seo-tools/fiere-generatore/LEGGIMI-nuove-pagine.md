@@ -59,3 +59,13 @@ Dopo i build del 8-9 ottobre, in quest'ordine:
 Nuovo render per una pagina: aggiungi la riga in dati_render.R (o in RIUSO), metti i 3 file in assets/img/stand/
 e rilancia applica_immagini.py. Quando avrete FOTO VERE di stand allestiti, sostituitele ai render nelle pagine
 fiera/città e cambiate la didascalia: per Google e per i clienti valgono molto di più.
+
+## 14 ottobre 2026: espositori stranieri (soprattutto cinesi), pagine EN e ZH
+34 pagine nuove: 12 fiere (EICMA, Cosmoprof, MICAM, MIDO, Host, Salone del Mobile, Cersaie, Marmomac, EIMA,
+VicenzaOro, Ecomondo, Macfrut) + 4 città (Milano, Bologna, Verona, Rimini) + 1 guida, in inglese e in cinese.
+- `dati_intl.py`   testi EN/ZH, render e didascalie tradotte
+- `intl_map.py`    mappa hreflang IT <-> EN <-> ZH; lib.build la usa da sola, quindi rigenerando le pagine IT gli hreflang restano
+- `build_intl.py`  genera le 34 pagine e aggiorna hreflang + selettore lingua (IT/EN/中文) sulle 17 pagine IT corrispondenti
+- `lingue.py en zh` rigenera solo i pillar inglese e cinese (ora con la sezione di link alle pagine fiera/città)
+Ordine:  python3 build_intl.py && python3 lingue.py en zh && cd .. && python3 genera-sitemap.py && python3 genera-feed-e-llms.py
+Le date vengono da dati_calendario.py come per le pagine IT: aggiornate le date lì e rilanciate build_intl.py.
