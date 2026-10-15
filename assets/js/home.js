@@ -697,10 +697,21 @@ $('#form').addEventListener('submit',e=>{
   ];
   if(g('email')) lines.push('Email: '+g('email'));
   const url='https://wa.me/'+WA+'?text='+encodeURIComponent(lines.join('\n'));
+  const openWa=()=>{
+    // 14/10/2026: senza 'noopener' (che faceva restituire null a window.open e apriva WhatsApp due volte, anche nella pagina corrente)
+    let w=null; try{ w=window.open(url,'_blank'); }catch(_){}
+    if(w){ try{ w.opener=null; }catch(_){} } else location.href=url;
+  };
+  /* 15/10/2026: la richiesta arriva direttamente via email (contatto.js); WhatsApp resta il ripiego */
+  if(window.DTLead){
+    const btn=$('#form button[type=submit]'); if(btn) btn.disabled=true;
+    try{ if(window.gtag) gtag('event','generate_lead',{method:'form',form:'home'}); }catch(_){}
+    window.DTLead.send(f.subj+' - '+g('azienda'),[[f.nome,g('nome')],[f.azienda,g('azienda')],[f.tipo,g('tipo')],[f.tel,tp.pref+' '+tp.d],['Email',g('email')]],g('email'))
+      .then(ok=>{ if(btn) btn.disabled=false; if(ok){ $('#ok').classList.add('on'); $('#form').reset(); } else openWa(); });
+    return;
+  }
   $('#ok').classList.add('on');
-  // 14/10/2026: senza 'noopener' (che faceva restituire null a window.open e apriva WhatsApp due volte, anche nella pagina corrente)
-  let w=null; try{ w=window.open(url,'_blank'); }catch(_){}
-  if(w){ try{ w.opener=null; }catch(_){} } else location.href=url;
+  openWa();
 });
 
 /* =========================================================

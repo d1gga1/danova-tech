@@ -106,8 +106,8 @@ window.I18N.de={
     lead:'Erstgespräch kostenlos und unverbindlich. Wir sagen ehrlich, ob wir helfen können, was es kostet und wie lange es dauert. Auch wenn die Antwort „nein" ist.',
     list:['Antwort innerhalb von 24 Werkstunden','Klares Angebot zum Festpreis','Keine Mindestlaufzeit'],
     wa:'Schreiben Sie uns auf WhatsApp',
-    f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Per WhatsApp senden',pref:'Vorwahl',telerr:'Bitte geben Sie eine gültige Telefonnummer ein.',emailerr:'Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer.',
-       ok:'Fertig! WhatsApp öffnet sich mit Ihrer vorbereiteten Anfrage — einfach absenden.',
+    f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Anfrage senden',pref:'Vorwahl',telerr:'Bitte geben Sie eine gültige Telefonnummer ein.',emailerr:'Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer.',
+       ok:'Anfrage gesendet! Wir melden uns so schnell wie möglich.',
        note:'Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.',
        opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung',"Messestand / Messebau",'Noch unklar, sprechen wir'],
        subj:'Neue Anfrage über die Website'}

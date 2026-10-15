@@ -106,8 +106,8 @@ window.I18N.fr={
     lead:'Le premier échange est gratuit et sans engagement. Nous vous dirons honnêtement si nous pouvons aider, ce que cela coûte et combien de temps cela prend. Même si la réponse est « non ».',
     list:['Réponse sous 24 heures ouvrées','Devis clair, à prix ferme','Aucun engagement de durée'],
     wa:'Nous écrire sur WhatsApp',
-    f:{nome:'Nom et prénom',tel:'Téléphone',email:'E-mail (facultatif)',azienda:'Entreprise / activité',tipo:'Ce dont vous avez besoin',send:'Envoyer sur WhatsApp',pref:'Indicatif',telerr:'Merci d\'indiquer un numéro de téléphone valide.',emailerr:'Merci d\'indiquer une adresse e-mail valide ou de laisser le champ vide.',
-       ok:'C\'est prêt ! WhatsApp s\'ouvre avec votre demande, il ne reste qu\'à l\'envoyer.',
+    f:{nome:'Nom et prénom',tel:'Téléphone',email:'E-mail (facultatif)',azienda:'Entreprise / activité',tipo:'Ce dont vous avez besoin',send:'Envoyer la demande',pref:'Indicatif',telerr:'Merci d\'indiquer un numéro de téléphone valide.',emailerr:'Merci d\'indiquer une adresse e-mail valide ou de laisser le champ vide.',
+       ok:'Demande envoyée ! Nous vous répondons au plus vite.',
        note:'En envoyant ce formulaire vous acceptez d\'être recontacté. Nous ne transmettons jamais vos données à qui que ce soit.',
        opts:['Site web / e-commerce','SEO et visibilité','Meta Ads et campagnes','Application sur mesure','ERP / CRM','Logiciel ou automatisation',"Stand de salon",'Je ne sais pas encore, parlons-en'],
        subj:'Nouvelle demande depuis le site'}

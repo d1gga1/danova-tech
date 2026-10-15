@@ -106,8 +106,8 @@ window.I18N.es={
     lead:'La primera llamada es gratuita y sin compromiso. Te diremos con honestidad si podemos ayudarte, cuánto cuesta y cuánto tarda. Aunque la respuesta sea "no".',
     list:['Respuesta en 24 horas laborables','Presupuesto claro, a precio cerrado','Sin contratos de permanencia'],
     wa:'Escríbenos por WhatsApp',
-    f:{nome:'Nombre y apellidos',tel:'Teléfono',email:'Email (opcional)',azienda:'Empresa / actividad',tipo:'Qué necesitas',send:'Enviar por WhatsApp',pref:'Prefijo',telerr:'Introduce un número de teléfono válido.',emailerr:'Introduce una dirección de email válida o deja el campo vacío.',
-       ok:'¡Listo! WhatsApp se abre con tu solicitud preparada, solo falta enviarla.',
+    f:{nome:'Nombre y apellidos',tel:'Teléfono',email:'Email (opcional)',azienda:'Empresa / actividad',tipo:'Qué necesitas',send:'Enviar solicitud',pref:'Prefijo',telerr:'Introduce un número de teléfono válido.',emailerr:'Introduce una dirección de email válida o deja el campo vacío.',
+       ok:'¡Solicitud enviada! Te respondemos lo antes posible.',
        note:'Al enviar aceptas que te contactemos. Nunca compartimos tus datos con nadie.',
        opts:['Web / e-commerce','SEO y posicionamiento','Meta Ads y campañas','App a medida','ERP / CRM','Software o automatización',"Stand ferial",'Aún no lo sé, hablemos'],
        subj:'Nueva solicitud desde la web'}

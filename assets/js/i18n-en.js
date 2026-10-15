@@ -106,8 +106,8 @@ window.I18N.en={
     lead:'First call is free and with no obligation. We\'ll tell you honestly whether we can help, what it costs and how long it takes. Even if the answer is "no".',
     list:['Reply within 24 business hours','Clear, fixed-price quote','No lock-in contracts'],
     wa:'Message us on WhatsApp',
-    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Send on WhatsApp',pref:'Code',telerr:'Please enter a valid phone number.',emailerr:'Please enter a valid email address or leave the field empty.',
-       ok:'All set! WhatsApp opens with your request ready to go — just hit send.',
+    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Send request',pref:'Code',telerr:'Please enter a valid phone number.',emailerr:'Please enter a valid email address or leave the field empty.',
+       ok:'Request sent! We will get back to you as soon as possible.',
        note:'By submitting you agree to be contacted. We never share your data with anyone.',
        opts:['Website / e-commerce','SEO and search visibility','Meta Ads and campaigns','Custom app','ERP / CRM system','Software or automation',"Trade fair stand",'Not sure yet, let\'s talk'],
        subj:'New enquiry from the website'}

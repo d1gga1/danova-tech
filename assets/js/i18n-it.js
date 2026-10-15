@@ -106,8 +106,8 @@ window.I18N.it={
     lead:'Prima call gratuita e senza impegno. Ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".',
     list:['Risposta entro 24 ore lavorative','Preventivo chiaro e a prezzo fisso','Nessun vincolo di permanenza'],
     wa:'Scrivici su WhatsApp',
-    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia su WhatsApp',pref:'Prefisso',telerr:'Inserisci un numero di telefono valido.',emailerr:'Inserisci un indirizzo email valido oppure lascia il campo vuoto.',
-       ok:'Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.',
+    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia la richiesta',pref:'Prefisso',telerr:'Inserisci un numero di telefono valido.',emailerr:'Inserisci un indirizzo email valido oppure lascia il campo vuoto.',
+       ok:'Richiesta inviata! Ti rispondiamo al più presto.',
        note:'Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.',
        opts:['Sito web / e-commerce','SEO e posizionamento','Meta Ads e campagne','App su misura','Gestionale / CRM','Software o automazione',"Allestimento fieristico",'Non lo so ancora, parliamone'],
        subj:'Nuova richiesta dal sito'}
