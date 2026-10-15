@@ -3,82 +3,35 @@
 # Agenzia informatica, Mansuè (Treviso) — P.IVA IT05369890263
 # ==========================================================
 
-# --- Motori di ricerca generalisti ---
+# NOTA: un crawler segue SOLO il gruppo con il suo nome. Per questo tutti i
+# crawler sono in un unico gruppo con le stesse regole: prima Googlebot & co.
+# avevano un gruppo "Allow: /" a parte e ignoravano i Disallow qui sotto.
+
+# --- Motori di ricerca e assistenti AI: consentiti volutamente ---
 User-agent: Googlebot
-Allow: /
-
 User-agent: Googlebot-Image
-Allow: /
-
 User-agent: Bingbot
-Allow: /
-
 User-agent: msnbot
-Allow: /
-
 User-agent: Slurp
-Allow: /
-
 User-agent: DuckDuckBot
-Allow: /
-
 User-agent: Applebot
-Allow: /
-
 User-agent: YandexBot
-Allow: /
-
 User-agent: Baiduspider
-Allow: /
-
 User-agent: Seznam
-Allow: /
-
-# --- Motori di risposta e assistenti AI ---
-# Consentiti volutamente: vogliamo essere citati nelle risposte generate.
 User-agent: OAI-SearchBot
-Allow: /
-
 User-agent: ChatGPT-User
-Allow: /
-
 User-agent: GPTBot
-Allow: /
-
 User-agent: PerplexityBot
-Allow: /
-
 User-agent: Perplexity-User
-Allow: /
-
 User-agent: ClaudeBot
-Allow: /
-
 User-agent: Claude-User
-Allow: /
-
 User-agent: Claude-SearchBot
-Allow: /
-
 User-agent: Google-Extended
-Allow: /
-
 User-agent: Applebot-Extended
-Allow: /
-
 User-agent: Amazonbot
-Allow: /
-
 User-agent: meta-externalagent
-Allow: /
-
 User-agent: cohere-ai
-Allow: /
-
 User-agent: MistralAI-User
-Allow: /
-
-# --- Regola generale ---
 User-agent: *
 Allow: /
 Disallow: /seo-tools/

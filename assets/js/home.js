@@ -420,13 +420,17 @@ function render(){
   const t=T();
 
   /* --- testi semplici via data-i18n --- */
-  $$('[data-i18n]').forEach(el=>{ const v=dig(t,el.dataset.i18n); if(typeof v==='string') el.textContent=v; });
-  $$('[data-i18n-html]').forEach(el=>{ const v=dig(t,el.dataset.i18nHtml); if(typeof v==='string') el.innerHTML=v; });
-  $('#hcta1').textContent=t.hero.cta1;
-  $('#hcta2').textContent=t.hero.cta2;
-  $('#scrollLbl').textContent=t.hero.scroll;
-  $('.nav-r .btn-p .lbl').textContent=t.nav.cta;
-  $('#heroSub').innerHTML=t.hero.sub;
+  /* si riscrive solo cio' che cambia: riscrivere testi identici (es. il sottotitolo
+     dell'hero) fa ripartire il conteggio LCP di Google e rallenta la pagina */
+  const setT=(el,v)=>{ if(el && typeof v==='string' && el.textContent!==v) el.textContent=v; };
+  const setH=(el,v)=>{ if(el && typeof v==='string' && el.innerHTML.trim()!==v.trim()) el.innerHTML=v; };
+  $$('[data-i18n]').forEach(el=>setT(el,dig(t,el.dataset.i18n)));
+  $$('[data-i18n-html]').forEach(el=>setH(el,dig(t,el.dataset.i18nHtml)));
+  setT($('#hcta1'),t.hero.cta1);
+  setT($('#hcta2'),t.hero.cta2);
+  setT($('#scrollLbl'),t.hero.scroll);
+  setT($('.nav-r .btn-p .lbl'),t.nav.cta);
+  setH($('#heroSub'),t.hero.sub);
 
   /* --- meta / lang --- */
   document.documentElement.lang=t.htmlLang;
