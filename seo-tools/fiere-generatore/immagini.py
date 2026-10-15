@@ -50,6 +50,7 @@ def image_object(f, alt, cap, lang):
     return {"@type": "ImageObject", "@id": url(f) + "#img", "url": url(f), "contentUrl": url(f),
             "width": W, "height": HH, "caption": cap, "description": alt, "inLanguage": lang,
             "creditText": CREDIT.get(lang, CREDIT['en']), "copyrightNotice": "© Danova Tech",
+            "license": SITE + "/termini/#proprieta-intellettuale" if lang == "it" else SITE + "/en/terms/#intellectual-property", "acquireLicensePage": SITE + "/contatti/" if lang == "it" else SITE + "/en/contact/",
             "creator": {"@id": SITE + "/#organization"}, "thumbnailUrl": url(f, '-800')}
 
 def inject(s, path):

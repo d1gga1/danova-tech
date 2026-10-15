@@ -37,7 +37,7 @@ def inject(s, path):
     s = re.sub(r'(<meta property="og:image:width" content=")[^"]*(">)', r'\g<1>1200\2', s)
     s = re.sub(r'(<meta property="og:image:height" content=")[^"]*(">)', r'\g<1>630\2', s)
     io = {"@type": "ImageObject", "@id": url(f) + "#img", "url": url(f), "contentUrl": url(f), "width": W, "height": HH, "caption": cap, "description": alt,
-          "inLanguage": d['lang'], "creditText": CREDIT.get(lang, CREDIT['en']), "copyrightNotice": "© Danova Tech", "creator": {"@id": SITE + "/#organization"}, "thumbnailUrl": url(f, '-800')}
+          "inLanguage": d['lang'], "creditText": CREDIT.get(lang, CREDIT['en']), "copyrightNotice": "© Danova Tech", "license": SITE + "/termini/#proprieta-intellettuale" if lang == "it" else SITE + "/en/terms/#intellectual-property", "acquireLicensePage": SITE + "/contatti/" if lang == "it" else SITE + "/en/contact/", "creator": {"@id": SITE + "/#organization"}, "thumbnailUrl": url(f, '-800')}
     def fix(m):
         try: g = json.loads(m.group(2))
         except ValueError: return m.group(0)

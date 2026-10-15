@@ -165,6 +165,8 @@ def contact(L, n):
 </section>
 '''
 
+MESI_EN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+
 def event(fid, L):
     i, n, v, st, s, e, c, site, nota = DC.FIERE[fid]
     if not c: return None
@@ -174,7 +176,9 @@ def event(fid, L):
       "eventStatus": "https://schema.org/EventScheduled", "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "location": {"@type": "Place", "name": vn, "address": {"@type": "PostalAddress", "streetAddress": addr, "addressLocality": VEN[v][1], "addressCountry": cc},
         "geo": {"@type": "GeoCoordinates", "latitude": lat, "longitude": lon}},
-      "organizer": {"@type": "Organization", "name": n, "url": site}}
+      "organizer": {"@type": "Organization", "name": n, "url": site},
+      "description": (f"{n}将于{int(s[:4])}年{int(s[5:7])}月{int(s[8:10])}日至{int(e[5:7])}月{int(e[8:10])}日在意大利{VEN[v][3]}的{vn}举办，是该行业的重要国际专业展会。" if L == 'zh'
+        else f"{n}: international trade fair held at {vn}, {VEN[v][1]} (Italy), {int(s[8:10])} {MESI_EN[int(s[5:7])-1]} – {int(e[8:10])} {MESI_EN[int(e[5:7])-1]} {s[:4]}.")}
 
 def svc(L, url, name, desc, offers, area):
     node = service_node(SITE + url, name, name, desc, [{"@type": "City", "name": area}, {"@type": "Country", "name": "Italy"}], offers, L)
