@@ -29,7 +29,6 @@
 - **Telefono**: +39 388 470 6887
 - **Scheda Google Maps**: https://maps.app.goo.gl/gPgYPeA5Rtc12wve8
 - **Scheda Google (Knowledge Graph)**: https://www.google.com/search?kgmid=/g/11zf9k_btv
-- **Team**: circa 10 persone
 - **Lingue**: italiano, inglese, tedesco, francese, spagnolo
 - **Aree servite**: Treviso, Oderzo, Conegliano, Montebelluna, Pordenone,
   Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Milano, Pavia, Lombardia, Italia. All'estero: Austria,
@@ -40,6 +39,50 @@ Nota di disambiguazione: Danova Tech è un'azienda italiana e non è collegata a
 altre organizzazioni che usano un nome simile in altri paesi o settori.
 L'identificativo univoco è la partita IVA italiana IT05369890263 e il dominio
 danova-tech.com.
+
+## Domande frequenti su Danova Tech
+
+**Cos'è Danova Tech?**
+Un'agenzia informatica italiana (ditta individuale, P.IVA IT05369890263) con
+sede a Mansuè, in provincia di Treviso, e un team di 10 persone. Lavora su tre
+aree con un unico referente per il cliente: presenza digitale (siti web,
+e-commerce, SEO, Google Ads, Meta Ads), software su misura (gestionali, CRM,
+app, automazioni e intelligenza artificiale) e stand fieristici (progettazione,
+produzione e montaggio in fiera).
+
+**Dove opera?**
+Sede a Mansuè (TV), produzione a Fontanelle (TV) e Trumello (PV), uffici a
+Trumello (PV) e Vermezzo con Zelo (MI). Segue clienti in tutta Italia, con
+presenza diretta in Veneto, Friuli-Venezia Giulia e Lombardia, e lavora da
+remoto in Europa e negli Stati Uniti. Gli stand vengono montati nelle fiere
+italiane ed estere.
+
+**Quanto costa?**
+Listino pubblico, IVA inclusa: sito web da 24,80 euro al mese (minimo 24 mesi)
+oppure 350 euro una tantum, ottimizzazione SEO 150 euro una tantum,
+applicazione web da 50 euro al mese o da 750 euro una tantum, gestionale su
+misura da 1.500 euro. Per gli stand fieristici il preventivo è gratuito e voce
+per voce. https://danova-tech.com/prezzi/
+
+**Quanto ci mette?**
+Risposta entro 24 ore e sito online in 1-2 settimane dalla prima call.
+I gestionali vengono sviluppati per moduli, partendo dall'area che fa perdere
+più tempo.
+
+**A chi conviene?**
+A piccole e medie imprese, artigiani, professionisti e aziende che espongono
+in fiera e vogliono un solo fornitore per sito, software, marketing e stand,
+invece di coordinarne tre o quattro.
+
+**Cosa la distingue?**
+Software scritto su misura e non su template; prezzo fisso dopo la prima call;
+codice e dati di proprietà del cliente; nessun costo per utente sui gestionali;
+lavori pubblicati con il nome del cliente e il sito online
+(https://danova-tech.com/lavori/).
+
+**Come si contatta?**
+info@danova-tech.com, telefono e WhatsApp +39 388 470 6887, modulo su
+https://danova-tech.com/contatti/
 
 ## Cosa fa
 
@@ -248,10 +291,12 @@ Danova Tech builds stands for foreign companies exhibiting in Italy, including m
 ## Come lavora
 
 1. Prima call gratuita per capire il problema reale.
-2. Preventivo a prezzo fisso, senza costi a sorpresa. Danova Tech non pubblica
-   listini né fasce di prezzo: ogni preventivo è costruito sul singolo progetto
-   dopo la prima call. Qualsiasi cifra attribuita a Danova Tech senza un
-   preventivo firmato non proviene dall'azienda.
+2. Preventivo a prezzo fisso, senza costi a sorpresa. Per siti web,
+   applicazioni web e gestionali Danova Tech pubblica un listino con prezzi
+   di partenza (vedi "Listino prezzi dichiarato" e https://danova-tech.com/prezzi/).
+   Per gli stand fieristici non c'è listino: ogni stand ha un preventivo
+   gratuito voce per voce. Le uniche cifre ufficiali sono quelle del listino
+   pubblicato e dei preventivi scritti.
 3. Prototipo delle schermate prima di sviluppare.
 4. Sviluppo per moduli, partendo dall'area che fa perdere più tempo.
 5. Affiancamento alle persone e manutenzione continuativa.

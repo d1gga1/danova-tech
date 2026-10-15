@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-10-14 da https://danova-tech.com
+# Generato il 2026-10-15 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -430,6 +430,10 @@ React Next.js Node.js TypeScript WordPress Shopify WooCommerce Laravel Python Po
 
 Dicono di noi
 
+“We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!”
+EF
+Expo Fairs S.R.O Recensione Google · stand fieristico a Milano
+
 “Avevamo un sito fermo da sei anni. In tre settimane ci hanno consegnato qualcosa che finalmente ci somiglia — e che porta richieste ogni giorno.”
 MR
 Marco R. Titolare, azienda di serramenti
@@ -445,6 +449,8 @@ Giulia F. Marketing manager, retail
 “Volevamo un'app e pensavamo fosse fuori portata. Ci hanno proposto una versione più piccola da cui partire: è stata la scelta giusta.”
 AP
 Andrea P. Fondatore, centro sportivo
+
+★★★★★ 5,0 su Google · leggi le recensioni
 
 Dove operiamo
 
@@ -868,9 +874,9 @@ Email (facoltativa)
 
 Inserisci un indirizzo email valido oppure lascia il campo vuoto.
 
-Invia su WhatsApp
+Invia la richiesta
 
-Perfetto! Si apre WhatsApp con la tua richiesta già pronta: premi invio per mandarcela.
+Richiesta inviata! Ti rispondiamo al più presto.
 
 Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.
 
@@ -878,7 +884,7 @@ Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessun
 ========================================================================
 # Chi siamo — il team dietro Danova Tech
 URL: https://danova-tech.com/chi-siamo/
-Descrizione: Dieci persone con ruoli distinti: analisi, design, sviluppo, gestionali, SEO e assistenza. Un solo referente per te, tutto il team dietro.
+Descrizione: Danova Tech, agenzia informatica di Mansuè (Treviso): dieci persone per siti web, software gestionali, app, SEO, pubblicità e stand fieristici. Un solo referente.
 ========================================================================
 
 Home / Chi siamo
@@ -892,6 +898,41 @@ Danova Tech non è un freelance con dieci cappelli, e non è una struttura dove 
 Richiedi un preventivo
 
 Come lavoriamo
+
+In breve
+
+## Danova Tech in breve
+
+Danova Tech è un'agenzia informatica italiana con sede a Mansuè, in provincia di Treviso. Sviluppa siti web, e-commerce, software gestionali e app su misura, cura SEO e campagne pubblicitarie, e progetta e allestisce stand fieristici in Italia e all'estero, con un unico referente per il cliente.
+
+I dati principali di Danova Tech
+Voce Dettaglio
+
+Ragione sociale Danova Tech, ditta individuale, P.IVA IT05369890263
+
+Sede Via Rigole 48, 31040 Mansuè (TV)
+
+Produzione e uffici Produzione a Fontanelle (TV) e Trumello (PV), uffici a Trumello (PV) e Vermezzo con Zelo (MI)
+
+Team 10 persone con ruoli distinti
+
+Servizi digitali Siti web ed e-commerce , SEO , Google Ads , Meta Ads
+
+Software su misura Gestionali e CRM , app iOS, Android e web , automazioni e intelligenza artificiale
+
+Stand fieristici Progettazione, produzione e montaggio nelle fiere italiane ed estere
+
+Zone servite Tutta Italia, con presenza diretta in Veneto, Friuli-Venezia Giulia e Lombardia; da remoto in Europa e Stati Uniti
+
+Lingue Italiano, inglese, tedesco, francese, spagnolo
+
+Prezzi Listino pubblico per siti, app e gestionali; preventivo gratuito voce per voce per gli stand
+
+Tempi Risposta entro 24 ore, sito online in 1-2 settimane
+
+Lavori Progetti pubblicati con il nome del cliente e il sito online
+
+Contatti info@danova-tech.com · +39 388 470 6887
 
 ## Come siamo fatti
 
@@ -1036,7 +1077,13 @@ Italiano, inglese e tedesco, sia nei progetti sia nell’assistenza. Il sito ste
 
 Una call per capire il problema e dirti se possiamo esserti utili. Se non è il caso, te lo diciamo subito e non ti facciamo perdere tempo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## I servizi
 
@@ -1159,7 +1206,13 @@ Dipende dal servizio. Abbiamo due pagine dedicate ai prezzi, una per i siti web 
 
 Mezz'ora di call per capire qual è il problema che vi costa di più adesso. Poi decidiamo insieme se val la pena risolverlo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -1205,6 +1258,16 @@ Contatti
 ## Contatti
 Un solo indirizzo, un solo numero, una sola persona che ti risponde. Scrivici cosa ti serve: rispondiamo entro 24 ore lavorative, e il primo confronto è gratuito e senza impegno.
 Vai al modulo
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Telefono e WhatsApp
 +39 388 470 6887 Lunedì-venerdì, 9:00-18:00. Su WhatsApp puoi anche mandare foto o documenti.
@@ -1398,7 +1461,13 @@ I contatti e le proposte sì, la pubblicazione no: dipende dalla redazione che d
 
 Mezz'ora di call gratuita: vi diciamo chi vi linka oggi, cosa è sano e cosa no, e se la link building è la leva giusta per voi o se conviene spendere quei soldi altrove.
 
-Richiedi l'analisi gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondimenti collegati
 
@@ -1542,7 +1611,13 @@ Sì, e spesso conviene farli insieme: le campagne portano richieste mentre la SE
 
 Audit gratuito del sito: vi mandiamo un documento con i problemi tecnici, le ricerche su cui potete realisticamente competere e chi vi sta superando. Resta vostro anche se poi non lavoriamo insieme.
 
-Richiedi l'audit gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondimenti collegati
 
@@ -1668,7 +1743,13 @@ No: per il parere legale serve un avvocato. Noi rendiamo conformi gli strumenti 
 
 Elenchiamo con voi gli strumenti AI in uso e vi diciamo cosa sistemare per primo: chatbot, regole interne, formazione. Mezz'ora, gratis.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -1816,7 +1897,13 @@ Se vuoi sì: sito o landing page, iscrizioni, campagne e raccolta contatti.
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -2003,9 +2090,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -2207,9 +2294,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -2434,7 +2521,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -2618,9 +2711,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -2822,9 +2915,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -3025,9 +3118,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -3202,9 +3295,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -3494,9 +3587,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -3724,9 +3817,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -3936,9 +4029,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -4227,9 +4320,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -4411,9 +4504,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -4620,9 +4713,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -4854,7 +4947,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -5041,9 +5140,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -5240,7 +5339,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -5437,7 +5542,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -5626,7 +5737,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -5825,7 +5942,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -6017,9 +6140,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -6221,9 +6344,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -6429,9 +6552,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -6633,9 +6756,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -6837,9 +6960,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -7015,9 +7138,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -7218,9 +7341,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -7430,7 +7553,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -7623,7 +7752,13 @@ Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un 
 
 Dicci quale fiera, le date e la metratura: ti rispondiamo con quello che serve e quanto costa.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Altre città e servizi
 
@@ -7802,7 +7937,13 @@ Quelle gratuite si ripagano in altro modo: con i dati dei vostri clienti, con la
 
 In mezz'ora di chiamata guardiamo come funziona oggi la vostra clientela abituale e vi proponiamo un meccanismo semplice, con quanto costa e quando si ripaga.
 
-Prenota la chiamata gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -7989,6 +8130,16 @@ App su misura
 Quanto costa un'app
 Contabilità di cantiere
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # App magazzino con codici a barre
@@ -8166,6 +8317,16 @@ Integrazione software aziendali
 
 Software gestione flotte
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # App timbratura dipendenti e ore di lavoro
@@ -8337,6 +8498,16 @@ Software gestionale per edilizia
 Gestionale commesse
 Software gestione interventi tecnici
 Quanto costa un'app
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -8515,6 +8686,16 @@ Sviluppo web app
 
 Software preventivi e configuratore
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # App per personal trainer su misura
@@ -8678,7 +8859,13 @@ Vostri. Il database e il codice sono intestati a voi, e i dati si possono esport
 
 In mezz'ora di chiamata guardiamo come lavorate e vi diciamo se vi conviene un'app vostra, una piattaforma in abbonamento o semplicemente sistemare quello che avete.
 
-Prenota la chiamata gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -8823,7 +9010,13 @@ Sì, colleghiamo l'app ai programmi che usate già e importiamo i dati esistenti
 
 Raccontaci cosa deve fare e chi la userà: ti diciamo come la costruiremmo e quanto costa, per iscritto.
 
-Parliamone
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -8994,7 +9187,13 @@ Certo. Le inserite nella stessa agenda, dal computer o dal telefono, e il client
 
 In mezz'ora guardiamo come prendete oggi le prenotazioni e vi diciamo se vi basta un servizio pronto o se conviene un sistema vostro. Gratuito.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -9189,6 +9388,16 @@ App gestione cantieri
 App timbrature e ore di lavoro
 Software gestione interventi tecnici
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Aprire un negozio online: cosa serve
@@ -9312,6 +9521,16 @@ Accessibilità del sito web
 Quanto costa un e-commerce
 
 E-commerce collegato al gestionale
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -9438,7 +9657,13 @@ Vinitaly Marmomac Salone del Mobile EICMA Host Cosmoprof Cersaie EIMA Sicam Samu
 
 أخبرنا باسم المعرض والتواريخ والمساحة، وسنرد عليك بما تحتاجه وتكلفته.
 
-راسلنا · info@danova-tech.com
+Name and company
+Email
+
+Phone (optional)
+What do you need?
+
+Send request We reply within 24 working hours. Prefer to talk? Call +39 388 470 6887 or message us on WhatsApp .
 
 واتساب +39 388 470 6887
 
@@ -9609,6 +9834,16 @@ Fatturazione elettronica automatizzata
 Chatbot aziendale
 Gestione documentale
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Automazioni n8n per aziende: consulenza e sviluppo
@@ -9760,7 +9995,13 @@ Dipende da quante sono e da quanto sono complesse. Vi diamo un prezzo fisso dopo
 
 Raccontateci un'attività che fate a mano ogni settimana. Vi diciamo se si può automatizzare e quante ore vi restituisce.
 
-Prenota la chiamata gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -9881,7 +10122,13 @@ Sono aggiornati a ottobre 2026. I bandi cambiano spesso e il testo ufficiale del
 
 Mandateci il link del bando e due righe sul progetto: vi diciamo se e come può rientrare, prima che spendiate tempo nella domanda.
 
-Verifica il tuo progetto
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -10024,9 +10271,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -10218,9 +10465,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -10430,9 +10677,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -10631,9 +10878,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -10800,9 +11047,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -10961,9 +11208,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -11247,9 +11494,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -11473,9 +11720,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -11709,9 +11956,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -11950,9 +12197,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -12114,9 +12361,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -12293,9 +12540,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -12450,9 +12697,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -12651,9 +12898,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -13734,9 +13981,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -13955,6 +14202,16 @@ Glossario
 
 Consulenza intelligenza artificiale
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Come indicizzare un sito su Google, passo per passo
@@ -14068,7 +14325,13 @@ Sì: è compresa nell'ottimizzazione SEO di ogni sito che realizziamo, insieme a
 
 Mandateci l'indirizzo: controlliamo indicizzazione, blocchi tecnici e pagine escluse, e vi diciamo cosa sistemare. Gratis.
 
-Richiedi il controllo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -14177,7 +14440,13 @@ Sì, nella consulenza SEO locale: sistemiamo la scheda, prepariamo link e QR cod
 
 Mandateci il nome della vostra attività: vi diciamo come si posiziona in Maps rispetto ai concorrenti vicini e cosa sistemare per primo.
 
-Richiedi l'analisi gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -14326,6 +14595,16 @@ Web agency a Conegliano
 
 Consulente SEO a Verona
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Consulente SEO a Verona: posizionamento su Google
@@ -14425,7 +14704,13 @@ Sì: la pubblicità dà contatti da subito, la SEO costruisce traffico che non s
 
 Mandateci l'indirizzo: vi rispondiamo con i tre problemi più importanti e cosa faremmo per primo.
 
-Chiedi l'analisi
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -14577,6 +14862,16 @@ Consulente SEO a Treviso
 
 Consulente SEO a Verona
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Consulenza intelligenza artificiale per aziende
@@ -14679,7 +14974,13 @@ Noi, con un contratto di assistenza e manutenzione: aggiornamenti, backup, corre
 
 Mezz'ora per capire quali attività ripetitive si possono automatizzare: in meno di 24 ore vi mostriamo un prototipo sul vostro caso.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -14797,7 +15098,13 @@ Sono aggiornati a ottobre 2026. I bandi cambiano spesso: prima di decidere verif
 
 Mandateci fiera, metri quadri e scadenza del bando: vi prepariamo il progetto e un preventivo a voci separate, pronto per la domanda.
 
-Richiedi il preventivo stand
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -15033,6 +15340,16 @@ Software preventivi e configuratore
 Lead generation B2B
 App fidelizzazione clienti
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Dashboard aziendale su misura: i numeri in tempo reale
@@ -15164,7 +15481,13 @@ Una prima versione in pochi giorni o poche settimane, a seconda di quanti progra
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -15303,6 +15626,16 @@ Digitalizzazione aziendale, digitalizzazione aziende, digitalizzazione imprese, 
 Nella pratica le richieste sono tre. Digitalizzare i documenti vuol dire smettere di cercare la carta: è il pezzo con il ritorno più rapido e visibile, e ne parliamo in gestione documentale aziendale . Digitalizzare un processo vuol dire togliere i passaggi in cui i dati vengono riscritti a mano da un sistema all’altro. Digitalizzare l’azienda , detto così, non vuol dire niente di operativo, ed è il motivo per cui questi progetti a volte durano due anni e finiscono con qualcuno che compila schermate in più di prima.
 
 Il consiglio che diamo sempre è di partire dal punto in cui oggi qualcuno riscrive a mano un dato che esiste già da un’altra parte. Si misura in ore alla settimana, si risolve in poche settimane, e finanzia psicologicamente il resto del percorso meglio di qualsiasi presentazione.
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -15482,6 +15815,16 @@ Siti web ed e-commerce
 SEO per e-commerce
 Aprire un negozio online
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # E-commerce collegato al gestionale
@@ -15657,6 +16000,16 @@ Gestionale di magazzino
 Software fatturazione elettronica
 Quanto costa un e-commerce
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # ERP per piccole aziende: su misura, senza complicazioni
@@ -15788,7 +16141,13 @@ Potete scegliere fra canone mensile e pagamento unico; un gestionale su misura p
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -15931,9 +16290,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -16118,7 +16477,13 @@ Dipende da dimensioni, materiali, finiture e quantità. Ti mandiamo un preventiv
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -16322,7 +16687,13 @@ Sì: schede immobile, richieste e agenda visite sono disponibili dal telefono, c
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -16523,7 +16894,13 @@ Sì: categorie, tariffe e documenti si configurano per ogni tipo di veicolo.
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -16727,6 +17104,16 @@ Gestionale cloud o server
 
 Integrazione software aziendali
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestionale per hotel: camere e prenotazioni
@@ -16919,7 +17306,13 @@ Il check-in online raccoglie i dati necessari; le comunicazioni previste dalla l
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -17120,7 +17513,13 @@ Sì: report per punto vendita, per commesso e per categoria, anche dal telefono.
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -17305,6 +17704,16 @@ App rapportini di lavoro
 Software gestione flotte
 Gestione interventi tecnici
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestionale per palestre e centri fitness
@@ -17461,7 +17870,13 @@ Sì, ed è proprio lì che il su misura rende di più, perché hanno regole che 
 
 Un incontro in palestra, gratuito: guardiamo come gestite oggi soci, ingressi e pagamenti, e vi diciamo se vi basta un programma pronto o se conviene costruirlo.
 
-Fissiamo l'incontro
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -17665,7 +18080,13 @@ Sì, se la cliente ha dato il consenso: messaggio automatico con un'offerta, una
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -17819,7 +18240,13 @@ Potete scegliere fra canone mensile e pagamento unico; trovate le cifre nel list
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -17988,7 +18415,13 @@ Sì: si parte da un solo modulo, quello che fa risparmiare più tempo, e si aggi
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -18213,7 +18646,13 @@ Le comande devono funzionare anche se la linea cade per qualche minuto; lo preve
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -18414,7 +18853,13 @@ Sì: agenda e poltrone per sede, pazienti e listini condivisi.
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -18529,7 +18974,13 @@ Sì: si parte da un modulo, per esempio scadenze e ore, e si aggiunge il resto q
 
 Mezz'ora in videochiamata: capiamo dove perdete tempo e in meno di 24 ore vi mostriamo una demo funzionante.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -18642,7 +19093,13 @@ Sì, trovate la pagina dedicata al gestionale per studi dentistici.
 
 Mezz'ora in videochiamata: capiamo dove perdete tempo e in meno di 24 ore vi mostriamo una demo funzionante.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -18789,7 +19246,13 @@ Sì: Corsico, Assago, Rozzano, Abbiategrasso, Magenta, Rho, Legnano e tutta la p
 
 Mezz'ora, in videochiamata o di persona nei nostri uffici in Lombardia: capiamo dove perdete ore e entro 24 ore vi mostriamo una demo funzionante.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -18992,6 +19455,16 @@ Gestionali e CRM su misura
 Gestionali su misura a Milano
 Gestionali su misura a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestionali su misura a Pavia e in Lomellina
@@ -19126,7 +19599,13 @@ Sì: lotti, vendemmia, imbottigliamento, magazzino e vendite, con la tracciabili
 
 Mezz'ora, in videochiamata o di persona nei nostri uffici in Lombardia: capiamo dove perdete ore e entro 24 ore vi mostriamo una demo funzionante.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -19303,7 +19782,13 @@ Dipende da cosa serve, e va detto: può essere qualche migliaio di euro per un m
 
 Raccontateci dove si inceppa il flusso. Se siete nel Pordenonese veniamo a vederlo di persona, e da lì facciamo una stima seria.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Il tessuto produttivo della zona
 
@@ -19511,7 +19996,13 @@ Dove decidete voi: su un server vostro o su hosting che gestiamo noi. In entramb
 
 Quante ore alla settimana se ne vanno in conteggi, ricerche e passaggi manuali? Una call basta per stimarlo. Se siete in zona, veniamo noi.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Zone e servizi collegati
 
@@ -19726,6 +20217,16 @@ Software preventivi e configuratore
 Gestionali su misura a Milano
 Gestionali su misura a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software gestionale su misura in Veneto
@@ -19891,7 +20392,13 @@ E se dopo serve aggiungere qualcosa?
 
 Quante ore alla settimana la vostra squadra spende a copiare dati da una parte all’altra? Moltiplicate per il costo orario e per le settimane dell’anno: quella cifra è il punto di partenza della conversazione.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Provincia per provincia
 
@@ -20101,7 +20608,13 @@ Il primo modulo di solito è utilizzabile in 1-2 settimane, con una demo in meno
 
 Se accanto al vostro gestionale sono comparsi dei fogli Excel, quello è il pezzo da costruire. Una call basta per capire quale.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Il tessuto produttivo della zona
 
@@ -20338,6 +20851,16 @@ Gestionali su misura a Pavia
 
 Consulente SEO a Verona
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software gestionale su misura a Vicenza
@@ -20531,6 +21054,16 @@ Software MES per la produzione
 Gestionali su misura a Milano
 Gestionali su misura a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestione documentale aziendale
@@ -20679,6 +21212,16 @@ Software gestionale aziendale
 Gestionale per l’agroalimentare
 Gestionale per studi professionali
 Software e automazioni
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -20892,6 +21435,16 @@ Il documento con cui l'installatore certifica che l'impianto elettrico dello sta
 
 Tutti i servizi Allestimenti fieristici Tutte le guide Quanto costa un sito web Quanto costa un gestionale Come scegliere un'agenzia web Differenza fra gestionale, ERP e CRM
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Grafica per stand fieristici: stampa e posa
@@ -21037,9 +21590,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -21195,6 +21748,16 @@ Se vi interessa solo capire se rientrate, la sezione sul perimetro dei soggetti 
 Tutte le guide Realizzazione siti internet Realizzazione e-commerce Restyling del sito web Sito web aziendale Consulente SEO
 Quanto costa un e-commerce
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Come andare in prima pagina su Google
@@ -21345,7 +21908,13 @@ Indirettamente: possono far conoscere i contenuti e procurare citazioni, ma non 
 
 Mandateci il sito e le ricerche che vi interessano: vi diciamo dove siete e cosa fare per primo, gratis.
 
-Richiedi l'analisi
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -21433,9 +22002,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -21622,7 +22191,13 @@ Sì, se cambia il nome reale dell'attività; aggiungere parole chiave al nome in
 
 Controlliamo la vostra scheda e vi diciamo cosa sistemare per primo, gratis.
 
-Richiedi il controllo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -21711,7 +22286,13 @@ Spesso sì: uno stand preallestito o modulare a noleggio riduce l'investimento m
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -21819,9 +22400,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -21929,6 +22510,16 @@ Come faccio a capire se un’agenzia sa davvero di SEO? Chiedete di guardare ins
 Tutti i servizi Quanto costa un sito web Consulenza SEO Restyling del sito web Siti web in Veneto Tutte le guide Glossario Accessibilità del sito web
 Quanto costa un e-commerce
 Quanto costa un'app
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -22041,9 +22632,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -22254,6 +22845,16 @@ Quanto costa un gestionale
 Software gestionale aziendale
 Software per PMI
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Cos'è la RPA: automazione dei processi con i software robot
@@ -22393,7 +22994,13 @@ Sì, per singole attività ripetitive. Spesso però un'automazione più semplice
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -22599,7 +23206,13 @@ Sì: molti CRM gestiscono richieste di assistenza e ticket, così chi vende vede
 
 Raccontateci come vendete oggi: vi diciamo se vi serve un prodotto pronto, un CRM su misura o un collegamento con il gestionale.
 
-Parliamone
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -22822,7 +23435,13 @@ Sì, ed è il modo più sicuro: si parte dall'area che fa perdere più ore e si 
 
 Mezz'ora per vedere dove perdete ore oggi e cosa servirebbe per recuperarle.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -22913,9 +23532,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -23067,6 +23686,16 @@ Gestionale cloud o server
 Sostituire Excel con un gestionale
 
 Software MES per la produzione
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -23226,6 +23855,16 @@ Software gestionale aziendale
 Integrazione software aziendali
 Quanto costa un gestionale
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestionale su misura o standard: quale scegliere
@@ -23365,7 +24004,13 @@ Il gestionale su misura cresce con voi: nuovi moduli, utenti e collegamenti si a
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -23573,7 +24218,13 @@ Sì, con il vantaggio che più persone vedono lo stesso file; i limiti su ordini
 
 Mandatecelo (anche solo la struttura): vi diciamo come sistemarlo o quale passo fare dopo.
 
-Parliamone
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -23655,6 +24306,16 @@ Ha senso avere una scheda se ho già un buon sito? Sì, e sono due cose diverse:
 ## Pagine collegate
 
 Come inserire l’attività su Google Maps SEO locale e Google Maps Come ottenere recensioni Google SEO per l’intelligenza artificiale Consulenza SEO Siti web in Veneto Siti web a Treviso Siti web a Padova Google Ads Contatti Tutte le guide Glossario
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -23786,6 +24447,16 @@ Leggi la guida
 
 Tutti i servizi Quanto costa un sito web Quanto costa un gestionale Consulenza SEO Chi siamo Contatti
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Materiali ignifughi per stand: classe di reazione al fuoco
@@ -23855,9 +24526,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -24002,9 +24673,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -24125,9 +24796,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -24235,6 +24906,16 @@ Il cambio di dominio è più rischioso del cambio di sito? È lo stesso lavoro c
 
 Come indicizzare un sito su Google Consulenza SEO Restyling del sito web Quanto costa un sito web Siti web ed e-commerce Siti web in Veneto Tutte le guide Velocità e Core Web Vitals Glossario
 Migrazione e-commerce
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -24390,6 +25071,16 @@ Software per PMI
 Digitalizzazione aziendale
 Quanto costa un gestionale
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Transizione 5.0 nel 2026: cosa è cambiato
@@ -24496,6 +25187,16 @@ Integrazione software aziendali
 
 Software MES per la produzione
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Velocità del sito web e Core Web Vitals
@@ -24596,6 +25297,16 @@ Tutte le guide Rifare il sito senza perdere posizioni Consulente SEO Restyling d
 Migrazione e-commerce
 
 SEO per e-commerce
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -24710,7 +25421,13 @@ Sì: partiamo dai vostri obiettivi in fiera, prepariamo il progetto con render 3
 
 Diteci fiera, metri quadri e cosa volete ottenere: vi mandiamo un'idea di stand con render e preventivo.
 
-Richiedi il progetto
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -24891,6 +25608,16 @@ Gestionale cloud
 Intelligenza artificiale per aziende
 Sviluppo software su misura
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Intelligenza artificiale per avvocati e studi legali
@@ -24993,7 +25720,13 @@ Noi, con un contratto di assistenza e manutenzione: aggiornamenti, backup, corre
 
 Mezz'ora per capire quali attività ripetitive si possono automatizzare: in meno di 24 ore vi mostriamo un prototipo sul vostro caso.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -25178,6 +25911,16 @@ Incentivi e iperammortamento
 Consulenza intelligenza artificiale
 Intelligenza artificiale per avvocati
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Iperammortamento 2026: aliquote, software, scadenze
@@ -25287,7 +26030,13 @@ No, la pratica la seguono il commercialista e un tecnico abilitato per la perizi
 
 Mandateci cosa volete realizzare o acquistare: in mezz'ora vi diciamo se ha le caratteristiche per essere un bene 4.0 e cosa serve per documentarlo.
 
-Prenota la verifica gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -25397,6 +26146,16 @@ App su misura
 Software house
 Sviluppo software su misura
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # DajbocTechDon: sito multilingua CNC
@@ -25498,6 +26257,16 @@ Gestionale per la metalmeccanica
 Consulente SEO
 Prezzi di siti web, app e gestionali
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # GRG Performance: sito per officina moto
@@ -25596,6 +26365,16 @@ Sito web aziendale
 Realizzazione siti internet
 Gestionale officina meccanica
 Consulente SEO
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -25696,6 +26475,16 @@ Siti web ed e-commerce
 Quanto costa un sito web
 Come ottenere recensioni Google
 Consulente SEO
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -25821,6 +26610,16 @@ App rapportini di lavoro
 Oasi Ponza
 Pan.door.a
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Kone Moctar Studio: caso studio sito e app
@@ -25921,6 +26720,16 @@ App su misura
 Sviluppo web app
 Realizzazione siti internet
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Oasi B&B Ponza: caso studio
@@ -26019,6 +26828,16 @@ Realizzazione siti internet
 Sito web aziendale
 Restyling sito web
 Consulente SEO
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -26127,6 +26946,16 @@ Consulente SEO a Treviso
 Sito web aziendale
 Realizzazione siti internet
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # UniCESD Olympo: piattaforma educativa
@@ -26226,6 +27055,16 @@ Realizzazione siti internet
 Sito web aziendale
 Consulente SEO
 Prezzi di siti web, app e gestionali
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -26331,7 +27170,13 @@ Spesso funziona meglio. Nelle nicchie le ricerche sono poche ma molto precise, i
 
 In una call di mezz'ora guardiamo insieme da dove arrivano oggi le richieste e cosa ne succede dopo. Vi diciamo qual è l'anello più debole, anche se si sistema senza di noi.
 
-Prenota la call gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -26490,9 +27335,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -26697,7 +27542,13 @@ Molte attività sì, con gli strumenti giusti e un po' di metodo; spesso convien
 
 Mezz'ora per capire dove siete oggi e cosa fare per primo, con un budget realistico per la vostra azienda.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -26831,6 +27682,16 @@ Quanto costa un e-commerce
 Consulente SEO
 
 SEO per e-commerce
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -26974,7 +27835,13 @@ Sì, in Germania, Francia, Spagna e nel resto d'Europa, con la stessa organizzaz
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -27140,7 +28007,13 @@ Per poche fiere l'anno di solito il noleggio; per molte fiere l'acquisto di uno 
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -27318,7 +28191,13 @@ Dipende soprattutto dall'integrazione con il gestionale e dal numero di funzioni
 
 Raccontateci la vostra rete e il gestionale che usate: vi diciamo come un portale cambierebbe il lavoro dell'ufficio commerciale.
 
-Prenota la chiamata gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -27487,6 +28366,16 @@ Rifare il sito senza perdere posizioni
 Sito web aziendale
 
 Consulente SEO a Verona
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -27686,7 +28575,13 @@ Con una call gratuita di mezz'ora in cui capiamo cosa vi serve. Poi vi arriva un
 
 Mezz'ora di call, gratuita e senza presentazioni commerciali: vi diciamo quale delle soluzioni qui sopra vi serve davvero, quanto costa e in quanto tempo va online.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Sito vetrina
 Gestionale personalizzato
@@ -27825,9 +28720,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -28034,9 +28929,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -28190,7 +29085,13 @@ Dipende da quante campagne, lingue e zone. Vi diamo un prezzo fisso mensile dopo
 
 Diteci cosa vendete e dove. Vi mandiamo le parole chiave del vostro settore con il costo per clic reale e un budget di partenza ragionato.
 
-Richiedi la stima gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -28357,6 +29258,16 @@ Quanto costa un'app
 
 SEO per e-commerce
 Aprire un negozio online
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -28545,7 +29456,13 @@ Con una moltiplicazione che potete fare da soli. Contate le ore alla settimana c
 
 Mezz'ora per stimare quante ore alla settimana state perdendo e cosa servirebbe per recuperarle. Se il conto non torna, ve lo diciamo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondimenti collegati
 
@@ -28746,7 +29663,13 @@ Prima una call gratuita di mezz'ora in cui capiamo cosa vendete, a chi e cosa de
 
 Mezz'ora di call e vi diciamo cosa serve davvero, quanto costa e in quanto tempo va online. Preventivo gratuito, a prezzo fisso, senza impegno.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondimenti collegati
 
@@ -29008,6 +29931,16 @@ App timbrature e ore di lavoro
 App per personal trainer
 App per prenotazioni
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Quanto costa uno stand fieristico: le voci di costo
@@ -29151,7 +30084,13 @@ Sì. Scrivici fiera, date e metratura e ti mandiamo un preventivo dettagliato.
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -29321,6 +30260,16 @@ App fidelizzazione clienti
 Siti web a Milano
 Siti web a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Realizzazione landing page per campagne
@@ -29430,7 +30379,13 @@ Sì, ed è un uso che consigliamo: una pagina dedicata alla vostra presenza in f
 
 Mandateci il link della pagina su cui atterrano i vostri annunci: vi diciamo cosa cambieremmo per primo, gratis.
 
-Richiedi l'analisi gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -29619,6 +30574,16 @@ Velocità e Core Web Vitals
 Siti web a Milano
 Siti web a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Realizzazione siti web a Milano: web agency
@@ -29774,7 +30739,13 @@ Sì, collegati al magazzino e al gestionale, con pagamenti, spedizioni e fatture
 
 Raccontateci cosa vendete e a chi: entro 24 ore vi mandiamo una demo della home page, poi il sito è online in 1-2 settimane.
 
-Chiedi la demo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -29977,6 +30948,16 @@ Gestionali a Padova
 Siti web a Milano
 Siti web a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Realizzazione siti web a Pavia e Vigevano
@@ -30124,7 +31105,13 @@ Sì, con schede dei vini o delle camere, prenotazioni, vendita online e versioni
 
 Raccontateci cosa vendete e a chi: entro 24 ore vi mandiamo una demo della home page, poi il sito è online in 1-2 settimane.
 
-Chiedi la demo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -30292,7 +31279,13 @@ Siamo a Mansuè, a venti minuti dal confine con il Pordenonese. Il primo incontr
 
 Raccontateci cosa producete e a chi lo vendete. Vi diciamo cosa serve davvero, quanto costa e in quanto tempo va online. Se siete in zona, veniamo noi.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Zone e servizi collegati
 
@@ -30477,7 +31470,13 @@ Siamo a Mansuè, in provincia di Treviso, quindi sì nel senso pratico del termi
 
 Raccontateci in mezz'ora cosa vendete e a chi. Vi diciamo cosa serve davvero, quanto costa e in quanto tempo va online. Se siete in zona, veniamo noi.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Come lo cercate
 
@@ -30700,6 +31699,16 @@ Gestionali a Udine
 Siti web a Milano
 Siti web a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Realizzazione siti web in Veneto, su misura
@@ -30862,7 +31871,13 @@ Entrambe le cose, ed è il motivo per cui certi clienti ci scelgono. Come agenzi
 
 Ci raccontate cosa fate e a chi lo vendete. Vi diciamo che sito serve, quanto costa e in quanto tempo va online. Senza impegno e senza giri di parole.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Zone e servizi collegati
 
@@ -31043,7 +32058,13 @@ Sì: dominio, hosting, codice e contenuti restano intestati a voi, e potete port
 
 Raccontateci chi sono i vostri clienti e da dove arrivano. Vi diciamo che tipo di sito ha senso, quanto costa e in quanto tempo va online.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Zone e servizi collegati
 
@@ -31257,6 +32278,16 @@ Siti web a Pavia
 
 Consulente SEO a Verona
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Web agency Vicenza: realizzazione siti web
@@ -31446,6 +32477,16 @@ Gestionali a Vicenza
 Siti web a Milano
 Siti web a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Restyling sito web: quanto costa
@@ -31615,6 +32656,16 @@ Velocità e Core Web Vitals
 Migrazione e-commerce
 Accessibilità obbligatoria dei siti
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # SEO locale e posizionamento su Google Maps
@@ -31775,7 +32826,13 @@ Molto: la scheda collegata a un sito con pagine pertinenti e coerenti con nome, 
 
 Mandateci il nome dell'attività e la zona: vi diciamo dove comparite oggi per le ricerche principali e cosa sistemare per primo.
 
-Richiedi il controllo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -31919,6 +32976,16 @@ Velocità del sito e Core Web Vitals
 Quanto costa un e-commerce
 Posizionamento su Google
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # SEO per l'AI: comparire su ChatGPT e Perplexity
@@ -32024,7 +33091,13 @@ No, è parte della nostra consulenza SEO. Separarlo avrebbe poco senso, perché 
 
 Facciamo agli assistenti AI le domande dei vostri clienti e vi mandiamo cosa rispondono, chi citano e cosa manca al vostro sito per entrarci. Gratis.
 
-Richiedi il controllo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -32245,7 +33318,13 @@ Sì, è una parte importante del nostro lavoro. Puoi scriverci nella tua lingua:
 
 Dicci quale, quando e quanto è grande lo spazio. Ti rispondiamo con quello che serve e quanto costa, anche se mancano poche settimane.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -32552,7 +33631,13 @@ Le app vanno aggiornate, altrimenti prima o poi smettono di funzionare o vengono
 
 Raccontacela in una call. Se serve, partiamo da un prototipo: costa poco e ti fa vedere se l’idea sta in piedi prima di investirci davvero.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Gli altri servizi
 
@@ -32754,7 +33839,13 @@ E se poi vogliamo aggiungere qualcosa?
 
 Quante ore alla settimana perdete in passaggi manuali? Una call basta per stimarlo e per capire se un gestionale su misura si ripaga.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Dove lavoriamo
 
@@ -32952,6 +34043,16 @@ Quanto costa un sito web
 Tutti i servizi
 Lead generation B2B
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Agenzia Meta Ads: Facebook e Instagram
@@ -33061,7 +34162,13 @@ No, e lo diciamo prima. Le campagne rendono bene quando c’è un pubblico ampio
 
 Quanto vale un tuo cliente, quanto puoi spendere per acquisirlo, se le campagne hanno senso per te. Una call e lo capiamo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Gli altri servizi
 
@@ -33190,7 +34297,13 @@ Sì, ed è la parte dove il ritorno arriva prima. Facciamo consulenza SEO a Vero
 
 Una call e un’analisi iniziale del sito. Se scopriamo che la SEO non è la priorità per la tua attività, te lo diciamo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Come ci cercate
 
@@ -33390,7 +34503,13 @@ Sì, e li scriviamo pensando anche a come le persone cercano su Google. Se hai g
 
 Una call, nessun impegno. Se il progetto non è nelle nostre corde te lo diciamo subito, invece di provarci e farti perdere tempo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Gli altri servizi
 
@@ -33574,7 +34693,13 @@ Sono previsti avvisi automatici che ci segnalano il problema. Ed è per questo c
 
 Raccontaci il passaggio manuale che vi ruba più tempo. Facciamo il conto e ti diciamo se vale la pena automatizzarlo — anche quando la risposta è no.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Gli altri servizi
 
@@ -33694,7 +34819,13 @@ Sì: scheda Google, recensioni e, se volete, campagne mirate ai proprietari che 
 
 Raccontateci la vostra agenzia: vi diciamo come il sito può portare più proprietari a chiamarvi.
 
-Prenota la chiamata gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -33815,7 +34946,13 @@ Sì. Pagine chiare per materia, schede dei professionisti e dati strutturati son
 
 Mandateci l'indirizzo del sito attuale, o raccontateci lo studio: vi diciamo cosa cambieremmo per primo, gratis.
 
-Richiedi l'analisi gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -33939,7 +35076,13 @@ Sì: scheda Google, link di prenotazione gratuiti su Google Hotel e, se volete, 
 
 Diteci quante prenotazioni arrivano dai portali: vi facciamo vedere quanto potrebbe valere spostarne una parte sul vostro sito.
 
-Prenota la chiamata gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -34046,7 +35189,13 @@ Sì: sistemiamo la scheda, colleghiamo menù e prenotazioni, prepariamo il QR co
 
 Mandateci il nome del locale: guardiamo scheda Google e sito e vi diciamo cosa sistemare per primo.
 
-Richiedi l'analisi gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -34159,7 +35308,13 @@ Con il pagamento unico il sito è vostro dal giorno della consegna, con dominio 
 
 Diteci cosa fate e dove: vi rispondiamo con le pagine che servono e il prezzo, già scritto nel listino.
 
-Chiedi un preventivo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -34355,6 +35510,16 @@ Velocità e Core Web Vitals
 Siti web a Milano
 Siti web a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software di contabilità aziendale su misura
@@ -34528,7 +35693,13 @@ La prima tappa è operativa in sei-otto settimane. Il recupero dello storico dai
 
 Mezz'ora di call gratuita: ci dite come registrate oggi e quali domande restano senza risposta, e vi diciamo quale pezzo costruire per primo — o se quello che avete basta già.
 
-Richiedi una valutazione gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondimenti collegati
 
@@ -34700,7 +35871,13 @@ Per avere i costi dal campo sì, ma un'app che chiede tre cose: ore, materiali, 
 
 Portateci i numeri di un cantiere chiuso: in un'ora vi mostriamo dove si perdono le informazioni e cosa servirebbe per saperlo prima. Gratuito.
 
-Prenota l'analisi
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -34893,6 +36070,16 @@ Software MES per la produzione
 Software preventivi e configuratore
 Gestionale per studi professionali
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Programma fatturazione elettronica integrato
@@ -35057,6 +36244,16 @@ E-commerce collegato al gestionale
 Gestionale cloud
 Software e automazioni
 Gestione documentale
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -35235,6 +36432,16 @@ Gestione documentale
 Web agency a Conegliano
 
 Gestionali su misura a Pavia
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -35447,6 +36654,16 @@ Software MES per la produzione
 Gestionali su misura a Milano
 Gestionali su misura a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software gestione commesse su misura
@@ -35633,6 +36850,16 @@ App gestione cantieri
 Software MES per la produzione
 Software preventivi e configuratore
 Contabilità di cantiere
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -35824,6 +37051,16 @@ Gestionale per l’agroalimentare
 Incentivi e iperammortamento
 Contabilità di cantiere
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestionale per impiantisti e manutenzioni
@@ -36010,6 +37247,16 @@ App timbrature e ore di lavoro
 Software preventivi e configuratore
 Gestionale per studi professionali
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Gestionale magazzino: programma e software su misura
@@ -36171,7 +37418,13 @@ Un modulo di magazzino da solo è un progetto contenuto, e non ha costi per uten
 
 Contatele con noi in mezz'ora di call. Se il conto non giustifica il progetto, ve lo diciamo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Come lo cercate
 
@@ -36387,7 +37640,13 @@ Sì, sempre. Il database è vostro, il codice sorgente viene consegnato e potete
 
 Una call gratuita di mezz'ora: ci raccontate quanti impianti avete e come gestite oggi gli interventi, e vi diciamo se serve un sistema, quale parte per prima e quanto costa.
 
-Richiedi una valutazione gratuita
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondimenti collegati
 
@@ -36569,6 +37828,16 @@ Software MES per la produzione
 Software preventivi e configuratore
 Gestionale per officina meccanica
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software gestionale per noleggio su misura
@@ -36746,6 +38015,16 @@ Gestionali e CRM su misura
 
 Software gestione flotte
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software gestionale produzione su misura
@@ -36905,7 +38184,13 @@ Nella pratica i confini si sovrappongono. Un software gestionale produzione copr
 
 Quante ore alla settimana se ne vanno a rincorrere lo stato delle commesse, a ricontare il magazzino e a rifare i conti su un listino cambiato? Una call basta per stimarlo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Settori, zone e servizi collegati
 
@@ -37102,6 +38387,16 @@ App per prenotazioni
 Gestionale per studi legali
 Gestionale per studi medici
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software gestionale per trasporti e logistica
@@ -37248,7 +38543,13 @@ Sì, ed è la differenza principale rispetto a un pacchetto in abbonamento. Il c
 
 Quante ore alla settimana se ne vanno a ribattere documenti, a rincorrere un DDT e a rifare i conti su un tariffario cambiato? Una call basta per stimarlo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 Come lo cercate
 
@@ -37466,6 +38767,16 @@ Quanto costa un gestionale
 Gestionali e CRM su misura
 Gestionale per il noleggio
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software per gestione interventi tecnici
@@ -37634,6 +38945,16 @@ Gestionale commesse
 Gestionale per officina meccanica
 Gestionali e CRM su misura
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software house in Veneto, a Treviso
@@ -37797,7 +39118,13 @@ Alcune misure nazionali e regionali coprono l'acquisto di software e la digitali
 
 Un incontro in azienda, gratuito, per capire dove il software vi fa perdere tempo. Se la soluzione è un programma già in commercio, ve lo diciamo lì.
 
-Fissiamo un incontro
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -38026,6 +39353,16 @@ Software house in Veneto
 Gestionali su misura a Milano
 Gestionali su misura a Pavia
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software MES per la produzione su misura
@@ -38224,6 +39561,16 @@ Transizione 5.0 e iperammortamento
 Controllo di gestione
 Integrazione software aziendali
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software per PMI: gestionali e CRM su misura
@@ -38367,6 +39714,16 @@ ERP per piccole aziende
 Dashboard aziendale Cos’è un gestionale Web marketing per PMI Tutti i servizi Software gestionale aziendale CRM aziendale Gestionale in cloud Sviluppo software su misura Software house Digitalizzazione aziendale Quanto costa un gestionale
 Come scegliere un gestionale
 Sostituire Excel con un gestionale
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -38552,6 +39909,16 @@ CRM aziendale
 Controllo di gestione
 Gestionali e CRM su misura
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Software ticketing su misura per assistenza clienti
@@ -38683,7 +40050,13 @@ Potete scegliere fra canone mensile e pagamento unico; le cifre di partenza sono
 
 Mezz'ora per capire dove perdete ore ogni settimana e cosa servirebbe per recuperarle. Poi vi diciamo cosa costruiremmo e quanto costa, per iscritto.
 
-Prenota la chiamata
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -38844,7 +40217,13 @@ Dipende da volumi, numero di sedi e integrazioni. Il punto di partenza per un ge
 
 Raccontateci come lavora il vostro magazzino oggi: vi diciamo se vi serve un WMS o se basta sistemare quello che avete.
 
-Prenota il sopralluogo
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -39027,9 +40406,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -39243,9 +40622,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -39459,9 +40838,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -39675,9 +41054,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -39891,9 +41270,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -40107,9 +41486,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -40323,9 +41702,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -40485,9 +41864,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -40654,9 +42033,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -40826,9 +42205,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -41045,9 +42424,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -41262,9 +42641,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -41482,9 +42861,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -41697,9 +43076,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -41914,9 +43293,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -42128,9 +43507,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -42347,9 +43726,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -42567,9 +43946,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -42788,9 +44167,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -43004,9 +44383,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -43216,9 +44595,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -43427,9 +44806,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -43615,9 +44994,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -43828,9 +45207,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -44043,9 +45422,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -44257,9 +45636,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -44451,9 +45830,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -44611,9 +45990,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -44794,7 +46173,13 @@ Dipende dalla complessità. Prima ci scrivi, più margine c'è per materiali e f
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -44995,9 +46380,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -45215,9 +46600,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -45432,9 +46817,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -45652,9 +47037,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -45873,9 +47258,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -46092,9 +47477,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -46310,9 +47695,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -46530,9 +47915,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -46751,9 +48136,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -46940,7 +48325,13 @@ Non necessariamente. Con grafiche, luci e qualche elemento costruito su misura i
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -47138,9 +48529,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -47336,9 +48727,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -47555,9 +48946,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -47773,9 +49164,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -47993,9 +49384,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -48211,9 +49602,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -48431,9 +49822,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -48651,9 +50042,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -48870,9 +50261,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -49088,9 +50479,9 @@ Email (facoltativa)
 
 Cosa ti serve (facoltativo)
 
-Invia la richiesta su WhatsApp
+Invia la richiesta
 
-Preferisci l'email? Scrivici a info@danova-tech.com . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
+Preferisci WhatsApp? Scrivici su WhatsApp o chiama il +39 388 470 6887 . Inviando accetti di essere ricontattato; non condividiamo i tuoi dati con nessuno.
 
 Domande frequenti
 
@@ -49323,7 +50714,13 @@ Una prima versione utilizzabile, quella che copre il problema principale, di sol
 
 Basta una call di mezz'ora per capire se un'applicazione lo risolve e quanto costerebbe. Se la risposta è che non conviene, ve lo diciamo.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Servizi e zone collegate
 
@@ -49513,6 +50910,16 @@ App aziendali in Veneto
 
 Gestionali su misura a Milano
 Gestionali su misura a Pavia
+
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 
 ========================================================================
@@ -49725,6 +51132,16 @@ App aziendali in Veneto
 App per prenotazioni
 App fidelizzazione clienti
 
+## Raccontaci il tuo progetto
+Bastano due righe: ti rispondiamo con tempi, costi e il passo successivo. Senza impegno.
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
 
 ========================================================================
 # Totem pubblicitari personalizzati: legno, luminosi, LED
@@ -49862,7 +51279,13 @@ Sì, con i nostri mezzi o con corriere dedicato. Abbiamo sedi in Veneto (Mansuè
 
 Dicci fiera, date e metratura: ti rispondiamo con quello che serve e quanto costa, anche con poco preavviso.
 
-Richiedi un preventivo gratuito
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Approfondisci
 
@@ -50001,7 +51424,13 @@ Türkçe veya İngilizce: her talebe yanıt veriyoruz.
 
 Fuarı, tarihleri ve alanı bize bildirin. Neye ihtiyacınız olduğunu ve maliyetini yanıtlayalım.
 
-Bize yazın · info@danova-tech.com
+Name and company
+Email
+
+Phone (optional)
+What do you need?
+
+Send request We reply within 24 working hours. Prefer to talk? Call +39 388 470 6887 or message us on WhatsApp .
 
 WhatsApp +39 388 470 6887
 
@@ -50112,7 +51541,13 @@ Dipende dalle dimensioni. Sotto una certa soglia bastano il programma della cont
 
 Veniamo noi: guardiamo sito, scheda Google e come arrivano oggi i vostri clienti. Vi lasciamo una lista scritta di cosa sistemare, anche se poi non lavoriamo insieme.
 
-Fissiamo l'incontro
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -50240,7 +51675,13 @@ Sì, ed è spesso lì che il sito diventa utile davvero: un catalogo che prende 
 
 Scriveteci o chiamateci: fissiamo mezz'ora, da noi o da voi, e guardiamo insieme sito e scheda Google. Vi diciamo cosa sistemare, anche se poi decidete di farlo da soli.
 
-Fissiamo un incontro
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -50402,7 +51843,13 @@ Sì, per le domande frequenti e per raccogliere i dati della richiesta, passando
 
 Raccontateci come lo usate oggi: vi diciamo come organizzarlo e collegarlo ai vostri programmi.
 
-Parliamone
+Nome e azienda
+Email
+
+Telefono (facoltativo)
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
 
 ## Pagine collegate
 
@@ -50613,9 +52060,9 @@ Cosmoprof展臺搭建 Cersaie展臺搭建 EIMA展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -50846,9 +52293,9 @@ Cersaie是國際陶瓷磚和衛浴設施展，每年9月底在博洛尼亞展覽
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -51094,9 +52541,9 @@ Cibus是意大利國際食品展，在意大利“食品谷”核心地帶的帕
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -51342,9 +52789,9 @@ Cosmoprof Worldwide Bologna是全球美容行業的標杆展會。每年3月，�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -51590,9 +53037,9 @@ Ecomondo是歐洲地中海地區領先的綠色技術和循環經濟展，每年
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -51838,9 +53285,9 @@ EICMA是全球最重要的兩輪車展。每年11月，米蘭Rho展館彙集摩�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -52086,9 +53533,9 @@ EIMA International是全球重要的農業機械展之一，每兩年於11月在
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -52334,9 +53781,9 @@ EMO是世界金屬加工和機牀展：切削和成形機牀、製造系統、�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -52582,9 +54029,9 @@ Expo Riva Schuh是國際大衆鞋類展，每年兩屆在加爾達湖畔的裏�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -52830,9 +54277,9 @@ Pitti Uomo展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -53061,9 +54508,9 @@ HostMilano是國際酒店餐飲業展會，每兩年於10月在米蘭Rho展館�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -53283,9 +54730,9 @@ Vinitaly Marmomac Salone del Mobile EICMA Host Cosmoprof Cersaie EIMA Sicam Samu
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -53448,9 +54895,9 @@ EICMA展臺搭建 Cosmoprof展臺搭建 MICAM展臺搭建 MIDO展臺搭建 HostM
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -53675,9 +55122,9 @@ KEY – The Energy Transition Expo是裏米尼展覽中心的可再生能源和�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -53923,9 +55370,9 @@ Lamiera是鈑金、管材和型材加工機械與技術展：激光和等離子�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -54171,9 +55618,9 @@ Lineapelle是國際皮革、配件、輔料、面料、合成材料和鞋楦展�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -54419,9 +55866,9 @@ Macfrut是國際果蔬產業鏈展會，每年春季在裏米尼展覽中心舉�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -54667,9 +56114,9 @@ Marmomac是國際天然石材、石材設計和加工技術展，每年9月底�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -54915,9 +56362,9 @@ MECSPE是製造技術展：機牀、機械外協加工、自動化、機器人�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -55163,9 +56610,9 @@ MICAM Milano是國際鞋類展會，每年2月和9月在米蘭Rho展館舉辦兩
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -55411,9 +56858,9 @@ MIDO是全球領先的眼鏡展，每年2月在米蘭Rho展館舉辦。鏡框和
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -55677,9 +57124,9 @@ EICMA展臺搭建 MICAM展臺搭建 MIDO展臺搭建 HostMilano展臺搭建 米�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -55912,9 +57359,9 @@ Cibus展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -56143,9 +57590,9 @@ Pitti Uomo是全球領先的男裝展，每年1月和6月在佛羅倫薩Fortezza
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -56393,9 +57840,9 @@ Ecomondo展臺搭建 Macfrut展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -56619,9 +58066,9 @@ Expo Riva Schuh展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -56850,9 +58297,9 @@ Danova Tech設計效果圖，並非已建成展臺的照片。
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -57098,9 +58545,9 @@ Sicam是國際傢俱配件、輔料和半成品展，每年10月在波代諾內�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -57345,9 +58792,9 @@ Sigep World是國際甜品餐飲展：冰淇淋、糕點、麪包、巧克力和
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -57593,9 +59040,9 @@ TUTTOFOOD是米蘭展覽中心的國際B2B食品展：生鮮和包裝食品、�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -57837,9 +59284,9 @@ Marmomac展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -58062,9 +59509,9 @@ VicenzaOro展臺搭建
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -58293,9 +59740,9 @@ VicenzaOro是歐洲最重要的珠寶展之一，在維琴察展覽中心舉辦�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -58541,9 +59988,9 @@ Vinitaly是意大利國際葡萄酒和烈酒展，每年春季在維羅納展覽
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -58789,9 +60236,9 @@ Zoomark是國際寵物用品和設備展：食品、用品、清潔護理、水�
 
 您的需求（選填）
 
-通過WhatsApp發送詢價
+發送詢價
 
-更習慣用郵件，或無法使用WhatsApp？ 發郵件到 info@danova-tech.com . 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
+也可以 通過WhatsApp聯繫我們 ，或發郵件到 info@danova-tech.com 。 提交即表示同意我們與您聯繫；我們不會向任何人分享您的信息。
 
 常見問題
 
@@ -59049,9 +60496,9 @@ Cosmoprof展台搭建 Cersaie展台搭建 EIMA展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -59281,9 +60728,9 @@ Cersaie是国际陶瓷砖和卫浴设施展，每年9月底在博洛尼亚展览
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -59528,9 +60975,9 @@ Cibus是意大利国际食品展，在意大利“食品谷”核心地带的帕
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -59775,9 +61222,9 @@ Cosmoprof Worldwide Bologna是全球美容行业的标杆展会。每年3月，�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -60022,9 +61469,9 @@ Ecomondo是欧洲地中海地区领先的绿色技术和循环经济展，每年
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -60269,9 +61716,9 @@ EICMA是全球最重要的两轮车展。每年11月，米兰Rho展馆汇集摩�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -60516,9 +61963,9 @@ EIMA International是全球重要的农业机械展之一，每两年于11月在
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -60763,9 +62210,9 @@ EMO是世界金属加工和机床展：切削和成形机床、制造系统、�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -61010,9 +62457,9 @@ Expo Riva Schuh是国际大众鞋类展，每年两届在加尔达湖畔的里�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -61257,9 +62704,9 @@ Pitti Uomo展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -61487,9 +62934,9 @@ HostMilano是国际酒店餐饮业展会，每两年于10月在米兰Rho展馆�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -61708,9 +63155,9 @@ Vinitaly Marmomac Salone del Mobile EICMA Host Cosmoprof Cersaie EIMA Sicam Samu
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -61873,9 +63320,9 @@ EICMA展台搭建 Cosmoprof展台搭建 MICAM展台搭建 MIDO展台搭建 HostM
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -62099,9 +63546,9 @@ KEY – The Energy Transition Expo是里米尼展览中心的可再生能源和�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -62346,9 +63793,9 @@ Lamiera是钣金、管材和型材加工机械与技术展：激光和等离子�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -62593,9 +64040,9 @@ Lineapelle是国际皮革、配件、辅料、面料、合成材料和鞋楦展�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -62840,9 +64287,9 @@ Macfrut是国际果蔬产业链展会，每年春季在里米尼展览中心举�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -63087,9 +64534,9 @@ Marmomac是国际天然石材、石材设计和加工技术展，每年9月底�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -63334,9 +64781,9 @@ MECSPE是制造技术展：机床、机械外协加工、自动化、机器人�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -63581,9 +65028,9 @@ MICAM Milano是国际鞋类展会，每年2月和9月在米兰Rho展馆举办两
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -63828,9 +65275,9 @@ MIDO是全球领先的眼镜展，每年2月在米兰Rho展馆举办。镜框和
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -64093,9 +65540,9 @@ EICMA展台搭建 MICAM展台搭建 MIDO展台搭建 HostMilano展台搭建 米�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -64327,9 +65774,9 @@ Cibus展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -64557,9 +66004,9 @@ Pitti Uomo是全球领先的男装展，每年1月和6月在佛罗伦萨Fortezza
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -64806,9 +66253,9 @@ Ecomondo展台搭建 Macfrut展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -65031,9 +66478,9 @@ Expo Riva Schuh展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -65261,9 +66708,9 @@ Danova Tech设计效果图，并非已建成展台的照片。
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -65508,9 +66955,9 @@ Sicam是国际家具配件、辅料和半成品展，每年10月在波代诺内�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -65754,9 +67201,9 @@ Sigep World是国际甜品餐饮展：冰淇淋、糕点、面包、巧克力和
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -66001,9 +67448,9 @@ TUTTOFOOD是米兰展览中心的国际B2B食品展：生鲜和包装食品、�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -66244,9 +67691,9 @@ Marmomac展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -66468,9 +67915,9 @@ VicenzaOro展台搭建
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -66698,9 +68145,9 @@ VicenzaOro是欧洲最重要的珠宝展之一，在维琴察展览中心举办�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -66945,9 +68392,9 @@ Vinitaly是意大利国际葡萄酒和烈酒展，每年春季在维罗纳展览
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
@@ -67192,9 +68639,9 @@ Zoomark是国际宠物用品和设备展：食品、用品、清洁护理、水�
 
 您的需求（选填）
 
-通过WhatsApp发送询价
+发送询价
 
-更习惯用邮件，或无法使用WhatsApp？ 发邮件到 info@danova-tech.com . 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
+也可以 通过WhatsApp联系我们 ，或发邮件到 info@danova-tech.com 。 提交即表示同意我们与您联系；我们不会向任何人分享您的信息。
 
 常见问题
 
