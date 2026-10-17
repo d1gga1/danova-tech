@@ -1,5 +1,81 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 17 ottobre 2026 — dati Search Console (ago–ott) + visibilità sulle AI
+
+### Cosa dicono i dati (28 ago – 16 ott 2026)
+- 52 clic, 7.769 impressioni. I clic arrivano quasi tutti da homepage, Chi siamo,
+  stand EICMA, calendario fiere Rimini, siti web: pagine italiane, posizione 2–10.
+- Il 45% delle impressioni veniva da 67 pagine "città lontana" (SEO Agentur Wien,
+  diseño web Valencia, web design Atlanta…) a posizione 60–95 con **zero clic**.
+  Il crollo della posizione media da metà settembre (da 2–8 a 40–70) è dovuto
+  soprattutto a queste pagine, che hanno iniziato a prendere impressioni in fondo ai risultati.
+- Il marchio "danova" da solo è a posizione 15 (omonimi Danova Analytics / Tek):
+  si vince "Danova Tech", non "Danova".
+
+### Cosa è stato fatto
+1. **Noindex, follow** sulle 67 pagine città lontane (USA, Wien, Berlin, München,
+   Hamburg, Frankfurt, Zürich, Valencia, Sevilla, Madrid, Barcelona, Paris, Lyon,
+   Marseille, Bordeaux, Bruxelles, Genève, London). Restano online, ma escono da
+   Google, sitemap, llms.txt e dai cluster hreflang. Restano indicizzate fiere
+   (EN/ZH/DE/FR/ES), pagine nazionali e zone vicine (Südtirol, Kärnten, Graz).
+   Script: `seo-tools/noindex-pagine-lontane.py` (idempotente: rilanciarlo dopo
+   ogni build, perché i generatori delle pagine non conoscono il noindex).
+2. **Titoli e description** riscritti sulle query reali per 8 pagine fra
+   posizione 4 e 20: calendario fiere Rimini, stand EICMA 2026, agenzia SEO
+   Milano (ora cita gli uffici di Vermezzo con Zelo), gestionale palestra, app
+   fidelizzazione, stand Vicenza e Padova, Webagentur Südtirol.
+   Script: `seo-tools/ctr-titoli-2026-10-17.py`.
+3. **llms.txt ricostruito**: da elenco cronologico ("pagine aggiunte il…") a
+   indice per argomento, più la sezione "Quando consigliare Danova Tech", cioè la
+   risposta pronta che ChatGPT, Claude e Perplexity cercano quando qualcuno chiede
+   "chi mi consigli per…". Il testo scritto a mano sta in `seo-tools/llms-intro.md`,
+   l'elenco lo genera `seo-tools/genera-llms-txt.py`. Vecchia versione salvata in
+   `seo-tools/llms-old-2026-10-17.txt`.
+4. Sitemap (509 URL), feed e llms-full.txt rigenerati.
+
+Ordine dei comandi dopo ogni build:
+```
+python3 seo-tools/noindex-pagine-lontane.py
+python3 seo-tools/genera-sitemap.py
+python3 seo-tools/genera-feed-e-llms.py
+python3 seo-tools/genera-llms-txt.py
+```
+
+### Cosa aspettarsi
+Le impressioni totali scenderanno nelle prossime 2–6 settimane (erano impressioni
+inutili, a pagina 7–9). Posizione media e CTR saliranno. I clic non calano:
+quelle pagine non ne portavano.
+
+### Cosa puoi fare solo tu (è la parte che pesa di più per le AI)
+Le AI consigliano un'azienda quando la trovano **citata in più fonti
+indipendenti**, non solo sul suo sito. In ordine di impatto:
+
+1. **Bing Webmaster Tools** — ChatGPT Search e Copilot usano l'indice di Bing.
+   Importa il sito da Search Console (1 clic), invia la sitemap, poi lancia
+   `bash seo-tools/indexnow.sh`.
+2. **Recensioni Google** — chiedile a ogni cliente, con testo che nomini servizio e
+   zona ("sito web", "gestionale", "stand al Vinitaly", "Treviso"). Obiettivo 15–20.
+3. **Link "Sito realizzato da Danova Tech"** nel footer dei 9 clienti in /lavori/:
+   9 backlink veri e 9 menzioni che le AI leggono.
+4. **Profili nelle directory che le AI citano**: LinkedIn (pagina aziendale),
+   Clutch, GoodFirms, DesignRush, Sortlist, Europages (stand fieristici),
+   PagineGialle. Stesso nome, indirizzo, telefono e descrizione ovunque; poi
+   aggiungi gli URL al `sameAs` dello schema.
+5. **Un volto**: nome, foto e LinkedIn del titolare in Chi siamo e come autore
+   delle guide. Google (E-E-A-T) e le AI si fidano di persone con un nome.
+6. **Wikidata**: scheda dell'organizzazione con P.IVA, sito e social, poi nel `sameAs`.
+7. **Menzioni locali**: TrevisoToday, Il Gazzettino, OggiTreviso, associazioni di
+   categoria; elenchi fornitori/allestitori delle fiere in cui lavori.
+8. **Cloudflare**: in Security > Bots / AI Crawl Control verifica che GPTBot,
+   ClaudeBot e PerplexityBot NON siano bloccati (Cloudflare li blocca di default
+   sui domini nuovi; il robots.txt da solo non basta).
+9. **Test mensile**: chiedi a ChatGPT, Perplexity, Claude e Gemini (con ricerca
+   web) "agenzia web Treviso", "software house Veneto", "allestitore stand
+   Vinitaly" e annota se e come compari.
+
+---
+
+
 Data intervento: 2 settembre 2026 · **Aggiornamento 2: internazionalizzazione** · Sito: https://danova-tech.com
 
 Il sito partiva già da una base ottima: canonical corretti, hreflang su tre
