@@ -29,6 +29,7 @@
 - **Telefono**: +39 388 470 6887
 - **Instagram**: https://www.instagram.com/danova_techh/
 - **TikTok**: https://www.tiktok.com/@danova.tech
+- **Facebook**: https://www.facebook.com/profile.php?id=61594907955699
 - **Scheda Google Maps**: https://maps.app.goo.gl/gPgYPeA5Rtc12wve8
 - **Scheda Google (Knowledge Graph)**: https://www.google.com/search?kgmid=/g/11zf9k_btv
 - **Lingue**: italiano, inglese, tedesco, francese, spagnolo
