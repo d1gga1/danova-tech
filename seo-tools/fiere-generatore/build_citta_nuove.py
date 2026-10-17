@@ -2,7 +2,7 @@
 # Pagine /allestimenti-fieristici-<citta>/ aggiunte l'8 ottobre 2026 (uso: python3 build_citta_nuove.py)
 from nuove_common import *
 import dati_citta_nuove as D
-GEN=[("Accettate richieste urgenti?","Sì, anche a ridosso della fiera: lavoriamo con squadre nostre e squadre esterne e valutiamo subito cosa è possibile fare."),
+GEN=[("Accettate richieste urgenti?","Sì, anche a ridosso della fiera: lavoriamo con una rete di montatori partner e valutiamo subito cosa è possibile fare."),
  ("Lo stand è a noleggio o in acquisto?","Tutti e due: stand preallestiti, modulari, in tessuto teso e su misura, a noleggio o di tua proprietà. Se è tuo, possiamo conservarlo in magazzino per la prossima fiera."),
  ("Quanto costa uno stand?","Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un preventivo su misura voce per voce; nella <a href=\"/quanto-costa-uno-stand-fieristico/\">guida ai costi</a> trovi le voci principali.")]
 VICINI={'firenze':['bologna','rimini','carrara'],'torino':['milano','genova'],'roma':['napoli','firenze'],'napoli':['roma','bari'],'bari':['napoli','rimini'],

@@ -8,8 +8,8 @@ SEDE = (45.826, 12.533)
 # Sedi operative (14/10/2026): la distanza si calcola dalla sede piu' vicina al quartiere fieristico
 SEDI = [
  ("Mansuè (TV)", "Dalla sede di Mansuè (TV)", "Mansuè", 45.826, 12.533),
- ("Fontanelle (TV)", "Dalla produzione di Fontanelle (TV)", "Fontanelle", 45.834, 12.467),
- ("Trumello (PV)", "Dalla produzione e dagli uffici di Trumello (PV)", "Trumello", 45.094, 8.882),
+ ("Fontanelle (TV)", "Dal magazzino di Fontanelle (TV)", "Fontanelle", 45.834, 12.467),
+ ("Trumello (PV)", "Dal magazzino e dagli uffici di Trumello (PV)", "Trumello", 45.094, 8.882),
  ("Vermezzo con Zelo (MI)", "Dagli uffici di Vermezzo con Zelo (MI)", "Vermezzo", 45.392, 8.978),
 ]
 # slug: (citta, sede fieristica, lat, lon, regione-hub or None)
@@ -62,11 +62,11 @@ def blocco(slug):
     c, sede, lat, lon, hub = C[slug]
     k, DA, DA_LUNGO, DA_BREVE = piu_vicina(lat, lon)
     if slug == 'treviso':
-        d1 = f"Treviso è la nostra provincia: tra la sede di Mansuè e la produzione di Fontanelle siamo a circa {k} km dal capoluogo. Qui lavoriamo come a casa: sopralluoghi in giornata, consegne con i nostri mezzi e interventi durante l'evento anche con poche ore di preavviso."
+        d1 = f"Treviso è la nostra provincia: tra la sede di Mansuè e il magazzino di Fontanelle siamo a circa {k} km dal capoluogo. Qui lavoriamo come a casa: sopralluoghi in giornata, consegne rapide e interventi durante l'evento anche con poche ore di preavviso."
     elif k <= 80:
-        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km, {ore(k)} di furgone. Per {c} lavoriamo come per una fiera di casa: sopralluogo in giornata, materiali portati con i nostri mezzi, squadra che rientra la sera e che può tornare in fiera durante la manifestazione se serve un intervento."
+        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km, {ore(k)} di furgone. Per {c} lavoriamo come per una fiera di casa: sopralluogo in giornata, materiali consegnati dai nostri trasportatori di fiducia, squadra che rientra la sera e che può tornare in fiera durante la manifestazione se serve un intervento."
     elif k <= 300:
-        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km, {ore(k)} di strada. Organizziamo il trasporto con i nostri mezzi o con corriere dedicato, la squadra di montaggio lavora in trasferta per i giorni di allestimento e un referente resta raggiungibile per tutta la durata della fiera."
+        d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km, {ore(k)} di strada. Organizziamo il trasporto gestito da noi o corriere dedicato, la squadra di montaggio lavora in trasferta per i giorni di allestimento e un referente resta raggiungibile per tutta la durata della fiera."
     else:
         d1 = f"{DA_LUNGO} a {sede} ci sono circa {k} km. Per una fiera così lontana pianifichiamo tutto in anticipo: stand e materiali viaggiano con trasporto dedicato, la squadra di montaggio è in trasferta (con partner locali quando conviene) e pass, orari di scarico e pratiche con l'ente fiera sono pronti prima di partire."
     d2 = "La distanza non cambia il preventivo a sorpresa: trasporto e trasferta sono voci separate e chiare, così sai da subito quanto pesano sul totale. Se esponi più volte nella stessa zona, uno stand di proprietà conservato in magazzino riduce i costi di ogni fiera."

@@ -65,7 +65,7 @@ for v,slug,c,official,sede in CITY:
         (f"Dove si trova la fiera di {c}?",f"{vn} si trova in {addr}."),
         ("Le date sono ufficiali?","Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare."),
         ("Il calendario comprende tutte le fiere?",f"No: riporta le principali fiere internazionali e di settore. Per l'elenco completo, comprese le manifestazioni per il pubblico, consulta il calendario ufficiale di {vn}."),
-        (f"Allestite stand a {c}?",f"Sì: progettiamo, produciamo e montiamo stand a {vn}, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.")]
+        (f"Allestite stand a {c}?",f"Sì: progettiamo, realizziamo e montiamo stand a {vn}, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.")]
     items=[]
     for idx,f in enumerate([f for f in evs if f[6]],1):
         ev=event_node(f[0]); items.append({"@type":"ListItem","position":idx,"item":ev})

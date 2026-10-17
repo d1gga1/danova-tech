@@ -186,16 +186,16 @@ dict(mq=48, slug="stand-48-mq", dims="8 × 6 m o 12 × 4 m", render="stand-a-iso
     ("Progetto approvato tardi.","Strutture alte e sospese richiedono approvazioni con settimane di anticipo.")]),
  ],
  qa=[("Si possono appendere strutture al soffitto del padiglione?","Dipende dalla fiera: dove è consentito, le strutture sospese si montano tramite i rigger autorizzati dall'ente fiera, su richiesta e con un progetto approvato. Ce ne occupiamo noi."),
-  ("Fate stand a isola da 48 mq?","Sì, su misura o con sistemi modulari di grandi dimensioni, con squadre di montaggio nostre e produzione interna di strutture e arredi."),
+  ("Fate stand a isola da 48 mq?","Sì, su misura o con sistemi modulari di grandi dimensioni, con montatori partner gestiti da noi e laboratori di fiducia per strutture e arredi."),
   ("Potete fare un bar nello stand?","Sì: banco, retro, frigoriferi e, se la fiera lo consente, allaccio idrico e scarico."),
   ("Quanto costa uno stand di 48 mq?","Dipende da struttura, finiture, impianti, arredi e logistica. Ti mandiamo un preventivo gratuito voce per voce.")]),
 
 dict(mq=100, slug="stand-100-mq", dims="10 × 10 m e oltre", render="stand-isola-legno-rovere",
  title="Stand 100 mq e oltre: stand grandi a isola e a due piani | Danova Tech",
- desc="Stand fieristici da 100 mq a oltre 300 mq: isole, stand a due piani, strutture sospese, ledwall e sale riunioni. Squadre di montaggio nostre, magazzino e produzione interna.",
+ desc="Stand fieristici da 100 mq a oltre 300 mq: isole, stand a due piani, strutture sospese, ledwall e sale riunioni. Montatori partner gestiti da noi, magazzino e laboratori di fiducia.",
  h1='Stand da 100 mq e oltre: <span class="grad">isole, due piani, grandi spazi.</span>',
- lead="Da cento metri quadri in su lo stand è un progetto di architettura temporanea: isole su quattro lati, stand a due piani, strutture sospese, ledwall, bar e sale riunioni. Realizziamo stand anche oltre i 300 metri quadri, con squadre di montaggio nostre, magazzino e produzione interna di strutture e arredi in legno.",
- rows=[("Misure tipiche","10 × 10 m, 12 × 10 m, fino a oltre 300 mq"),("Lati aperti","Di solito quattro (isola)"),("Soluzioni adatte","Su misura, sistemi modulari di grandi dimensioni, due piani"),("Squadre","Squadre di montaggio nostre, coordinate da un capocantiere"),("Montaggio","Da due giorni a una settimana, secondo progetto e fiera")],
+ lead="Da cento metri quadri in su lo stand è un progetto di architettura temporanea: isole su quattro lati, stand a due piani, strutture sospese, ledwall, bar e sale riunioni. Realizziamo stand anche oltre i 300 metri quadri, con montatori partner gestiti da noi, magazzino e laboratori di fiducia per strutture e arredi in legno.",
+ rows=[("Misure tipiche","10 × 10 m, 12 × 10 m, fino a oltre 300 mq"),("Lati aperti","Di solito quattro (isola)"),("Soluzioni adatte","Su misura, sistemi modulari di grandi dimensioni, due piani"),("Squadre","Squadre di montaggio coordinate da un unico capocantiere"),("Montaggio","Da due giorni a una settimana, secondo progetto e fiera")],
  sections=[
   ('t','come',"Come si progetta uno stand grande",None,[
     "Su un'isola grande si parte dai flussi: da dove arrivano i visitatori, dove si fermano, dove si siedono i clienti importanti, dove passa lo staff con il materiale. Il progetto mette al centro i volumi chiusi (magazzini, sale riunioni, cucina del bar) e lascia aperti i fronti sui corridoi.",
@@ -213,7 +213,7 @@ dict(mq=100, slug="stand-100-mq", dims="10 × 10 m e oltre", render="stand-isola
     ("Non pensare al riuso.","Uno stand grande progettato per essere riusato abbatte i costi delle edizioni successive."),
     ("Troppi fornitori.","Un solo referente per progetto, produzione, montaggio e pratiche evita buchi e rimpalli.")]),
  ],
- qa=[("Realizzate stand oltre i 300 mq?","Sì, con squadre di montaggio nostre, produzione interna e partner per i picchi di lavoro, coordinati da un unico referente."),
+ qa=[("Realizzate stand oltre i 300 mq?","Sì, con montatori e laboratori partner coordinati da un unico referente."),
   ("Fate stand a due piani?","Sì, li progettiamo e realizziamo con calcolo strutturale, pratiche con l'ente fiera e montaggio. Vedi anche <a href=\"/stand-a-due-piani/\">stand a due piani</a>."),
   ("Conservate gli stand grandi fra una fiera e l'altra?","Sì, nel nostro magazzino: strutture, arredi e grafiche si controllano e si riportano in fiera alla prossima edizione."),
   ("Quanto costa uno stand da 100 mq?","Dipende da struttura, finiture, impianti, arredi, logistica e fiera. Ti mandiamo un preventivo gratuito voce per voce.")]),
@@ -418,7 +418,7 @@ dict(slug="come-scegliere-un-allestitore-fieristico", render="montaggio-stand-in
   ('t','noi',"Le nostre risposte",None,[],[
    ("Referente unico.","Dal primo schizzo allo smontaggio."),
    ("Produzione interna.","Tutti gli elementi in legno, dalla A alla Z."),
-   ("Squadre nostre.","Con partner per i picchi di lavoro, coordinati da noi."),
+   ("Squadre nostre.","Con partner per i picchi di lavoro, gestiti da noi."),
    ("Pratiche e certificati.","Progetto, servizi, dichiarazione di conformità e certificati dei materiali."),
    ("Magazzino nostro.","Per conservare e riusare gli stand dei clienti."),
    ("Esperienza.","Stand a Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sigep, MICAM, MIDO, Lineapelle, VicenzaOro, Ecomondo, Macfrut, Sicam e Samuexpo.")]),

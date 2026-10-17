@@ -102,7 +102,7 @@ SERVIZI_CARDS=lambda luogo: [
   ("Progetto e render 3D",f"Lo stand disegnato sulla tua metratura e sulla posizione nel padiglione{luogo}, approvato da te prima di costruirlo."),
   ("Materiali e componentistica","Strutture, pareti, pavimenti, arredi e ogni componente richiesto dal progetto e dal regolamento tecnico della fiera."),
   ("Grafica, luci e impianti","Grafica e stampa, impianto elettrico con dichiarazione di conformità, illuminazione, moquette, schermi e ledwall."),
-  ("Montatori in fiera","Squadre nostre e partner che montano lo stand nei giorni di allestimento e lo smontano a fine manifestazione."),
+  ("Montatori in fiera","Montatori partner, gestiti da noi, che montano lo stand nei giorni di allestimento e lo smontano a fine manifestazione."),
   ("Noleggio o acquisto","Stand preallestiti, modulari, in tessuto teso o su misura in legno, a noleggio o di tua proprietà."),
   ("Trasporto, magazzino, pratiche","Logistica, pass e orari di carico, approvazione del progetto da parte dell'ente fiera, magazzino fra una fiera e l'altra.")]
 def accorcia(desc,mx=158):

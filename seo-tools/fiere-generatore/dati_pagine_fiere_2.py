@@ -43,7 +43,7 @@ dict(k="emo",cal=["emo"],nome="EMO Milano",citta="Milano",cs="milano",q="Fiera M
  tempi="EMO Milano è a ottobre 2027, ma per le macchine pesanti le pratiche con l'ente fiera e la logistica di posa si impostano con molti mesi di anticipo. Per uno stand grande o a due piani conviene iniziare il progetto entro la primavera 2027.",
  qa=[("Realizzate stand a due piani per EMO?","Sì, progettiamo e montiamo stand a due piani con sale riunioni al piano superiore, con il calcolo strutturale e le pratiche richieste dall'ente fiera."),
   ("Coordinate la posa delle macchine?","Sì, coordiniamo tempi e sequenza con il tuo spedizioniere e con i mezzi di sollevamento della fiera: prima pavimenti e basamenti, poi le macchine, poi le finiture."),
-  ("Fate stand anche di grandi dimensioni?","Sì, anche oltre i 300 metri quadri, con squadre di montaggio nostre e produzione interna di strutture e arredi.")],
+  ("Fate stand anche di grandi dimensioni?","Sì, anche oltre i 300 metri quadri, con montatori partner gestiti da noi e laboratori di fiducia per strutture e arredi.")],
  off=["Stand per EMO Milano","Pavimenti portanti e basamenti per macchine","Stand a due piani con sale riunioni","Montaggio a Fiera Milano Rho"]),
 
 dict(k="zoomark",cal=["zoomark"],nome="Zoomark",citta="Bologna",cs="bologna",q="BolognaFiere",sett="sport",cad="A maggio",exp=False,

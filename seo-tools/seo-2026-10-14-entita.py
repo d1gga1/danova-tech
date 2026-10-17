@@ -14,7 +14,7 @@ HOME={
   title="Siti web, software su misura e stand fieristici | Danova Tech",
   desc="Agenzia italiana: siti web ed e-commerce, SEO e Meta Ads, gestionali e software su misura, progettazione e allestimento di stand fieristici. Risposta in 24 ore.",
   org="Agenzia tech italiana che progetta e sviluppa siti web, e-commerce, strategie SEO, campagne Meta Ads, applicazioni, gestionali e software su misura, e che progetta e allestisce stand fieristici in Italia e all'estero.",
-  dis=("e cura SEO e campagne Meta Ads.","cura SEO e campagne Meta Ads e progetta e allestisce stand fieristici, con produzione a Fontanelle (TV) e Trumello (PV)."),
+  dis=("e cura SEO e campagne Meta Ads.","cura SEO e campagne Meta Ads e progetta e allestisce stand fieristici, con magazzini a Fontanelle (TV) e Trumello (PV)."),
   hero=("Siti web, SEO, campagne Meta Ads, applicazioni, gestionali e software su misura.","Siti web, SEO, campagne Meta Ads, app, gestionali, software su misura e stand fieristici.")),
  'en/index.html':dict(
   title="Websites, custom software & exhibition stands | Danova Tech",

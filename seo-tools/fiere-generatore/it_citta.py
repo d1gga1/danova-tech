@@ -85,7 +85,7 @@ dict(s="parma",c="Parma",q="Fiere di Parma",gia=[],altre=["Cibus","Mercanteinfie
  qa=[("Allestite stand per il Cibus?","Sì: banchi refrigerati, aree assaggio, magazzino, salottini per buyer, grafica e montaggio in fiera."),
   ("Fate anche allestimenti per antiquariato e collezionismo?","Sì, con pannellature, basamenti e illuminazione dedicata. Vedi anche <a href=\"/allestimenti-eventi-showroom-negozi/\">mostre e allestimenti</a>.")]),
 ]
-GEN=[("Accettate richieste urgenti?","Sì, anche a ridosso della fiera: lavoriamo con squadre nostre e squadre esterne e valutiamo subito cosa è possibile fare."),
+GEN=[("Accettate richieste urgenti?","Sì, anche a ridosso della fiera: lavoriamo con una rete di montatori partner e valutiamo subito cosa è possibile fare."),
  ("Lo stand è a noleggio o in acquisto?","Tutti e due: stand preallestiti, modulari, in tessuto teso e su misura, a noleggio o di tua proprietà. Se è tuo, possiamo conservarlo in magazzino per la prossima fiera."),
  ("Quanto costa uno stand?","Dipende da metratura, struttura, finiture, impianti e logistica. Ti mandiamo un preventivo su misura voce per voce; nella <a href=\"/quanto-costa-uno-stand-fieristico/\">guida ai costi</a> trovi le voci principali.")]
 for d in C:
@@ -104,7 +104,7 @@ for d in C:
      [("Progetto e render 3D","Lo stand disegnato sulla tua metratura e sulla posizione nel padiglione, prima di costruirlo."),
       ("Materiali e componentistica",f"Troviamo e portiamo a {d['q']} tutto il materiale e la componentistica richiesti dal progetto e dal regolamento."),
       ("Grafica, luci e impianti","Grafica e stampa, impianto elettrico con dichiarazione di conformità, illuminazione, moquette, schermi e LED."),
-      ("Montatori in fiera","Squadre nostre e partner che montano lo stand nei tempi di allestimento e lo smontano a fine fiera."),
+      ("Montatori in fiera","Montatori partner, gestiti da noi, che montano lo stand nei tempi di allestimento e lo smontano a fine fiera."),
       ("Noleggio o acquisto","Stand preallestiti, modulari, in tessuto teso o su misura, a noleggio o di proprietà."),
       ("Trasporto, magazzino, pratiche","Logistica, magazzino fra una fiera e l'altra, approvazione del progetto, pass e orari di carico.")])
     qa=d['qa']+GEN

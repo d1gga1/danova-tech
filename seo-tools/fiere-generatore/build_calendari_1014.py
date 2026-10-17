@@ -30,7 +30,7 @@ def itemlist(URL,name,evs):
     return {"@type":"ItemList","@id":URL+"#fiere","name":name,"numberOfItems":len(items),"itemListOrder":"https://schema.org/ItemListOrderAscending","itemListElement":items}
 CITTA_CAL=[("Milano","milano"),("Bologna","bologna"),("Rimini","rimini"),("Parma","parma"),("Verona","verona"),("Firenze","firenze")]
 ESPORRE=lambda dove:[f"Ogni quartiere fieristico ha un regolamento tecnico con le regole per gli stand: altezze massime, materiali ignifughi, portata dei pavimenti, appendimenti, consegna del progetto per l'approvazione. Le scadenze cadono di solito uno o due mesi prima della fiera, come l'ordine della potenza elettrica e degli allacci.",
- f"Seguiamo tutto noi: progetto e pratiche con l'ente fiera, produzione degli elementi in legno nei nostri laboratori di Fontanelle (TV) e Trumello (PV), trasporto, montaggio, smontaggio e magazzino fino alla prossima edizione. Lavoriamo con materiali certificati in Classe 1 di reazione al fuoco e realizziamo oltre 100 stand all'anno{dove}.",
+ f"Seguiamo tutto noi: progetto e pratiche con l'ente fiera, produzione degli elementi in legno con i nostri laboratori partner, trasporto, montaggio, smontaggio e magazzino fino alla prossima edizione. Lavoriamo con materiali certificati in Classe 1 di reazione al fuoco e abbiamo già montato oltre 300 stand{dove}.",
  "Se esponi per la prima volta, leggi la <a href=\"/guide/come-preparare-una-fiera/\">guida per preparare una fiera</a> e la pagina sui <a href=\"/contributi-fiere-2026/\">contributi per le fiere 2026</a>."]
 TAPPE=[("6 mesi prima.","Prenotazione dell'area e brief dello stand."),("3–4 mesi prima.","Progetto, render 3D e preventivo."),
  ("1–2 mesi prima.","Progetto all'ente fiera, potenza elettrica, pass."),("In fiera.","Montaggio nei giorni di allestimento, smontaggio a fine manifestazione.")]
@@ -67,7 +67,7 @@ for v,slug,c,official,sede,dove in CITY:
     qa=[(f"Quali sono le prossime fiere a {c}?",f"Le prossime fiere a {vn} sono: "+"; ".join(f"{f[1]} ({DC.quando(f[0])})" for f in evs[:6])+". Le date sono aggiornate a ottobre 2026: verificale sempre sul sito ufficiale prima di prenotare."),
         (f"Dove si trova la fiera di {c}?",f"{vn} si trova in {addr}."),
         ("Le date sono ufficiali?","Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare."),
-        (f"Allestite stand a {c}?",f"Sì: progettiamo, produciamo e montiamo stand a {vn}, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.")]
+        (f"Allestite stand a {c}?",f"Sì: progettiamo, realizziamo e montiamo stand a {vn}, su misura, modulari o preallestiti, a noleggio o in acquisto. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.")]
     rel=[(f"Allestimenti fieristici a {c}",CITTA_URL.get(slug,PILLAR)),("Calendario fiere Italia ed Europa",CAL)]+[(f"Calendario fiere {x}",f"/calendario-fiere-{s}/") for x,s in CITTA_CAL if s!=slug]+SERVIZI_LINKS[2:]
     t=f"Calendario fiere {c} 2026–2027: date a {vn}"
     if len(t)+14<=65: t+=" | Danova Tech"
@@ -131,7 +131,7 @@ for slug,nome,cats,stand_u,stand_t,intro,stand_txt in SETT:
     qa=[(f"Quali sono le prossime fiere {nome}?","Le prossime sono: "+"; ".join(f"{f[1]} a {DC.V[f[2]][1]} ({DC.quando(f[0])})" for f in prime)+"."),
         (f"Quali sono le fiere {nome} più importanti in Italia?",("In Italia: "+", ".join(f"{f[1]} ({DC.V[f[2]][1]})" for f in it[:6])+".") if it else "Nei prossimi mesi le principali edizioni sono all'estero: le trovi nell'elenco."),
         ("Le date sono ufficiali?","Sono le date pubblicate dagli organizzatori, raccolte a ottobre 2026. Dove un'edizione non ha ancora date ufficiali è indicato il mese previsto, con la dicitura date da confermare."),
-        (f"Fate stand per le fiere {nome}?","Sì: progettiamo, produciamo e montiamo stand in Italia e in Europa, su misura, modulari o preallestiti. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.")]
+        (f"Fate stand per le fiere {nome}?","Sì: progettiamo, realizziamo e montiamo stand in Italia e in Europa, su misura, modulari o preallestiti. Premi Richiedi lo stand su una fiera dell'elenco e ricevi il preventivo.")]
     rel=[(t,u) for t,u in SETT_CAL if u!=P]+[("Calendario fiere Italia ed Europa",CAL)]+([(stand_t,stand_u)] if stand_u else [])+SERVIZI_LINKS[2:5]
     t=f"Fiere {nome} 2026–2027: calendario Italia ed Europa"
     if len(t)>65: t=f"Fiere {nome} 2026–2027: calendario"

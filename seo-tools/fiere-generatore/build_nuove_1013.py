@@ -107,7 +107,7 @@ HUB={
 "veneto":dict(nome="Veneto",citta=["verona","padova","vicenza","venezia","treviso","longarone"],
   sedi=[("Veronafiere","Vinitaly, Marmomac, Fieracavalli"),("Fiera di Padova","fiere di settore, congressi ed eventi"),("Vicenza Expo Centre","VicenzaOro e fiere della gioielleria"),("Longarone Fiere Dolomiti","fiere del gelato artigianale e della montagna"),("Venezia e Mestre","congressi, mostre ed eventi in spazi storici")],
   lead="Allestimenti fieristici in Veneto, dalla nostra sede di Mansuè (TV): stand per Veronafiere, Fiera di Padova, Vicenza, Longarone e per eventi e congressi a Venezia e Treviso. Progetto, materiali, grafica e montatori, con tempi da fornitore di casa.",
-  intro=["Il Veneto è la nostra regione: la sede è a Mansuè, in provincia di Treviso, e da qui raggiungiamo i principali quartieri fieristici veneti in un'ora o due di strada. Significa sopralluoghi facili, consegne con i nostri mezzi e la possibilità di intervenire anche durante la fiera.",
+  intro=["Il Veneto è la nostra regione: la sede è a Mansuè, in provincia di Treviso, e da qui raggiungiamo i principali quartieri fieristici veneti in un'ora o due di strada. Significa sopralluoghi facili, consegne rapide e la possibilità di intervenire anche durante la fiera.",
    "Il calendario veneto copre settori molto diversi: il vino e la pietra a Verona, l'oreficeria a Vicenza, il gelato artigianale a Longarone, fiere e congressi a Padova, eventi e mostre negli spazi storici di Venezia. Per le aziende venete che espongono più volte l'anno, uno stand modulare di proprietà conservato nel nostro magazzino è spesso la scelta più conveniente."],
   qa=[("Dove avete sede?","A Mansuè, in provincia di Treviso, con la produzione a Fontanelle (TV): siamo vicini a tutti i quartieri fieristici del Veneto e del Friuli. In Lombardia abbiamo produzione e uffici a Trumello (PV) e uffici a Vermezzo con Zelo (MI)."),
       ("Lavorate a Veronafiere?","Sì, abbiamo allestito stand al Vinitaly e al Marmomac.")]),
@@ -116,7 +116,7 @@ HUB={
   lead="Allestimenti fieristici in Lombardia: stand per Fiera Milano Rho, Allianz MiCo, Fiera di Bergamo, Brixia Forum e Montichiari. Progetto, materiali, componentistica, grafica, impianti e montatori in fiera, con un unico referente.",
   intro=["La Lombardia ospita il quartiere fieristico più grande d'Italia, Fiera Milano a Rho, e un calendario fittissimo di fiere internazionali: dal design del Salone del Mobile alle moto di EICMA, dall'ospitalità di Host alle calzature di MICAM e all'occhialeria di MIDO. Accanto, Bergamo e Brescia con fiere legate all'industria e al territorio.",
    "In Lombardia siamo presenti direttamente: abbiamo una produzione e degli uffici a Trumello, in provincia di Pavia, e uffici a Vermezzo con Zelo, alle porte di Milano, a circa mezz'ora da Fiera Milano Rho. Sopralluoghi, incontri e assistenza durante la fiera senza lunghe trasferte.",
-   "A Rho l'organizzazione conta quanto il progetto: varchi, prenotazione degli scarichi, pass e orari di montaggio vanno gestiti con anticipo. Ce ne occupiamo noi, con squadre nostre e partner, così il giorno dell'allestimento non ci sono sorprese."],
+   "A Rho l'organizzazione conta quanto il progetto: varchi, prenotazione degli scarichi, pass e orari di montaggio vanno gestiti con anticipo. Ce ne occupiamo noi, con i nostri montatori partner, così il giorno dell'allestimento non ci sono sorprese."],
   qa=[("Allestite stand a Fiera Milano Rho?","Sì, abbiamo allestito stand al Salone del Mobile, a EICMA e a Host."),
       ("Lavorate anche a Bergamo e Brescia?","Sì, con la stessa organizzazione: trasporto, squadre, pass e pratiche con l'ente fiera gestiti da noi.")]),
 "emilia":dict(nome="Emilia-Romagna",citta=["bologna","rimini","parma"],
@@ -137,7 +137,7 @@ def hubs():
         m+=testo("sedi",f"I quartieri fieristici in {n}",None,[],[(a+".",b) for a,b in d['sedi']])
         m+=chips("citta-regione",f"Le nostre pagine per città in {n}","Per ogni città trovi le fiere, cosa sapere per lo stand e il calendario delle prossime edizioni.",[(f"Allestimenti fieristici a {NOMI[s]}",CITTA_URL[s]) for s in d['citta']])
         m+=cards("cosa","Cosa facciamo per il tuo stand",None,SERVIZI_CARDS(""))
-        qa=d['qa']+[("Accettate richieste urgenti?","Sì, anche a ridosso della fiera: valutiamo subito cosa è possibile fare con squadre nostre e partner."),
+        qa=d['qa']+[("Accettate richieste urgenti?","Sì, anche a ridosso della fiera: valutiamo subito cosa è possibile fare con i nostri montatori partner."),
                     ("Lo stand è a noleggio o in acquisto?","Tutti e due: preallestiti, modulari, in tessuto teso e su misura, a noleggio o di tua proprietà, con magazzino tra una fiera e l'altra.")]
         node=svc(P,f"Allestimenti fieristici in {n}","Allestimento e montaggio di stand fieristici",
           f"Progettazione, materiali, grafica, impianti, montaggio e smontaggio di stand fieristici in {n}.",

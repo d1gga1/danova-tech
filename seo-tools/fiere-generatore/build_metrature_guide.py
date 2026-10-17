@@ -47,7 +47,7 @@ def metrature():
         ("A penisola.", "Tre lati aperti: lo stand diventa un piccolo showroom."), ("A isola.", "Quattro lati aperti: architettura vera, anche a due piani. Vedi <a href=\"/stand-a-isola/\">stand a isola</a>.")])
     m += cards("servizi", "Cosa facciamo per il tuo stand", None, SERVIZI_CARDS(""))
     qa = [("Che metratura serve per la prima fiera?", "Per una prima fiera di settore 12–16 mq sono spesso sufficienti, meglio se ad angolo. Conta più il progetto che i metri quadri."),
-          ("Realizzate anche stand molto grandi?", "Sì, anche oltre i 300 mq, a isola e a due piani, con squadre di montaggio nostre e produzione interna."),
+          ("Realizzate anche stand molto grandi?", "Sì, anche oltre i 300 mq, a isola e a due piani, con montatori partner gestiti da noi e laboratori di fiducia."),
           ("Lo stesso stand può servire per metrature diverse?", "Sì, se è modulare: lo configuriamo di volta in volta e lo conserviamo nel nostro magazzino."),
           ("Quanto costa uno stand al metro quadro?", "Il prezzo al metro quadro dice poco: dipende da struttura, finiture, impianti e servizi. Ti mandiamo un preventivo gratuito voce per voce.")]
     rel = [("Stand piccoli", "/stand-fieristici-piccoli/"), ("Stand a isola", "/stand-a-isola/"), ("Stand a due piani", "/stand-a-due-piani/"), ("Quanto costa uno stand", "/quanto-costa-uno-stand-fieristico/"), ("Allestimenti fieristici", PILLAR)]

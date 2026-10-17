@@ -40,7 +40,7 @@ PAGINE.append({
    "corpo":[("Analisi del sito","Problemi tecnici, pagine mancanti, concorrenti che vi superano e perché."),("Piano scritto","Cosa facciamo, in che ordine, con quali obiettivi misurabili."),
     ("Lavoro sul sito","Correzioni tecniche, pagine nuove, scheda Google, collegamenti interni."),("Report e aggiustamenti","Ogni mese guardiamo i dati e correggiamo la rotta.")]}],
  "faqtitle":f"Le domande {G}sulla SEO a Verona.{_G}",
- "faq":[("Venite a Verona?","Per il primo incontro sì, volentieri; il lavoro SEO poi si segue benissimo in videochiamata e con i report mensili. La nostra produzione di Fontanelle (TV) è a circa due ore da Verona."),
+ "faq":[("Venite a Verona?","Per il primo incontro sì, volentieri; il lavoro SEO poi si segue benissimo in videochiamata e con i report mensili. Il nostro magazzino di Fontanelle (TV) è a circa due ore da Verona."),
   ("In quanto tempo si vedono i risultati?","I primi movimenti in 2-3 mesi, i risultati solidi fra il sesto e il dodicesimo, a seconda della concorrenza. Diffidate da chi promette la prima pagina in 30 giorni."),
   ("Lavorate anche sul nostro sito attuale?","Sì: non serve rifarlo. Se il sito ha limiti tecnici gravi ve lo diciamo, e solo allora proponiamo un restyling."),
   ("Fate anche Google Ads?","Sì: la pubblicità dà contatti da subito, la SEO costruisce traffico che non si paga a clic. Spesso conviene partire con entrambe.")],

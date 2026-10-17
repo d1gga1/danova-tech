@@ -22,7 +22,7 @@ m+=cards("cosa","Cosa comprende il montaggio","Il montaggio non è solo avvitare
 m+=testo("progetti-di-altri","Montiamo anche stand <span class=\"grad\">progettati da altri</span>",None,
  ["Non serve che il progetto sia nostro. Se hai già un architetto, un'agenzia o uno stand di proprietà, possiamo occuparci solo della parte pratica: troviamo il materiale e la componentistica che mancano, organizziamo la squadra e montiamo lo stand in fiera seguendo i disegni esecutivi.",
   "Lo stesso vale per gli stand già usati in altre fiere: li recuperiamo dal tuo magazzino o dal nostro, verifichiamo cosa serve sostituire o adattare alla nuova metratura e li rimontiamo."],
- [("Oltre 25 anni in fiera.","Sappiamo come funzionano gli allestimenti dei grandi quartieri fieristici e cosa chiedono gli enti fiera."),
+ [("Oltre 20 anni in fiera.","Sappiamo come funzionano gli allestimenti dei grandi quartieri fieristici e cosa chiedono gli enti fiera."),
   ("Squadre nostre e partner.","Possiamo coprire più fiere nello stesso periodo e stand di grandi dimensioni."),
   ("Anche urgenze.","Se la fiera è vicina, valutiamo subito squadra e materiali disponibili."),
   ("Italia ed estero.","Montiamo stand in tutti i quartieri fieristici italiani e nelle fiere in Germania, Francia, Spagna e nel resto d'Europa.")])
@@ -39,7 +39,7 @@ page(P,"Montaggio stand fieristici: montatori in fiera | Danova Tech",
  ("Montate anche stand progettati da altri?","Sì. Possiamo occuparci solo di materiali, componentistica e montaggio seguendo i disegni del tuo progettista, oppure di rimontare uno stand che hai già."),
  ("Quanti montatori servono per uno stand?","Dipende da metratura, tipo di struttura e giorni di allestimento disponibili. Uno stand preallestito piccolo si monta in poche ore, uno su misura a isola richiede squadre più grandi e più giorni. Dimensioniamo la squadra sul tuo caso."),
  ("Vi occupate anche dello smontaggio?","Sì. A fine manifestazione smontiamo, imballiamo e carichiamo lo stand nei tempi di disallestimento, e se vuoi lo conserviamo in magazzino per la fiera successiva."),
- ("Potete intervenire con poco preavviso?","Sì, accettiamo anche richieste urgenti. Lavorando con squadre nostre e squadre esterne riusciamo spesso a organizzare il montaggio anche a ridosso della fiera."),
+ ("Potete intervenire con poco preavviso?","Sì, accettiamo anche richieste urgenti. Lavorando con la nostra rete di montatori partner riusciamo spesso a organizzare il montaggio anche a ridosso della fiera."),
  ("Lavorate anche nelle fiere all'estero?","Sì, in Germania, Francia, Spagna e nel resto d'Europa, con la stessa organizzazione che usiamo in Italia.")],
  svc(P,"Montaggio stand fieristici","Montaggio e smontaggio di stand fieristici","Montaggio e smontaggio di stand fieristici direttamente in fiera con squadre di montatori proprie e partner, fornitura di materiali e componentistica, impianto elettrico, grafiche, logistica e pass, in Italia e all'estero.",
  ["Squadre di montatori in fiera","Smontaggio e disallestimento","Fornitura componentistica","Impianto elettrico e illuminazione","Posa grafiche e pavimentazioni","Logistica, pass e orari di carico"]))
@@ -70,7 +70,7 @@ m+=passi("metodo","Come nasce","Dall'idea <span class=\"grad\">al padiglione.</s
   ("Produzione","Costruzione degli elementi, stampa delle grafiche, preparazione di arredi e tecnologia."),
   ("Montaggio e smontaggio","Montaggio in fiera, consegna dello stand e smontaggio a fine manifestazione.")])
 page(P,"Stand fieristici su misura in legno, progetto 3D | Danova Tech",
- "Stand fieristici su misura in legno, prodotti da noi dalla A alla Z: progetto 3D, costruzione, luci e montaggio in fiera. Isole e due piani, prezzi competitivi.",
+ "Stand fieristici su misura in legno, progettati da noi e costruiti da laboratori partner: progetto 3D, luci e montaggio in fiera. Isole e due piani, prezzi competitivi.",
  "Stand fieristici su misura — Danova Tech","Progetto 3D, costruzione, grafica e montaggio: uno stand unico, costruito sul tuo marchio.",
  "Stand fieristici su misura",m,[
  ("Quanto costa uno stand su misura?","Dipende da metratura, materiali, finiture, tecnologia e città della fiera. Ti diamo un preventivo dettagliato dopo il brief; nella <a href=\"/quanto-costa-uno-stand-fieristico/\">guida ai costi</a> trovi le voci che incidono di più."),
@@ -83,7 +83,7 @@ page(P,"Stand fieristici su misura in legno, progetto 3D | Danova Tech",
 # ============ MODULARI
 P="/stand-modulari/"
 m=hero("Stand modulari",'Stand modulari in alluminio e <span class="grad">tessuto teso</span>.',
- "Strutture componibili che si montano in fretta, si adattano a metrature diverse e si riutilizzano fiera dopo fiera. A noleggio o in acquisto, personalizzate con grafiche, luci e arredi, e montate dalle nostre squadre direttamente in fiera.",
+ "Strutture componibili che si montano in fretta, si adattano a metrature diverse e si riutilizzano fiera dopo fiera. A noleggio o in acquisto, personalizzate con grafiche, luci e arredi, e montate direttamente in fiera da squadre gestite da noi.",
  "Richiedi un preventivo",CT,"Noleggio o acquisto","#formula")
 m+=cards("cosa","Perché scegliere uno stand modulare",None,
  [("Si riutilizza","Telai e pannelli si smontano e si rimontano per anni. Cambi le grafiche, non lo stand."),
@@ -100,7 +100,7 @@ m+=testo("formula","Noleggio o acquisto?",None,
   ("Misto.","Struttura modulare con elementi su misura in legno per banchi e zone prodotto.")])
 page(P,"Stand modulari in alluminio e tessuto teso | Danova Tech",
  "Stand fieristici modulari in alluminio e tessuto teso, a noleggio o in acquisto: riutilizzabili, riconfigurabili e montati in fiera. In Italia e all'estero.",
- "Stand modulari riutilizzabili — Danova Tech","Strutture in alluminio e tessuto teso, a noleggio o in acquisto, montate in fiera dalle nostre squadre.",
+ "Stand modulari riutilizzabili — Danova Tech","Strutture in alluminio e tessuto teso, a noleggio o in acquisto, montate in fiera da squadre gestite da noi.",
  "Stand modulari",m,[
  ("Uno stand modulare si può usare in fiere con metrature diverse?","Sì, è il suo vantaggio principale: la stessa struttura si riconfigura su spazi e forme diverse, aggiungendo o togliendo moduli."),
  ("Si possono cambiare solo le grafiche?","Sì. Con il tessuto teso e i pannelli intercambiabili cambi immagine da una fiera all'altra senza rifare la struttura."),
@@ -184,10 +184,10 @@ m+=cards("cosa","Cosa allestiamo",None,
   ("Grafica e comunicazione","Insegne, vetrofanie, pannelli, tessuti stampati, segnaletica: e, se serve, anche il sito o la campagna dell'evento."),
   ("Montaggio e logistica","Trasporto, montaggio, smontaggio e magazzino, con squadre nostre e partner.")])
 m+=testo("perche","Un solo partner per spazi fisici e digitali",None,
- ["Oltre 25 anni di fiere ci hanno insegnato a lavorare con tempi stretti, regolamenti rigidi e spazi da allestire in poche ore. Le stesse regole valgono per un congresso in hotel, uno showroom che apre lunedì o una mostra che deve essere pronta per l'inaugurazione.",
+ ["I nostri oltre 20 anni di fiere ci hanno insegnato a lavorare con tempi stretti, regolamenti rigidi e spazi da allestire in poche ore. Le stesse regole valgono per un congresso in hotel, uno showroom che apre lunedì o una mostra che deve essere pronta per l'inaugurazione.",
   "E siamo anche un'agenzia tech: allo spazio fisico possiamo affiancare <a href=\"/servizi/siti-web-ecommerce/\">landing page</a> per le iscrizioni, <a href=\"/app-prenotazioni/\">prenotazioni</a>, <a href=\"/servizi/meta-ads/\">campagne</a> per portare persone e un <a href=\"/crm-aziendale/\">CRM</a> per non perdere i contatti."])
 page(P,"Allestimenti per eventi, showroom, negozi e mostre | Danova Tech",
- "Allestimenti per eventi aziendali e congressi, showroom, negozi, temporary store e mostre: progetto, grafica, luci e montaggio. Oltre 25 anni di esperienza.",
+ "Allestimenti per eventi aziendali e congressi, showroom, negozi, temporary store e mostre: progetto, grafica, luci e montaggio. Un team con oltre 20 anni di esperienza.",
  "Allestimenti per eventi, showroom, negozi e mostre — Danova Tech","Progetto, materiali, grafica e montaggio per eventi, congressi, showroom, retail e mostre d'arte.",
  "Eventi, showroom, negozi e mostre",m,[
  ("Allestite anche eventi fuori dai quartieri fieristici?","Sì: hotel, centri congressi, spazi aziendali, location per eventi, negozi e spazi espositivi."),

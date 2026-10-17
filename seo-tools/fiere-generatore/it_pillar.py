@@ -6,7 +6,7 @@ P=PILLAR; URL=SITE+P
 qa=[
 ("Quanto costa uno stand fieristico?","Dipende da superficie, tipo di struttura (preallestita, modulare o su misura), finiture, grafica, impianto elettrico, trasporto e dalla città della fiera. Per questo non pubblichiamo un listino: ti facciamo un preventivo su misura, voce per voce, così sai esattamente cosa paghi. Nella <a href=\"/quanto-costa-uno-stand-fieristico/\">guida ai costi</a> spieghiamo da cosa dipende ogni voce."),
 ("Cosa è incluso nel servizio?","Quello che ti serve. Possiamo seguire tutto, dal progetto con render 3D alla grafica e stampa, dalle strutture all'impianto elettrico con illuminazione, moquette e LED, fino a trasporto, montaggio, smontaggio, magazzino e pratiche con l'ente fiera. Oppure solo una parte: per esempio solo materiali e montatori, se il progetto ce l'hai già."),
-("Accettate anche richieste urgenti?","Sì. Lavoriamo anche a ridosso della fiera: con squadre nostre e squadre esterne riusciamo a organizzare materiali e montaggio in tempi stretti. Prima ci scrivi, più scelta hai su soluzioni e finiture, ma una richiesta urgente non la rifiutiamo a priori."),
+("Accettate anche richieste urgenti?","Sì. Lavoriamo anche a ridosso della fiera: con la nostra rete di montatori partner riusciamo a organizzare materiali e montaggio in tempi stretti. Prima ci scrivi, più scelta hai su soluzioni e finiture, ma una richiesta urgente non la rifiutiamo a priori."),
 ("Lo stand si può riutilizzare in più fiere?","Sì, ed è spesso la scelta più conveniente se esponi più volte l'anno. Gli stand modulari in alluminio e in tessuto teso nascono per essere smontati e rimontati, anche in configurazioni diverse; tra una fiera e l'altra possiamo conservarli nel nostro magazzino."),
 ("Meglio noleggiare o acquistare lo stand?","Se fai una o due fiere l'anno il noleggio di strutture e arredi di solito conviene; se ne fai molte, o vuoi uno stand riconoscibile che ti segue ovunque, l'acquisto si ripaga nel tempo. Facciamo entrambe le cose e te lo diciamo con i numeri del tuo caso."),
 ("In quali fiere lavorate?","In tutti i principali quartieri fieristici italiani, da Verona a Milano, Bologna, Padova, Vicenza, Pordenone, Rimini e Parma, e nelle fiere all'estero, in Germania, Francia, Spagna e nel resto d'Europa. Abbiamo allestito stand a fiere come Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sigep, MICAM, MIDO, Lineapelle, VicenzaOro, Ecomondo, Macfrut, Sicam e Samuexpo."),
@@ -15,7 +15,7 @@ qa=[
 ]
 main = hero("Allestimenti fieristici · Novità",
  'Allestimenti fieristici e stand per fiere <span class="grad">chiavi in mano</span>.',
- "Progettiamo, forniamo e montiamo stand fieristici per aziende di ogni settore, in Italia e all'estero. Troviamo il materiale necessario e tutta la componentistica richiesta, e le nostre squadre di montatori costruiscono lo stand direttamente in fiera. Oltre 25 anni di esperienza nel settore fieristico, un unico referente dal primo schizzo allo smontaggio.",
+ "Progettiamo, forniamo e montiamo stand fieristici per aziende di ogni settore, in Italia e all'estero. Troviamo il materiale necessario e tutta la componentistica richiesta, e squadre di montatori partner, gestite da noi, costruiscono lo stand direttamente in fiera. Un team con oltre 20 anni di esperienza nel settore fieristico, un unico referente dal primo schizzo allo smontaggio.",
  "Richiedi un preventivo per lo stand",CT,"Come lavoriamo","#metodo")
 main+=cards("cosa","Tutto quello che serve allo stand, in un unico fornitore",
  "Uno stand è fatto di decine di pezzi e di tante competenze diverse. Possiamo occuparci di tutto, oppure solo della parte che ti manca.",
@@ -43,8 +43,8 @@ main+=chips("calendario-fiere","Calendario fiere 2026–2027, <span class=\"grad
  [("Apri il calendario fiere",CAL)]+FIERA_LINKS)
 main+=chips("tipologie","Ogni forma e misura di stand",None,TIPI_LINKS)
 main+=chips("settori","Stand per il tuo settore",None,SETTORI_LINKS)
-main+=testo("esperienza","Oltre 25 anni di fiere, <span class=\"grad\">anche quando i tempi sono stretti</span>",None,
- ["In più di 25 anni di lavoro nel settore fieristico abbiamo imparato una cosa: in fiera i problemi non si risolvono, si prevengono. Un pezzo che manca, un impianto non conforme, un orario di carico sbagliato costano ore che durante l'allestimento non ci sono. Per questo controlliamo materiali, componentistica e documenti prima di partire, non in padiglione.",
+main+=testo("esperienza","Oltre 20 anni di fiere, <span class=\"grad\">anche quando i tempi sono stretti</span>",None,
+ ["In oltre 20 anni di lavoro nel settore fieristico abbiamo imparato una cosa: in fiera i problemi non si risolvono, si prevengono. Un pezzo che manca, un impianto non conforme, un orario di carico sbagliato costano ore che durante l'allestimento non ci sono. Per questo controlliamo materiali, componentistica e documenti prima di partire, non in padiglione.",
   "Lavoriamo con squadre di montatori nostre e con squadre esterne di fiducia. Questo ci permette di seguire più fiere nello stesso periodo e di accettare anche le richieste urgenti, a ridosso dell'apertura, senza rinunciare alla qualità del montaggio."],
  [("Un unico referente.","Una persona che conosce il tuo stand dall'inizio alla fine e risponde di tutto."),
   ("Preventivo voce per voce.","Prima di partire sai cosa comprende e quanto costa ogni parte."),
@@ -69,6 +69,6 @@ nodes=[service_node(URL,"Allestimenti fieristici","Allestimento e montaggio di s
  AREAS_IT,["Progettazione stand e render 3D","Stand preallestiti","Stand modulari in alluminio","Stand in tessuto teso","Stand su misura in legno","Grafica e stampa per stand","Impianto elettrico, illuminazione e LED","Montaggio e smontaggio stand in fiera","Trasporto, logistica e magazzino","Pratiche con l'ente fiera","Noleggio stand e arredi"],'it')]
 alts={'it':P,'en':'/en/exhibition-stand-builder-italy/','de':'/de/messebau-italien/','fr':'/fr/standiste-salon-italie/','es':'/es/montaje-stands-feriales-italia/','zh':'/zh/italy-exhibition-stand/','tr':'/tr/italya-fuar-standi/','ar':'/ar/italy-exhibition-stand/'}
 print(build('it',P,"Allestimenti fieristici e stand per fiere chiavi in mano",
- "Allestimenti fieristici in Italia e all'estero: stand e arredi in legno prodotti da noi dalla A alla Z, progetto 3D, impianti e montatori. Prezzi competitivi.",
+ "Allestimenti fieristici in Italia e all'estero: stand e arredi in legno su nostro progetto 3D, laboratori partner, impianti e montatori. Prezzi competitivi.",
  "Allestimenti fieristici chiavi in mano — Danova Tech","Progetto, materiali, componentistica e montatori in fiera. Stand preallestiti, modulari e su misura, in Italia e all'estero.",
  [("Home","/"),("Servizi","/#servizi"),("Allestimenti fieristici",None)],main,qa,nodes,alts))
