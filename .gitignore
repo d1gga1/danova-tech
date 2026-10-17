@@ -11,3 +11,6 @@ seo-tools/keywords/planner-2026-10/usa/tutte.json
 # render stand: originali, provini e anteprime (le versioni per il sito sono in assets/img/stand)
 seo-tools/render-stand/
 **/__pycache__/
+
+# materiale per i social (video, copertine): non va pubblicato sul sito
+social/

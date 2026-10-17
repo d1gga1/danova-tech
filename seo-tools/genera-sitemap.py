@@ -32,7 +32,7 @@ def priorita(rel):
 
 pages=[]
 for dp,dn,fn in os.walk("."):
-    dn[:]=[d for d in dn if d not in (".git","seo-tools","assets","_archivio")]
+    dn[:]=[d for d in dn if d not in (".git",".github","seo-tools","assets","_archivio","social")]
     for f in fn:
         if f!="index.html": continue
         pages.append(os.path.relpath(os.path.join(dp,f),".").replace("\\","/"))

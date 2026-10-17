@@ -96,7 +96,7 @@ print(f"feed.xml: {len(voci)} voci")
 PRIORITA=["index.html","chi-siamo/index.html","servizi/index.html","contatti/index.html"]
 italiane=[]
 for dp,dn,fn in os.walk("."):
-    dn[:]=[d for d in dn if d not in (".git","seo-tools","assets","en","de","fr","es","_archivio")]
+    dn[:]=[d for d in dn if d not in (".git",".github","seo-tools","assets","en","de","fr","es","_archivio","social")]
     for f in fn:
         if f!="index.html": continue
         rel=os.path.relpath(os.path.join(dp,f),".").replace("\\","/")
