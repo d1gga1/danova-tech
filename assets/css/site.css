@@ -916,3 +916,20 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
 @media (max-width:560px){.fr-foto figcaption{padding:10px 14px;font-size:12.5px}.fr-gal{grid-template-columns:1fr}}
 /* mobile 13/10/2026: didascalie piu' leggibili e link legali del footer piu' facili da toccare (min 24px) */
 @media (max-width:560px){.fr-foto figcaption{font-size:13px;line-height:1.5}.f-legal a,.f-legal button{display:inline-block;padding:4px 0}}
+/* conv-1018 */
+.price-for{font-size:14.5px;line-height:1.5;color:var(--muted);margin:-12px 0 18px}
+.price-card.feat{box-shadow:0 24px 70px -34px rgba(30,107,255,.65);border-color:rgba(77,139,255,.55)}
+.price-card.wide{grid-column:1/-1}
+@media (max-width:560px){.price-badge{align-self:flex-start}}
+.price-card.wide .price-list{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.gar-grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));margin-top:8px}
+.gar{background:var(--panel);border:1px solid var(--line);border-radius:var(--r-md);padding:30px 28px}
+.gar-ic{width:46px;height:46px;border-radius:12px;display:grid;place-items:center;background:rgba(30,107,255,.14);color:var(--blue-2);margin-bottom:18px}
+.gar h3{font-family:'Sora',sans-serif;font-size:1.12rem;font-weight:700;letter-spacing:-.01em;margin-bottom:10px}
+.gar p{color:var(--muted);font-size:15px;line-height:1.6}
+.gar-offer{margin-top:24px;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:18px;padding:24px 28px;border-radius:var(--r-md);border:1px dashed rgba(77,139,255,.5);background:rgba(30,107,255,.07)}
+.gar-offer p{font-size:16px;line-height:1.55;max-width:640px;margin:0}
+.gar-offer b{color:var(--blue-2)}
+@media (min-width:900px){.price-grid.tiers{grid-template-columns:repeat(3,1fr)}}
+@media (max-width:760px){.price-grid.tiers .price-card.feat{order:-1}}
+/* /conv-1018 */

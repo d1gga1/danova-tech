@@ -1,5 +1,27 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 18 ottobre 2026 — conversione: livelli, garanzie, offerta
+
+Cosa cambia (homepage e listino, 5 lingue):
+- Sito in 3 livelli: Essenziale 350 € (o 24,80 €/mese), Professionale 1.490 €
+  con SEO (evidenziato "Consigliato", primo su mobile), Su misura da 2.990 €.
+- Sezione "Rischio zero": paghi solo se ti piace (bozza prima dell'acconto),
+  consegna puntuale o 10% di sconto a settimana di ritardo, prezzo bloccato.
+  Offerta: 10% in più se confermi entro la fine della settimana del preventivo.
+- Hero con parole chiave e beneficio, CTA "Preventivo gratuito in 24 ore",
+  riga di fiducia (5,0 su Google), secondo pulsante verso i prezzi.
+- FAQ nuove (sconti, cosa succede se non piace), JSON-LD offerte/FAQ allineato,
+  meta description con i prezzi, llms-intro.md aggiornato.
+
+Testi e prezzi: `seo-tools/livelli-dati.py` (unica fonte).
+Dopo una modifica:
+```
+python3 seo-tools/conversione-2026-10-18.py
+python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
+```
+NB: NON rilanciare prezzi-build.py per aggiornare il listino: rigenera la pagina
+da zero e perde le modifiche post-build (mockup, modulo #dt-scrivi, immagini).
+
 ## Aggiornamento 17 ottobre 2026 — dati Search Console (ago–ott) + visibilità sulle AI
 
 ### Cosa dicono i dati (28 ago – 16 ott 2026)

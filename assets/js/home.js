@@ -743,7 +743,7 @@ function loadLang(l,cb){
   if(LANG_LOADING[l]) return LANG_LOADING[l].push(cb);
   LANG_LOADING[l]=[cb];
   const s=document.createElement('script');
-  s.src='/assets/js/i18n-'+l+'.js';
+  s.src='/assets/js/i18n-'+l+'.js?v=20261018';
   s.onload=()=>{ const q=LANG_LOADING[l]; LANG_LOADING[l]=null; q.forEach(f=>f()); };
   s.onerror=()=>{ LANG_LOADING[l]=null; };
   document.head.appendChild(s);

@@ -29,6 +29,24 @@
   };
   var T=TX[L]||TX.en;
 
+  /* 18/10/2026: "Quando vorresti partire?" (pillole) in tutti i moduli. Nell'email il valore arriva sempre in italiano. */
+  var URG_IT=['Subito (entro 2 settimane)','Entro un mese','Fra 1 e 3 mesi','Sto solo valutando'];
+  var UTX={
+    it:{q:'Quando vorresti partire?',o:['Subito, entro 2 settimane','Entro un mese','Fra 1 e 3 mesi','Sto solo valutando'],hot:'Perfetto, mettiamo la tua richiesta in cima alla lista.'},
+    en:{q:'When would you like to start?',o:['Right away, within 2 weeks','Within a month','In 1 to 3 months','Just exploring'],hot:'Great, we will put your request at the top of the list.'},
+    de:{q:'Wann möchten Sie starten?',o:['Sofort, in 2 Wochen','Innerhalb eines Monats','In 1 bis 3 Monaten','Ich informiere mich nur'],hot:'Perfekt, Ihre Anfrage kommt ganz nach oben auf die Liste.'},
+    fr:{q:'Quand souhaitez-vous démarrer ?',o:['Tout de suite, sous 2 semaines','Dans le mois','Dans 1 à 3 mois','Je me renseigne'],hot:'Parfait, nous mettons votre demande en haut de la liste.'},
+    es:{q:'¿Cuándo te gustaría empezar?',o:['Ya, en 2 semanas','En un mes','En 1 a 3 meses','Solo estoy valorando'],hot:'Perfecto, ponemos tu solicitud la primera de la lista.'}
+  };
+  var lastForm=null;
+  document.addEventListener('submit',function(e){ lastForm=e.target; },true);
+  function urg(subject, fields){
+    var el=lastForm && lastForm.elements && lastForm.elements['urgenza'], u=el?el.value:'';
+    if(!u) return [subject, fields];
+    var hot=(u===URG_IT[0]);
+    return [(hot?'🔥 [SUBITO] ':'['+u+'] ')+subject, [['Quando vuole partire',u]].concat(fields)];
+  }
+
   (function(){ var st=document.createElement('style'); st.id='dt-contatto-css'; st.textContent='.dt-lead{display:grid;gap:12px;max-width:620px;margin:8px auto 0;text-align:left}.dt-lead-2{display:grid;grid-template-columns:1fr 1fr;gap:12px}.dt-lead .btn{justify-content:center;width:100%}.dt-lead .btn[disabled]{opacity:.6}.dt-hp{position:absolute!important;left:-9999px!important;width:1px;height:1px;opacity:0}.dt-lead-msg{display:none;margin:0;font-size:14px}.dt-lead-msg.on{display:block}.dt-lead-msg.err{color:#ff8b98}.dt-lead-msg.ok{color:#8fe3b0}.dt-lead p.form-note,.dt-lead p.dt-lead-msg{max-width:none;margin:4px 0 0;text-align:center}.dt-lead .form-note a[href^=tel]{white-space:nowrap}#dt-scrivi,#richiesta{scroll-margin-top:120px}.dt-lead .form-note a{color:#9fc0ff}.dt-bar{display:none}@media (max-width:760px){.dt-lead-2{grid-template-columns:1fr}.dt-bar{display:grid;grid-template-columns:1fr 1fr 1fr;position:fixed;left:10px;right:10px;bottom:calc(10px + env(safe-area-inset-bottom));z-index:8000;background:rgba(7,11,20,.92);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border:1px solid rgba(122,169,255,.28);border-radius:16px;overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,.45);transition:transform .35s,opacity .35s}.dt-bar.hide{transform:translateY(140%);opacity:0;pointer-events:none}.dt-bar a{display:flex;flex-direction:column;align-items:center;gap:3px;padding:9px 4px 8px;color:#e9edf7;font-size:12px;font-weight:600;text-decoration:none}.dt-bar a+a{border-left:1px solid rgba(255,255,255,.08)}.dt-bar svg{width:20px;height:20px}.dt-bar-call{background:#1E6BFF;color:#fff!important}.dt-bar-wa svg{color:#3ddc84}body.has-dt-bar footer{padding-bottom:84px}body.has-dt-bar #top{bottom:96px}}'; document.head.appendChild(st); })();
 
   function track(name,params){
@@ -38,9 +56,11 @@
 
   /* invio email: fields = [[etichetta, valore], ...] */
   function send(subject, fields, replyTo){
+    var _u=urg(subject, fields); subject=_u[0]; fields=_u[1];
     var body={_subject:subject,_template:'table',_captcha:'false'};
     fields.forEach(function(f){ if(f[1]) body[f[0]]=f[1]; });
-    body['Pagina']=location.href.split('#')[0];
+    var _pg=location.href.split('#')[0];   /* niente doppione se il modulo manda gia' l'indirizzo della pagina */
+    if(!fields.some(function(f){ return String(f[1]||'').indexOf(_pg)===0; })) body['Pagina']=_pg;
     if(replyTo) body.email=replyTo;
     return fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(body)})
       .then(function(r){ return r.json(); })
@@ -48,6 +68,7 @@
       .catch(function(){ return false; });
   }
   function mailto(subject, fields){
+    var _u=urg(subject, fields); subject=_u[0]; fields=_u[1];
     var txt=fields.filter(function(f){return f[1];}).map(function(f){return f[0]+': '+f[1];}).join('\n')+'\n\n'+location.href.split('#')[0];
     location.href='mailto:'+MAIL+'?subject='+encodeURIComponent(subject)+'&body='+encodeURIComponent(txt);
   }
@@ -72,7 +93,7 @@
       var chk=[['nome',T.e_nome,function(v){return v.length>1;}],['email',T.e_mail,function(v){return MAILRE.test(v);}],['msg',T.e_msg,function(v){return v.length>3;}]];
       for(var i=0;i<chk.length;i++){ var el=f.elements[chk[i][0]]; if(el && !chk[i][2](val(f,chk[i][0]))){ el.classList.add('bad'); el.focus(); say(chk[i][1],'err'); return; } }
       var fields=[['Nome',val(f,'nome')],['Email',val(f,'email')],['Telefono',val(f,'tel')],['Messaggio',val(f,'msg')]];
-      var subj=T.subj+' - '+(document.querySelector('h1')||{}).textContent;
+      var _h1=document.querySelector('h1'); var subj=T.subj+' - '+(_h1?(_h1.innerText||_h1.textContent):'');
       if(btn) btn.disabled=true; say(T.sending,'');
       deliver(subj.replace(/\s+/g,' ').slice(0,140), fields, val(f,'email'), 'contatti_pagina').then(function(ok){
         if(btn) btn.disabled=false;
@@ -80,6 +101,48 @@
       });
     });
   });
+
+  /* ---- campo urgenza (pillole) in tutti i moduli ---- */
+  (function(){
+    var st=document.createElement('style'); st.id='dt-urg-css';
+    st.textContent='.dt-urg{margin:4px 0 12px;border:0;padding:0;min-width:0}.dt-urg legend{font-size:13.5px;font-weight:600;color:var(--text,#e9edf7);margin-bottom:10px;padding:0}'+
+      '.dt-urg-p{display:flex;flex-wrap:wrap;gap:8px}.dt-urg-p button{border:1px solid var(--line,rgba(255,255,255,.12));background:rgba(255,255,255,.03);color:var(--text,#e9edf7);'+
+      'border-radius:999px;padding:9px 15px;font:inherit;font-size:14px;line-height:1.3;cursor:pointer;transition:background .2s,border-color .2s}'+
+      '.dt-urg-p button:hover{border-color:var(--line-strong,rgba(255,255,255,.25))}.dt-urg-p button[aria-pressed=true]{background:var(--blue,#1E6BFF);border-color:var(--blue,#1E6BFF);color:#fff}'+
+      '.dt-urg-h{font-size:13px;color:#ff7a45;margin-top:8px;min-height:0}.dt-urg-h:empty{display:none}';
+    document.head.appendChild(st);
+    function lang(){ var h=(document.documentElement.lang||'it').slice(0,2).toLowerCase(); return UTX[h]||UTX.en; }
+    function paint(box){
+      var t=lang(); box.querySelector('legend').textContent=t.q;
+      box.querySelectorAll('button').forEach(function(b,i){ b.textContent=t.o[i]; });
+      var h=box.querySelector('.dt-urg-h'); if(h.textContent) h.textContent=t.hot;
+    }
+    document.querySelectorAll('form.dt-lead, form.fr-req, form#form').forEach(function(f){
+      if(f.querySelector('.dt-urg')) return;
+      var box=document.createElement('fieldset'); box.className='dt-urg';
+      box.innerHTML='<legend></legend><div class="dt-urg-p" role="group"></div><p class="dt-urg-h" aria-live="polite"></p><input type="hidden" name="urgenza" value="">';
+      var wrap=box.querySelector('.dt-urg-p'), hid=box.querySelector('input'), hint=box.querySelector('.dt-urg-h');
+      URG_IT.forEach(function(v,i){
+        var b=document.createElement('button'); b.type='button'; b.setAttribute('aria-pressed','false');
+        b.addEventListener('click',function(){
+          var on=b.getAttribute('aria-pressed')==='true';
+          wrap.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed','false'); });
+          b.setAttribute('aria-pressed', on?'false':'true'); hid.value=on?'':v;
+          hint.textContent=(!on && i===0)?lang().hot:'';
+          track('urgenza_scelta',{valore:on?'':v});
+        });
+        wrap.appendChild(b);
+      });
+      paint(box);
+      f.addEventListener('reset',function(){ setTimeout(function(){ hid.value=''; hint.textContent='';
+        wrap.querySelectorAll('button').forEach(function(x){ x.setAttribute('aria-pressed','false'); }); },0); });
+      var before=f.querySelector('.dt-lead-msg')||f.querySelector('button[type=submit]');
+      before.parentNode.insertBefore(box, before);
+    });
+    /* homepage: se si cambia lingua, cambiano anche le pillole */
+    try{ new MutationObserver(function(){ document.querySelectorAll('.dt-urg').forEach(paint); })
+      .observe(document.documentElement,{attributes:true,attributeFilter:['lang']}); }catch(_){}
+  })();
 
   /* ---- misura i click su telefono, WhatsApp ed email ---- */
   document.addEventListener('click',function(e){

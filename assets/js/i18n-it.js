@@ -5,18 +5,22 @@ window.I18N.it={
   code:'IT', name:'Italiano', htmlLang:'it',
   nav:{fiere:"Fiere",servizi:'Servizi',prezzi:'Prezzi',settori:'Per chi',lavori:'Esempi',processo:'Processo',chisiamo:'Chi siamo',faq:'FAQ',contatti:'Contatti',cta:'Parliamone'},
   hero:{
-    l1:'Costruiamo', l2:'tecnologia che',
-    rot:['converte.','vende.','fa risparmiare.','fa crescere.','semplifica.'],
-    sub:'Siti web, SEO, campagne Meta Ads, app, gestionali, software su misura e stand fieristici. Dalla prima riga di codice alla prima vendita: <b>un unico partner per tutta la tua tecnologia.</b>',
-    cta1:'Richiedi un preventivo', cta2:'Scopri cosa facciamo', scroll:'Scroll',
+    l1:'Siti, software', l2:'e stand che',
+    rot:['portano clienti.','vendono.','fanno risparmiare.','fanno crescere.','semplificano.'],
+    sub:'Sito web, SEO, Meta Ads, app, gestionali e stand fieristici <b>da un unico partner</b>. Prezzi scritti sul sito, preventivo fisso in 24 ore e la bozza la vedi <b>prima di pagare</b>.',
+    cta1:'Preventivo gratuito in 24 ore', cta2:'Guarda i prezzi', trust:'<span class="ht-st" aria-hidden="true">★★★★★</span><b>5,0 su Google</b><i>·</i>Bozza gratuita prima di pagare<i>·</i>Prezzo fisso nel preventivo', scroll:'Scroll',
     stats:['Progetti consegnati','Clienti che riconfermano','Tempo medio di lancio','Assistenza e monitoraggio']
   },
   fiere:{"badge": "Novità", "news": "Allestimenti fieristici chiavi in mano", "eyebrow": "Allestimenti fieristici", "title": "Il tuo stand in fiera,<br><span class=\"grad\">chiavi in mano.</span>", "lead": "Da oggi ci occupiamo anche di allestimenti fieristici. Qualunque sia la tua azienda, troviamo noi il materiale necessario, tutta la componentistica richiesta e i montatori che costruiscono lo stand direttamente in fiera. Tu pensi ai clienti, al resto pensiamo noi.", "a": {"t": "Materiali", "p": "Pareti, pavimentazioni, grafiche, arredi e illuminazione: cerchiamo e procuriamo tutto il materiale che serve al tuo stand."}, "b": {"t": "Componentistica", "p": "Strutture, profili, raccordi e ogni componente richiesto dal progetto o dal regolamento della fiera, già pronto all'uso."}, "c": {"t": "Montatori in fiera", "p": "Squadre di montatori che costruiscono il tuo stand direttamente in fiera, nei tempi di allestimento previsti dall'organizzatore."}, "pts": ["Un unico referente dal progetto al montaggio", "Preventivo chiaro prima di partire", "Per aziende di ogni settore e dimensione"], "cta": "Richiedi un preventivo per lo stand", "cta2": "Scopri il servizio"},
-  prezzi:{eyebrow:'Prezzi',title:'Quanto costa,<br><span class="grad">detto subito.</span>',lead:'Le cifre stanno scritte, non si scoprono in fondo a una call. Tutti i prezzi sono IVA inclusa.',more:'Vedi il listino completo',
-    c1:{k:'Sito web',t:'Sito in abbonamento o sito vostro',a:'24,80 €',u:'al mese',e:'oppure 350 € una tantum + 150 € di SEO su Google e Bing',n:'IVA inclusa · durata minima 24 mesi',l:'<li>Dominio e hosting inclusi</li><li>Manutenzione e modifiche comprese</li><li>Nessun costo di avvio</li>',b:'Dettagli'},
-    c2:{k:'Applicazione web',t:'Web app in canone o pronta da subito',a:'50 €',u:'al mese',e:'oppure da 750 € una tantum, operativa subito',n:'IVA inclusa · attivazione senza costi',l:'<li>Hosting e aggiornamenti inclusi</li><li>Utenti, ruoli e permessi</li><li>Assistenza compresa</li>',b:'Dettagli'},
-    c3:{k:'Gestionale aziendale',t:'Gestionale su misura',a:'da 1.500 €',u:'a progetto',e:'cifra definita dopo l\'analisi gratuita',n:'IVA inclusa · prezzo fisso, non cambia in corsa',l:'<li>Analisi dei vostri processi</li><li>Migrazione dei dati</li><li>Formazione inclusa</li>',b:'Dettagli'}
+  prezzi:{eyebrow:'Prezzi',title:'Quanto costa,<br><span class="grad">detto subito.</span>',lead:'Tre livelli per il sito, un prezzo di partenza chiaro per tutto il resto. IVA inclusa, e nessun costo che compare a lavori iniziati.',more:'Vedi il listino completo',note:'Tutti i prezzi IVA inclusa. Sito, dominio e accessi sono intestati a te.',oh:'Software e fiere',
+    t1:{k:'Per partire',n:'Essenziale',w:'Per esserci online, bene e subito.',a:'350 €',u:'una tantum',e:'oppure 24,80 € al mese, tutto incluso',l:'<li>Sito vetrina fino a 5 pagine</li><li>Design curato sul tuo marchio</li><li>Veloce e perfetto da telefono</li><li>SEO su Google e Bing: +150 €</li>',b:'Parti con Essenziale'},
+    t2:{k:'Per ricevere richieste',n:'Professionale',w:'Per un sito che porta contatti ogni settimana.',a:'1.490 €',u:'una tantum',e:'SEO su Google e Bing già inclusa',l:'<li>Fino a 15 pagine: una per servizio e per zona</li><li>Testi scritti da noi, pensati per far chiamare</li><li>SEO completa e scheda Google Business</li><li>3 mesi di modifiche e assistenza inclusi</li>',b:'Scegli Professionale',badge:'Consigliato'},
+    t3:{k:'Per vendere online',n:'Su misura',w:'E-commerce, più lingue, funzioni speciali.',a:'da 2.990 €',u:'a progetto',e:'cifra fissa dopo l\'analisi gratuita',l:'<li>E-commerce, prenotazioni o area clienti</li><li>Collegamento a gestionale e magazzino</li><li>SEO avanzata con contenuti e guide</li><li>Referente dedicato e assistenza prioritaria</li>',b:'Chiedi una valutazione'},
+    o1:{k:'Applicazione web',a:'da 50 €',u:'al mese',e:'oppure da 750 € una tantum, operativa subito'},
+    o2:{k:'Gestionale aziendale',a:'da 1.500 €',u:'a progetto',e:'prezzo fisso dopo l\'analisi gratuita dei tuoi processi'},
+    o3:{k:'Stand fieristico',a:'Preventivo in 24 ore',u:'',e:'progetto, materiali, trasporto e montaggio con un solo referente'}
   },
+  garanzie:{eyebrow:'Rischio zero',title:'Tre garanzie,<br><span class="grad">scritte nel preventivo.</span>',lead:'Scegliere un fornitore nuovo fa paura: tutti hanno sentito storie di siti mai finiti e costi lievitati. Per questo il rischio lo prendiamo noi.',g1:{t:'Paghi solo se ti piace',p:'Prima di qualsiasi acconto ti mostriamo la bozza del progetto. Se non ti convince, ti fermi lì e non paghi nulla.'},g2:{t:'Consegna puntuale o sconto',p:'La data di consegna è scritta nel preventivo. Per ogni settimana di ritardo dovuto a noi, il 10% in meno sul totale.'},g3:{t:'Prezzo bloccato',p:'Il prezzo fisso non cambia in corsa, nemmeno se il lavoro ci richiede più tempo del previsto. Le sorprese restano a carico nostro.'},offer:'<b>10% di sconto in più</b> se confermi il preventivo entro la fine della settimana in cui lo ricevi.',btn:'Richiedi il preventivo'},
 
   mq:['Siti web','E-commerce','SEO','Meta Ads','App mobile','Gestionali','CRM','Automazioni','Landing page','Software su misura','Integrazioni AI','Assistenza'],
   servizi:{
@@ -41,7 +45,7 @@ window.I18N.it={
   settori:{
     eyebrow:'Per chi lavoriamo',
     title:'Ogni attività ha il suo<br><span class="grad">strumento su misura.</span>',
-    lead:'Non vendiamo pacchetti preconfezionati. Partiamo da come lavori davvero e costruiamo lo strumento che ti manca. Ecco qualche esempio concreto di cosa possiamo realizzare.',
+    lead:'Pacchetti chiari per partire, soluzioni su misura quando servono. Ecco qualche esempio concreto di cosa possiamo realizzare per il tuo settore.',
     items:[
       ['food','Ristoranti & bar','Menu digitale, prenotazione tavoli, ordini da asporto e recensioni automatiche.'],
       ['shop','Negozi & e-commerce','Vetrina online, catalogo sincronizzato col magazzino, pagamenti e spedizioni.'],
@@ -55,7 +59,7 @@ window.I18N.it={
   },
   lavori:{
     eyebrow:'Esempi di progetti', title:'Cosa esce dal <span class="grad">nostro studio.</span>',
-    lead:'Una selezione di progetti rappresentativi del tipo di lavoro che realizziamo.',
+    lead:'Risultati misurati sui progetti dei nostri clienti: numeri veri, non promesse.',
     filters:['Tutti','Siti & E-commerce','App','Gestionali','Ads & SEO'], go:'Vedi il progetto',
     items:[
       {tag:'E-commerce',t:'Shop online per brand di prodotto',d:'Catalogo, checkout ottimizzato e integrazione con magazzino e corrieri. Design dark e mobile-first.',k:['Vendite online','Tempo di caricamento']},
@@ -92,7 +96,9 @@ window.I18N.it={
   faq:{
     eyebrow:'Domande frequenti', title:'Le risposte che <span class="grad">cerchi.</span>',
     items:[
-      ['Quanto costa un progetto con voi?','Dipende da cosa serve davvero, e lo diciamo senza giri di parole: un sito vetrina ben fatto parte da una cifra molto diversa da un gestionale su misura. Dopo la prima call ti mandiamo un preventivo a prezzo fisso, con ogni voce spiegata. Nessun costo compare a lavori iniziati.'],
+      ['Quanto costa un progetto con voi?','I prezzi di partenza sono scritti sul sito: sito web Essenziale 350 € (o 24,80 € al mese), Professionale 1.490 € con SEO inclusa, Su misura da 2.990 €, web app da 50 € al mese, gestionale da 1.500 €. Per stand fieristici e progetti su misura ricevi entro 24 ore un preventivo a prezzo fisso, con ogni voce spiegata. Tutto IVA inclusa.'],
+      ['E se il progetto non mi piace?','Non paghi. Prima di qualsiasi acconto ti mostriamo la bozza: se non ti convince ti fermi lì, senza costi. E se una volta partiti consegniamo in ritardo per colpa nostra, ogni settimana di ritardo vale il 10% di sconto sul totale.'],
+      ['Fate sconti?','Uno solo, uguale per tutti: se confermi il preventivo entro la fine della settimana in cui lo ricevi, hai il 10% in meno sul totale.'],
       ['In quanto tempo andiamo online?','Una landing page o un sito vetrina in genere richiede 2–4 settimane. Un e-commerce 4–8. Un gestionale o un\'app su misura si misura in mesi, ma lavoriamo per moduli: la prima versione utilizzabile arriva molto prima della fine.'],
       ['Lavorate solo con grandi aziende?','No, anzi. La maggior parte dei nostri clienti sono attività locali, studi professionali e piccole imprese. Il nostro lavoro è dimensionare la soluzione al budget, non il contrario.'],
       ['E se ho già un sito o un gestionale?','Nessun problema. Possiamo migliorare quello che c\'è, integrarlo o migrarlo. Prima analizziamo cosa vale la pena salvare: rifare tutto non è sempre la scelta più intelligente.'],
@@ -103,10 +109,10 @@ window.I18N.it={
   },
   cta:{
     eyebrow:'Iniziamo', title:"Raccontaci l'idea.<br>Al resto <span class=\"grad\">pensiamo noi.</span>",
-    lead:'Prima call gratuita e senza impegno. Ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".',
-    list:['Risposta entro 24 ore lavorative','Preventivo chiaro e a prezzo fisso','Nessun vincolo di permanenza'],
+    lead:'Prima call gratuita e senza impegno. Entro 24 ore ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".',
+    list:['Risposta e preventivo entro 24 ore lavorative','Bozza gratuita: paghi solo se ti piace','10% in meno se confermi entro la settimana','Nessun vincolo di permanenza'],
     wa:'Scrivici su WhatsApp',
-    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Invia la richiesta',pref:'Prefisso',telerr:'Inserisci un numero di telefono valido.',emailerr:'Inserisci un indirizzo email valido oppure lascia il campo vuoto.',
+    f:{nome:'Nome e cognome',tel:'Telefono',email:'Email (facoltativa)',azienda:'Azienda / attività',tipo:'Di cosa hai bisogno',send:'Ricevi il preventivo gratuito',pref:'Prefisso',telerr:'Inserisci un numero di telefono valido.',emailerr:'Inserisci un indirizzo email valido oppure lascia il campo vuoto.',
        ok:'Richiesta inviata! Ti rispondiamo al più presto.',
        note:'Inviando accetti di essere ricontattato. Non condividiamo i tuoi dati con nessuno.',
        opts:['Sito web / e-commerce','SEO e posizionamento','Meta Ads e campagne','App su misura','Gestionale / CRM','Software o automazione',"Allestimento fieristico",'Non lo so ancora, parliamone'],
@@ -229,5 +235,5 @@ window.I18N.it={
     }
   },
   meta:{title:'Siti web, software su misura e stand fieristici | Danova Tech',
-        desc:'Agenzia italiana: siti web ed e-commerce, SEO e Meta Ads, gestionali e software su misura, progettazione e allestimento di stand fieristici. Risposta in 24 ore.'}
+        desc:'Siti web da 350 €, gestionali da 1.500 €, SEO, Meta Ads e stand fieristici chiavi in mano. Preventivo fisso in 24 ore e bozza gratuita prima di pagare.'}
 };

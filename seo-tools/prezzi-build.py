@@ -12,7 +12,7 @@ D, SITE, URLP, OUT, DONOR, LOC, OGLOC, LBL, P, NUM = (
     dati.D, dati.SITE, dati.URLP, dati.OUT, dati.DONOR, dati.LOC, dati.OGLOC, dati.LBL, dati.P, dati.NUM)
 
 HOME = {'it':'/','en':'/en/','de':'/de/','fr':'/fr/','es':'/es/'}
-FROM_KEYS = {'app_una','gest_da'}
+FROM_KEYS = {'app_una','gest_da','mis_da'}  # livelli 18/10/2026
 ARROW = ('<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">'
          '<path d="M5 12h14M13 6l6 6-6 6"></path></svg>')
 
@@ -67,14 +67,16 @@ def build_main(lang, d):
           '      <h2 class="title" data-rv="up">%s</h2>\n'
           '      <p class="lead" data-rv="up">%s</p>\n    </div>\n'
           % (cat['id'], esc(cat['eyebrow']), cat['h2'], esc(cat['intro'])))
-        a('    <div class="price-grid">\n')
+        a('    <div class="price-grid%s">\n' % (' tiers' if any(c.get('for') for c in cat['cards']) else ''))
         for c in cat['cards']:
-            cls = 'price-card feat' if c.get('feat') else 'price-card'
+            cls = 'price-card' + (' feat' if c.get('feat') else '') + (' wide' if c.get('wide') else '')
             a('      <article class="%s" data-tilt data-rv="blur">\n' % cls)
             if c.get('badge'):
                 a('        <span class="price-badge">%s</span>\n' % esc(c['badge']))
             a('        <span class="price-kind mono">%s</span>\n' % esc(c['kind']))
             a('        <h3>%s</h3>\n' % esc(c['name']))
+            if c.get('for'):
+                a('        <p class="price-for">%s</p>\n' % esc(c['for']))
             a('        <p class="price-amt"><b>%s</b><span>%s</span></p>\n'
               % (esc(c['amt']), esc(c['unit'])))
             if c.get('extra'):
@@ -88,6 +90,11 @@ def build_main(lang, d):
               % (home, esc(c['cta'])))
             a('      </article>\n')
         a('    </div>\n  </div>\n</section>\n')
+        # garanzie (18/10/2026) subito dopo la prima categoria: le genera conversione-2026-10-18.py
+        if cat is d['cats'][0] and d.get('garanzie'):
+            _cv = importlib.util.spec_from_file_location('conv', os.path.join(HERE, 'conversione-2026-10-18.py'))
+            _m = importlib.util.module_from_spec(_cv); _cv.loader.exec_module(_m)
+            a(_m.page_gar(d['garanzie'], home + '#contatti') + '\n')
     # confronto
     for blocco in ('compare', 'incluso'):
         b = d[blocco]

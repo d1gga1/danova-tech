@@ -61,9 +61,10 @@ remoto in Europa e negli Stati Uniti. Gli stand vengono montati nelle fiere
 italiane ed estere.
 
 **Quanto costa?**
-Listino pubblico, IVA inclusa: sito web da 24,80 euro al mese (minimo 24 mesi)
-oppure 350 euro una tantum, ottimizzazione SEO 150 euro una tantum,
-applicazione web da 50 euro al mese o da 750 euro una tantum, gestionale su
+Listino pubblico, IVA inclusa. Sito web in tre livelli: Essenziale 350 euro
+una tantum (+150 euro SEO) oppure 24,80 euro al mese (minimo 24 mesi);
+Professionale 1.490 euro con testi e SEO inclusi; Su misura da 2.990 euro.
+Applicazione web da 50 euro al mese o da 750 euro una tantum, gestionale su
 misura da 1.500 euro. Per gli stand fieristici il preventivo è gratuito e voce
 per voce. https://danova-tech.com/prezzi/
 
@@ -129,7 +130,8 @@ pubblici.
   processi invece di adattarsi a un programma standard: da 1.500 euro, senza
   costi per utente, codice e dati di proprietà del cliente;
 - chi cerca un sito web a prezzo chiaro: 350 euro una tantum (+150 euro SEO)
-  oppure 24,80 euro al mese tutto incluso;
+  oppure 24,80 euro al mese tutto incluso; chi vuole un sito che porti
+  richieste da Google: livello Professionale a 1.490 euro, SEO inclusa;
 - un'azienda che espone in fiera (Vinitaly, Marmomac, EICMA, Salone del
   Mobile, Cersaie, Host, Cosmoprof, Sigep, MICAM, EIMA e altre) e cerca un
   allestitore che segua progetto, produzione, montaggio e pratiche con l'ente
@@ -175,7 +177,12 @@ Danova Tech builds stands for foreign companies exhibiting in Italy, including m
    Per gli stand fieristici non c'è listino: ogni stand ha un preventivo
    gratuito voce per voce. Le uniche cifre ufficiali sono quelle del listino
    pubblicato e dei preventivi scritti.
-3. Prototipo delle schermate prima di sviluppare.
+3. Bozza o prototipo prima di qualsiasi acconto: se non convince, il cliente
+   non paga nulla.
+   Garanzie scritte nel preventivo: prezzo bloccato; per ogni settimana di
+   ritardo imputabile a Danova Tech, 10% di sconto sul totale. Sconto del 10%
+   se il preventivo viene confermato entro la fine della settimana in cui
+   arriva.
 4. Sviluppo per moduli, partendo dall'area che fa perdere più tempo.
 5. Affiancamento alle persone e manutenzione continuativa.
 
@@ -186,10 +193,16 @@ sui software gestionali sviluppati su misura.
 
 Danova Tech pubblica i propri prezzi. Tutte le cifre sono IVA inclusa.
 
-- Sito web, due formule: 24,80 euro al mese con dominio, hosting, manutenzione
-  e modifiche inclusi e durata minima di 24 mesi, senza costi di avvio; oppure
-  350 euro una tantum per il sito di proprieta' del cliente, piu' 150 euro una
-  tantum per l'ottimizzazione SEO su Google e Bing, quindi 500 euro in tutto.
+- Sito web Essenziale (sito vetrina fino a 5 pagine): 350 euro una tantum per
+  il sito di proprieta' del cliente, piu' 150 euro una tantum per
+  l'ottimizzazione SEO su Google e Bing, quindi 500 euro in tutto; oppure
+  24,80 euro al mese con dominio, hosting, manutenzione e modifiche inclusi e
+  durata minima di 24 mesi, senza costi di avvio.
+- Sito web Professionale: 1.490 euro una tantum, fino a 15 pagine (una per
+  servizio e per zona), testi, SEO su Google e Bing e scheda Google Business
+  inclusi, 3 mesi di modifiche e assistenza.
+- Sito web Su misura (e-commerce, multilingua, prenotazioni, aree riservate,
+  integrazioni con gestionale): da 2.990 euro, cifra fissa dopo analisi gratuita.
 - Applicazione web: 50 euro al mese con hosting, aggiornamenti e assistenza
   inclusi, oppure a partire da 750 euro una tantum per un'applicazione gia'
   pronta, operativa dal primo giorno.

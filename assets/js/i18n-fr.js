@@ -5,18 +5,22 @@ window.I18N.fr={
   code:'FR', name:'Français', htmlLang:'fr',
   nav:{fiere:"Salons",servizi:'Services',prezzi:'Tarifs',settori:'Pour qui',lavori:'Réalisations',processo:'Méthode',chisiamo:'À propos',faq:'FAQ',contatti:'Contact',cta:'Parlons-en'},
   hero:{
-    l1:'Nous construisons', l2:'une technologie qui',
-    rot:['convertit.','vend.','fait gagner du temps.','passe à l\'échelle.','simplifie.'],
-    sub:'Sites web, référencement, campagnes Meta Ads, applications, ERP, logiciels sur mesure et stands d\'exposition. De la première ligne de code à la première vente : <b>un seul partenaire pour toute votre technologie.</b>',
-    cta1:'Demander un devis', cta2:'Voir ce que nous faisons', scroll:'Défiler',
+    l1:'Sites, logiciels', l2:'et stands qui',
+    rot:['apportent des clients.','vendent.','font gagner du temps.','font grandir.','simplifient.'],
+    sub:'Site internet, SEO, Meta Ads, applications, ERP et stands d’exposition <b>avec un seul partenaire</b>. Les prix sont écrits sur le site, devis ferme en 24 heures, et vous voyez la maquette <b>avant de payer</b>.',
+    cta1:'Devis gratuit en 24 heures', cta2:'Voir les tarifs', trust:'<span class="ht-st" aria-hidden="true">★★★★★</span><b>5,0 sur Google</b><i>·</i>Maquette gratuite avant de payer<i>·</i>Prix ferme dans le devis', scroll:'Défiler',
     stats:['Projets livrés','Clients qui renouvellent','Délai moyen de mise en ligne','Support et supervision']
   },
   fiere:{"badge": "Nouveau", "news": "Stands de salon clés en main", "eyebrow": "Stands de salon", "title": "Votre stand de salon,<br><span class=\"grad\">clés en main.</span>", "lead": "Nous prenons désormais aussi en charge l'aménagement de stands de salon. Quelle que soit votre entreprise, nous trouvons les matériaux nécessaires, tous les composants requis et les monteurs qui construisent votre stand directement sur le salon. Vous vous occupez de vos clients, nous du reste.", "a": {"t": "Matériaux", "p": "Cloisons, sols, graphismes, mobilier et éclairage : nous trouvons et fournissons tous les matériaux dont votre stand a besoin."}, "b": {"t": "Composants", "p": "Structures, profilés, raccords et chaque composant exigé par le projet ou le règlement technique du salon, prêts à l'emploi."}, "c": {"t": "Monteurs sur place", "p": "Des équipes de monteurs qui construisent votre stand directement sur le salon, dans les délais de montage fixés par l'organisateur."}, "pts": ["Un seul interlocuteur, du projet au montage", "Un devis clair avant de commencer", "Pour les entreprises de tous secteurs et toutes tailles"], "cta": "Demander un devis pour votre stand", "cta2": "En savoir plus"},
-  prezzi:{eyebrow:'Tarifs',title:'Ce que ça coûte,<br><span class="grad">dit tout de suite.</span>',lead:'Les montants sont écrits, pas révélés au bout d\'un rendez-vous. Tous les prix sont TVA incluse.',more:'Voir la grille complète',
-    c1:{k:'Site internet',t:'Site en abonnement ou site à vous',a:'24,80 €',u:'par mois',e:'ou 350 € en une fois + 150 € de SEO Google et Bing',n:'TVA incluse · durée minimale 24 mois',l:'<li>Domaine et hébergement inclus</li><li>Maintenance et modifications comprises</li><li>Sans frais de mise en service</li>',b:'Détails'},
-    c2:{k:'Application web',t:'En abonnement ou prête à l\'emploi',a:'50 €',u:'par mois',e:'ou à partir de 750 € en une fois, opérationnelle tout de suite',n:'TVA incluse · sans frais d\'activation',l:'<li>Hébergement et mises à jour inclus</li><li>Utilisateurs, rôles, permissions</li><li>Assistance comprise</li>',b:'Détails'},
-    c3:{k:'Logiciel de gestion',t:'Logiciel de gestion sur mesure',a:'dès 1 500 €',u:'par projet',e:'montant fixé après l\'analyse gratuite',n:'TVA incluse · prix ferme, sans dérive',l:'<li>Analyse de vos processus</li><li>Reprise des données</li><li>Formation incluse</li>',b:'Détails'}
+  prezzi:{eyebrow:'Tarifs',title:'Ce que ça coûte,<br><span class="grad">dit tout de suite.</span>',lead:'Trois formules pour le site, un prix de départ clair pour tout le reste. TVA incluse, et aucun coût qui apparaît une fois le travail commencé.',more:'Voir la grille complète',note:'Tous les prix TVA incluse. Site, domaine et accès sont à votre nom.',oh:'Logiciels et salons',
+    t1:{k:'Pour démarrer',n:'Essentiel',w:'Pour être en ligne, vite et bien.',a:'350 €',u:'en une fois',e:'ou 24,80 € par mois, tout compris',l:'<li>Site vitrine jusqu\'à 5 pages</li><li>Design soigné à votre image</li><li>Rapide et parfait sur mobile</li><li>SEO Google et Bing : +150 €</li>',b:'Démarrer avec l\'Essentiel'},
+    t2:{k:'Pour recevoir des demandes',n:'Professionnel',w:'Un site qui apporte des contacts chaque semaine.',a:'1 490 €',u:'en une fois',e:'SEO Google et Bing déjà inclus',l:'<li>Jusqu\'à 15 pages : une par service et par zone</li><li>Textes rédigés par nous, pour faire appeler</li><li>SEO complet et fiche Google Business</li><li>3 mois de modifications et d\'assistance</li>',b:'Choisir le Professionnel',badge:'Recommandé'},
+    t3:{k:'Pour vendre en ligne',n:'Sur mesure',w:'E-commerce, plusieurs langues, fonctions particulières.',a:'dès 2 990 €',u:'par projet',e:'montant fixe après l\'analyse gratuite',l:'<li>E-commerce, réservations ou espace client</li><li>Connexion à l\'ERP et au stock</li><li>SEO avancé avec contenus et guides</li><li>Interlocuteur dédié, assistance prioritaire</li>',b:'Demander une évaluation'},
+    o1:{k:'Application web',a:'dès 50 €',u:'par mois',e:'ou dès 750 € en une fois, opérationnelle tout de suite'},
+    o2:{k:'Logiciel de gestion',a:'dès 1 500 €',u:'par projet',e:'prix ferme après l\'analyse gratuite de vos processus'},
+    o3:{k:'Stand d\'exposition',a:'Devis en 24 heures',u:'',e:'conception, matériaux, transport et montage avec un seul interlocuteur'}
   },
+  garanzie:{eyebrow:'Zéro risque',title:'Trois garanties,<br><span class="grad">écrites dans le devis.</span>',lead:'Choisir un nouveau prestataire fait peur : tout le monde connaît des histoires de sites jamais terminés et de coûts qui gonflent. C\'est pourquoi c\'est nous qui prenons le risque.',g1:{t:'Vous ne payez que si ça vous plaît',p:'Avant tout acompte, nous vous montrons la maquette du projet. Si elle ne vous convainc pas, vous vous arrêtez là et ne payez rien.'},g2:{t:'Livré à temps, ou remisé',p:'La date de livraison est écrite dans le devis. Pour chaque semaine de retard de notre fait, 10 % de moins sur le total.'},g3:{t:'Prix bloqué',p:'Le prix ferme ne bouge pas, même si le travail nous prend plus de temps que prévu. Les surprises sont pour nous.'},offer:'<b>10 % de remise en plus</b> si vous confirmez le devis avant la fin de la semaine où vous le recevez.',btn:'Demander un devis'},
 
   mq:['Sites web','E-commerce','SEO','Meta Ads','Applications mobiles','ERP','CRM','Automatisations','Landing pages','Logiciels sur mesure','Intégrations IA','Support'],
   servizi:{
@@ -41,7 +45,7 @@ window.I18N.fr={
   settori:{
     eyebrow:'Pour qui',
     title:'Chaque entreprise mérite<br>son <span class="grad">outil sur mesure.</span>',
-    lead:'Nous ne vendons pas de progiciels tout faits. Nous partons de votre façon de travailler et nous construisons l\'outil qui vous manque. Voici quelques exemples concrets.',
+    lead:'Des formules claires pour démarrer, du sur-mesure quand il le faut. Voici quelques exemples concrets de ce que nous pouvons réaliser pour votre secteur.',
     items:[
       ['food','Restaurants & bars','Carte numérique, réservation de tables, commandes à emporter et avis automatisés.'],
       ['shop','Commerces & e-commerce','Boutique en ligne, catalogue synchronisé avec le stock, paiements et livraisons.'],
@@ -55,7 +59,7 @@ window.I18N.fr={
   },
   lavori:{
     eyebrow:'Réalisations', title:'Ce qui sort de <span class="grad">notre atelier.</span>',
-    lead:'Une sélection de projets représentatifs du type de travail que nous livrons.',
+    lead:'Des résultats mesurés sur les projets de nos clients : des chiffres réels, pas des promesses.',
     filters:['Tout','Sites & E-commerce','Applications','ERP','Ads & SEO'], go:'Voir le projet',
     items:[
       {tag:'E-commerce',t:'Boutique en ligne pour une marque produit',d:'Catalogue, tunnel d\'achat optimisé et intégration avec le stock et les transporteurs. Design sombre, pensé mobile d\'abord.',k:['Ventes en ligne','Temps de chargement']},
@@ -92,7 +96,9 @@ window.I18N.fr={
   faq:{
     eyebrow:'Questions fréquentes', title:'Les réponses <span class="grad">dont vous avez besoin.</span>',
     items:[
-      ['Combien coûte un projet ?','Cela dépend de ce dont vous avez réellement besoin, et nous le disons franchement : un site vitrine bien construit et un ERP sur mesure ne partent pas du même endroit. Après le premier échange nous envoyons un devis à prix ferme, chaque ligne expliquée. Aucun coût n\'apparaît une fois le travail commencé.'],
+      ['Combien coûte un projet ?','Les prix de départ sont écrits sur le site : site Essentiel 350 € (ou 24,80 € par mois), Professionnel 1 490 € SEO inclus, Sur mesure dès 2 990 €, web app dès 50 € par mois, logiciel de gestion dès 1 500 €. Pour les stands et les projets sur mesure, vous recevez sous 24 heures un devis à prix ferme, chaque ligne expliquée. Tout est TVA incluse.'],
+      ['Et si le projet ne me plaît pas ?','Vous ne payez pas. Avant tout acompte nous vous montrons la maquette : si elle ne vous convainc pas, vous vous arrêtez là, sans frais. Et si, une fois lancés, nous livrons en retard de notre fait, chaque semaine de retard vaut 10 % de remise sur le total.'],
+      ['Faites-vous des remises ?','Une seule, la même pour tous : si vous confirmez le devis avant la fin de la semaine où vous le recevez, vous avez 10 % de moins sur le total.'],
       ['En combien de temps sommes-nous en ligne ?','Une landing page ou un site vitrine demande en général 2 à 4 semaines. Une boutique en ligne 4 à 8. Un ERP ou une application se comptent en mois, mais nous travaillons par modules : la première version utilisable arrive bien avant la fin.'],
       ['Travaillez-vous uniquement avec de grandes entreprises ?','C\'est plutôt l\'inverse. La plupart de nos clients sont des commerces, des cabinets et des PME. Notre travail est d\'adapter la solution au budget, pas le contraire.'],
       ['Et si j\'ai déjà un site ou un système ?','Aucun problème. Nous pouvons améliorer l\'existant, l\'intégrer ou le migrer. Nous évaluons d\'abord ce qui vaut la peine d\'être gardé : tout refaire n\'est pas toujours le choix intelligent.'],
@@ -103,10 +109,10 @@ window.I18N.fr={
   },
   cta:{
     eyebrow:'On commence', title:'Racontez-nous l\'idée.<br>Nous <span class="grad">nous occupons du reste.</span>',
-    lead:'Le premier échange est gratuit et sans engagement. Nous vous dirons honnêtement si nous pouvons aider, ce que cela coûte et combien de temps cela prend. Même si la réponse est « non ».',
-    list:['Réponse sous 24 heures ouvrées','Devis clair, à prix ferme','Aucun engagement de durée'],
+    lead:'Le premier échange est gratuit et sans engagement. Sous 24 heures nous vous disons honnêtement si nous pouvons aider, ce que cela coûte et combien de temps cela prend. Même si la réponse est « non ».',
+    list:['Réponse et devis sous 24 heures ouvrées','Maquette gratuite : vous payez seulement si elle vous plaît','10 % de moins si vous confirmez dans la semaine','Aucun engagement de durée'],
     wa:'Nous écrire sur WhatsApp',
-    f:{nome:'Nom et prénom',tel:'Téléphone',email:'E-mail (facultatif)',azienda:'Entreprise / activité',tipo:'Ce dont vous avez besoin',send:'Envoyer la demande',pref:'Indicatif',telerr:'Merci d\'indiquer un numéro de téléphone valide.',emailerr:'Merci d\'indiquer une adresse e-mail valide ou de laisser le champ vide.',
+    f:{nome:'Nom et prénom',tel:'Téléphone',email:'E-mail (facultatif)',azienda:'Entreprise / activité',tipo:'Ce dont vous avez besoin',send:'Recevoir mon devis gratuit',pref:'Indicatif',telerr:'Merci d\'indiquer un numéro de téléphone valide.',emailerr:'Merci d\'indiquer une adresse e-mail valide ou de laisser le champ vide.',
        ok:'Demande envoyée ! Nous vous répondons au plus vite.',
        note:'En envoyant ce formulaire vous acceptez d\'être recontacté. Nous ne transmettons jamais vos données à qui que ce soit.',
        opts:['Site web / e-commerce','SEO et visibilité','Meta Ads et campagnes','Application sur mesure','ERP / CRM','Logiciel ou automatisation',"Stand de salon",'Je ne sais pas encore, parlons-en'],
@@ -229,5 +235,5 @@ window.I18N.fr={
     }
   },
   meta:{title:'Sites web, logiciels sur mesure et stands | Danova Tech',
-        desc:'Agence tech italienne : sites web et e-commerce, référencement, Meta Ads, applications, ERP, logiciels sur mesure et stands d\'exposition. Devis gratuit sous 24 h.'}
+        desc:'Sites internet dès 350 €, ERP dès 1 500 €, SEO, Meta Ads et stands clés en main. Devis ferme en 24 heures et maquette gratuite avant de payer.'}
 };

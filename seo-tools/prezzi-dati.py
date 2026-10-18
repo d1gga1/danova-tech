@@ -648,3 +648,13 @@ _X = {
 for _l, _v in _X.items():
     D[_l].update(_v)
     D[_l]['ogimg'] = '/assets/img/og-prezzi-%s.jpg' % _l
+
+# =====================================================================
+# 18/10/2026 — livelli del sito (Essenziale / Professionale / Su misura),
+# garanzie e offerta a tempo. I testi stanno in livelli-dati.py.
+# =====================================================================
+import importlib.util as _iu, os as _os
+_sp = _iu.spec_from_file_location('livelli_dati', _os.path.join(_os.path.dirname(_os.path.abspath(__file__)), 'livelli-dati.py'))
+_lv = _iu.module_from_spec(_sp); _sp.loader.exec_module(_lv)
+_lv.applica_a_listino(D, NUM)
+AGGIORNATO = _lv.AGGIORNATO

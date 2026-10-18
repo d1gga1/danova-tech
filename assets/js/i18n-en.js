@@ -5,18 +5,22 @@ window.I18N.en={
   code:'EN', name:'English', htmlLang:'en',
   nav:{fiere:"Trade fairs",servizi:'Services',prezzi:'Pricing',settori:'Who we serve',lavori:'Work',processo:'Process',chisiamo:'About us',faq:'FAQ',contatti:'Contact',cta:"Let's talk"},
   hero:{
-    l1:'We build', l2:'technology that',
-    rot:['converts.','sells.','saves time.','scales.','simplifies.'],
-    sub:'Websites, SEO, Meta Ads campaigns, apps, management systems, custom software and exhibition stands. From the first line of code to the first sale: <b>one partner for your entire technology stack.</b>',
-    cta1:'Request a quote', cta2:'See what we do', scroll:'Scroll',
+    l1:'Websites, software', l2:'& stands that',
+    rot:['bring in clients.','sell.','save time.','grow your business.','simplify.'],
+    sub:'Website, SEO, Meta Ads, apps, management systems and exhibition stands <b>from one partner</b>. Prices written on the site, a fixed quote in 24 hours, and you see the draft <b>before you pay</b>.',
+    cta1:'Free quote in 24 hours', cta2:'See the prices', trust:'<span class="ht-st" aria-hidden="true">★★★★★</span><b>5.0 on Google</b><i>·</i>Free draft before you pay<i>·</i>Fixed price in the quote', scroll:'Scroll',
     stats:['Projects delivered','Clients who renew','Average launch time','Support and monitoring']
   },
   fiere:{"badge": "New", "news": "Turnkey trade fair stands", "eyebrow": "Trade fair stands", "title": "Your trade fair stand,<br><span class=\"grad\">turnkey.</span>", "lead": "We now also handle trade fair stands. Whatever your company, we source the materials you need, every component required and the installers who build your stand right at the fair. You focus on your customers, we take care of the rest.", "a": {"t": "Materials", "p": "Walls, flooring, graphics, furniture and lighting: we find and supply all the materials your stand needs."}, "b": {"t": "Components", "p": "Structures, profiles, fittings and every component required by the project or the fair's technical rules, ready to use."}, "c": {"t": "Installers at the fair", "p": "Installation crews who build your stand right at the fair, within the set-up times set by the organiser."}, "pts": ["One contact from design to installation", "A clear quote before we start", "For companies of every sector and size"], "cta": "Get a quote for your stand", "cta2": "Learn more"},
-  prezzi:{eyebrow:'Pricing',title:'What it costs,<br><span class="grad">said upfront.</span>',lead:'The figures are written down, not revealed at the end of a call. All prices include VAT.',more:'See the full price list',
-    c1:{k:'Website',t:'Monthly plan or website you own',a:'€24.80',u:'per month',e:'or €350 one-off + €150 SEO on Google and Bing',n:'VAT included · 24-month minimum term',l:'<li>Domain and hosting included</li><li>Maintenance and changes included</li><li>No setup fee</li>',b:'Details'},
-    c2:{k:'Web app',t:'Monthly plan or ready to use',a:'€50',u:'per month',e:'or from €750 one-off, running from day one',n:'VAT included · no activation fee',l:'<li>Hosting and updates included</li><li>Users, roles and permissions</li><li>Support included</li>',b:'Details'},
-    c3:{k:'Business ERP',t:'Custom management system',a:'from €1,500',u:'per project',e:'figure set after the free analysis',n:'VAT included · fixed price, no mid-project changes',l:'<li>We map your processes</li><li>Data migration</li><li>Training included</li>',b:'Details'}
+  prezzi:{eyebrow:'Pricing',title:'What it costs,<br><span class="grad">said upfront.</span>',lead:'Three tiers for websites, a clear starting price for everything else. VAT included, and no cost that appears once work has started.',more:'See the full price list',note:'All prices include VAT. Website, domain and accounts are registered in your name.',oh:'Software and trade fairs',
+    t1:{k:'To get started',n:'Essential',w:'To be online, properly and fast.',a:'€350',u:'one-off',e:'or €24.80 per month, all included',l:'<li>Brochure website up to 5 pages</li><li>Design tailored to your brand</li><li>Fast and flawless on mobile</li><li>SEO on Google and Bing: +€150</li>',b:'Start with Essential'},
+    t2:{k:'To get enquiries',n:'Professional',w:'For a website that brings in leads every week.',a:'€1,490',u:'one-off',e:'SEO on Google and Bing already included',l:'<li>Up to 15 pages: one per service and area</li><li>Copy written by us, designed to make people call</li><li>Full SEO and Google Business Profile</li><li>3 months of changes and support included</li>',b:'Choose Professional',badge:'Recommended'},
+    t3:{k:'To sell online',n:'Custom',w:'E-commerce, multiple languages, special features.',a:'from €2,990',u:'per project',e:'fixed figure after the free analysis',l:'<li>E-commerce, bookings or client area</li><li>Connection to ERP and warehouse</li><li>Advanced SEO with content and guides</li><li>Dedicated contact and priority support</li>',b:'Ask for an assessment'},
+    o1:{k:'Web app',a:'from €50',u:'per month',e:'or from €750 one-off, running from day one'},
+    o2:{k:'Business ERP',a:'from €1,500',u:'per project',e:'fixed price after a free analysis of your processes'},
+    o3:{k:'Exhibition stand',a:'Quote in 24 hours',u:'',e:'design, materials, transport and installation with one contact person'}
   },
+  garanzie:{eyebrow:'Zero risk',title:'Three guarantees,<br><span class="grad">written into the quote.</span>',lead:'Picking a new supplier is scary: everyone has heard stories of websites never finished and costs that kept growing. That is why we take the risk.',g1:{t:'You only pay if you like it',p:'Before any deposit we show you the draft of the project. If it does not convince you, you stop there and pay nothing.'},g2:{t:'On time, or a discount',p:'The delivery date is written in the quote. For every week of delay caused by us, 10% off the total.'},g3:{t:'Locked price',p:'The fixed price does not move, even if the work takes us longer than planned. Surprises are on us.'},offer:'<b>An extra 10% off</b> if you confirm the quote by the end of the week you receive it.',btn:'Request a quote'},
 
   mq:['Websites','E-commerce','SEO','Meta Ads','Mobile apps','ERP systems','CRM','Automations','Landing pages','Custom software','AI integrations','Support'],
   servizi:{
@@ -41,7 +45,7 @@ window.I18N.en={
   settori:{
     eyebrow:'Who we serve',
     title:'Every business deserves<br>its own <span class="grad">custom tool.</span>',
-    lead:'We don\'t sell off-the-shelf packages. We start from how you actually work and build the tool you\'re missing. Here are a few concrete examples of what we can create.',
+    lead:'Clear packages to get started, custom solutions when you need them. Here are a few concrete examples of what we can build for your sector.',
     items:[
       ['food','Restaurants & bars','Digital menu, table booking, takeaway orders and automated reviews.'],
       ['shop','Shops & e-commerce','Online storefront, catalogue synced with inventory, payments and shipping.'],
@@ -55,7 +59,7 @@ window.I18N.en={
   },
   lavori:{
     eyebrow:'Selected work', title:'What comes out of <span class="grad">our studio.</span>',
-    lead:'A selection of projects representative of the kind of work we deliver.',
+    lead:'Results measured on our clients’ projects: real numbers, not promises.',
     filters:['All','Sites & E-commerce','Apps','ERP','Ads & SEO'], go:'View project',
     items:[
       {tag:'E-commerce',t:'Online shop for a product brand',d:'Catalogue, optimised checkout and integration with inventory and couriers. Dark, mobile-first design.',k:['Online sales','Load time']},
@@ -92,7 +96,9 @@ window.I18N.en={
   faq:{
     eyebrow:'Frequently asked', title:'The answers <span class="grad">you need.</span>',
     items:[
-      ['How much does a project cost?','It depends on what you actually need, and we\'ll say it plainly: a well-built brochure site starts from a very different figure than a custom management system. After the first call we send a fixed-price quote with every line explained. No cost appears once work has started.'],
+      ['How much does a project cost?','Starting prices are written on the site: Essential website €350 (or €24.80 per month), Professional €1,490 with SEO included, Custom from €2,990, web apps from €50 per month, ERP from €1,500. For exhibition stands and custom projects you get a fixed-price quote within 24 hours, with every line explained. All VAT included.'],
+      ['What if I do not like the project?','You do not pay. Before any deposit we show you the draft: if it does not convince you, you stop there at no cost. And if, once started, we deliver late through our fault, every week of delay is worth 10% off the total.'],
+      ['Do you offer discounts?','Just one, the same for everyone: if you confirm the quote by the end of the week you receive it, you get 10% off the total.'],
       ['How long until we go live?','A landing page or brochure site usually takes 2–4 weeks. An e-commerce site 4–8. A custom system or app is measured in months, but we work in modules: the first usable version arrives well before the end.'],
       ['Do you only work with large companies?','Quite the opposite. Most of our clients are local businesses, professional firms and small companies. Our job is to size the solution to the budget, not the other way around.'],
       ['What if I already have a site or system?','Not a problem. We can improve what\'s there, integrate it or migrate it. First we assess what\'s worth keeping: rebuilding everything isn\'t always the smart move.'],
@@ -103,10 +109,10 @@ window.I18N.en={
   },
   cta:{
     eyebrow:'Get started', title:'Tell us the idea.<br>We\'ll <span class="grad">handle the rest.</span>',
-    lead:'First call is free and with no obligation. We\'ll tell you honestly whether we can help, what it costs and how long it takes. Even if the answer is "no".',
-    list:['Reply within 24 business hours','Clear, fixed-price quote','No lock-in contracts'],
+    lead:'First call is free and with no obligation. Within 24 hours we tell you honestly whether we can help, what it costs and how long it takes. Even if the answer is "no".',
+    list:['Reply and quote within 24 business hours','Free draft: you only pay if you like it','10% off if you confirm within the week','No lock-in contracts'],
     wa:'Message us on WhatsApp',
-    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Send request',pref:'Code',telerr:'Please enter a valid phone number.',emailerr:'Please enter a valid email address or leave the field empty.',
+    f:{nome:'Full name',tel:'Phone',email:'Email (optional)',azienda:'Company / business',tipo:'What do you need',send:'Get your free quote',pref:'Code',telerr:'Please enter a valid phone number.',emailerr:'Please enter a valid email address or leave the field empty.',
        ok:'Request sent! We will get back to you as soon as possible.',
        note:'By submitting you agree to be contacted. We never share your data with anyone.',
        opts:['Website / e-commerce','SEO and search visibility','Meta Ads and campaigns','Custom app','ERP / CRM system','Software or automation',"Trade fair stand",'Not sure yet, let\'s talk'],
@@ -229,5 +235,5 @@ window.I18N.en={
     }
   },
   meta:{title:'Websites, custom software & exhibition stands | Danova Tech',
-        desc:'Italian tech agency: websites, e-commerce, apps, ERP and custom software, plus exhibition stand design and build in Italy. Fixed price, reply in 24h.'}
+        desc:'Websites from €350, ERP from €1,500, SEO, Meta Ads and turnkey exhibition stands. Fixed quote in 24 hours and a free draft before you pay.'}
 };

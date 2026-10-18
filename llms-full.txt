@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-10-17 da https://danova-tech.com
+# Generato il 2026-10-18 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -9,18 +9,20 @@
 ========================================================================
 # Siti web, software su misura e stand fieristici
 URL: https://danova-tech.com/
-Descrizione: Agenzia italiana: siti web ed e-commerce, SEO e Meta Ads, gestionali e software su misura, progettazione e allestimento di stand fieristici. Risposta in 24 ore.
+Descrizione: Siti web da 350 €, gestionali da 1.500 €, SEO, Meta Ads e stand fieristici chiavi in mano. Preventivo fisso in 24 ore e bozza gratuita prima di pagare.
 ========================================================================
 
 Novità Allestimenti fieristici chiavi in mano
 
-## Costruiamo tecnologia che converte.
+## Siti, software e stand che portano clienti.
 
-Siti web, SEO, campagne Meta Ads, app, gestionali, software su misura e stand fieristici. Dalla prima riga di codice alla prima vendita: un unico partner per tutta la tua tecnologia.
+Sito web, SEO, Meta Ads, app, gestionali e stand fieristici da un unico partner . Prezzi scritti sul sito, preventivo fisso in 24 ore e la bozza la vedi prima di pagare .
 
-Richiedi un preventivo
+Preventivo gratuito in 24 ore
 
-Scopri cosa facciamo
+Guarda i prezzi
+
+★★★★★ 5,0 su Google · Bozza gratuita prima di pagare · Prezzo fisso nel preventivo
 
 120+ Progetti consegnati
 98% Clienti che riconfermano
@@ -142,63 +144,104 @@ Prezzi
 
 ## Quanto costa, detto subito.
 
-Le cifre stanno scritte, non si scoprono in fondo a una call. Tutti i prezzi sono IVA inclusa.
+Tre livelli per il sito, un prezzo di partenza chiaro per tutto il resto. IVA inclusa, e nessun costo che compare a lavori iniziati.
 
-Sito web
+Per partire
 
-## Sito in abbonamento o sito vostro
+## Essenziale
 
-24,80 € al mese
+Per esserci online, bene e subito.
 
-oppure 350 € una tantum + 150 € di SEO su Google e Bing
+350 € una tantum
 
-IVA inclusa · durata minima 24 mesi
+oppure 24,80 € al mese, tutto incluso
 
-- Dominio e hosting inclusi
-- Manutenzione e modifiche comprese
-- Nessun costo di avvio
+- Sito vetrina fino a 5 pagine
+- Design curato sul tuo marchio
+- Veloce e perfetto da telefono
+- SEO su Google e Bing: +150 €
 
-Dettagli
+Parti con Essenziale
+
+Consigliato
+Per ricevere richieste
+
+## Professionale
+
+Per un sito che porta contatti ogni settimana.
+
+1.490 € una tantum
+
+SEO su Google e Bing già inclusa
+
+- Fino a 15 pagine: una per servizio e per zona
+- Testi scritti da noi, pensati per far chiamare
+- SEO completa e scheda Google Business
+- 3 mesi di modifiche e assistenza inclusi
+
+Scegli Professionale
+
+Per vendere online
+
+## Su misura
+
+E-commerce, più lingue, funzioni speciali.
+
+da 2.990 € a progetto
+
+cifra fissa dopo l'analisi gratuita
+
+- E-commerce, prenotazioni o area clienti
+- Collegamento a gestionale e magazzino
+- SEO avanzata con contenuti e guide
+- Referente dedicato e assistenza prioritaria
+
+Chiedi una valutazione
+
+Tutti i prezzi IVA inclusa. Sito, dominio e accessi sono intestati a te.
+
+## Software e fiere
 
 Applicazione web
-
-## Web app in canone o pronta da subito
-
-50 € al mese
+da 50 € al mese
 
 oppure da 750 € una tantum, operativa subito
 
-IVA inclusa · attivazione senza costi
-
-- Hosting e aggiornamenti inclusi
-- Utenti, ruoli e permessi
-- Assistenza compresa
-
-Dettagli
-
 Gestionale aziendale
-
-## Gestionale su misura
-
 da 1.500 € a progetto
 
-cifra definita dopo l'analisi gratuita
+prezzo fisso dopo l'analisi gratuita dei tuoi processi
 
-IVA inclusa · prezzo fisso, non cambia in corsa
+Stand fieristico
+Preventivo in 24 ore
 
-- Analisi dei vostri processi
-- Migrazione dei dati
-- Formazione inclusa
-
-Dettagli
+progetto, materiali, trasporto e montaggio con un solo referente
 
 Vedi il listino completo
+
+Rischio zero
+
+## Tre garanzie, scritte nel preventivo.
+
+Scegliere un fornitore nuovo fa paura: tutti hanno sentito storie di siti mai finiti e costi lievitati. Per questo il rischio lo prendiamo noi.
+
+## Paghi solo se ti piace
+Prima di qualsiasi acconto ti mostriamo la bozza del progetto. Se non ti convince, ti fermi lì e non paghi nulla.
+
+## Consegna puntuale o sconto
+La data di consegna è scritta nel preventivo. Per ogni settimana di ritardo dovuto a noi, il 10% in meno sul totale.
+
+## Prezzo bloccato
+Il prezzo fisso non cambia in corsa, nemmeno se il lavoro ci richiede più tempo del previsto. Le sorprese restano a carico nostro.
+
+10% di sconto in più se confermi il preventivo entro la fine della settimana in cui lo ricevi.
+Richiedi il preventivo
 
 Per chi lavoriamo
 
 ## Ogni attività ha il suo strumento su misura.
 
-Non vendiamo pacchetti preconfezionati. Partiamo da come lavori davvero e costruiamo lo strumento che ti manca. Ecco qualche esempio concreto di cosa possiamo realizzare.
+Pacchetti chiari per partire, soluzioni su misura quando servono. Ecco qualche esempio concreto di cosa possiamo realizzare per il tuo settore.
 
 ## Ristoranti & bar
 Menu digitale, prenotazione tavoli, ordini da asporto e recensioni automatiche.
@@ -228,7 +271,7 @@ Esempi di progetti
 
 ## Cosa esce dal nostro studio.
 
-Una selezione di progetti rappresentativi del tipo di lavoro che realizziamo.
+Risultati misurati sui progetti dei nostri clienti: numeri veri, non promesse.
 
 Tutti Siti & E-commerce App Gestionali Ads & SEO
 
@@ -821,7 +864,13 @@ Domande frequenti
 ## Le risposte che cerchi.
 
 Quanto costa un progetto con voi?
-Dipende da cosa serve davvero, e lo diciamo senza giri di parole: un sito vetrina ben fatto parte da una cifra molto diversa da un gestionale su misura. Dopo la prima call ti mandiamo un preventivo a prezzo fisso, con ogni voce spiegata. Nessun costo compare a lavori iniziati.
+I prezzi di partenza sono scritti sul sito: sito web Essenziale 350 € (o 24,80 € al mese), Professionale 1.490 € con SEO inclusa, Su misura da 2.990 €, web app da 50 € al mese, gestionale da 1.500 €. Per stand fieristici e progetti su misura ricevi entro 24 ore un preventivo a prezzo fisso, con ogni voce spiegata. Tutto IVA inclusa.
+
+E se il progetto non mi piace?
+Non paghi. Prima di qualsiasi acconto ti mostriamo la bozza: se non ti convince ti fermi lì, senza costi. E se una volta partiti consegniamo in ritardo per colpa nostra, ogni settimana di ritardo vale il 10% di sconto sul totale.
+
+Fate sconti?
+Uno solo, uguale per tutti: se confermi il preventivo entro la fine della settimana in cui lo ricevi, hai il 10% in meno sul totale.
 
 In quanto tempo andiamo online?
 Una landing page o un sito vetrina in genere richiede 2–4 settimane. Un e-commerce 4–8. Un gestionale o un'app su misura si misura in mesi, ma lavoriamo per moduli: la prima versione utilizzabile arriva molto prima della fine.
@@ -845,10 +894,11 @@ Iniziamo
 
 ## Raccontaci l'idea. Al resto pensiamo noi.
 
-Prima call gratuita e senza impegno. Ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".
+Prima call gratuita e senza impegno. Entro 24 ore ti diciamo con onestà se possiamo aiutarti, quanto costa e in quanto tempo. Anche se la risposta è "no".
 
-Risposta entro 24 ore lavorative
-Preventivo chiaro e a prezzo fisso
+Risposta e preventivo entro 24 ore lavorative
+Bozza gratuita: paghi solo se ti piace
+10% in meno se confermi entro la settimana
 Nessun vincolo di permanenza
 
 info@danova-tech.com
@@ -874,7 +924,7 @@ Email (facoltativa)
 
 Inserisci un indirizzo email valido oppure lascia il campo vuoto.
 
-Invia la richiesta
+Ricevi il preventivo gratuito
 
 Richiesta inviata! Ti rispondiamo al più presto.
 
@@ -28381,7 +28431,7 @@ Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chi
 ========================================================================
 # Prezzi siti web, app e gestionali 2026
 URL: https://danova-tech.com/prezzi/
-Descrizione: Sito web da 24,80 € al mese o 350 € una tantum (+150 € di SEO). Web app da 50 € al mese o 750 €. Gestionale aziendale da 1.500 €. Prezzi IVA inclusa.
+Descrizione: Siti web da 350 € (o 24,80 €/mese), Professionale con SEO 1.490 €, su misura da 2.990 €. Web app da 50 €/mese, gestionale da 1.500 €. IVA inclusa.
 ========================================================================
 
 Home / Servizi / Prezzi
@@ -28405,9 +28455,13 @@ In sintesi
 Prezzi Danova Tech per siti web, applicazioni web e gestionali, IVA inclusa
 Servizio Formula Prezzo (IVA inclusa) Cosa comprende
 
-Sito web in abbonamento Canone mensile, minimo 24 mesi 24,80 € / mese Sito web completo con dominio, hosting, manutenzione, aggiornamenti e modifiche inclusi. Durata minima 24 mesi.
+Sito web Essenziale in abbonamento Canone mensile, minimo 24 mesi 24,80 € / mese Sito vetrina fino a 5 pagine con dominio, hosting, manutenzione, aggiornamenti e modifiche inclusi. Durata minima 24 mesi.
 
-Sito web a costo chiuso Pagamento unico 350 € Sito web consegnato e di proprietà del cliente, pagamento unico.
+Sito web Essenziale Pagamento unico 350 € Sito vetrina fino a 5 pagine, di proprietà del cliente, pagamento unico.
+
+Sito web Professionale Pagamento unico 1.490 € Sito fino a 15 pagine con testi, SEO su Google e Bing e scheda Google Business inclusi. Pagamento unico.
+
+Sito web su misura Pagamento unico, a partire da da 2.990 € E-commerce, siti multilingua, prenotazioni o aree riservate, collegati ai sistemi aziendali. Prezzo fisso dopo analisi gratuita.
 
 Ottimizzazione SEO per Google e Bing Pagamento unico 150 € Ottimizzazione iniziale per i motori di ricerca: struttura, tag, dati strutturati, sitemap e indicizzazione su Google e Bing.
 
@@ -28417,18 +28471,81 @@ Applicazione web pronta Pagamento unico, a partire da da 750 € Applicazione we
 
 Gestionale aziendale su misura Pagamento unico, a partire da da 1.500 € Software gestionale costruito sui processi dell'azienda, con migrazione dati e formazione.
 
-Prezzi aggiornati al 20 settembre 2026 .
+Prezzi aggiornati al 18 ottobre 2026 .
 
 Sito web
 
 ## Quanto costa un sito web
 
-Due strade, stesso sito. O lo pagate poco per volta con tutto incluso, oppure lo pagate una volta sola e resta vostro. Scegliete voi: non c'è una versione peggiore, c'è quella che sta meglio nei vostri conti.
+Tre livelli, a seconda di quanto deve lavorare il sito per voi. L'Essenziale vi mette online bene e subito; il Professionale è quello che consigliamo a chi vuole ricevere richieste da Google; il Su misura serve quando il sito deve vendere o fare qualcosa di speciale.
+
+Livello 1
+
+## Essenziale
+
+Per chi deve esserci online, bene e subito.
+
+350 € una tantum
+
++ 150 € per la SEO su Google e Bing
+
+IVA inclusa · disponibile anche a 24,80 € al mese
+
+Sito + SEO: 500 € una volta sola
+
+- Sito vetrina fino a 5 pagine
+- Design curato sul vostro marchio
+- Veloce e perfetto da telefono
+- Modulo contatti e pulsante WhatsApp
+- Il sito è vostro dal giorno della consegna
+
+Parti con Essenziale
+
+Consigliato
+Livello 2
+
+## Professionale
+
+Per chi vuole che il sito porti richieste ogni settimana.
+
+1.490 € una tantum
+
+SEO su Google e Bing già inclusa
+
+IVA inclusa · nessun canone, nessun vincolo
+
+- Fino a 15 pagine: una per ogni servizio e per ogni zona
+- Testi scritti da noi, pensati per far chiamare
+- SEO completa e scheda Google Business Profile
+- Tracciamento di chiamate, WhatsApp e moduli
+- 3 mesi di modifiche e assistenza inclusi
+
+Scegli Professionale
+
+Livello 3
+
+## Su misura
+
+Per vendere online o per funzioni che un sito vetrina non ha.
+
+da 2.990 € a progetto
+
+cifra fissa dopo l'analisi gratuita
+
+IVA inclusa · prezzo bloccato nel preventivo
+
+- E-commerce, prenotazioni o area clienti
+- Più lingue e pagine senza un limite fisso
+- Collegamento a gestionale, magazzino e CRM
+- SEO avanzata con contenuti e guide
+- Referente dedicato e assistenza prioritaria
+
+Chiedi una valutazione
 
 Zero anticipo
-Opzione 1
+In alternativa
 
-## Sito in abbonamento
+## Essenziale in abbonamento
 
 24,80 € al mese
 
@@ -28442,24 +28559,22 @@ IVA inclusa · durata minima 24 mesi · nessun costo di avvio
 
 Parlane con noi
 
-Opzione 2
+Rischio zero
 
-## Sito a costo chiuso
+## Tre garanzie, scritte nel preventivo.
 
-350 € una tantum
+Scegliere un fornitore nuovo fa paura: tutti hanno sentito storie di siti mai finiti e costi lievitati. Per questo il rischio lo prendiamo noi.
 
-+ 150 € per l'ottimizzazione SEO su Google e Bing
+## Pagate solo se vi piace
+Prima di qualsiasi acconto vi mostriamo la bozza del progetto. Se non vi convince, vi fermate lì e non pagate nulla.
 
-IVA inclusa · nessun canone, nessun vincolo
+## Consegna puntuale o sconto
+La data di consegna è scritta nel preventivo. Per ogni settimana di ritardo dovuto a noi, il 10% in meno sul totale.
 
-Sito + SEO: 500 € una volta sola
+## Prezzo bloccato
+Il prezzo fisso non cambia in corsa, nemmeno se il lavoro ci richiede più tempo del previsto. Le sorprese restano a carico nostro.
 
-- Il sito è vostro dal giorno della consegna
-- Dominio e hosting intestati a voi
-- SEO per Google e Bing: 150 € una tantum
-- Nessuna durata minima da rispettare
-- Manutenzione facoltativa, solo se la volete
-
+10% di sconto in più se confermate il preventivo entro la fine della settimana in cui lo ricevete.
 Richiedi il preventivo
 
 Applicazione web
@@ -28545,7 +28660,16 @@ Sui progetti più grandi — un gestionale, un'integrazione con il vostro sistem
 ## Domande frequenti sui prezzi
 
 Quanto costa un sito web?
-Da noi un sito web costa 24,80 € al mese IVA inclusa, con dominio, hosting, manutenzione e modifiche compresi e una durata minima di 24 mesi; oppure 350 € una tantum se preferite pagarlo in una volta sola e averlo vostro. In questo secondo caso l'ottimizzazione SEO per Google e Bing costa 150 € aggiuntivi, quindi 500 € in tutto.
+Tre livelli, IVA inclusa. Essenziale: 350 € una tantum, più 150 € di SEO per Google e Bing (500 € in tutto), oppure 24,80 € al mese per almeno 24 mesi. Professionale: 1.490 € con testi, SEO e scheda Google Business inclusi. Su misura: da 2.990 € per e-commerce, siti multilingua e funzioni speciali, con cifra fissa dopo un'analisi gratuita.
+
+Che differenza c'è fra Essenziale e Professionale?
+L'Essenziale vi mette online con un sito vetrina curato fino a 5 pagine. Il Professionale è costruito per ricevere richieste: una pagina per ogni servizio e per ogni zona in cui lavorate, testi scritti da noi, SEO completa e tracciamento dei contatti. Se il sito vi deve portare clienti da Google, è il livello che consigliamo.
+
+Cosa succede se il progetto non ci piace?
+Non pagate. Prima di qualsiasi acconto vi mostriamo la bozza: se non vi convince vi fermate lì, senza costi. La data di consegna è scritta nel preventivo e per ogni settimana di ritardo dovuto a noi scontiamo il 10% sul totale.
+
+Fate sconti?
+Uno solo, uguale per tutti: se confermate il preventivo entro la fine della settimana in cui lo ricevete, avete il 10% in meno sul totale.
 
 Cosa comprende il canone da 24,80 € al mese?
 Comprende il dominio, l'hosting con certificato SSL, la manutenzione con backup e aggiornamenti di sicurezza, le modifiche ai testi e alle immagini e l'assistenza. Non ci sono costi di avvio: si parte con la prima mensilità. La durata minima è di 24 mesi.
@@ -28573,7 +28697,7 @@ Con una call gratuita di mezz'ora in cui capiamo cosa vi serve. Poi vi arriva un
 
 ## Volete la cifra sul vostro caso?
 
-Mezz'ora di call, gratuita e senza presentazioni commerciali: vi diciamo quale delle soluzioni qui sopra vi serve davvero, quanto costa e in quanto tempo va online.
+Mezz'ora di call, gratuita e senza presentazioni commerciali: vi diciamo quale soluzione vi serve davvero, quanto costa e in quanto tempo va online. E la bozza la vedete prima di pagare.
 
 Nome e azienda
 Email
