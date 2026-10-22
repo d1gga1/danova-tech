@@ -1,5 +1,62 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 22 ottobre 2026 — Keyword Planner (46 CSV) e espositori asiatici
+
+Dati: `seo-tools/keywords/planner-2026-10-22/` (46 CSV, 4.307 keyword, Italia + DE/AT/CH, UK/USA/NL/Nordici/UAE,
+FR/BE/CH, ES/LatAm, NL, PT, PL, HK/TW/SG). Blocchi usati per la ricerca: `seo-tools/keywords/2026-10-22/`.
+
+### Cosa dicono i dati
+- **Inglese = mercato di maggior valore**: "exhibition stand builder", "exhibition stand contractor",
+  "exhibition stand design", "trade show booth design" (fascia 5.000/mese, CPC 40–100 €). È anche la lingua
+  con cui cercano indiani, pakistani, bangladesi e molti cinesi.
+- **Fiere estere cercate dall'Italia**: interpack, Agritechnica, Hannover Messe, EuroShop, Wine Paris (fascia 5.000),
+  Anuga, ProWein, Ambiente, MEDICA, ISH, SIAL, Maison&Objet, FITUR, MWC, Fruit Logistica, METSTRADE (fascia 500).
+  Nessuna aveva una pagina.
+- **Fiere italiane mancanti**: Salone Nautico Genova, SPS Italia, BIT Milano, MADE expo, Fieragricola, Transpotec (5.000), Cosmofarma.
+- **Tedesco**: "Messebau Mailand" fascia 5.000 (CPC basso): pagina dedicata.
+- Italia: "allestitori fiere/fiera/per fiere" (500 ciascuna), "moquette fiera" e "moquette ignifuga" (500), "exhibit designer" (500).
+- Volumi a fasce (nessuna campagna attiva): servono per decidere le priorità, non come numeri esatti.
+
+### Cosa è stato fatto (97 pagine nuove, sitemap 509 → 606 URL)
+- 26 pagine IT `/stand-<fiera>/`: 20 fiere estere (Germania, Francia, Spagna, Paesi Bassi) + 6 fiere italiane.
+- 20 pagine EN `/en/<fiera>-stand-builder/` e 20 ZH `/zh/<fiera>-stand/` (+ 20 zh-hant) per le fiere europee
+  dove espongono molte aziende asiatiche; hreflang IT/EN/ZH/zh-Hant.
+- Hub Europa: `/en/exhibition-stand-builder-europe/` e `/zh/europe-exhibition-stand/` (hreflang con /allestimenti-fieristici-estero/).
+- Pagine per paese di provenienza (EN): India, Pakistan, Cina, Bangladesh (`/en/exhibition-stand-builder-for-<x>-companies/`):
+  settori, fiere frequentate, padiglioni nazionali e upgrade del preallestito, pagamento in euro, lingua del cliente.
+- `/de/messebau-mailand/`, `/moquette-per-stand-fieristici/`, `/trasporto-e-magazzino-stand-fieristici/`.
+- Calendario: aggiunte interpack 2029, EuroShop 2029, MADE expo 2027, Cosmofarma 2027, Fieragricola 2028, Transpotec 2028
+  (date da confermare: solo mese); SIAL Paris spostata all'edizione 2028.
+- Link: box "Approfondisci" di hub, città, calendario e fiere affini; sezione "fiere europee" nelle pillar EN/ZH/zh-hant e in /de/messebau-italien/.
+- Titoli: /servizi/allestimenti-fieristici/ ("allestitori per fiere"), /progettazione-stand-fieristici/ ("exhibit designer"),
+  /en/exhibition-stand-builder-italy/ ("Contractor in Italy and Europe").
+- Testi allineati a `patch-2026-10-17-veridicita.py`: montatori e laboratori partner, magazzino nostro, coordinamento interno.
+
+### Come rigenerare
+```
+cd seo-tools/fiere-generatore
+python3 patch_dati_2610.py        # calendario + hreflang (idempotente)
+python3 build_2610.py             # tutte le pagine del 22/10 + collegamenti (idempotente)
+python3 build_hant.py             # ATTENZIONE: rigenera TUTTE le pagine zh-hant
+cd ../.. && python3 seo-tools/titoli-2026-10-22.py
+python3 seo-tools/noindex-pagine-lontane.py
+python3 seo-tools/post-build-velocita.py && python3 seo-tools/post-build-contatti.py && python3 seo-tools/schema-licenza-eventi.py
+python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
+```
+Se rilanci `lingue.py` (pillar EN/ZH/DE), rilancia poi `build_2610.py`: rimette le sezioni "fiere europee".
+Dati: `dati_2610_it.py` (IT), `dati_2610_intl.py` (EN/ZH), `dati_2610_hub.py` (hub, paesi, DE, moquette, trasporto).
+
+### Prossimi passi consigliati
+1. Invia la sitemap in Search Console e Bing Webmaster Tools; lancia `bash seo-tools/indexnow.sh`.
+2. **Google Ads in inglese** sulle keyword "exhibition stand builder Italy/Europe" e sulle fiere (CPC alto ma lead di valore),
+   con località India, Pakistan, Bangladesh, Turchia, Vietnam, Hong Kong, Taiwan, Singapore, Emirati.
+3. **Cina continentale**: Google non è usato. Servono Baidu (Baidu Ziyuan per l'indicizzazione), un account **WeChat**
+   da mettere sulle pagine /zh/ e profili su piattaforme B2B cinesi; i contenuti /zh/ sono pronti.
+4. Ricerca keyword con località India, Pakistan, Bangladesh, Vietnam, Turchia (inglese) per misurare quelle domande.
+5. Foto vere di stand montati all'estero: oggi le pagine usano render di progetto.
+
+---
+
 ## Aggiornamento 18 ottobre 2026 — conversione: livelli, garanzie, offerta
 
 Cosa cambia (homepage e listino, 5 lingue):

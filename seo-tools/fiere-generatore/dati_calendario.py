@@ -106,6 +106,10 @@ F=[
 ("refrigera","Refrigera","bologna","edilizia","2027-11-10","2027-11-12",1,"https://www.refrigera.events",""),
 ("samuexpo","Samuexpo","pordenone","industria","2028-02-03","2028-02-05",1,"https://www.samuexpo.com","Biennale"),
 ("tuttofood","TUTTOFOOD","rho","food","2028-05-08","2028-05-11",1,"https://www.tuttofood.it",""),
+("made-expo","MADE expo","rho","edilizia","2027-11-01","2027-11-30",0,"https://www.madeexpo.it","Biennale"),
+("cosmofarma","Cosmofarma","bologna","salute","2027-04-01","2027-04-30",0,"https://www.cosmofarma.com",""),
+("fieragricola","Fieragricola","verona","agri","2028-02-01","2028-02-29",0,"https://www.fieragricola.it","Biennale"),
+("transpotec","Transpotec Logitec","rho","auto","2028-05-01","2028-05-31",0,"https://www.transpotec.com","Biennale"),
 # ---------------- GERMANIA
 ("medica","MEDICA","duesseldorf","salute","2026-11-16","2026-11-19",1,"https://www.medica-tradefair.com",""),
 ("electronica","electronica","muenchen","tech","2026-11-10","2026-11-13",1,"https://electronica.de",""),
@@ -138,8 +142,10 @@ F=[
 ("a-plus-a","A+A","duesseldorf","industria","2027-10-19","2027-10-22",1,"https://www.aplusa-online.com",""),
 ("agritechnica","Agritechnica","hannover","agri","2027-11-14","2027-11-20",1,"https://www.agritechnica.com",""),
 ("productronica","productronica","muenchen","tech","2027-11-16","2027-11-19",1,"https://productronica.com",""),
+("interpack","interpack","duesseldorf","pack","2029-06-01","2029-06-30",0,"https://www.interpack.com","Triennale"),
+("euroshop","EuroShop","duesseldorf","arredo","2029-02-01","2029-02-28",0,"https://www.euroshop-tradefair.com","Triennale"),
 # ---------------- FRANCIA
-("sial","SIAL Paris","parisn","food","2026-10-17","2026-10-21",1,"https://www.sialparis.com",""),
+("sial","SIAL Paris","parisn","food","2028-10-01","2028-10-31",0,"https://www.sialparis.com","Biennale"),
 ("equiphotel","EquipHotel","parisv","turismo","2026-11-02","2026-11-05",1,"https://www.equiphotel.com",""),
 ("all4pack","ALL4PACK Emballage","parisn","pack","2026-11-23","2026-11-26",1,"https://www.all4pack.com",""),
 ("maison-objet","Maison&Objet (gennaio)","parisn","arredo","2027-01-14","2027-01-18",1,"https://www.maison-objet.com",""),

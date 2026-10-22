@@ -1,0 +1,98 @@
+SCOPERTA NUOVE KEYWORD — "Individua nuove parole chiave"
+Una ricerca per gruppo (max 10 parole). Imposta località e lingua indicate sopra ogni gruppo.
+Dopo ogni ricerca: Scarica idee per le parole chiave > CSV.
+
+=====================================================================
+ITALIA — Località: Italia · Lingua: Italiano
+=====================================================================
+
+IT1 — Servizio completo, dal progetto al trasporto
+stand chiavi in mano, allestitore fieristico, progettazione e realizzazione stand, trasporto stand, montaggio e smontaggio stand, magazzino stand, falegnameria stand, servizi per espositori
+
+IT2 — Montaggio e manodopera
+montatori stand, montaggio stand fiera, smontaggio stand, squadra montaggio fiere, installazione stand, montaggio stand estero
+
+IT3 — Costi e preventivi
+preventivo stand, costo stand al mq, prezzo stand fieristico, stand fieristici prezzi, quanto costa allestire uno stand, stand usati
+
+IT4 — Settori
+stand vino, stand alimentare, stand macchinari, stand medicale, stand gioielli, stand arredamento, stand moda, stand tecnologia
+
+IT5 — Fiere italiane non ancora coperte
+made expo, fieragricola, homi, mostra convegno expocomfort, sps italia, ipack ima, salone nautico genova, artigiano in fiera, transpotec, bit milano
+
+IT6 — Fiere estere viste dall'Italia (Germania)
+anuga, prowein, ambiente francoforte, bauma, medica dusseldorf, interpack, agritechnica, hannover messe, euroshop, ish francoforte
+
+IT7 — Fiere estere viste dall'Italia (resto del mondo)
+sial paris, maison et objet, wine paris, fitur, mwc barcellona, alimentaria barcellona, fruit logistica, gulfood, metstrade, seafood expo global
+
+IT8 — Esporre all'estero
+fiere all estero, allestimento stand estero, stand germania, stand francia, stand spagna, contributi fiere estero, ice fiere, simest fiere
+
+=====================================================================
+GERMANIA / AUSTRIA / SVIZZERA — Località: Germania, Austria, Svizzera · Lingua: Tedesco
+=====================================================================
+
+DE1 — Servizio
+messebau, messebauer, messestand, messestand bauen lassen, messestand kosten, messebau komplettservice, messestand holz, systemmessestand
+
+DE2 — Italia
+messebau italien, messestand mailand, messebau verona, messebau bologna, messebau rimini, messen in italien, messekalender italien, ausstellen in italien
+
+DE3 — Fiere italiane
+salone del mobile messestand, vinitaly aussteller, eicma messestand, marmomac messestand, cosmoprof messestand, host milano messestand, cersaie, micam
+
+DE4 — Montaggio e logistica
+messestand aufbau, messestand abbau, messemontage, messebau logistik, messestand einlagerung, messestand transport, messestand mieten
+
+=====================================================================
+INGLESE — Località: Regno Unito, Stati Uniti, Irlanda, Paesi Bassi, Danimarca, Svezia, Emirati Arabi Uniti · Lingua: Inglese
+=====================================================================
+
+EN1 — Servizio
+exhibition stand builder, exhibition stand design, custom exhibition stands, exhibition stand contractor, trade show booth builder, exhibition stand cost
+
+EN2 — Italia
+exhibition stand builder italy, stand builder milan, exhibiting in italy, trade fairs in italy, salone del mobile stand, vinitaly stand, eicma stand, marmomac stand
+
+EN3 — Europa
+exhibition stand builder europe, trade show booth europe, stand builder germany, exhibition stand frankfurt, exhibition stand dusseldorf, exhibition stand paris, exhibition stand barcelona, exhibiting in europe
+
+EN4 — Logistica e montaggio
+exhibition stand build and dismantle, exhibition logistics europe, exhibition stand storage, exhibition stand installation, turnkey exhibition stand, exhibition stand hire
+
+=====================================================================
+FRANCESE — Località: Francia, Belgio, Svizzera · Lingua: Francese
+=====================================================================
+
+FR1 — Servizio
+standiste, conception stand salon, stand sur mesure, prix stand salon, montage stand salon, stand clé en main, stand bois, location stand salon
+
+FR2 — Italia ed estero
+standiste italie, stand salon milan, salon du meuble de milan stand, vinitaly stand, exposer en italie, salons professionnels italie, standiste allemagne, stand anuga
+
+=====================================================================
+SPAGNOLO — Località: Spagna, Messico, Colombia, Argentina, Cile · Lingua: Spagnolo
+=====================================================================
+
+ES1 — Servizio
+empresa de stands, montaje de stands, diseño de stands, stands a medida, cuanto cuesta un stand, alquiler de stands, stand llave en mano
+
+ES2 — Italia ed estero
+montaje stands italia, stand feria milán, exponer en italia, ferias en italia, stand vinitaly, stand salone del mobile, stands feriales alemania, stand anuga
+
+=====================================================================
+IN PIÙ — "Inizia con un sito web" (seconda scheda, "Usa solo questa pagina")
+Imposta la stessa località/lingua della pagina.
+=====================================================================
+https://danova-tech.com/allestimenti-fieristici-estero/            (Italia, italiano)
+https://danova-tech.com/allestimenti-fieristici-germania/          (Italia, italiano)
+https://danova-tech.com/de/messebau-italien/                       (Germania+Austria+Svizzera, tedesco)
+https://danova-tech.com/en/exhibition-stand-builder-italy/         (UK+USA, inglese)
+https://danova-tech.com/fr/standiste-salon-italie/                 (Francia+Belgio+Svizzera, francese)
+https://danova-tech.com/es/montaje-stands-feriales-italia/         (Spagna+Messico, spagnolo)
+
+E poi 1–2 concorrenti per lingua, presi dai primi risultati su Google per:
+"allestimenti fieristici", "Messebau Italien", "exhibition stand builder Italy",
+"standiste Italie", "montaje stands Italia".

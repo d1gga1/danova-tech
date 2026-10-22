@@ -15,6 +15,12 @@ for c in DI.CITIES:
     _add(f"/allestimenti-fieristici-{c['s']}/", f"/en/{c['en']['slug']}/", f"/zh/{c['zh']['slug']}/")
 _add('/guide/come-preparare-una-fiera/', '/en/exhibiting-at-trade-fairs-in-italy/', '/zh/italy-trade-fair-guide/')
 
+# 22/10/2026: fiere europee (dati_2610_intl) e hub Europa
+import dati_2610_intl as DX
+for f in DX.FAIRS:
+    _add(f"/stand-{f['k']}/", f"/en/{f['en']['slug']}/", f"/zh/{f['zh']['slug']}/")
+_add('/allestimenti-fieristici-estero/', '/en/exhibition-stand-builder-europe/', '/zh/europe-exhibition-stand/')
+
 def merge(path, alts, lang):
     base = dict(alts) if alts else {lang: path}
     if path in ALTS: base.update(ALTS[path])
