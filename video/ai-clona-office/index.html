@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="it" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Ha clonato Word, Excel e PowerPoint con l’AI (video)</title>
+<meta name="description" content="Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.">
+<link rel="canonical" href="https://danova-tech.com/video/ai-clona-office/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/video/ai-clona-office/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/video/ai-clona-office/">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/video/ai-clona-office/">
+<meta property="og:locale" content="it_IT">
+<meta property="og:title" content="Ha clonato Word, Excel e PowerPoint con l’AI — video Danova Tech">
+<meta property="og:description" content="Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.">
+<meta property="og:image" content="https://danova-tech.com/assets/video/reel-ai-clona-office.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Mockup di scheda su quanto costa un sito web: voci del prezzo, domande da fare nel preventivo, tempi e tipi di sito">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Ha clonato Word, Excel e PowerPoint con l’AI — video Danova Tech">
+<meta name="twitter:description" content="Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/video/reel-ai-clona-office.jpg">
+
+<link rel="icon" type="image/png" href="../../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../../assets/img/logo.png">
+<link rel="manifest" href="../../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../../assets/fonts/inter-latin.woff2" crossorigin>
+<link rel="preconnect" href="https://static.cloudflareinsights.com" crossorigin>
+<style id="fonts-inline">@font-face{font-family:'Sora';font-style:normal;font-weight:100 800;font-display:swap;src:url(../../assets/fonts/sora-latin.woff2) format('woff2-variations');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sora';font-style:normal;font-weight:100 800;font-display:swap;src:url(../../assets/fonts/sora-latin-ext.woff2) format('woff2-variations');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:swap;src:url(../../assets/fonts/inter-latin.woff2) format('woff2-variations');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:swap;src:url(../../assets/fonts/inter-latin-ext.woff2) format('woff2-variations');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:400;font-display:swap;src:url(../../assets/fonts/jetbrains-mono-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:500;font-display:swap;src:url(../../assets/fonts/jetbrains-mono-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
+<link rel="stylesheet" href="../../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "description": "Agenzia tech italiana che progetta e sviluppa siti web, e-commerce, strategie SEO, campagne Meta Ads, applicazioni, gestionali e software su misura, e che progetta e allestisce stand fieristici in Italia e all'estero. Realizza inoltre video pubblicitari con intelligenza artificiale e motion design, e siti web pronti in 24 ore.",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech",
+        "license": "https://danova-tech.com/termini/#proprieta-intellettuale",
+        "acquireLicensePage": "https://danova-tech.com/contatti/",
+        "creditText": "Danova Tech",
+        "copyrightNotice": "© Danova Tech",
+        "creator": {
+          "@type": "Organization",
+          "name": "Danova Tech",
+          "url": "https://danova-tech.com/"
+        }
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "location": [
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Sede di Mansuè",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Via Rigole 48",
+            "addressLocality": "Mansuè",
+            "addressRegion": "TV",
+            "postalCode": "31040",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Magazzino di Fontanelle",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fontanelle",
+            "addressRegion": "TV",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Magazzino e uffici di Trumello",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trumello",
+            "addressRegion": "PV",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Uffici di Vermezzo con Zelo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Vermezzo con Zelo",
+            "addressRegion": "MI",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://www.instagram.com/danova_techh/",
+        "https://www.tiktok.com/@danova.tech",
+        "https://www.facebook.com/profile.php?id=61594907955699",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8",
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": 10
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Treviso"
+        },
+        {
+          "@type": "City",
+          "name": "Oderzo"
+        },
+        {
+          "@type": "City",
+          "name": "Pordenone"
+        },
+        {
+          "@type": "City",
+          "name": "Venezia"
+        },
+        {
+          "@type": "City",
+          "name": "Milano"
+        },
+        {
+          "@type": "City",
+          "name": "Pavia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Veneto"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Friuli-Venezia Giulia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Lombardia"
+        },
+        {
+          "@type": "Country",
+          "name": "Italia"
+        },
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Country",
+          "name": "United States"
+        }
+      ],
+      "knowsAbout": [
+        "Sviluppo software su misura",
+        "Software gestionale aziendale",
+        "ERP per PMI",
+        "CRM aziendale",
+        "Gestione commesse",
+        "Software MES per la produzione",
+        "Gestione del magazzino",
+        "Tracciabilità di filiera",
+        "Gestione documentale",
+        "Fatturazione elettronica",
+        "Integrazione di software aziendali",
+        "API e sincronizzazioni",
+        "Automazione dei processi aziendali",
+        "Intelligenza artificiale applicata alle imprese",
+        "Chatbot e agenti AI",
+        "Sviluppo di applicazioni aziendali",
+        "App per rapportini e timbrature",
+        "Realizzazione di siti web",
+        "E-commerce B2B e B2C",
+        "SEO e posizionamento sui motori di ricerca",
+        "Google Ads",
+        "Digitalizzazione delle PMI",
+        "Video pubblicitari",
+        "Motion design",
+        "Video con intelligenza artificiale",
+        "Promotional video production",
+        "Sito web in 24 ore"
+      ],
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-sales",
+          "contactType": "sales",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English",
+            "German"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "@id": "https://danova-tech.com/#contact-support",
+          "contactType": "customer support",
+          "telephone": "+39 388 470 6887",
+          "email": "info@danova-tech.com",
+          "areaServed": "IT",
+          "availableLanguage": [
+            "Italian",
+            "English"
+          ]
+        }
+      ],
+      "disambiguatingDescription": "Danova Tech è una software house e agenzia digitale italiana con sede a Mansuè, in provincia di Treviso (P.IVA IT05369890263). Non ha alcun legame con Danova Analytics (danova.tech) né con Danova Tek (danovatek.com), società diverse e non collegate."
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/video/ai-clona-office/#service",
+      "name": "Video pubblicitari",
+      "serviceType": "Produzione video pubblicitari",
+      "description": "Video pubblicitari, reel e spot per aziende: motion design 3D, video con intelligenza artificiale e reel per Instagram e TikTok, pronti in 24 ore.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German",
+        "French",
+        "Spanish"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Video pubblicitari",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Reel per Instagram e TikTok"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Spot pubblicitari"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Motion design 3D"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Video prodotto"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/video/ai-clona-office/#webpage",
+      "url": "https://danova-tech.com/video/ai-clona-office/",
+      "name": "Ha clonato Word, Excel e PowerPoint con l’AI (video)",
+      "description": "Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.",
+      "inLanguage": "it-IT",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/video/ai-clona-office/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/video/ai-clona-office/#breadcrumb"
+      },
+      "datePublished": "2026-10-23",
+      "dateModified": "2026-10-23",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".pg-hero h1",
+          ".pg-breve p"
+        ]
+      },
+      "video": [
+        {
+          "@id": "https://danova-tech.com/assets/video/reel-ai-clona-office.mp4#video"
+        },
+        {
+          "@id": "https://danova-tech.com/assets/video/reel-ai-al-colloquio.mp4#video"
+        },
+        {
+          "@id": "https://danova-tech.com/assets/video/reel-simboli-prompt.mp4#video"
+        },
+        {
+          "@id": "https://danova-tech.com/assets/video/reel-agenti-ai-anthropic.mp4#video"
+        },
+        {
+          "@id": "https://danova-tech.com/assets/video/reel-anthropic-junior.mp4#video"
+        }
+      ],
+      "mainEntity": {
+        "@id": "https://danova-tech.com/assets/video/reel-ai-clona-office.mp4#video"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/video/ai-clona-office/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Video pubblicitari",
+          "item": "https://danova-tech.com/video-pubblicitari/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ha clonato Word, Excel e PowerPoint con l’AI",
+          "item": "https://danova-tech.com/video/ai-clona-office/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/video/ai-clona-office/#faq",
+      "inLanguage": "it-IT",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Chi ha realizzato questo video?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Danova Tech, agenzia di Mansuè (Treviso) che realizza video pubblicitari, reel per Instagram e TikTok, spot con intelligenza artificiale e motion design 3D per aziende di tutta Italia."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Potete fare un video così per la mia azienda?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Sì: diteci cosa vendete e dove volete pubblicarlo. Il video è pronto in 24 ore dall’approvazione dell’idea, in verticale per Reel e TikTok e negli altri formati che servono. Il prezzo è a preventivo, scritto e senza sorprese."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quanto costa un video come questo?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Dipende da durata, tecnica e numero di versioni: per questo facciamo un preventivo a corpo entro 24 ore lavorative dalla richiesta."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://danova-tech.com/assets/video/reel-ai-clona-office.mp4#video",
+      "name": "Ha clonato Word, Excel e PowerPoint con l’AI",
+      "description": "Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.",
+      "thumbnailUrl": [
+        "https://danova-tech.com/assets/video/reel-ai-clona-office.jpg"
+      ],
+      "contentUrl": "https://danova-tech.com/assets/video/reel-ai-clona-office.mp4",
+      "uploadDate": "2026-10-18T12:00:00+02:00",
+      "duration": "PT37S",
+      "inLanguage": "it-IT",
+      "width": 720,
+      "height": 1280,
+      "creator": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "isFamilyFriendly": true,
+      "url": "https://danova-tech.com/video/ai-clona-office/",
+      "keywords": "reel notizia AI",
+      "sameAs": [
+        "https://www.instagram.com/reel/DeoThVWx_h6/",
+        "https://www.tiktok.com/@danova.tech/video/7697928779104062752"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://danova-tech.com/assets/video/reel-ai-al-colloquio.mp4#video",
+      "name": "Ha mandato la sua AI al colloquio",
+      "description": "Storia virale raccontata in reel con motion design, ritmo veloce e sottotitoli per la visione senza audio.",
+      "thumbnailUrl": [
+        "https://danova-tech.com/assets/video/reel-ai-al-colloquio.jpg"
+      ],
+      "contentUrl": "https://danova-tech.com/assets/video/reel-ai-al-colloquio.mp4",
+      "uploadDate": "2026-10-20T12:00:00+02:00",
+      "duration": "PT26S",
+      "inLanguage": "it-IT",
+      "width": 720,
+      "height": 1280,
+      "creator": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "isFamilyFriendly": true,
+      "url": "https://danova-tech.com/video/ai-al-colloquio/",
+      "keywords": "reel storytelling, video virale",
+      "sameAs": [
+        "https://www.instagram.com/reel/DeuVjn6xsed/",
+        "https://www.tiktok.com/@danova.tech/video/7698796911851097376"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://danova-tech.com/assets/video/reel-simboli-prompt.mp4#video",
+      "name": "Cinque simboli per scrivere prompt migliori",
+      "description": "Reel educativo in stile chiaro con simboli 3D: un consiglio pratico sull’intelligenza artificiale in 28 secondi.",
+      "thumbnailUrl": [
+        "https://danova-tech.com/assets/video/reel-simboli-prompt.jpg"
+      ],
+      "contentUrl": "https://danova-tech.com/assets/video/reel-simboli-prompt.mp4",
+      "uploadDate": "2026-10-19T12:00:00+02:00",
+      "duration": "PT28S",
+      "inLanguage": "it-IT",
+      "width": 720,
+      "height": 1280,
+      "creator": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "isFamilyFriendly": true,
+      "url": "https://danova-tech.com/video/simboli-prompt/",
+      "keywords": "reel educativo, video tutorial breve",
+      "sameAs": [
+        "https://www.instagram.com/reel/DerwXXOxLwa/",
+        "https://www.tiktok.com/@danova.tech/video/7698427875975761185"
+      ]
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://danova-tech.com/assets/video/reel-agenti-ai-anthropic.mp4#video",
+      "name": "Gli agenti AI lavorano 6 volte le ore delle persone",
+      "description": "Notizia dal report di Anthropic sul lavoro interno (16 ottobre 2026), raccontata con grafici animati in 27 secondi.",
+      "thumbnailUrl": [
+        "https://danova-tech.com/assets/video/reel-agenti-ai-anthropic.jpg"
+      ],
+      "contentUrl": "https://danova-tech.com/assets/video/reel-agenti-ai-anthropic.mp4",
+      "uploadDate": "2026-10-18T12:00:00+02:00",
+      "duration": "PT27S",
+      "inLanguage": "it-IT",
+      "width": 720,
+      "height": 1280,
+      "creator": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "isFamilyFriendly": true,
+      "url": "https://danova-tech.com/video/agenti-ai-anthropic/",
+      "keywords": "reel notizia AI, grafici animati"
+    },
+    {
+      "@type": "VideoObject",
+      "@id": "https://danova-tech.com/assets/video/reel-anthropic-junior.mp4#video",
+      "name": "Dal 27% al 9%: meno junior nelle assunzioni",
+      "description": "Reel editoriale senza voce, con schede e grafici animati sui dati pubblicati da Anthropic sulle nuove assunzioni tecniche.",
+      "thumbnailUrl": [
+        "https://danova-tech.com/assets/video/reel-anthropic-junior.jpg"
+      ],
+      "contentUrl": "https://danova-tech.com/assets/video/reel-anthropic-junior.mp4",
+      "uploadDate": "2026-10-20T12:00:00+02:00",
+      "duration": "PT26S",
+      "inLanguage": "it-IT",
+      "width": 720,
+      "height": 1280,
+      "creator": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "isFamilyFriendly": true,
+      "url": "https://danova-tech.com/video/anthropic-junior/",
+      "keywords": "reel editoriale, infografica animata"
+    }
+  ]
+}
+</script>
+<style id="pg2310">.pg-breve{border:1px solid rgba(77,139,255,.35);background:rgba(30,107,255,.07);border-radius:18px;padding:24px 26px;margin-top:8px}.pg-breve p{margin:0 0 14px;font-size:1.06rem;line-height:1.6}.pg-breve dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px 22px;margin:0}.pg-breve dt{font-family:"JetBrains Mono",monospace;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;opacity:.7}.pg-breve dd{margin:3px 0 0;font-weight:600}.vd-grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));margin-top:8px}.vd-card{margin:0;border:1px solid rgba(255,255,255,.09);border-radius:18px;overflow:hidden;background:rgba(255,255,255,.03);display:flex;flex-direction:column}.vd-card video{display:block;width:100%;height:auto;aspect-ratio:9/16;background:#04060c;object-fit:cover}.vd-card figcaption{padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;font-size:.9rem;line-height:1.45}.vd-card figcaption b{font-size:.98rem}.vd-card .vd-tag{font-family:"JetBrains Mono",monospace;font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;opacity:.7}.vd-social{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}.vd-social a{font-size:.78rem;padding:5px 10px;border-radius:99px;border:1px solid rgba(77,139,255,.45);text-decoration:none}.vd-social a:hover{background:rgba(30,107,255,.18)}.vd-nota{margin-top:18px;opacity:.85}.pg-link{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));margin-top:8px}.pg-link a{display:block;padding:16px 18px;border:1px solid rgba(255,255,255,.09);border-radius:14px;text-decoration:none;background:rgba(255,255,255,.03)}.pg-link a:hover{border-color:rgba(77,139,255,.6)}.pg-link b{display:block;margin-bottom:4px}.pg-link span{font-size:.88rem;opacity:.8;line-height:1.45}.vd-grid.uno{grid-template-columns:minmax(0,400px)}.vd-card figcaption b a{color:inherit;text-decoration:none}.vd-card figcaption b a:hover{text-decoration:underline}.pg-link-g{margin-top:26px}.pg-link-g h3{margin:0 0 10px;font-size:1.05rem}@media(max-width:640px){.vd-grid{grid-template-columns:1fr 1fr;gap:12px}.vd-card figcaption{padding:10px 11px 12px;font-size:.8rem}.vd-grid.uno{grid-template-columns:1fr}.vd-card figcaption>span:not(.vd-tag):not(.vd-social){display:none}.vd-card figcaption b{font-size:.86rem}.vd-social a{font-size:.7rem;padding:4px 8px}.pg-breve{padding:18px}}</style></head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Vai al contenuto</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="../../" class="brand" data-mag><img width="160" height="160" src="../../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menu">
+      <a href="../../#servizi">Servizi</a>
+      <a href="/stand-fieristici/">Stand fieristici</a>
+      <a href="../../#settori">Per chi</a>
+      <a href="/lavori/">Lavori</a>
+      <a href="../../#processo">Processo</a>
+      <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+      <a href="#dt-scrivi">Contatti</a>
+    </nav>
+    <div class="nav-r">
+      <span class="lang-links">
+        <a href="/video/ai-clona-office/" hreflang="it" aria-current="page">IT</a>
+      </span>
+      <a href="#dt-scrivi" class="btn btn-p" data-mag><span class="lbl">Parliamone</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menu" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menu">
+  <a href="../../#servizi">Servizi</a>
+      <a href="/stand-fieristici/">Stand fieristici</a>
+  <a href="../../#settori">Per chi</a>
+  <a href="/lavori/">Lavori</a>
+  <a href="../../#processo">Processo</a>
+  <a href="/prezzi/" class="nav-prezzi">Prezzi</a>
+  <a href="#dt-scrivi">Contatti</a>
+
+  <div class="mob-lang-links">
+    <a href="/video/ai-clona-office/" hreflang="it" aria-current="page">IT</a>
+  </div>
+</nav>
+
+<main id="main">
+
+<div class="wrap pg-crumbs">
+  <a href="/">Home</a><em>/</em><a href="/video-pubblicitari/">Video pubblicitari</a><em>/</em>Ha clonato Word, Excel e PowerPoint con l’AI
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>Motion design 3D · 36,8 s</div>
+    <h1 data-rv="up">Ha clonato Word, Excel e PowerPoint con l’AI</h1>
+    <p class="lead" data-rv="up">Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="#dt-scrivi" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Voglio un video così</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#video" class="btn btn-g" data-mag><span class="lbl">Guarda il video</span></a>
+    </div>
+  </div>
+</section>
+
+<section id="video">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Video</div>
+      <h2 class="title" data-rv="up">Guarda il video <span class="grad">(37 secondi)</span></h2>
+    </div>
+    <div class="vd-grid uno">
+      <figure class="vd-card" data-rv="up">
+        <video controls preload="none" playsinline width="540" height="960" data-poster="/assets/video/reel-ai-clona-office.jpg" title="Ha clonato Word, Excel e PowerPoint con l’AI"><source src="/assets/video/reel-ai-clona-office.mp4" type="video/mp4"></video>
+        <figcaption><span class="vd-tag">Motion design 3D · 36.8s</span><b>Ha clonato Word, Excel e PowerPoint con l’AI</b><span>Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source.</span>
+          <span class="vd-social"><a href="https://www.instagram.com/reel/DeoThVWx_h6/" target="_blank" rel="noopener">Instagram</a><a href="https://www.tiktok.com/@danova.tech/video/7697928779104062752" target="_blank" rel="noopener">TikTok</a></span></figcaption>
+      </figure>
+    </div>
+    <p class="vd-nota" data-rv="up">Tutti i video sono realizzati da noi. Quelli con i pulsanti sono pubblicati sui nostri profili <a href="https://www.instagram.com/danova_techh/" target="_blank" rel="noopener">Instagram @danova_techh</a> e <a href="https://www.tiktok.com/@danova.tech" target="_blank" rel="noopener">TikTok @danova.tech</a>, dove ne esce uno nuovo quasi ogni giorno.</p>
+    <script>(function(){var v=[].slice.call(document.querySelectorAll("video[data-poster]"));function s(x){var p=x.getAttribute("data-poster");if(p){x.poster=p;x.removeAttribute("data-poster");}}if(!("IntersectionObserver" in window)){v.forEach(s);return;}var o=new IntersectionObserver(function(e){e.forEach(function(i){if(i.isIntersecting){s(i.target);o.unobserve(i.target);}});},{rootMargin:"600px"});v.forEach(function(x){if(!x.__dp){x.__dp=1;o.observe(x);}});})();</script>
+  </div>
+</section>
+
+<section id="in-breve">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>In breve</div>
+      <h2 class="title" data-rv="up">Il video <span class="grad">in breve</span></h2>
+    </div>
+    <div class="pg-breve" data-rv="up">
+      <p>Notizia tech in formato reel: uno sviluppatore ricrea la suite da ufficio con l’intelligenza artificiale e la regala, open source. Realizzato da <b>Danova Tech</b>, agenzia di Mansuè (Treviso) che crea video pubblicitari, reel e spot per aziende in 24 ore.</p>
+      <dl>
+        <div><dt>Tecnica</dt><dd>Motion design 3D</dd></div>
+        <div><dt>Durata</dt><dd>36,8 secondi</dd></div>
+        <div><dt>Formato</dt><dd>Verticale 9:16, con sottotitoli</dd></div>
+        <div><dt>Pubblicato su</dt><dd>Instagram e TikTok</dd></div>
+        <div><dt>Data</dt><dd>18/10/2026</dd></div>
+        <div><dt>Realizzato da</dt><dd>Danova Tech</dd></div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section id="di-cosa-parla">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Il testo</div>
+      <h2 class="title" data-rv="up">Di cosa parla <span class="grad">il video</span></h2>
+    </div>
+    <div class="pg-testo" data-rv="up">
+      <p>Uno sviluppatore ha appena clonato Word, Excel e PowerPoint con l’AI. E li regala. 🤯</p>
+      <p>👉 Si chiama Brandon Thomas e ha usato Claude, l’AI di Anthropic<br>👉 WordCraft, GridCraft e DeckCraft: gratis, open source, su Windows, Mac e Linux<br>👉 Prima aveva già fatto lo stesso con le app di Adobe<br>👉 Non sono perfetti: sono ancora in sviluppo</p>
+      <p>Ma il punto è un altro.<br>Costruire software su misura oggi costa molto meno di prima.</p>
+      <p>Quel gestionale che “tanto è roba da grandi aziende”? Clienti, ordini, magazzino e fatture in un unico posto: da 1.500 €, IVA inclusa, prezzo fisso.</p>
+      <p>Fonti: TechRadar (12/10/2026), Analytics Insight (14/10/2026)</p>
+    </div>
+  </div>
+</section>
+
+<section id="correlati">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Altri video</div>
+      <h2 class="title" data-rv="up">Video <span class="grad">simili</span></h2>
+    </div>
+    <div class="vd-grid">
+      <figure class="vd-card" data-rv="up">
+        <video controls preload="none" playsinline width="540" height="960" data-poster="/assets/video/reel-ai-al-colloquio.jpg" title="Ha mandato la sua AI al colloquio"><source src="/assets/video/reel-ai-al-colloquio.mp4" type="video/mp4"></video>
+        <figcaption><span class="vd-tag">Motion design 3D · 26.0s</span><b><a href="/video/ai-al-colloquio/">Ha mandato la sua AI al colloquio</a></b><span>Storia virale raccontata in reel con motion design, ritmo veloce e sottotitoli per la visione senza audio.</span>
+          <span class="vd-social"><a href="https://www.instagram.com/reel/DeuVjn6xsed/" target="_blank" rel="noopener">Instagram</a><a href="https://www.tiktok.com/@danova.tech/video/7698796911851097376" target="_blank" rel="noopener">TikTok</a></span></figcaption>
+      </figure>
+      <figure class="vd-card" data-rv="up">
+        <video controls preload="none" playsinline width="540" height="960" data-poster="/assets/video/reel-simboli-prompt.jpg" title="Cinque simboli per scrivere prompt migliori"><source src="/assets/video/reel-simboli-prompt.mp4" type="video/mp4"></video>
+        <figcaption><span class="vd-tag">Motion design 3D · 28.2s</span><b><a href="/video/simboli-prompt/">Cinque simboli per scrivere prompt migliori</a></b><span>Reel educativo in stile chiaro con simboli 3D: un consiglio pratico sull’intelligenza artificiale in 28 secondi.</span>
+          <span class="vd-social"><a href="https://www.instagram.com/reel/DerwXXOxLwa/" target="_blank" rel="noopener">Instagram</a><a href="https://www.tiktok.com/@danova.tech/video/7698427875975761185" target="_blank" rel="noopener">TikTok</a></span></figcaption>
+      </figure>
+      <figure class="vd-card" data-rv="up">
+        <video controls preload="none" playsinline width="540" height="960" data-poster="/assets/video/reel-agenti-ai-anthropic.jpg" title="Gli agenti AI lavorano 6 volte le ore delle persone"><source src="/assets/video/reel-agenti-ai-anthropic.mp4" type="video/mp4"></video>
+        <figcaption><span class="vd-tag">Motion design 3D · 27.4s</span><b><a href="/video/agenti-ai-anthropic/">Gli agenti AI lavorano 6 volte le ore delle persone</a></b><span>Notizia dal report di Anthropic sul lavoro interno (16 ottobre 2026), raccontata con grafici animati in 27 secondi.</span></figcaption>
+      </figure>
+      <figure class="vd-card" data-rv="up">
+        <video controls preload="none" playsinline width="540" height="960" data-poster="/assets/video/reel-anthropic-junior.jpg" title="Dal 27% al 9%: meno junior nelle assunzioni"><source src="/assets/video/reel-anthropic-junior.mp4" type="video/mp4"></video>
+        <figcaption><span class="vd-tag">Motion design 3D · 25.6s</span><b><a href="/video/anthropic-junior/">Dal 27% al 9%: meno junior nelle assunzioni</a></b><span>Reel editoriale senza voce, con schede e grafici animati sui dati pubblicati da Anthropic sulle nuove assunzioni tecniche.</span></figcaption>
+      </figure>
+    </div>
+    <p class="vd-nota" data-rv="up">Tutti i video sono realizzati da noi. Quelli con i pulsanti sono pubblicati sui nostri profili <a href="https://www.instagram.com/danova_techh/" target="_blank" rel="noopener">Instagram @danova_techh</a> e <a href="https://www.tiktok.com/@danova.tech" target="_blank" rel="noopener">TikTok @danova.tech</a>, dove ne esce uno nuovo quasi ogni giorno.</p>
+    <script>(function(){var v=[].slice.call(document.querySelectorAll("video[data-poster]"));function s(x){var p=x.getAttribute("data-poster");if(p){x.poster=p;x.removeAttribute("data-poster");}}if(!("IntersectionObserver" in window)){v.forEach(s);return;}var o=new IntersectionObserver(function(e){e.forEach(function(i){if(i.isIntersecting){s(i.target);o.unobserve(i.target);}});},{rootMargin:"600px"});v.forEach(function(x){if(!x.__dp){x.__dp=1;o.observe(x);}});})();</script>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>FAQ</div>
+      <h2 class="title" data-rv="up">Domande <span class="grad">su questo video.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Chi ha realizzato questo video?<span class="pm"></span></summary>
+        <div class="ans"><p>Danova Tech, agenzia di Mansuè (Treviso) che realizza video pubblicitari, reel per Instagram e TikTok, spot con intelligenza artificiale e motion design 3D per aziende di tutta Italia.</p></div></details>
+      <details data-rv="up"><summary>Potete fare un video così per la mia azienda?<span class="pm"></span></summary>
+        <div class="ans"><p>Sì: diteci cosa vendete e dove volete pubblicarlo. Il video è pronto in 24 ore dall’approvazione dell’idea, in verticale per Reel e TikTok e negli altri formati che servono. Il prezzo è a preventivo, scritto e senza sorprese.</p></div></details>
+      <details data-rv="up"><summary>Quanto costa un video come questo?<span class="pm"></span></summary>
+        <div class="ans"><p>Dipende da durata, tecnica e numero di versioni: per questo facciamo un preventivo a corpo entro 24 ore lavorative dalla richiesta.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="pg-cta">
+  <div class="wrap">
+    <div class="box" data-rv="up">
+      <h2 class="title">Che video vi serve?</h2>
+      <p>Diteci cosa vendete e dove volete pubblicarlo: entro 24 ore lavorative vi mandiamo idea, formato e preventivo.</p>
+      <form class="dt-lead" id="dt-scrivi" novalidate><div class="dt-lead-2"><div class="fld"><input type="text" name="nome" id="dtl-nome" placeholder=" " required autocomplete="name"><label for="dtl-nome">Nome e azienda</label></div><div class="fld"><input type="email" name="email" id="dtl-email" placeholder=" " required autocomplete="email" inputmode="email"><label for="dtl-email">Email</label></div></div><div class="fld"><input type="tel" name="tel" id="dtl-tel" placeholder=" " autocomplete="tel" inputmode="tel"><label for="dtl-tel">Telefono (facoltativo)</label></div><div class="fld"><textarea name="msg" id="dtl-msg" placeholder=" " required></textarea><label for="dtl-msg">Di cosa hai bisogno?</label></div><input type="text" name="_honey" class="dt-hp" tabindex="-1" autocomplete="off" aria-hidden="true"><p class="dt-lead-msg" role="status"></p><button type="submit" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Invia la richiesta</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button><p class="form-note">Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il <a href="tel:+393884706887">+39 388 470 6887</a> o scrivici su <a href="https://wa.me/393884706887" target="_blank" rel="noopener">WhatsApp</a>.</p></form>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Pagine collegate</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/gestionale-su-misura-per-ogni-settore/">Gestionale su misura per ogni settore</a>
+      <a href="/video-pubblicitari/">Tutti i video pubblicitari</a>
+      <a href="/video-pubblicitari-per-social-e-ads/">Video per Meta Ads e TikTok</a>
+      <a href="/spot-pubblicitari-con-intelligenza-artificiale/">Spot con intelligenza artificiale</a>
+      <a href="/sito-web-in-24-ore/">Sito web in 24 ore</a>
+      <a href="/contatti/">Contatti</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top z5">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Agenzia tech che progetta, sviluppa e fa crescere la presenza digitale delle attività italiane.</p>
+      </div>
+      <div><h5>Servizi</h5><ul>
+          <li><a href="/sito-web-in-24-ore/">Sito web in 24 ore</a></li>
+          <li><a href="/video-pubblicitari/">Video pubblicitari</a></li>
+          <li><a href="/app-su-misura-per-ogni-attivita/">App per ogni attività</a></li>
+          <li><a href="/gestionale-su-misura-per-ogni-settore/">Gestionale per ogni settore</a></li>
+        <li><a href="../../servizi/siti-web-ecommerce/">Siti web &amp; E-commerce</a></li>
+        <li><a href="../../servizi/seo/">SEO &amp; posizionamento</a></li>
+        <li><a href="../../servizi/meta-ads/">Meta Ads &amp; campagne</a></li>
+        <li><a href="../../servizi/google-ads/">Google Ads</a></li>
+        <li><a href="../../servizi/app-su-misura/">App su misura</a></li>
+        <li><a href="../../servizi/gestionali-crm/">Gestionali &amp; CRM</a></li>
+        <li><a href="../../servizi/software-automazioni/">Software &amp; automazioni</a></li>
+      
+        <li><a href="/servizi/allestimenti-fieristici/">Allestimenti fieristici</a></li>
+      </ul></div>
+      <div><h5>Siti web</h5><ul>
+        <li><a href="../../realizzazione-siti-web-veneto/">Siti web in Veneto</a></li>
+        <li><a href="../../realizzazione-siti-web-treviso/">Siti web a Treviso</a></li>
+        <li><a href="../../realizzazione-siti-web-pordenone/">Siti web a Pordenone</a></li>
+        <li><a href="../../realizzazione-siti-web-venezia-mestre/">Siti web a Venezia e Mestre</a></li>
+        <li><a href="../../quanto-costa-un-sito-web/">Quanto costa un sito web</a></li>
+      
+        <li><a href="../../realizzazione-siti-web-verona/">Siti web a Verona</a></li>
+        <li><a href="../../realizzazione-siti-web-padova/">Siti web a Padova</a></li>
+        <li><a href="../../realizzazione-siti-web-vicenza/">Siti web a Vicenza</a></li>
+        <li><a href="../../realizzazione-siti-web-udine/">Siti web a Udine</a></li>
+        <li><a href="../../realizzazione-siti-web-milano/">Siti web a Milano</a></li>
+        <li><a href="../../realizzazione-siti-web-pavia/">Siti web a Pavia</a></li>
+        <li><a href="../../guide/">Guide e approfondimenti</a></li>
+      </ul></div>
+      <div><h5>Gestionali</h5><ul>
+        <li><a href="../../gestionali-su-misura-veneto/">Gestionali in Veneto</a></li>
+        <li><a href="../../gestionali-su-misura-treviso/">Gestionali a Treviso</a></li>
+        <li><a href="../../gestionali-su-misura-pordenone/">Gestionali a Pordenone</a></li>
+        <li><a href="../../gestionali-su-misura-venezia-mestre/">Gestionali a Venezia e Mestre</a></li>
+        <li><a href="/gestionali-su-misura-padova/">Gestionali a Padova</a></li>
+        <li><a href="/gestionali-su-misura-vicenza/">Gestionali a Vicenza</a></li>
+        <li><a href="/gestionali-su-misura-verona/">Gestionali a Verona</a></li>
+        <li><a href="/gestionali-su-misura-udine/">Gestionali a Udine</a></li>
+        <li><a href="/gestionali-su-misura-milano/">Gestionali a Milano</a></li>
+        <li><a href="/gestionali-su-misura-pavia/">Gestionali a Pavia</a></li>
+        <li><a href="../../software-gestionale-produzione/">Gestionale per la produzione</a></li>
+        <li><a href="/software-gestione-flotte/">Software gestione flotte</a></li>
+        <li><a href="/software-gestione-interventi-tecnici/">Gestione interventi tecnici</a></li>
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="../../software-gestionale-magazzino/">Gestionale di magazzino</a></li>
+        <li><a href="../../software-gestionale-trasporti-logistica/">Gestionale trasporti e logistica</a></li>
+        <li><a href="../../quanto-costa-un-gestionale/">Quanto costa un gestionale</a></li>
+      
+        <li><a href="/software-gestionale-manutenzioni/">Gestione manutenzione</a></li>
+        <li><a href="/software-contabilita-aziendale/">Contabilità aziendale</a></li>
+      </ul></div>
+      <div><h5>Software</h5><ul>
+        <li><a href="/gestionale-personalizzato/">Gestionale personalizzato</a></li>
+        <li><a href="/erp-per-piccole-aziende/">ERP per piccole aziende</a></li>
+        <li><a href="/dashboard-aziendale/">Dashboard aziendale</a></li>
+        <li><a href="/app-personalizzata/">App personalizzata</a></li>
+        <li><a href="/software-house/">Software house</a></li>
+        <li><a href="/software-house-veneto/">Software house in Veneto</a></li>
+        <li><a href="/sviluppo-software-su-misura/">Sviluppo software su misura</a></li>
+        <li><a href="/software-gestionale-aziendale/">Software gestionale aziendale</a></li>
+        <li><a href="/gestionale-cloud/">Gestionale cloud</a></li>
+        <li><a href="/crm-aziendale/">CRM aziendale</a></li>
+        <li><a href="/intelligenza-artificiale-per-aziende/">Intelligenza artificiale per aziende</a></li>
+        <li><a href="/automazione-processi-aziendali/">Automazione processi aziendali</a></li>
+        <li><a href="/integrazione-software-aziendali/">Integrazione software aziendali</a></li>
+        <li><a href="/chatbot-aziendale/">Chatbot aziendale e agenti AI</a></li>
+        <li><a href="/app-gestione-cantieri/">App gestione cantieri</a></li>
+        <li><a href="/app-ore-di-lavoro-e-timbrature/">App timbrature e ore</a></li>
+        <li><a href="/software-fatturazione-elettronica/">Fatturazione elettronica</a></li>
+      
+        <li><a href="../../software-per-pmi/">Software per PMI</a></li>
+        <li><a href="../../digitalizzazione-aziendale/">Digitalizzazione aziendale</a></li>
+      
+        <li><a href="/software-mes-produzione/">Software MES per la produzione</a></li>
+        <li><a href="/software-preventivi-configuratore/">Software preventivi e configuratore</a></li>
+        <li><a href="/gestione-documentale-aziendale/">Gestione documentale aziendale</a></li>
+      
+        <li><a href="/app-magazzino-codici-a-barre/">App magazzino e codici a barre</a></li>
+        <li><a href="/app-per-agenti-di-commercio/">App per agenti di commercio</a></li>
+        <li><a href="/app-rapportini-di-lavoro/">App rapportini di lavoro</a></li>
+        <li><a href="/app-per-personal-trainer/">App per personal trainer</a></li>
+        <li><a href="/gestionale-palestra/">Gestionale palestra</a></li>
+        <li><a href="/app-prenotazioni/">App prenotazioni</a></li>
+        <li><a href="/app-fidelizzazione-clienti/">App fidelizzazione clienti</a></li>
+        <li><a href="/sviluppo-web-app/">Sviluppo web app</a></li>
+        <li><a href="/sviluppo-app-aziendali-veneto/">App aziendali in Veneto</a></li>
+      </ul></div>
+      <div><h5>Web</h5><ul>
+        <li><a href="/sito-vetrina/">Sito vetrina</a></li>
+        <li><a href="/realizzazione-siti-internet/">Realizzazione siti internet</a></li>
+        <li><a href="/sito-web-aziendale/">Sito web aziendale</a></li>
+        <li><a href="/realizzazione-ecommerce/">Realizzazione e-commerce</a></li>
+        <li><a href="/ecommerce-collegato-al-gestionale/">E-commerce collegato al gestionale</a></li>
+        <li><a href="/ecommerce-b2b/">E-commerce B2B</a></li>
+        <li><a href="/consulente-seo/">Consulente SEO</a></li>
+        <li><a href="/seo-per-ecommerce/">SEO per e-commerce</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="/posizionamento-sito-google/">Posizionamento su Google</a></li>
+        <li><a href="/consulente-seo-treviso/">Consulente SEO a Treviso</a></li>
+        <li><a href="/lead-generation-b2b/">Lead generation B2B</a></li>
+      
+        <li><a href="/migrazione-ecommerce/">Migrazione e-commerce</a></li>
+        <li><a href="/restyling-sito-web/">Restyling sito web</a></li>
+        <li><a href="/web-agency-conegliano/">Web agency Conegliano</a></li>
+        <li><a href="/web-agency-oderzo-motta-di-livenza/">Web agency Oderzo e Motta</a></li>
+        <li><a href="/aprire-un-negozio-online/">Aprire un negozio online</a></li>
+        <li><a href="/quanto-costa-un-ecommerce/">Quanto costa un e-commerce</a></li>
+        <li><a href="/quanto-costa-una-app/">Quanto costa un'app</a></li>
+      
+        <li><a href="/agenzia-seo-milano/">Agenzia SEO a Milano</a></li>
+        <li><a href="/agenzia-link-building/">Agenzia di link building</a></li>
+      
+        <li><a href="/seo-locale/">SEO locale e Google Maps</a></li>
+        <li><a href="/marketing-per-pmi/">Web marketing per PMI</a></li>
+        <li><a href="/whatsapp-aziendale/">WhatsApp aziendale</a></li></ul></div>
+      <div><h5>Settori</h5><ul>
+        <li><a href="/software-gestionale-edilizia/">Edilizia e cantieri</a></li>
+        <li><a href="/software-contabilita-cantiere/">Contabilità di cantiere</a></li>
+        <li><a href="/software-gestionale-impiantisti/">Impianti e manutenzioni</a></li>
+        <li><a href="/software-gestionale-metalmeccanica/">Metalmeccanica</a></li>
+        <li><a href="/software-gestionale-agroalimentare/">Agroalimentare</a></li>
+        <li><a href="/software-gestionale-noleggio/">Noleggio</a></li>
+        <li><a href="/software-gestionale-studi-professionali/">Studi professionali</a></li>
+        <li><a href="/software-gestionale-commesse/">Gestione commesse</a></li>
+        <li><a href="/gestionale-officina-meccanica/">Officine meccaniche</a></li>
+        <li><a href="/software-controllo-di-gestione/">Controllo di gestione</a></li>
+      
+        <li><a href="/gestionale-ristorante/">Gestionale per ristoranti</a></li>
+        <li><a href="/gestionale-hotel/">Gestionale per hotel</a></li>
+        <li><a href="/gestionale-negozio/">Gestionale per negozi</a></li>
+        <li><a href="/gestionale-parrucchieri-centri-estetici/">Gestionale per parrucchieri e centri estetici</a></li>
+        <li><a href="/gestionale-studio-dentistico/">Gestionale per studi dentistici</a></li>
+        <li><a href="/gestionale-agenzia-immobiliare/">Gestionale per agenzie immobiliari</a></li>
+        <li><a href="/gestionale-autonoleggio/">Gestionale per autonoleggio</a></li></ul></div>
+      <div><h5>Fiere</h5><ul>
+        <li><a href="/servizi/allestimenti-fieristici/">Allestimenti fieristici</a></li>
+        <li><a href="/calendario-fiere/">Calendario fiere 2026–2027</a></li>
+        <li><a href="/progetti-stand-fieristici/">Progetti di stand</a></li>
+        <li><a href="/espositori-desk-totem-per-fiere/">Espositori, desk e totem</a></li>
+        <li><a href="/montaggio-stand-fieristici/">Montaggio stand</a></li>
+        <li><a href="/stand-fieristici-su-misura/">Stand su misura</a></li>
+        <li><a href="/stand-modulari/">Stand modulari</a></li>
+        <li><a href="/noleggio-stand-fieristici/">Noleggio stand</a></li>
+        <li><a href="/quanto-costa-uno-stand-fieristico/">Quanto costa uno stand</a></li>
+        <li><a href="/stand-fieristici-per-metratura/">Stand per metratura</a></li>
+        <li><a href="/guide/regolamento-tecnico-fiera/">Regolamento tecnico fiera</a></li>
+        <li><a href="/allestimenti-eventi-showroom-negozi/">Eventi, showroom, negozi</a></li>
+        <li><a href="/allestimenti-fieristici-estero/">Fiere all'estero</a></li>
+        <li><a href="/allestimenti-fieristici-verona/">Stand a Verona</a></li>
+        <li><a href="/allestimenti-fieristici-milano/">Stand a Milano</a></li>
+        <li><a href="/allestimenti-fieristici-bologna/">Stand a Bologna</a></li>
+        <li><a href="/allestimenti-fieristici-padova/">Stand a Padova</a></li>
+        <li><a href="/allestimenti-fieristici-vicenza/">Stand a Vicenza</a></li>
+        <li><a href="/allestimenti-fieristici-pordenone/">Stand a Pordenone</a></li>
+        <li><a href="/allestimenti-fieristici-rimini/">Stand a Rimini</a></li>
+        <li><a href="/allestimenti-fieristici-parma/">Stand a Parma</a></li>
+      </ul></div>
+      <div><h5>Agenzia</h5><ul>
+        <li><a href="/prezzi/">Prezzi</a></li>
+        <li><a href="../../#settori">Per chi lavoriamo</a></li>
+        <li><a href="/lavori/">Lavori realizzati</a></li>
+        <li><a href="../../#processo">Il nostro metodo</a></li>
+        <li><a href="../../chi-siamo/">Chi siamo</a></li>
+        <li><a href="../../servizi/">Tutti i servizi</a></li>
+        <li><a href="#dt-scrivi">Contatti</a></li>
+      
+        <li><a href="../../glossario/">Glossario</a></li>
+      </ul></div>
+      <div><h5>Contatti</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="https://www.instagram.com/danova_techh/" target="_blank" rel="noopener me">Instagram @danova_techh</a></li>
+        <li><a href="https://www.tiktok.com/@danova.tech" target="_blank" rel="noopener me">TikTok @danova.tech</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=61594907955699" target="_blank" rel="noopener me">Facebook Danova Tech</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+        <li>Magazzini: Fontanelle (TV) · Trumello (PV)<br>Uffici: Trumello (PV) · Vermezzo con Zelo (MI)</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/privacy/">Privacy Policy</a><i>·</i><a href="/cookie-policy/">Cookie Policy</a><i>·</i><a href="/termini/">Termini e condizioni d’uso</a><i>·</i><a href="/contatti/">Contatti</a><i>·</i><a href="/">Torna alla home</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Top">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+<script src="../../assets/js/contatto.js?v=20261015" defer></script>
+</body></html>

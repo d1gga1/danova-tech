@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" class="no-js"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.remove("no-js")</script>
+<title>Individuelle App-Entwicklung für jede Branche: Demo in 72 h</title>
+<meta name="description" content="Individuelle Apps für jedes Unternehmen: Buchungen, Bestellungen, Kundenbindung, Baustellen, Lager, Außendienst. iOS, Android und Web, funktionierende Demo in 48–72 Stunden.">
+<link rel="canonical" href="https://danova-tech.com/de/individuelle-app-entwicklung/">
+<link rel="alternate" hreflang="it" href="https://danova-tech.com/app-su-misura-per-ogni-attivita/">
+<link rel="alternate" hreflang="en" href="https://danova-tech.com/en/custom-apps-for-every-business/">
+<link rel="alternate" hreflang="de" href="https://danova-tech.com/de/individuelle-app-entwicklung/">
+<link rel="alternate" hreflang="fr" href="https://danova-tech.com/fr/application-sur-mesure/">
+<link rel="alternate" hreflang="es" href="https://danova-tech.com/es/aplicaciones-a-medida/">
+<link rel="alternate" hreflang="x-default" href="https://danova-tech.com/app-su-misura-per-ogni-attivita/">
+<script>/* ANTEPRIMA LOCALE: attivo solo aprendo i file col doppio clic (file://). Nessun effetto sul sito pubblicato. */
+(function(){if(location.protocol!=='file:')return;
+var c=document.querySelector('link[rel="canonical"]');
+var p=c?c.getAttribute('href').replace(/^https?:\/\/[^/]+/,''):'/';
+var n=p.split('/').filter(Boolean).length,UP=new Array(n+1).join('../');
+document.addEventListener('click',function(e){
+if(e.defaultPrevented||e.button||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey)return;
+var a=e.target&&e.target.closest?e.target.closest('a[href]'):null;if(!a)return;
+if(a.target&&a.target!=='_self')return;
+var h=a.getAttribute('href');if(!h||/^(#|[a-z][a-z0-9+.-]*:)/i.test(h))return;
+var u;try{u=new URL(h.charAt(0)==='/'?UP+h.slice(1):h,location.href).href;}catch(err){return;}
+var s=u.split('#'),b=s[0],hs=s[1]?'#'+s[1]:'';
+if(/\/$/.test(b))b+='index.html';
+e.preventDefault();location.href=b+hs;},true);})();</script>
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="author" content="Danova Tech">
+<meta name="theme-color" content="#04060c">
+<meta name="color-scheme" content="dark">
+
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Danova Tech">
+<meta property="og:url" content="https://danova-tech.com/de/individuelle-app-entwicklung/">
+<meta property="og:locale" content="de_DE">
+<meta property="og:title" content="Individuelle App-Entwicklung — Danova Tech">
+<meta property="og:description" content="Apps für iOS, Android und Web, gebaut auf Ihre Abläufe. Demo in 48–72 Stunden.">
+<meta property="og:image" content="https://danova-tech.com/assets/img/mockup/og/de-webagentur-muenchen.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Website-Mockup für eine Schreinerei in München: Startseite mit Terminanfrage, Leistungen und Mobilversion">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Individuelle App-Entwicklung — Danova Tech">
+<meta name="twitter:description" content="Apps für iOS, Android und Web, gebaut auf Ihre Abläufe. Demo in 48–72 Stunden.">
+<meta name="twitter:image" content="https://danova-tech.com/assets/img/mockup/og/de-webagentur-muenchen.jpg">
+
+<link rel="icon" type="image/png" href="../../assets/img/logo.png">
+<link rel="apple-touch-icon" href="../../assets/img/logo.png">
+<link rel="manifest" href="../../site.webmanifest">
+<link rel="alternate" type="application/rss+xml" title="Danova Tech — guide e lavori" href="/feed.xml">
+<link rel="preload" as="font" type="font/woff2" href="../../assets/fonts/sora-latin.woff2" crossorigin>
+<link rel="preload" as="font" type="font/woff2" href="../../assets/fonts/inter-latin.woff2" crossorigin>
+<style id="fonts-inline">@font-face{font-family:'Sora';font-style:normal;font-weight:100 800;font-display:swap;src:url(../../assets/fonts/sora-latin.woff2) format('woff2-variations');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Sora';font-style:normal;font-weight:100 800;font-display:swap;src:url(../../assets/fonts/sora-latin-ext.woff2) format('woff2-variations');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:swap;src:url(../../assets/fonts/inter-latin.woff2) format('woff2-variations');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Inter';font-style:normal;font-weight:100 900;font-display:swap;src:url(../../assets/fonts/inter-latin-ext.woff2) format('woff2-variations');unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF}@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:400;font-display:swap;src:url(../../assets/fonts/jetbrains-mono-400.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'JetBrains Mono';font-style:normal;font-weight:500;font-display:swap;src:url(../../assets/fonts/jetbrains-mono-500.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}</style>
+<link rel="stylesheet" href="../../assets/css/site.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": [
+        "Organization",
+        "ProfessionalService",
+        "LocalBusiness"
+      ],
+      "@id": "https://danova-tech.com/#organization",
+      "name": "Danova Tech",
+      "description": "Italienische Tech-Agentur, die Websites, Onlineshops, SEO-Strategien, Meta-Ads-Kampagnen, Anwendungen, Warenwirtschaft und Individualsoftware entwickelt sowie Messestände in Italien und im Ausland plant und baut. Außerdem produziert sie Werbevideos mit KI und Motion Design sowie Websites in 24 Stunden.",
+      "url": "https://danova-tech.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://danova-tech.com/#logo",
+        "url": "https://danova-tech.com/assets/img/logo.png",
+        "width": 160,
+        "height": 160,
+        "caption": "Danova Tech",
+        "license": "https://danova-tech.com/en/terms/#intellectual-property",
+        "acquireLicensePage": "https://danova-tech.com/en/contact/",
+        "creditText": "Danova Tech",
+        "copyrightNotice": "© Danova Tech",
+        "creator": {
+          "@type": "Organization",
+          "name": "Danova Tech",
+          "url": "https://danova-tech.com/"
+        }
+      },
+      "image": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "email": "info@danova-tech.com",
+      "telephone": "+39 388 470 6887",
+      "vatID": "IT05369890263",
+      "priceRange": "€€",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Via Rigole 48",
+        "addressLocality": "Mansuè",
+        "addressRegion": "TV",
+        "postalCode": "31040",
+        "addressCountry": "IT"
+      },
+      "location": [
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Sede di Mansuè",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Via Rigole 48",
+            "addressLocality": "Mansuè",
+            "addressRegion": "TV",
+            "postalCode": "31040",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Magazzino di Fontanelle",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Fontanelle",
+            "addressRegion": "TV",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Magazzino e uffici di Trumello",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Trumello",
+            "addressRegion": "PV",
+            "addressCountry": "IT"
+          }
+        },
+        {
+          "@type": "Place",
+          "name": "Danova Tech — Uffici di Vermezzo con Zelo",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Vermezzo con Zelo",
+            "addressRegion": "MI",
+            "addressCountry": "IT"
+          }
+        }
+      ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 45.8416361,
+        "longitude": 12.5249856
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "18:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.google.com/search?kgmid=/g/11zf9k_btv",
+        "https://www.instagram.com/danova_techh/",
+        "https://www.tiktok.com/@danova.tech",
+        "https://www.facebook.com/profile.php?id=61594907955699",
+        "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8"
+      ],
+      "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8",
+      "knowsAbout": [
+        "Video pubblicitari",
+        "Motion design",
+        "Video con intelligenza artificiale",
+        "Promotional video production",
+        "Sito web in 24 ore"
+      ]
+    },
+    {
+      "@type": "Service",
+      "@id": "https://danova-tech.com/de/individuelle-app-entwicklung/#service",
+      "name": "Individuelle App-Entwicklung",
+      "serviceType": "App-Entwicklung",
+      "description": "Individuelle Apps für jedes Unternehmen auf iOS, Android und Web, mit funktionierender Demo in 48–72 Stunden. Web-Apps ab 50 € im Monat oder 750 € einmalig.",
+      "provider": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "areaServed": [
+        {
+          "@type": "Place",
+          "name": "Europa"
+        },
+        {
+          "@type": "Country",
+          "name": "Italia"
+        }
+      ],
+      "availableLanguage": [
+        "Italian",
+        "English",
+        "German",
+        "French",
+        "Spanish"
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Individuelle App-Entwicklung",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Buchungs-Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Kundenbindungs-Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Service-Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Lager-Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Außendienst-Apps"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Web-Apps und PWA"
+            }
+          }
+        ]
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "750.00",
+        "priceCurrency": "EUR",
+        "availability": "https://schema.org/InStock",
+        "url": "https://danova-tech.com/de/individuelle-app-entwicklung/",
+        "description": "Individuelle Web-App, Einstiegspreis einmalig inkl. MwSt. (oder ab 50 € im Monat)",
+        "seller": {
+          "@id": "https://danova-tech.com/#organization"
+        }
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://danova-tech.com/de/individuelle-app-entwicklung/#webpage",
+      "url": "https://danova-tech.com/de/individuelle-app-entwicklung/",
+      "name": "Individuelle App-Entwicklung für jede Branche: Demo in 72 h",
+      "description": "Individuelle Apps für jedes Unternehmen: Buchungen, Bestellungen, Kundenbindung, Baustellen, Lager, Außendienst. iOS, Android und Web, funktionierende Demo in 48–72 Stunden.",
+      "inLanguage": "de-DE",
+      "isPartOf": {
+        "@id": "https://danova-tech.com/#website"
+      },
+      "about": {
+        "@id": "https://danova-tech.com/de/individuelle-app-entwicklung/#service"
+      },
+      "publisher": {
+        "@id": "https://danova-tech.com/#organization"
+      },
+      "primaryImageOfPage": {
+        "@id": "https://danova-tech.com/#logo"
+      },
+      "breadcrumb": {
+        "@id": "https://danova-tech.com/de/individuelle-app-entwicklung/#breadcrumb"
+      },
+      "datePublished": "2026-10-23",
+      "dateModified": "2026-10-23",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".pg-hero h1",
+          ".pg-breve p"
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://danova-tech.com/de/individuelle-app-entwicklung/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://danova-tech.com/de/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Leistungen",
+          "item": "https://danova-tech.com/de/leistungen/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Individuelle Apps",
+          "item": "https://danova-tech.com/de/leistungen/individuelle-apps/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Apps für jede Branche",
+          "item": "https://danova-tech.com/de/individuelle-app-entwicklung/"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://danova-tech.com/de/individuelle-app-entwicklung/#faq",
+      "inLanguage": "de-DE",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Was kostet eine individuelle App?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Web-Apps ab 50 € im Monat oder ab 750 € einmalig; komplexere Apps mit iOS, Android und Schnittstellen zum Festpreis nach kostenloser Analyse."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wann sehe ich etwas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Eine funktionierende Demo in 48–72 Stunden nach dem ersten Gespräch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "App Store oder Web-App?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Für interne Nutzung reicht oft eine installierbare Web-App, schneller und günstiger. Store-Apps lohnen sich bei Push-Funktionen, Gerätefunktionen oder Store-Präsenz."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Arbeiten Sie für Kunden in Deutschland, Österreich und der Schweiz?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ja, remote und auf Deutsch."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Wer betreut die App danach?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Wir, mit Wartungsvertrag: Updates, Backups, Fehlerbehebung und neue Funktionen."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+<style id="pg2310">.pg-breve{border:1px solid rgba(77,139,255,.35);background:rgba(30,107,255,.07);border-radius:18px;padding:24px 26px;margin-top:8px}.pg-breve p{margin:0 0 14px;font-size:1.06rem;line-height:1.6}.pg-breve dl{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px 22px;margin:0}.pg-breve dt{font-family:"JetBrains Mono",monospace;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;opacity:.7}.pg-breve dd{margin:3px 0 0;font-weight:600}.vd-grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));margin-top:8px}.vd-card{margin:0;border:1px solid rgba(255,255,255,.09);border-radius:18px;overflow:hidden;background:rgba(255,255,255,.03);display:flex;flex-direction:column}.vd-card video{display:block;width:100%;height:auto;aspect-ratio:9/16;background:#04060c;object-fit:cover}.vd-card figcaption{padding:14px 16px 16px;display:flex;flex-direction:column;gap:6px;font-size:.9rem;line-height:1.45}.vd-card figcaption b{font-size:.98rem}.vd-card .vd-tag{font-family:"JetBrains Mono",monospace;font-size:.68rem;letter-spacing:.08em;text-transform:uppercase;opacity:.7}.vd-social{display:flex;gap:8px;flex-wrap:wrap;margin-top:4px}.vd-social a{font-size:.78rem;padding:5px 10px;border-radius:99px;border:1px solid rgba(77,139,255,.45);text-decoration:none}.vd-social a:hover{background:rgba(30,107,255,.18)}.vd-nota{margin-top:18px;opacity:.85}.pg-link{display:grid;gap:14px;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));margin-top:8px}.pg-link a{display:block;padding:16px 18px;border:1px solid rgba(255,255,255,.09);border-radius:14px;text-decoration:none;background:rgba(255,255,255,.03)}.pg-link a:hover{border-color:rgba(77,139,255,.6)}.pg-link b{display:block;margin-bottom:4px}.pg-link span{font-size:.88rem;opacity:.8;line-height:1.45}.vd-grid.uno{grid-template-columns:minmax(0,400px)}.vd-card figcaption b a{color:inherit;text-decoration:none}.vd-card figcaption b a:hover{text-decoration:underline}.pg-link-g{margin-top:26px}.pg-link-g h3{margin:0 0 10px;font-size:1.05rem}@media(max-width:640px){.vd-grid{grid-template-columns:1fr 1fr;gap:12px}.vd-card figcaption{padding:10px 11px 12px;font-size:.8rem}.vd-grid.uno{grid-template-columns:1fr}.vd-card figcaption>span:not(.vd-tag):not(.vd-social){display:none}.vd-card figcaption b{font-size:.86rem}.vd-social a{font-size:.7rem;padding:4px 8px}.pg-breve{padding:18px}}</style></head><body>
+
+<div class="grain"></div>
+<div class="scanlines"></div>
+<div class="vignette"></div>
+<div class="aurora"><i class="blob b1"></i><i class="blob b2"></i><i class="blob b3"></i></div>
+<div id="prog"></div>
+<div class="cur"></div><div class="cur-r"></div>
+<a href="#main" class="skip">Zum Inhalt</a>
+
+<header id="hdr">
+  <div class="bar">
+    <a href="../" class="brand" data-mag><img width="160" height="160" src="../../assets/img/logo.png" alt="Logo Danova Tech" fetchpriority="high" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></a>
+    <nav class="links" aria-label="Menü">
+      <a href="../#servizi">Leistungen</a>
+      <a href="../#settori">Für wen</a>
+      <a href="../#lavori">Referenzen</a>
+      <a href="../#processo">Ablauf</a>
+      <a href="/de/preise/" class="nav-prezzi">Preise</a>
+      <a href="#dt-scrivi">Kontakt</a>
+    </nav>
+    <div class="nav-r">
+      <a href="#dt-scrivi" class="btn btn-p" data-mag><span class="lbl">Sprechen wir</span></a>
+      <button type="button" class="burger" id="burger" aria-label="Menü" aria-controls="mob" aria-expanded="false"><i></i><i></i><i></i></button>
+    </div>
+  </div>
+</header>
+
+<nav id="mob" aria-label="Menü">
+  <a href="../#servizi">Leistungen</a>
+  <a href="../#settori">Für wen</a>
+  <a href="../#lavori">Referenzen</a>
+  <a href="../#processo">Ablauf</a>
+  <a href="/de/preise/" class="nav-prezzi">Preise</a>
+  <a href="#dt-scrivi">Kontakt</a>
+</nav>
+
+<main id="main">
+
+<div class="wrap pg-crumbs">
+  <a href="/de/">Home</a><em>/</em><a href="/de/leistungen/">Leistungen</a><em>/</em><a href="/de/leistungen/individuelle-apps/">Individuelle Apps</a><em>/</em>Apps für jede Branche
+</div>
+
+<section class="pg-hero">
+  <div class="wrap">
+    <div class="eyebrow mono" data-scramble>Individuelle Apps · Jede Branche</div>
+    <h1 data-rv="up">Individuelle App-Entwicklung: <span class="grad">Ihre App, nicht eine für alle.</span></h1>
+    <p class="lead" data-rv="up">Restaurant, Bauunternehmen, Fitnessstudio, Praxis, Handel oder Produktion: Wir bauen die App um Ihre Abläufe herum, für Kunden oder Mitarbeiter. iPhone, Android und Browser, verbunden mit Ihrer bestehenden Software. Eine funktionierende Demo sehen Sie in 48–72 Stunden.</p>
+    <div class="hero-cta" data-rv="up">
+      <a href="#dt-scrivi" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Idee schildern</span>
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></a>
+      <a href="#in-brief" class="btn btn-g" data-mag><span class="lbl">Apps nach Branche</span></a>
+    </div>
+  </div>
+</section>
+
+<section id="in-brief">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Kurz gesagt</div>
+      <h2 class="title" data-rv="up">Individuelle Apps <span class="grad">auf einen Blick</span></h2>
+    </div>
+    <div class="pg-breve" data-rv="up">
+      <p>Danova Tech entwickelt <b>individuelle Apps für jede Art von Unternehmen</b>, für Kunden (Buchungen, Bestellungen, Kundenbindung) oder intern (Baustellen, Lager, Zeiterfassung, Rapporte, Außendienst). Die Apps laufen auf <b>iPhone, Android und im Browser</b>, verbinden sich mit bestehenden Systemen und starten mit einer <b>funktionierenden Demo in 48–72 Stunden</b>. Web-Apps ab 50 € im Monat oder ab 750 € einmalig.</p>
+      <dl>
+        <div><dt>Demo</dt><dd>In 48–72 Stunden</dd></div>
+        <div><dt>Plattformen</dt><dd>iOS, Android, Web (PWA)</dd></div>
+        <div><dt>Preis</dt><dd>Ab 50 €/Monat oder 750 €</dd></div>
+        <div><dt>Code und Daten</dt><dd>Gehören Ihnen</dd></div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section id="sectors">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Nach Branche</div>
+      <h2 class="title" data-rv="up">Apps, die wir <span class="grad">regelmäßig bauen</span></h2>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Buchungen</h3>
+        <p>Termine, Tische, Kurse rund um die Uhr, mit Erinnerungen.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Kundenbindung</h3>
+        <p>Digitale Karte, Punkte, Prämien und Push-Nachrichten.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Service und Wartung</h3>
+        <p>Einsätze, Techniker, Ersatzteile und Abschluss vor Ort.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Baustellen</h3>
+        <p>Fotos, Anwesenheit, Material und Fortschritt per Smartphone.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">05</span>
+        <h3>Lager</h3>
+        <p>Ein- und Ausgänge und Inventur mit der Handykamera als Scanner.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">06</span>
+        <h3>Außendienst</h3>
+        <p>Katalog, Aufträge und Kunden, auch offline.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">07</span>
+        <h3>Fitness</h3>
+        <p>Mitgliedschaften, Kurse, Check-ins und Mitglieder-App.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">08</span>
+        <h3>B2B-Portale</h3>
+        <p>Bestellungen, Preislisten und Dokumente für Händler.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="how">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Ablauf</div>
+      <h2 class="title" data-rv="up">Von der Idee <span class="grad">in den App Store</span></h2>
+    </div>
+    <ol class="pg-passi" data-rv="up">
+      <li><b>Gespräch, 30 Minuten</b><span>Sie erklären Unternehmen und Problem, ohne technische Unterlagen.</span></li>
+      <li><b>Demo in 48–72 Stunden</b><span>Eine funktionierende Demo auf Ihrem Smartphone.</span></li>
+      <li><b>Erste Version im Einsatz</b><span>Kurze Entwicklungsphasen, beginnend mit den größten Zeitersparnissen.</span></li>
+      <li><b>Veröffentlichung und Support</b><span>App Store, Google Play oder Web; Updates und neue Funktionen per Wartungsvertrag.</span></li>
+    </ol>
+  </div>
+</section>
+
+<section id="why">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>Warum individuell</div>
+      <h2 class="title" data-rv="up">Der Unterschied <span class="grad">zur Standard-App</span></h2>
+    </div>
+    <div class="pg-cards">
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">01</span>
+        <h3>Macht, was Sie machen</h3>
+        <p>Keine unnötigen Funktionen, keine Umwege.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">02</span>
+        <h3>Verbindet alles</h3>
+        <p>Warenwirtschaft, Rechnungen, Shop, WhatsApp, Kalender.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">03</span>
+        <h3>Wächst mit</h3>
+        <p>Klein starten, Funktion für Funktion erweitern.</p>
+      </article>
+      <article class="pg-card" data-tilt data-rv="blur">
+        <span class="n">04</span>
+        <h3>Gehört Ihnen</h3>
+        <p>Code und Daten sind Eigentum Ihres Unternehmens.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow mono" data-scramble>FAQ</div>
+      <h2 class="title" data-rv="up">Fragen <span class="grad">zu individuellen Apps.</span></h2>
+    </div>
+    <div class="faq">
+      <details data-rv="up"><summary>Was kostet eine individuelle App?<span class="pm"></span></summary>
+        <div class="ans"><p>Web-Apps ab 50 € im Monat oder ab 750 € einmalig; komplexere Apps mit iOS, Android und Schnittstellen zum Festpreis nach kostenloser Analyse.</p></div></details>
+      <details data-rv="up"><summary>Wann sehe ich etwas?<span class="pm"></span></summary>
+        <div class="ans"><p>Eine funktionierende Demo in 48–72 Stunden nach dem ersten Gespräch.</p></div></details>
+      <details data-rv="up"><summary>App Store oder Web-App?<span class="pm"></span></summary>
+        <div class="ans"><p>Für interne Nutzung reicht oft eine installierbare Web-App, schneller und günstiger. Store-Apps lohnen sich bei Push-Funktionen, Gerätefunktionen oder Store-Präsenz.</p></div></details>
+      <details data-rv="up"><summary>Arbeiten Sie für Kunden in Deutschland, Österreich und der Schweiz?<span class="pm"></span></summary>
+        <div class="ans"><p>Ja, remote und auf Deutsch.</p></div></details>
+      <details data-rv="up"><summary>Wer betreut die App danach?<span class="pm"></span></summary>
+        <div class="ans"><p>Wir, mit Wartungsvertrag: Updates, Backups, Fehlerbehebung und neue Funktionen.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<section class="pg-cta">
+  <div class="wrap">
+    <div class="box" data-rv="up">
+      <h2 class="title">Welche App würde Ihnen helfen?</h2>
+      <p>Beschreiben Sie in zwei Sätzen, was sie können soll: 48–72 Stunden nach dem Gespräch sehen Sie eine Demo.</p>
+      <form class="dt-lead" id="dt-scrivi" novalidate><div class="dt-lead-2"><div class="fld"><input type="text" name="nome" id="dtl-nome" placeholder=" " required autocomplete="name"><label for="dtl-nome">Name und Firma</label></div><div class="fld"><input type="email" name="email" id="dtl-email" placeholder=" " required autocomplete="email" inputmode="email"><label for="dtl-email">E-Mail</label></div></div><div class="fld"><input type="tel" name="tel" id="dtl-tel" placeholder=" " autocomplete="tel" inputmode="tel"><label for="dtl-tel">Telefon (optional)</label></div><div class="fld"><textarea name="msg" id="dtl-msg" placeholder=" " required></textarea><label for="dtl-msg">Was brauchen Sie?</label></div><input type="text" name="_honey" class="dt-hp" tabindex="-1" autocomplete="off" aria-hidden="true"><p class="dt-lead-msg" role="status"></p><button type="submit" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">Anfrage senden</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"></path></svg></button><p class="form-note">Wir antworten innerhalb von 24 Arbeitsstunden. Lieber telefonieren? Rufen Sie <a href="tel:+393884706887">+39 388 470 6887</a> an oder schreiben Sie uns per <a href="https://wa.me/393884706887" target="_blank" rel="noopener">WhatsApp</a>.</p></form>
+    </div>
+  </div>
+</section>
+
+<section id="altri">
+  <div class="wrap">
+    <div class="sec-head"><h2 class="title" data-rv="up">Verwandte Seiten</h2></div>
+    <div class="pg-altri" data-rv="up">
+      <a href="/de/leistungen/individuelle-apps/">Individuelle Apps</a>
+      <a href="/de/leistungen/warenwirtschaft-crm/">Warenwirtschaft und CRM</a>
+      <a href="/de/individualsoftware-deutschland/">Individualsoftware Deutschland</a>
+      <a href="/de/individualsoftware-oesterreich/">Individualsoftware Österreich</a>
+      <a href="/de/preise/">Preise</a>
+      <a href="/de/website-in-24-stunden/">Website in 24 Stunden</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div class="f-top">
+      <div class="fb">
+        <span class="brand"><img width="160" height="160" src="../../assets/img/logo.png" alt="Logo Danova Tech" loading="lazy" decoding="async"><span class="wordmark"><b>DANOVA</b><i>TECH</i></span></span>
+        <p>Tech-Agentur, die die digitale Präsenz von Unternehmen plant, entwickelt und wachsen lässt.</p>
+      </div>
+      <div><h5>Leistungen</h5><ul>
+          <li><a href="/de/website-in-24-stunden/">Website in 24 Stunden</a></li>
+          <li><a href="/de/werbevideos-erstellen-lassen/">Werbevideos</a></li>
+          <li><a href="/de/individuelle-app-entwicklung/">Individuelle App-Entwicklung</a></li>
+        <li><a href="../leistungen/websites-ecommerce/">Websites &amp; Onlineshops</a></li>
+        <li><a href="../leistungen/seo/">SEO &amp; Sichtbarkeit</a></li>
+        <li><a href="../leistungen/meta-ads/">Meta Ads &amp; Kampagnen</a></li>
+        <li><a href="../leistungen/google-ads/">Google Ads</a></li>
+        <li><a href="../leistungen/individuelle-apps/">Individuelle Apps</a></li>
+        <li><a href="../leistungen/warenwirtschaft-crm/">Warenwirtschaft &amp; CRM</a></li>
+        <li><a href="../leistungen/software-automatisierung/">Software &amp; Automatisierung</a></li>
+        <li><a href="../leistungen/">Alle Leistungen</a></li>
+      
+        <li><a href="/de/messebau-italien/">Messebau</a></li>
+      </ul></div>
+      <div><h5>Märkte</h5><ul>
+        <li><a href="/de/webagentur-deutschland/">Webagentur Deutschland</a></li>
+        <li><a href="/de/webagentur-oesterreich/">Webagentur Österreich</a></li>
+        <li><a href="/de/webagentur-schweiz/">Webagentur Schweiz</a></li>
+        <li><a href="/de/webagentur-berlin/">Webagentur Berlin</a></li>
+        <li><a href="/de/webagentur-muenchen/">Webagentur München</a></li>
+        <li><a href="/de/webagentur-hamburg/">Webagentur Hamburg</a></li>
+        <li><a href="/de/webagentur-frankfurt/">Webagentur Frankfurt</a></li>
+        <li><a href="/de/webagentur-wien/">Webagentur Wien</a></li>
+        <li><a href="/de/webagentur-graz/">Webagentur Graz</a></li>
+        <li><a href="/de/webagentur-zuerich/">Webagentur Zürich</a></li>
+        <li><a href="/de/webagentur-kaernten/">Webagentur Kärnten</a></li>
+        <li><a href="/de/webagentur-suedtirol/">Webagentur Südtirol</a></li>
+        <li><a href="/de/individualsoftware-deutschland/">Individualsoftware Deutschland</a></li>
+        <li><a href="/de/individualsoftware-oesterreich/">Individualsoftware Österreich</a></li>
+        <li><a href="/de/softwareentwicklung-schweiz/">Softwareentwicklung Schweiz</a></li>
+        <li><a href="/de/was-kostet-eine-website/">Was kostet eine Website</a></li>
+      
+        <li><a href="/de/seo-agentur-muenchen/">SEO-Agentur München</a></li>
+        <li><a href="/de/seo-agentur-berlin/">SEO-Agentur Berlin</a></li>
+        <li><a href="/de/seo-agentur-wien/">SEO-Agentur Wien</a></li>
+      </ul></div>
+      <div><h5>Agentur</h5><ul>
+        <li><a href="/de/preise/">Preise</a></li>
+        <li><a href="../#settori">Für wen wir arbeiten</a></li>
+        <li><a href="../#lavori">Beispielprojekte</a></li>
+        <li><a href="../#processo">Unsere Methode</a></li>
+        <li><a href="../ueber-uns/">Über uns</a></li>
+        <li><a href="../#faq">FAQ</a></li>
+        <li><a href="#dt-scrivi">Kontakt</a></li>
+      </ul></div>
+      <div><h5>Kontakt</h5><ul>
+        <li><a href="mailto:info@danova-tech.com">info@danova-tech.com</a></li>
+        <li><a href="https://www.instagram.com/danova_techh/" target="_blank" rel="noopener me">Instagram @danova_techh</a></li>
+        <li><a href="https://www.tiktok.com/@danova.tech" target="_blank" rel="noopener me">TikTok @danova.tech</a></li>
+        <li><a href="https://www.facebook.com/profile.php?id=61594907955699" target="_blank" rel="noopener me">Facebook Danova Tech</a></li>
+        <li><a href="tel:+393884706887">+39 388 470 6887</a></li>
+        <li>Via Rigole 48<br>31040 Mansuè (TV) — Italia</li>
+        <li>Lager: Fontanelle (TV) · Trumello (PV)<br>Büros: Trumello (PV) · Vermezzo con Zelo (MI)</li>
+      </ul></div>
+    </div>
+    <div class="f-bot">
+      <span>© <span id="yy">2026</span> Danova Tech — P.IVA 05369890263</span>
+      <span class="f-legal"><a href="/de/datenschutz/">Datenschutzerklärung</a><i>·</i><a href="/de/cookie-richtlinie/">Cookie-Richtlinie</a><i>·</i><a href="/de/agb/">Allgemeine Nutzungsbedingungen</a><i>·</i><a href="/de/kontakt/">Kontakt</a><i>·</i><a href="/de/">Zurück zur Startseite</a></span></div>
+  </div>
+  <div class="giant">DANOVA</div>
+</footer>
+
+<button id="top" aria-label="Nach oben">
+  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
+</button>
+
+<script src="../../assets/js/pagina.js" defer></script>
+<!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "c7323fcb75c7483eb25a253b9f792fb9"}'></script>
+<!-- End Cloudflare Web Analytics -->
+<script src="../../assets/js/contatto.js?v=20261015" defer></script>
+</body></html>

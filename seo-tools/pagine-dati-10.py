@@ -10,9 +10,9 @@ GEST = ("Gestionali e CRM", "/servizi/gestionali-crm/")
 AUT = ("Software e automazioni", "/servizi/software-automazioni/")
 SEO = ("SEO e Google", "/consulente-seo/")
 def svc(name, typ, desc, cat, area=IT): return {"name": name, "type": typ, "desc": desc, "area": area, "lingue": LG, "catalogo": cat}
-CTA_G = {"h2": "Ci raccontate come lavora lo studio?", "p": "Mezz'ora in videochiamata: capiamo dove perdete tempo e in meno di 24 ore vi mostriamo una demo funzionante.", "btn": "Prenota la chiamata"}
-CTA_AI = {"h2": "Da dove partiamo con l'AI?", "p": "Mezz'ora per capire quali attività ripetitive si possono automatizzare: in meno di 24 ore vi mostriamo un prototipo sul vostro caso.", "btn": "Prenota la chiamata"}
-FAQ_T = [("Quanto tempo serve?","Una demo funzionante arriva in meno di 24 ore e la prima versione in 1-2 settimane; poi si cresce a fasi, un modulo alla volta."),
+CTA_G = {"h2": "Ci raccontate come lavora lo studio?", "p": "Mezz'ora in videochiamata: capiamo dove perdete tempo e in 48-72 ore vi mostriamo una demo funzionante.", "btn": "Prenota la chiamata"}
+CTA_AI = {"h2": "Da dove partiamo con l'AI?", "p": "Mezz'ora per capire quali attività ripetitive si possono automatizzare: in 48-72 ore vi mostriamo un prototipo sul vostro caso.", "btn": "Prenota la chiamata"}
+FAQ_T = [("Quanto tempo serve?","Una demo funzionante arriva in 48-72 ore e la prima versione in 1-2 settimane; poi si cresce a fasi, un modulo alla volta."),
  ("Chi ci segue dopo la consegna?","Noi, con un contratto di assistenza e manutenzione: aggiornamenti, backup, correzioni e nuove funzioni, con un referente unico.")]
 PAGINE = []
 
@@ -53,7 +53,7 @@ PAGINE.append({
 PAGINE.append({
  "lang":"it","url":"/gestionale-studio-legale/",
  "title":"Gestionale per studi legali e avvocati su misura",
- "desc":"Gestionale per studio legale su misura: pratiche, scadenze, udienze, ore, parcelle e documenti, da PC e telefono. Demo in 24 ore, prima versione in 1-2 settimane.",
+ "desc":"Gestionale per studio legale su misura: pratiche, scadenze, udienze, ore, parcelle e documenti, da PC e telefono. Demo in 48-72 ore, prima versione in 1-2 settimane.",
  "ogtitle":"Gestionale per studi legali — Danova Tech","ogdesc":"Pratiche, scadenze, ore e parcelle in un gestionale costruito sullo studio.",
  "crumbs":[GEST,("Gestionale per studi legali",None)],"eyebrow":"Studi legali",
  "h1":f"Gestionale per studi legali: {G}costruito su come lavora lo studio.{_G}",
@@ -71,7 +71,7 @@ PAGINE.append({
    "corpo":["Uno studio civilista, uno penalista e uno che segue il recupero crediti hanno flussi di lavoro molto diversi: i programmi standard costringono tutti allo stesso schema, e il resto finisce in fogli Excel e agende di carta.",
     "Un gestionale su misura parte dal punto che vi fa perdere più tempo, che siano le scadenze, le ore da fatturare o la ricerca dei documenti, e lo mette in uso in 1-2 settimane. Se vi interessa, aggiungiamo funzioni di <a href=\"/intelligenza-artificiale-per-avvocati/\">intelligenza artificiale per lo studio</a>, sempre sotto il vostro controllo."]},
   {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dalla prima chiamata {G}al gestionale in uso{_G}",
-   "corpo":[("Analisi","Come nasce una pratica, chi fa cosa, dove si perde tempo."),("Demo in 24 ore","Una demo funzionante sul vostro studio."),
+   "corpo":[("Analisi","Come nasce una pratica, chi fa cosa, dove si perde tempo."),("Demo in 48-72 ore","Una demo funzionante sul vostro studio."),
     ("Prima versione in 1-2 settimane","Con i vostri dati importati da Excel e dai programmi esistenti."),("Assistenza con contratto","Aggiornamenti, backup e nuove funzioni.")]}],
  "faqtitle":f"Le domande {G}degli studi legali.{_G}",
  "faq":FAQ_T+[("I dati dei clienti sono al sicuro?","Sì: accessi per ruolo, connessioni cifrate, backup automatici e server in Europa. Il trattamento dei dati è impostato secondo il GDPR insieme allo studio."),
@@ -132,7 +132,7 @@ PAGINE.append({
     ("Chatbot per clienti","Assistenti per sito e WhatsApp che rispondono con le vostre informazioni e passano la mano alle persone."),
     ("Regole e AI Act","Policy interna sull'uso dell'AI e verifica degli obblighi dell'AI Act europeo.")]},
   {"id":"approccio","tipo":"testo","eyebrow":"Il nostro approccio","h2":f"Prima un caso concreto, {G}poi il resto{_G}",
-   "corpo":["Non partiamo da un progetto enorme: scegliamo un'attività che vi costa ore ogni settimana, costruiamo un prototipo in meno di 24 ore e lo provate sui vostri dati. Se funziona, lo mettiamo in uso in 1-2 settimane; se non funziona, lo scoprite subito e senza aver speso molto.",
+   "corpo":["Non partiamo da un progetto enorme: scegliamo un'attività che vi costa ore ogni settimana, costruiamo un prototipo in 48-72 ore e lo provate sui vostri dati. Se funziona, lo mettiamo in uso in 1-2 settimane; se non funziona, lo scoprite subito e senza aver speso molto.",
     "Siamo anche una software house: oltre a consigliarvi, l'AI la costruiamo e la colleghiamo ai vostri gestionali, CRM ed e-commerce. E la seguiamo nel tempo con un contratto di assistenza."]},
   {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Quattro passi, {G}nessun salto nel buio{_G}",
    "corpo":[("Chiamata","Cosa fate, dove perdete tempo, cosa vi incuriosisce dell'AI."),("Prototipo in 24 ore","Sul caso che rende di più."),
@@ -150,7 +150,7 @@ PAGINE.append({
 PAGINE.append({
  "lang":"it","url":"/gestionale-studio-medico/",
  "title":"Gestionale per studi medici e poliambulatori",
- "desc":"Gestionale per studio medico su misura: agenda, pazienti, prestazioni, fatture e promemoria, con dati sanitari protetti. Demo in 24 ore.",
+ "desc":"Gestionale per studio medico su misura: agenda, pazienti, prestazioni, fatture e promemoria, con dati sanitari protetti. Demo in 48-72 ore.",
  "ogtitle":"Gestionale per studi medici — Danova Tech","ogdesc":"Agenda, pazienti e fatture in un gestionale costruito sullo studio.",
  "crumbs":[GEST,("Gestionale per studi medici",None)],"eyebrow":"Studi medici",
  "h1":f"Gestionale per studi medici: {G}agenda, pazienti e fatture in ordine.{_G}",
@@ -168,7 +168,7 @@ PAGINE.append({
    "corpo":["I dati sanitari sono i più delicati in assoluto: accessi per ruolo, connessioni cifrate, registro degli accessi, backup automatici e server in Europa. Il trattamento è impostato secondo il GDPR insieme al titolare dello studio.",
     "Il gestionale organizza agenda, pazienti e amministrazione; per gli adempimenti specifici, come l'invio delle spese sanitarie, ci colleghiamo dove possibile ai servizi e ai programmi che usate già, senza costringervi a cambiare tutto."]},
   {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dalla prima chiamata {G}al gestionale in uso{_G}",
-   "corpo":[("Analisi","Come arrivano i pazienti, come si organizza l'agenda, dove si perde tempo."),("Demo in 24 ore","Una demo funzionante sul vostro studio."),
+   "corpo":[("Analisi","Come arrivano i pazienti, come si organizza l'agenda, dove si perde tempo."),("Demo in 48-72 ore","Una demo funzionante sul vostro studio."),
     ("Prima versione in 1-2 settimane","Con i dati importati dai programmi attuali."),("Assistenza con contratto","Aggiornamenti, backup e nuove funzioni.")]}],
  "faqtitle":f"Le domande {G}degli studi medici.{_G}",
  "faq":FAQ_T+[("I pazienti possono prenotare online?","Sì, dal sito o con un link, con gli orari reali dell'agenda e la conferma automatica."),

@@ -11,10 +11,10 @@ GEST = ("Gestionali e CRM", "/servizi/gestionali-crm/")
 WEB = ("Siti web ed e-commerce", "/servizi/siti-web-ecommerce/")
 def area(c): return [{"@type":"City","name":c},{"@type":"AdministrativeArea","name":"Lombardia"},{"@type":"Country","name":"Italia"}]
 def svc(name, typ, desc, cat, c): return {"name": name, "type": typ, "desc": desc, "area": area(c), "lingue": LG, "catalogo": cat}
-CTA_G = {"h2": "Ci raccontate come lavorate oggi?", "p": "Mezz'ora, in videochiamata o di persona nei nostri uffici in Lombardia: capiamo dove perdete ore e entro 24 ore vi mostriamo una demo funzionante.", "btn": "Prenota la chiamata"}
+CTA_G = {"h2": "Ci raccontate come lavorate oggi?", "p": "Mezz'ora, in videochiamata o di persona nei nostri uffici in Lombardia: capiamo dove perdete ore e in 48-72 ore vi mostriamo una demo funzionante.", "btn": "Prenota la chiamata"}
 CTA_W = {"h2": "Vediamo il vostro sito?", "p": "Raccontateci cosa vendete e a chi: entro 24 ore vi mandiamo una demo della home page, poi il sito è online in 1-2 settimane.", "btn": "Chiedi la demo"}
 PAGINE = []
-STD_FAQ_G = [("Quanto tempo serve?","Una demo funzionante arriva in meno di 24 ore e la prima versione in 1-2 settimane. Poi il gestionale cresce a fasi, un modulo alla volta, senza fermare il lavoro."),
+STD_FAQ_G = [("Quanto tempo serve?","Una demo funzionante arriva in 48-72 ore e la prima versione in 1-2 settimane. Poi il gestionale cresce a fasi, un modulo alla volta, senza fermare il lavoro."),
  ("Possiamo recuperare i dati che abbiamo in Excel?","Sì: importiamo fogli Excel e archivi esistenti e colleghiamo il gestionale ai programmi che usate già, come fatturazione e contabilità."),
  ("Dopo la consegna chi ci segue?","Noi, con un contratto di assistenza e manutenzione: aggiornamenti, backup, correzioni e nuove funzioni quando servono, con un referente che conosce il vostro gestionale.")]
 STD_FAQ_W = [("In quanto tempo è online il sito?","Entro 24 ore vi mandiamo una demo della home page; il sito completo è online in 1-2 settimane, con testi, immagini e SEO di base."),
@@ -31,7 +31,7 @@ PAGINE.append({
  "crumbs":[GEST,("Gestionali su misura a Milano",None)],
  "eyebrow":"Milano e hinterland",
  "h1":f"Gestionali su misura a Milano: {G}dai nostri uffici di Vermezzo.{_G}",
- "lead":"Software gestionale, di magazzino e CRM costruiti sulle aziende di Milano e dell'hinterland. I nostri uffici sono a Vermezzo con Zelo, a sud-ovest della città: veniamo a vedere come lavorate, e in meno di 24 ore vi mostriamo una demo funzionante.",
+ "lead":"Software gestionale, di magazzino e CRM costruiti sulle aziende di Milano e dell'hinterland. I nostri uffici sono a Vermezzo con Zelo, a sud-ovest della città: veniamo a vedere come lavorate, e in 48-72 ore vi mostriamo una demo funzionante.",
  "cta1":"Raccontateci come lavorate","cta2":"Cosa costruiamo",
  "sezioni":[
   {"id":"cosa","tipo":"cards","eyebrow":"Cosa costruiamo","h2":f"I gestionali che chiedono {G}le aziende milanesi{_G}",
@@ -50,7 +50,7 @@ PAGINE.append({
     "Un gestionale su misura mette ordine partendo dal punto che vi rallenta di più: il magazzino che non torna, le commesse di cui non si conosce il margine, i commerciali che non aggiornano il CRM. Partiamo da lì, con una prima versione in 1-2 settimane, e aggiungiamo il resto solo quando serve."]},
   {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dalla prima chiamata {G}al gestionale in uso{_G}",
    "corpo":[("Incontro","In azienda o in videochiamata: dove si perde tempo, quali dati si copiano, cosa manca."),
-    ("Demo in 24 ore","Entro 24 ore vi mostriamo una demo funzionante sul vostro caso, non una presentazione."),
+    ("Demo in 48-72 ore","In 48-72 ore vi mostriamo una demo funzionante sul vostro caso, non una presentazione."),
     ("Prima versione in 1-2 settimane","Il primo modulo va in uso con i vostri dati, importati da Excel e dai programmi esistenti."),
     ("Assistenza con contratto","Aggiornamenti, backup e nuove funzioni con un referente che conosce il vostro gestionale.")]}],
  "faqtitle":f"Le domande {G}delle aziende milanesi.{_G}",
@@ -108,7 +108,7 @@ PAGINE.append({
  "crumbs":[GEST,("Gestionali su misura a Pavia",None)],
  "eyebrow":"Pavia · Lomellina · Oltrepò",
  "h1":f"Gestionali su misura a Pavia: {G}dalla nostra sede di Trumello.{_G}",
- "lead":"Software gestionale, di produzione e di magazzino per le aziende della provincia di Pavia, dalla Lomellina all'Oltrepò. Abbiamo produzione e uffici a Trumello, fra Garlasco e Mortara: siamo vicini, e in meno di 24 ore vi mostriamo una demo funzionante.",
+ "lead":"Software gestionale, di produzione e di magazzino per le aziende della provincia di Pavia, dalla Lomellina all'Oltrepò. Abbiamo produzione e uffici a Trumello, fra Garlasco e Mortara: siamo vicini, e in 48-72 ore vi mostriamo una demo funzionante.",
  "cta1":"Raccontateci come lavorate","cta2":"Cosa costruiamo",
  "sezioni":[
   {"id":"cosa","tipo":"cards","eyebrow":"Cosa costruiamo","h2":f"I gestionali per {G}le aziende pavesi{_G}",
@@ -126,7 +126,7 @@ PAGINE.append({
     "Un gestionale su misura parte dal punto che fa perdere più tempo, che sia la tracciabilità dei lotti, l'avanzamento della produzione o le commesse, e lo mette in uso in 1-2 settimane. Poi cresce un modulo alla volta, senza fermare il lavoro."]},
   {"id":"passi","tipo":"passi","eyebrow":"Come lavoriamo","h2":f"Dalla prima chiamata {G}al gestionale in uso{_G}",
    "corpo":[("Incontro in azienda","Da Trumello veniamo da voi: come lavorate, dove si perde tempo, cosa manca."),
-    ("Demo in 24 ore","Una demo funzionante sul vostro caso, entro il giorno dopo."),
+    ("Demo in 48-72 ore","Una demo funzionante sul vostro caso, in 48-72 ore."),
     ("Prima versione in 1-2 settimane","Il primo modulo in uso con i vostri dati, importati da Excel e dai programmi esistenti."),
     ("Assistenza con contratto","Aggiornamenti, backup e nuove funzioni, con un referente vicino.")]}],
  "faqtitle":f"Le domande {G}delle aziende pavesi.{_G}",

@@ -1,5 +1,55 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 23 ottobre 2026 — sito in 24 ore, video pubblicitari, app e gestionali per ogni settore
+
+Fatti confermati dal titolare (23/10): sito Essenziale 350 € online entro 24 ore dalla conferma, 7 giorni su 7,
+anche senza materiale; in ritardo = non si paga; dominio e hosting inclusi il 1° anno, rinnovo concordato nel contratto.
+Video pubblicitari (AI, motion design 3D, reel) pronti in 24 ore, prezzo solo a preventivo. App e gestionali:
+**demo in 48-72 ore** (non più "meno di 24 ore": allineate ~93 pagine e i file dati). Gestionale: nessun canone obbligatorio.
+
+### Pagine nuove (21)
+- IT: /sito-web-in-24-ore/, /video-pubblicitari/ (hub con 13 video), /video-prodotto-ecommerce-amazon/,
+  /video-pubblicitari-per-social-e-ads/, /video-promozionali-per-attivita-locali/, /video-per-fiere-e-lancio-prodotto/,
+  /spot-pubblicitari-con-intelligenza-artificiale/, /app-su-misura-per-ogni-attivita/, /gestionale-su-misura-per-ogni-settore/
+- EN/DE/FR/ES: sito in 24 ore, video pubblicitari, app su misura (hreflang IT-EN-DE-FR-ES).
+- Ogni pagina: box "In breve" (risposta diretta per Google e assistenti AI, speakable), Service con offerta e prezzo,
+  FAQPage, BreadcrumbList, VideoObject per ogni video. Video in assets/video/ (720p, copertina, preload none).
+- Sitemap con <video:video> (98 voci). Sezioni nate dall'analisi concorrenti: "6 cose da controllare in un sito in 24 ore",
+  "quanto costa in 4 anni" (gestionale vs abbonamento vs ERP), "cosa incide sul prezzo di un video", "AI o riprese".
+
+### Collegamenti e identità
+- Footer di 575 pagine (5 lingue), 4 schede in testa agli Approfondimenti della homepage, 108 box "Approfondisci" tematici.
+- Nodo #organization di 580 pagine: knowsAbout, hasOfferCatalog e descrizione con video e sito in 24 ore. llms-intro.md aggiornato.
+
+### Come rigenerare
+```
+python3 seo-tools/pagine-build-2026-10-23.py      # 21 pagine (dati: pagine-dati-2026-10-23.py e ...-lingue.py)
+python3 seo-tools/post-build-velocita.py && python3 seo-tools/post-build-contatti.py
+python3 seo-tools/link-2026-10-23.py && python3 seo-tools/org-video-2026-10-23.py && python3 seo-tools/demo-48-72-2026-10-23.py
+python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
+```
+Video nuovi: comprimere in assets/video/<nome>.mp4 + .jpg (ffmpeg 720p, crf 28, maxrate 1200k, faststart),
+aggiungerli a VIDEO e TUTTI in pagine-dati-2026-10-23.py e rigenerare. Se si hanno i link dei singoli post
+Instagram/TikTok, metterli nei campi 'ig' e 'tt' del video (finiscono anche nel sameAs del VideoObject).
+NB: _archivio/ (escluso da git) contiene file di appoggio da cancellare a mano.
+Aggiunta 23/10 pomeriggio: 19 video in più da Desktop/video_marketing (reel01-09 e reel15-24) con le copertine ufficiali,
+schede in seo-tools/pagine-dati-2026-10-23-video2.py. Totale 32 video sul sito, 15 collegati al post Instagram e/o TikTok
+(link verificati sui profili il 23/10); quelli non pubblicati restano in galleria senza pulsanti social.
+Pagine video (23/10 sera): una pagina per ogni video in /video/<nome>/ (32, dati in pagine-dati-2026-10-23-watch.py):
+video in apertura, scheda "in breve", testo dalla caption (senza hashtag e "commenta X"), alt text come descrizione visiva,
+4 video simili, servizio collegato, FAQ; VideoObject con url della pagina e WebPage.mainEntity = il video. Nelle gallerie
+il titolo di ogni video porta alla sua pagina. /video/ reindirizza a /video-pubblicitari/ (noindex).
+Video ricompressi a 540x960 (64 MB in tutto), copertine 360 px caricate solo quando si avvicinano allo schermo.
+Correzione: il reel "Roadster" e' una notizia (Tesla Roadster, foto vere + 3D), NON uno spot generato con AI.
+
+### Prossimi passi
+1. Search Console: inviare la sitemap e chiedere l'indicizzazione delle 9 pagine IT; `bash seo-tools/indexnow.sh`.
+2. Keyword Planner sulle parole video (manca il dato): video pubblicitari, spot pubblicitario, video aziendali,
+   video prodotto, video per amazon, video AI, motion design, reel per aziende, sito web in 24 ore, sito web in un giorno.
+3. Recensioni Google dopo ogni consegna; nei Lavori una riga per ogni sito in 24 ore con l'ora di consegna reale.
+
+---
+
 ## Aggiornamento 22 ottobre 2026 — Keyword Planner (46 CSV) e espositori asiatici
 
 Dati: `seo-tools/keywords/planner-2026-10-22/` (46 CSV, 4.307 keyword, Italia + DE/AT/CH, UK/USA/NL/Nordici/UAE,

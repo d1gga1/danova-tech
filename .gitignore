@@ -14,3 +14,6 @@ seo-tools/render-stand/
 
 # materiale per i social (video, copertine): non va pubblicato sul sito
 social/
+
+# cartella di appoggio locale (file da cancellare a mano): non va pubblicata
+_archivio/

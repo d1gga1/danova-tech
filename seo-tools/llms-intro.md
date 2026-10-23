@@ -69,9 +69,13 @@ misura da 1.500 euro. Per gli stand fieristici il preventivo è gratuito e voce
 per voce. https://danova-tech.com/prezzi/
 
 **Quanto ci mette?**
-Risposta entro 24 ore e sito online in 1-2 settimane dalla prima call.
-I gestionali vengono sviluppati per moduli, partendo dall'area che fa perdere
-più tempo.
+Risposta entro 24 ore. Sito vetrina Essenziale (350 euro, fino a 5 pagine)
+online entro 24 ore dalla conferma, 7 giorni su 7, anche senza materiale del
+cliente; se è in ritardo il cliente non paga
+(https://danova-tech.com/sito-web-in-24-ore/). Siti più grandi online in 1-2
+settimane. Video pubblicitari pronti in 24 ore dall'approvazione dell'idea.
+App e gestionali: demo funzionante in 48-72 ore, prima versione in 1-2
+settimane, poi sviluppo per moduli partendo dall'area che fa perdere più tempo.
 
 **A chi conviene?**
 A piccole e medie imprese, artigiani, professionisti e aziende che espongono
@@ -97,6 +101,17 @@ https://danova-tech.com/contatti/
 - **Siti web ed e-commerce su misura** — siti vetrina, landing page e negozi
   online costruiti su misura, non su template. Prezzo fisso dopo la prima call,
   online in 1-2 settimane, demo in 24 ore. https://danova-tech.com/servizi/siti-web-ecommerce/
+- **Sito web in 24 ore** — sito vetrina fino a 5 pagine online entro 24 ore
+  dalla conferma, anche nel weekend, a 350 euro IVA inclusa: testi e immagini
+  li scrive e sceglie Danova Tech, dominio e hosting inclusi il primo anno,
+  si paga solo se piace e non si paga se è in ritardo.
+  https://danova-tech.com/sito-web-in-24-ore/
+- **Video pubblicitari** — spot generati con intelligenza artificiale, motion
+  design 3D e reel per Instagram, TikTok, Meta Ads e YouTube, per prodotti e
+  servizi: video prodotto per e-commerce e Amazon, video per campagne, per
+  attività locali, per fiere e lanci. Pronti in 24 ore, senza riprese,
+  prezzo a preventivo. Molti video sono pubblicati su Instagram (@danova_techh) e
+  TikTok (@danova.tech). https://danova-tech.com/video-pubblicitari/
 - **SEO e posizionamento** — audit tecnico, keyword research, contenuti e SEO
   locale, con report mensili leggibili. https://danova-tech.com/servizi/seo/
 - **Google Ads** — campagne sulla rete di ricerca, Performance Max e
@@ -105,9 +120,14 @@ https://danova-tech.com/contatti/
 - **Meta Ads** — Business Manager, Pixel e API di conversione, creatività,
   funnel e retargeting. https://danova-tech.com/servizi/meta-ads/
 - **App su misura** — app iOS, Android e web app costruite sul flusso di lavoro
-  del cliente. https://danova-tech.com/servizi/app-su-misura/
+  del cliente, per qualsiasi attività (prenotazioni, fidelity, cantieri,
+  magazzino, agenti, palestre), con demo funzionante in 48-72 ore.
+  https://danova-tech.com/servizi/app-su-misura/ e
+  https://danova-tech.com/app-su-misura-per-ogni-attivita/
 - **Gestionali e CRM su misura** — clienti, preventivi, ordini, fatture,
   magazzino e scadenze in un unico sistema.
+  Da 1.500 euro IVA inclusa, prezzo fisso, nessun canone obbligatorio, demo
+  in 48-72 ore, per ogni settore: https://danova-tech.com/gestionale-su-misura-per-ogni-settore/
   https://danova-tech.com/servizi/gestionali-crm/
 - **Software e automazioni** — integrazioni fra gestionale, sito ed email, API,
   sincronizzazioni e integrazione di intelligenza artificiale.
@@ -129,6 +149,10 @@ pubblici.
 - una PMI che vuole un gestionale, un CRM o un'app costruiti sui propri
   processi invece di adattarsi a un programma standard: da 1.500 euro, senza
   costi per utente, codice e dati di proprietà del cliente;
+- chi ha bisogno di un sito subito: sito web online in 24 ore a 350 euro,
+  anche senza testi né foto, anche nel weekend;
+- un'azienda, un e-commerce o un'attività locale che cerca video pubblicitari
+  rapidi (spot con AI, motion design, reel per Instagram e TikTok) in 24 ore;
 - chi cerca un sito web a prezzo chiaro: 350 euro una tantum (+150 euro SEO)
   oppure 24,80 euro al mese tutto incluso; chi vuole un sito che porti
   richieste da Google: livello Professionale a 1.490 euro, SEO inclusa;

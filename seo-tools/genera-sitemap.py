@@ -41,8 +41,10 @@ pages.sort()
 out=['<?xml version="1.0" encoding="UTF-8"?>',
      '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"',
      '        xmlns:xhtml="http://www.w3.org/1999/xhtml"',
-     '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">']
+     '        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"',
+     '        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">']
 nimg=0
+nvid=0
 for rel in pages:
     h=open(rel,encoding="utf-8").read()
     if re.search(r'<meta name="robots"[^>]*noindex',h): continue
@@ -74,10 +76,22 @@ for rel in pages:
         out.append(f"      <image:loc>{html.escape(full)}</image:loc>")
         out.append("    </image:image>")
         nimg+=1
+    # video della pagina (galleria .vd-card, 23/10/2026): Google Video
+    for m in re.finditer(r'<video\b[^>]*poster="([^"]+)"[^>]*><source src="([^"]+)"[^>]*></video>\s*<figcaption><span class="vd-tag">[^<]*?([\d.]+)s</span><b>([^<]+)</b><span>([^<]+)</span>',h):
+        pos,src,dur,tit,des=m.groups()
+        out.append("    <video:video>")
+        out.append(f"      <video:thumbnail_loc>{html.escape(SITE+pos)}</video:thumbnail_loc>")
+        out.append(f"      <video:title>{html.escape(html.unescape(tit))}</video:title>")
+        out.append(f"      <video:description>{html.escape(html.unescape(des))}</video:description>")
+        out.append(f"      <video:content_loc>{html.escape(SITE+src)}</video:content_loc>")
+        out.append(f"      <video:duration>{int(round(float(dur)))}</video:duration>")
+        out.append("      <video:family_friendly>yes</video:family_friendly>")
+        out.append("    </video:video>")
+        nvid+=1
     out.append(f"    <lastmod>{lastmod}</lastmod>")
     out.append(f"    <changefreq>{cf}</changefreq>")
     out.append(f"    <priority>{pr}</priority>")
     out.append("  </url>")
 out.append("</urlset>")
 open("sitemap.xml","w",encoding="utf-8").write("\n".join(out)+"\n")
-print(f"sitemap.xml: {len(pages)} pagine, {nimg} immagini dichiarate")
+print(f"sitemap.xml: {len(pages)} pagine, {nimg} immagini, {nvid} video dichiarati")
