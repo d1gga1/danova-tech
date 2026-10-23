@@ -25,7 +25,7 @@ Video pubblicitari (AI, motion design 3D, reel) pronti in 24 ore, prezzo solo a 
 ```
 python3 seo-tools/pagine-build-2026-10-23.py      # 21 pagine (dati: pagine-dati-2026-10-23.py e ...-lingue.py)
 python3 seo-tools/post-build-velocita.py && python3 seo-tools/post-build-contatti.py
-python3 seo-tools/link-2026-10-23.py && python3 seo-tools/org-video-2026-10-23.py && python3 seo-tools/demo-48-72-2026-10-23.py
+python3 seo-tools/link-2026-10-23.py && python3 seo-tools/org-video-2026-10-23.py && python3 seo-tools/demo-48-72-2026-10-23.py && python3 seo-tools/menu-video-2026-10-23.py
 python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
 ```
 Video nuovi: comprimere in assets/video/<nome>.mp4 + .jpg (ffmpeg 720p, crf 28, maxrate 1200k, faststart),
