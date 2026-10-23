@@ -643,3 +643,4 @@ PAGINE.append({
 
 exec(open(__file__.replace('pagine-dati-2026-10-23.py', 'pagine-dati-2026-10-23-lingue.py'), encoding='utf-8').read())
 exec(open(__file__.replace('pagine-dati-2026-10-23.py', 'pagine-dati-2026-10-23-watch.py'), encoding='utf-8').read())
+exec(open(__file__.replace('pagine-dati-2026-10-23.py', 'pagine-dati-2026-10-23-faq.py'), encoding='utf-8').read())

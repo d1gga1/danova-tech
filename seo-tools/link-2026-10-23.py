@@ -64,4 +64,15 @@ for f in glob.glob(os.path.join(R, '**', 'index.html'), recursive=True):
                     na += k
     if s != s0:
         open(f, 'w', encoding='utf-8').write(s)
+# 4) link "Domande frequenti" nel footer IT, dopo "Gestionale per ogni settore"
+FAQ_LI = '\n          <li><a href="/domande-frequenti/">Domande frequenti</a></li>'
+nq = 0
+for f in glob.glob(os.path.join(R, '**', 'index.html'), recursive=True):
+    rel = os.path.relpath(f, R).replace('\\', '/')
+    if rel.startswith(('_archivio/', 'seo-tools/', 'social/', 'assets/')) or lang_of(rel) != 'it': continue
+    s2 = open(f, encoding='utf-8').read()
+    a = '<li><a href="/gestionale-su-misura-per-ogni-settore/">Gestionale per ogni settore</a></li>'
+    if a in s2 and 'href="/domande-frequenti/">Domande frequenti</a></li>' not in s2:
+        open(f, 'w', encoding='utf-8').write(s2.replace(a, a + FAQ_LI, 1)); nq += 1
+print('footer FAQ: %d' % nq)
 print('footer: %d | homepage: %d | box approfondisci: %d' % (nf, nh, na))

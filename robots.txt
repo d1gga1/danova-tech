@@ -32,12 +32,29 @@ User-agent: Amazonbot
 User-agent: meta-externalagent
 User-agent: cohere-ai
 User-agent: MistralAI-User
+User-agent: DuckAssistBot
+User-agent: GoogleOther
+User-agent: Google-CloudVertexBot
+User-agent: Meta-ExternalFetcher
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: YouBot
+User-agent: PhindBot
+User-agent: Diffbot
+User-agent: Kagibot
+User-agent: Bytespider
+User-agent: PetalBot
+User-agent: Timpibot
 User-agent: *
 Allow: /
 Disallow: /seo-tools/
 Disallow: /*?*fbclid=
 Disallow: /*?*gclid=
 Disallow: /*?*utm_
+
+# --- Contenuti per assistenti AI (23/10/2026) ---
+# Sintesi: https://danova-tech.com/llms.txt
+# Testo integrale: https://danova-tech.com/llms-full.txt
 
 # --- Sitemap ---
 Sitemap: https://danova-tech.com/sitemap.xml
