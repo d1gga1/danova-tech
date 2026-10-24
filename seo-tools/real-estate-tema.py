@@ -47,13 +47,22 @@ body{background:#080907}
 .re-hero .re-bg img,.re-hero .re-bg video{width:100%;height:100%;object-fit:cover;object-position:50% 50%;transform-origin:50% 60%;animation:reKen 26s ease-in-out infinite alternate;will-change:transform}
 .re-hero .re-bg::after{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(180deg,rgba(8,9,7,.9) 0,rgba(8,9,7,.72) 90px,rgba(8,9,7,.5) 240px,rgba(8,9,7,.38) 45%,rgba(8,9,7,.6) 70%,rgba(8,9,7,.92) 90%,#080907 100%),radial-gradient(ellipse at 20% 80%,rgba(169,193,159,.16),transparent 60%)}
 main>.pg-crumbs{position:relative;z-index:2}
-main>.pg-crumbs a,main>.pg-crumbs{color:#d9d8cc}
 .re-hero .wrap{position:relative;z-index:2}
 .re-hero h1{font-size:clamp(2.1rem,6vw,4.9rem);max-width:17ch;overflow-wrap:break-word}
 .re-hero .lead{color:#dcdccf;max-width:62ch}
 @keyframes reKen{from{transform:scale(1)}to{transform:scale(1.06)}}
 .re-badges{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
 .re-badges span{font-family:"JetBrains Mono",monospace;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;padding:8px 13px;border-radius:99px;border:1px solid rgba(217,211,197,.28);background:rgba(8,9,7,.55)}
+/* intestazione leggibile sopra le foto chiare della copertina */
+body:has(.re-hero) header:not(.stuck)::before{content:"";position:absolute;left:0;right:0;top:0;height:170px;z-index:-1;pointer-events:none;
+ background:linear-gradient(180deg,rgba(6,7,5,.86) 0,rgba(6,7,5,.62) 45%,rgba(6,7,5,0) 100%)}
+body:has(.re-hero) nav.links a{color:#e6e6dc;text-shadow:0 1px 10px rgba(0,0,0,.55)}
+body:has(.re-hero) nav.links a:hover,body:has(.re-hero) nav.links a[aria-current]{color:#fff}
+body:has(.re-hero) #hdr .lang-links{background:rgba(8,9,7,.6);border-color:rgba(236,235,228,.22);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
+body:has(.re-hero) #hdr .lang-links a{color:#d9d8cc}
+body:has(.re-hero) #hdr .wordmark i{color:#c4d8b9}
+main>.pg-crumbs,main>.pg-crumbs a{color:#eceae0;text-shadow:0 1px 8px rgba(0,0,0,.6)}
+main>.pg-crumbs em{opacity:.7}
 /* testo della copertina centrato */
 .re-hero{align-items:center;text-align:center;padding:110px 0 90px}
 .re-hero .wrap{display:flex;flex-direction:column;align-items:center}

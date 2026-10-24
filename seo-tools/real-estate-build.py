@@ -238,6 +238,36 @@ def post(d, s):
     s = s[:m.start(1)] + '\n' + json.dumps(g, ensure_ascii=False, indent=2) + '\n' + s[m.end(1):]
     return s
 
+# 24/10/2026: "Hotel" (lavori) e "Arredo hotel" (arredi) non ripetono le stesse immagini
+_CANT = {'it': ('Cantiere in bassa stagione', 'Cartongesso, impianti e finiture a hotel chiuso.'),
+         'en': ('Works in the low season', 'Drywall, services and finishes while the hotel is closed.'),
+         'de': ('Baustelle in der Nebensaison', 'Trockenbau, Haustechnik und Ausbau bei geschlossenem Hotel.'),
+         'ro': ('Șantier în extrasezon', 'Rigips, instalații și finisaje cu hotelul închis.'),
+         'sq': ('Kantier jashtë sezonit', 'Gipskarton, impiante dhe përfundime me hotelin të mbyllur.'),
+         'hr': ('Gradilište izvan sezone', 'Gips, instalacije i završni radovi dok je hotel zatvoren.')}
+_R3D = {'it': ('Progetto e render 3D', 'Ogni arredo approvato in 3D prima della produzione.'),
+        'en': ('Design and 3D rendering', 'Every piece approved in 3D before production.'),
+        'de': ('Planung und 3D-Rendering', 'Jedes Möbel wird vor der Produktion in 3D freigegeben.'),
+        'ro': ('Proiect și randare 3D', 'Fiecare piesă aprobată în 3D înainte de producție.'),
+        'sq': ('Projekt dhe render 3D', 'Çdo mobilje miratohet në 3D para prodhimit.'),
+        'hr': ('Projekt i 3D vizualizacija', 'Svaki komad odobren u 3D-u prije proizvodnje.')}
+def distingui_hotel(d):
+    l = d['lang']
+    if d['key'] == '/ristrutturazione-hotel/':
+        for sec in d['sezioni']:
+            if sec.get('tipo') == 'gal':
+                its = [x for x in sec['items'] if x.get('img') not in ('re-camera-hotel-mare', 're-lobby-hotel-dolomiti')]
+                t, x = _CANT.get(l, _CANT['en'])
+                sec['items'] = [{'img': 're-cantiere-cartongesso', 'titolo': t, 'testo': x}] + its
+    else:
+        d['sezioni'] = [sec for sec in d['sezioni'] if sec.get('tipo') != 'ba']
+        d.pop('herovid', None)
+        for sec in d['sezioni']:
+            if sec.get('tipo') == 'gal':
+                t, x = _R3D.get(l, _R3D['en'])
+                sec['items'] = [it if it.get('img') != 're-ristorante' else {'img': 're-render-3d', 'titolo': t, 'testo': x} for it in sec['items']]
+                sec['items'] = [it for it in sec['items'] if it.get('img') != 're-camera-hotel-mare']
+
 if __name__ == '__main__':
     import sys
     solo = sys.argv[1:]   # facoltativo: lingue da generare (es. en de)
@@ -246,8 +276,10 @@ if __name__ == '__main__':
     # 24/10/2026: copertine diverse per "Hotel" (ristrutturazione) e "Arredo hotel" e per le pagine hotel vicine
     HERO = {'/ristrutturazione-hotel/': 're-hotel-dolomiti-esterno', '/guide/ristrutturare-un-hotel/': 're-hotel-garda-terrazza',
             '/arredo-hotel-cortina/': 're-lobby-hotel-dolomiti'}
+    HERO['/arredo-hotel-contract/'] = 're-ristorante'
     for d in tutte:
         if d['key'] in HERO: d['hero'] = HERO[d['key']]
+        if d['key'] in ('/ristrutturazione-hotel/', '/arredo-hotel-contract/'): distingui_hotel(d)
     n = 0
     for d in tutte:
         if solo and d['lang'] not in solo: continue

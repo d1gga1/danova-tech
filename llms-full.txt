@@ -10526,18 +10526,6 @@ Montaggio Squadre dedicate
 
 Consegna Prima della riapertura
 
-Prima e dopo
-
-## La camera cambia categoria
-
-Prima Dopo
-
-Camera vista mare Testata imbottita, armadio e scrivania in rovere, comodini in travertino, tessili coordinati.
-
-Timelapse · camera d’hotel
-
-Immagini e video illustrativi creati con l’intelligenza artificiale per mostrare le lavorazioni: non ritraggono cantieri o clienti reali.
-
 Cosa arrediamo
 
 ## Ogni ambiente della vostra struttura
@@ -10582,13 +10570,11 @@ Ispirazioni
 
 ## Dal mare alle Dolomiti
 
-Camera sul mare Rovere, travertino e bouclé salvia.
-
 Hall in montagna Boiserie in larice e sedute su misura.
 
 Terrazza sul lago Arredi da esterno in teak.
 
-Ristorante d’hotel Panche imbottite e tavoli in rovere.
+Progetto e render 3D Ogni arredo approvato in 3D prima della produzione.
 
 Immagini e video illustrativi creati con l’intelligenza artificiale per mostrare le lavorazioni: non ritraggono cantieri o clienti reali.
 
@@ -40962,9 +40948,7 @@ Esempi
 
 ## Dal mare alla montagna
 
-Hotel sul mare Camera con arredi contract in rovere e tessili salvia.
-
-Hotel in montagna Hall con boiserie in larice e sedute su misura.
+Cantiere in bassa stagione Cartongesso, impianti e finiture a hotel chiuso.
 
 Corridoio con porte REI Porte tagliafuoco in legno con chiudiporta.
 
@@ -49545,18 +49529,6 @@ Montaj Echipe dedicate
 
 Livrare Înainte de redeschidere
 
-Înainte și după
-
-## Camera urcă o categorie
-
-Înainte După
-
-Cameră cu vedere la mare Tăblie tapițată, dulap și birou din stejar, noptiere din travertin, textile coordonate.
-
-Timelapse · cameră de hotel
-
-Imagini și videoclipuri ilustrative create cu inteligența artificială pentru a arăta lucrările: nu reprezintă șantiere sau clienți reali.
-
 Ce mobilăm
 
 ## Fiecare spațiu al unității dvs.
@@ -49601,13 +49573,11 @@ Inspirație
 
 ## De la mare la Dolomiți
 
-Cameră la mare Stejar, travertin și bouclé verde salvie.
-
 Recepție la munte Lambriu din larice și fotolii la comandă.
 
 Terasă la lac Mobilier de exterior din tec.
 
-Restaurantul hotelului Banchete tapițate și mese din stejar.
+Proiect și randare 3D Fiecare piesă aprobată în 3D înainte de producție.
 
 Imagini și videoclipuri ilustrative create cu inteligența artificială pentru a arăta lucrările: nu reprezintă șantiere sau clienți reali.
 
@@ -51353,9 +51323,7 @@ Exemple
 
 ## De la mare la munte
 
-Hotel la mare Cameră cu mobilier din stejar și textile verde salvie.
-
-Hotel la munte Recepție cu lambriu din larice și fotolii la comandă.
+Șantier în extrasezon Rigips, instalații și finisaje cu hotelul închis.
 
 Coridor cu uși rezistente la foc Uși din lemn rezistente la foc, cu amortizor.
 
@@ -66553,18 +66521,6 @@ Montim Ekipe të dedikuara
 
 Dorëzim Para rihapjes
 
-Para dhe pas
-
-## Dhoma ngjitet një kategori
-
-Para Pas
-
-Dhomë me pamje nga deti Kokë shtrati e veshur, dollap dhe tavolinë pune lisi, komodina travertini, tekstile të koordinuara.
-
-Timelapse · dhomë hoteli
-
-Imazhe dhe video ilustruese të krijuara me inteligjencë artificiale për të treguar punimet: nuk paraqesin kantiere apo klientë realë.
-
 Çfarë mobilojmë
 
 ## Çdo ambient i strukturës suaj
@@ -66609,13 +66565,11 @@ Frymëzim
 
 ## Nga deti te Dolomitet
 
-Dhomë buzë detit Lis, travertin dhe bouclé jeshile sherebele.
-
 Recepsion në mal Veshje lareshi dhe kolltukë me porosi.
 
 Tarracë buzë liqenit Mobilje të jashtme tik.
 
-Restoranti i hotelit Divane të veshura dhe tavolina lisi.
+Projekt dhe render 3D Çdo mobilje miratohet në 3D para prodhimit.
 
 Imazhe dhe video ilustruese të krijuara me inteligjencë artificiale për të treguar punimet: nuk paraqesin kantiere apo klientë realë.
 
@@ -70609,9 +70563,7 @@ Shembuj
 
 ## Nga deti te mali
 
-Hotel buzë detit Dhomë me mobilje lisi dhe tekstile jeshile sherebele.
-
-Hotel në mal Recepsion me veshje lareshi dhe kolltukë me porosi.
+Kantier jashtë sezonit Gipskarton, impiante dhe përfundime me hotelin të mbyllur.
 
 Korridor me dyer kundër zjarrit Dyer druri kundër zjarrit, me mbyllës automatik.
 

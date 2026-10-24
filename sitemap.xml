@@ -613,25 +613,14 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/mobilim-hotelesh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/arredo-hotel-contract/"/>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-prima-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-pd-hotel-poster.webp</video:thumbnail_loc>
-      <video:title>Timelapse · camera d’hotel</video:title>
-      <video:description>Timelapse · camera d’hotel — Arredo hotel su misura: camere, hall, ristoranti, spa ed esterni progettati, prodotti e montati per hotel, B&amp;B e residence in Veneto e Friuli.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
     <video:video>
       <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
       <video:title>Hall in montagna</video:title>
@@ -1906,25 +1895,14 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/mobilim-hotelesh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/arredo-hotel-contract/"/>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-prima-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-pd-hotel-poster.webp</video:thumbnail_loc>
-      <video:title>Zeitraffer · Hotelzimmer</video:title>
-      <video:description>Zeitraffer · Hotelzimmer — Hotelmöbel nach Maß: Zimmer, Lobbys, Restaurants, Spas und Terrassen geplant, produziert und montiert für Hotels, B&amp;Bs und Residenzen in Venetien und Friaul.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
     <video:video>
       <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
       <video:title>Lobby in den Bergen</video:title>
@@ -2036,6 +2014,9 @@
       <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
     <image:image>
@@ -2046,14 +2027,6 @@
       <video:title>Zeitraffer · Hotelzimmer</video:title>
       <video:description>Zeitraffer · Hotelzimmer — Renovierung von Hotels, B&amp;Bs, Residenzen und Campingplätzen in Venetien und Friaul: Zimmer, Bäder, Gemeinschaftsbereiche und Fassaden und Objektmöbel.</video:description>
       <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
-      <video:title>Berghotel</video:title>
-      <video:description>Berghotel — Renovierung von Hotels, B&amp;Bs, Residenzen und Campingplätzen in Venetien und Friaul: Zimmer, Bäder, Gemeinschaftsbereiche und Fassaden und Objektmöbel.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-lobby-dolomiti.mp4</video:content_loc>
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -4649,25 +4622,14 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/mobilim-hotelesh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/arredo-hotel-contract/"/>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-prima-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-pd-hotel-poster.webp</video:thumbnail_loc>
-      <video:title>Timelapse · hotel room</video:title>
-      <video:description>Timelapse · hotel room — Custom hotel furniture: rooms, lobbies, restaurants, spas and terraces designed, produced and installed for hotels, B&amp;Bs and residences in Veneto and Friuli.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
     <video:video>
       <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
       <video:title>Mountain lobby</video:title>
@@ -5031,6 +4993,9 @@
       <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
     <image:image>
@@ -5041,14 +5006,6 @@
       <video:title>Timelapse · hotel room</video:title>
       <video:description>Timelapse · hotel room — Renovation of hotels, B&amp;Bs, residences and campsites in Veneto and Friuli: rooms, bathrooms, common areas and facades and contract furniture.</video:description>
       <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
-      <video:title>Mountain hotel</video:title>
-      <video:description>Mountain hotel — Renovation of hotels, B&amp;Bs, residences and campsites in Veneto and Friuli: rooms, bathrooms, common areas and facades and contract furniture.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-lobby-dolomiti.mp4</video:content_loc>
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -10327,6 +10284,9 @@
       <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
     <image:image>
@@ -10337,14 +10297,6 @@
       <video:title>Timelapse · camera d’hotel</video:title>
       <video:description>Timelapse · camera d’hotel — Ristrutturazione di hotel, B&amp;B, residence e campeggi in Veneto e Friuli: camere, bagni, aree comuni e facciate e arredi contract.</video:description>
       <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
-      <video:title>Hotel in montagna</video:title>
-      <video:description>Hotel in montagna — Ristrutturazione di hotel, B&amp;B, residence e campeggi in Veneto e Friuli: camere, bagni, aree comuni e facciate e arredi contract.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-lobby-dolomiti.mp4</video:content_loc>
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -11511,25 +11463,14 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/mobilim-hotelesh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/arredo-hotel-contract/"/>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-prima-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-pd-hotel-poster.webp</video:thumbnail_loc>
-      <video:title>Timelapse · cameră de hotel</video:title>
-      <video:description>Timelapse · cameră de hotel — Mobilier hotelier la comandă: camere, recepții, restaurante, spa-uri și terase proiectate, produse și montate pentru hoteluri și B&amp;B-uri.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
     <video:video>
       <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
       <video:title>Recepție la munte</video:title>
@@ -11864,6 +11805,9 @@
       <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
     <image:image>
@@ -11874,14 +11818,6 @@
       <video:title>Timelapse · cameră de hotel</video:title>
       <video:description>Timelapse · cameră de hotel — Renovare de hoteluri, B&amp;B-uri, rezidențe și campinguri în Veneto și Friuli: camere, băi, spații comune și fațade și mobilier hotelier.</video:description>
       <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
-      <video:title>Hotel la munte</video:title>
-      <video:description>Hotel la munte — Renovare de hoteluri, B&amp;B-uri, rezidențe și campinguri în Veneto și Friuli: camere, băi, spații comune și fațade și mobilier hotelier.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-lobby-dolomiti.mp4</video:content_loc>
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
@@ -13339,25 +13275,14 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/mobilim-hotelesh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/arredo-hotel-contract/"/>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-prima-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-pd-hotel-poster.webp</video:thumbnail_loc>
-      <video:title>Timelapse · dhomë hoteli</video:title>
-      <video:description>Timelapse · dhomë hoteli — Mobilim hotelesh me porosi: dhoma, recepsione, restorante, spa dhe tarraca të projektuara, prodhuara dhe montuara për hotele dhe B&amp;B.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
     <video:video>
       <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
       <video:title>Recepsion në mal</video:title>
@@ -14026,6 +13951,9 @@
       <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
     <image:image>
@@ -14036,14 +13964,6 @@
       <video:title>Timelapse · dhomë hoteli</video:title>
       <video:description>Timelapse · dhomë hoteli — Rinovim hotelesh, B&amp;B, rezidencash dhe kampingjesh në Veneto dhe Friuli: dhoma, banja, ambiente të përbashkëta dhe fasada dhe mobilim hoteli.</video:description>
       <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-hotel.mp4</video:content_loc>
-      <video:duration>5</video:duration>
-      <video:family_friendly>yes</video:family_friendly>
-    </video:video>
-    <video:video>
-      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-lobby-dolomiti-poster.webp</video:thumbnail_loc>
-      <video:title>Hotel në mal</video:title>
-      <video:description>Hotel në mal — Rinovim hotelesh, B&amp;B, rezidencash dhe kampingjesh në Veneto dhe Friuli: dhoma, banja, ambiente të përbashkëta dhe fasada dhe mobilim hoteli.</video:description>
-      <video:content_loc>https://danova-tech.com/assets/video/re/re-lobby-dolomiti.mp4</video:content_loc>
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
