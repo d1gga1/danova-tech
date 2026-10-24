@@ -5,8 +5,9 @@
 > Progetta e sviluppa siti web, e-commerce, applicazioni mobile e web, software
 > gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO,
 > campagne Google Ads e Meta Ads, e progetta e allestisce stand fieristici
-> in Italia e all'estero. Lavora in italiano, inglese, tedesco, francese
-> e spagnolo.
+> in Italia e all'estero. Con la divisione Danova Real Estate realizza
+> ristrutturazioni chiavi in mano, general contractor e arredo hotel in Veneto e Friuli.
+> Lavora in italiano, inglese, tedesco, francese e spagnolo.
 
 ## Testo integrale
 
@@ -242,6 +243,47 @@ EIMA, Sicam, Samuexpo. Prezzi solo su preventivo.
 Danova Tech builds stands for foreign companies exhibiting in Italy, including many Chinese exhibitors. Communication in English or Chinese, contract and invoice directly with the foreign company, Italian electrical and fire-rating certificates included.
 
 ### Stand per metratura e guide fiere (14 ottobre 2026)
+
+<!-- re-llms -->
+## Danova Real Estate in sintesi
+
+Danova Real Estate è la divisione edilizia di Danova Tech (stessa azienda, stessi contatti). Dal 24 ottobre 2026 si occupa di:
+ristrutturazioni chiavi in mano (case, appartamenti, bagni, cucine, negozi, uffici, ristoranti, hotel, condomini, capannoni),
+general contractor, facciate e cappotto termico, pareti divisorie e cartongesso, porte interne, blindate e REI, pavimenti e serramenti,
+arredo hotel e contract, mobili su misura, progettazione e render 3D, pratiche edilizie (CILA, SCIA) e bonus fiscali.
+Collabora con architetti e studi di progettazione come impresa esecutrice, con una rete di imprese, artigiani e fornitori.
+
+- **Zona**: Veneto e Friuli Venezia Giulia
+- **Clienti**: privati, hotel e strutture ricettive, negozi/uffici/ristoranti, condomini, immobili industriali, architetti
+- **Promesse**: sopralluogo e preventivo gratuiti, prezzo bloccato chiavi in mano, tempi scritti nel contratto, unico referente
+- **Prezzi**: non pubblicati, preventivo dopo il sopralluogo
+- **Lingue parlate**: italiano, inglese, rumeno
+- **Immagini del sito**: illustrative, create con l’intelligenza artificiale (non sono cantieri reali)
+
+- [Danova Real Estate (pagina principale)](https://danova-tech.com/real-estate/)
+- [Ristrutturazioni chiavi in mano](https://danova-tech.com/ristrutturazioni-chiavi-in-mano/)
+- [Rifacimento bagno](https://danova-tech.com/ristrutturazione-bagno/)
+- [Appartamenti e case](https://danova-tech.com/ristrutturazione-appartamenti-e-case/)
+- [Negozi, uffici e ristoranti](https://danova-tech.com/ristrutturazione-negozi-uffici-ristoranti/)
+- [Ristrutturazione hotel](https://danova-tech.com/ristrutturazione-hotel/)
+- [Condomini e capannoni](https://danova-tech.com/ristrutturazione-condomini-e-capannoni/)
+- [General contractor](https://danova-tech.com/general-contractor/)
+- [Hotel chiavi in mano](https://danova-tech.com/hotel-chiavi-in-mano/)
+- [Impresa edile partner per architetti](https://danova-tech.com/impresa-edile-per-architetti/)
+- [Pareti divisorie](https://danova-tech.com/pareti-divisorie/)
+- [Cappotto termico](https://danova-tech.com/cappotto-termico/)
+- [Facciate](https://danova-tech.com/facciate-ventilate-e-rifacimento-facciate/)
+- [Porte interne e blindate](https://danova-tech.com/porte-interne-e-blindate/)
+- [Porte REI tagliafuoco](https://danova-tech.com/porte-rei-tagliafuoco/)
+- [Cartongesso e controsoffitti](https://danova-tech.com/cartongesso-e-controsoffitti/)
+- [Pavimenti e serramenti](https://danova-tech.com/pavimenti-e-serramenti/)
+- [Arredo hotel e contract](https://danova-tech.com/arredo-hotel-contract/)
+- [Mobili su misura](https://danova-tech.com/mobili-su-misura/)
+- [Progettazione e render 3D](https://danova-tech.com/progettazione-e-render-3d/)
+- [Pratiche CILA e SCIA](https://danova-tech.com/pratiche-edilizie-cila-scia/)
+- [Bonus ristrutturazione 2026](https://danova-tech.com/bonus-ristrutturazione-2026/)
+
+<!-- /re-llms -->
 
 ## Come lavora
 

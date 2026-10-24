@@ -14,7 +14,10 @@
     it:{call:'Chiama',wa:'WhatsApp',write:'Scrivici',sending:'Invio in corso…',ok:'Richiesta inviata! Ti rispondiamo via email al più presto.',
         fail:'Non siamo riusciti a inviare dal sito: si è aperto il tuo programma di posta con il messaggio già pronto, premi invia.',
         e_nome:'Scrivi il tuo nome.',e_mail:'Inserisci un indirizzo email valido.',e_msg:'Scrivici in due righe di cosa hai bisogno.',subj:'Richiesta dal sito'},
-    en:{call:'Call',wa:'WhatsApp',write:'Email us',sending:'Sending…',ok:'Request sent! We will reply by email as soon as possible.',
+    ro:{call:'Sunați',wa:'WhatsApp',write:'Scrieți-ne',sending:'Se trimite…',ok:'Cerere trimisă! Vă răspundem prin e-mail cât mai curând.',fail:'Nu am putut trimite de pe site: s-a deschis aplicația de e-mail cu mesajul pregătit, apăsați trimite.',e_nome:'Introduceți numele.',e_mail:'Introduceți o adresă de e-mail validă.',e_msg:'Spuneți-ne în două rânduri de ce aveți nevoie.',subj:'Cerere de pe site'},
+        sq:{call:'Telefononi',wa:'WhatsApp',write:'Na shkruani',sending:'Po dërgohet…',ok:'Kërkesa u dërgua! Do t’ju përgjigjemi me email sa më shpejt.',fail:'Nuk mundëm ta dërgonim nga faqja: u hap aplikacioni i email-it me mesazhin gati, shtypni dërgo.',e_nome:'Shkruani emrin.',e_mail:'Shkruani një adresë email të vlefshme.',e_msg:'Na tregoni në dy rreshta për çfarë keni nevojë.',subj:'Kërkesë nga faqja'},
+        hr:{call:'Nazovite',wa:'WhatsApp',write:'Pišite nam',sending:'Šalje se…',ok:'Upit je poslan! Odgovorit ćemo e-mailom što prije.',fail:'Nismo uspjeli poslati sa stranice: otvorila se aplikacija za e-mail s pripremljenom porukom, samo pritisnite pošalji.',e_nome:'Upišite ime.',e_mail:'Upišite ispravnu e-mail adresu.',e_msg:'Recite nam u dva retka što vam treba.',subj:'Upit sa stranice'},
+        en:{call:'Call',wa:'WhatsApp',write:'Email us',sending:'Sending…',ok:'Request sent! We will reply by email as soon as possible.',
         fail:'We could not send it from the site: your email app has opened with the message ready, just press send.',
         e_nome:'Please enter your name.',e_mail:'Please enter a valid email address.',e_msg:'Tell us in a couple of lines what you need.',subj:'Website enquiry'},
     de:{call:'Anrufen',wa:'WhatsApp',write:'Schreiben',sending:'Wird gesendet…',ok:'Anfrage gesendet! Wir antworten so schnell wie möglich per E-Mail.',
@@ -33,7 +36,10 @@
   var URG_IT=['Subito (entro 2 settimane)','Entro un mese','Fra 1 e 3 mesi','Sto solo valutando'];
   var UTX={
     it:{q:'Quando vorresti partire?',o:['Subito, entro 2 settimane','Entro un mese','Fra 1 e 3 mesi','Sto solo valutando'],hot:'Perfetto, mettiamo la tua richiesta in cima alla lista.'},
-    en:{q:'When would you like to start?',o:['Right away, within 2 weeks','Within a month','In 1 to 3 months','Just exploring'],hot:'Great, we will put your request at the top of the list.'},
+    ro:{q:'Când ați vrea să începeți?',o:['Imediat, în 2 săptămâni','În decurs de o lună','În 1–3 luni','Doar mă informez'],hot:'Perfect, cererea dvs. ajunge prima pe listă.'},
+        sq:{q:'Kur do të donit të fillonit?',o:['Menjëherë, brenda 2 javësh','Brenda një muaji','Për 1 deri në 3 muaj','Thjesht po informohem'],hot:'Shkëlqyeshëm, kërkesa juaj del e para në listë.'},
+        hr:{q:'Kada biste željeli početi?',o:['Odmah, u roku od 2 tjedna','U roku od mjesec dana','Za 1 do 3 mjeseca','Samo se informiram'],hot:'Odlično, vaš upit stavljamo na vrh popisa.'},
+        en:{q:'When would you like to start?',o:['Right away, within 2 weeks','Within a month','In 1 to 3 months','Just exploring'],hot:'Great, we will put your request at the top of the list.'},
     de:{q:'Wann möchten Sie starten?',o:['Sofort, in 2 Wochen','Innerhalb eines Monats','In 1 bis 3 Monaten','Ich informiere mich nur'],hot:'Perfekt, Ihre Anfrage kommt ganz nach oben auf die Liste.'},
     fr:{q:'Quand souhaitez-vous démarrer ?',o:['Tout de suite, sous 2 semaines','Dans le mois','Dans 1 à 3 mois','Je me renseigne'],hot:'Parfait, nous mettons votre demande en haut de la liste.'},
     es:{q:'¿Cuándo te gustaría empezar?',o:['Ya, en 2 semanas','En un mes','En 1 a 3 meses','Solo estoy valorando'],hot:'Perfecto, ponemos tu solicitud la primera de la lista.'}
