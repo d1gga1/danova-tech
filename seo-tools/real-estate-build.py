@@ -185,7 +185,7 @@ def post(d, s):
     # hero: sempre immagine ad alta risoluzione (un video 720p a tutto schermo risulta sfocato)
     bg = immagine(d['hero'], d.get('heroalt', d['ogtitle']), ctx='hero', lazy=False)
     if 'rel="preload" as="image"' not in s:
-        s = s.replace('<link rel="canonical"', '<link rel="preload" as="image" type="image/avif" imagesrcset="%s" imagesizes="100vw" fetchpriority="high">\n<link rel="canonical"' % _ss(d['hero'], 'avif'), 1)
+        s = s.replace('<link rel="canonical"', '<link rel="preload" as="image" type="image/avif" imagesrcset="%s" imagesizes="(orientation: portrait) 150vh, 100vw" fetchpriority="high">\n<link rel="canonical"' % _ss(d['hero'], 'avif'), 1)
     s = s.replace('<section class="pg-hero">\n  <div class="wrap">',
                   '<section class="pg-hero re-hero">\n  <div class="re-bg">%s</div>\n  <div class="wrap">' % bg, 1)
     badges = d.get('badges', UI('badges'))
@@ -243,6 +243,11 @@ if __name__ == '__main__':
     solo = sys.argv[1:]   # facoltativo: lingue da generare (es. en de)
     tutte = [d for D in DATI for d in getattr(D, 'PAGINE', [])]
     for d in tutte: d.setdefault('key', d['url'])
+    # 24/10/2026: copertine diverse per "Hotel" (ristrutturazione) e "Arredo hotel" e per le pagine hotel vicine
+    HERO = {'/ristrutturazione-hotel/': 're-hotel-dolomiti-esterno', '/guide/ristrutturare-un-hotel/': 're-hotel-garda-terrazza',
+            '/arredo-hotel-cortina/': 're-lobby-hotel-dolomiti'}
+    for d in tutte:
+        if d['key'] in HERO: d['hero'] = HERO[d['key']]
     n = 0
     for d in tutte:
         if solo and d['lang'] not in solo: continue

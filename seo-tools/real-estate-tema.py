@@ -54,6 +54,14 @@ main>.pg-crumbs a,main>.pg-crumbs{color:#d9d8cc}
 @keyframes reKen{from{transform:scale(1)}to{transform:scale(1.06)}}
 .re-badges{display:flex;flex-wrap:wrap;gap:10px;margin-top:26px}
 .re-badges span{font-family:"JetBrains Mono",monospace;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;padding:8px 13px;border-radius:99px;border:1px solid rgba(217,211,197,.28);background:rgba(8,9,7,.55)}
+/* testo della copertina centrato */
+.re-hero{align-items:center;text-align:center;padding:110px 0 90px}
+.re-hero .wrap{display:flex;flex-direction:column;align-items:center}
+.re-hero h1{max-width:20ch;margin-inline:auto}
+.re-hero .lead{margin-inline:auto;max-width:64ch}
+.re-hero .eyebrow{justify-content:center;text-align:center}
+.re-hero .hero-cta{display:flex;flex-wrap:wrap;justify-content:center;gap:12px}
+.re-badges{justify-content:center}
 /* regole comuni ai media: mai piu' larghi della colonna, foto e video sempre interi in 16:9 */
 .re-ba-grid>*,.re-gal>*,.re-split>*{min-width:0}
 .re-ba picture,.re-gal picture,.re-video picture,.re-m picture{display:contents}
