@@ -21,7 +21,7 @@ def priorita(rel):
     p=rel.replace("\\","/")
     if p=="index.html": return "1.0","weekly"
     if re.match(r'^(en|de|fr|es)/index\.html$',p): return "0.9","weekly"
-    if re.search(r'(privacy|cookie|termini|terms|datenschutz|cookie-richtlinie|agb|confidentialite|cookies|conditions|privacidad|condiciones)/index\.html$',p):
+    if re.search(r'(privacy|cookie|termini|terms|datenschutz|cookie-richtlinie|agb|confidentialite|cookies|conditions|privacidad|condiciones|confidentialitate|politica-cookie|termeni-de-utilizare|privatesia|politika-e-cookie-ve|kushtet-e-perdorimit)/index\.html$',p):
         return "0.2","yearly"
     if re.search(r'(contatti|contact|kontakt|contacto)/index\.html$',p): return "0.6","monthly"
     if p.startswith("guide/"): return "0.7","monthly"
@@ -85,6 +85,24 @@ for rel in pages:
         out.append(f"      <video:description>{html.escape(html.unescape(des))}</video:description>")
         out.append(f"      <video:content_loc>{html.escape(SITE+src)}</video:content_loc>")
         out.append(f"      <video:duration>{int(round(float(dur)))}</video:duration>")
+        out.append("      <video:family_friendly>yes</video:family_friendly>")
+        out.append("    </video:video>")
+        nvid+=1
+    # video Danova Real Estate (24/10/2026): <video ... poster aria-label data-re-vid><source av1><source mp4>
+    vseen=set()
+    for m in re.finditer(r'<video\b[^>]*poster="([^"]+)"[^>]*aria-label="([^"]+)"[^>]*data-re-vid>(.*?)</video>',h,re.S):
+        pos,tit,srcs=m.groups()
+        mp4=[x for x in re.findall(r'<source src="([^"]+)"',srcs) if not x.endswith('.av1.mp4')]
+        if not mp4 or mp4[0] in vseen: continue
+        vseen.add(mp4[0])
+        dm=re.search(r'<meta name="description" content="([^"]*)"',h)
+        des=html.unescape(tit)+(" — "+html.unescape(dm.group(1)) if dm else "")
+        out.append("    <video:video>")
+        out.append(f"      <video:thumbnail_loc>{html.escape(SITE+pos)}</video:thumbnail_loc>")
+        out.append(f"      <video:title>{html.escape(html.unescape(tit))}</video:title>")
+        out.append(f"      <video:description>{html.escape(des[:2000])}</video:description>")
+        out.append(f"      <video:content_loc>{html.escape(SITE+mp4[0])}</video:content_loc>")
+        out.append("      <video:duration>5</video:duration>")
         out.append("      <video:family_friendly>yes</video:family_friendly>")
         out.append("    </video:video>")
         nvid+=1

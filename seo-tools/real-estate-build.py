@@ -23,6 +23,13 @@ pb.pd = DATI[0]
 for l, c in LG.CFG.items():
     pb.DONOR[l] = c['donor']; pb.LOC[l] = c['loc']; pb.OGL[l] = c['og']; pb.HOME[l] = c['home']
 IMG = '/assets/img/re/'; VID = '/assets/video/re/'
+RE_DESC = {
+ 'it': 'Divisione edilizia di Danova Tech: ristrutturazioni chiavi in mano, general contractor, facciate e cappotto, porte, cartongesso, pavimenti, arredo hotel e mobili su misura in Veneto e Friuli Venezia Giulia.',
+ 'en': 'Construction division of Danova Tech: turnkey renovations, general contracting, facades and insulation, doors, drywall, flooring, hotel furniture and custom joinery in Veneto and Friuli Venezia Giulia, Italy.',
+ 'de': 'Bausparte von Danova Tech: schlüsselfertige Renovierungen, Generalunternehmer, Fassaden und Dämmung, Türen, Trockenbau, Böden, Hotel- und Maßmöbel in Venetien und Friaul-Julisch Venetien.',
+ 'ro': 'Divizia de construcții a Danova Tech: renovări la cheie, antreprenor general, fațade și izolații, uși, rigips, pardoseli, mobilier hotelier și mobilă la comandă în Veneto și Friuli Venezia Giulia, Italia.',
+ 'sq': 'Divizioni i ndërtimit i Danova Tech: rinovime çelës në dorë, kontraktor i përgjithshëm, fasada dhe termoizolim, dyer, gipskarton, dysheme, mobilim hotelesh dhe mobilje me porosi në Veneto dhe Friuli Venezia Giulia, Itali.',
+ 'hr': 'Građevinski odjel tvrtke Danova Tech: renoviranje po sistemu ključ u ruke, generalni izvođač, fasade, vrata, gips, podovi i namještaj za hotele u Venetu i Furlaniji.'}
 CUR = ['it']
 UI = lambda k: LG.UI[CUR[0]][k]
 
@@ -53,26 +60,43 @@ PROM = {
         ("Jedna kontakt osoba", "Jedna osoba koordinira ekipe, dobavljače i dozvole i redovito vas obavještava.")],
 }
 
-def immagine(nome, alt, w=1600, h=900, lazy=True, cls=''):
-    return ('<img src="%s%s.webp" srcset="%s%s-800.webp 800w, %s%s.webp 1600w" sizes="(max-width: 900px) 100vw, 50vw" '
-            'width="%d" height="%d" alt="%s"%s%s decoding="async">'
-            % (IMG, nome, IMG, nome, IMG, nome, w, h, html.escape(alt),
+W_IMG = [480, 800, 1200, 1600, 2000, 2688]
+SIZES = {'hero': '(orientation: portrait) 150vh, 100vw',
+         'ba': '(max-width: 900px) calc(100vw - 44px), 610px',
+         'split': '(max-width: 900px) calc(100vw - 44px), 640px',
+         'gal': '(max-width: 640px) calc(100vw - 44px), (max-width: 1000px) 50vw, 410px'}
+def _ss(nome, ext): return ', '.join('%s%s-%d.%s %dw' % (IMG, nome, w, ext, w) for w in W_IMG)
+
+def immagine(nome, alt, ctx='ba', lazy=True, cls=''):
+    """<picture> AVIF + WebP, 6 larghezze, immagine intera 16:9 (nessun ritaglio)"""
+    return ('<picture><source type="image/avif" srcset="%s" sizes="%s"><source type="image/webp" srcset="%s" sizes="%s">'
+            '<img src="%s%s-1200.webp" width="1600" height="900" alt="%s"%s%s decoding="async"></picture>'
+            % (_ss(nome, 'avif'), SIZES[ctx], _ss(nome, 'webp'), SIZES[ctx], IMG, nome, html.escape(alt),
                ' loading="lazy"' if lazy else ' fetchpriority="high"', (' class="%s"' % cls) if cls else ''))
 
 def video(nome, poster, titolo, auto=True):
-    return ('<video %splaysinline preload="none" width="1280" height="720" poster="%s%s.webp" title="%s" data-re-vid>'
-            '<source src="%s%s.mp4" type="video/mp4"></video>'
-            % ('muted loop autoplay ' if auto else 'controls ', IMG, poster, html.escape(titolo), VID, nome))
+    """niente autoplay nell'HTML: il video si scarica e parte solo quando entra nello schermo (VJS)"""
+    return ('<video %splaysinline muted loop preload="none" width="1276" height="720" poster="%s%s-poster.webp" aria-label="%s" data-re-vid>'
+            '<source src="%s%s.av1.mp4" type=\'video/mp4; codecs="av01.0.05M.08"\'><source src="%s%s.mp4" type="video/mp4"></video>'
+            % ('data-auto ' if auto else 'controls ', IMG, nome, html.escape(titolo), VID, nome, VID, nome))
 
 VJS = ('<script>(function(){if(window.__reV)return;window.__reV=1;'
        'var vs=[].slice.call(document.querySelectorAll("video[data-re-vid]"));'
        'var rm=window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches;'
-       'if(!("IntersectionObserver" in window)||rm)return;'
-       'var o=new IntersectionObserver(function(es){es.forEach(function(x){var v=x.target;'
-       'if(x.isIntersecting){if(v.preload==="none")v.preload="auto";if(v.autoplay){var p=v.play();if(p&&p.catch)p.catch(function(){});}}'
-       'else if(v.autoplay)v.pause();});},{rootMargin:"200px"});vs.forEach(function(v){o.observe(v);});'
        '[].slice.call(document.querySelectorAll(".re-ba input")).forEach(function(i){i.addEventListener("input",function(){'
-       'i.parentNode.style.setProperty("--p",i.value+"%");});});})();</script>\n')
+       'i.parentNode.style.setProperty("--p",i.value+"%");});});'
+       'if(rm||!("IntersectionObserver" in window)){vs.forEach(function(v){v.controls=true;v.preload="metadata";});return;}'
+       'var o=new IntersectionObserver(function(es){es.forEach(function(x){var v=x.target;'
+       'if(x.isIntersecting){if(v.preload==="none"){v.preload="auto";}if(v.hasAttribute("data-auto")){var p=v.play();if(p&&p.catch)p.catch(function(){});}}'
+       'else if(!v.paused)v.pause();});},{rootMargin:"300px 0px",threshold:0.01});vs.forEach(function(v){o.observe(v);});})();</script>\n')
+
+def gal_span(n):
+    if n == 1: return [6]
+    if n in (2, 4): return [3] * n
+    r = n % 3
+    if r == 0: return [2] * n
+    if r == 2: return [2] * (n - 2) + [3, 3]
+    return [2] * (n - 4) + [3] * 4
 
 def head_sec(sec):
     o = ['<section id="%s">\n  <div class="wrap">\n    <div class="sec-head">\n' % sec['id']]
@@ -87,29 +111,35 @@ def sezione(sec):
     if t not in ('ba', 'gal', 'split', 'promesse'): return _prev(sec)
     o = head_sec(sec)
     if t == 'ba':
-        o.append('    <div class="re-ba-grid">\n')
+        figs = []
         for it in sec['items']:
-            o.append('      <figure class="re-ba-fig" data-rv="up">\n        <div class="re-ba">%s%s'
+            figs.append(['ba', '<figure class="re-ba-fig@@W@@" data-rv="up">\n        <div class="re-ba">%s%s'
                      '<span class="re-linea"></span><span class="re-et p">%s</span><span class="re-et d">%s</span>'
                      '<input type="range" min="0" max="100" value="50" aria-label="%s: %s"></div>\n'
-                     '        <figcaption><b>%s</b> · %s</figcaption>\n      </figure>\n'
+                     '        <figcaption><b>%s</b> <span>%s</span></figcaption>\n      </figure>\n'
                      % (immagine(it['prima'], UI('prima') + ': ' + it['titolo']), immagine(it['dopo'], UI('dopo') + ': ' + it['titolo'], cls='re-dopo'),
-                        UI('prima'), UI('dopo'), html.escape(UI('cmp')), html.escape(it['titolo']), e(it['titolo']), e(it['testo'])))
+                        UI('prima'), UI('dopo'), html.escape(UI('cmp')), html.escape(it['titolo']), e(it['titolo']), e(it['testo']))])
+        for nome, poster, tit in sec.get('video', []):
+            figs.append(['vid', '<figure class="re-video@@W@@" data-rv="up">%s<figcaption>%s</figcaption></figure>\n' % (video(nome, poster, tit), e(tit))])
+        if len(figs) % 2 == 1 and len(figs) > 1:      # numero dispari: l'ultimo occupa tutta la riga (immagine + testo affiancati)
+            ib = [i for i, x in enumerate(figs) if x[0] == 'ba']
+            k = ib[-1] if ib else len(figs) - 1
+            figs.append(figs.pop(k)); figs[-1][1] = figs[-1][1].replace('@@W@@', ' re-wide' if figs[-1][0] == 'ba' else ' re-solo')
+        elif len(figs) == 1:
+            figs[0][1] = figs[0][1].replace('@@W@@', ' re-wide' if figs[0][0] == 'ba' else ' re-solo')
+        o.append('    <div class="re-ba-grid">\n')
+        for x in figs: o.append('      ' + x[1].replace('@@W@@', ''))
         o.append('    </div>\n')
-        if sec.get('video'):
-            o.append('    <div class="re-ba-grid" style="margin-top:26px">\n')
-            for nome, poster, tit in sec['video']:
-                o.append('      <figure class="re-video" data-rv="up">%s<figcaption>%s</figcaption></figure>\n' % (video(nome, poster, tit), e(tit)))
-            o.append('    </div>\n')
         o.append('    <p class="re-nota-img">%s</p>\n' % UI('nota'))
     elif t == 'gal':
+        sp = gal_span(len(sec['items']))
         o.append('    <div class="re-gal">\n')
-        for it in sec['items']:
-            media = video(it['video'], it['img'], it['titolo']) if it.get('video') else immagine(it['img'], it.get('alt', it['titolo']))
-            o.append('      <figure data-rv="up">%s<figcaption><b>%s</b><span>%s</span></figcaption></figure>\n' % (media, e(it['titolo']), e(it['testo'])))
+        for it, k in zip(sec['items'], sp):
+            media = video(it['video'], it['img'], it['titolo']) if it.get('video') else immagine(it['img'], it.get('alt', it['titolo']), ctx='gal')
+            o.append('      <figure class="s%d" data-rv="up"><div class="re-m">%s</div><figcaption><b>%s</b><span>%s</span></figcaption></figure>\n' % (k, media, e(it['titolo']), e(it['testo'])))
         o.append('    </div>\n    <p class="re-nota-img">%s</p>\n' % UI('nota'))
     elif t == 'split':
-        media = (video(sec['video'], sec['img'], sec['didascalia']) if sec.get('video') else immagine(sec['img'], sec['didascalia']))
+        media = (video(sec['video'], sec['img'], sec['didascalia']) if sec.get('video') else immagine(sec['img'], sec['didascalia'], ctx='split'))
         o.append('    <div class="re-split">\n      <figure class="re-video" data-rv="up">%s<figcaption>%s</figcaption></figure>\n      <div class="pg-testo" data-rv="up">\n%s      </div>\n    </div>\n'
                  % (media, e(sec['didascalia']), ''.join('        <p>%s</p>\n' % p for p in sec['corpo'])))
     elif t == 'promesse':
@@ -152,8 +182,10 @@ def post(d, s):
         s = re.sub(r'href="\.\./(?!\.\./)', 'href="/en/', s)
     if lang not in ('it', 'en'):
         s = s.replace('<a href="%s">Home</a>' % pb.HOME[lang], '<a href="%s">%s</a>' % (pb.HOME[lang], UI('home')), 1)
-    bg = video(d['herovid'], d['hero'], d['ogtitle']) if d.get('herovid') else immagine(d['hero'], d.get('heroalt', d['ogtitle']), lazy=False)
-    bg = bg.replace('preload="none"', 'preload="metadata"')
+    # hero: sempre immagine ad alta risoluzione (un video 720p a tutto schermo risulta sfocato)
+    bg = immagine(d['hero'], d.get('heroalt', d['ogtitle']), ctx='hero', lazy=False)
+    if 'rel="preload" as="image"' not in s:
+        s = s.replace('<link rel="canonical"', '<link rel="preload" as="image" type="image/avif" imagesrcset="%s" imagesizes="100vw" fetchpriority="high">\n<link rel="canonical"' % _ss(d['hero'], 'avif'), 1)
     s = s.replace('<section class="pg-hero">\n  <div class="wrap">',
                   '<section class="pg-hero re-hero">\n  <div class="re-bg">%s</div>\n  <div class="wrap">' % bg, 1)
     badges = d.get('badges', UI('badges'))
@@ -176,6 +208,33 @@ def post(d, s):
         if n.get('@type') == 'BreadcrumbList' and lang not in ('it', 'en'):
             n['itemListElement'][0]['name'] = UI('home')
     if not any(n.get('@id') == imgobj['@id'] for n in g['@graph']): g['@graph'].append(imgobj)
+    # entita' Danova Real Estate (GeneralContractor, divisione di Danova Tech) + VideoObject dei video in pagina
+    org = next((n for n in g['@graph'] if n.get('@id') == SITE + '/#organization'), {})
+    reid = SITE + '/real-estate/#danova-real-estate'
+    rorg = {"@type": "GeneralContractor", "@id": reid, "name": "Danova Real Estate", "alternateName": "Danova Real Estate by Danova Tech",
+            "description": RE_DESC[lang], "url": SITE + LG.url('/real-estate/', lang), "logo": SITE + "/assets/img/logo.png",
+            "image": SITE + IMG + 're-soggiorno-nuovo.jpg', "telephone": org.get('telephone', '+39 388 470 6887'), "email": org.get('email', 'info@danova-tech.com'),
+            "address": org.get('address'), "geo": org.get('geo'),
+            "areaServed": [{"@type": "AdministrativeArea", "name": "Veneto"}, {"@type": "AdministrativeArea", "name": "Friuli-Venezia Giulia"}],
+            "knowsLanguage": ["it", "en", "ro"], "parentOrganization": {"@id": SITE + "/#organization"},
+            "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "telephone": "+39 388 470 6887", "email": "info@danova-tech.com", "availableLanguage": ["Italian", "English", "Romanian"]}}
+    rorg = {k: v for k, v in rorg.items() if v}
+    g['@graph'] = [n for n in g['@graph'] if n.get('@id') != reid and n.get('@type') != 'VideoObject']
+    g['@graph'].append(rorg)
+    for n in g['@graph']:
+        if n.get('@type') == 'Service': n['provider'] = {"@id": reid}
+    dm = re.search(r'<meta name="description" content="([^"]*)"', s)
+    pdesc = html.unescape(dm.group(1)) if dm else ''
+    vis = set()
+    for vm in re.finditer(r'<video\b[^>]*poster="([^"]+)"[^>]*aria-label="([^"]+)"[^>]*data-re-vid>(.*?)</video>', s, re.S):
+        pos, tit, srcs = vm.groups()
+        mp4 = [x for x in re.findall(r'<source src="([^"]+)"', srcs) if not x.endswith('.av1.mp4')][0]
+        if mp4 in vis: continue
+        vis.add(mp4); tit = html.unescape(tit)
+        g['@graph'].append({"@type": "VideoObject", "@id": SITE + d['url'] + '#video-' + os.path.basename(mp4)[:-4], "name": tit,
+                            "description": (tit + ' — ' + pdesc)[:500], "thumbnailUrl": [SITE + pos], "contentUrl": SITE + mp4,
+                            "uploadDate": "2026-10-24T09:00:00+02:00", "duration": "PT5S", "inLanguage": LG.CFG[lang]['hl'][0],
+                            "isFamilyFriendly": True, "publisher": {"@id": SITE + "/#organization"}})
     s = s[:m.start(1)] + '\n' + json.dumps(g, ensure_ascii=False, indent=2) + '\n' + s[m.end(1):]
     return s
 

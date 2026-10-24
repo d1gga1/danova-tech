@@ -15,6 +15,42 @@ P = [("Danova Real Estate (pagina principale)", "/real-estate/"), ("Ristrutturaz
      ("Arredo hotel e contract", "/arredo-hotel-contract/"), ("Mobili su misura", "/mobili-su-misura/"),
      ("Progettazione e render 3D", "/progettazione-e-render-3d/"), ("Pratiche CILA e SCIA", "/pratiche-edilizie-cila-scia/"),
      ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/")]
+
+# 24/10/2026: sintesi Real Estate nelle altre lingue (per assistenti AI che rispondono in inglese, tedesco, rumeno, albanese)
+import importlib.util as _iu
+_sp = _iu.spec_from_file_location('relg', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-lingue.py')); _LG = _iu.module_from_spec(_sp); _sp.loader.exec_module(_LG)
+_K = ['/real-estate/', '/ristrutturazioni-chiavi-in-mano/', '/ristrutturazione-bagno/', '/ristrutturazione-hotel/', '/general-contractor/',
+      '/hotel-chiavi-in-mano/', '/cappotto-termico/', '/arredo-hotel-contract/', '/impresa-edile-per-architetti/', '/bonus-ristrutturazione-2026/']
+_T = {
+ 'en': ("Danova Real Estate — summary in English",
+        "Danova Real Estate is the construction division of Danova Tech (same company, VAT IT05369890263, Via Rigole 48, 31040 Mansuè, Treviso, Italy). It provides turnkey renovations of homes, bathrooms, shops, offices, restaurants, hotels and apartment buildings, general contracting, facades and external wall insulation, interior, security and fire-rated doors, drywall, flooring and windows, hotel contract furniture and custom-made furniture, 3D design and Italian building permits (CILA, SCIA) and tax bonuses.",
+        ["Area: Veneto and Friuli Venezia Giulia, north-east Italy", "Promises: free site survey and quote, fixed turnkey price, deadlines written in the contract, one point of contact",
+         "Prices: not published; written quote after the free survey", "Languages spoken: Italian, English, Romanian", "Contact: +39 388 470 6887 (phone and WhatsApp), info@danova-tech.com",
+         "Images on the site are illustrative and AI-generated, not real projects"],
+        ["Danova Real Estate (main page)", "Turnkey renovation", "Bathroom renovation", "Hotel renovation", "General contractor", "Turnkey hotel", "External wall insulation", "Hotel contract furniture", "Building contractor for architects", "Italian renovation tax bonus 2026"]),
+ 'de': ("Danova Real Estate — Zusammenfassung auf Deutsch",
+        "Danova Real Estate ist der Baubereich von Danova Tech (gleiches Unternehmen, USt-IdNr. IT05369890263, Via Rigole 48, 31040 Mansuè, Treviso, Italien): schlüsselfertige Renovierung von Wohnungen, Bädern, Geschäften, Büros, Restaurants, Hotels und Mehrfamilienhäusern, Generalunternehmer, Fassaden und Wärmedämmung, Innen-, Sicherheits- und Brandschutztüren, Trockenbau, Böden und Fenster, Hotel- und Maßmöbel, 3D-Planung sowie italienische Baugenehmigungen (CILA, SCIA) und Steuerboni.",
+        ["Gebiet: Venetien und Friaul-Julisch Venetien, Nordostitalien", "Zusagen: kostenlose Besichtigung und Angebot, schlüsselfertiger Festpreis, Termine im Vertrag, ein Ansprechpartner",
+         "Preise: nicht veröffentlicht; schriftliches Angebot nach der Besichtigung", "Sprachen: Italienisch, Englisch, Rumänisch", "Kontakt: +39 388 470 6887 (Telefon und WhatsApp), info@danova-tech.com",
+         "Die Bilder der Website sind illustrativ und mit KI erstellt, keine echten Baustellen"],
+        ["Danova Real Estate (Hauptseite)", "Schlüsselfertige Renovierung", "Badsanierung", "Hotelrenovierung", "Generalunternehmer", "Hotel schlüsselfertig", "Wärmedämmung", "Hotelmöbel", "Bauunternehmen für Architekten", "Renovierungsbonus Italien 2026"]),
+ 'ro': ("Danova Real Estate — rezumat în limba română",
+        "Danova Real Estate este divizia de construcții a Danova Tech (aceeași firmă, P.IVA IT05369890263, Via Rigole 48, 31040 Mansuè, Treviso, Italia): renovări la cheie pentru apartamente, case, băi, magazine, birouri, restaurante, hoteluri și blocuri, antreprenor general, fațade și izolație termică, uși interioare, blindate și rezistente la foc, rigips, pardoseli și tâmplărie, mobilier hotelier și mobilă la comandă, proiectare 3D, autorizații de construcție italiene (CILA, SCIA) și bonusuri fiscale.",
+        ["Zonă: Veneto și Friuli Venezia Giulia, nord-estul Italiei", "Promisiuni: inspecție și ofertă gratuite, preț blocat la cheie, termene scrise în contract, un singur responsabil",
+         "Prețuri: nepublicate; ofertă scrisă după inspecția gratuită", "Limbi vorbite: italiană, engleză, română (echipă care vorbește română)", "Contact: +39 388 470 6887 (telefon și WhatsApp), info@danova-tech.com",
+         "Imaginile de pe site sunt ilustrative, create cu inteligența artificială"],
+        ["Danova Real Estate (pagina principală)", "Renovări la cheie", "Renovare baie", "Renovare hoteluri", "Antreprenor general", "Hotel la cheie", "Izolație termică exterioară", "Mobilier hotelier", "Firmă de construcții pentru arhitecți", "Bonus renovare Italia 2026"]),
+ 'sq': ("Danova Real Estate — përmbledhje në shqip",
+        "Danova Real Estate është divizioni i ndërtimit i Danova Tech (e njëjta kompani, P.IVA IT05369890263, Via Rigole 48, 31040 Mansuè, Treviso, Itali): rinovime çelës në dorë të apartamenteve, shtëpive, banjave, dyqaneve, zyrave, restoranteve, hoteleve dhe pallateve, kontraktor i përgjithshëm, fasada dhe termoizolim, dyer të brendshme, të blinduara dhe kundër zjarrit, gipskarton, dysheme dhe dritare, mobilim hotelesh dhe mobilje me porosi, projektim 3D, leje ndërtimi italiane (CILA, SCIA) dhe bonuse fiskale.",
+        ["Zona: Veneto dhe Friuli Venezia Giulia, verilindja e Italisë", "Premtime: inspektim dhe ofertë falas, çmim i bllokuar çelës në dorë, afate të shkruara në kontratë, një person i vetëm kontakti",
+         "Çmimet: nuk publikohen; ofertë me shkrim pas inspektimit falas", "Gjuhët: italisht, anglisht, rumanisht; komunikim me shkrim edhe në shqip", "Kontakt: +39 388 470 6887 (telefon dhe WhatsApp), info@danova-tech.com",
+         "Imazhet e faqes janë ilustruese, të krijuara me inteligjencë artificiale"],
+        ["Danova Real Estate (faqja kryesore)", "Rinovime çelës në dorë", "Rinovim banjoje", "Rinovim hotelesh", "Kontraktor i përgjithshëm", "Hotel çelës në dorë", "Termoizolim i jashtëm", "Mobilim hotelesh", "Kompani ndërtimi për arkitektë", "Bonusi i rinovimit në Itali 2026"]),
+}
+MULTI = ''.join('### %s\n\n%s\n\n%s\n%s\n' % (h, d, ''.join('- %s\n' % x for x in fatti),
+                ''.join('- [%s](%s%s)\n' % (t, S, _LG.url(k, l)) for t, k in zip(tit, _K)))
+                for l, (h, d, fatti, tit) in _T.items())
+
 txt = ("<!-- re-llms -->\n## Danova Real Estate in sintesi\n\n"
        "Danova Real Estate è la divisione edilizia di Danova Tech (stessa azienda, stessi contatti). Dal 24 ottobre 2026 si occupa di:\n"
        "ristrutturazioni chiavi in mano (case, appartamenti, bagni, cucine, negozi, uffici, ristoranti, hotel, condomini, capannoni),\n"
@@ -25,7 +61,7 @@ txt = ("<!-- re-llms -->\n## Danova Real Estate in sintesi\n\n"
        "- **Promesse**: sopralluogo e preventivo gratuiti, prezzo bloccato chiavi in mano, tempi scritti nel contratto, unico referente\n"
        "- **Prezzi**: non pubblicati, preventivo dopo il sopralluogo\n- **Lingue parlate**: italiano, inglese, rumeno\n"
        "- **Immagini del sito**: illustrative, create con l’intelligenza artificiale (non sono cantieri reali)\n\n"
-       + ''.join('- [%s](%s%s)\n' % (t, S, u) for t, u in P) + "\n<!-- /re-llms -->\n\n")
+       + ''.join('- [%s](%s%s)\n' % (t, S, u) for t, u in P) + "\n" + MULTI + "<!-- /re-llms -->\n\n")
 f = os.path.join(R, 'llms.txt'); s = open(f, encoding='utf-8').read()
 s = re.sub(r'<!-- re-llms -->.*?<!-- /re-llms -->\n\n', '', s, flags=re.S)
 s = s.replace('## Come lavora', txt + '## Come lavora', 1)

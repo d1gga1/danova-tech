@@ -27,7 +27,9 @@ HOME = r'''<!--re-home-->
 .re-home .re-l a:hover{background:rgba(169,193,159,.18);border-color:#a9c19f}
 .re-home .re-b{display:inline-flex;align-items:center;gap:10px;padding:14px 26px;border-radius:99px;font-weight:600;background:linear-gradient(120deg,#d6e2cd,#b4c9a9 55%,#93ad89);color:#10160e}
 .re-home .re-b2{margin-left:10px;color:#dfe6d8;border-bottom:1px solid rgba(169,193,159,.5)}
-.re-home .re-ba{position:relative;aspect-ratio:16/10;border-radius:20px;overflow:hidden;border:1px solid rgba(217,211,197,.18);--p:50%;touch-action:pan-y}
+.re-home .re-ba picture{display:contents}
+.re-home .re-card>*{min-width:0}
+.re-home .re-ba{position:relative;aspect-ratio:16/9;border-radius:20px;overflow:hidden;border:1px solid rgba(217,211,197,.18);--p:50%;touch-action:pan-y}
 .re-home .re-ba img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
 .re-home .re-ba .d{clip-path:inset(0 0 0 var(--p))}
 .re-home .re-ba .ln{position:absolute;top:0;bottom:0;left:var(--p);width:2px;background:#ecebe4;transform:translateX(-1px)}
@@ -52,7 +54,7 @@ HOME = r'''<!--re-home-->
         <a class="re-b2" href="/real-estate/#contatti">Prenota il sopralluogo</a>
       </div>
       <div>
-        <div class="re-ba"><img src="/assets/img/re/re-soggiorno-prima-800.webp" width="800" height="450" alt="Prima: appartamento da ristrutturare" loading="lazy" decoding="async"><img class="d" src="/assets/img/re/re-soggiorno-nuovo-800.webp" width="800" height="450" alt="Dopo: appartamento ristrutturato in bianco e grigio" loading="lazy" decoding="async"><span class="ln"></span><span class="et p">Prima</span><span class="et q">Dopo</span><input type="range" min="0" max="100" value="50" aria-label="Confronta prima e dopo" oninput="this.parentNode.style.setProperty('--p',this.value+'%')"></div>
+        <div class="re-ba"><picture><source type="image/avif" srcset="/assets/img/re/re-soggiorno-prima-480.avif 480w, /assets/img/re/re-soggiorno-prima-800.avif 800w, /assets/img/re/re-soggiorno-prima-1200.avif 1200w, /assets/img/re/re-soggiorno-prima-1600.avif 1600w, /assets/img/re/re-soggiorno-prima-2000.avif 2000w" sizes="(max-width: 900px) calc(100vw - 90px), 560px"><source type="image/webp" srcset="/assets/img/re/re-soggiorno-prima-480.webp 480w, /assets/img/re/re-soggiorno-prima-800.webp 800w, /assets/img/re/re-soggiorno-prima-1200.webp 1200w, /assets/img/re/re-soggiorno-prima-1600.webp 1600w, /assets/img/re/re-soggiorno-prima-2000.webp 2000w" sizes="(max-width: 900px) calc(100vw - 90px), 560px"><img src="/assets/img/re/re-soggiorno-prima-1200.webp" width="1600" height="900" alt="Prima: appartamento da ristrutturare" loading="lazy" decoding="async"></picture><picture><source type="image/avif" srcset="/assets/img/re/re-soggiorno-nuovo-480.avif 480w, /assets/img/re/re-soggiorno-nuovo-800.avif 800w, /assets/img/re/re-soggiorno-nuovo-1200.avif 1200w, /assets/img/re/re-soggiorno-nuovo-1600.avif 1600w, /assets/img/re/re-soggiorno-nuovo-2000.avif 2000w" sizes="(max-width: 900px) calc(100vw - 90px), 560px"><source type="image/webp" srcset="/assets/img/re/re-soggiorno-nuovo-480.webp 480w, /assets/img/re/re-soggiorno-nuovo-800.webp 800w, /assets/img/re/re-soggiorno-nuovo-1200.webp 1200w, /assets/img/re/re-soggiorno-nuovo-1600.webp 1600w, /assets/img/re/re-soggiorno-nuovo-2000.webp 2000w" sizes="(max-width: 900px) calc(100vw - 90px), 560px"><img class="d" src="/assets/img/re/re-soggiorno-nuovo-1200.webp" width="1600" height="900" alt="Dopo: appartamento ristrutturato in bianco e grigio" loading="lazy" decoding="async"></picture><span class="ln"></span><span class="et p">Prima</span><span class="et q">Dopo</span><input type="range" min="0" max="100" value="50" aria-label="Confronta prima e dopo" oninput="this.parentNode.style.setProperty('--p',this.value+'%')"></div>
         <small>Immagine illustrativa creata con l’intelligenza artificiale.</small>
       </div>
     </div>
