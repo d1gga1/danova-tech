@@ -149,6 +149,7 @@ def main():
     src = open(os.path.join(R, 'assets/css/site.css'), encoding='utf-8').read()
     css = '/* GENERATO da seo-tools/real-estate-tema.py: non modificare a mano */\n' + ricolora(src) + EXTRA
     open(os.path.join(R, 'assets/css/real-estate.css'), 'w', encoding='utf-8').write(css)
+    import hashlib; ver = hashlib.md5(css.encode('utf-8')).hexdigest()[:10]   # versione nel link: il browser riscarica lo stile quando cambia
     n = 0
     for f in glob.glob(os.path.join(R, '**', 'index.html'), recursive=True):
         if '/seo-tools/' in f or '/_archivio/' in f: continue
@@ -156,6 +157,7 @@ def main():
         if 'name="dt-sezione" content="real-estate"' not in s: continue
         s0 = s
         s = re.sub(r'(href="[./]*?/?assets/css/)site\.css(\?[^"]*)?"', r'\1real-estate.css"', s)
+        s = re.sub(r'(assets/css/real-estate\.css)(\?v=[0-9a-f]+)?"', r'\1?v=%s"' % ver, s)
         s = re.sub(r'(<style\b[^>]*>)(.*?)(</style>)', lambda m: m.group(1) + ricolora(m.group(2)) + m.group(3), s, flags=re.S)
         s = re.sub(r'(style=")([^"]*)(")', lambda m: m.group(1) + ricolora(m.group(2)) + m.group(3), s)
         s = re.sub(r'<span class="wordmark"><b>DANOVA</b><i>[^<]*</i></span>', '<span class="wordmark"><b>DANOVA</b><i>REAL ESTATE</i></span>', s)
