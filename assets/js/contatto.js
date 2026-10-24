@@ -97,6 +97,10 @@
       e.preventDefault();
       if(val(f,'_honey')) return;
       var chk=[['nome',T.e_nome,function(v){return v.length>1;}],['email',T.e_mail,function(v){return MAILRE.test(v);}],['msg',T.e_msg,function(v){return v.length>3;}]];
+      /* 24/10/2026: telefono obbligatorio dove il campo ha l'attributo required (pagine Real Estate) */
+      var tel=f.elements['tel'];
+      if(tel && tel.required){ var ET={it:'Inserisci un numero di telefono valido.',en:'Please enter a valid phone number.',de:'Bitte geben Sie eine gültige Telefonnummer ein.',ro:'Introduceți un număr de telefon valid.',sq:'Shkruani një numër telefoni të vlefshëm.',hr:'Unesite ispravan broj telefona.',fr:'Indiquez un numéro de téléphone valide.',es:'Introduce un número de teléfono válido.'};
+        chk.splice(2,0,['tel',ET[(document.documentElement.lang||'it').slice(0,2).toLowerCase()]||ET.en,function(v){return v.replace(/\D/g,'').length>=6;}]); }
       for(var i=0;i<chk.length;i++){ var el=f.elements[chk[i][0]]; if(el && !chk[i][2](val(f,chk[i][0]))){ el.classList.add('bad'); el.focus(); say(chk[i][1],'err'); return; } }
       var fields=[['Nome',val(f,'nome')],['Email',val(f,'email')],['Telefono',val(f,'tel')],['Messaggio',val(f,'msg')]];
       var _h1=document.querySelector('h1'); var subj=T.subj+' - '+(_h1?(_h1.innerText||_h1.textContent):'');

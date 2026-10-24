@@ -42,7 +42,9 @@ body{background:#080907}
 .wordmark i{letter-spacing:.18em}
 /* hero con immagine ad alta risoluzione */
 .re-hero{position:relative;min-height:min(86vh,820px);display:flex;align-items:flex-end;padding:120px 0 70px;overflow:hidden}
-.re-hero .re-bg{position:absolute;inset:0;z-index:0;overflow:hidden}
+.re-hero .re-bg{position:absolute;inset:0;z-index:0;overflow:hidden;-webkit-mask-image:linear-gradient(180deg,transparent 0,rgba(0,0,0,.35) 60px,rgba(0,0,0,.8) 150px,#000 240px);mask-image:linear-gradient(180deg,transparent 0,rgba(0,0,0,.35) 60px,rgba(0,0,0,.8) 150px,#000 240px)}
+/* sfocatura graduata sul bordo alto della foto: niente taglio netto tra fondo e immagine */
+.re-hero::before{content:"";position:absolute;left:0;right:0;top:0;height:220px;z-index:1;pointer-events:none;-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px);-webkit-mask-image:linear-gradient(180deg,#000 0,rgba(0,0,0,.6) 45%,transparent 100%);mask-image:linear-gradient(180deg,#000 0,rgba(0,0,0,.6) 45%,transparent 100%)}
 .re-hero .re-bg picture{display:contents}
 .re-hero .re-bg img,.re-hero .re-bg video{width:100%;height:100%;object-fit:cover;object-position:50% 50%;transform-origin:50% 60%;animation:reKen 26s ease-in-out infinite alternate;will-change:transform}
 .re-hero::after{content:"";position:absolute;inset:0;z-index:1;background:linear-gradient(180deg,rgba(8,9,7,.30) 0%,rgba(8,9,7,.42) 40%,rgba(8,9,7,.86) 82%,#080907 100%),radial-gradient(ellipse at 20% 80%,rgba(169,193,159,.16),transparent 60%)}
@@ -110,6 +112,9 @@ body{background:#080907}
 @media(max-width:760px){.f-top.re-foot{grid-template-columns:repeat(2,minmax(0,1fr));gap:28px 20px}}
 @media(max-width:420px){.f-top.re-foot{grid-template-columns:minmax(0,1fr)}}
 .f-legal{flex-wrap:wrap}
+/* ancore: il titolo della sezione non finisce sotto l'intestazione fissa */
+html{scroll-padding-top:96px}
+body .dt-lead .form-note a{color:var(--sage)}#contatti{scroll-margin-top:96px}
 /* griglie di card senza buchi: l'ultima riga si allarga e riempie la larghezza */
 body .pg-link,body .pg-cards,body .pg-altri{display:flex;flex-wrap:wrap}
 body .pg-link>*{flex:1 1 250px;min-width:0}

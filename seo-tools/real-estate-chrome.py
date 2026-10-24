@@ -17,6 +17,7 @@ NAV = [('/ristrutturazioni-chiavi-in-mano/', T('Ristrutturazioni', 'Renovations'
        ('/arredo-hotel-contract/', T('Arredo hotel', 'Hotel furniture', 'Hotelmöbel', 'Mobilier hotelier', 'Mobilim hotelesh')),
        ('/facciate-ventilate-e-rifacimento-facciate/', T('Facciate', 'Facades', 'Fassaden', 'Fațade', 'Fasada')),
        ('/impresa-edile-per-architetti/', T('Per architetti', 'For architects', 'Für Architekten', 'Pentru arhitecți', 'Për arkitektë'))]
+TEL = T('Telefono', 'Phone', 'Telefon', 'Telefon', 'Telefoni')
 CONTATTI = T('Contatti', 'Contact', 'Kontakt', 'Contact', 'Kontakt')
 LAB = {
  '/ristrutturazioni-chiavi-in-mano/': T('Ristrutturazioni chiavi in mano', 'Turnkey renovation', 'Schlüsselfertige Renovierung', 'Renovări la cheie', 'Rinovime çelës në dorë'),
@@ -131,11 +132,19 @@ def main():
         s0 = s
         cur = '/' + rel[:-len('index.html')]
         home = U('/real-estate/', l)
-        contact = '#dt-scrivi' if 'id="dt-scrivi"' in s else home + '#dt-scrivi'
+        contact = '#contatti' if 'id="dt-scrivi"' in s else home + '#contatti'
         s = re.sub(r'(<a href=")[^"]*(" class="brand")', lambda m: m.group(1) + home + m.group(2), s, count=1)
         s = re.sub(r'(<a href=")[^"]*(" class="btn btn-p" data-mag><span class="lbl">)', lambda m: m.group(1) + contact + m.group(2), s, count=1)
         s = re.sub(r'(<nav class="links"[^>]*>).*?(\s*</nav>)', lambda m: m.group(1) + nav_links(l, cur, contact, '\n      ') + m.group(2), s, count=1, flags=re.S)
         s = re.sub(r'(<nav id="mob"[^>]*>).*?(\s*<div class="mob-lang-links">)', lambda m: m.group(1) + nav_links(l, cur, contact, '\n  ') + '\n\n  ' + m.group(2).lstrip(), s, count=1, flags=re.S)
+        # 24/10/2026: ancora #contatti sulla sezione del modulo (il titolo resta visibile sotto l'intestazione fissa),
+        # telefono ed email obbligatori, versione aggiornata di contatto.js
+        s = s.replace('<section class="pg-cta" id="contatti">', '<section class="pg-cta">')
+        s = re.sub(r'(<section class="pg-cta">\s*<div class="wrap">\s*<div class="box")(?! id=)([^>]*>(?:(?!</section>).)*?id="dt-scrivi")', r'\1 id="contatti"\2', s, count=1, flags=re.S)
+        s = s.replace('href="#dt-scrivi"', 'href="#contatti"')
+        s = re.sub(r'<input type="tel" name="tel" id="dtl-tel" placeholder=" "(?! required)', '<input type="tel" name="tel" id="dtl-tel" placeholder=" " required', s)
+        s = re.sub(r'(<label for="dtl-tel">)[^<(]*?\s*\([^)<]*\)(</label>)', lambda m: m.group(1) + TEL[l] + m.group(2), s)
+        s = re.sub(r'assets/js/contatto\.js\?v=\d+', 'assets/js/contatto.js?v=20261024', s)
         s = re.sub(r'<footer[^>]*>.*?</footer>', lambda m: footer(l, cur, m.group(0)), s, count=1, flags=re.S)
         if s != s0:
             open(f, 'w', encoding='utf-8').write(s)
