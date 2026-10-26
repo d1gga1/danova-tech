@@ -108,9 +108,11 @@ def head_sec(sec):
 _prev = pb.sezione
 def sezione(sec):
     t = sec.get('tipo', 'testo')
-    if t not in ('ba', 'gal', 'split', 'promesse'): return _prev(sec)
+    if t not in ('ba', 'gal', 'split', 'promesse', 'html'): return _prev(sec)
     o = head_sec(sec)
-    if t == 'ba':
+    if t == 'html':                      # 26/10/2026: HTML libero (es. modulo candidatura partner)
+        o.append(sec['html'])
+    elif t == 'ba':
         figs = []
         for it in sec['items']:
             figs.append(['ba', '<figure class="re-ba-fig@@W@@" data-rv="up">\n        <div class="re-ba">%s%s'
@@ -148,11 +150,14 @@ def sezione(sec):
     o.append('  </div>\n</section>\n')
     return ''.join(o)
 P23._prev_hook = None
-pb.sezione = lambda sec: sezione(sec) if sec.get('tipo') in ('ba', 'gal', 'split', 'promesse') else P23.sezione(sec, CUR[0])
+pb.sezione = lambda sec: sezione(sec) if sec.get('tipo') in ('ba', 'gal', 'split', 'promesse', 'html') else P23.sezione(sec, CUR[0])
 
 def lingue(d, s):
-    alt = LG.alt(d['key'])
-    links = ''.join('<link rel="alternate" hreflang="%s" href="%s%s">\n' % (h, SITE, alt[l]) for l in LG.LINGUE for h in LG.CFG[l]['hl'])
+    if d.get('solo_it'):   # 26/10/2026: pagina solo italiana (es. /diventa-partner/): hreflang solo IT, il selettore porta alle home Real Estate
+        alt = {l: LG.url('/real-estate/', l) for l in LG.LINGUE}; alt['it'] = d['key']; hl = ['it']
+    else:
+        alt = LG.alt(d['key']); hl = LG.LINGUE
+    links = ''.join('<link rel="alternate" hreflang="%s" href="%s%s">\n' % (h, SITE, alt[l]) for l in hl for h in LG.CFG[l]['hl'])
     links += '<link rel="alternate" hreflang="x-default" href="%s%s">\n' % (SITE, alt['it'])
     s = re.sub(r'<link rel="alternate" hreflang="[^"]+" href="[^"]*">\n?', '', s)
     s = re.sub(r'(<link rel="canonical" href="[^"]*">\n?)', lambda m: m.group(1) + links, s, count=1)
@@ -287,6 +292,8 @@ if __name__ == '__main__':
         p = P23.build(d)
         f = os.path.join(ROOT, p)
         s = post(d, lingue(d, open(f, encoding='utf-8').read()))
+        if d.get('cta_href'):   # 26/10/2026: i pulsanti della pagina portano al suo modulo (es. #candidatura)
+            s = s.replace('href="%s#contatti" class="btn btn-p" data-mag><span class="sheen">' % pb.HOME[d['lang']], 'href="%s" class="btn btn-p" data-mag><span class="sheen">' % d['cta_href'])
         open(f, 'w', encoding='utf-8').write(s); n += 1
     from collections import Counter
     print('pagine Real Estate generate:', n, dict(Counter(d['lang'] for d in tutte if not solo or d['lang'] in solo)))

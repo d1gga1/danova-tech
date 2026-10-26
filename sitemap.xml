@@ -3999,6 +3999,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/diventa-partner/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/diventa-partner/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/diventa-partner/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-muratore-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/domande-frequenti/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/domande-frequenti/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/domande-frequenti/"/>

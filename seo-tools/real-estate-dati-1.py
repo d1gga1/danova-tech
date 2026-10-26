@@ -62,7 +62,8 @@ PAGINE.append({
                 ("Progettazione e render 3D", "/progettazione-e-render-3d/", "Vedete il risultato prima di aprire il cantiere."),
                 ("Pratiche edilizie CILA e SCIA", "/pratiche-edilizie-cila-scia/", "Titoli edilizi, comunicazioni e sicurezza, preparati dai nostri tecnici."),
                 ("Per architetti e progettisti", "/impresa-edile-per-architetti/", "Portate il vostro progetto: lo realizziamo con voi, con la nostra rete di professionisti."),
-                ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/", "Detrazioni al 50% e 36%: cosa spetta e come non perderle.")]),
+                ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/", "Detrazioni al 50% e 36%: cosa spetta e come non perderle."),
+                ("Lavora con noi: diventa partner", "/diventa-partner/", "Artigiani, imprese, architetti e geometri di Veneto e Friuli: entrate nella nostra rete.")]),
               ("Facciate e finiture", [
                 ("Cappotto termico", "/cappotto-termico/", "Isolamento esterno per consumare meno e rinnovare la facciata."),
                 ("Rifacimento tetto", "/rifacimento-tetto/", "Struttura, isolamento, impermeabilizzazione, tegole e grondaie."),
