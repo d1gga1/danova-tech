@@ -71,7 +71,7 @@ f.addEventListener('submit',function(ev){ev.preventDefault();if(v('_honey'))retu
  if(!tipo)err='Indicate che tipo di attività siete.';
  else if(!v('rs'))err='Scrivete la ragione sociale o il nome dell’attività.';
  else if(!v('ref'))err='Scrivete il nome del referente.';
- else if(!/^\d{11}$/.test(piva))err='La partita IVA deve avere 11 cifre.';
+ else if(piva&&!/^\d{11}$/.test(piva))err='La partita IVA, se la indicate, deve avere 11 cifre.';
  else if(!v('sede'))err='Indicate il comune della sede.';
  else if(v('tel').replace(/\D/g,'').length<8)err='Inserite un numero di telefono valido.';
  else if(!/^[^@\s]+@[^@\s]+\.[^@\s]{2,}$/.test(v('email')))err='Inserite un indirizzo email valido.';
@@ -96,7 +96,7 @@ ARR = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="
 FORM = (CSS + '\n    <form class="pt-form" id="pt-form" novalidate data-rv="up">\n'
  '      <fieldset><legend>1. Chi siete</legend><div class="pt-chips" role="radiogroup" aria-label="Tipo di attività">' + _chips('tipo', TIPI, 'radio') + '</div>'
  '<div class="pt-2">' + _fld('rs', 'Ragione sociale o nome attività', extra=' autocomplete="organization"') + _fld('ref', 'Nome e cognome del referente', extra=' autocomplete="name"') + '</div>'
- '<div class="pt-2">' + _fld('piva', 'Partita IVA', extra=' inputmode="numeric" maxlength="16"') + _fld('sede', 'Comune della sede (es. Oderzo, TV)', extra=' autocomplete="address-level2"') + '</div>'
+ '<div class="pt-2">' + _fld('piva', 'Partita IVA (facoltativa)', req=False, extra=' inputmode="numeric" maxlength="16"') + _fld('sede', 'Comune della sede (es. Oderzo, TV)', extra=' autocomplete="address-level2"') + '</div>'
  '<div class="pt-2">' + _fld('tel', 'Telefono / WhatsApp', 'tel', extra=' autocomplete="tel" inputmode="tel"') + _fld('email', 'Email', 'email', extra=' autocomplete="email" inputmode="email"') + '</div>'
  '<div class="pt-2">' + _fld('web', 'Sito, Instagram o Facebook (facoltativo)', req=False, extra=' autocomplete="url"')
  + '<select name="addetti" class="pt-sel" aria-label="Numero di addetti"><option value="">Numero di addetti</option>' + ''.join('<option>%s</option>' % a for a in ADD) + '</select></div></fieldset>\n'
@@ -147,7 +147,7 @@ PAGINE.append(dict(lang="it", url="/diventa-partner/", hero="re-muratore", cta_h
              ("Lavoriamo e ci valutiamo", "A fine cantiere facciamo il punto su qualità, tempi e rapporto con il cliente, per lavorare sempre meglio insieme.")]},
   {"id": "requisiti", "tipo": "breve", "eyebrow": "Requisiti", "h2": f"Cosa chiediamo {G}ai nostri partner{_G}",
    "testo": "Lavoriamo solo con imprese, artigiani e professionisti <b>in regola</b>: è una garanzia per i nostri clienti e per voi. Non serve avere già tutto quando vi candidate: segnate nel modulo quello che avete già, il resto lo verifichiamo insieme quando ci conosciamo.",
-   "fatti": [("Partita IVA", "Iscrizione alla Camera di Commercio o all’albo"), ("DURC", "Regolare e aggiornato"), ("Assicurazione", "RC verso terzi e verso i dipendenti"),
+   "fatti": [("Iscrizione", "Camera di Commercio o albo professionale"), ("DURC", "Regolare e aggiornato"), ("Assicurazione", "RC verso terzi e verso i dipendenti"),
              ("Sicurezza", "Formazione D.Lgs. 81/2008, POS per ogni cantiere"), ("Patente a crediti", "Per i cantieri, quando prevista dalla legge"),
              ("Impianti", "Abilitazione DM 37/2008 e dichiarazioni di conformità"), ("Tecnici", "Iscrizione all’albo professionale"), ("Zona", "Veneto e Friuli Venezia Giulia")]},
   {"id": "candidatura", "tipo": "html", "eyebrow": "Candidatura", "h2": f"Entrate nella {G}rete partner{_G}",
