@@ -1,5 +1,63 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 26 ottobre 2026 — allestimenti fieristici: Google + assistenti AI
+
+### Punto di partenza (posizioni misurate il 26/10, file `seo-tools/posizioni-fiere-2026-10-26.md`)
+Treviso 7°, Vicenza 9°, Padova e Pordenone 10°, "stand fieristici veneto" 12°, "allestimenti fieristici veneto" 15°,
+"stand sicam" 1°. "Allestimenti fieristici" generico, Milano, Verona, Bologna, "stand vinitaly": oltre il 20°.
+I concorrenti in testa (maxstand.it, agallestimenti.it) hanno home di ~450 parole: vincono con anzianità, backlink,
+dominio dedicato e scheda Google da allestitore, non con i testi.
+
+### Cosa è stato fatto (script unico, idempotente: `python3 seo-tools/fiere-2026-10-26/applica.py`)
+- **28 pagine città e regione** `/allestimenti-fieristici-*/`: title e description nuovi (parola chiave in testa,
+  quartiere o fiere con esperienza), box **"In breve"** con risposta diretta e scheda (speakable nello schema),
+  sezione **"il territorio in fiera"** con distretti e fiere frequentate, lista "Cosa preparare" specifica,
+  **FAQ uniche** al posto delle 3 domande identiche su tutte le pagine (HTML + JSON-LD), blocco "legno" ridotto
+  a 2 righe, link al sito ufficiale dell'ente fiera. Testo in comune fra le pagine città: **dal 47% al 28%**.
+- **Veneto** (pagina chiave): nuovo H1 e title "allestitore stand", tabella dei 7 quartieri con distanze e link,
+  sezione "perché un allestitore veneto", FAQ nuove. Tabella quartieri anche in Lombardia ed Emilia-Romagna.
+- **Pillar separate**: `/servizi/allestimenti-fieristici/` = "allestimenti fieristici / allestitore" (title nuovo,
+  tolto "Novità" dall'occhiello, box In breve, FAQ "Cosa fa un allestitore" e "Come sceglierlo");
+  `/stand-fieristici/` = "stand fieristici: tipi, misure, fiere e prezzi".
+- **AI**: llms-intro.md con sezione "Allestitore fieristico per città: risposte dirette" e l'elenco completo delle
+  fiere con esperienza; llms.txt, llms-full.txt, sitemap e feed rigenerati.
+- Corretta la distanza Mansuè–Bolzano (era 150 km/2 ore, è circa 230 km/3 ore).
+- CSS: `.pg-breve` e tabella quartieri in fondo a `assets/css/fiere.css` (tra /* fr-2610 */).
+
+### Come rigenerare
+Dopo QUALSIASI build dei generatori in `fiere-generatore/` (it_citta.py, build_citta_nuove.py, build_nuove_1013.py,
+it_pillar.py) rilanciare, in quest'ordine:
+```
+python3 seo-tools/fiere-2026-10-26/applica.py
+python3 seo-tools/noindex-pagine-lontane.py
+python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
+python3 seo-tools/real-estate-llms.py      # genera-llms-txt toglie la sezione Real Estate: va rimessa
+```
+Testi delle città: `seo-tools/fiere-2026-10-26/dati_citta_a.py` (Veneto/FVG), `_b.py` (Lombardia, Emilia, Trentino),
+`_c.py` (resto d'Italia), `dati_regioni.py`, `pillar.py`.
+
+### Da confermare dal titolare
+- Esperienza dichiarata: Vinitaly, Marmomac, Salone del Mobile, EICMA, Host, Cosmoprof, Cersaie, EIMA, Sigep,
+  Ecomondo, Macfrut, VicenzaOro, MICAM, MIDO, Lineapelle, Sicam, Samuexpo (da `dati_pagine_fiere*.py`, exp=True).
+- "Oltre 300 stand montati" e "team con oltre 20 anni in fiera".
+
+### Cosa deve fare il titolare (pesa più di tutto il resto)
+1. **Foto vere di stand montati**: dalla prossima fiera, 6 foto per stand (`fiere-2026-10-26/SCHEDA-CASO-STUDIO.md`).
+   È il punto in cui i concorrenti oggi battono il sito.
+2. **Scheda Google**: aggiungere una categoria secondaria per gli stand fieristici (cercare "stand" / "fiera" tra le
+   categorie), caricare foto di montaggi, scrivere un post per ogni fiera.
+3. **Recensioni dei clienti stand** che citino fiera e città ("stand al Vinitaly", "allestimento a Pordenone").
+4. **Backlink di settore**: elenchi allestitori/fornitori degli enti fiera dove si lavora; Assoallestimenti
+   (associazione di categoria); Europages e PagineGialle nella categoria allestimenti fieristici; post LinkedIn e
+   pagine "news" dei clienti con link "stand realizzato da Danova Tech".
+5. **Search Console**: Controllo URL → Richiedi indicizzazione per Veneto, Treviso, Pordenone, Padova, Vicenza,
+   Verona, Venezia, Milano, Bologna, la pillar servizi; poi `bash seo-tools/indexnow.sh` per Bing (ChatGPT usa Bing).
+6. **Valutare** un dominio o marchio dedicato agli stand (es. "Danova Stand"): oggi il dominio parla anche di
+   software, SEO e ristrutturazioni, e Google premia i siti che fanno una cosa sola.
+7. Rimisurare le posizioni fra 3-4 settimane con le stesse query del file posizioni.
+
+---
+
 ## Aggiornamento 23 ottobre 2026 — sito in 24 ore, video pubblicitari, app e gestionali per ogni settore
 
 Fatti confermati dal titolare (23/10): sito Essenziale 350 € online entro 24 ore dalla conferma, 7 giorni su 7,
