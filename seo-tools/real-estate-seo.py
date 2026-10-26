@@ -4,7 +4,7 @@
       chiudendo l'elenco con la congiunzione della lingua ("e", "and", "und", "și", "dhe"). og/twitter restano complete.
    2) blocco "Dove lavoriamo" (tra <!--re-zone--> e <!--/re-zone-->) con tutte le pagine di citta' e localita' nella lingua
       della pagina: pagina principale, pagine hub e pagine di zona. Nessuna pagina di zona resta senza link interni.
-   3) titoli: pagina principale con il marchio in testa; pagine citta' italiane su "Ristrutturazioni <citta'> | Impresa edile chiavi in mano".
+   3) titoli: pagina principale con il marchio in testa; pagine citta' italiane su "Impresa edile <citta'> | Ristrutturazioni chiavi in mano" (dal 26/10/2026).
    4) dati strutturati: le guide sono Article (non Service); GeneralContractor con mappa e profili social.
    Lanciare dopo real-estate-chrome.py e prima di genera-sitemap.py (gia' nella catena di real-estate-tutto.sh).
    Uso: python3 seo-tools/real-estate-seo.py"""
@@ -59,7 +59,15 @@ def corta(d, l):
                 out = c
                 break
         break
-    return out if len(out) >= 100 else d
+    if len(out) >= 100:
+        return out
+    if len(d) > 160:  # 26/10: ultima risorsa, si taglia all'ultima frase o virgola entro il limite
+        cut = d[:MAXD]
+        for sep in ('. ', ': ', ', '):
+            i = cut.rfind(sep)
+            if i >= 90:
+                return cut[:i].rstrip(',:') + '.'
+    return d
 
 # ---------------------------------------------------------------- 2) dove lavoriamo
 NOMI = {'treviso': 'Treviso', 'oderzo': 'Oderzo', 'conegliano': 'Conegliano', 'motta-di-livenza': 'Motta di Livenza', 'castelfranco-veneto': 'Castelfranco Veneto',
@@ -67,6 +75,8 @@ NOMI = {'treviso': 'Treviso', 'oderzo': 'Oderzo', 'conegliano': 'Conegliano', 'm
         'padova': 'Padova', 'vicenza': 'Vicenza', 'verona': 'Verona', 'pordenone': 'Pordenone', 'udine': 'Udine', 'sacile': 'Sacile',
         'jesolo': 'Jesolo', 'caorle': 'Caorle', 'bibione': 'Bibione', 'cavallino-treporti': 'Cavallino-Treporti', 'sottomarina': 'Sottomarina e Chioggia',
         'lignano': 'Lignano Sabbiadoro', 'grado': 'Grado', 'cortina': 'Cortina d’Ampezzo', 'dolomiti': 'Dolomiti bellunesi', 'lago-di-garda': 'Lago di Garda'}
+# 26/10/2026: nuove citta (real-estate-citta-nuove.py)
+NOMI.update({c[1]: c[0] for c in LG._CN.NUOVE_IT})
 GRUPPI = [('/ristrutturazioni-%s/', LG.CITTA, T('Ristrutturazioni', 'Renovation', 'Renovierung', 'Renovări', 'Rinovime')),
           ('/general-contractor-%s/', LG.GC, T('General contractor', 'General contractor', 'Generalunternehmer', 'Antreprenor general', 'Kontraktor i përgjithshëm')),
           ('/arredo-hotel-%s/', LG.ZONE, T('Arredo hotel', 'Hotel furniture', 'Hotelmöbel', 'Mobilier hotelier', 'Mobilim hotelesh'))]
@@ -106,15 +116,61 @@ PILASTRO = T('Danova Real Estate: ristrutturazioni in Veneto e Friuli', 'Danova 
              'Danova Real Estate: Renovierung in Venetien, Italien', 'Danova Real Estate: renovări și construcții în Veneto, Italia',
              'Danova Real Estate: rinovime dhe ndërtim në Veneto, Itali')
 
+# 26/10/2026: titoli entro ~62 caratteri (Google taglia oltre) e con la keyword locale in testa
+TT = {  # (modello lungo, modello corto se il lungo supera MAXT)
+ 'citta': {'it': ('Impresa edile %s | Ristrutturazioni chiavi in mano', 'Impresa edile %s | Ristrutturazioni'),
+           'en': ('Builders in %s, Italy | Turnkey renovation', 'Builders in %s | Renovation'),
+           'de': ('Bauunternehmen in %s | Renovierung schlüsselfertig', 'Bauunternehmen %s | Renovierung'),
+           'ro': ('Firmă de construcții %s | Renovări la cheie', 'Firmă construcții %s | Renovări'),
+           'sq': ('Kompani ndërtimi %s | Rinovime çelës në dorë', 'Kompani ndërtimi %s | Rinovime')},
+ 'gc':    {'it': ('General contractor %s | Unico contratto, prezzo bloccato', 'General contractor %s | Prezzo bloccato'),
+           'en': ('General contractor in %s, Italy | Fixed price', 'General contractor %s | Fixed price'),
+           'de': ('Generalunternehmer %s | Ein Vertrag, Festpreis', 'Generalunternehmer %s | Festpreis'),
+           'ro': ('Antreprenor general %s | Un contract, preț blocat', 'Antreprenor general %s | Preț blocat'),
+           'sq': ('Kontraktor i përgjithshëm %s | Çmim i bllokuar', 'Kontraktor %s | Çmim i bllokuar')},
+ 'hotel': {'it': ('Arredo hotel %s | Camere e spazi su misura', 'Arredo hotel %s | Su misura'),
+           'en': ('Hotel furniture %s | Custom contract furniture', 'Hotel furniture %s | Made to measure'),
+           'de': ('Hotelmöbel %s | Objekteinrichtung nach Maß', 'Hotelmöbel %s | Nach Maß'),
+           'ro': ('Mobilier hotelier %s | Mobilier la comandă', 'Mobilier hotelier %s | La comandă'),
+           'sq': ('Mobilim hoteli %s | Mobilje me porosi', 'Mobilim hoteli %s | Me porosi')}}
+MAXT = 62
+NOMI_GC = {c: NOMI.get(c, c.title()) for c in LG.GC}
+def _tm(tipo, l, nome):
+    lungo, corto = TT[tipo][l]
+    t = lungo % nome
+    return t if len(t) <= MAXT else corto % nome
 def titolo(key, l, t):
     if key == '/real-estate/':
         return PILASTRO[l]
-    m = re.fullmatch(r'/ristrutturazioni-([a-z-]+)/', key)
-    if l == 'it' and m and m.group(1) in NOMI:
-        return 'Ristrutturazioni %s | Impresa edile chiavi in mano' % NOMI[m.group(1)]
+    for tipo, rx in (('citta', r'/ristrutturazioni-([a-z-]+)/'), ('gc', r'/general-contractor-([a-z-]+)/'), ('hotel', r'/arredo-hotel-([a-z-]+)/')):
+        m = re.fullmatch(rx, key)
+        if m and m.group(1) in NOMI:
+            return _tm(tipo, l, LG.nome(NOMI[m.group(1)], l))
+    # altre pagine: se troppo lungo, si toglie l'ultimo segmento dopo " | " (se resta un titolo di almeno 35 caratteri)
+    if len(t) > 65 and ' | ' in t:
+        testa = t.rsplit(' | ', 1)[0]
+        if len(testa) >= 35:
+            return testa
     return t
 
 # ---------------------------------------------------------------- 4) schema
+PROVINCE = [(p, 'Veneto') for p in ('Treviso', 'Venezia', 'Padova', 'Vicenza', 'Verona', 'Rovigo', 'Belluno')] + \
+           [(p, 'Friuli-Venezia Giulia') for p in ('Pordenone', 'Udine', 'Gorizia', 'Trieste')]
+KNOWS = T(['Ristrutturazioni chiavi in mano', 'Ristrutturazione bagno', 'Impresa edile', 'General contractor', 'Cappotto termico', 'Isolamento sottotetto e insufflaggio',
+           'Rifacimento tetto', 'Facciate ventilate', 'Pavimentazioni esterne', 'Cartongesso e controsoffitti', 'Porte REI tagliafuoco', 'Pavimenti e serramenti',
+           'Arredo hotel e contract', 'Mobili su misura', 'Pratiche edilizie CILA e SCIA', 'Bonus ristrutturazione'],
+          ['Turnkey renovation', 'Bathroom renovation', 'Building contractor', 'General contracting', 'External wall insulation', 'Loft insulation', 'Roof replacement',
+           'Ventilated facades', 'Outdoor paving', 'Drywall and suspended ceilings', 'Fire-rated doors', 'Flooring and windows', 'Hotel contract furniture',
+           'Custom-made furniture', 'Italian building permits (CILA, SCIA)', 'Italian renovation tax bonus'],
+          ['Schlüsselfertige Renovierung', 'Badsanierung', 'Bauunternehmen', 'Generalunternehmer', 'Wärmedämmung', 'Dachbodendämmung', 'Dachsanierung', 'Fassadensanierung',
+           'Terrassen und Außenbeläge', 'Trockenbau', 'Brandschutztüren', 'Böden und Fenster', 'Hotelmöbel', 'Maßmöbel', 'Baugenehmigungen in Italien', 'Renovierungsbonus Italien'],
+          ['Renovări la cheie', 'Renovare baie', 'Firmă de construcții', 'Antreprenor general', 'Izolație termică exterioară', 'Izolare pod', 'Refacere acoperiș', 'Renovare fațade',
+           'Pavaje exterioare', 'Rigips și tavane false', 'Uși rezistente la foc', 'Pardoseli și tâmplărie', 'Mobilier hotelier', 'Mobilă la comandă', 'Autorizații de construcție în Italia', 'Bonus renovare Italia'],
+          ['Rinovime çelës në dorë', 'Rinovim banjoje', 'Kompani ndërtimi', 'Kontraktor i përgjithshëm', 'Termoizolim i jashtëm', 'Izolim papafingo', 'Rinovim çatie', 'Rinovim fasadash',
+           'Shtrime të jashtme', 'Gipskarton dhe tavane të varura', 'Dyer kundër zjarrit', 'Dysheme dhe dritare', 'Mobilim hotelesh', 'Mobilje me porosi', 'Leje ndërtimi në Itali', 'Bonusi i rinovimit në Itali'])
+SLOGAN = T('Sopralluogo gratuito, prezzo bloccato, tempi nel contratto, un unico referente.', 'Free survey, fixed price, deadlines in the contract, one point of contact.',
+           'Kostenlose Besichtigung, Festpreis, Termine im Vertrag, ein Ansprechpartner.', 'Inspecție gratuită, preț blocat, termene în contract, un singur responsabil.',
+           'Inspektim falas, çmim i bllokuar, afate në kontratë, një person kontakti.')
 SOCIAL = ['https://www.instagram.com/danova_techh/', 'https://www.facebook.com/profile.php?id=61594907955699', 'https://www.tiktok.com/@danova.tech']
 
 def schema(s, key, l, title, desc, url):
@@ -127,6 +183,14 @@ def schema(s, key, l, title, desc, url):
         if n.get('@type') == 'GeneralContractor':
             n['hasMap'] = org.get('hasMap', 'https://maps.app.goo.gl/gPgYPeA5Rtc12wve8')
             n['sameAs'] = SOCIAL
+            # 26/10/2026: tutte le 11 province servite, servizi, orari e fascia di prezzo (per Google e per gli assistenti AI)
+            n['areaServed'] = [{"@type": "AdministrativeArea", "name": "Veneto"}, {"@type": "AdministrativeArea", "name": "Friuli-Venezia Giulia"}] + \
+                [{"@type": "AdministrativeArea", "name": "Provincia di %s" % p_, "containedInPlace": {"@type": "AdministrativeArea", "name": r_}} for p_, r_ in PROVINCE]
+            n['knowsAbout'] = KNOWS[l]
+            if org.get('openingHoursSpecification'):
+                n['openingHoursSpecification'] = org['openingHoursSpecification']
+            n['priceRange'] = '€€'
+            n['slogan'] = SLOGAN[l]
         if n.get('@type') == 'WebPage':
             n['name'] = title
             n['description'] = desc

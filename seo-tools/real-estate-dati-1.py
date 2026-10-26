@@ -8,7 +8,9 @@
    - gestiamo pratiche (CILA/SCIA), bonus edilizi, progettazione e render 3D
    - promesse: sopralluogo e preventivo gratuiti, prezzo bloccato chiavi in mano, tempi garantiti nel contratto, unico referente
    - lingue parlate: italiano, inglese, rumeno
-   - NIENTE prezzi pubblicati, nessuna certificazione/recensione/lavoro reale da mostrare (immagini illustrative AI)"""
+   - NIENTE prezzi pubblicati, nessuna certificazione/recensione/lavoro reale da mostrare (immagini illustrative AI)
+   Aggiunti dal titolare il 26/10/2026: squadre interne + rete di artigiani selezionati, impianti elettrici e idraulici inclusi,
+   pratiche e bonus tramite tecnici; zona = tutto il Veneto e tutto il FVG; marchio "Real Estate" mantenuto ma testi solo su edilizia."""
 OGGI = "2026-10-24"
 G = '<span class="grad">'; _G = '</span>'
 LG = ["Italian", "English", "Romanian"]
@@ -63,6 +65,9 @@ PAGINE.append({
                 ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/", "Detrazioni al 50% e 36%: cosa spetta e come non perderle.")]),
               ("Facciate e finiture", [
                 ("Cappotto termico", "/cappotto-termico/", "Isolamento esterno per consumare meno e rinnovare la facciata."),
+                ("Rifacimento tetto", "/rifacimento-tetto/", "Struttura, isolamento, impermeabilizzazione, tegole e grondaie."),
+                ("Isolamento sottotetto", "/isolamento-sottotetto/", "Pannelli o insufflaggio: meno calore disperso dal tetto, in pochi giorni."),
+                ("Pavimentazioni esterne", "/pavimentazioni-esterne/", "Terrazzi, balconi, cortili e vialetti senza infiltrazioni."),
                 ("Facciate ventilate e rifacimento", "/facciate-ventilate-e-rifacimento-facciate/", "Ripristino, intonaci, tinteggiature e rivestimenti."),
                 ("Porte interne e blindate", "/porte-interne-e-blindate/", "Fornitura e posa di porte a filo muro, scorrevoli e blindate."),
                 ("Porte REI tagliafuoco", "/porte-rei-tagliafuoco/", "Porte resistenti al fuoco per hotel, uffici e locali pubblici."),

@@ -2,7 +2,9 @@
 """24/10/2026 - Aggiunge le guide Real Estate in testa all'indice /guide/ (tra <!--re-guide--> e <!--/re-guide-->). Idempotente."""
 import os, re
 R = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-G = [("/guide/come-scegliere-impresa-ristrutturazione/", "Come scegliere un’impresa di ristrutturazione: 10 controlli", "Sopralluogo, preventivo voce per voce, prezzo bloccato, tempi, pratiche e pagamenti: cosa verificare prima di firmare."),
+G = [("/guide/quanto-costa-ristrutturare-casa/", "Quanto costa ristrutturare casa: le voci che fanno il prezzo", "Impianti, demolizioni, finiture, pratiche, IVA e detrazioni: perché il prezzo al mq inganna e come leggere un preventivo."),
+     ("/guide/come-rifare-il-bagno/", "Rifare il bagno: fasi, tempi, permessi e costi", "Come si svolge il cantiere, quanto dura, quando serve la CILA e quali scelte incidono sul prezzo."),
+     ("/guide/come-scegliere-impresa-ristrutturazione/", "Come scegliere un’impresa di ristrutturazione: 10 controlli", "Sopralluogo, preventivo voce per voce, prezzo bloccato, tempi, pratiche e pagamenti: cosa verificare prima di firmare."),
      ("/guide/cila-o-scia/", "CILA o SCIA: quale pratica serve per ristrutturare", "Edilizia libera, CILA e SCIA spiegate con esempi di lavori comuni, e cosa si rischia senza pratica."),
      ("/guide/ristrutturare-un-hotel/", "Ristrutturare un hotel senza perdere la stagione", "Il calendario di progetto, ordini, cantiere e arredi per riaprire nella data prevista."),
      ("/guide/quando-conviene-il-cappotto-termico/", "Quando conviene il cappotto termico", "Gli edifici in cui rende di più, i limiti, le detrazioni 2026 e le alternative."),

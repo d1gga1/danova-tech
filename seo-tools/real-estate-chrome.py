@@ -30,6 +30,9 @@ LAB = {
  '/hotel-chiavi-in-mano/': T('Hotel chiavi in mano', 'Turnkey hotel', 'Hotel schlüsselfertig', 'Hotel la cheie', 'Hotel çelës në dorë'),
  '/impresa-edile-per-architetti/': T('Impresa per architetti', 'Contractor for architects', 'Bauunternehmen für Architekten', 'Firmă pentru arhitecți', 'Kompani për arkitektë'),
  '/pareti-divisorie/': T('Pareti divisorie', 'Partition walls', 'Trennwände', 'Pereți despărțitori', 'Mure ndarëse'),
+ '/rifacimento-tetto/': T('Rifacimento tetto', 'Roof replacement', 'Dachsanierung', 'Refacere acoperiș', 'Rinovim çatie'),
+ '/isolamento-sottotetto/': T('Isolamento sottotetto', 'Loft insulation', 'Dachbodendämmung', 'Izolare pod', 'Izolim papafingo'),
+ '/pavimentazioni-esterne/': T('Pavimentazioni esterne', 'Outdoor paving', 'Außenbeläge', 'Pavaje exterioare', 'Shtrime të jashtme'),
  '/cappotto-termico/': T('Cappotto termico', 'External wall insulation', 'Wärmedämmung', 'Izolație termică', 'Termoizolim i jashtëm'),
  '/facciate-ventilate-e-rifacimento-facciate/': T('Facciate', 'Facade renovation', 'Fassadensanierung', 'Renovare fațade', 'Rinovim fasadash'),
  '/porte-interne-e-blindate/': T('Porte interne e blindate', 'Interior and security doors', 'Innen- und Sicherheitstüren', 'Uși interioare și blindate', 'Dyer të brendshme dhe të blinduara'),
@@ -42,20 +45,22 @@ LAB = {
  '/pratiche-edilizie-cila-scia/': T('Pratiche CILA e SCIA', 'Building permits', 'Baugenehmigungen', 'Autorizații de construcție', 'Leje ndërtimi'),
  '/bonus-ristrutturazione-2026/': T('Bonus ristrutturazione 2026', 'Renovation tax bonus 2026', 'Renovierungsbonus 2026', 'Bonus renovare 2026', 'Bonusi i rinovimit 2026'),
  '/guide/come-scegliere-impresa-ristrutturazione/': T('Come scegliere l’impresa', 'Choosing a renovation company', 'Renovierungsfirma auswählen', 'Cum alegi firma de renovări', 'Si të zgjidhni kompaninë'),
+ '/guide/quanto-costa-ristrutturare-casa/': T('Quanto costa ristrutturare casa', 'Renovation costs', 'Renovierungskosten', 'Costul renovării', 'Kostoja e rinovimit'),
+ '/guide/come-rifare-il-bagno/': T('Rifare il bagno', 'Bathroom renovation guide', 'Ratgeber Badsanierung', 'Ghid renovare baie', 'Udhëzues rinovim banjoje'),
  '/guide/cila-o-scia/': T('CILA o SCIA', 'CILA or SCIA', 'CILA oder SCIA', 'CILA sau SCIA', 'CILA apo SCIA'),
  '/guide/ristrutturare-un-hotel/': T('Ristrutturare un hotel', 'Renovating a hotel', 'Hotel renovieren', 'Renovarea unui hotel', 'Rinovimi i një hoteli'),
  '/guide/quando-conviene-il-cappotto-termico/': T('Quando conviene il cappotto', 'Is insulation worth it', 'Lohnt sich Wärmedämmung', 'Merită izolația termică', 'A ia vlen termoizolimi'),
  '/guide/porte-rei-negli-hotel/': T('Porte REI negli hotel', 'Fire doors in hotels', 'Brandschutztüren im Hotel', 'Uși antifoc în hoteluri', 'Dyer kundër zjarrit në hotele'),
 }
-CITTA = ['treviso', 'venezia', 'padova', 'vicenza', 'verona', 'pordenone', 'udine']
+CITTA = ['treviso', 'venezia', 'padova', 'vicenza', 'verona', 'rovigo', 'belluno', 'pordenone', 'udine', 'trieste', 'gorizia']  # tutti gli 11 capoluoghi (26/10)
 IN = T('Ristrutturazioni a %s', 'Renovation in %s', 'Renovierung in %s', 'Renovări în %s', 'Rinovime në %s')
-NOMI = {'venezia': T('Venezia', 'Venice', 'Venedig', 'Veneția', 'Venecia'), 'padova': T('Padova', 'Padua', 'Padua', 'Padova', 'Padova')}
+NOMI = {'venezia': T('Venezia', 'Venice', 'Venedig', 'Veneția', 'Venecia'), 'padova': T('Padova', 'Padua', 'Padua', 'Padova', 'Padova'), 'trieste': T('Trieste', 'Trieste', 'Triest', 'Trieste', 'Trieste')}
 COL = [T('Ristrutturazioni', 'Renovations', 'Renovierung', 'Renovări', 'Rinovime'),
        T('Lavorazioni e arredo', 'Works and furniture', 'Gewerke und Einrichtung', 'Lucrări și mobilier', 'Punime dhe mobilim'),
        T('Zone', 'Areas', 'Regionen', 'Zone', 'Zonat'), T('Guide', 'Guides', 'Ratgeber', 'Ghiduri', 'Udhëzues')]
 K1 = ['/ristrutturazioni-chiavi-in-mano/', '/ristrutturazione-appartamenti-e-case/', '/ristrutturazione-bagno/', '/ristrutturazione-negozi-uffici-ristoranti/',
       '/ristrutturazione-hotel/', '/ristrutturazione-condomini-e-capannoni/', '/general-contractor/', '/hotel-chiavi-in-mano/', '/impresa-edile-per-architetti/']
-K2 = ['/pareti-divisorie/', '/cartongesso-e-controsoffitti/', '/cappotto-termico/', '/facciate-ventilate-e-rifacimento-facciate/', '/porte-interne-e-blindate/',
+K2 = ['/pareti-divisorie/', '/cartongesso-e-controsoffitti/', '/cappotto-termico/', '/isolamento-sottotetto/', '/rifacimento-tetto/', '/pavimentazioni-esterne/', '/facciate-ventilate-e-rifacimento-facciate/', '/porte-interne-e-blindate/',
       '/porte-rei-tagliafuoco/', '/pavimenti-e-serramenti/', '/arredo-hotel-contract/', '/mobili-su-misura/', '/progettazione-e-render-3d/',
       '/pratiche-edilizie-cila-scia/', '/bonus-ristrutturazione-2026/']
 KG = [k for k in LAB if k.startswith('/guide/')]

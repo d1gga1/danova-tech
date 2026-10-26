@@ -35,7 +35,7 @@ P('/guide/come-scegliere-impresa-ristrutturazione/', hero="re-direttore-lavori",
  faq=[("Wie viele Angebote sollte man einholen?", "Zwei oder drei, sofern vergleichbar: gleiche Gewerke, gleiche Materialien, gleiche Ausschlüsse."),
       ("Ist eine Anzahlung normal?", "Ja, eine Anzahlung für die Materialbestellung ist üblich; der Rest wird nach Baufortschritt gezahlt, bei italienischen Abzügen per spezieller Überweisung.")],
  ctabox={"h2": "Stellen Sie unser Angebot auf die Probe.", "p": "Kostenlose Besichtigung und positionsweises Angebot, unverbindlich.", "btn": "Angebot anfragen"},
- altri=[("Schlüsselfertige Renovierung", u('/ristrutturazioni-chiavi-in-mano/')), ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/')), ("Ratgeber: CILA oder SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Renovierungskosten", u('/guide/quanto-costa-ristrutturare-casa/')), ("Schlüsselfertige Renovierung", u('/ristrutturazioni-chiavi-in-mano/')), ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/')), ("Ratgeber: CILA oder SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Ratgeber Renovierungsfirma", "Ratgeber", "Checkliste zur Auswahl einer Renovierungsfirma in Italien: Besichtigung, Angebot, Festpreis, Termine, Genehmigungen, Zahlungen und Enddokumente.", []))
 
 P('/guide/cila-o-scia/', hero="re-cantiere-cartongesso",
@@ -108,7 +108,7 @@ P('/guide/quando-conviene-il-cappotto-termico/', hero="re-facciata-cantiere",
  faq=[("Spart Dämmung auch im Sommer?", "Ja, sie reduziert den Wärmeeintrag durch die Wände; mit dichten Dämmstoffen wie Holzfaser verbessert sich der Sommerkomfort weiter."),
       ("Muss die Eigentümergemeinschaft zustimmen?", "Ja, bei gemeinschaftlichen Fassaden ist ein Beschluss nötig.")],
  ctabox={"h2": "Lohnt es sich bei Ihrem Gebäude?", "p": "Adresse und Baujahr: Wir kommen vorbei und sagen es Ihnen.", "btn": "Ihr Gebäude bewerten"},
- altri=[("Wärmedämmung", u('/cappotto-termico/')), ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/')), ("Fassadensanierung", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Dachbodendämmung", u('/isolamento-sottotetto/')), ("Wärmedämmung", u('/cappotto-termico/')), ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/')), ("Fassadensanierung", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Ratgeber Wärmedämmung", "Ratgeber", "Wann sich Außendämmung lohnt, Grenzen, italienische Abzüge 2026 und Alternativen.", []))
 
 P('/guide/porte-rei-negli-hotel/', hero="re-porte-rei-hotel",

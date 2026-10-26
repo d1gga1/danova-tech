@@ -35,7 +35,7 @@ P('/guide/come-scegliere-impresa-ristrutturazione/', hero="re-direttore-lavori",
  faq=[("Sa oferta ia vlen të kërkoj?", "Dy ose tre, me kusht që të jenë të krahasueshme: të njëjtat punime, të njëjtat materiale, të njëjtat përjashtime."),
       ("A është normale të paguaj një paradhënie?", "Po, një paradhënie për porosinë e materialeve është normale; pjesa tjetër paguhet sipas ecurisë, me transfertën e posaçme nëse përdorni zbritjet italiane.")],
  ctabox={"h2": "Vëreni ofertën tonë në provë.", "p": "Inspektim falas dhe ofertë me zëra, pa detyrime.", "btn": "Kërkoni një ofertë"},
- altri=[("Rinovime çelës në dorë", u('/ristrutturazioni-chiavi-in-mano/')), ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/')), ("Udhëzues: CILA apo SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Kostoja e rinovimit", u('/guide/quanto-costa-ristrutturare-casa/')), ("Rinovime çelës në dorë", u('/ristrutturazioni-chiavi-in-mano/')), ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/')), ("Udhëzues: CILA apo SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Udhëzues për zgjedhjen e kompanisë së rinovimit", "Udhëzues", "Listë kontrolli për zgjedhjen e një kompanie rinovimi në Itali: inspektim, ofertë, çmim i bllokuar, afate, leje, pagesa dhe dokumente përfundimtare.", []))
 
 P('/guide/cila-o-scia/', hero="re-cantiere-cartongesso",
@@ -108,7 +108,7 @@ P('/guide/quando-conviene-il-cappotto-termico/', hero="re-facciata-cantiere",
  faq=[("A ndihmon izolimi edhe në verë?", "Po, ul nxehtësinë që hyn nëpër mure; me izolues të dendur, si fibra e drurit, rehatia në verë rritet edhe më shumë."),
       ("A duhet miratim nga pallati?", "Po, për fasadat e përbashkëta duhet vendimi i mbledhjes së pronarëve.")],
  ctabox={"h2": "A ia vlen për ndërtesën tuaj?", "p": "Adresa dhe viti i ndërtimit: vijmë të shohim dhe jua themi.", "btn": "Vlerësojmë ndërtesën tuaj"},
- altri=[("Izolim termik", u('/cappotto-termico/')), ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/')), ("Rinovim fasadash", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Izolim papafingo", u('/isolamento-sottotetto/')), ("Izolim termik", u('/cappotto-termico/')), ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/')), ("Rinovim fasadash", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Udhëzues për izolimin termik të jashtëm", "Udhëzues", "Kur ia vlen izolimi i jashtëm, kufij, zbritjet italiane të 2026 dhe alternativa.", []))
 
 P('/guide/porte-rei-negli-hotel/', hero="re-porte-rei-hotel",

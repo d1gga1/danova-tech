@@ -41,14 +41,15 @@ P('/ristrutturazione-bagno/', hero="re-bagno-nuovo", herovid="re-pd-bagno-nuovo"
    "corpo": [("Kostenlose Besichtigung", "Aufmaß, Prüfung von Abflüssen und Leitungen, Ideen und Budget."), ("Planung und Materialwahl", "Rendering des neuen Bades, Muster von Fliesen, Sanitär und Armaturen."),
              ("Festpreisangebot", "Positionsweise, mit Start- und Endtermin."), ("Baustelle", "Rückbau, Leitungen, Abdichtung, Verlegung, Montage."), ("Übergabe", "Reinigung, Konformitätserklärungen und Unterlagen für den Abzug.")]}],
  faqtitle=f"Fragen zur {G}Badsanierung.{_G}",
- faq=[("Wie lange dauert eine Badsanierung?", "Meist einige Wochen, sobald Materialien und Sanitärobjekte gewählt sind. Den genauen Termin schreiben wir in den Vertrag."),
+ faq=[('Was kostet eine Badsanierung?', 'Das hängt von der Fläche, dem Zustand von Leitungen und Abflüssen, den Abbrucharbeiten, Dusche oder Wanne und vor allem von Fliesen, Sanitärobjekten und Armaturen ab. Deshalb veröffentlichen wir keine Preislisten: Nach der kostenlosen Besichtigung erhalten Sie ein schriftliches Festpreisangebot mit allen Positionen, und der italienische Steuerbonus senkt die tatsächlichen Kosten.'),
+      ("Wie lange dauert eine Badsanierung?", "Meist einige Wochen, sobald Materialien und Sanitärobjekte gewählt sind. Den genauen Termin schreiben wir in den Vertrag."),
       ("Kann ich während der Arbeiten zu Hause bleiben?", "Mit einem zweiten Bad ist es einfach; ist es das einzige, organisieren wir die Phasen so, dass die Tage ohne Bad minimal sind, und sagen Ihnen vorher, welche es sind."),
       ("Fällt die Badsanierung unter den italienischen Bonus?", "Ja, wenn es sich um außerordentliche Instandhaltung handelt (etwa neue Leitungen): 2026 mit 50 % am Hauptwohnsitz und 36 % bei anderen Immobilien. Die richtige Genehmigung erstellen wir."),
       ("Kann ich Fliesen und Sanitär selbst wählen?", "Natürlich: Wir beraten mit Mustern und Renderings oder montieren Produkte, die Sie schon ausgewählt haben."),
       ("Sanieren Sie Bäder für Hotels und B&Bs?", "Ja, mit Materialien für Intensivnutzung und Arbeiten zimmerweise in der Nebensaison.")] + FAQ_BASE[:2],
  ctabox={"h2": "Bereit für ein neues Bad?", "p": "Schicken Sie uns ein Foto Ihres aktuellen Bades und den Ort: Wir vereinbaren die kostenlose Besichtigung.", "btn": "Bad sanieren lassen"},
  altrititle="Verwandte Seiten",
- altri=[("Wohnung und Haus renovieren", u('/ristrutturazione-appartamenti-e-case/')), ("Schlüsselfertige Renovierung", u('/ristrutturazioni-chiavi-in-mano/')), ("Trennwände", u('/pareti-divisorie/')),
+ altri=[("Ratgeber Badsanierung", u('/guide/come-rifare-il-bagno/')), ("Wohnung und Haus renovieren", u('/ristrutturazione-appartamenti-e-case/')), ("Schlüsselfertige Renovierung", u('/ristrutturazioni-chiavi-in-mano/')), ("Trennwände", u('/pareti-divisorie/')),
         ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/')), ("Maßmöbel", u('/mobili-su-misura/')), ("Hotelrenovierung", u('/ristrutturazione-hotel/'))],
  svc=svc("Badsanierung schlüsselfertig", "Badsanierung",
          "Schlüsselfertige Badsanierung in Venetien und Friaul, Italien: Rückbau, Leitungen, Abdichtung, Boden- und Wandfliesen, bodengleiche Dusche oder Wanne, Wand-WC, Waschtisch und Spiegel, mit Festpreis und Unterlagen für Steuerabzüge.",
@@ -90,7 +91,7 @@ P('/pareti-divisorie/', hero="re-divisori-dopo", herovid="re-pd-divisori",
 
 P('/impresa-edile-per-architetti/', hero="re-architetto-impresa",
  title="Bauunternehmen als Partner für Architekten und Planer | Italien",
- desc="Sie sind Architekt oder Innenarchitekt? Bringen Sie uns Ihre Projekte: Wir setzen sie mit Ihnen in Venetien und Friaul mit unserem Netzwerk aus Baufirmen und Handwerkern um, Festpreis, ein Ansprechpartner.",
+ desc="Bauunternehmen für Architekten und Innenarchitekten in Venetien und Friaul: Wir setzen Ihre Projekte um, zum Festpreis und mit einem Ansprechpartner.",
  ogtitle="Baupartner für Architekten — Danova Real Estate", ogdesc="Sie planen, wir bauen mit Ihnen: Netzwerk von Fachleuten, koordinierte Baustelle, Kunde gemeinsam betreut.",
  crumbs=[RE, ("Für Architekten", None)], eyebrow="Für Architekten, Ingenieure und Innenarchitekten",
  h1=f"Architekten, bringen Sie uns Ihre Projekte: {G}Wir setzen sie gemeinsam mit Ihnen um.{_G}",
@@ -196,6 +197,10 @@ CITTA = [
   "Wir arbeiten in Sacile, Caneva, Brugnera, Fontanafredda, Polcenigo und Cordignano.",
   ["Caneva", "Brugnera", "Fontanafredda", "Polcenigo", "Cordignano", "Fregona"]),
 ]
+import importlib.util as _iuN
+_spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
+_CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
+CITTA += _CN.citta('de')
 VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], "oderzo": ["motta-di-livenza", "treviso", "conegliano", "pordenone"],
           "conegliano": ["oderzo", "treviso", "sacile", "pordenone"], "motta-di-livenza": ["oderzo", "portogruaro", "san-dona-di-piave", "pordenone"],
           "castelfranco-veneto": ["montebelluna", "treviso", "padova", "vicenza"], "montebelluna": ["castelfranco-veneto", "treviso", "conegliano", "vicenza"],
@@ -204,6 +209,7 @@ VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], 
           "padova": ["vicenza", "mestre", "castelfranco-veneto", "venezia"], "vicenza": ["padova", "verona", "castelfranco-veneto", "montebelluna"],
           "verona": ["vicenza", "padova", "castelfranco-veneto", "mestre"], "pordenone": ["sacile", "udine", "oderzo", "conegliano"],
           "udine": ["pordenone", "portogruaro", "sacile", "conegliano"], "sacile": ["pordenone", "conegliano", "oderzo", "udine"]}
+VICINE.update(_CN.VICINE_NEW)
 NOMI = {c[1]: N(c[0]) for c in CITTA}
 for nome0, slug, area, hero, p1, p2, zone in CITTA:
     nome = N(nome0)
@@ -219,13 +225,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
        {"id": "prima-dopo", "tipo": "ba", "eyebrow": "Vorher und nachher", "h2": f"Der Schritt {G}von alt zu neu{_G}",
         "items": [{"prima": "re-soggiorno-prima", "dopo": "re-soggiorno-nuovo", "titolo": "Wohnbereich", "testo": "Weiße Wände, hellgraues Feinsteinzeug und Einbauleuchten."},
                   {"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Bad", "testo": "Bodengleiche Dusche, graue Steinplatten, Wand-WC."}]},
-       {"id": "territorio", "tipo": "testo", "eyebrow": "Renovieren in %s" % nome, "h2": f"Wir kennen {G}die Gegend{_G}",
+       {"id": "territorio", "tipo": "testo", "eyebrow": "Renovieren in %s" % nome, "h2": f"Bauunternehmen in {nome}: {G}wir kennen die Gegend{_G}",
         "corpo": [p1, p2, "Orte, in denen wir oft arbeiten: %s und die ganze Umgebung (%s)." % (", ".join(zone), area)]},
        {"id": "servizi", "tipo": "link", "eyebrow": "Leistungen", "h2": f"Was wir {G}in {nome}{_G} machen",
         "gruppi": [("", [("Schlüsselfertige Renovierung", u('/ristrutturazioni-chiavi-in-mano/'), "Planung, Genehmigungen, Arbeiten und Übergabe mit einem Ansprechpartner."),
                          ("Badsanierung", u('/ristrutturazione-bagno/'), "Ein modernes Bad in wenigen Tagen Bauzeit."),
                          ("Trennwände", u('/pareti-divisorie/'), "Ein Zimmer mehr mit Trockenbau und Glaswänden."),
                          ("Wärmedämmung und Fassaden", u('/cappotto-termico/'), "Außendämmung und erneuerte Fassaden."),
+                         ("Dach und Dachboden", u('/rifacimento-tetto/'), "Dachsanierung und Dachbodendämmung."),
                          ("Türen, Böden und Fenster", u('/pavimenti-e-serramenti/'), "Ausbau geliefert und montiert von uns."),
                          ("Generalunternehmer", u('/general-contractor/'), "Für Unternehmen, Investoren und Hotels.")])]},
        {"id": "promesse", "tipo": "promesse", "eyebrow": "Garantien", "h2": f"Vier Zusagen, {G}im Vertrag festgehalten{_G}"},
@@ -234,13 +241,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
                   ("Festpreisangebot", "Positionsweise, mit Zeitplan."), ("Genehmigungen und Boni", "Bauanträge bei der Gemeinde und Unterlagen für Steuerabzüge."),
                   ("Baustelle und Übergabe", "Koordinierte Teams, wöchentliche Updates, Reinigung und Schlüsselübergabe.")]}],
       faqtitle=f"Fragen zur Renovierung {G}in {nome}.{_G}",
-      faq=[("Besichtigen Sie auch in %s?" % nome, "Ja, die Besichtigung in %s und Umgebung ist kostenlos und unverbindlich. Danach erhalten Sie ein schriftliches, positionsweises Angebot." % nome),
+      faq=[('Sind Sie ein Bauunternehmen in %s?' % nome, 'Danova Real Estate hat seinen Sitz in Mansuè (Treviso) und arbeitet in %s und Umgebung als Bauunternehmen und Generalunternehmer: eigene Teams aus Maurern, Trockenbauern und Bodenlegern sowie ein Netz ausgewählter Handwerker für Elektro, Sanitär und Sonderarbeiten, koordiniert von einem einzigen Ansprechpartner.' % nome),
+           ("Besichtigen Sie auch in %s?" % nome, "Ja, die Besichtigung in %s und Umgebung ist kostenlos und unverbindlich. Danach erhalten Sie ein schriftliches, positionsweises Angebot." % nome),
            ("Übernehmen Sie die Genehmigungen bei der Gemeinde?", "Ja: Wir prüfen die baurechtliche Situation und reichen je nach Arbeiten CILA oder SCIA ein, dazu die Unterlagen für Steuerabzüge."),
            ("Arbeiten Sie für ausländische Eigentümer in %s?" % nome, "Ja: Wir betreuen die Baustelle vor Ort und berichten mit Fotos und Telefonaten, Unterlagen auch auf Deutsch.")] + FAQ_BASE[:3],
       ctabox={"h2": "Eine Immobilie in %s renovieren?" % nome, "p": "Nennen Sie uns Adresse oder Gegend und was Sie erneuern möchten: Wir vereinbaren die kostenlose Besichtigung.", "btn": "Besichtigung buchen"},
       altrititle="Verwandte Seiten",
       altri=[("Danova Real Estate", u('/real-estate/')), ("Schlüsselfertige Renovierung", u('/ristrutturazioni-chiavi-in-mano/')), ("Badsanierung", u('/ristrutturazione-bagno/')),
-             ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/'))] + [("Renovierung in %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]],
+             ("Renovierungsbonus 2026", u('/bonus-ristrutturazione-2026/'))] + [("Renovierung in %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]] + [('Renovierungsfirma richtig auswählen', u('/guide/come-scegliere-impresa-ristrutturazione/'))],
       svc=svc("Renovierung in %s" % nome, "Gebäuderenovierung",
               "Schlüsselfertige Renovierung in %s, Italien, und Umgebung (%s): Wohnungen, Häuser, Bäder, Küchen, Gewerbeflächen und Beherbergungsbetriebe, mit kostenloser Besichtigung, Festpreis und Unterlagen für Steuerabzüge." % (nome, ", ".join(zone[:4])),
               ["Schlüsselfertige Renovierung", "Badsanierung", "Trennwände", "Wärmedämmung", "Böden und Fenster"],

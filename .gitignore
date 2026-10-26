@@ -21,3 +21,4 @@ _archivio/
 # Real Estate: originali Higgsfield e file di appoggio, non vanno pubblicati
 seo-tools/real-estate-media/
 *.bak
+_to_delete/

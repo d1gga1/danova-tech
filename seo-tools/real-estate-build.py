@@ -24,11 +24,11 @@ for l, c in LG.CFG.items():
     pb.DONOR[l] = c['donor']; pb.LOC[l] = c['loc']; pb.OGL[l] = c['og']; pb.HOME[l] = c['home']
 IMG = '/assets/img/re/'; VID = '/assets/video/re/'
 RE_DESC = {
- 'it': 'Divisione edilizia di Danova Tech: ristrutturazioni chiavi in mano, general contractor, facciate e cappotto, porte, cartongesso, pavimenti, arredo hotel e mobili su misura in Veneto e Friuli Venezia Giulia.',
- 'en': 'Construction division of Danova Tech: turnkey renovations, general contracting, facades and insulation, doors, drywall, flooring, hotel furniture and custom joinery in Veneto and Friuli Venezia Giulia, Italy.',
- 'de': 'Bausparte von Danova Tech: schlüsselfertige Renovierungen, Generalunternehmer, Fassaden und Dämmung, Türen, Trockenbau, Böden, Hotel- und Maßmöbel in Venetien und Friaul-Julisch Venetien.',
- 'ro': 'Divizia de construcții a Danova Tech: renovări la cheie, antreprenor general, fațade și izolații, uși, rigips, pardoseli, mobilier hotelier și mobilă la comandă în Veneto și Friuli Venezia Giulia, Italia.',
- 'sq': 'Divizioni i ndërtimit i Danova Tech: rinovime çelës në dorë, kontraktor i përgjithshëm, fasada dhe termoizolim, dyer, gipskarton, dysheme, mobilim hotelesh dhe mobilje me porosi në Veneto dhe Friuli Venezia Giulia, Itali.',
+ 'it': 'Divisione edilizia di Danova Tech: ristrutturazioni chiavi in mano, general contractor, facciate e cappotto, tetti e sottotetti, pavimentazioni esterne, porte, cartongesso, pavimenti, arredo hotel e mobili su misura in tutto il Veneto e il Friuli Venezia Giulia.',
+ 'en': 'Construction division of Danova Tech: turnkey renovations, general contracting, facades and insulation, roofs and lofts, outdoor paving, doors, drywall, flooring, hotel furniture and custom joinery in Veneto and Friuli Venezia Giulia, Italy.',
+ 'de': 'Bausparte von Danova Tech: schlüsselfertige Renovierungen, Generalunternehmer, Fassaden und Dämmung, Dächer und Dachböden, Außenbeläge, Türen, Trockenbau, Böden, Hotel- und Maßmöbel in Venetien und Friaul-Julisch Venetien.',
+ 'ro': 'Divizia de construcții a Danova Tech: renovări la cheie, antreprenor general, fațade și izolații, acoperișuri și poduri, pavaje exterioare, uși, rigips, pardoseli, mobilier hotelier și mobilă la comandă în Veneto și Friuli Venezia Giulia, Italia.',
+ 'sq': 'Divizioni i ndërtimit i Danova Tech: rinovime çelës në dorë, kontraktor i përgjithshëm, fasada dhe termoizolim, çati dhe papafingo, shtrime të jashtme, dyer, gipskarton, dysheme, mobilim hotelesh dhe mobilje me porosi në Veneto dhe Friuli Venezia Giulia, Itali.',
  'hr': 'Građevinski odjel tvrtke Danova Tech: renoviranje po sistemu ključ u ruke, generalni izvođač, fasade, vrata, gips, podovi i namještaj za hotele u Venetu i Furlaniji.'}
 CUR = ['it']
 UI = lambda k: LG.UI[CUR[0]][k]

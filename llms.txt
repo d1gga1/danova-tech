@@ -249,11 +249,13 @@ Danova Tech builds stands for foreign companies exhibiting in Italy, including m
 
 Danova Real Estate è la divisione edilizia di Danova Tech (stessa azienda, stessi contatti). Dal 24 ottobre 2026 si occupa di:
 ristrutturazioni chiavi in mano (case, appartamenti, bagni, cucine, negozi, uffici, ristoranti, hotel, condomini, capannoni),
-general contractor, facciate e cappotto termico, pareti divisorie e cartongesso, porte interne, blindate e REI, pavimenti e serramenti,
+general contractor, facciate e cappotto termico, rifacimento tetti, isolamento sottotetti e insufflaggio, pavimentazioni esterne e terrazzi, pareti divisorie e cartongesso, porte interne, blindate e REI, pavimenti e serramenti,
 arredo hotel e contract, mobili su misura, progettazione e render 3D, pratiche edilizie (CILA, SCIA) e bonus fiscali.
 Collabora con architetti e studi di progettazione come impresa esecutrice, con una rete di imprese, artigiani e fornitori.
 
-- **Zona**: Veneto e Friuli Venezia Giulia
+- **Zona**: tutto il Veneto e tutto il Friuli Venezia Giulia (province di Treviso, Venezia, Padova, Vicenza, Verona, Rovigo, Belluno, Pordenone, Udine, Gorizia, Trieste); sede a Mansuè (TV)
+- **Chi esegue i lavori**: squadre interne (muratori, cartongessisti, posatori) e una rete di artigiani selezionati, compresi impianti elettrici e idraulici, coordinati da un unico referente
+- **Pratiche**: CILA, SCIA e bonus fiscali tramite i nostri tecnici
 - **Clienti**: privati, hotel e strutture ricettive, negozi/uffici/ristoranti, condomini, immobili industriali, architetti
 - **Promesse**: sopralluogo e preventivo gratuiti, prezzo bloccato chiavi in mano, tempi scritti nel contratto, unico referente
 - **Prezzi**: non pubblicati, preventivo dopo il sopralluogo
@@ -272,6 +274,9 @@ Collabora con architetti e studi di progettazione come impresa esecutrice, con u
 - [Impresa edile partner per architetti](https://danova-tech.com/impresa-edile-per-architetti/)
 - [Pareti divisorie](https://danova-tech.com/pareti-divisorie/)
 - [Cappotto termico](https://danova-tech.com/cappotto-termico/)
+- [Rifacimento tetto](https://danova-tech.com/rifacimento-tetto/)
+- [Isolamento sottotetto e insufflaggio](https://danova-tech.com/isolamento-sottotetto/)
+- [Pavimentazioni esterne e terrazzi](https://danova-tech.com/pavimentazioni-esterne/)
 - [Facciate](https://danova-tech.com/facciate-ventilate-e-rifacimento-facciate/)
 - [Porte interne e blindate](https://danova-tech.com/porte-interne-e-blindate/)
 - [Porte REI tagliafuoco](https://danova-tech.com/porte-rei-tagliafuoco/)
@@ -282,6 +287,43 @@ Collabora con architetti e studi di progettazione come impresa esecutrice, con u
 - [Progettazione e render 3D](https://danova-tech.com/progettazione-e-render-3d/)
 - [Pratiche CILA e SCIA](https://danova-tech.com/pratiche-edilizie-cila-scia/)
 - [Bonus ristrutturazione 2026](https://danova-tech.com/bonus-ristrutturazione-2026/)
+- [Guida: quanto costa ristrutturare casa](https://danova-tech.com/guide/quanto-costa-ristrutturare-casa/)
+- [Guida: rifare il bagno](https://danova-tech.com/guide/come-rifare-il-bagno/)
+- [Guida: CILA o SCIA](https://danova-tech.com/guide/cila-o-scia/)
+- [Guida: quando conviene il cappotto termico](https://danova-tech.com/guide/quando-conviene-il-cappotto-termico/)
+- [Guida: come scegliere un’impresa di ristrutturazione](https://danova-tech.com/guide/come-scegliere-impresa-ristrutturazione/)
+
+Impresa edile e ristrutturazioni per città (una pagina per ogni zona):
+- [Impresa edile Treviso](https://danova-tech.com/ristrutturazioni-treviso/)
+- [Impresa edile Oderzo](https://danova-tech.com/ristrutturazioni-oderzo/)
+- [Impresa edile Conegliano](https://danova-tech.com/ristrutturazioni-conegliano/)
+- [Impresa edile Motta di Livenza](https://danova-tech.com/ristrutturazioni-motta-di-livenza/)
+- [Impresa edile Castelfranco Veneto](https://danova-tech.com/ristrutturazioni-castelfranco-veneto/)
+- [Impresa edile Montebelluna](https://danova-tech.com/ristrutturazioni-montebelluna/)
+- [Impresa edile Venezia](https://danova-tech.com/ristrutturazioni-venezia/)
+- [Impresa edile Mestre](https://danova-tech.com/ristrutturazioni-mestre/)
+- [Impresa edile San Donà di Piave](https://danova-tech.com/ristrutturazioni-san-dona-di-piave/)
+- [Impresa edile Portogruaro](https://danova-tech.com/ristrutturazioni-portogruaro/)
+- [Impresa edile Padova](https://danova-tech.com/ristrutturazioni-padova/)
+- [Impresa edile Vicenza](https://danova-tech.com/ristrutturazioni-vicenza/)
+- [Impresa edile Verona](https://danova-tech.com/ristrutturazioni-verona/)
+- [Impresa edile Pordenone](https://danova-tech.com/ristrutturazioni-pordenone/)
+- [Impresa edile Udine](https://danova-tech.com/ristrutturazioni-udine/)
+- [Impresa edile Sacile](https://danova-tech.com/ristrutturazioni-sacile/)
+- [Impresa edile Trieste](https://danova-tech.com/ristrutturazioni-trieste/)
+- [Impresa edile Gorizia](https://danova-tech.com/ristrutturazioni-gorizia/)
+- [Impresa edile Monfalcone](https://danova-tech.com/ristrutturazioni-monfalcone/)
+- [Impresa edile Belluno](https://danova-tech.com/ristrutturazioni-belluno/)
+- [Impresa edile Feltre](https://danova-tech.com/ristrutturazioni-feltre/)
+- [Impresa edile Rovigo](https://danova-tech.com/ristrutturazioni-rovigo/)
+- [Impresa edile Bassano del Grappa](https://danova-tech.com/ristrutturazioni-bassano-del-grappa/)
+- [Impresa edile Schio](https://danova-tech.com/ristrutturazioni-schio/)
+- [Impresa edile Cittadella](https://danova-tech.com/ristrutturazioni-cittadella/)
+- [Impresa edile Chioggia](https://danova-tech.com/ristrutturazioni-chioggia/)
+- [Impresa edile Jesolo](https://danova-tech.com/ristrutturazioni-jesolo/)
+- [Impresa edile Vittorio Veneto](https://danova-tech.com/ristrutturazioni-vittorio-veneto/)
+- [Impresa edile Codroipo](https://danova-tech.com/ristrutturazioni-codroipo/)
+- [Impresa edile Cividale del Friuli](https://danova-tech.com/ristrutturazioni-cividale-del-friuli/)
 
 ### Danova Real Estate — summary in English
 

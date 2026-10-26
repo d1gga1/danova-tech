@@ -41,14 +41,15 @@ P('/ristrutturazione-bagno/', hero="re-bagno-nuovo", herovid="re-pd-bagno-nuovo"
    "corpo": [("Inspecție gratuită", "Măsurători, verificarea scurgerilor și a instalațiilor, idei și buget."), ("Proiect și alegerea materialelor", "Randarea băii noi, mostre de faianță, sanitare și baterii."),
              ("Ofertă blocată", "Pe fiecare poziție, cu data de început și de final."), ("Șantier", "Demolare, instalații, hidroizolație, placare, montaj."), ("Predare", "Curățenie, declarații de conformitate și documente pentru deducere.")]}],
  faqtitle=f"Întrebări despre {G}renovarea băii.{_G}",
- faq=[("Cât durează renovarea unei băi?", "De obicei câteva săptămâni de șantier, după alegerea materialelor și a sanitarelor. Data exactă o scriem în contract."),
+ faq=[('Cât costă renovarea unei băi?', 'Depinde de suprafață, de starea instalațiilor și a scurgerilor, de demolări, de duș sau cadă și mai ales de faianța, obiectele sanitare și bateriile alese. De aceea nu publicăm liste de prețuri: după inspecția gratuită primiți o ofertă scrisă, pe fiecare poziție, la preț blocat, iar deducerea fiscală italiană reduce costul real.'),
+      ("Cât durează renovarea unei băi?", "De obicei câteva săptămâni de șantier, după alegerea materialelor și a sanitarelor. Data exactă o scriem în contract."),
       ("Pot rămâne acasă în timpul lucrărilor?", "Da, dacă aveți a doua baie e simplu; dacă e singura, organizăm etapele ca zilele fără baie să fie cât mai puține și vi le spunem dinainte."),
       ("Renovarea băii intră în bonusul italian?", "Da, când e vorba de întreținere extraordinară (de exemplu refacerea instalațiilor): în 2026 deducerea este de 50% la locuința principală și 36% la alte imobile. Actul corect îl pregătim noi."),
       ("Pot alege eu faianța și sanitarele?", "Desigur: vă ajutăm să alegeți cu mostre și randări sau montăm produsele pe care le-ați ales deja, trecându-le în ofertă."),
       ("Faceți băi pentru hoteluri și B&B-uri?", "Da, cu materiale pentru uz intensiv și lucrări pe loturi de camere în extrasezon.")] + FAQ_BASE[:2] + FAQ_BASE[4:5],
  ctabox={"h2": "Gata pentru o baie nouă?", "p": "Trimiteți-ne o poză cu baia de acum și localitatea: stabilim inspecția gratuită.", "btn": "Renovăm baia"},
  altrititle="Pagini conexe",
- altri=[("Renovare apartamente și case", u('/ristrutturazione-appartamenti-e-case/')), ("Renovări la cheie", u('/ristrutturazioni-chiavi-in-mano/')), ("Pereți despărțitori", u('/pareti-divisorie/')),
+ altri=[("Ghid renovare baie", u('/guide/come-rifare-il-bagno/')), ("Renovare apartamente și case", u('/ristrutturazione-appartamenti-e-case/')), ("Renovări la cheie", u('/ristrutturazioni-chiavi-in-mano/')), ("Pereți despărțitori", u('/pareti-divisorie/')),
         ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/')), ("Mobilă la comandă", u('/mobili-su-misura/')), ("Renovare hoteluri", u('/ristrutturazione-hotel/'))],
  svc=svc("Renovare baie la cheie", "Renovare baie",
          "Renovare baie la cheie în Veneto și Friuli, Italia: demolare, instalații, hidroizolație, gresie și faianță, duș walk-in sau cadă, obiecte sanitare suspendate, mobilier și oglindă, cu preț blocat și documente pentru deduceri.",
@@ -196,6 +197,10 @@ CITTA = [
   "Lucrăm în Sacile, Caneva, Brugnera, Fontanafredda, Polcenigo și Cordignano.",
   ["Caneva", "Brugnera", "Fontanafredda", "Polcenigo", "Cordignano", "Fregona"]),
 ]
+import importlib.util as _iuN
+_spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
+_CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
+CITTA += _CN.citta('ro')
 VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], "oderzo": ["motta-di-livenza", "treviso", "conegliano", "pordenone"],
           "conegliano": ["oderzo", "treviso", "sacile", "pordenone"], "motta-di-livenza": ["oderzo", "portogruaro", "san-dona-di-piave", "pordenone"],
           "castelfranco-veneto": ["montebelluna", "treviso", "padova", "vicenza"], "montebelluna": ["castelfranco-veneto", "treviso", "conegliano", "vicenza"],
@@ -204,6 +209,7 @@ VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], 
           "padova": ["vicenza", "mestre", "castelfranco-veneto", "venezia"], "vicenza": ["padova", "verona", "castelfranco-veneto", "montebelluna"],
           "verona": ["vicenza", "padova", "castelfranco-veneto", "mestre"], "pordenone": ["sacile", "udine", "oderzo", "conegliano"],
           "udine": ["pordenone", "portogruaro", "sacile", "conegliano"], "sacile": ["pordenone", "conegliano", "oderzo", "udine"]}
+VICINE.update(_CN.VICINE_NEW)
 NOMI = {c[1]: N(c[0]) for c in CITTA}
 for nome0, slug, area, hero, p1, p2, zone in CITTA:
     nome = N(nome0)
@@ -219,13 +225,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
        {"id": "prima-dopo", "tipo": "ba", "eyebrow": "Înainte și după", "h2": f"Trecerea {G}de la vechi la nou{_G}",
         "items": [{"prima": "re-soggiorno-prima", "dopo": "re-soggiorno-nuovo", "titolo": "Living", "testo": "Pereți albi, gresie gri deschis și spoturi încastrate."},
                   {"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Baie", "testo": "Duș walk-in, plăci gri efect piatră, obiecte suspendate."}]},
-       {"id": "territorio", "tipo": "testo", "eyebrow": "Renovări în %s" % nome, "h2": f"Cunoaștem {G}zona{_G}",
+       {"id": "territorio", "tipo": "testo", "eyebrow": "Renovări în %s" % nome, "h2": f"Firmă de construcții în {nome}: {G}cunoaștem zona{_G}",
         "corpo": [p1, p2, "Localități unde lucrăm des: %s și toată zona (%s)." % (", ".join(zone), area)]},
        {"id": "servizi", "tipo": "link", "eyebrow": "Servicii", "h2": f"Ce facem {G}în {nome}{_G}",
         "gruppi": [("", [("Renovări la cheie", u('/ristrutturazioni-chiavi-in-mano/'), "Proiect, acte, lucrări și predare cu un singur responsabil."),
                          ("Renovare baie", u('/ristrutturazione-bagno/'), "O baie modernă în câteva zile de șantier."),
                          ("Pereți despărțitori", u('/pareti-divisorie/'), "O cameră în plus cu rigips și pereți de sticlă."),
                          ("Izolație termică și fațade", u('/cappotto-termico/'), "Izolație exterioară și fațade renovate."),
+                         ("Acoperiș și pod", u('/rifacimento-tetto/'), "Refacere acoperiș și izolarea podului."),
                          ("Uși, pardoseli și ferestre", u('/pavimenti-e-serramenti/'), "Finisaje furnizate și montate de noi."),
                          ("Antreprenor general", u('/general-contractor/'), "Pentru firme, investitori și hoteluri.")])]},
        {"id": "promesse", "tipo": "promesse", "eyebrow": "Garanții", "h2": f"Patru angajamente, {G}scrise în contract{_G}"},
@@ -234,13 +241,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
                   ("Ofertă blocată", "Pe fiecare poziție, cu grafic."), ("Acte și bonusuri", "Autorizații la primărie și documente pentru deduceri."),
                   ("Șantier și predare", "Echipe coordonate, informări săptămânale, curățenie și cheile în mână.")]}],
       faqtitle=f"Întrebări despre renovări {G}în {nome}.{_G}",
-      faq=[("Faceți inspecții în %s?" % nome, "Da, inspecția în %s și în localitățile vecine este gratuită și fără obligații. După vizită primiți o ofertă scrisă, poziție cu poziție." % nome),
+      faq=[('Sunteți o firmă de construcții în %s?' % nome, 'Danova Real Estate are sediul la Mansuè (Treviso) și lucrează în %s și în localitățile vecine ca firmă de construcții și antreprenor general: echipe proprii de zidari, montatori de rigips și parchetari, plus o rețea de meseriași selectați pentru instalații electrice, sanitare și lucrări speciale, coordonați de un singur responsabil.' % nome),
+           ("Faceți inspecții în %s?" % nome, "Da, inspecția în %s și în localitățile vecine este gratuită și fără obligații. După vizită primiți o ofertă scrisă, poziție cu poziție." % nome),
            ("Vă ocupați de actele la primărie?", "Da: verificăm situația urbanistică a imobilului și depunem CILA sau SCIA în funcție de lucrări, plus documentele pentru deducerile fiscale."),
            ("Pot vorbi cu voi în română?", "Da: în echipa noastră se vorbește româna ca limbă maternă. Vă explicăm oferta, contractul și lucrările în română.")] + FAQ_BASE[:3],
       ctabox={"h2": "Un imobil de renovat în %s?" % nome, "p": "Spuneți-ne adresa sau zona și ce vreți să renovați: stabilim inspecția gratuită.", "btn": "Programați inspecția"},
       altrititle="Pagini conexe",
       altri=[("Danova Real Estate", u('/real-estate/')), ("Renovări la cheie", u('/ristrutturazioni-chiavi-in-mano/')), ("Renovare baie", u('/ristrutturazione-bagno/')),
-             ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/'))] + [("Renovări în %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]],
+             ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/'))] + [("Renovări în %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]] + [('Cum alegi firma de renovări', u('/guide/come-scegliere-impresa-ristrutturazione/'))],
       svc=svc("Renovări în %s" % nome, "Renovări de clădiri",
               "Renovări la cheie în %s, Italia, și în localitățile vecine (%s): apartamente, case, băi, bucătării, spații comerciale și unități de cazare, cu inspecție gratuită, preț blocat și acte pentru deduceri." % (nome, ", ".join(zone[:4])),
               ["Renovări la cheie", "Renovare baie", "Pereți despărțitori", "Izolație termică", "Pardoseli și ferestre"],

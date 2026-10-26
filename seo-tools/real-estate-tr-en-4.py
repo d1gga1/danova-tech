@@ -36,7 +36,7 @@ P('/guide/come-scegliere-impresa-ristrutturazione/', hero="re-direttore-lavori",
  faq=[("How many quotes should I get?", "Two or three, as long as they are comparable: same trades, same materials, same exclusions. Otherwise you compare different things."),
       ("Is a deposit normal?", "Yes, a deposit to order materials is normal; the rest is paid according to progress, by the dedicated transfer if you use Italian deductions.")],
  ctabox={"h2": "Put our quote to the test.", "p": "Free survey and itemised quote, with no obligation.", "btn": "Request a quote"},
- altri=[("Turnkey renovation", u('/ristrutturazioni-chiavi-in-mano/')), ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/')), ("Guide: CILA or SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Renovation costs in Italy", u('/guide/quanto-costa-ristrutturare-casa/')), ("Turnkey renovation", u('/ristrutturazioni-chiavi-in-mano/')), ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/')), ("Guide: CILA or SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Guide to choosing a renovation company", "Guide", "Checklist for choosing a renovation company in Italy: survey, quote, fixed price, deadlines, permits, payments and final documents.", []))
 
 P('/guide/cila-o-scia/', hero="re-cantiere-cartongesso",
@@ -113,7 +113,7 @@ P('/guide/quando-conviene-il-cappotto-termico/', hero="re-facciata-cantiere",
  faq=[("Does insulation also save in summer?", "Yes, it reduces heat entering through the walls; with dense insulants such as wood fibre summer comfort improves further."),
       ("Does the apartment building need to approve it?", "Yes, for shared facades a resolution of the owners’ meeting is required.")],
  ctabox={"h2": "Does it pay off on your building?", "p": "Address and year of construction: we come to see and tell you.", "btn": "Let’s assess your building"},
- altri=[("External wall insulation", u('/cappotto-termico/')), ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/')), ("Facade renovation", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Loft insulation", u('/isolamento-sottotetto/')), ("External wall insulation", u('/cappotto-termico/')), ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/')), ("Facade renovation", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Guide to external wall insulation", "Guide", "When external insulation pays off, limits, 2026 Italian deductions and alternatives.", []))
 
 P('/guide/porte-rei-negli-hotel/', hero="re-porte-rei-hotel",

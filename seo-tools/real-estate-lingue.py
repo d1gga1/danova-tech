@@ -28,6 +28,9 @@ S = {  # slug per lingua (en, de, ro, sq, hr): chiave = URL italiano
  '/porte-interne-e-blindate/': ('interior-and-security-doors', 'innentueren-sicherheitstueren', 'usi-interioare-blindate', 'dyer-te-brendshme-te-blinduara', 'unutarnja-i-sigurnosna-vrata'),
  '/porte-rei-tagliafuoco/': ('fire-rated-doors', 'brandschutztueren', 'usi-rezistente-la-foc', 'dyer-kunder-zjarrit', 'protupozarna-vrata'),
  '/cartongesso-e-controsoffitti/': ('drywall-suspended-ceilings', 'trockenbau-abgehaengte-decken', 'rigips-tavane-false', 'kartongips-tavane-te-varura', 'gips-spusteni-stropovi'),
+ '/rifacimento-tetto/': ('roof-replacement', 'dachsanierung', 'refacere-acoperis', 'rinovim-catie', 'sanacija-krova'),
+ '/isolamento-sottotetto/': ('loft-insulation', 'dachbodendaemmung', 'izolare-pod-mansarda', 'izolim-papafingo', 'izolacija-potkrovlja'),
+ '/pavimentazioni-esterne/': ('outdoor-paving', 'terrassen-aussenbelaege', 'pavaje-exterioare', 'shtrime-te-jashtme', 'vanjsko-poplocenje'),
  '/pavimenti-e-serramenti/': ('flooring-and-windows', 'boeden-und-fenster', 'pardoseli-si-tamplarie', 'dysheme-dhe-dritare', 'podovi-i-prozori'),
  '/arredo-hotel-contract/': ('hotel-contract-furniture', 'hotelmoebel-objekteinrichtung', 'mobilier-hotelier', 'mobilim-hotelesh', 'namjestaj-za-hotele'),
  '/mobili-su-misura/': ('custom-made-furniture', 'massmoebel', 'mobila-la-comanda', 'mobilje-me-porosi', 'namjestaj-po-mjeri'),
@@ -38,10 +41,17 @@ S = {  # slug per lingua (en, de, ro, sq, hr): chiave = URL italiano
  '/guide/cila-o-scia/': ('cila-or-scia-italy', 'cila-oder-scia', 'cila-sau-scia', 'cila-apo-scia', 'cila-ili-scia'),
  '/guide/ristrutturare-un-hotel/': ('how-to-renovate-a-hotel', 'hotel-renovieren-zeitplan', 'cum-renovezi-un-hotel', 'si-te-rinovosh-nje-hotel', 'kako-renovirati-hotel'),
  '/guide/quando-conviene-il-cappotto-termico/': ('is-external-insulation-worth-it', 'lohnt-sich-waermedaemmung', 'merita-izolatia-termica', 'a-ia-vlen-termoizolimi', 'isplati-li-se-toplinska-izolacija'),
+ '/guide/quanto-costa-ristrutturare-casa/': ('renovation-cost-italy', 'renovierungskosten-italien', 'cost-renovare-casa-italia', 'kosto-rinovimi-shtepie-itali', 'troskovi-renoviranja'),
+ '/guide/come-rifare-il-bagno/': ('bathroom-renovation-guide', 'badsanierung-ratgeber', 'ghid-renovare-baie', 'udhezues-rinovim-banjoje', 'vodic-renoviranje-kupaonice'),
  '/guide/porte-rei-negli-hotel/': ('fire-doors-in-hotels', 'brandschutztueren-im-hotel', 'usi-rezistente-la-foc-in-hoteluri', 'dyer-kunder-zjarrit-ne-hotele', 'protupozarna-vrata-u-hotelima'),
 }
 CITTA = ['treviso', 'oderzo', 'conegliano', 'motta-di-livenza', 'castelfranco-veneto', 'montebelluna', 'venezia', 'mestre', 'san-dona-di-piave',
          'portogruaro', 'padova', 'vicenza', 'verona', 'pordenone', 'udine', 'sacile']
+import os
+import importlib.util as _iuN
+_spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
+_CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
+CITTA = CITTA + _CN.SLUGS
 GC = ['treviso', 'venezia', 'padova', 'vicenza', 'verona', 'pordenone', 'udine']
 ZONE = ['jesolo', 'caorle', 'bibione', 'cavallino-treporti', 'sottomarina', 'lignano', 'grado', 'cortina', 'dolomiti', 'lago-di-garda', 'venezia', 'verona']
 for _c in CITTA: S['/ristrutturazioni-%s/' % _c] = tuple(p + _c for p in ('renovation-', 'renovierung-', 'renovari-', 'rinovime-', 'renoviranje-'))
@@ -63,6 +73,7 @@ def ext(k, lang): return EXT[k].get(lang, EXT[k]['en'])
 NOMI = {  # nomi di citta' e zone tradotti (dove cambiano)
  'Venezia': {'en': 'Venice', 'de': 'Venedig', 'ro': 'Veneția', 'sq': 'Venecia', 'hr': 'Venecija'},
  'Padova': {'en': 'Padua', 'de': 'Padua'},
+ 'Trieste': {'de': 'Triest', 'hr': 'Trst'},
  'Lago di Garda': {'en': 'Lake Garda', 'de': 'Gardasee', 'ro': 'Lacul Garda', 'sq': 'Liqeni i Gardës', 'hr': 'Gardsko jezero'},
  'Dolomiti bellunesi': {'en': 'Belluno Dolomites', 'de': 'Belluneser Dolomiten', 'ro': 'Dolomiții din Belluno', 'sq': 'Dolomitet e Bellunos', 'hr': 'Dolomiti Belluna'},
  'Sottomarina e Chioggia': {'en': 'Sottomarina and Chioggia', 'de': 'Sottomarina und Chioggia', 'ro': 'Sottomarina și Chioggia', 'sq': 'Sottomarina dhe Chioggia', 'hr': 'Sottomarina i Chioggia'},

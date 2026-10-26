@@ -41,14 +41,15 @@ P('/ristrutturazione-bagno/', hero="re-bagno-nuovo", herovid="re-pd-bagno-nuovo"
    "corpo": [("Inspektim falas", "Matje, kontroll i shkarkimeve dhe impianteve, ide dhe buxhet."), ("Projekt dhe zgjedhje materialesh", "Render i banjës së re, mostra pllakash, sanitaresh dhe rubinetash."),
              ("Ofertë e bllokuar", "Zë për zë, me datën e fillimit dhe të përfundimit."), ("Kantier", "Prishje, impiante, hidroizolim, shtrim, montim."), ("Dorëzim", "Pastrim, deklarata konformiteti dhe dokumente për zbritjen.")]}],
  faqtitle=f"Pyetje për {G}rinovimin e banjës.{_G}",
- faq=[("Sa zgjat rinovimi i një banje?", "Zakonisht disa javë kantieri, pas zgjedhjes së materialeve dhe sanitareve. Datën e saktë e shkruajmë në kontratë."),
+ faq=[('Sa kushton rinovimi i një banjoje?', 'Varet nga sipërfaqja, gjendja e tubacioneve dhe shkarkimeve, prishjet që duhen bërë, dushi apo vaska dhe mbi të gjitha pllakat, sanitaret dhe rubinetet që zgjidhni. Prandaj nuk publikojmë lista çmimesh: pas inspektimit falas merrni një ofertë me shkrim, zë për zë, me çmim të bllokuar, dhe zbritja fiskale italiane e ul koston reale.'),
+      ("Sa zgjat rinovimi i një banje?", "Zakonisht disa javë kantieri, pas zgjedhjes së materialeve dhe sanitareve. Datën e saktë e shkruajmë në kontratë."),
       ("A mund të qëndroj në shtëpi gjatë punimeve?", "Po, nëse keni banjë të dytë është e thjeshtë; nëse është e vetmja, i organizojmë fazat që ditët pa banjë të jenë sa më pak dhe jua themi më parë."),
       ("A hyn rinovimi i banjës në bonusin italian?", "Po, kur bëhet fjalë për mirëmbajtje të jashtëzakonshme (p.sh. rinovim impiantesh): në 2026 zbritja është 50% për banesën kryesore dhe 36% për prona të tjera. Lejen e duhur e përgatisim ne."),
       ("A mund t’i zgjedh vetë pllakat dhe sanitaret?", "Sigurisht: ju ndihmojmë të zgjidhni me mostra dhe render ose montojmë produktet që keni zgjedhur tashmë, duke i shënuar në ofertë."),
       ("A bëni banja për hotele dhe B&B?", "Po, me materiale për përdorim intensiv dhe punime me grupe dhomash jashtë sezonit.")] + FAQ_BASE[:2] + FAQ_BASE[4:5],
  ctabox={"h2": "Gati për një banjë të re?", "p": "Na dërgoni një foto të banjës aktuale dhe vendin: caktojmë inspektimin falas.", "btn": "Rinovojmë banjën"},
  altrititle="Faqe të lidhura",
- altri=[("Rinovim apartamentesh dhe shtëpish", u('/ristrutturazione-appartamenti-e-case/')), ("Rinovime çelës në dorë", u('/ristrutturazioni-chiavi-in-mano/')), ("Mure ndarëse", u('/pareti-divisorie/')),
+ altri=[("Udhëzues rinovim banjoje", u('/guide/come-rifare-il-bagno/')), ("Rinovim apartamentesh dhe shtëpish", u('/ristrutturazione-appartamenti-e-case/')), ("Rinovime çelës në dorë", u('/ristrutturazioni-chiavi-in-mano/')), ("Mure ndarëse", u('/pareti-divisorie/')),
         ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/')), ("Mobilje me porosi", u('/mobili-su-misura/')), ("Rinovim hotelesh", u('/ristrutturazione-hotel/'))],
  svc=svc("Rinovim banje çelës në dorë", "Rinovim banje",
          "Rinovim banje çelës në dorë në Veneto dhe Friuli, Itali: prishje, impiante, hidroizolim, pllaka, dush walk-in ose vaskë, sanitare të varura, mobilje dhe pasqyrë, me çmim të bllokuar dhe dokumente për zbritjet.",
@@ -196,6 +197,10 @@ CITTA = [
   "Punojmë në Sacile, Caneva, Brugnera, Fontanafredda, Polcenigo dhe Cordignano.",
   ["Caneva", "Brugnera", "Fontanafredda", "Polcenigo", "Cordignano", "Fregona"]),
 ]
+import importlib.util as _iuN
+_spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
+_CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
+CITTA += _CN.citta('sq')
 VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], "oderzo": ["motta-di-livenza", "treviso", "conegliano", "pordenone"],
           "conegliano": ["oderzo", "treviso", "sacile", "pordenone"], "motta-di-livenza": ["oderzo", "portogruaro", "san-dona-di-piave", "pordenone"],
           "castelfranco-veneto": ["montebelluna", "treviso", "padova", "vicenza"], "montebelluna": ["castelfranco-veneto", "treviso", "conegliano", "vicenza"],
@@ -204,6 +209,7 @@ VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], 
           "padova": ["vicenza", "mestre", "castelfranco-veneto", "venezia"], "vicenza": ["padova", "verona", "castelfranco-veneto", "montebelluna"],
           "verona": ["vicenza", "padova", "castelfranco-veneto", "mestre"], "pordenone": ["sacile", "udine", "oderzo", "conegliano"],
           "udine": ["pordenone", "portogruaro", "sacile", "conegliano"], "sacile": ["pordenone", "conegliano", "oderzo", "udine"]}
+VICINE.update(_CN.VICINE_NEW)
 NOMI = {c[1]: N(c[0]) for c in CITTA}
 for nome0, slug, area, hero, p1, p2, zone in CITTA:
     nome = N(nome0)
@@ -219,13 +225,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
        {"id": "prima-dopo", "tipo": "ba", "eyebrow": "Para dhe pas", "h2": f"Kalimi {G}nga e vjetra te e reja{_G}",
         "items": [{"prima": "re-soggiorno-prima", "dopo": "re-soggiorno-nuovo", "titolo": "Dhomë ndenjieje", "testo": "Mure të bardha, pllaka gri të çelura dhe ndriçim i futur."},
                   {"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Banjë", "testo": "Dush walk-in, pllaka gri me efekt guri, sanitare të varura."}]},
-       {"id": "territorio", "tipo": "testo", "eyebrow": "Rinovime në %s" % nome, "h2": f"E njohim {G}zonën{_G}",
+       {"id": "territorio", "tipo": "testo", "eyebrow": "Rinovime në %s" % nome, "h2": f"Kompani ndërtimi në {nome}: {G}e njohim zonën{_G}",
         "corpo": [p1, p2, "Vende ku punojmë shpesh: %s dhe gjithë zona (%s)." % (", ".join(zone), area)]},
        {"id": "servizi", "tipo": "link", "eyebrow": "Shërbime", "h2": f"Çfarë bëjmë {G}në {nome}{_G}",
         "gruppi": [("", [("Rinovime çelës në dorë", u('/ristrutturazioni-chiavi-in-mano/'), "Projekt, leje, punime dhe dorëzim me një përgjegjës të vetëm."),
                          ("Rinovim banje", u('/ristrutturazione-bagno/'), "Një banjë moderne në pak ditë kantieri."),
                          ("Mure ndarëse", u('/pareti-divisorie/'), "Një dhomë më shumë me gips-karton dhe mure xhami."),
                          ("Izolim termik dhe fasada", u('/cappotto-termico/'), "Izolim i jashtëm dhe fasada të rinovuara."),
+                         ("Çati dhe papafingo", u('/rifacimento-tetto/'), "Rinovim çatie dhe izolim papafingo."),
                          ("Dyer, dysheme dhe dritare", u('/pavimenti-e-serramenti/'), "Përfundime të furnizuara dhe montuara nga ne."),
                          ("Kontraktor i përgjithshëm", u('/general-contractor/'), "Për kompani, investitorë dhe hotele.")])]},
        {"id": "promesse", "tipo": "promesse", "eyebrow": "Garanci", "h2": f"Katër angazhime, {G}të shkruara në kontratë{_G}"},
@@ -234,13 +241,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
                   ("Ofertë e bllokuar", "Zë për zë, me grafik."), ("Leje dhe bonuse", "Leje në bashki dhe dokumente për zbritjet."),
                   ("Kantier dhe dorëzim", "Ekipe të koordinuara, informim çdo javë, pastrim dhe çelësat në dorë.")]}],
       faqtitle=f"Pyetje për rinovimet {G}në {nome}.{_G}",
-      faq=[("A bëni inspektime në %s?" % nome, "Po, inspektimi në %s dhe në vendet fqinje është falas dhe pa detyrime. Pas vizitës merrni një ofertë me shkrim, zë për zë." % nome),
+      faq=[('A jeni një kompani ndërtimi në %s?' % nome, 'Danova Real Estate ka selinë në Mansuè (Treviso) dhe punon në %s dhe në komunat përreth si kompani ndërtimi dhe kontraktor i përgjithshëm: ekipe të veta muratorësh, montuesish gipskartoni dhe shtruesish dyshemesh, si dhe një rrjet zejtarësh të përzgjedhur për impiantet elektrike, hidraulike dhe punime të veçanta, të koordinuar nga një person i vetëm kontakti.' % nome),
+           ("A bëni inspektime në %s?" % nome, "Po, inspektimi në %s dhe në vendet fqinje është falas dhe pa detyrime. Pas vizitës merrni një ofertë me shkrim, zë për zë." % nome),
            ("A kujdeseni për lejet në bashki?", "Po: kontrollojmë situatën urbanistike të pronës dhe dorëzojmë CILA ose SCIA sipas punimeve, plus dokumentet për zbritjet fiskale."),
            ("A mund të komunikoj me ju në shqip?", "Po, me shkrim: ofertat, përmbledhjet e kontratës dhe përditësimet nga kantieri mund t’i merrni edhe në shqip. Ekipi flet italisht, anglisht dhe rumanisht.")] + FAQ_BASE[:3],
       ctabox={"h2": "Një pronë për ta rinovuar në %s?" % nome, "p": "Na tregoni adresën ose zonën dhe çfarë doni të rinovoni: caktojmë inspektimin falas.", "btn": "Caktoni inspektimin"},
       altrititle="Faqe të lidhura",
       altri=[("Danova Real Estate", u('/real-estate/')), ("Rinovime çelës në dorë", u('/ristrutturazioni-chiavi-in-mano/')), ("Rinovim banje", u('/ristrutturazione-bagno/')),
-             ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/'))] + [("Rinovime në %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]],
+             ("Bonusi i rinovimit 2026", u('/bonus-ristrutturazione-2026/'))] + [("Rinovime në %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]] + [('Si të zgjedhësh kompaninë e rinovimit', u('/guide/come-scegliere-impresa-ristrutturazione/'))],
       svc=svc("Rinovime në %s" % nome, "Rinovim ndërtesash",
               "Rinovime çelës në dorë në %s, Itali, dhe në vendet fqinje (%s): apartamente, shtëpi, banja, kuzhina, ambiente tregtare dhe struktura akomodimi, me inspektim falas, çmim të bllokuar dhe dokumente për zbritjet." % (nome, ", ".join(zone[:4])),
               ["Rinovime çelës në dorë", "Rinovim banje", "Mure ndarëse", "Izolim termik", "Dysheme dhe dritare"],

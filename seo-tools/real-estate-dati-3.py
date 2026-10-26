@@ -16,11 +16,11 @@ BA_BAGNI = [{"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Bag
 
 # =================================================================== RIFACIMENTO BAGNO
 P(url="/ristrutturazione-bagno/", hero="re-bagno-nuovo", herovid="re-pd-bagno-nuovo",
- title="Rifacimento bagno chiavi in mano in Veneto e Friuli",
+ title="Ristrutturazione bagno chiavi in mano in Veneto e Friuli | Rifare il bagno",
  desc="Rifacimento bagno chiavi in mano: demolizione, impianti, doccia walk-in, rivestimenti, sanitari sospesi e mobile su misura, in pochi giorni di cantiere. Prezzo bloccato, bonus 50%.",
  ogtitle="Rifacimento bagno chiavi in mano — Danova Real Estate", ogdesc="Dal bagno vecchio al bagno moderno in bianco e grigio: un solo referente, prezzo bloccato.",
- crumbs=[RE, ("Rifacimento bagno", None)], eyebrow="Bagno chiavi in mano · Veneto e Friuli",
- h1=f"Rifacimento bagno: {G}dal vecchio al moderno, in pochi giorni.{_G}",
+ crumbs=[RE, ("Ristrutturazione bagno", None)], eyebrow="Bagno chiavi in mano · Veneto e Friuli",
+ h1=f"Ristrutturazione bagno chiavi in mano: {G}dal vecchio al moderno, in pochi giorni.{_G}",
  lead="Demoliamo il bagno vecchio, rifacciamo impianti idraulici ed elettrici, posiamo rivestimenti e pavimenti, installiamo doccia walk-in o vasca, sanitari sospesi, mobile e specchio: un bagno moderno in bianco e grigio o nello stile che preferite, con prezzo bloccato e data di fine lavori scritta.",
  cta1="Rifacciamo il vostro bagno", cta2="Prima e dopo",
  badges=["Doccia walk-in", "Bianco e grigio moderno", "Prezzo bloccato", "Bonus 50%"],
@@ -50,14 +50,16 @@ P(url="/ristrutturazione-bagno/", hero="re-bagno-nuovo", herovid="re-pd-bagno-nu
              ("Cantiere", "Demolizione, impianti, impermeabilizzazione, posa, montaggio."),
              ("Consegna", "Pulizia, dichiarazioni di conformità e documenti per la detrazione.")]}],
  faqtitle=f"Domande sul {G}rifacimento del bagno.{_G}",
- faq=[("Quanto tempo serve per rifare un bagno?", "Di solito poche settimane di cantiere, una volta scelti materiali e sanitari. La data esatta la scriviamo nel contratto."),
+ faq=[("Quanto costa rifare il bagno?", "Dipende da metri quadri, stato di impianti e scarichi, demolizioni da fare, tipo di doccia o vasca e soprattutto da piastrelle, sanitari e rubinetteria scelti. Per questo non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce a prezzo bloccato, e la detrazione fiscale abbassa il costo reale."),
+      ("Cosa vuol dire ristrutturazione bagno tutto compreso?", "Che nel preventivo ci sono tutte le voci: demolizione e smaltimento, impianti idraulici ed elettrici, impermeabilizzazione, massetto, pavimenti e rivestimenti, sanitari, doccia o vasca, rubinetteria, mobile, specchio, pratiche e pulizia finale. Le forniture sono indicate per marca e modello, così sapete esattamente cosa pagate."),
+      ("Quanto tempo serve per rifare un bagno?", "Di solito poche settimane di cantiere, una volta scelti materiali e sanitari. La data esatta la scriviamo nel contratto."),
       ("Si può rifare il bagno restando in casa?", "Sì, se c’è un secondo bagno è semplice; se è l’unico, organizziamo le fasi per ridurre al minimo i giorni senza servizi e vi diciamo prima quali sono."),
       ("Il rifacimento del bagno rientra nel bonus?", "Sì, quando comporta manutenzione straordinaria (per esempio il rifacimento degli impianti): nel 2026 la detrazione è del 50% sull’abitazione principale e del 36% sugli altri immobili. Serve la pratica edilizia corretta, che prepariamo noi."),
       ("Posso scegliere io piastrelle e sanitari?", "Certo: vi accompagniamo nella scelta con campioni e render, oppure montiamo i prodotti che avete già individuato, indicandoli nel preventivo."),
       ("Fate anche bagni per hotel e B&B?", "Sì, con materiali resistenti all’uso intensivo e lavori organizzati per lotti di camere in bassa stagione.")] + FAQ_BASE[:2],
  ctabox={"h2": "Pronti per un bagno nuovo?", "p": "Mandateci una foto del bagno attuale e la città: fissiamo il sopralluogo gratuito.", "btn": "Rifacciamo il bagno"},
  altrititle="Pagine collegate",
- altri=[("Ristrutturazione appartamenti e case", "/ristrutturazione-appartamenti-e-case/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"), ("Pareti divisorie", "/pareti-divisorie/"),
+ altri=[("Guida: rifare il bagno", "/guide/come-rifare-il-bagno/"), ("Ristrutturazione appartamenti e case", "/ristrutturazione-appartamenti-e-case/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"), ("Pareti divisorie", "/pareti-divisorie/"),
         ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"), ("Mobili su misura", "/mobili-su-misura/"), ("Ristrutturazione hotel", "/ristrutturazione-hotel/")],
  svc=svc("Rifacimento bagno chiavi in mano", "Ristrutturazione bagno",
          "Rifacimento del bagno chiavi in mano in Veneto e Friuli: demolizione, impianti, impermeabilizzazione, pavimenti e rivestimenti, doccia walk-in o vasca, sanitari sospesi, mobile e specchio, con prezzo bloccato e documenti per le detrazioni.",
@@ -104,7 +106,7 @@ P(url="/pareti-divisorie/", hero="re-divisori-dopo", herovid="re-pd-divisori",
 # =================================================================== IMPRESA PER ARCHITETTI
 P(url="/impresa-edile-per-architetti/", hero="re-architetto-impresa",
  title="Impresa edile partner per architetti e studi di progettazione",
- desc="Siete architetti o interior designer? Portateci i vostri progetti: li realizziamo con voi in Veneto e Friuli con la nostra rete di imprese e artigiani, prezzo bloccato e un solo referente.",
+ desc="Impresa edile partner per architetti e interior designer in Veneto e Friuli: realizziamo i vostri progetti con prezzo bloccato e un solo referente.",
  ogtitle="Impresa partner per architetti — Danova Real Estate", ogdesc="Voi progettate, noi costruiamo con voi: rete di professionisti, cantiere coordinato, cliente seguito insieme.",
  crumbs=[RE, ("Per architetti", None)], eyebrow="Per architetti, ingegneri e interior designer",
  h1=f"Architetti, portateci i vostri progetti: {G}li realizziamo insieme a voi.{_G}",
@@ -217,10 +219,15 @@ CITTA = [
   "Lavoriamo a Sacile, Caneva, Brugnera, Fontanafredda, Polcenigo e Cordignano.",
   ["Caneva", "Brugnera", "Fontanafredda", "Polcenigo", "Cordignano", "Fregona"]),
 ]
+import os
+import importlib.util as _iuN
+_spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
+_CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
+CITTA += _CN.citta('it')
 for nome, slug, area, hero, p1, p2, zone in CITTA:
     P(url="/ristrutturazioni-%s/" % slug, hero=hero,
       title="Ristrutturazioni a %s chiavi in mano | Danova Real Estate" % nome,
-      desc="Ristrutturazioni a %s: appartamenti, case, bagni, cucine, locali e hotel chiavi in mano. Sopralluogo gratuito, prezzo bloccato, tempi nel contratto e pratiche per i bonus." % nome,
+      desc="Impresa edile a %s per ristrutturazioni chiavi in mano di appartamenti, case, bagni, locali e hotel. Sopralluogo gratuito, prezzo bloccato e tempi nel contratto." % nome,
       ogtitle="Ristrutturazioni a %s — Danova Real Estate" % nome,
       ogdesc="Case, bagni, cucine e locali rinnovati a %s con un solo referente e prezzo bloccato." % nome,
       crumbs=[RE, ("Ristrutturazioni a %s" % nome, None)], eyebrow="Ristrutturazioni · %s" % area,
@@ -232,13 +239,14 @@ for nome, slug, area, hero, p1, p2, zone in CITTA:
        {"id": "prima-dopo", "tipo": "ba", "eyebrow": "Prima e dopo", "h2": f"Il passaggio {G}dal vecchio al nuovo{_G}",
         "items": [{"prima": "re-soggiorno-prima", "dopo": "re-soggiorno-nuovo", "titolo": "Zona giorno", "testo": "Pareti bianche, gres grigio chiaro e luci a incasso."},
                   {"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Bagno", "testo": "Doccia walk-in, lastre grigio pietra, sanitari sospesi."}]},
-       {"id": "territorio", "tipo": "testo", "eyebrow": "Ristrutturare a %s" % nome, "h2": f"Conosciamo {G}il territorio{_G}",
-        "corpo": [p1, p2, "Zone in cui lavoriamo spesso: %s e tutta la %s." % (", ".join(zone), area)]},
+       {"id": "territorio", "tipo": "testo", "eyebrow": "Ristrutturare a %s" % nome, "h2": f"Impresa edile a {nome}: {G}conosciamo il territorio{_G}",
+        "corpo": [p1, p2, "Zone in cui lavoriamo spesso: %s e gli altri comuni della zona (%s)." % (", ".join(zone), area)]},
        {"id": "servizi", "tipo": "link", "eyebrow": "I servizi", "h2": f"Cosa facciamo {G}a {nome}{_G}",
         "gruppi": [("", [("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/", "Progetto, pratiche, lavori e consegna con un solo referente."),
                          ("Rifacimento bagno", "/ristrutturazione-bagno/", "Bagno moderno in pochi giorni di cantiere."),
                          ("Pareti divisorie", "/pareti-divisorie/", "Una stanza in più con cartongesso e vetrate."),
                          ("Cappotto termico e facciate", "/cappotto-termico/", "Isolamento esterno e facciate rinnovate."),
+                         ("Tetto e sottotetto", "/rifacimento-tetto/", "Rifacimento del tetto e isolamento del sottotetto."),
                          ("Porte, pavimenti e serramenti", "/pavimenti-e-serramenti/", "Finiture fornite e posate da noi."),
                          ("General contractor", "/general-contractor/", "Per aziende, investitori e hotel.")])]},
        {"id": "promesse", "tipo": "promesse", "eyebrow": "Le garanzie", "h2": f"Quattro impegni {G}scritti nel contratto{_G}"},
@@ -249,7 +257,8 @@ for nome, slug, area, hero, p1, p2, zone in CITTA:
                   ("Pratiche e bonus", "Titoli edilizi presso il Comune e documenti per le detrazioni."),
                   ("Cantiere e consegna", "Squadre coordinate, aggiornamenti settimanali, pulizia e chiavi in mano.")]}],
       faqtitle=f"Domande sulle ristrutturazioni {G}a {nome}.{_G}",
-      faq=[("Fate sopralluoghi a %s?" % nome, "Sì, il sopralluogo a %s e nei comuni vicini è gratuito e senza impegno. Dopo la visita ricevete un preventivo scritto, voce per voce." % nome),
+      faq=[("Siete un’impresa edile di %s?" % nome, "La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a %s e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente." % nome),
+           ("Fate sopralluoghi a %s?" % nome, "Sì, il sopralluogo a %s e nei comuni vicini è gratuito e senza impegno. Dopo la visita ricevete un preventivo scritto, voce per voce." % nome),
            ("Vi occupate delle pratiche con il Comune di %s?" % nome, "Sì: verifichiamo la situazione urbanistica dell’immobile e presentiamo CILA o SCIA secondo i lavori, oltre ai documenti per le detrazioni fiscali."),
            ("Quali bonus spettano nel 2026?", "Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, per gli altri immobili del 36%, con tetto di spesa di 96.000 euro per unità. Leggete la pagina sul bonus ristrutturazione 2026.")] + FAQ_BASE[:3],
       ctabox={"h2": "Un immobile da ristrutturare a %s?" % nome, "p": "Scriveteci indirizzo o zona e cosa volete rinnovare: fissiamo il sopralluogo gratuito.", "btn": "Prenota il sopralluogo"},
@@ -270,11 +279,12 @@ VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], 
           "padova": ["vicenza", "mestre", "castelfranco-veneto", "venezia"], "vicenza": ["padova", "verona", "castelfranco-veneto", "montebelluna"],
           "verona": ["vicenza", "padova", "castelfranco-veneto", "mestre"], "pordenone": ["sacile", "udine", "oderzo", "conegliano"],
           "udine": ["pordenone", "portogruaro", "sacile", "conegliano"], "sacile": ["pordenone", "conegliano", "oderzo", "udine"]}
+VICINE.update(_CN.VICINE_NEW)
 NOMI = {c[1]: c[0] for c in CITTA}
 for d in PAGINE:
     for slug, vic in VICINE.items():
         if d['url'] == "/ristrutturazioni-%s/" % slug:
-            d['altri'] = d['altri'][:4] + [("Ristrutturazioni a %s" % NOMI[v], "/ristrutturazioni-%s/" % v) for v in vic]
+            d['altri'] = d['altri'][:4] + [("Ristrutturazioni a %s" % NOMI[v], "/ristrutturazioni-%s/" % v) for v in vic] + [("Come scegliere l’impresa di ristrutturazione", "/guide/come-scegliere-impresa-ristrutturazione/")]
 
 # =================================================================== GENERAL CONTRACTOR per capoluogo
 GC = [("Treviso", "treviso", "Treviso e la Marca sono un territorio di imprese: sedi aziendali, showroom, negozi in centro, ville e immobili da mettere a reddito. Come general contractor seguiamo l’intervento dall’acquisto alla consegna, con la sede a pochi chilometri."),

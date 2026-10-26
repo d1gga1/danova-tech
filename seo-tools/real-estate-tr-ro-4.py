@@ -35,7 +35,7 @@ P('/guide/come-scegliere-impresa-ristrutturazione/', hero="re-direttore-lavori",
  faq=[("Câte oferte merită să cer?", "Două sau trei, cu condiția să fie comparabile: aceleași lucrări, aceleași materiale, aceleași excluderi."),
       ("E normal să plătesc un avans?", "Da, un avans pentru comanda materialelor e normal; restul se plătește în funcție de progres, prin transferul special dacă folosiți deducerile italiene.")],
  ctabox={"h2": "Puneți oferta noastră la încercare.", "p": "Inspecție gratuită și ofertă pe poziții, fără obligații.", "btn": "Cereți o ofertă"},
- altri=[("Renovări la cheie", u('/ristrutturazioni-chiavi-in-mano/')), ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/')), ("Ghid: CILA sau SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Costul renovării", u('/guide/quanto-costa-ristrutturare-casa/')), ("Renovări la cheie", u('/ristrutturazioni-chiavi-in-mano/')), ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/')), ("Ghid: CILA sau SCIA", u('/guide/cila-o-scia/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Ghid pentru alegerea firmei de renovări", "Ghid", "Listă de verificare pentru alegerea unei firme de renovări în Italia: inspecție, ofertă, preț blocat, termene, acte, plăți și documente finale.", []))
 
 P('/guide/cila-o-scia/', hero="re-cantiere-cartongesso",
@@ -108,11 +108,11 @@ P('/guide/quando-conviene-il-cappotto-termico/', hero="re-facciata-cantiere",
  faq=[("Izolația ajută și vara?", "Da, reduce căldura care intră prin pereți; cu izolanți denși, ca fibra de lemn, confortul de vară crește și mai mult."),
       ("Trebuie aprobată de bloc?", "Da, pentru fațadele comune e nevoie de hotărârea adunării proprietarilor.")],
  ctabox={"h2": "Merită la clădirea dvs.?", "p": "Adresa și anul construcției: venim să vedem și vă spunem.", "btn": "Evaluăm clădirea dvs."},
- altri=[("Izolație termică", u('/cappotto-termico/')), ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/')), ("Renovare fațade", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
+ altri=[("Izolare pod", u('/isolamento-sottotetto/')), ("Izolație termică", u('/cappotto-termico/')), ("Bonus renovare 2026", u('/bonus-ristrutturazione-2026/')), ("Renovare fațade", u('/facciate-ventilate-e-rifacimento-facciate/')), ("Danova Real Estate", u('/real-estate/'))],
  svc=svc("Ghid despre izolația termică exterioară", "Ghid", "Când merită izolația exterioară, limite, deducerile italiene din 2026 și alternative.", []))
 
 P('/guide/porte-rei-negli-hotel/', hero="re-porte-rei-hotel",
- title="Uși rezistente la foc în hoteluri: unde sunt necesare și cum le alegi",
+ title="Uși rezistente la foc în hoteluri: unde sunt obligatorii",
  desc="Uși rezistente la foc în hotelurile din Italia: unde sunt necesare, clasele EI 30/60/120, amortizoare, documente pentru pompieri și cum îmbini siguranța cu stilul.",
  ogtitle="Uși rezistente la foc în hoteluri: ghidul", ogdesc="Unde sunt necesare ușile rezistente la foc într-un hotel și cum le alegi fără să renunți la stil.",
  crumbs=[RE, ("Uși rezistente la foc în hoteluri", None)], eyebrow="Ghid · Siguranță la incendiu",

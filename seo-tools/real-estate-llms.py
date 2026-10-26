@@ -9,12 +9,15 @@ P = [("Danova Real Estate (pagina principale)", "/real-estate/"), ("Ristrutturaz
      ("Negozi, uffici e ristoranti", "/ristrutturazione-negozi-uffici-ristoranti/"), ("Ristrutturazione hotel", "/ristrutturazione-hotel/"),
      ("Condomini e capannoni", "/ristrutturazione-condomini-e-capannoni/"), ("General contractor", "/general-contractor/"),
      ("Hotel chiavi in mano", "/hotel-chiavi-in-mano/"), ("Impresa edile partner per architetti", "/impresa-edile-per-architetti/"),
-     ("Pareti divisorie", "/pareti-divisorie/"), ("Cappotto termico", "/cappotto-termico/"), ("Facciate", "/facciate-ventilate-e-rifacimento-facciate/"),
+     ("Pareti divisorie", "/pareti-divisorie/"), ("Cappotto termico", "/cappotto-termico/"), ("Rifacimento tetto", "/rifacimento-tetto/"), ("Isolamento sottotetto e insufflaggio", "/isolamento-sottotetto/"), ("Pavimentazioni esterne e terrazzi", "/pavimentazioni-esterne/"), ("Facciate", "/facciate-ventilate-e-rifacimento-facciate/"),
      ("Porte interne e blindate", "/porte-interne-e-blindate/"), ("Porte REI tagliafuoco", "/porte-rei-tagliafuoco/"),
      ("Cartongesso e controsoffitti", "/cartongesso-e-controsoffitti/"), ("Pavimenti e serramenti", "/pavimenti-e-serramenti/"),
      ("Arredo hotel e contract", "/arredo-hotel-contract/"), ("Mobili su misura", "/mobili-su-misura/"),
      ("Progettazione e render 3D", "/progettazione-e-render-3d/"), ("Pratiche CILA e SCIA", "/pratiche-edilizie-cila-scia/"),
-     ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/")]
+     ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"),
+     ("Guida: quanto costa ristrutturare casa", "/guide/quanto-costa-ristrutturare-casa/"), ("Guida: rifare il bagno", "/guide/come-rifare-il-bagno/"),
+     ("Guida: CILA o SCIA", "/guide/cila-o-scia/"), ("Guida: quando conviene il cappotto termico", "/guide/quando-conviene-il-cappotto-termico/"),
+     ("Guida: come scegliere un’impresa di ristrutturazione", "/guide/come-scegliere-impresa-ristrutturazione/")]
 
 # 24/10/2026: sintesi Real Estate nelle altre lingue (per assistenti AI che rispondono in inglese, tedesco, rumeno, albanese)
 import importlib.util as _iu
@@ -47,6 +50,8 @@ _T = {
          "Imazhet e faqes janë ilustruese, të krijuara me inteligjencë artificiale"],
         ["Danova Real Estate (faqja kryesore)", "Rinovime çelës në dorë", "Rinovim banjoje", "Rinovim hotelesh", "Kontraktor i përgjithshëm", "Hotel çelës në dorë", "Termoizolim i jashtëm", "Mobilim hotelesh", "Kompani ndërtimi për arkitektë", "Bonusi i rinovimit në Itali 2026"]),
 }
+_NOMI_CITTA = {'motta-di-livenza': 'Motta di Livenza', 'castelfranco-veneto': 'Castelfranco Veneto', 'san-dona-di-piave': 'San Donà di Piave'}
+_NOMI_CITTA.update({c[1]: c[0] for c in _LG._CN.NUOVE_IT})
 MULTI = ''.join('### %s\n\n%s\n\n%s\n%s\n' % (h, d, ''.join('- %s\n' % x for x in fatti),
                 ''.join('- [%s](%s%s)\n' % (t, S, _LG.url(k, l)) for t, k in zip(tit, _K)))
                 for l, (h, d, fatti, tit) in _T.items())
@@ -54,14 +59,19 @@ MULTI = ''.join('### %s\n\n%s\n\n%s\n%s\n' % (h, d, ''.join('- %s\n' % x for x i
 txt = ("<!-- re-llms -->\n## Danova Real Estate in sintesi\n\n"
        "Danova Real Estate è la divisione edilizia di Danova Tech (stessa azienda, stessi contatti). Dal 24 ottobre 2026 si occupa di:\n"
        "ristrutturazioni chiavi in mano (case, appartamenti, bagni, cucine, negozi, uffici, ristoranti, hotel, condomini, capannoni),\n"
-       "general contractor, facciate e cappotto termico, pareti divisorie e cartongesso, porte interne, blindate e REI, pavimenti e serramenti,\n"
+       "general contractor, facciate e cappotto termico, rifacimento tetti, isolamento sottotetti e insufflaggio, pavimentazioni esterne e terrazzi, pareti divisorie e cartongesso, porte interne, blindate e REI, pavimenti e serramenti,\n"
        "arredo hotel e contract, mobili su misura, progettazione e render 3D, pratiche edilizie (CILA, SCIA) e bonus fiscali.\n"
        "Collabora con architetti e studi di progettazione come impresa esecutrice, con una rete di imprese, artigiani e fornitori.\n\n"
-       "- **Zona**: Veneto e Friuli Venezia Giulia\n- **Clienti**: privati, hotel e strutture ricettive, negozi/uffici/ristoranti, condomini, immobili industriali, architetti\n"
+       "- **Zona**: tutto il Veneto e tutto il Friuli Venezia Giulia (province di Treviso, Venezia, Padova, Vicenza, Verona, Rovigo, Belluno, Pordenone, Udine, Gorizia, Trieste); sede a Mansuè (TV)\n"
+       "- **Chi esegue i lavori**: squadre interne (muratori, cartongessisti, posatori) e una rete di artigiani selezionati, compresi impianti elettrici e idraulici, coordinati da un unico referente\n"
+       "- **Pratiche**: CILA, SCIA e bonus fiscali tramite i nostri tecnici\n- **Clienti**: privati, hotel e strutture ricettive, negozi/uffici/ristoranti, condomini, immobili industriali, architetti\n"
        "- **Promesse**: sopralluogo e preventivo gratuiti, prezzo bloccato chiavi in mano, tempi scritti nel contratto, unico referente\n"
        "- **Prezzi**: non pubblicati, preventivo dopo il sopralluogo\n- **Lingue parlate**: italiano, inglese, rumeno\n"
        "- **Immagini del sito**: illustrative, create con l’intelligenza artificiale (non sono cantieri reali)\n\n"
-       + ''.join('- [%s](%s%s)\n' % (t, S, u) for t, u in P) + "\n" + MULTI + "<!-- /re-llms -->\n\n")
+       + ''.join('- [%s](%s%s)\n' % (t, S, u) for t, u in P)
+       + "\nImpresa edile e ristrutturazioni per città (una pagina per ogni zona):\n"
+       + ''.join('- [Impresa edile %s](%s/ristrutturazioni-%s/)\n' % (_NOMI_CITTA.get(c, c.replace('-', ' ').title()), S, c) for c in _LG.CITTA)
+       + "\n" + MULTI + "<!-- /re-llms -->\n\n")
 f = os.path.join(R, 'llms.txt'); s = open(f, encoding='utf-8').read()
 s = re.sub(r'<!-- re-llms -->.*?<!-- /re-llms -->\n\n', '', s, flags=re.S)
 s = s.replace('## Come lavora', txt + '## Come lavora', 1)

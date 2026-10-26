@@ -41,14 +41,15 @@ P('/ristrutturazione-bagno/', hero="re-bagno-nuovo", herovid="re-pd-bagno-nuovo"
    "corpo": [("Free survey", "Measurements, drains and systems check, ideas and budget."), ("Design and choice of materials", "Render of the new bathroom, samples of tiles, fixtures and taps."),
              ("Fixed quote", "Itemised, with start and end dates."), ("Site", "Demolition, systems, waterproofing, tiling, fitting."), ("Handover", "Cleaning, compliance certificates and deduction documents.")]}],
  faqtitle=f"Questions about {G}bathroom renovation.{_G}",
- faq=[("How long does it take to renovate a bathroom?", "Usually a few weeks on site once materials and fixtures are chosen. We write the exact date into the contract."),
+ faq=[('How much does a bathroom renovation cost?', 'It depends on the floor area, the state of pipes and drains, the demolition needed, shower or bath, and above all the tiles, fixtures and taps you choose. That is why we do not publish price lists: after the free survey you receive a written, itemised quote at a fixed price, and the Italian tax deduction lowers the real cost.'),
+      ("How long does it take to renovate a bathroom?", "Usually a few weeks on site once materials and fixtures are chosen. We write the exact date into the contract."),
       ("Can I stay at home during the works?", "Yes, if there is a second bathroom it is easy; if it is the only one, we organise the stages to minimise the days without facilities and tell you which they are beforehand."),
       ("Does bathroom renovation qualify for the Italian bonus?", "Yes, when it involves extraordinary maintenance (for example redoing the systems): in 2026 the deduction is 50% on the main residence and 36% on other properties. The correct building permit is needed, and we prepare it."),
       ("Can I choose tiles and fixtures myself?", "Of course: we help you choose with samples and renders, or we install products you have already selected, listing them in the quote."),
       ("Do you do bathrooms for hotels and B&Bs?", "Yes, with materials for intensive use and works organised by batches of rooms in the low season.")] + FAQ_BASE[:2],
  ctabox={"h2": "Ready for a new bathroom?", "p": "Send us a photo of your current bathroom and the town: we arrange the free survey.", "btn": "Renovate the bathroom"},
  altrititle="Related pages",
- altri=[("Apartment and house renovation", u('/ristrutturazione-appartamenti-e-case/')), ("Turnkey renovation", u('/ristrutturazioni-chiavi-in-mano/')), ("Room partition walls", u('/pareti-divisorie/')),
+ altri=[("Bathroom renovation guide", u('/guide/come-rifare-il-bagno/')), ("Apartment and house renovation", u('/ristrutturazione-appartamenti-e-case/')), ("Turnkey renovation", u('/ristrutturazioni-chiavi-in-mano/')), ("Room partition walls", u('/pareti-divisorie/')),
         ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/')), ("Custom-made furniture", u('/mobili-su-misura/')), ("Hotel renovation", u('/ristrutturazione-hotel/'))],
  svc=svc("Turnkey bathroom renovation", "Bathroom renovation",
          "Turnkey bathroom renovation in Veneto and Friuli, Italy: demolition, systems, waterproofing, floors and wall tiles, walk-in shower or bath, wall-hung fixtures, vanity and mirror, with a fixed price and deduction paperwork.",
@@ -200,6 +201,10 @@ CITTA = [
   "We work in Sacile, Caneva, Brugnera, Fontanafredda, Polcenigo and Cordignano.",
   ["Caneva", "Brugnera", "Fontanafredda", "Polcenigo", "Cordignano", "Fregona"]),
 ]
+import importlib.util as _iuN
+_spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
+_CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
+CITTA += _CN.citta('en')
 VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], "oderzo": ["motta-di-livenza", "treviso", "conegliano", "pordenone"],
           "conegliano": ["oderzo", "treviso", "sacile", "pordenone"], "motta-di-livenza": ["oderzo", "portogruaro", "san-dona-di-piave", "pordenone"],
           "castelfranco-veneto": ["montebelluna", "treviso", "padova", "vicenza"], "montebelluna": ["castelfranco-veneto", "treviso", "conegliano", "vicenza"],
@@ -208,6 +213,7 @@ VICINE = {"treviso": ["oderzo", "conegliano", "castelfranco-veneto", "mestre"], 
           "padova": ["vicenza", "mestre", "castelfranco-veneto", "venezia"], "vicenza": ["padova", "verona", "castelfranco-veneto", "montebelluna"],
           "verona": ["vicenza", "padova", "castelfranco-veneto", "mestre"], "pordenone": ["sacile", "udine", "oderzo", "conegliano"],
           "udine": ["pordenone", "portogruaro", "sacile", "conegliano"], "sacile": ["pordenone", "conegliano", "oderzo", "udine"]}
+VICINE.update(_CN.VICINE_NEW)
 NOMI = {c[1]: N(c[0]) for c in CITTA}
 for nome0, slug, area, hero, p1, p2, zone in CITTA:
     nome = N(nome0)
@@ -223,13 +229,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
        {"id": "prima-dopo", "tipo": "ba", "eyebrow": "Before and after", "h2": f"The move {G}from old to new{_G}",
         "items": [{"prima": "re-soggiorno-prima", "dopo": "re-soggiorno-nuovo", "titolo": "Living area", "testo": "White walls, light grey porcelain and recessed lights."},
                   {"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Bathroom", "testo": "Walk-in shower, grey stone slabs, wall-hung fixtures."}]},
-       {"id": "territorio", "tipo": "testo", "eyebrow": "Renovating in %s" % nome, "h2": f"We know {G}the area{_G}",
+       {"id": "territorio", "tipo": "testo", "eyebrow": "Renovating in %s" % nome, "h2": f"Builders in {nome}: {G}we know the area{_G}",
         "corpo": [p1, p2, "Areas where we often work: %s and the whole %s." % (", ".join(zone), area)]},
        {"id": "servizi", "tipo": "link", "eyebrow": "Services", "h2": f"What we do {G}in {nome}{_G}",
         "gruppi": [("", [("Turnkey renovation", u('/ristrutturazioni-chiavi-in-mano/'), "Design, permits, works and handover with one contact."),
                          ("Bathroom renovation", u('/ristrutturazione-bagno/'), "A modern bathroom in a few days on site."),
                          ("Partition walls", u('/pareti-divisorie/'), "An extra room with drywall and glass walls."),
                          ("External insulation and facades", u('/cappotto-termico/'), "External insulation and renewed facades."),
+                         ("Roof and loft", u('/rifacimento-tetto/'), "Roof replacement and loft insulation."),
                          ("Doors, floors and windows", u('/pavimenti-e-serramenti/'), "Finishes supplied and installed by us."),
                          ("General contractor", u('/general-contractor/'), "For businesses, investors and hotels.")])]},
        {"id": "promesse", "tipo": "promesse", "eyebrow": "Guarantees", "h2": f"Four commitments {G}written into the contract{_G}"},
@@ -238,13 +245,14 @@ for nome0, slug, area, hero, p1, p2, zone in CITTA:
                   ("Fixed quote", "Itemised, with schedule."), ("Permits and bonuses", "Building permits with the municipality and deduction documents."),
                   ("Site and handover", "Coordinated crews, weekly updates, cleaning and keys in hand.")]}],
       faqtitle=f"Questions about renovation {G}in {nome}.{_G}",
-      faq=[("Do you carry out surveys in %s?" % nome, "Yes, the survey in %s and nearby towns is free and without obligation. After the visit you receive a written, itemised quote." % nome),
+      faq=[('Are you a building company in %s?' % nome, 'Danova Real Estate is based in Mansuè (Treviso) and works in %s and nearby towns as a building contractor and general contractor: in-house crews of builders, drylining fitters and floor layers, plus a network of selected tradespeople for electrical, plumbing and specialist work, all coordinated by one point of contact.' % nome),
+           ("Do you carry out surveys in %s?" % nome, "Yes, the survey in %s and nearby towns is free and without obligation. After the visit you receive a written, itemised quote." % nome),
            ("Do you handle permits with the municipality?", "Yes: we check the planning status of the property and file CILA or SCIA according to the works, as well as documents for tax deductions."),
            ("Do you work for foreign owners in %s?" % nome, "Yes: we manage the site locally and report with photos and calls in English or Romanian.")] + FAQ_BASE[:3],
       ctabox={"h2": "A property to renovate in %s?" % nome, "p": "Tell us the address or area and what you want to renew: we arrange the free survey.", "btn": "Book the survey"},
       altrititle="Related pages",
       altri=[("Danova Real Estate", u('/real-estate/')), ("Turnkey renovation", u('/ristrutturazioni-chiavi-in-mano/')), ("Bathroom renovation", u('/ristrutturazione-bagno/')),
-             ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/'))] + [("Renovation in %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]],
+             ("Italian renovation bonus 2026", u('/bonus-ristrutturazione-2026/'))] + [("Renovation in %s" % NOMI[v], u('/ristrutturazioni-%s/' % v)) for v in VICINE[slug]] + [('How to choose a renovation company', u('/guide/come-scegliere-impresa-ristrutturazione/'))],
       svc=svc("Renovation in %s" % nome, "Building renovation",
               "Turnkey renovation in %s, Italy, and nearby towns (%s): apartments, houses, bathrooms, kitchens, commercial spaces and hospitality, with free survey, fixed price and tax-deduction paperwork." % (nome, ", ".join(zone[:4])),
               ["Turnkey renovation", "Bathroom renovation", "Partition walls", "External insulation", "Floors and windows"],
