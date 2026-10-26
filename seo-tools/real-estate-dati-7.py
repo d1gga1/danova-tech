@@ -112,15 +112,15 @@ FORM = (CSS + '\n    <form class="pt-form" id="pt-form" novalidate data-rv="up">
  '      <p class="form-note">Preferite parlarne? Chiamate il <a href="tel:+393884706887">+39 388 470 6887</a> o scriveteci su <a href="https://wa.me/393884706887" target="_blank" rel="noopener">WhatsApp</a>.</p>\n'
  '    </form>\n' + JS + '\n')
 
-PAGINE.append(dict(lang="it", url="/diventa-partner/", hero="re-muratore", cta_href="#candidatura", solo_it=True,
+PAGINE.append(dict(lang="it", url="/diventa-partner/", hero="re-facciata-cantiere", cta_href="#candidatura", solo_it=True,
  faqtitle=f"Domande {G}frequenti.{_G}", altrititle="Pagine collegate",
  title="Lavora con noi: artigiani, imprese e tecnici in Veneto e Friuli",
  desc="Danova Real Estate cerca artigiani, imprese edili, general contractor, architetti, geometri e ingegneri in Veneto e Friuli a cui affidare i lavori dei clienti.",
  ogtitle="Diventa partner di Danova Real Estate", ogdesc="Artigiani, imprese e tecnici di Veneto e Friuli: entrate nella nostra rete e ricevete lavori nella vostra zona.",
  crumbs=[RE, ("Diventa partner", None)], eyebrow="Lavora con noi · Rete partner",
- heroalt="Muratore al lavoro in un cantiere di ristrutturazione",
+ heroalt="Squadra al lavoro su un cantiere di facciata con ponteggi",
  h1=f"Artigiani, imprese e tecnici: {G}lavoriamo insieme in Veneto e Friuli.{_G}",
- lead="Privati, hotel, negozi e condomini ci chiedono ristrutturazioni, impianti, facciate e finiture in tutto il Veneto e il Friuli. Cerchiamo artigiani, imprese edili, general contractor, architetti, geometri e ingegneri a cui affidare questi lavori, nella loro zona e nella loro specialità.",
+ lead="Privati, hotel, negozi e condomini ci chiedono ristrutturazioni, impianti, facciate e finiture in tutto il Veneto e il Friuli. Cerchiamo artigiani edili, imprese, general contractor, architetti, geometri e ingegneri a cui affidare questi lavori, anche in subappalto, nella loro zona e nella loro specialità.",
  cta1="Invia la candidatura", cta2="Chi cerchiamo",
  badges=["Iscrizione gratuita", "Lavori nella vostra zona", "Un referente di cantiere"],
  sezioni=[
@@ -156,6 +156,8 @@ PAGINE.append(dict(lang="it", url="/diventa-partner/", hero="re-muratore", cta_h
  faq=[("Quanto costa entrare nella rete partner?", "Nulla. L’iscrizione è gratuita e non vi impegna ad accettare i lavori che vi proponiamo."),
       ("Sono un artigiano senza dipendenti: posso candidarmi?", "Sì. Molte lavorazioni, come impianti, tinteggiature, posa di pavimenti o montaggio porte, sono affidate proprio ad artigiani singoli o a piccole squadre."),
       ("Ci garantite un numero minimo di lavori?", "No, e diffidate di chi lo promette. Vi interpelliamo quando arriva una richiesta nella vostra lavorazione e nella vostra zona; chi lavora bene viene chiamato più spesso."),
+      ("Affidate lavori in subappalto?", "Sì: a seconda dell’incarico affidiamo ai partner singole lavorazioni in subappalto o li coinvolgiamo direttamente con il cliente. In ogni caso le condizioni sono scritte prima di iniziare, con documenti di sicurezza e regolarità contributiva in ordine."),
+      ("Sono un operaio senza partita IVA: posso candidarmi?", "Sì. Lasciate vuota la partita IVA e scrivete nel messaggio la vostra specialità e la vostra esperienza: vi ricontattiamo se c’è un’opportunità adatta, anche presso le squadre dei nostri partner."),
       ("Come vengono definiti prezzi e pagamenti?", "Per ogni incarico concordiamo per iscritto, prima di iniziare, il prezzo delle vostre lavorazioni, i tempi e le modalità di pagamento."),
       ("Sono un architetto o un geometra: come collaboriamo?", "In due modi: vi coinvolgiamo per progetti, pratiche, direzione lavori e sicurezza sulle richieste che riceviamo, e realizziamo noi i vostri progetti con le nostre squadre, come descritto nella pagina Impresa edile per architetti."),
       ("Lavorate solo in Veneto e Friuli?", "Sì: province di Treviso, Venezia, Padova, Vicenza, Verona, Belluno, Rovigo, Pordenone, Udine, Gorizia e Trieste. La sede è a Mansuè, in provincia di Treviso."),

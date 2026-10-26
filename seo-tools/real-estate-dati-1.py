@@ -52,6 +52,7 @@ PAGINE.append({
                 ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/", "Dal rilievo alla pulizia finale: progetto, pratiche, lavori e consegna."),
                 ("Appartamenti e case", "/ristrutturazione-appartamenti-e-case/", "Ristrutturazione totale o parziale di abitazioni, bagni e cucine."),
                 ("Rifacimento bagno", "/ristrutturazione-bagno/", "Bagno nuovo chiavi in mano, moderno, in bianco e grigio o come lo volete voi."),
+                ("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/", "Doccia walk-in o a filo pavimento al posto della vasca, in pochi giorni."),
                 ("Pareti divisorie", "/pareti-divisorie/", "Dividere una stanza con cartongesso, vetrate o pareti mobili."),
                 ("Negozi, uffici e ristoranti", "/ristrutturazione-negozi-uffici-ristoranti/", "Locali commerciali rinnovati con tempi stretti e chiusure ridotte."),
                 ("Hotel e strutture ricettive", "/ristrutturazione-hotel/", "Camere, aree comuni e facciate, in bassa stagione."),
@@ -73,6 +74,9 @@ PAGINE.append({
                 ("Porte interne e blindate", "/porte-interne-e-blindate/", "Fornitura e posa di porte a filo muro, scorrevoli e blindate."),
                 ("Porte REI tagliafuoco", "/porte-rei-tagliafuoco/", "Porte resistenti al fuoco per hotel, uffici e locali pubblici."),
                 ("Cartongesso e controsoffitti", "/cartongesso-e-controsoffitti/", "Pareti, contropareti, controsoffitti e isolamento acustico."),
+                ("Muratore e opere murarie", "/muratore-e-opere-murarie/", "Demolizioni, tramezzi, aperture, intonaci, massetti e riparazioni."),
+                ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/", "Pareti rasate e tinteggiate, pittura antimuffa, smalti e facciate."),
+                ("Impianti elettrici e idraulici", "/impianti-elettrici-e-idraulici/", "Rifacimento impianti a norma, con dichiarazione di conformità."),
                 ("Pavimenti e serramenti", "/pavimenti-e-serramenti/", "Parquet, gres, resine, finestre e portefinestre.")]),
               ("Arredo", [
                 ("Arredo hotel e contract", "/arredo-hotel-contract/", "Camere, hall, ristoranti e spazi esterni arredati su misura."),

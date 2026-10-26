@@ -74,3 +74,23 @@ Zero o quasi: ricerche locali in inglese/tedesco (renovierung lignano, bauuntern
   2 nuove guide × 5 lingue: /guide/quanto-costa-ristrutturare-casa/ e /guide/come-rifare-il-bagno/ (senza prezzi).
 - Immagini Higgsfield (26/10): re-tetto-cantiere, re-sottotetto-insufflaggio, re-terrazzo-esterno, con la scritta del piano
   gratuito ritagliata su richiesta del titolare; alt descrittivi in 5 lingue.
+
+## 6. Seconda ricerca Google Ads (26/10/2026 pomeriggio) — mestieri, bagno, finiture, partner
+Località Veneto + Friuli Venezia Giulia (partner: Italia). Fasce ott 2025 – set 2026.
+
+- Mestieri: idraulico, elettricista, impiantista elettrico, falegname, termoidraulica (1K–10K, molto pronto intervento);
+  muratore, imbianchino, cartongessista, piastrellista, posatore pavimenti, serramentista, lattoniere, imbianchini/muratore vicino a me (100–1K);
+  cerco muratore / per piccoli lavori / per ristrutturazione / per lavori in casa, cerco imbianchino / per pitturare casa / economico (100–1K, Italia).
+- Bagno: doccia walk in (1K–10K); trasformazione / sostituzione / trasformare vasca in doccia (+ "prezzi") — decine di varianti 100–1K;
+  piatto doccia filo pavimento, doccia filo pavimento (100–1K).
+- Finiture: impianto elettrico casa, impianti idraulici (100–1K); impermeabilizzazione terrazzo e varianti (100–1K);
+  isolamento acustico, isolamento acustico pareti, insonorizzare una stanza (100–1K); cartongesso prezzo al mq (100–1K); massetto (100–1K, prodotto).
+  Basse (10–100): ristrutturazione cucina, tinteggiatura appartamento, sostituzione finestre, ristrutturazione mansarda, rifacimento facciata, preventivo ristrutturazione.
+- Partner (Italia): lavora con noi edilizia, subappalto edilizia, cercasi artigiani edili, cerco imprese edili per collaborazione, cerco lavori edili in subappalto (10–100).
+  Le ricerche forti sono di chi cerca lavoro da dipendente (cerco lavoro muratore/imbianchino, imprese edili che cercano operai: 100–1K).
+
+Fatto (real-estate-dati-8.py, solo IT): /trasformazione-vasca-in-doccia/, /imbianchino-e-tinteggiature/, /muratore-e-opere-murarie/,
+/impianti-elettrici-e-idraulici/ (senza pronto intervento). Cartongesso: sezione "Insonorizzare una stanza" + FAQ prezzo al mq.
+Pavimentazioni esterne: H2 e FAQ su impermeabilizzazione del terrazzo. Bagno: link alla pagina vasca/doccia.
+Diventa partner: subappalto, artigiani edili, FAQ operai senza partita IVA. Link dalla home Real Estate e dal footer IT.
+Da valutare: versioni EN/DE/RO/SQ delle nuove pagine; pagine mestiere + città solo se i volumi locali lo giustificano.

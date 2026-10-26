@@ -101,6 +101,9 @@ def footer(l, cur, s):
     brand = m.group(1) if m else ''
     c1 = ''.join(li(U(k, l), LAB[k][l], cur) for k in K1)
     c2 = ''.join(li(U(k, l), LAB[k][l], cur) for k in K2)
+    if l == 'it':   # 26/10/2026: pagine solo IT (ricerca Google Ads)
+        c2 += ''.join(li(u, t, cur) for u, t in [('/trasformazione-vasca-in-doccia/', 'Trasformazione vasca in doccia'), ('/muratore-e-opere-murarie/', 'Muratore e opere murarie'),
+                                                  ('/imbianchino-e-tinteggiature/', 'Imbianchino e tinteggiature'), ('/impianti-elettrici-e-idraulici/', 'Impianti elettrici e idraulici')])
     c3 = ''.join(li(U('/ristrutturazioni-%s/' % c, l), IN[l] % NOMI.get(c, {}).get(l, c.capitalize()), cur) for c in CITTA)
     cg = ''.join(li(U(k, l), LAB[k][l], cur) for k in KG)
     c4 = ('<li><a href="tel:+393884706887">+39 388 470 6887</a></li><li><a href="https://wa.me/393884706887" target="_blank" rel="noopener">%s</a></li>'

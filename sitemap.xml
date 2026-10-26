@@ -4003,7 +4003,7 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/diventa-partner/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/diventa-partner/"/>
     <image:image>
-      <image:loc>https://danova-tech.com/assets/img/re/re-muratore-1200.webp</image:loc>
+      <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
     <lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
@@ -10014,6 +10014,36 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/imbianchino-e-tinteggiature/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/imbianchino-e-tinteggiature/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/imbianchino-e-tinteggiature/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-imbianchino-1200.webp</image:loc>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-imbianchino-poster.webp</video:thumbnail_loc>
+      <video:title>Tinteggiatura di una parete interna</video:title>
+      <video:description>Tinteggiatura di una parete interna — Imbianchini per tinteggiare casa, uffici e condomini in Veneto e Friuli: rasature, pittura antimuffa, smalti, decorazioni e facciate. Preventivo gratuito.</video:description>
+      <video:content_loc>https://danova-tech.com/assets/video/re/re-imbianchino.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/impianti-elettrici-e-idraulici/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/impianti-elettrici-e-idraulici/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/impianti-elettrici-e-idraulici/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/impresa-edile-per-architetti/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/impresa-edile-per-architetti/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/building-contractor-for-architects/"/>
@@ -10354,6 +10384,28 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/moquette-per-stand-fieristici/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/moquette-per-stand-fieristici/"/>
     <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/muratore-e-opere-murarie/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/muratore-e-opere-murarie/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/muratore-e-opere-murarie/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-muratore-1200.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-poster.webp</video:thumbnail_loc>
+      <video:title>Facciate</video:title>
+      <video:description>Facciate — Muratori per demolizioni, tramezzi, aperture, intonaci, massetti e piccoli lavori edili in casa in Veneto e Friuli. Sopralluogo gratuito e preventivo chiaro.</video:description>
+      <video:content_loc>https://danova-tech.com/assets/video/re/re-facciata-cantiere.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17687,6 +17739,34 @@
       <image:loc>https://danova-tech.com/assets/img/stand/stand-isola-legno-rovere.webp</image:loc>
     </image:image>
     <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/trasformazione-vasca-in-doccia/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/trasformazione-vasca-in-doccia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/trasformazione-vasca-in-doccia/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-prima-1200.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://danova-tech.com/assets/img/re/re-pd-bagno-nuovo-poster.webp</video:thumbnail_loc>
+      <video:title>Timelapse · da vasca a doccia</video:title>
+      <video:description>Timelapse · da vasca a doccia — Trasformazione vasca in doccia in Veneto e Friuli: doccia walk-in o piatto a filo pavimento, impianti e piastrelle. Sopralluogo gratuito e prezzo bloccato.</video:description>
+      <video:content_loc>https://danova-tech.com/assets/video/re/re-pd-bagno-nuovo.mp4</video:content_loc>
+      <video:duration>5</video:duration>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+    <lastmod>2026-10-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
