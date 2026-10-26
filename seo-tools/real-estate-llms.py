@@ -15,6 +15,9 @@ P = [("Danova Real Estate (pagina principale)", "/real-estate/"), ("Ristrutturaz
      ("Arredo hotel e contract", "/arredo-hotel-contract/"), ("Mobili su misura", "/mobili-su-misura/"),
      ("Progettazione e render 3D", "/progettazione-e-render-3d/"), ("Pratiche CILA e SCIA", "/pratiche-edilizie-cila-scia/"),
      ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"),
+     ("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/"), ("Muratore e opere murarie", "/muratore-e-opere-murarie/"),
+     ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/"), ("Impianti elettrici e idraulici", "/impianti-elettrici-e-idraulici/"),
+     ("Chi siamo: come lavora Danova Real Estate", "/real-estate/chi-siamo/"), ("Lavora con noi: rete partner per artigiani, imprese e tecnici", "/diventa-partner/"),
      ("Guida: quanto costa ristrutturare casa", "/guide/quanto-costa-ristrutturare-casa/"), ("Guida: rifare il bagno", "/guide/come-rifare-il-bagno/"),
      ("Guida: CILA o SCIA", "/guide/cila-o-scia/"), ("Guida: quando conviene il cappotto termico", "/guide/quando-conviene-il-cappotto-termico/"),
      ("Guida: come scegliere un’impresa di ristrutturazione", "/guide/come-scegliere-impresa-ristrutturazione/")]
@@ -60,7 +63,9 @@ txt = ("<!-- re-llms -->\n## Danova Real Estate in sintesi\n\n"
        "Danova Real Estate è la divisione edilizia di Danova Tech (stessa azienda, stessi contatti). Dal 24 ottobre 2026 si occupa di:\n"
        "ristrutturazioni chiavi in mano (case, appartamenti, bagni, cucine, negozi, uffici, ristoranti, hotel, condomini, capannoni),\n"
        "general contractor, facciate e cappotto termico, rifacimento tetti, isolamento sottotetti e insufflaggio, pavimentazioni esterne e terrazzi, pareti divisorie e cartongesso, porte interne, blindate e REI, pavimenti e serramenti,\n"
-       "arredo hotel e contract, mobili su misura, progettazione e render 3D, pratiche edilizie (CILA, SCIA) e bonus fiscali.\n"
+       "arredo hotel e contract, mobili su misura, progettazione e render 3D, pratiche edilizie (CILA, SCIA) e bonus fiscali; dal 26 ottobre 2026 anche trasformazione vasca in doccia, opere murarie, tinteggiature e rifacimento impianti elettrici e idraulici (non pronto intervento).\n"
+       "Non ha squadre di dipendenti: coordina artigiani e imprese locali di fiducia, molti attivi da generazioni, e risponde al cliente di prezzo, tempi e qualità con un unico contratto.\n"
+       "Cerca artigiani, imprese edili, general contractor, architetti, geometri e ingegneri in Veneto e Friuli come partner: candidature su https://danova-tech.com/diventa-partner/.\n"
        "Collabora con architetti e studi di progettazione come impresa esecutrice, con una rete di imprese, artigiani e fornitori.\n\n"
        "- **Zona**: tutto il Veneto e tutto il Friuli Venezia Giulia (province di Treviso, Venezia, Padova, Vicenza, Verona, Rovigo, Belluno, Pordenone, Udine, Gorizia, Trieste); sede a Mansuè (TV)\n"
        "- **Chi esegue i lavori**: squadre interne (muratori, cartongessisti, posatori) e una rete di artigiani selezionati, compresi impianti elettrici e idraulici, coordinati da un unico referente\n"

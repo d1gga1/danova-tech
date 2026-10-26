@@ -64,6 +64,7 @@ PAGINE.append({
                 ("Pratiche edilizie CILA e SCIA", "/pratiche-edilizie-cila-scia/", "Titoli edilizi, comunicazioni e sicurezza, preparati dai nostri tecnici."),
                 ("Per architetti e progettisti", "/impresa-edile-per-architetti/", "Portate il vostro progetto: lo realizziamo con voi, con la nostra rete di professionisti."),
                 ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/", "Detrazioni al 50% e 36%: cosa spetta e come non perderle."),
+                ("Chi siamo", "/real-estate/chi-siamo/", "Un solo referente e artigiani di fiducia, attivi da generazioni."),
                 ("Lavora con noi: diventa partner", "/diventa-partner/", "Artigiani, imprese, architetti e geometri di Veneto e Friuli: entrate nella nostra rete.")]),
               ("Facciate e finiture", [
                 ("Cappotto termico", "/cappotto-termico/", "Isolamento esterno per consumare meno e rinnovare la facciata."),
@@ -118,6 +119,7 @@ PAGINE.append({
              "<b>Negozi, uffici e ristoranti</b>: lavori pianificati per ridurre al minimo i giorni di chiusura, anche di notte o nel weekend quando serve. <b>Condomini e immobili industriali</b>: facciate, cappotto, parti comuni, coperture e adeguamenti, con la documentazione per amministratori e assemblee."]}],
  "faqtitle": f"Le domande {G}prima di iniziare.{_G}",
  "faq": FAQ_BASE + [
+   ("Chi esegue materialmente i lavori?", "Squadre di artigiani e imprese locali di fiducia, molti dei quali fanno questo mestiere da una vita e da generazioni, con cui lavoriamo ogni giorno: muratori, impiantisti, cartongessisti, posatori, imbianchini, serramentisti e falegnami. Noi coordiniamo il cantiere e rispondiamo al cliente di prezzo, tempi e qualità, con un unico contratto e un unico referente."),
    ("Fate anche solo singole lavorazioni?", "Sì. Oltre alla ristrutturazione completa possiamo occuparci solo di cartongesso, tinteggiature, montaggio porte, pavimenti, serramenti o di una facciata. Anche in quel caso il prezzo è bloccato e i tempi sono scritti."),
    ("Pubblicate dei prezzi?", "No, perché ogni immobile è diverso: lo stato degli impianti, l’accessibilità del cantiere e le finiture scelte cambiano molto il costo. Dopo il sopralluogo gratuito ricevete un preventivo scritto e dettagliato, senza impegno."),
    ("Che rapporto c’è con Danova Tech?", "Danova Real Estate è la divisione edilizia di Danova Tech: stessa azienda, stessi contatti. Per questo possiamo offrire a hotel e attività anche il sito web, le foto, il gestionale e le campagne, oltre ai lavori."),

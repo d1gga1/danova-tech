@@ -10902,6 +10902,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/real-estate/chi-siamo/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/real-estate/chi-siamo/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/real-estate/chi-siamo/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/real-estate/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/real-estate/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/real-estate/"/>
