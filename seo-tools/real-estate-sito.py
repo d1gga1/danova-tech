@@ -7,7 +7,7 @@
 import os, re, glob
 R = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 SKIP = ('_archivio/', 'seo-tools/', 'social/', 'assets/', 'fr/', 'es/', 'zh/', 'zh-hant/', 'ar/', 'tr/')
-NAVL = {'it': '/real-estate/', 'en': '/en/real-estate/', 'de': '/de/real-estate/', 'ro': '/ro/real-estate/', 'sq': '/sq/real-estate/', 'hr': '/hr/real-estate/'}
+NAVL = {'it': '/real-estate/', 'en': '/en/real-estate/', 'de': '/de/real-estate/', 'ro': '/ro/real-estate/', 'sq': '/sq/real-estate/', 'hr': '/hr/real-estate/', 'hi': '/hi/real-estate/'}
 VIDA = re.compile(r'(<a href="[^"]*" data-nav-video[^>]*>[^<]*</a>)(\s*)')
 NAV = re.compile(r'(<a href="/stand-fieristici/"[^>]*>Stand fieristici</a>)(\s*)')
 HOME = r'''<!--re-home-->

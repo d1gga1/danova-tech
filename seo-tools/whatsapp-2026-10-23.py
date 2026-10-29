@@ -17,6 +17,7 @@ TESTI = {  # lingua: (etichetta, messaggio precompilato)
     "ro": ("Scrieți-ne pe WhatsApp", "Bună ziua, Danova! Vă scriu de pe site, aș dori câteva informații."),
     "sq": ("Na shkruani në WhatsApp", "Përshëndetje Danova! Ju shkruaj nga faqja, do të doja disa informacione."),
     "hr": ("Pišite nam na WhatsApp", "Pozdrav Danova! Pišem vam s web stranice, trebam neke informacije."),
+    "hi": ("WhatsApp पर हमें लिखें", "नमस्ते Danova! मैं वेबसाइट से लिख रहा/रही हूँ, मुझे कुछ जानकारी चाहिए।"),
     "en": ("Chat with us on WhatsApp", "Hi Danova Tech! I'm writing from your website, I'd like some information."),
     "de": ("Schreiben Sie uns auf WhatsApp", "Hallo Danova Tech! Ich schreibe Ihnen über Ihre Website und hätte gerne einige Informationen."),
     "es": ("Escríbenos por WhatsApp", "¡Hola Danova Tech! Os escribo desde la web, me gustaría recibir información."),

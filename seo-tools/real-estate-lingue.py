@@ -2,13 +2,14 @@
 """24/10/2026 - Danova Real Estate multilingua: mappa URL (IT -> en/de/ro/sq/hr), configurazione lingue,
    etichette dell'interfaccia, traduzione della cornice (menu, footer) per ro/sq/hr costruite sul donatore inglese.
    La versione hr e' scritta in croato standard comprensibile in Bosnia, Serbia e Montenegro (hreflang hr, bs, sr-Latn)."""
-LINGUE = ['it', 'en', 'de', 'ro', 'sq']  # 'hr' (BHS) in pausa: riattivare aggiungendolo qui
+LINGUE = ['it', 'en', 'de', 'ro', 'sq', 'hi']  # 'hr' (BHS) in pausa: riattivare aggiungendolo qui
 CFG = {
  'it': dict(loc='it-IT', og='it_IT', home='/', donor='quanto-costa-un-sito-web/index.html', hl=['it'], lab='IT'),
  'en': dict(loc='en-GB', og='en_GB', home='/en/', donor='en/web-design-agency-uk/index.html', hl=['en'], lab='EN'),
  'de': dict(loc='de-DE', og='de_DE', home='/de/', donor='de/webagentur-muenchen/index.html', hl=['de'], lab='DE'),
  'ro': dict(loc='ro-RO', og='ro_RO', home='/ro/real-estate/', donor='en/web-design-agency-uk/index.html', hl=['ro'], lab='RO'),
  'sq': dict(loc='sq-AL', og='sq_AL', home='/sq/real-estate/', donor='en/web-design-agency-uk/index.html', hl=['sq'], lab='SQ'),
+ 'hi': dict(loc='hi-IN', og='hi_IN', home='/hi/real-estate/', donor='en/web-design-agency-uk/index.html', hl=['hi'], lab='HI'),  # 29/10/2026
  'hr': dict(loc='hr-HR', og='hr_HR', home='/hr/real-estate/', donor='en/web-design-agency-uk/index.html', hl=['hr', 'bs', 'sr-Latn'], lab='BHS'),
 }
 S = {  # slug per lingua (en, de, ro, sq, hr): chiave = URL italiano
@@ -58,9 +59,11 @@ for _c in CITTA: S['/ristrutturazioni-%s/' % _c] = tuple(p + _c for p in ('renov
 for _c in GC: S['/general-contractor-%s/' % _c] = tuple(p + _c for p in ('general-contractor-', 'generalunternehmer-', 'antreprenor-general-', 'kontraktor-', 'generalni-izvodjac-'))
 for _c in ZONE: S['/arredo-hotel-%s/' % _c] = tuple(p + _c for p in ('hotel-furniture-', 'hotelmoebel-', 'mobilier-hotel-', 'mobilim-hoteli-', 'namjestaj-hotel-'))
 
+ORD = ['en', 'de', 'ro', 'sq', 'hr']   # ordine degli slug nelle tuple di S (indipendente da LINGUE)
 def url(key, lang):
     if lang == 'it': return key
-    return '/%s/%s/' % (lang, S[key][LINGUE.index(lang) - 1])
+    if lang == 'hi': return '/hi/%s/' % S[key][0]   # 29/10/2026: l'hindi usa gli slug inglesi (URL in caratteri latini)
+    return '/%s/%s/' % (lang, S[key][ORD.index(lang)])
 def alt(key): return {l: url(key, l) for l in LINGUE}
 
 # pagine non Real Estate a cui i testi tradotti possono rimandare
@@ -78,6 +81,9 @@ NOMI = {  # nomi di citta' e zone tradotti (dove cambiano)
  'Dolomiti bellunesi': {'en': 'Belluno Dolomites', 'de': 'Belluneser Dolomiten', 'ro': 'Dolomiții din Belluno', 'sq': 'Dolomitet e Bellunos', 'hr': 'Dolomiti Belluna'},
  'Sottomarina e Chioggia': {'en': 'Sottomarina and Chioggia', 'de': 'Sottomarina und Chioggia', 'ro': 'Sottomarina și Chioggia', 'sq': 'Sottomarina dhe Chioggia', 'hr': 'Sottomarina i Chioggia'},
 }
+for _n, _v in NOMI.items():   # 29/10/2026: in hindi i nomi di luogo restano in caratteri latini, come in inglese
+    if 'en' in _v: _v.setdefault('hi', _v['en'])
+NOMI['Sottomarina e Chioggia']['hi'] = 'Sottomarina और Chioggia'
 def nome(n, lang): return NOMI.get(n, {}).get(lang, n)
 
 UI = {
@@ -99,6 +105,9 @@ UI = {
  'hr': dict(prima='Prije', dopo='Poslije', cmp='Usporedite prije i poslije', home='Početna',
             nota='Ilustrativne slike i videozapisi izrađeni umjetnom inteligencijom kako bi prikazali radove: ne prikazuju stvarna gradilišta ni klijente.',
             badges=['Veneto i Furlanija', 'Besplatan obilazak', 'Fiksna cijena', 'Jedna kontakt osoba']),
+ 'hi': dict(prima='पहले', dopo='बाद में', cmp='पहले और बाद की तुलना करें', home='होम',
+            nota='काम के प्रकार दिखाने के लिए आर्टिफ़िशियल इंटेलिजेंस से बनाई गई सांकेतिक तस्वीरें और वीडियो: ये असली साइटों या ग्राहकों को नहीं दर्शाते।',
+            badges=['Veneto और Friuli', 'मुफ़्त साइट सर्वे', 'फ़िक्स्ड प्राइस', 'एक ही ज़िम्मेदार व्यक्ति']),
 }
 
 # cornice del donatore inglese tradotta per ro / sq / hr
@@ -119,10 +128,14 @@ CHROME = {
  'hr': _ch('Preskoči na sadržaj', ['Usluge', 'Video', 'Za koga', 'Radovi', 'Postupak', 'Cijene', 'Kontakt'], 'Razgovarajmo',
            'Danova Real Estate: renoviranje po sistemu ključ u ruke, generalni izvođač i namještaj za hotele u Venetu i Furlaniji. Odjel tvrtke Danova Tech.',
            ['Usluge', 'Tržišta', 'Agencija', 'Kontakt'], 'Skladišta:', 'Uredi:', 'Uvjeti korištenja', 'Natrag na početnu'),
+ 'hi': _ch('सामग्री पर जाएँ', ['सेवाएँ', 'वीडियो', 'किसके लिए', 'काम', 'प्रक्रिया', 'कीमतें', 'संपर्क'], 'बात करें',
+           'Danova Real Estate: Veneto और Friuli में टर्नकी रेनोवेशन, जनरल कॉन्ट्रैक्टर और होटल फ़र्नीचर। Danova Tech का एक डिवीज़न।',
+           ['सेवाएँ', 'बाज़ार', 'एजेंसी', 'संपर्क'], 'गोदाम:', 'ऑफ़िस:', 'उपयोग की शर्तें', 'होम पर वापस'),
 }
 
 # 24/10/2026 - stringhe del footer EN rimaste in inglese
 for _l, _v in {'ro': ['Metoda noastră', 'Exemple de proiecte', 'Despre noi', 'Toate serviciile', 'Politica de confidențialitate', 'Politica privind cookie-urile'],
                'sq': ['Metoda jonë', 'Shembuj projektesh', 'Rreth nesh', 'Të gjitha shërbimet', 'Politika e privatësisë', 'Politika e cookie-ve'],
+               'hi': ['हमारा तरीक़ा', 'प्रोजेक्ट के उदाहरण', 'हमारे बारे में', 'सभी सेवाएँ', 'गोपनीयता नीति', 'कुकी नीति'],
                'hr': ['Naša metoda', 'Primjeri projekata', 'O nama', 'Sve usluge', 'Pravila privatnosti', 'Pravila o kolačićima']}.items():
     CHROME[_l] += [('>%s</a>' % a, '>%s</a>' % b) for a, b in zip(['Our method', 'Example projects', 'About us', 'All services', 'Privacy Policy', 'Cookie Policy'], _v)]

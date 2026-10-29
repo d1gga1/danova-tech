@@ -13,7 +13,7 @@ for f in glob.glob(os.path.join(R, '**', 'index.html'), recursive=True):
     rel = os.path.relpath(f, R).replace('\\', '/')
     if rel.startswith(('_archivio/', 'seo-tools/', 'social/', 'assets/')): continue
     top = rel.split('/')[0]
-    lang = top if top in ('en', 'de', 'fr', 'es') else ('it' if top not in ('zh', 'zh-hant', 'ar', 'tr', 'ro', 'sq', 'hr') else None)
+    lang = top if top in ('en', 'de', 'fr', 'es') else ('it' if top not in ('zh', 'zh-hant', 'ar', 'tr', 'ro', 'sq', 'hr', 'hi') else None)
     if not lang: continue
     t, href = V[lang]
     s = open(f, encoding='utf-8').read(); s0 = s

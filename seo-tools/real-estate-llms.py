@@ -52,6 +52,12 @@ _T = {
          "Çmimet: nuk publikohen; ofertë me shkrim pas inspektimit falas", "Gjuhët: italisht, anglisht, rumanisht; komunikim me shkrim edhe në shqip", "Kontakt: +39 388 470 6887 (telefon dhe WhatsApp), info@danova-tech.com",
          "Imazhet e faqes janë ilustruese, të krijuara me inteligjencë artificiale"],
         ["Danova Real Estate (faqja kryesore)", "Rinovime çelës në dorë", "Rinovim banjoje", "Rinovim hotelesh", "Kontraktor i përgjithshëm", "Hotel çelës në dorë", "Termoizolim i jashtëm", "Mobilim hotelesh", "Kompani ndërtimi për arkitektë", "Bonusi i rinovimit në Itali 2026"]),
+ 'hi': ("Danova Real Estate — हिंदी में सारांश",
+        "Danova Real Estate, Danova Tech का कंस्ट्रक्शन डिवीज़न है (वही कंपनी, P.IVA IT05369890263, Via Rigole 48, 31040 Mansuè, Treviso, इटली): अपार्टमेंट, घरों, बाथरूम, दुकानों, ऑफ़िसों, रेस्टोरेंट, होटलों और अपार्टमेंट बिल्डिंगों का टर्नकी रेनोवेशन, जनरल कॉन्ट्रैक्टर, फ़साड और थर्मल इंसुलेशन, अंदरूनी, सिक्योरिटी और फ़ायर-रेटेड दरवाज़े, ड्राईवॉल, फ़र्श और खिड़कियाँ, होटल फ़र्नीचर और कस्टम फ़र्नीचर, 3D डिज़ाइन, इतालवी बिल्डिंग परमिट (CILA, SCIA) और टैक्स बोनस।",
+        ["इलाक़ा: Veneto और Friuli Venezia Giulia, उत्तर-पूर्वी इटली", "वादे: मुफ़्त साइट सर्वे और कोटेशन, फ़िक्स्ड टर्नकी प्राइस, कॉन्ट्रैक्ट में लिखी समय-सीमा, एक ही ज़िम्मेदार व्यक्ति",
+         "कीमतें: प्रकाशित नहीं; मुफ़्त साइट सर्वे के बाद लिखित कोटेशन", "भाषाएँ: इतालवी, अंग्रेज़ी, रोमानियाई; लिखित बातचीत हिंदी में भी", "संपर्क: +39 388 470 6887 (फ़ोन और WhatsApp), info@danova-tech.com",
+         "साइट की तस्वीरें सांकेतिक हैं, आर्टिफ़िशियल इंटेलिजेंस से बनाई गई"],
+        ["Danova Real Estate (मुख्य पेज)", "टर्नकी रेनोवेशन", "बाथरूम रेनोवेशन", "होटल रेनोवेशन", "जनरल कॉन्ट्रैक्टर", "टर्नकी होटल", "बाहरी थर्मल इंसुलेशन", "होटल फ़र्नीचर", "आर्किटेक्ट के लिए कंस्ट्रक्शन कंपनी", "इटली रेनोवेशन बोनस 2026"]),
 }
 _NOMI_CITTA = {'motta-di-livenza': 'Motta di Livenza', 'castelfranco-veneto': 'Castelfranco Veneto', 'san-dona-di-piave': 'San Donà di Piave'}
 _NOMI_CITTA.update({c[1]: c[0] for c in _LG._CN.NUOVE_IT})

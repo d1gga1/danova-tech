@@ -81,6 +81,30 @@ LEG = {'it': [('/privacy/', 'Privacy Policy'), ('/cookie-policy/', 'Cookie Polic
        'sq': [('/sq/privatesia/', 'Politika e privatësisë'), ('/sq/politika-e-cookie-ve/', 'Politika e cookie-ve'), ('/sq/kushtet-e-perdorimit/', 'Kushtet e përdorimit')]}
 TECH = {'it': ('/', 'Danova Tech: siti, app e software'), 'en': ('/en/', 'Danova Tech: web, apps and software'), 'de': ('/de/', 'Danova Tech: Web, Apps und Software')}
 
+# 29/10/2026: hindi (hi)
+L5.append('hi')
+for (_k, _t), _h in zip(NAV, ['रेनोवेशन', 'जनरल कॉन्ट्रैक्टर', 'होटल', 'होटल फ़र्नीचर', 'फ़साड', 'आर्किटेक्ट के लिए']): _t['hi'] = _h
+TEL['hi'] = 'फ़ोन'; CONTATTI['hi'] = 'संपर्क'
+for _k, _h in {'/ristrutturazioni-chiavi-in-mano/': 'टर्नकी रेनोवेशन', '/ristrutturazione-appartamenti-e-case/': 'अपार्टमेंट और घर', '/ristrutturazione-bagno/': 'बाथरूम रेनोवेशन',
+               '/ristrutturazione-negozi-uffici-ristoranti/': 'दुकानें, ऑफ़िस और रेस्टोरेंट', '/ristrutturazione-hotel/': 'होटल रेनोवेशन', '/ristrutturazione-condomini-e-capannoni/': 'अपार्टमेंट बिल्डिंग और गोदाम',
+               '/general-contractor/': 'जनरल कॉन्ट्रैक्टर', '/hotel-chiavi-in-mano/': 'टर्नकी होटल', '/impresa-edile-per-architetti/': 'आर्किटेक्ट के लिए कंपनी', '/pareti-divisorie/': 'पार्टीशन दीवारें',
+               '/rifacimento-tetto/': 'छत की मरम्मत', '/isolamento-sottotetto/': 'अटारी इंसुलेशन', '/pavimentazioni-esterne/': 'बाहरी फ़्लोरिंग', '/cappotto-termico/': 'बाहरी थर्मल इंसुलेशन',
+               '/facciate-ventilate-e-rifacimento-facciate/': 'फ़साड रेनोवेशन', '/porte-interne-e-blindate/': 'अंदरूनी और सिक्योरिटी दरवाज़े', '/porte-rei-tagliafuoco/': 'फ़ायर-रेटेड दरवाज़े',
+               '/cartongesso-e-controsoffitti/': 'ड्राईवॉल और सीलिंग', '/pavimenti-e-serramenti/': 'फ़र्श और खिड़कियाँ', '/arredo-hotel-contract/': 'होटल फ़र्नीचर', '/mobili-su-misura/': 'कस्टम फ़र्नीचर',
+               '/progettazione-e-render-3d/': 'डिज़ाइन और 3D रेंडर', '/pratiche-edilizie-cila-scia/': 'बिल्डिंग परमिट', '/bonus-ristrutturazione-2026/': 'रेनोवेशन बोनस 2026',
+               '/guide/come-scegliere-impresa-ristrutturazione/': 'रेनोवेशन कंपनी कैसे चुनें', '/guide/quanto-costa-ristrutturare-casa/': 'रेनोवेशन की लागत', '/guide/come-rifare-il-bagno/': 'बाथरूम रेनोवेशन गाइड',
+               '/guide/cila-o-scia/': 'CILA या SCIA', '/guide/ristrutturare-un-hotel/': 'होटल रेनोवेशन कैसे करें', '/guide/quando-conviene-il-cappotto-termico/': 'क्या इंसुलेशन फ़ायदेमंद है',
+               '/guide/porte-rei-negli-hotel/': 'होटलों में फ़ायर-रेटेड दरवाज़े'}.items():
+    LAB[_k]['hi'] = _h
+IN['hi'] = '%s में रेनोवेशन'
+NOMI['venezia']['hi'] = 'Venice'; NOMI['padova']['hi'] = 'Padua'; NOMI['trieste']['hi'] = 'Trieste'
+for _c, _h in zip(COL, ['रेनोवेशन', 'काम और फ़र्नीचर', 'इलाक़े', 'गाइड']): _c['hi'] = _h
+DESC['hi'] = 'Danova Real Estate: इटली के Veneto और Friuli Venezia Giulia में टर्नकी रेनोवेशन, जनरल कॉन्ट्रैक्टर, फ़साड और होटल फ़र्नीचर। Danova Tech का एक डिवीज़न।'
+ADDR['hi'] = 'Via Rigole 48<br>31040 Mansuè (TV) — इटली'
+WA['hi'] = 'WhatsApp: हमें लिखें'
+LANGS['hi'] = 'हम इतालवी, अंग्रेज़ी और रोमानियाई बोलते हैं; लिखित में हिंदी भी'
+LEG['hi'] = [('/hi/privacy/', 'गोपनीयता नीति'), ('/hi/cookie-policy/', 'कुकी नीति'), ('/hi/terms/', 'उपयोग की शर्तें')]
+
 
 def nav_links(l, cur, contact, ind):
     o = []

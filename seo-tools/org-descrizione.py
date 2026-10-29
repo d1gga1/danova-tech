@@ -20,7 +20,7 @@ stats=collections.Counter()
 for p in glob.glob('**/index.html',recursive=True):
     if p.startswith('seo-tools'): continue
     top=p.split('/')[0] if '/' in p else ''
-    if top in ('zh','zh-hant','ar','tr'): continue
+    if top in ('zh','zh-hant','ar','tr','hi'): continue
     lang=top if top in D else 'it'
     h=open(p,encoding='utf-8').read()
     def fix(m):

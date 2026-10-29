@@ -25,24 +25,24 @@ MAXD = 158
 
 def accorcia_elenco(frase, l):
     """'a, b, c e d.' -> 'a, b e c.' (toglie l'ultimo elemento e richiude l'elenco)"""
-    corpo = frase.rstrip().rstrip('.')
+    corpo = frase.rstrip().rstrip('.').rstrip('।'); fine = '।' if l == 'hi' else '.'
     parti = corpo.split(', ')
     if len(parti) < 2:
         return None
     ultimo = parti[-1]
-    m = re.match(r'^(.*?)\s+(?:e|ed|and|und|sowie|și|dhe)\s+\S.*$', ultimo)
+    m = re.match(r'^(.*?)\s+(?:e|ed|and|und|sowie|și|dhe|और)\s+\S.*$', ultimo)
     if m and len(m.group(1)) > 2:
         parti[-1] = m.group(1)
     else:
         parti = parti[:-1]
     if len(parti) == 1:
-        return parti[0] + '.'
-    return ', '.join(parti[:-1]) + ' ' + CONG[l] + ' ' + parti[-1] + '.'
+        return parti[0] + fine
+    return ', '.join(parti[:-1]) + ' ' + CONG[l] + ' ' + parti[-1] + fine
 
 def corta(d, l):
     if len(d) <= MAXD:
         return d
-    frasi = re.split(r'(?<=[.!?])\s+', d.strip())
+    frasi = re.split(r'(?<=[.!?।])\s+', d.strip())
     out = ''
     for f in frasi:
         c = (out + ' ' + f).strip()
@@ -63,10 +63,10 @@ def corta(d, l):
         return out
     if len(d) > 160:  # 26/10: ultima risorsa, si taglia all'ultima frase o virgola entro il limite
         cut = d[:MAXD]
-        for sep in ('. ', ': ', ', '):
+        for sep in ('. ', '। ', ': ', ', '):
             i = cut.rfind(sep)
             if i >= 90:
-                return cut[:i].rstrip(',:') + '.'
+                return cut[:i].rstrip(',:') + ('।' if l == 'hi' else '.')
     return d
 
 # ---------------------------------------------------------------- 2) dove lavoriamo
@@ -172,6 +172,24 @@ SLOGAN = T('Sopralluogo gratuito, prezzo bloccato, tempi nel contratto, un unico
            'Kostenlose Besichtigung, Festpreis, Termine im Vertrag, ein Ansprechpartner.', 'Inspecție gratuită, preț blocat, termene în contract, un singur responsabil.',
            'Inspektim falas, çmim i bllokuar, afate në kontratë, një person kontakti.')
 SOCIAL = ['https://www.instagram.com/danova_techh/', 'https://www.facebook.com/profile.php?id=61594907955699', 'https://www.tiktok.com/@danova.tech']
+# 29/10/2026: hindi (hi)
+L5.append('hi')
+CONG['hi'] = 'और'
+for (_p, _sl, _t), _h in zip(GRUPPI, ['रेनोवेशन', 'जनरल कॉन्ट्रैक्टर', 'होटल फ़र्नीचर']): _t['hi'] = _h
+TIT['hi'] = 'हम कहाँ काम करते हैं'
+H2['hi'] = 'Veneto और Friuli Venezia Giulia, <span class="grad">शहर-दर-शहर</span>'
+LEAD['hi'] = 'उत्तर-पूर्वी इटली के Veneto और Friuli Venezia Giulia के हर प्रांत में मुफ़्त साइट सर्वे। ये वे इलाक़े हैं जहाँ हम सबसे ज़्यादा काम करते हैं।'
+PILASTRO['hi'] = 'Danova Real Estate: इटली के Veneto में रेनोवेशन कंपनी'
+TT['citta']['hi'] = ('%s, इटली में बिल्डर | टर्नकी रेनोवेशन', '%s में बिल्डर | रेनोवेशन')
+TT['gc']['hi'] = ('%s, इटली में जनरल कॉन्ट्रैक्टर | फ़िक्स्ड प्राइस', '%s में जनरल कॉन्ट्रैक्टर')
+TT['hotel']['hi'] = ('%s में होटल फ़र्नीचर | कस्टम कॉन्ट्रैक्ट फ़र्नीचर', '%s में होटल फ़र्नीचर | कस्टम')
+KNOWS['hi'] = ['टर्नकी रेनोवेशन', 'बाथरूम रेनोवेशन', 'कंस्ट्रक्शन कंपनी', 'जनरल कॉन्ट्रैक्टर', 'बाहरी थर्मल इंसुलेशन', 'अटारी इंसुलेशन', 'छत की मरम्मत',
+               'वेंटिलेटेड फ़साड', 'बाहरी फ़्लोरिंग', 'ड्राईवॉल और फ़ॉल्स सीलिंग', 'फ़ायर-रेटेड दरवाज़े', 'फ़र्श और खिड़कियाँ', 'होटल फ़र्नीचर', 'कस्टम फ़र्नीचर',
+               'इटली में बिल्डिंग परमिट (CILA, SCIA)', 'इटली रेनोवेशन टैक्स बोनस']
+SLOGAN['hi'] = 'मुफ़्त साइट सर्वे, फ़िक्स्ड प्राइस, कॉन्ट्रैक्ट में समय-सीमा, एक ही ज़िम्मेदार व्यक्ति।'
+for _k in LG.S:
+    INV[LG.url(_k, 'hi')] = (_k, 'hi')
+
 
 def schema(s, key, l, title, desc, url):
     m = re.search(r'<script type="application/ld\+json">(.*?)</script>', s, re.S)

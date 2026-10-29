@@ -50,10 +50,12 @@ if cosa in ('tutto', 'video'):
         nome = os.path.splitext(os.path.basename(f))[0]
         if filtro and filtro not in nome: continue
         h264 = os.path.join(VD, nome + '.mp4'); av1 = os.path.join(VD, nome + '.av1.mp4')
-        if nuovo(av1, f) and nuovo(h264, f): continue
+        poster = os.path.join(DST, nome + '-poster.webp')
+        if nuovo(av1, f) and nuovo(h264, f) and os.path.exists(poster): continue
         base = ['ffmpeg', '-y', '-loglevel', 'error', '-i', f, '-an', '-vf', 'crop=trunc(iw/2)*2:trunc(ih/2)*2', '-pix_fmt', 'yuv420p', '-movflags', '+faststart']
-        subprocess.run(base + ['-c:v', 'libx264', '-preset', 'slow', '-crf', '22', '-profile:v', 'high', '-tune', 'film', h264], check=True)
-        subprocess.run(base + ['-c:v', 'libaom-av1', '-crf', '32', '-b:v', '0', '-cpu-used', '6', '-row-mt', '1', '-tiles', '2x2', av1], check=True)
+        if not (nuovo(av1, f) and nuovo(h264, f)):   # 29/10/2026: se manca solo la locandina, si rifà solo quella
+          subprocess.run(base + ['-c:v', 'libx264', '-preset', 'slow', '-crf', '22', '-profile:v', 'high', '-tune', 'film', h264], check=True)
+          subprocess.run(base + ['-c:v', 'libaom-av1', '-crf', '32', '-b:v', '0', '-cpu-used', '6', '-row-mt', '1', '-tiles', '2x2', av1], check=True)
         import tempfile; png = os.path.join(tempfile.gettempdir(), nome + '-poster.png')
         subprocess.run(['ffmpeg', '-y', '-loglevel', 'error', '-i', f, '-frames:v', '1', png], check=True)
         p = Image.open(png).convert('RGB'); os.remove(png)

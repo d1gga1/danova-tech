@@ -254,6 +254,52 @@ TR = {
 },
 }
 
+# 29/10/2026: हिंदी (hi)
+TR['hi'] = {
+ "trieste": ("Trieste प्रांत",
+  "Trieste की इमारतें अनोखी हैं: Borgo Teresiano और Borgo Giuseppino में हैब्सबर्ग और आर्ट नूवो शैली के महल, पहाड़ियों पर युद्ध के बाद की अपार्टमेंट बिल्डिंगें और कार्स्ट पठार पर पत्थर के घर। कई अपार्टमेंट में ऊँची छतें, बचाने लायक लकड़ी के फ़र्श और बदलने लायक सिस्टम हैं, और बोरा हवा के कारण खिड़कियाँ और इंसुलेशन बहुत सावधानी से लगाने पड़ते हैं।",
+  "हम Trieste शहर और पूरे प्रांत में काम करते हैं, Muggia और San Dorligo della Valle से Duino Aurisina, Sgonico और Monrupino तक, बिल्डिंग मैनेजरों से तालमेल रखते हुए और संरक्षित इमारतों के लिए ज़रूरी अनुमतियाँ तैयार करते हुए।"),
+ "gorizia": ("Isonzo इलाक़ा",
+  "Nova Gorica से सटा सीमावर्ती शहर Gorizia, जो स्लोवेनियाई शहर के साथ 2025 की यूरोपीय सांस्कृतिक राजधानी रहा, 19वीं सदी के महलों, बग़ीचों वाले विला और अलग घरों से भरे रिहायशी इलाक़ों वाला शहर है। Collio और Isonzo इलाक़े में हम देहाती घर, वाइनरी और आतिथ्य प्रॉपर्टी रेनोवेट करते हैं।",
+  "हम Gorizia, Cormons, Gradisca d’Isonzo, Mossa, Savogna d’Isonzo और Collio में साइटें सँभालते हैं; Monfalcone के लिए अलग पेज है।"),
+ "monfalcone": ("Bisiacaria",
+  "Monfalcone और Bisiacaria में शिपयार्ड के आसपास बने बहुत से घर और अपार्टमेंट बिल्डिंगें हैं, जिनमें से कई को आज नए बाथरूम, सिस्टम, खिड़कियाँ और बाहरी इंसुलेशन चाहिए। यहाँ किराए के लिए नए करने लायक बहुत से अपार्टमेंट भी हैं।",
+  "हम Monfalcone, Ronchi dei Legionari, Staranzano, San Canzian d’Isonzo, Turriaco और Fogliano Redipuglia में, और Grado व Trieste की ओर काम करते हैं।"),
+ "belluno": ("Belluno प्रांत",
+  "Valbelluna और Dolomites के बीच Belluno और उसके प्रांत में पत्थर और लकड़ी के घर, 70 और 80 के दशक के विला और शहर में अपार्टमेंट बिल्डिंगें हैं, लंबी और ठंडी सर्दियों के साथ: बाहरी इंसुलेशन, अच्छी खिड़कियाँ और कुशल हीटिंग बिलों में बड़ा फ़र्क़ लाते हैं।",
+  "हम Belluno, Ponte nelle Alpi, Sedico, Limana, Borgo Valbelluna और Longarone में साइटें सँभालते हैं; पहाड़ी होटलों के लिए Cortina और Dolomites में होटल फ़र्नीचर वाले पेज देखें।"),
+ "feltre": ("Feltrino",
+  "दीवारों से घिरे ऊपरी शहर और भित्तिचित्रों वाले फ़साड के साथ Feltre, Monte Grappa और Vette Feltrine के बीच Feltrino का केंद्र है। पुराने शहर में काम को धरोहर नियमों का पालन करना होता है; आसपास के गाँवों में हम ज़्यादातर अलग घर और देहाती इमारतें रेनोवेट करते हैं।",
+  "हम Feltre, Pedavena, Fonzaso, Cesiomaggiore, Seren del Grappa और Sovramonte में, और Belluno व Montebelluna की ओर काम करते हैं।"),
+ "rovigo": ("Polesine",
+  "Adige और Po नदियों के बीच Rovigo और Polesine में 60 से 90 के दशक के बीच बने बहुत से अलग घर और विला, केंद्र में ऐतिहासिक महल और गाँवों में पुराने फ़ार्महाउस हैं। सबसे आम माँग सिस्टम, बाथरूम और किचन का पूरा नवीनीकरण है, साथ में खपत घटाने के लिए इंसुलेशन और खिड़कियाँ।",
+  "हम Rovigo, Adria, Lendinara, Badia Polesine, Occhiobello और Porto Viro में साइटें सँभालते हैं।"),
+ "bassano-del-grappa": ("Vicenza की तलहटी",
+  "Brenta पर बने Alpini पुल और मेहराबों वाले केंद्र के साथ Bassano del Grappa, Vicenza और Treviso के बीच की तलहटी का केंद्र है: अलग घर, विला, शहर के अपार्टमेंट और कंपनियों व शोरूम का घना जाल।",
+  "हम Bassano, Romano d’Ezzelino, Rosà, Cassola, Marostica, Nove और Mussolente में, और Castelfranco व Asolo की ओर काम करते हैं।"),
+ "schio": ("ऊपरी Vicenza इलाक़ा",
+  "Schio, Thiene और ऊपरी Vicenza इलाक़ा Veneto के सबसे औद्योगिक हिस्सों में हैं, जहाँ बहुत से अलग और जुड़वाँ घर और कंपनियों के ऑफ़िस हैं। हम अक्सर 70 और 80 के दशक के घरों को कुशल बनाने के लिए, और कंपनियों के ऑफ़िस व शोरूम रेनोवेट करते हैं।",
+  "हम Schio, Thiene, Malo, Marano Vicentino, Santorso, Zanè और Valdagno में साइटें सँभालते हैं।"),
+ "cittadella": ("ऊपरी Padua इलाक़ा",
+  "Cittadella, जिसकी मध्यकालीन दीवारों पर पूरा चक्कर लगाया जा सकता है, Padua, Bassano और Castelfranco के बीच ऊपरी Padua इलाक़े का दिल है। यहाँ अलग और कतार वाले घर और छोटी कंपनियाँ हैं: बाथरूम, सिस्टम, इंसुलेशन और खिड़कियाँ सबसे ज़्यादा माँगे जाने वाले काम हैं।",
+  "हम Cittadella, Fontaniva, Tombolo, Galliera Veneta, San Martino di Lupari, Carmignano di Brenta और Piazzola sul Brenta में काम करते हैं।"),
+ "chioggia": ("दक्षिणी लैगून",
+  "पुराने शहर की तंग गलियों और नहरों वाला Chioggia और समुद्र किनारे Sottomarina में नए करने लायक अपार्टमेंट, कतार वाले घर और छुट्टियों के घर हैं। नमी और समुद्री नमक के कारण सोच-समझकर चुनी सामग्री, सावधान वॉटरप्रूफ़िंग और सुरक्षित सिस्टम ज़रूरी हैं।",
+  "हम Chioggia, Sottomarina, Isola Verde, Brondolo, Cavarzere और Cona में साइटें सँभालते हैं; तट के होटलों के लिए Sottomarina और Chioggia में होटल फ़र्नीचर वाला पेज देखें।"),
+ "jesolo": ("Veneto का समुद्र तट",
+  "Jesolo में Lido और पुराने गाँव के बीच हज़ारों अपार्टमेंट और छुट्टियों के घर हैं, जिनमें से कई 60 से 80 के दशक के बीच बने और अब रहने, किराए पर देने या बेहतर कीमत पर बेचने के लिए नए करने लायक हैं। कई मालिक दूर, अक्सर विदेश में रहते हैं, और उन्हें ऐसी कंपनी चाहिए जो उनकी ग़ैरमौजूदगी में सब सँभाले।",
+  "हम Jesolo Lido, Jesolo Paese, Cortellazzo, Eraclea Mare, Cavallino-Treporti और Musile di Piave में काम करते हैं, काम ऑफ़-सीज़न में रखते हुए और जो मालिक वहाँ नहीं हैं उन्हें फ़ोटो और अपडेट भेजते हुए। होटलों और रेज़िडेंस के लिए Jesolo में होटल फ़र्नीचर वाला पेज है।"),
+ "vittorio-veneto": ("Piave का बायाँ किनारा",
+  "प्री-आल्प्स की तलहटी में Serravalle और Ceneda के ऐतिहासिक केंद्रों वाले Vittorio Veneto में पुराने महल, इलाक़ों और पड़ोसी गाँवों में अलग घर और विला हैं, UNESCO धरोहर Prosecco पहाड़ियों तक।",
+  "हम Vittorio Veneto, Colle Umberto, Cappella Maggiore, Revine Lago, Tarzo, Fregona और Sarmede में साइटें सँभालते हैं, Conegliano और हमारे मुख्यालय से कुछ ही किलोमीटर दूर।"),
+ "codroipo": ("मध्य Friuli",
+  "Passariano में Villa Manin वाला Codroipo, Udine और Pordenone के बीच मध्य Friuli का केंद्र है: अलग घर, बचाने लायक फ़्रियुली फ़ार्महाउस, विला और छोटी अपार्टमेंट बिल्डिंगें। सबसे आम माँग पूरा रेनोवेशन, बाथरूम, इंसुलेशन और खिड़कियाँ हैं।",
+  "हम Codroipo, Sedegliano, Bertiolo, Camino al Tagliamento, Varmo, Basiliano और Rivignano Teor में, और Latisana व Lignano की ओर काम करते हैं।"),
+ "cividale-del-friuli": ("पूर्वी Friuli",
+  "UNESCO धरोहर लोम्बार्ड मंदिर और Natisone पर बने Devil’s Bridge वाले Cividale del Friuli का पुराना शहर सुंदर है, और आसपास Colli Orientali की पहाड़ियों पर अलग घर, देहाती इमारतें और एग्रीटूरिज़्म हैं।",
+  "हम Cividale, Premariacco, Moimacco, Remanzacco, Manzano, San Pietro al Natisone और Natisone घाटियों में साइटें सँभालते हैं।"),
+}
+
 def citta(lang):
     """tuple nello stesso formato di CITTA nei file dati/traduzioni: (nome, slug, area, hero, p1, p2, zone)"""
     out = []
