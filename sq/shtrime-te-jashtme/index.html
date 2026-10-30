@@ -504,14 +504,30 @@ e.preventDefault();location.href=b+hs;},true);})();</script>
       },
       "contactPoint": {
         "@type": "ContactPoint",
-        "contactType": "customer service",
         "telephone": "+39 388 470 6887",
-        "email": "info@danova-tech.com",
+        "contactType": "customer service",
+        "areaServed": [
+          "IT"
+        ],
         "availableLanguage": [
-          "Italian",
-          "English",
-          "Romanian"
-        ]
+          "it",
+          "en",
+          "ro"
+        ],
+        "hoursAvailable": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ],
+          "opens": "00:00",
+          "closes": "23:59"
+        }
       },
       "hasMap": "https://maps.app.goo.gl/gPgYPeA5Rtc12wve8",
       "sameAs": [

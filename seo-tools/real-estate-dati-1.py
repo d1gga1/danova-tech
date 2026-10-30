@@ -20,7 +20,7 @@ def svc(name, typ, desc, cat, area=AREA):
     return {"name": name, "type": typ, "desc": desc, "area": area, "lingue": LG, "catalogo": cat}
 
 FAQ_BASE = [
- ("Il sopralluogo è davvero gratuito?", "Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla."),
+ ("Il sopralluogo è davvero gratuito?", "Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla. Di solito veniamo entro una settimana dalla richiesta."),
  ("Cosa vuol dire prezzo bloccato?", "Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì."),
  ("Come garantite i tempi?", "Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto."),
  ("In che zone lavorate?", "In tutto il Veneto e il Friuli Venezia Giulia: province di Treviso, Venezia, Padova, Vicenza, Verona, Belluno, Rovigo, Pordenone, Udine, Gorizia e Trieste. La nostra sede è a Mansuè, in provincia di Treviso, a metà strada tra Treviso, Pordenone e Venezia."),
@@ -66,6 +66,8 @@ PAGINE.append({
                 ("Per architetti e progettisti", "/impresa-edile-per-architetti/", "Portate il vostro progetto: lo realizziamo con voi, con la nostra rete di professionisti."),
                 ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/", "Detrazioni al 50% e 36%: cosa spetta e come non perderle."),
                 ("Chi siamo", "/real-estate/chi-siamo/", "Un solo referente e artigiani di fiducia, attivi da generazioni."),
+                ("Domande frequenti", "/real-estate/domande-frequenti/", "Costi, tempi, bonus, pratiche, pagamenti e garanzie in breve."),
+                ("Esempi di intervento", "/real-estate/esempi-di-intervento/", "Situazioni tipiche città per città e come le affrontiamo."),
                 ("Lavora con noi: diventa partner", "/diventa-partner/", "Artigiani, imprese, architetti e geometri di Veneto e Friuli: entrate nella nostra rete.")]),
               ("Facciate e finiture", [
                 ("Cappotto termico", "/cappotto-termico/", "Isolamento esterno per consumare meno e rinnovare la facciata."),

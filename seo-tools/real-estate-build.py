@@ -228,7 +228,7 @@ def post(d, s):
             "address": org.get('address'), "geo": org.get('geo'),
             "areaServed": [{"@type": "AdministrativeArea", "name": "Veneto"}, {"@type": "AdministrativeArea", "name": "Friuli-Venezia Giulia"}],
             "knowsLanguage": ["it", "en", "ro"], "parentOrganization": {"@id": SITE + "/#organization"},
-            "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "telephone": "+39 388 470 6887", "email": "info@danova-tech.com", "availableLanguage": ["Italian", "English", "Romanian"]}}
+            "contactPoint": {"@type": "ContactPoint", "contactType": "customer service", "telephone": "+39 388 470 6887", "email": "info@danova-tech.com", "availableLanguage": ["Italian", "English", "Romanian"], "hoursAvailable": {"@type": "OpeningHoursSpecification", "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"], "opens": "00:00", "closes": "23:59"}}}
     rorg = {k: v for k, v in rorg.items() if v}
     g['@graph'] = [n for n in g['@graph'] if n.get('@id') != reid and n.get('@type') != 'VideoObject']
     g['@graph'].append(rorg)

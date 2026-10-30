@@ -138,3 +138,10 @@ Indicizzazione: ~160 pagine Real Estate "scansionate ma non indicizzate" (IT 41,
 Pagine città IT uguali al 63-74% (shingle 6 parole). Fatto: real-estate-citta-locali.py (30 città: tipi di case, quartieri/frazioni, km da Mansuè,
 2 FAQ locali; regole FVG LR 19/2009) + real-estate-patch-2026-10-30d.py -> somiglianza mediana 45%. Titoli/description fuori misura: patch 30e.
 Lingue: il titolare ha scelto di lasciarle tutte indicizzabili. GBP: esiste solo la scheda Danova Tech (non dell'impresa edile).
+
+## 10. Fatti per SEO Google e AI (confermati 30/10/2026) — dati-12, patch 30f
+Ramo di Danova Tech (stessa P.IVA); nessun autore con nome; artigiani da generazioni; oltre 200 cantieri; sopralluogo entro una settimana;
+garanzia scritta senza anni + RC e CAR; pagamenti acconto/SAL/saldo, rate con finanziaria partner (nome non dato); telefono Danova Tech + WhatsApp, 24/7;
+NIENTE tempi pubblicati; marchi: Mapei, Kerakoll, Knauf, Siniat, Velux, Daikin, Mitsubishi Electric. Nessuna foto reale e nessuna recensione per ora.
+Casi: SOLO esempi tipo dichiarati (/real-estate/esempi-di-intervento/), nessun caso inventato presentato come reale. No scheda Google Maps separata, no social propri.
+Nuove pagine: /real-estate/domande-frequenti/ (15 FAQ, FAQPage), /real-estate/esempi-di-intervento/.

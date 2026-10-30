@@ -209,6 +209,10 @@ def schema(s, key, l, title, desc, url):
                 n['openingHoursSpecification'] = org['openingHoursSpecification']
             n['priceRange'] = '€€'
             n['slogan'] = SLOGAN[l]
+            # 30/10/2026: dati confermati dal titolare (ramo di Danova Tech, risposta 24/7)
+            n['parentOrganization'] = {'@id': SITE + '/#organization'}
+            n['contactPoint'] = {'@type': 'ContactPoint', 'telephone': '+39 388 470 6887', 'contactType': 'customer service', 'areaServed': ['IT'],
+                                 'availableLanguage': ['it', 'en', 'ro'], 'hoursAvailable': {'@type': 'OpeningHoursSpecification', 'dayOfWeek': ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'], 'opens': '00:00', 'closes': '23:59'}}
         if n.get('@type') == 'WebPage':
             n['name'] = title
             n['description'] = desc

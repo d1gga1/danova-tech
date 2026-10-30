@@ -136,7 +136,7 @@ def footer(l, cur, s):
           '<a href="https://www.facebook.com/profile.php?id=61594907955699" target="_blank" rel="noopener me">Facebook</a> · '
           '<a href="https://www.tiktok.com/@danova.tech" target="_blank" rel="noopener me">TikTok</a></li>') % (WA[l], ADDR[l], LANGS[l])
     if l == 'it':   # 26/10/2026: pagina reclutamento partner (solo IT)
-        c4 += li('/real-estate/chi-siamo/', 'Chi siamo', cur) + li('/diventa-partner/', 'Lavora con noi: diventa partner', cur)
+        c4 += li('/real-estate/chi-siamo/', 'Chi siamo', cur) + li('/real-estate/domande-frequenti/', 'Domande frequenti', cur) + li('/real-estate/esempi-di-intervento/', 'Esempi di intervento', cur) + li('/diventa-partner/', 'Lavora con noi: diventa partner', cur)
     leg = '<i>·</i>'.join('<a href="%s"%s>%s</a>' % (u, ' aria-current="page"' if u == cur else '', t) for u, t in LEG[l])
     if l in TECH:
         leg += '<i>·</i><a href="%s">%s</a>' % TECH[l]
