@@ -17767,7 +17767,7 @@ Impresa edile: tutte le lavorazioni
 ========================================================================
 # Cerchiatura e apertura muro portante in Veneto e Friuli
 URL: https://danova-tech.com/cerchiatura-muro-portante/
-Descrizione: Aprire o allargare un vano in un muro portante: cerchiatura in acciaio o cemento armato, calcolo strutturale, pratica sismica ed edilizia, opere murarie e finiture.
+Descrizione: Aprire o allargare un vano nel muro portante: cerchiatura in acciaio o cemento armato, calcolo strutturale, pratiche sismiche ed edilizie, finiture.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Cerchiatura muro portante
@@ -32818,7 +32818,7 @@ Allestimenti fieristici
 ========================================================================
 # Quanto costa rifare il bagno: le voci che fanno il prezzo
 URL: https://danova-tech.com/guide/quanto-costa-rifare-il-bagno/
-Descrizione: Quanto costa rifare il bagno: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, le voci che pesano di più sul preventivo e come risparmiare.
+Descrizione: Quanto costa rifare il bagno: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia. Le voci che pesano sul preventivo e come risparmiare.
 ========================================================================
 
 Home / Guide / Quanto costa rifare il bagno
@@ -32989,7 +32989,7 @@ Impresa edile: tutte le lavorazioni
 ========================================================================
 # Quanto costa rifare il tetto: interventi e voci di costo
 URL: https://danova-tech.com/guide/quanto-costa-rifare-il-tetto/
-Descrizione: Quanto costa rifare il tetto: differenza tra sostituzione delle tegole, tetto isolato, tetto ventilato e interventi strutturali, ponteggi, eternit, pratiche e bonus.
+Descrizione: Quanto costa rifare il tetto: tegole, tetto isolato o ventilato, interventi strutturali, ponteggi, eternit, pratiche e bonus. Le voci del preventivo.
 ========================================================================
 
 Home / Guide / Quanto costa rifare il tetto
@@ -50234,7 +50234,7 @@ Danova Real Estate
 ========================================================================
 # Impresa edile in Veneto e Friuli
 URL: https://danova-tech.com/impresa-edile/
-Descrizione: Impresa edile in Veneto e Friuli: ristrutturazioni, muratura, cartongesso, imbiancature, bagni, impianti, tetti, cappotto, microcemento, resine, pergole e pratiche. Sopralluogo gratuito.
+Descrizione: Impresa edile in Veneto e Friuli: ristrutturazioni, muratura, cartongesso, bagni, tetti, cappotto, impermeabilizzazioni e pratiche. Sopralluogo gratuito.
 ========================================================================
 
 Home / Real Estate / Impresa edile
@@ -52811,7 +52811,7 @@ Quanto costa Google Ads
 ========================================================================
 # Microcemento in Veneto e Friuli
 URL: https://danova-tech.com/microcemento/
-Descrizione: Microcemento per pavimenti, pareti, bagni, docce, cucine e scale in Veneto e Friuli: superfici continue senza fughe, anche sopra le piastrelle esistenti. Sopralluogo gratuito.
+Descrizione: Microcemento per pavimenti, pareti, bagni, docce, cucine e scale in Veneto e Friuli: superfici senza fughe, anche sopra le piastrelle esistenti.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Microcemento
@@ -54495,7 +54495,7 @@ Danova Real Estate
 ========================================================================
 # Pavimenti in resina in Veneto e Friuli
 URL: https://danova-tech.com/pavimenti-in-resina/
-Descrizione: Pavimenti in resina per case, negozi, uffici, garage e laboratori in Veneto e Friuli: autolivellante, epossidica o poliuretanica, anche sopra il pavimento esistente.
+Descrizione: Pavimenti in resina per case, negozi, uffici, garage e laboratori in Veneto e Friuli: epossidica o poliuretanica, anche sopra il pavimento esistente.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Pavimenti in resina
@@ -54651,9 +54651,9 @@ Impresa edile: tutte le lavorazioni
 
 
 ========================================================================
-# Pergole e tettoie in Veneto e Friuli
+# Pergole e tettoie
 URL: https://danova-tech.com/pergole-e-tettoie/
-Descrizione: Pergole in legno e alluminio, pergole bioclimatiche, pergotende e tettoie per case, ristoranti e hotel in Veneto e Friuli, con pratiche edilizie comprese. Sopralluogo gratuito.
+Descrizione: Pergole in legno e alluminio, bioclimatiche, pergotende e tettoie per case, ristoranti e hotel in Veneto e Friuli, con pratiche edilizie comprese.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Pergole e tettoie
@@ -54969,7 +54969,7 @@ Prezzi
 ========================================================================
 # Porte blindate in Veneto e Friuli
 URL: https://danova-tech.com/porte-blindate/
-Descrizione: Porte blindate certificate in classe antieffrazione, con isolamento termico e acustico, rivestimenti su misura e sostituzione del vecchio portoncino in Veneto e Friuli.
+Descrizione: Porte blindate certificate antieffrazione, con isolamento termico e acustico, rivestimenti su misura e sostituzione del portoncino in Veneto e Friuli.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Porte blindate
@@ -57657,7 +57657,7 @@ Stand a Parma
 ========================================================================
 # Chi siamo
 URL: https://danova-tech.com/real-estate/chi-siamo/
-Descrizione: Danova Real Estate coordina ristrutturazioni e lavori edili in Veneto e Friuli con artigiani locali di fiducia, attivi da generazioni: un contratto, un referente.
+Descrizione: Danova Real Estate coordina ristrutturazioni e lavori edili in Veneto e Friuli con artigiani locali di fiducia: un contratto, un solo referente.
 ========================================================================
 
 Home / Real Estate / Chi siamo
@@ -61081,7 +61081,7 @@ Danova Real Estate
 
 
 ========================================================================
-# Rimozione amianto ed eternit in Veneto e Friuli
+# Rimozione amianto ed eternit
 URL: https://danova-tech.com/rimozione-amianto-eternit/
 Descrizione: Rimozione e smaltimento di coperture in eternit (cemento-amianto) con ditte autorizzate, piano di lavoro all’ASL, e rifacimento del tetto in Veneto e Friuli.
 ========================================================================
@@ -62613,6 +62613,42 @@ Lavoriamo a Bassano, Romano d’Ezzelino, Rosà, Cassola, Marostica, Nove e Muss
 
 Zone in cui lavoriamo spesso: Romano d’Ezzelino, Rosà, Cassola, Marostica, Nove, Mussolente e gli altri comuni della zona (Pedemontana vicentina).
 
+Le case di Bassano del Grappa
+
+## Cosa ristrutturiamo a Bassano del Grappa
+
+01
+
+## Palazzi del centro
+
+Edifici storici con vincoli e accessi stretti.
+
+02
+
+## Case sulle colline
+
+Case singole in pendenza, con drenaggi e attenzione all’umidità.
+
+03
+
+## Villette e bifamiliari
+
+Cappotto, impianti, bagni e serramenti.
+
+04
+
+## Sedi aziendali
+
+Uffici e showroom della Pedemontana.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Bassano del Grappa
+
+Lavoriamo nel centro storico porticato, ad Angarano oltre il Ponte degli Alpini, nei quartieri di Marchesane e San Vito e nelle frazioni di Campese, Valrovina e Sant’Eusebio.
+
+Quartieri e frazioni: centro storico, Angarano, Marchesane, San Vito, Campese, Valrovina, Sant’Eusebio. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 85 km da Bassano del Grappa.
+
 I servizi
 
 ## Cosa facciamo a Bassano del Grappa
@@ -62655,6 +62691,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Bassano del Grappa.
 
+Lavorate nel centro storico di Bassano?
+Sì, verificando vincoli e regole del Comune e organizzando accessi e consegne negli orari consentiti.
+
+Quanto distate da Bassano?
+Circa 85 km dalla sede di Mansuè.
+
 Siete un’impresa edile di Bassano del Grappa?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Bassano del Grappa e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -62669,12 +62711,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Bassano del Grappa?
 
@@ -62809,6 +62845,42 @@ Seguiamo cantieri a Belluno, Ponte nelle Alpi, Sedico, Limana, Borgo Valbelluna 
 
 Zone in cui lavoriamo spesso: Ponte nelle Alpi, Sedico, Limana, Borgo Valbelluna, Santa Giustina, Longarone e gli altri comuni della zona (provincia di Belluno).
 
+Le case di Belluno
+
+## Cosa ristrutturiamo a Belluno
+
+01
+
+## Case in sasso e legno
+
+Recupero di case di montagna con isolamento, impianti e tetto nuovo.
+
+02
+
+## Villette anni ’70-’80
+
+Cappotto, serramenti performanti e riscaldamento efficiente per inverni lunghi.
+
+03
+
+## Condomini in città
+
+Appartamenti rinnovati e interventi sulle parti comuni.
+
+04
+
+## Tetti e neve
+
+Coperture calcolate per il carico neve, con linea vita e lattoneria.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Belluno
+
+Lavoriamo nel centro storico sopra il Piave, nei quartieri di Cavarzano e Mussoi e nelle frazioni di Castion, Salce e Levego, oltre che in Valbelluna.
+
+Quartieri e frazioni: centro storico, Cavarzano, Mussoi, Castion, Salce, Levego. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 75 km da Belluno.
+
 I servizi
 
 ## Cosa facciamo a Belluno
@@ -62851,6 +62923,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Belluno.
 
+Si può lavorare a Belluno anche d’inverno?
+Sì, per i lavori interni. Tetti, facciate e cappotto si programmano nei mesi senza gelo: il cronoprogramma tiene conto del clima.
+
+Quanto distate da Belluno?
+Circa 75 km dalla sede di Mansuè, passando per Vittorio Veneto.
+
 Siete un’impresa edile di Belluno?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Belluno e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -62865,12 +62943,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Belluno?
 
@@ -63005,6 +63077,42 @@ Lavoriamo a Castelfranco, Resana, Vedelago, Castello di Godego, Riese Pio X e Lo
 
 Zone in cui lavoriamo spesso: Resana, Vedelago, Castello di Godego, Riese Pio X, Loria, San Martino di Lupari e gli altri comuni della zona (Castellana).
 
+Le case di Castelfranco Veneto
+
+## Cosa ristrutturiamo a Castelfranco Veneto
+
+01
+
+## Edifici della città murata
+
+Interventi su immobili storici con vincoli e cantieri in spazi stretti.
+
+02
+
+## Villette e case a schiera
+
+Ristrutturazioni complete, cappotto, fotovoltaico e pompa di calore.
+
+03
+
+## Uffici e showroom
+
+Spazi aziendali rinnovati con pareti divisorie, controsoffitti e impianti.
+
+04
+
+## Ville venete e annessi
+
+Recupero di barchesse e rustici nella campagna castellana.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Castelfranco Veneto
+
+Lavoriamo negli edifici della città murata e del borgo attorno al castello, nei quartieri residenziali e nelle frazioni di Salvarosa, Treville, Villarazzo, Salvatronda, Campigo, Bella Venezia e San Floriano.
+
+Quartieri e frazioni: città murata, Salvarosa, Treville, Villarazzo, Salvatronda, Campigo, Bella Venezia, San Floriano. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 60 km da Castelfranco Veneto.
+
 I servizi
 
 ## Cosa facciamo a Castelfranco Veneto
@@ -63047,6 +63155,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Castelfranco Veneto.
 
+Lavorate a Castelfranco e nella Castellana?
+Sì, la sede è a circa 60 km e seguiamo cantieri a Castelfranco, Resana, Vedelago, Castello di Godego e Riese Pio X con un direttore di cantiere dedicato.
+
+Fate lavori anche per aziende di Castelfranco?
+Sì: uffici, showroom e spazi produttivi, spesso con lavori nei fine settimana per non fermare l’attività.
+
 Siete un’impresa edile di Castelfranco Veneto?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Castelfranco Veneto e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -63061,12 +63175,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Castelfranco Veneto?
 
@@ -63470,6 +63578,42 @@ Seguiamo cantieri a Chioggia, Sottomarina, Isola Verde, Brondolo, Cavarzere e Co
 
 Zone in cui lavoriamo spesso: Sottomarina, Isola Verde, Brondolo, Cavarzere, Cona, Codevigo e gli altri comuni della zona (laguna sud).
 
+Le case di Chioggia
+
+## Cosa ristrutturiamo a Chioggia
+
+01
+
+## Case del centro storico
+
+Edifici sull’acqua con muri umidi e accessi stretti.
+
+02
+
+## Appartamenti a Sottomarina
+
+Seconde case da rinnovare per abitarci o affittare.
+
+03
+
+## Case esposte alla salsedine
+
+Materiali, serramenti e impianti scelti per resistere al mare.
+
+04
+
+## Piani terra umidi
+
+Intonaci risananti, impermeabilizzazioni e impianti sollevati.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Chioggia
+
+Lavoriamo nelle calli del centro storico, a Sottomarina e Isola Verde sul mare, a Borgo San Giovanni, Brondolo, Sant’Anna e Ca’ Lino.
+
+Quartieri e frazioni: centro storico, Sottomarina, Isola Verde, Borgo San Giovanni, Brondolo, Sant’Anna, Ca’ Lino. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 100 km da Chioggia.
+
 I servizi
 
 ## Cosa facciamo a Chioggia
@@ -63512,6 +63656,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Chioggia.
 
+Come combattete umidità e salsedine a Chioggia?
+Con intonaci risananti e traspiranti, impermeabilizzazioni dei piani terra, serramenti e ferramenta resistenti al mare.
+
+Quanto distate da Chioggia?
+Circa 100 km dalla sede di Mansuè.
+
 Siete un’impresa edile di Chioggia?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Chioggia e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -63526,12 +63676,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Chioggia?
 
@@ -63666,6 +63810,42 @@ Lavoriamo a Cittadella, Fontaniva, Tombolo, Galliera Veneta, San Martino di Lupa
 
 Zone in cui lavoriamo spesso: Fontaniva, Tombolo, Galliera Veneta, San Martino di Lupari, Carmignano di Brenta, Piazzola sul Brenta e gli altri comuni della zona (Alta Padovana).
 
+Le case di Cittadella
+
+## Cosa ristrutturiamo a Cittadella
+
+01
+
+## Case dentro le mura
+
+Immobili storici con cantieri in spazi stretti e regole del centro storico.
+
+02
+
+## Villette a schiera
+
+Ristrutturazioni complete con efficientamento energetico.
+
+03
+
+## Case singole di campagna
+
+Recupero di case e annessi rurali.
+
+04
+
+## Capannoni e uffici
+
+Spazi aziendali dell’Alta Padovana.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Cittadella
+
+Lavoriamo dentro la cinta muraria, nei quartieri attorno e nelle frazioni di Laghi, Santa Croce Bigolina, Facca e Pozzetto, oltre che nell’Alta Padovana.
+
+Quartieri e frazioni: centro murato, Laghi, Santa Croce Bigolina, Facca, Pozzetto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 90 km da Cittadella.
+
 I servizi
 
 ## Cosa facciamo a Cittadella
@@ -63708,6 +63888,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Cittadella.
 
+Lavorate dentro le mura di Cittadella?
+Sì, organizzando accessi, consegne e occupazione di suolo pubblico con il Comune.
+
+Quanto distate da Cittadella?
+Circa 90 km dalla sede di Mansuè.
+
 Siete un’impresa edile di Cittadella?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Cittadella e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -63722,12 +63908,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Cittadella?
 
@@ -63862,6 +64042,42 @@ Seguiamo cantieri a Cividale, Premariacco, Moimacco, Remanzacco, Manzano, San Pi
 
 Zone in cui lavoriamo spesso: Premariacco, Moimacco, Remanzacco, Manzano, San Pietro al Natisone, Corno di Rosazzo e gli altri comuni della zona (Friuli orientale).
 
+Le case di Cividale del Friuli
+
+## Cosa ristrutturiamo a Cividale del Friuli
+
+01
+
+## Edifici del centro storico
+
+Immobili di pregio vicino a siti UNESCO, con vincoli da rispettare.
+
+02
+
+## Rustici e case in pietra
+
+Recupero di case rurali con consolidamento e tetto nuovo.
+
+03
+
+## Agriturismi e cantine
+
+Spazi per l’ospitalità sui Colli Orientali.
+
+04
+
+## Case singole
+
+Efficientamento e rinnovo completo.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Cividale del Friuli
+
+Lavoriamo nel centro storico attorno al Ponte del Diavolo e nelle frazioni di Gagliano, Rubignacco, Purgessimo, Sanguarzo, Grupignano e Fornalis, fino ai Colli Orientali.
+
+Quartieri e frazioni: centro storico, Gagliano, Rubignacco, Purgessimo, Sanguarzo, Grupignano, Fornalis. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 90 km da Cividale del Friuli.
+
 I servizi
 
 ## Cosa facciamo a Cividale del Friuli
@@ -63904,6 +64120,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Cividale del Friuli.
 
+Lavorate nel centro storico di Cividale?
+Sì, verificando vincoli e autorizzazioni necessarie prima di progettare.
+
+Le pratiche a Cividale seguono le regole del Friuli?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
 Siete un’impresa edile di Cividale del Friuli?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Cividale del Friuli e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -63918,12 +64140,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Cividale del Friuli?
 
@@ -64058,6 +64274,42 @@ Lavoriamo a Codroipo, Sedegliano, Bertiolo, Camino al Tagliamento, Varmo, Basili
 
 Zone in cui lavoriamo spesso: Sedegliano, Bertiolo, Camino al Tagliamento, Varmo, Basiliano, Rivignano Teor e gli altri comuni della zona (Medio Friuli).
 
+Le case di Codroipo
+
+## Cosa ristrutturiamo a Codroipo
+
+01
+
+## Rustici friulani
+
+Case in sasso e mattoni con corte, da consolidare e rendere abitabili.
+
+02
+
+## Villette e piccoli condomini
+
+Cappotto, impianti, bagni e serramenti.
+
+03
+
+## Case singole di famiglia
+
+Ristrutturazioni complete per una nuova generazione.
+
+04
+
+## Annessi agricoli
+
+Recupero di fienili e barchesse, dove consentito.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Codroipo
+
+Lavoriamo a Codroipo centro, a Passariano vicino a Villa Manin e nelle frazioni di Biauzzo, Goricizza, Pozzo, Zompicchia, Beano e Rivolto.
+
+Quartieri e frazioni: centro, Passariano, Biauzzo, Goricizza, Pozzo, Zompicchia, Beano, Rivolto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 45 km da Codroipo.
+
 I servizi
 
 ## Cosa facciamo a Codroipo
@@ -64100,6 +64352,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Codroipo.
 
+Recuperate i rustici friulani?
+Sì, consolidando strutture e tetto e salvando sasso e mattoni a vista, con pratiche secondo le regole regionali.
+
+Le pratiche a Codroipo seguono le regole del Friuli?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
 Siete un’impresa edile di Codroipo?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Codroipo e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -64114,12 +64372,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Codroipo?
 
@@ -64254,6 +64506,42 @@ Lavoriamo a Conegliano, San Vendemiano, Susegana, Vittorio Veneto, Pieve di Soli
 
 Zone in cui lavoriamo spesso: San Vendemiano, Susegana, Vittorio Veneto, Pieve di Soligo, Mareno di Piave, Santa Lucia di Piave e gli altri comuni della zona (colline del Prosecco).
 
+Le case di Conegliano
+
+## Cosa ristrutturiamo a Conegliano
+
+01
+
+## Case sulle colline del Prosecco
+
+Ristrutturazioni attente a materiali, colori e coperture adatti al paesaggio UNESCO.
+
+02
+
+## Agriturismi, cantine e B&B
+
+Sale degustazione, camere e bagni per l’ospitalità, con tempi pensati per non perdere la stagione.
+
+03
+
+## Appartamenti in centro
+
+Rinnovi completi in edifici storici, spesso senza ascensore e con accessi stretti.
+
+04
+
+## Villette e bifamiliari
+
+Isolamento, impianti, bagni e cucine per case degli anni ’70-’90.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Conegliano
+
+Lavoriamo negli appartamenti e nei palazzi del centro storico in salita sotto il castello, nei quartieri residenziali e nelle frazioni collinari di Parè, Scomigo, Ogliano, Campolongo e Collalbrigo.
+
+Quartieri e frazioni: centro storico sotto il castello, Parè, Scomigo, Ogliano, Campolongo, Collalbrigo. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 25 km da Conegliano.
+
 I servizi
 
 ## Cosa facciamo a Conegliano
@@ -64296,6 +64584,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Conegliano.
 
+Ristrutturate case nella zona del Prosecco UNESCO?
+Sì. Sulle colline teniamo conto delle regole paesaggistiche del Comune per materiali, colori e coperture, e prepariamo la documentazione quando serve l’autorizzazione.
+
+Quanto distate da Conegliano?
+Circa 25 km dalla sede di Mansuè: sopralluoghi rapidi e cantiere seguito con continuità.
+
 Siete un’impresa edile di Conegliano?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Conegliano e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -64310,12 +64604,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Conegliano?
 
@@ -64450,6 +64738,42 @@ Lavoriamo a Feltre, Pedavena, Fonzaso, Cesiomaggiore, Seren del Grappa e Sovramo
 
 Zone in cui lavoriamo spesso: Pedavena, Fonzaso, Cesiomaggiore, Seren del Grappa, Sovramonte, Arsiè e gli altri comuni della zona (Feltrino).
 
+Le case di Feltre
+
+## Cosa ristrutturiamo a Feltre
+
+01
+
+## Edifici della cittadella
+
+Immobili storici con facciate dipinte e vincoli da rispettare.
+
+02
+
+## Case rurali del Feltrino
+
+Recupero di rustici e case di campagna.
+
+03
+
+## Villette e case singole
+
+Isolamento, serramenti e impianti per il clima di montagna.
+
+04
+
+## Appartamenti in città
+
+Rinnovi completi per abitarci o affittare.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Feltre
+
+Lavoriamo nella cittadella murata con le facciate affrescate, nel borgo e nelle frazioni di Farra, Villabruna, Foen, Anzù e Pren.
+
+Quartieri e frazioni: cittadella murata, Farra, Villabruna, Foen, Anzù, Pren. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 90 km da Feltre.
+
 I servizi
 
 ## Cosa facciamo a Feltre
@@ -64492,6 +64816,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Feltre.
 
+Lavorate nel centro storico di Feltre?
+Sì, verificando i vincoli e preparando le autorizzazioni necessarie per facciate, coperture e serramenti.
+
+Quanto distate da Feltre?
+Circa 90 km dalla sede di Mansuè: programmiamo squadre stabili per tutta la durata del cantiere.
+
 Siete un’impresa edile di Feltre?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Feltre e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -64506,12 +64836,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Feltre?
 
@@ -64646,6 +64970,42 @@ Seguiamo cantieri a Gorizia, Cormons, Gradisca d’Isonzo, Mossa, Savogna d’Is
 
 Zone in cui lavoriamo spesso: Cormons, Gradisca d’Isonzo, Mossa, Savogna d’Isonzo, Lucinico, Capriva del Friuli e gli altri comuni della zona (Isontino).
 
+Le case di Gorizia
+
+## Cosa ristrutturiamo a Gorizia
+
+01
+
+## Palazzi ottocenteschi
+
+Soffitti alti, scale in pietra e impianti da rifare con attenzione.
+
+02
+
+## Ville con giardino
+
+Ristrutturazioni complete con efficientamento energetico.
+
+03
+
+## Condomini
+
+Appartamenti rinnovati e parti comuni.
+
+04
+
+## Case nel Collio
+
+Case di campagna e agriturismi verso Cormons e il Collio.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Gorizia
+
+Lavoriamo nel centro con i palazzi ottocenteschi e nei quartieri di Straccis, Sant’Anna, Lucinico, Piedimonte, Campagnuzza e Montesanto.
+
+Quartieri e frazioni: centro, Straccis, Sant’Anna, Lucinico, Piedimonte, Campagnuzza, Montesanto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 95 km da Gorizia.
+
 I servizi
 
 ## Cosa facciamo a Gorizia
@@ -64688,6 +65048,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Gorizia.
 
+Le pratiche a Gorizia seguono regole diverse dal Veneto?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
+Quanto distate da Gorizia?
+Circa 95 km dalla sede di Mansuè: organizziamo il cantiere con squadre stabili.
+
 Siete un’impresa edile di Gorizia?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Gorizia e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -64702,12 +65068,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Gorizia?
 
@@ -64842,6 +65202,42 @@ Lavoriamo a Jesolo Lido, Jesolo Paese, Cortellazzo, Eraclea Mare, Cavallino-Trep
 
 Zone in cui lavoriamo spesso: Jesolo Lido, Jesolo Paese, Cortellazzo, Eraclea Mare, Cavallino-Treporti, Musile di Piave e gli altri comuni della zona (litorale veneto).
 
+Le case di Jesolo
+
+## Cosa ristrutturiamo a Jesolo
+
+01
+
+## Appartamenti al Lido
+
+Rinnovi completi di appartamenti degli anni ’60-’80, spesso per l’affitto estivo.
+
+02
+
+## Condomini al mare
+
+Parti comuni, facciate e balconi con frontalini da ripristinare.
+
+03
+
+## Case a Jesolo Paese
+
+Case singole e villette da ristrutturare per abitarci tutto l’anno.
+
+04
+
+## Hotel e strutture
+
+Camere e aree comuni rinnovate fuori stagione.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Jesolo
+
+Lavoriamo negli appartamenti e nei condomini del Lido, dalla zona del Faro a piazza Mazzini e piazza Milano, a Jesolo Paese, Cortellazzo e Passarella.
+
+Quartieri e frazioni: Jesolo Lido, zona Faro, piazza Mazzini, piazza Milano, Jesolo Paese, Cortellazzo, Passarella. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 50 km da Jesolo.
+
 I servizi
 
 ## Cosa facciamo a Jesolo
@@ -64884,6 +65280,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Jesolo.
 
+Si può lavorare a Jesolo d’estate?
+Molti condomini e Comuni limitano i lavori rumorosi in alta stagione. Programmiamo i cantieri tra autunno e primavera.
+
+Seguite i lavori se il proprietario vive lontano?
+Sì, con foto e aggiornamenti settimanali e un referente unico. Possiamo anche gestire l’affitto dopo i lavori.
+
 Siete un’impresa edile di Jesolo?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Jesolo e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -64898,12 +65300,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Jesolo?
 
@@ -65038,6 +65434,42 @@ Lavoriamo a Mestre, Marghera, Favaro, Chirignago, Zelarino, Spinea, Mira e Mogli
 
 Zone in cui lavoriamo spesso: Marghera, Favaro Veneto, Chirignago, Zelarino, Spinea, Mogliano Veneto e gli altri comuni della zona (terraferma veneziana).
 
+Le case di Mestre
+
+## Cosa ristrutturiamo a Mestre
+
+01
+
+## Condomini anni ’50-’80
+
+Impianti da rifare, bagni e cucine datati, serramenti e cappotto condominiale.
+
+02
+
+## Appartamenti da affittare
+
+Rinnovi per studenti, lavoratori e affitti brevi vicino a Venezia.
+
+03
+
+## Case a schiera e villette
+
+Ristrutturazioni complete con pompa di calore e isolamento.
+
+04
+
+## Negozi e uffici
+
+Locali commerciali rinnovati con chiusure brevi.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Mestre
+
+In terraferma lavoriamo soprattutto nei condomini di Mestre centro, Piraghetto, Bissuola, Gazzera e Marghera e nelle case a schiera e villette di Carpenedo, Zelarino, Chirignago, Favaro e Campalto.
+
+Quartieri e frazioni: Carpenedo, Bissuola, Piraghetto, Gazzera, Marghera, Favaro Veneto, Zelarino, Chirignago, Campalto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 55 km da Mestre.
+
 I servizi
 
 ## Cosa facciamo a Mestre
@@ -65080,6 +65512,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Mestre.
 
+Gestite voi i rapporti con l’amministratore di condominio?
+Sì: comunichiamo date e orari, prenotiamo l’ascensore per i materiali, proteggiamo le parti comuni e rispettiamo il regolamento.
+
+Quanto distate da Mestre?
+Circa 55 km dalla sede di Mansuè, con cantieri frequenti in terraferma.
+
 Siete un’impresa edile di Mestre?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Mestre e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -65094,12 +65532,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Mestre?
 
@@ -65234,6 +65666,42 @@ Lavoriamo a Monfalcone, Ronchi dei Legionari, Staranzano, San Canzian d’Isonzo
 
 Zone in cui lavoriamo spesso: Ronchi dei Legionari, Staranzano, San Canzian d’Isonzo, Turriaco, Fogliano Redipuglia, Doberdò del Lago e gli altri comuni della zona (Bisiacaria).
 
+Le case di Monfalcone
+
+## Cosa ristrutturiamo a Monfalcone
+
+01
+
+## Case del villaggio operaio di Panzano
+
+Case storiche in schiera da rinnovare rispettando il disegno originale.
+
+02
+
+## Condomini
+
+Appartamenti con bagni, impianti e serramenti da rifare.
+
+03
+
+## Appartamenti da affittare
+
+Rinnovi per lavoratori e famiglie legati al polo industriale.
+
+04
+
+## Case al mare
+
+Seconde case a Marina Julia, con materiali resistenti alla salsedine.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Monfalcone
+
+Lavoriamo in centro, nel villaggio di Panzano nato attorno ai cantieri navali, a Marina Julia sul mare e nei comuni della Bisiacaria.
+
+Quartieri e frazioni: centro, Panzano, Marina Julia, San Polo, Largo Isonzo. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 85 km da Monfalcone.
+
 I servizi
 
 ## Cosa facciamo a Monfalcone
@@ -65276,6 +65744,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Monfalcone.
 
+Ristrutturate appartamenti da affittare a Monfalcone?
+Sì, con lavori pensati per durare e impianti facili da manutenere.
+
+Le pratiche a Monfalcone seguono le regole del Friuli?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
 Siete un’impresa edile di Monfalcone?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Monfalcone e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -65290,12 +65764,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Monfalcone?
 
@@ -65430,6 +65898,42 @@ Seguiamo cantieri a Montebelluna, Trevignano, Volpago del Montello, Caerano di S
 
 Zone in cui lavoriamo spesso: Trevignano, Volpago del Montello, Caerano di San Marco, Cornuda, Crocetta del Montello, Asolo e gli altri comuni della zona (Montebellunese).
 
+Le case di Montebelluna
+
+## Cosa ristrutturiamo a Montebelluna
+
+01
+
+## Sedi del distretto calzaturiero
+
+Uffici, showroom e spazi produttivi rinnovati con cartongesso e impianti.
+
+02
+
+## Villette e case singole
+
+Cappotto, serramenti, impianti efficienti e bagni nuovi.
+
+03
+
+## Case ai piedi del Montello
+
+Attenzione a umidità e terreni in pendenza, con drenaggi e impermeabilizzazioni.
+
+04
+
+## Appartamenti in centro
+
+Rinnovi completi per abitarci o affittare.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Montebelluna
+
+A Montebelluna lavoriamo in centro e nelle frazioni di Biadene, Busta, Caonada, Guarda, Pederiva, Posmon, San Gaetano e Contea, tra case singole, villette e sedi aziendali del distretto dello sportsystem.
+
+Quartieri e frazioni: centro, Biadene, Busta, Caonada, Guarda, Pederiva, Posmon, San Gaetano, Contea. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 55 km da Montebelluna.
+
 I servizi
 
 ## Cosa facciamo a Montebelluna
@@ -65472,6 +65976,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Montebelluna.
 
+Quanto distate da Montebelluna?
+Circa 55 km dalla sede di Mansuè. Organizziamo le squadre per lavorare con continuità senza giorni persi.
+
+Fate lavori in uffici e showroom senza fermare l’azienda?
+Sì, con fasi programmate, lavori anche fuori orario e aree di cantiere separate.
+
 Siete un’impresa edile di Montebelluna?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Montebelluna e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -65486,12 +65996,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Montebelluna?
 
@@ -65626,6 +66130,42 @@ Siamo vicinissimi: Mansuè confina con l’area mottense. Seguiamo cantieri a Mo
 
 Zone in cui lavoriamo spesso: Meduna di Livenza, Cessalto, Salgareda, Annone Veneto, Pravisdomini, Gorgo al Monticano e gli altri comuni della zona (Opitergino-Mottense).
 
+Le case di Motta di Livenza
+
+## Cosa ristrutturiamo a Motta di Livenza
+
+01
+
+## Case singole nelle frazioni
+
+Ristrutturazioni complete con impianti, bagni, cappotto e serramenti.
+
+02
+
+## Palazzi del centro
+
+Interventi su edifici storici con porticati, solai in legno e muri spessi.
+
+03
+
+## Case vicino al Livenza
+
+Attenzione all’umidità dei piani terra: vespai, barriere e intonaci traspiranti.
+
+04
+
+## Case di famiglia
+
+Rinnovi per una nuova generazione: spazi riorganizzati e impianti efficienti.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Motta di Livenza
+
+A Motta lavoriamo sui palazzi e porticati del centro, nella zona della Basilica dei Miracoli e nelle frazioni di Lorenzaga, Malintrada e Villanova, dove prevalgono case singole con giardino.
+
+Quartieri e frazioni: centro storico, Lorenzaga, Malintrada, Villanova, Basilica dei Miracoli. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 12 km da Motta di Livenza.
+
 I servizi
 
 ## Cosa facciamo a Motta di Livenza
@@ -65668,6 +66208,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Motta di Livenza.
 
+Siete vicini a Motta di Livenza?
+Sì, la sede di Mansuè è a circa 12 km: Motta è una delle zone in cui lavoriamo di più.
+
+Le case vicino al fiume hanno problemi di umidità?
+Spesso nei piani terra c’è umidità di risalita. La misuriamo al sopralluogo e la risolviamo prima delle finiture.
+
 Siete un’impresa edile di Motta di Livenza?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Motta di Livenza e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -65682,12 +66228,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Motta di Livenza?
 
@@ -65822,6 +66362,42 @@ La nostra sede di Mansuè è a pochi minuti: per Oderzo, Gorgo al Monticano, Fon
 
 Zone in cui lavoriamo spesso: Gorgo al Monticano, Fontanelle, Ormelle, Chiarano, Ponte di Piave, Mansuè e gli altri comuni della zona (Opitergino-Mottense).
 
+Le case di Oderzo
+
+## Cosa ristrutturiamo a Oderzo
+
+01
+
+## Case singole anni ’70-’80
+
+Le richieste più frequenti: impianti, bagni, cappotto, serramenti e caldaia sostituita con pompa di calore.
+
+02
+
+## Appartamenti in centro
+
+Rinnovi completi con pareti spostate, bagni nuovi e finiture moderne.
+
+03
+
+## Case di famiglia da dividere
+
+Bifamiliari frazionate in due unità indipendenti, con impianti e ingressi separati.
+
+04
+
+## Rustici in campagna
+
+Annessi e case coloniche da recuperare, con consolidamento e tetto nuovo.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Oderzo
+
+A Oderzo seguiamo appartamenti in centro attorno a piazza Grande e soprattutto case singole e bifamiliari nelle frazioni di Piavon, Faè, Camino, Fratta, Colfrancui e Rustignè.
+
+Quartieri e frazioni: centro storico, Piavon, Faè, Camino, Fratta, Colfrancui, Rustignè. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 10 km da Oderzo.
+
 I servizi
 
 ## Cosa facciamo a Oderzo
@@ -65864,6 +66440,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Oderzo.
 
+Siete vicini a Oderzo?
+Sì, Mansuè è a circa 10 km: per Oderzo e le sue frazioni il sopralluogo si fissa in pochi giorni e il cantiere è seguito ogni giorno.
+
+Fate anche piccoli lavori a Oderzo?
+Sì, oltre alle ristrutturazioni complete facciamo singoli lavori: bagno, imbiancatura, cartongesso, porte, impermeabilizzazioni.
+
 Siete un’impresa edile di Oderzo?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Oderzo e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -65878,12 +66460,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Oderzo?
 
@@ -66018,6 +66594,42 @@ Seguiamo cantieri a Padova e nella cintura: Abano Terme, Selvazzano Dentro, Albi
 
 Zone in cui lavoriamo spesso: Abano Terme, Selvazzano Dentro, Albignasego, Vigonza, Cadoneghe, Rubano e gli altri comuni della zona (provincia di Padova).
 
+Le case di Padova
+
+## Cosa ristrutturiamo a Padova
+
+01
+
+## Appartamenti per studenti
+
+Più camere con pareti divisorie, bagni aggiuntivi e impianti adatti a più inquilini.
+
+02
+
+## Palazzi porticati del centro
+
+Edifici storici con vincoli, solai in legno e accessi limitati.
+
+03
+
+## Condomini anni ’60-’70
+
+Impianti, bagni, cucine, serramenti e cappotto.
+
+04
+
+## Villette in periferia e cintura
+
+Ristrutturazioni complete ed efficientamento energetico.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Padova
+
+Lavoriamo nei palazzi del centro e del Portello vicino all’Università, nei condomini dell’Arcella, di Santa Rita, Sacra Famiglia, Forcellini e Guizza e nelle case singole di Mortise e Chiesanuova.
+
+Quartieri e frazioni: centro storico porticato, Arcella, Portello, Santa Rita, Sacra Famiglia, Forcellini, Guizza, Mortise, Chiesanuova. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 90 km da Padova.
+
 I servizi
 
 ## Cosa facciamo a Padova
@@ -66060,6 +66672,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Padova.
 
+Si può dividere un appartamento a Padova per affittare a studenti?
+Spesso sì, ricavando camere con pareti divisorie e un bagno in più, se le dimensioni e le regole comunali lo permettono. Verifichiamo prima di progettare.
+
+Lavorate a Padova anche se la sede è a Mansuè?
+Sì: Padova è a circa 90 km e organizziamo il cantiere con un direttore dedicato e squadre stabili.
+
 Siete un’impresa edile di Padova?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Padova e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -66074,12 +66692,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Padova?
 
@@ -66214,6 +66826,42 @@ Lavoriamo a Pordenone, Porcia, Cordenons, Fiume Veneto, Azzano Decimo, Prata e P
 
 Zone in cui lavoriamo spesso: Porcia, Cordenons, Fiume Veneto, Azzano Decimo, Prata di Pordenone, Pasiano di Pordenone e gli altri comuni della zona (provincia di Pordenone).
 
+Le case di Pordenone
+
+## Cosa ristrutturiamo a Pordenone
+
+01
+
+## Villette anni ’60-’90
+
+Le più richieste: cappotto, tetto, impianti e bagni.
+
+02
+
+## Condomini in città
+
+Appartamenti rinnovati e interventi su parti comuni.
+
+03
+
+## Uffici e capannoni
+
+Spazi aziendali del distretto industriale rinnovati in tempi stretti.
+
+04
+
+## Palazzi del centro
+
+Edifici storici porticati con interventi attenti.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Pordenone
+
+Lavoriamo nel centro storico lungo il corso, nei quartieri di Torre, Rorai Grande, Borgomeduna, Villanova, Vallenoncello, Cappuccini e San Gregorio e nei comuni della provincia.
+
+Quartieri e frazioni: centro storico, Torre, Rorai Grande, Borgomeduna, Villanova, Vallenoncello, Cappuccini, San Gregorio. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 20 km da Pordenone.
+
 I servizi
 
 ## Cosa facciamo a Pordenone
@@ -66256,6 +66904,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Pordenone.
 
+Le pratiche edilizie in Friuli sono diverse dal Veneto?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
+Quanto distate da Pordenone?
+Circa 20 km: Pordenone è una delle zone più vicine alla nostra sede di Mansuè.
+
 Siete un’impresa edile di Pordenone?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Pordenone e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -66270,12 +66924,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Pordenone?
 
@@ -66410,6 +67058,42 @@ Lavoriamo a Portogruaro, Concordia Sagittaria, Fossalta di Portogruaro, Teglio V
 
 Zone in cui lavoriamo spesso: Concordia Sagittaria, Fossalta di Portogruaro, Teglio Veneto, San Stino di Livenza, San Michele al Tagliamento, Pramaggiore e gli altri comuni della zona (Veneto orientale).
 
+Le case di Portogruaro
+
+## Cosa ristrutturiamo a Portogruaro
+
+01
+
+## Palazzi del centro porticato
+
+Edifici storici con muri spessi e solai in legno, da rinnovare con attenzione.
+
+02
+
+## Case singole nelle frazioni
+
+Ristrutturazioni complete con impianti e isolamento.
+
+03
+
+## Case di campagna
+
+Rustici e case coloniche da recuperare, spesso con umidità e tetti da rifare.
+
+04
+
+## Immobili verso Caorle e Bibione
+
+Appartamenti da rinnovare per l’affitto estivo.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Portogruaro
+
+Lavoriamo nel centro porticato sul Lemene e nelle frazioni di Summaga, Lugugnana, Pradipozzo, Lison, Giussago e Mazzolada, tra appartamenti, case singole e case di campagna.
+
+Quartieri e frazioni: centro storico sul Lemene, Summaga, Lugugnana, Pradipozzo, Lison, Giussago, Mazzolada. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 25 km da Portogruaro.
+
 I servizi
 
 ## Cosa facciamo a Portogruaro
@@ -66452,6 +67136,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Portogruaro.
 
+Siete vicini a Portogruaro?
+Sì, circa 25 km dalla sede di Mansuè: il Portogruarese è una nostra zona abituale.
+
+Seguite anche case per l’affitto a Caorle e Bibione?
+Sì, con lavori programmati fuori stagione e la pagina dedicata alla gestione degli affitti brevi.
+
 Siete un’impresa edile di Portogruaro?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Portogruaro e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -66466,12 +67156,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Portogruaro?
 
@@ -66606,6 +67290,42 @@ Seguiamo cantieri a Rovigo, Adria, Lendinara, Badia Polesine, Occhiobello e Port
 
 Zone in cui lavoriamo spesso: Adria, Lendinara, Badia Polesine, Occhiobello, Porto Viro, Costa di Rovigo e gli altri comuni della zona (Polesine).
 
+Le case di Rovigo
+
+## Cosa ristrutturiamo a Rovigo
+
+01
+
+## Villette e case singole
+
+Le richieste più frequenti: cappotto, impianti, bagni e serramenti.
+
+02
+
+## Case coloniche del Polesine
+
+Recupero di case rurali con consolidamento e tetto nuovo.
+
+03
+
+## Case su terreni bassi
+
+Umidità di risalita e terreni argillosi: vespai, drenaggi e barriere.
+
+04
+
+## Palazzi del centro
+
+Edifici storici da rinnovare con attenzione.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Rovigo
+
+Lavoriamo nel centro storico e nei quartieri e frazioni di Commenda, Tassina, Borsea, Buso, Grignano, Boara Polesine e Sarzano, e nei comuni del Polesine.
+
+Quartieri e frazioni: centro storico, Commenda, Tassina, Borsea, Buso, Grignano, Boara Polesine, Sarzano. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 130 km da Rovigo.
+
 I servizi
 
 ## Cosa facciamo a Rovigo
@@ -66648,6 +67368,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Rovigo.
 
+Le case del Polesine hanno spesso umidità?
+Sì, per la falda alta e i terreni bassi. Al sopralluogo misuriamo l’umidità e proponiamo vespaio, barriere o intonaci risananti.
+
+Quanto distate da Rovigo?
+Circa 130 km: per il Polesine organizziamo cantieri con squadre dedicate e un direttore lavori sempre raggiungibile.
+
 Siete un’impresa edile di Rovigo?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Rovigo e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -66662,12 +67388,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Rovigo?
 
@@ -66802,6 +67522,42 @@ Lavoriamo a Sacile, Caneva, Brugnera, Fontanafredda, Polcenigo e Cordignano.
 
 Zone in cui lavoriamo spesso: Caneva, Brugnera, Fontanafredda, Polcenigo, Cordignano, Fregona e gli altri comuni della zona (Alto Livenza).
 
+Le case di Sacile
+
+## Cosa ristrutturiamo a Sacile
+
+01
+
+## Palazzi sul Livenza
+
+Edifici storici affacciati sul fiume, con attenzione all’umidità e ai vincoli.
+
+02
+
+## Case singole e villette
+
+Impianti, bagni, cappotto e serramenti.
+
+03
+
+## Case di campagna
+
+Rustici e annessi da recuperare.
+
+04
+
+## Negozi del centro
+
+Locali commerciali rinnovati con chiusure brevi.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Sacile
+
+Lavoriamo nel centro storico sull’acqua e nelle frazioni di San Giovanni del Tempio, San Michele, Cavolano, Ronche, Topaga e Camolli.
+
+Quartieri e frazioni: centro storico sul Livenza, San Giovanni del Tempio, San Michele, Cavolano, Ronche, Topaga, Camolli. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 20 km da Sacile.
+
 I servizi
 
 ## Cosa facciamo a Sacile
@@ -66844,6 +67600,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Sacile.
 
+Siete vicini a Sacile?
+Sì, circa 20 km dalla sede di Mansuè, a cavallo tra Veneto e Friuli.
+
+Le pratiche a Sacile seguono le regole del Friuli?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
 Siete un’impresa edile di Sacile?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Sacile e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -66858,12 +67620,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Sacile?
 
@@ -66998,6 +67754,42 @@ Seguiamo cantieri a San Donà, Musile di Piave, Noventa di Piave, Fossalta di Pi
 
 Zone in cui lavoriamo spesso: Musile di Piave, Noventa di Piave, Fossalta di Piave, Ceggia, Eraclea, Jesolo e gli altri comuni della zona (Veneto orientale).
 
+Le case di San Donà di Piave
+
+## Cosa ristrutturiamo a San Donà di Piave
+
+01
+
+## Case singole e bifamiliari
+
+Impianti, bagni, cappotto e serramenti per case degli anni ’60-’90.
+
+02
+
+## Appartamenti in centro
+
+Rinnovi completi per abitarci o affittare.
+
+03
+
+## Case in terre di bonifica
+
+Terreni bassi e falda vicina: attenzione a umidità, vespai e impermeabilizzazioni.
+
+04
+
+## Seconde case verso il mare
+
+Ristrutturazioni da organizzare mentre il proprietario è lontano, con aggiornamenti a distanza.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a San Donà di Piave
+
+Lavoriamo a San Donà centro e nelle frazioni di Calvecchia, Chiesanuova, Isiata, Mussetta, Passarella, Fiorentina e Palazzetto, oltre che nelle seconde case verso il mare.
+
+Quartieri e frazioni: centro, Calvecchia, Chiesanuova, Isiata, Mussetta, Passarella, Fiorentina, Palazzetto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 35 km da San Donà di Piave.
+
 I servizi
 
 ## Cosa facciamo a San Donà di Piave
@@ -67040,6 +67832,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a San Donà di Piave.
 
+Le case di San Donà hanno problemi di umidità?
+Nelle zone di bonifica capita spesso ai piani terra. Al sopralluogo misuriamo l’umidità e proponiamo vespaio, barriere o intonaci risananti.
+
+Quanto distate da San Donà?
+Circa 35 km dalla sede di Mansuè.
+
 Siete un’impresa edile di San Donà di Piave?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a San Donà di Piave e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -67054,12 +67852,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a San Donà di Piave?
 
@@ -67194,6 +67986,42 @@ Seguiamo cantieri a Schio, Thiene, Malo, Marano Vicentino, Santorso, Zanè e Val
 
 Zone in cui lavoriamo spesso: Thiene, Malo, Marano Vicentino, Santorso, Zanè, Valdagno e gli altri comuni della zona (Alto Vicentino).
 
+Le case di Schio
+
+## Cosa ristrutturiamo a Schio
+
+01
+
+## Case del quartiere operaio
+
+Case storiche da rinnovare mantenendo il carattere originale.
+
+02
+
+## Case singole anni ’70-’80
+
+Efficientamento completo: cappotto, serramenti, pompa di calore.
+
+03
+
+## Uffici aziendali
+
+Spazi delle imprese dell’Alto Vicentino rinnovati in tempi stretti.
+
+04
+
+## Case in collina
+
+Case su terreni in pendenza, con drenaggi e impermeabilizzazioni.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Schio
+
+Lavoriamo in centro, nelle case del Nuovo Quartiere Operaio legato alla storia laniera della città e nelle frazioni di Magrè, Giavenale, Santa Croce, Poleo e Tretto.
+
+Quartieri e frazioni: centro, Nuovo Quartiere Operaio, Magrè, Giavenale, Santa Croce, Poleo, Tretto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 125 km da Schio.
+
 I servizi
 
 ## Cosa facciamo a Schio
@@ -67236,6 +68064,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Schio.
 
+Quanto distate da Schio?
+Circa 125 km: per l’Alto Vicentino organizziamo squadre dedicate e un direttore di cantiere unico.
+
+Ristrutturate case storiche del quartiere operaio?
+Sì, con attenzione a facciate, serramenti e materiali, verificando le regole del Comune.
+
 Siete un’impresa edile di Schio?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Schio e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -67250,12 +68084,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Schio?
 
@@ -67390,6 +68218,42 @@ Siamo a Mansuè, a pochi chilometri dal capoluogo: sopralluoghi rapidi e squadre
 
 Zone in cui lavoriamo spesso: Villorba, Paese, Preganziol, Silea, Casier, Ponzano Veneto e gli altri comuni della zona (provincia di Treviso).
 
+Le case di Treviso
+
+## Cosa ristrutturiamo a Treviso
+
+01
+
+## Palazzetti del centro storico
+
+Solai in legno da consolidare, impianti da rifare senza rovinare le finiture, accesso dei mezzi in ZTL da autorizzare.
+
+02
+
+## Condomini anni ’60-’80
+
+Bagni e cucine da rifare, impianti elettrici fuori norma, serramenti e cappotto condominiale.
+
+03
+
+## Villette e case a schiera
+
+Ristrutturazioni complete con pompa di calore, fotovoltaico e isolamento del sottotetto.
+
+04
+
+## Case di campagna della Marca
+
+Rustici e case coloniche da consolidare, con tetti in coppi e umidità nei muri.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Treviso
+
+Dentro le mura lavoriamo su palazzetti e appartamenti con soffitti in legno e scale strette; a San Liberale, Santa Maria del Rovere e San Giuseppe soprattutto su condomini e case a schiera; a Santa Bona, Sant’Antonino e San Zeno su villette e case singole con giardino.
+
+Quartieri e frazioni: centro storico dentro le mura, Santa Bona, San Giuseppe, San Liberale, Santa Maria del Rovere, Sant’Antonino, Selvana, San Zeno. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 35 km da Treviso.
+
 I servizi
 
 ## Cosa facciamo a Treviso
@@ -67432,6 +68296,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Treviso.
 
+Lavorate anche dentro le mura di Treviso?
+Sì. Nel centro storico chiediamo noi i permessi di accesso dei mezzi alla ZTL e l’eventuale occupazione di suolo pubblico, e organizziamo consegne e smaltimenti negli orari consentiti.
+
+Quanto tempo serve per un sopralluogo a Treviso?
+Di solito pochi giorni: la sede di Mansuè è a circa 35 km e abbiamo cantieri aperti in tutta la Marca.
+
 Siete un’impresa edile di Treviso?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Treviso e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -67446,12 +68316,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Treviso?
 
@@ -67586,6 +68450,42 @@ Lavoriamo a Trieste città e in provincia, da Muggia e San Dorligo della Valle a
 
 Zone in cui lavoriamo spesso: Muggia, Duino Aurisina, San Dorligo della Valle, Sgonico, Opicina, Barcola e gli altri comuni della zona (provincia di Trieste).
 
+Le case di Trieste
+
+## Cosa ristrutturiamo a Trieste
+
+01
+
+## Palazzi asburgici e liberty
+
+Soffitti alti, pavimenti in legno, stucchi da salvare e impianti da rifare.
+
+02
+
+## Condomini sulle colline
+
+Appartamenti con impianti datati, bagni e cucine da rinnovare.
+
+03
+
+## Case carsiche in pietra
+
+Recupero di case in pietra sull’altopiano, con isolamento e impianti.
+
+04
+
+## Case esposte alla bora
+
+Serramenti, tetti e lattonerie dimensionati per il vento forte.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Trieste
+
+Lavoriamo nei palazzi del Borgo Teresiano e del Borgo Giuseppino, nei rioni di San Giacomo, San Giovanni, Roiano e Servola, a Barcola sul mare e sull’altopiano a Opicina.
+
+Quartieri e frazioni: Borgo Teresiano, Borgo Giuseppino, San Giacomo, San Giovanni, Roiano, Barcola, Opicina, Servola. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 115 km da Trieste.
+
 I servizi
 
 ## Cosa facciamo a Trieste
@@ -67628,6 +68528,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Trieste.
 
+Ristrutturate a Trieste anche se la sede è in Veneto?
+Sì, Trieste è a circa 115 km. Organizziamo squadre dedicate e un direttore di cantiere che segue il lavoro con continuità.
+
+La bora influisce sui lavori?
+Sì: serramenti, coperture, lattoneria e ponteggi vanno scelti e fissati tenendo conto delle raffiche. Nelle giornate di bora forte i lavori in quota si fermano per sicurezza.
+
 Siete un’impresa edile di Trieste?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Trieste e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -67642,12 +68548,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Trieste?
 
@@ -67782,6 +68682,42 @@ Seguiamo cantieri a Udine, Tavagnacco, Pasian di Prato, Pozzuolo, Codroipo e Civ
 
 Zone in cui lavoriamo spesso: Tavagnacco, Pasian di Prato, Pozzuolo del Friuli, Codroipo, Cividale del Friuli, Tricesimo e gli altri comuni della zona (provincia di Udine).
 
+Le case di Udine
+
+## Cosa ristrutturiamo a Udine
+
+01
+
+## Palazzi del centro
+
+Edifici di impronta veneziana con solai in legno e muri spessi.
+
+02
+
+## Condomini in città
+
+Appartamenti rinnovati con impianti e bagni nuovi.
+
+03
+
+## Case friulane con corte
+
+Case in sasso e mattoni da recuperare, con attenzione alle strutture.
+
+04
+
+## Uffici e negozi
+
+Locali commerciali rinnovati in tempi brevi.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Udine
+
+Lavoriamo nel centro storico attorno a piazza Libertà e nei quartieri di Chiavris, Paderno, Cussignacco, Laipacco, San Domenico, Godia e Baldasseria.
+
+Quartieri e frazioni: centro storico, Chiavris, Paderno, Cussignacco, Laipacco, San Domenico, Godia, Baldasseria. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 70 km da Udine.
+
 I servizi
 
 ## Cosa facciamo a Udine
@@ -67824,6 +68760,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Udine.
 
+Il Friuli è zona sismica: ne tenete conto?
+Sì. Dopo il terremoto del 1976 il Friuli ha una forte attenzione alla sicurezza degli edifici: quando si interviene su strutture lavoriamo con un ingegnere strutturista e valutiamo il sismabonus.
+
+Le pratiche a Udine seguono regole diverse?
+In Friuli Venezia Giulia le pratiche edilizie seguono il Codice regionale dell’edilizia (legge regionale 19/2009), con regole e nomi in parte diversi dal Veneto: lavorando su entrambe le regioni le conosciamo bene.
+
 Siete un’impresa edile di Udine?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Udine e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -67838,12 +68780,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Udine?
 
@@ -67978,6 +68914,42 @@ Organizziamo trasporti acquei, permessi e logistica, e lavoriamo con artigiani a
 
 Zone in cui lavoriamo spesso: Cannaregio, Castello, Dorsoduro, San Polo, Giudecca, Lido e gli altri comuni della zona (centro storico e isole).
 
+Le case di Venezia
+
+## Cosa ristrutturiamo a Venezia
+
+01
+
+## Palazzi e case veneziane
+
+Solai in legno, muri in mattoni pieni, terrazzi alla veneziana e intonaci a marmorino da recuperare.
+
+02
+
+## Piani terra e acqua alta
+
+Impianti sollevati, materiali che resistono all’acqua salata e intonaci risananti contro la salsedine.
+
+03
+
+## Appartamenti per affitti brevi
+
+Bagni, cucine e impianti pensati per l’ospitalità, con arredi resistenti.
+
+04
+
+## Altane e coperture
+
+Rifacimento di altane, coppi e lattoneria con regole precise per l’aspetto esterno.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Venezia
+
+Lavoriamo nei sei sestieri (Cannaregio, Castello, San Marco, Dorsoduro, San Polo e Santa Croce), alla Giudecca e al Lido, organizzando ogni volta trasporti in barca, depositi e orari di cantiere.
+
+Quartieri e frazioni: Cannaregio, Castello, San Marco, Dorsoduro, San Polo, Santa Croce, Giudecca, Lido. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 60 km da Venezia.
+
 I servizi
 
 ## Cosa facciamo a Venezia
@@ -68020,6 +68992,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Venezia.
 
+Serve il parere della Soprintendenza per lavorare a Venezia?
+Per molti edifici vincolati sì, soprattutto se si interviene su facciate, serramenti, coperture o elementi storici. Verifichiamo i vincoli e prepariamo la documentazione.
+
+Come portate i materiali in centro storico?
+Con trasporti acquei organizzati da noi, depositi temporanei e orari concordati: il costo della logistica è indicato nel preventivo.
+
 Siete un’impresa edile di Venezia?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Venezia e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -68034,12 +69012,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Venezia?
 
@@ -68174,6 +69146,42 @@ Seguiamo cantieri a Verona, San Giovanni Lupatoto, Villafranca, San Bonifacio, B
 
 Zone in cui lavoriamo spesso: San Giovanni Lupatoto, Villafranca di Verona, San Bonifacio, Bussolengo, Pescantina, Negrar e gli altri comuni della zona (provincia di Verona).
 
+Le case di Verona
+
+## Cosa ristrutturiamo a Verona
+
+01
+
+## Appartamenti per affitti brevi
+
+Rinnovi pensati per i turisti: bagni efficienti, insonorizzazione, arredo resistente.
+
+02
+
+## Palazzi del centro storico
+
+Edifici con vincoli e cantieri in vie strette e ZTL.
+
+03
+
+## Condomini dei quartieri
+
+Impianti, bagni, cucine e serramenti.
+
+04
+
+## Hotel e strutture sul Garda
+
+Camere e aree comuni rinnovate fuori stagione.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Verona
+
+Lavoriamo in centro e a Veronetta, a Borgo Trento, Valdonega e San Zeno, nei quartieri di Borgo Roma, Borgo Venezia, Santa Lucia e Golosine e verso il Lago di Garda.
+
+Quartieri e frazioni: Borgo Trento, Borgo Roma, Borgo Venezia, Veronetta, San Zeno, Santa Lucia, Golosine, Valdonega. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 160 km da Verona.
+
 I servizi
 
 ## Cosa facciamo a Verona
@@ -68216,6 +69224,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Verona.
 
+Lavorate a Verona anche se siete in provincia di Treviso?
+Sì, per ristrutturazioni complete, hotel e appartamenti da affittare: organizziamo il cantiere con squadre dedicate e un referente unico.
+
+Ristrutturate appartamenti per affitti brevi a Verona?
+Sì, e possiamo seguire anche la gestione. Leggete la pagina sulla ristrutturazione e gestione degli affitti brevi.
+
 Siete un’impresa edile di Verona?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Verona e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -68230,12 +69244,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Verona?
 
@@ -68370,6 +69378,42 @@ Lavoriamo a Vicenza, Arzignano, Bassano del Grappa, Schio, Thiene, Valdagno e ne
 
 Zone in cui lavoriamo spesso: Bassano del Grappa, Schio, Thiene, Arzignano, Valdagno, Dueville e gli altri comuni della zona (provincia di Vicenza).
 
+Le case di Vicenza
+
+## Cosa ristrutturiamo a Vicenza
+
+01
+
+## Edifici del centro UNESCO
+
+Interventi su immobili di pregio con autorizzazioni per facciate e parti storiche.
+
+02
+
+## Condomini e appartamenti
+
+Ristrutturazioni complete per abitarci o affittare.
+
+03
+
+## Uffici e showroom
+
+Sedi aziendali rinnovate per le imprese vicentine.
+
+04
+
+## Ville e case in provincia
+
+Recupero di ville, barchesse e case singole con efficientamento.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Vicenza
+
+Lavoriamo nel centro storico attorno a Corso Palladio, nei quartieri di San Pio X, Laghetto, Anconetta, Ospedaletto, Campedello, Villaggio del Sole e Stanga e nei comuni della provincia.
+
+Quartieri e frazioni: centro storico palladiano, San Pio X, Laghetto, Anconetta, Ospedaletto, Campedello, Villaggio del Sole, Stanga. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 110 km da Vicenza.
+
 I servizi
 
 ## Cosa facciamo a Vicenza
@@ -68412,6 +69456,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Vicenza.
 
+Ristrutturate nel centro storico di Vicenza?
+Sì, verificando i vincoli dell’edificio e preparando le autorizzazioni necessarie per facciate, coperture e serramenti.
+
+Quanto distate da Vicenza?
+Circa 110 km. Per cantieri di questa distanza programmiamo le squadre in modo continuativo e un direttore di cantiere sempre raggiungibile.
+
 Siete un’impresa edile di Vicenza?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Vicenza e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -68426,12 +69476,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Vicenza?
 
@@ -68566,6 +69610,42 @@ Seguiamo cantieri a Vittorio Veneto, Colle Umberto, Cappella Maggiore, Revine La
 
 Zone in cui lavoriamo spesso: Colle Umberto, Cappella Maggiore, Revine Lago, Tarzo, Fregona, Sarmede e gli altri comuni della zona (Sinistra Piave).
 
+Le case di Vittorio Veneto
+
+## Cosa ristrutturiamo a Vittorio Veneto
+
+01
+
+## Palazzi di Serravalle e Ceneda
+
+Edifici storici con facciate e solai da recuperare.
+
+02
+
+## Case ai piedi delle Prealpi
+
+Case singole su terreni in pendenza, con umidità e drenaggi.
+
+03
+
+## Villette e bifamiliari
+
+Cappotto, serramenti, impianti e bagni.
+
+04
+
+## Case verso le colline del Prosecco
+
+Ristrutturazioni attente al paesaggio.
+
+Quartieri e frazioni
+
+## Dove lavoriamo a Vittorio Veneto
+
+Lavoriamo nei centri storici di Serravalle e Ceneda, nei quartieri di Costa e San Giacomo di Veglia e nelle frazioni di Formeniga, Carpesica e Fadalto.
+
+Quartieri e frazioni: Serravalle, Ceneda, Costa, San Giacomo di Veglia, Formeniga, Carpesica, Fadalto. La sede di Danova Real Estate è a Mansuè (Treviso), a circa 35 km da Vittorio Veneto.
+
 I servizi
 
 ## Cosa facciamo a Vittorio Veneto
@@ -68608,6 +69688,12 @@ FAQ
 
 ## Domande sulle ristrutturazioni a Vittorio Veneto.
 
+Ristrutturate nei centri storici di Serravalle e Ceneda?
+Sì, verificando vincoli e regole del Comune e preparando le autorizzazioni necessarie.
+
+Quanto distate da Vittorio Veneto?
+Circa 35 km dalla sede di Mansuè.
+
 Siete un’impresa edile di Vittorio Veneto?
 La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a Vittorio Veneto e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente.
 
@@ -68622,12 +69708,6 @@ Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, p
 
 Il sopralluogo è davvero gratuito?
 Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
-
-Cosa vuol dire prezzo bloccato?
-Che il prezzo scritto nel contratto è quello finale per i lavori descritti. Se in corso d’opera decidete voi di aggiungere o cambiare qualcosa, ve lo quotiamo prima per iscritto: nessuna voce extra compare in fattura senza il vostro sì.
-
-Come garantite i tempi?
-Data di inizio, data di consegna e fasi intermedie sono scritte nel contratto, con il cronoprogramma dei lavori. Le squadre e i materiali vengono pianificati prima di aprire il cantiere, così il calendario non dipende dalla disponibilità dell’ultimo minuto.
 
 ## Un immobile da ristrutturare a Vittorio Veneto?
 
@@ -83707,7 +84787,7 @@ Danova Real Estate
 ========================================================================
 # Sanatoria edilizia in Veneto e Friuli
 URL: https://danova-tech.com/sanatoria-edilizia/
-Descrizione: Sanatoria edilizia per difformità e piccoli abusi: verifica della conformità, CILA tardiva, accertamento di conformità e regole del Salva Casa, prima di vendere o ristrutturare.
+Descrizione: Sanatoria edilizia per difformità e piccoli abusi: verifica, CILA tardiva, accertamento di conformità e Salva Casa, prima di vendere o ristrutturare.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Sanatoria edilizia
@@ -83866,7 +84946,7 @@ Impresa edile: tutte le lavorazioni
 ========================================================================
 # Scale interne in Veneto e Friuli
 URL: https://danova-tech.com/scale-interne/
-Descrizione: Scale interne su misura in legno, acciaio, vetro o muratura, a giorno, a chiocciola o a sbalzo, anche con apertura del solaio e pratiche strutturali, in Veneto e Friuli.
+Descrizione: Scale interne su misura in legno, acciaio, vetro o muratura, a giorno, a chiocciola o a sbalzo, anche con apertura del solaio, in Veneto e Friuli.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Scale interne
@@ -91983,7 +93063,7 @@ Prezzi
 ========================================================================
 # Soppalchi in Veneto e Friuli
 URL: https://danova-tech.com/soppalchi/
-Descrizione: Soppalchi in legno, acciaio o laterocemento per case, mansarde, negozi e magazzini in Veneto e Friuli: progetto strutturale, pratiche edilizie, scale e parapetti.
+Descrizione: Soppalchi in legno, acciaio o laterocemento per case, mansarde, negozi e magazzini in Veneto e Friuli: progetto strutturale, pratiche, scale e parapetti.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Soppalchi
@@ -123761,7 +124841,7 @@ Allestimenti fieristici
 
 
 ========================================================================
-# Stucco veneziano e decorazioni in Veneto e Friuli
+# Stucco veneziano e decorazioni
 URL: https://danova-tech.com/stucco-veneziano-e-decorazioni/
 Descrizione: Stucco veneziano, marmorino, pitture a calce, velature ed effetti materici per case, negozi e hotel in Veneto e Friuli, applicati da decoratori esperti.
 ========================================================================
@@ -125134,9 +126214,9 @@ Allestimenti fieristici
 
 
 ========================================================================
-# Umidità di risalita: diagnosi e risanamento muri in Veneto e Friuli
+# Umidità di risalita: diagnosi e risanamento
 URL: https://danova-tech.com/umidita-di-risalita/
-Descrizione: Umidità di risalita e muri umidi: diagnosi delle cause, barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi per case e cantine in Veneto e Friuli.
+Descrizione: Umidità di risalita e muri umidi: diagnosi, barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi per case e cantine in Veneto e Friuli.
 ========================================================================
 
 Home / Real Estate / Impresa edile / Umidità di risalita

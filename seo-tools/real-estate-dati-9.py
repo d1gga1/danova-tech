@@ -38,7 +38,7 @@ GRUPPI_CITTA = [(g, [("Impresa edile %s" % c, "/ristrutturazioni-%s/" % _slug(c)
 # ================================================================== PILASTRO IMPRESA EDILE
 P(url="/impresa-edile/", hero="re-direttore-lavori", heroalt="Responsabile di cantiere dell’impresa edile con i disegni del progetto",
  title="Impresa edile in Veneto e Friuli | Tutte le lavorazioni edili",
- desc="Impresa edile in Veneto e Friuli: ristrutturazioni, muratura, cartongesso, imbiancature, bagni, impianti, tetti, cappotto, microcemento, resine, pergole e pratiche. Sopralluogo gratuito.",
+ desc="Impresa edile in Veneto e Friuli: ristrutturazioni, muratura, cartongesso, bagni, tetti, cappotto, impermeabilizzazioni e pratiche. Sopralluogo gratuito.",
  ogtitle="Impresa edile in Veneto e Friuli", ogdesc="Tutte le lavorazioni edili con un solo referente, un prezzo bloccato e i tempi nel contratto.",
  crumbs=[RE, ("Impresa edile", None)], eyebrow="Impresa edile · Veneto e Friuli",
  h1=f"Impresa edile in Veneto e Friuli: {G}tutte le lavorazioni, un solo referente.{_G}",
@@ -161,7 +161,7 @@ P(url="/impresa-edile/", hero="re-direttore-lavori", heroalt="Responsabile di ca
 # ================================================================== GUIDA: BAGNO
 PG(url="/guide/quanto-costa-rifare-il-bagno/", hero="re-bagno2-nuovo", heroalt="Bagno rifatto con doccia walk-in e sanitari sospesi",
  title="Quanto costa rifare il bagno: le voci che fanno il prezzo",
- desc="Quanto costa rifare il bagno: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, le voci che pesano di più sul preventivo e come risparmiare.",
+ desc="Quanto costa rifare il bagno: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia. Le voci che pesano sul preventivo e come risparmiare.",
  ogtitle="Quanto costa rifare il bagno", ogdesc="Le voci del preventivo del bagno e cosa le fa salire o scendere.",
  crumbs=[GUIDE, ("Quanto costa rifare il bagno", None)], eyebrow="Guida · Costi del bagno",
  h1=f"Quanto costa rifare il bagno: {G}le voci che fanno il prezzo.{_G}",
@@ -318,7 +318,7 @@ PG(url="/guide/quanto-costa-imbiancare-casa/", hero="re-imbianchino", heroalt="I
 # ================================================================== GUIDA: TETTO
 PG(url="/guide/quanto-costa-rifare-il-tetto/", hero="re-tetto-cantiere", heroalt="Cantiere di rifacimento di un tetto con isolamento e tegole",
  title="Quanto costa rifare il tetto: interventi e voci di costo",
- desc="Quanto costa rifare il tetto: differenza tra sostituzione delle tegole, tetto isolato, tetto ventilato e interventi strutturali, ponteggi, eternit, pratiche e bonus.",
+ desc="Quanto costa rifare il tetto: tegole, tetto isolato o ventilato, interventi strutturali, ponteggi, eternit, pratiche e bonus. Le voci del preventivo.",
  ogtitle="Quanto costa rifare il tetto", ogdesc="Dalla sola sostituzione delle tegole al tetto ventilato con nuova struttura.",
  crumbs=[GUIDE, ("Quanto costa rifare il tetto", None)], eyebrow="Guida · Costi del tetto",
  h1=f"Quanto costa rifare il tetto: {G}interventi e voci di costo.{_G}",

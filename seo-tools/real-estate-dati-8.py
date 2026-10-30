@@ -204,7 +204,7 @@ P(url="/impianti-elettrici-e-idraulici/", hero="re-cantiere-cartongesso", heroal
 # Squadre esterne di fiducia (nessun dipendente in cantiere), artigiani attivi da generazioni, nessun nome di referente pubblicato.
 P(url="/real-estate/chi-siamo/", hero="re-direttore-lavori", heroalt="Responsabile di cantiere che controlla i lavori con il cliente",
  title="Chi siamo | Danova Real Estate, impresa edile in Veneto e Friuli",
- desc="Danova Real Estate coordina ristrutturazioni e lavori edili in Veneto e Friuli con artigiani locali di fiducia, attivi da generazioni: un contratto, un referente.",
+ desc="Danova Real Estate coordina ristrutturazioni e lavori edili in Veneto e Friuli con artigiani locali di fiducia: un contratto, un solo referente.",
  ogtitle="Chi siamo — Danova Real Estate", ogdesc="Un unico referente e una rete di artigiani di fiducia, attivi da generazioni, in Veneto e Friuli.",
  crumbs=[RE, ("Chi siamo", None)], eyebrow="Chi siamo · Danova Real Estate",
  h1=f"Artigiani di fiducia da generazioni, {G}un solo referente.{_G}",

@@ -16,7 +16,7 @@ PREV = "Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preve
 # ------------------------------------------------------------------ MICROCEMENTO
 P(url="/microcemento/", hero="re-bagno-nuovo", heroalt="Bagno con doccia e pareti in microcemento senza fughe",
  title="Microcemento in Veneto e Friuli | Pavimenti, bagni e pareti",
- desc="Microcemento per pavimenti, pareti, bagni, docce, cucine e scale in Veneto e Friuli: superfici continue senza fughe, anche sopra le piastrelle esistenti. Sopralluogo gratuito.",
+ desc="Microcemento per pavimenti, pareti, bagni, docce, cucine e scale in Veneto e Friuli: superfici senza fughe, anche sopra le piastrelle esistenti.",
  ogtitle="Microcemento", ogdesc="Superfici continue senza fughe, anche sopra le vecchie piastrelle.",
  crumbs=[RE, IE, ("Microcemento", None)], eyebrow="Microcemento · Veneto e Friuli",
  h1=f"Microcemento: {G}superfici continue, senza fughe.{_G}",
@@ -60,7 +60,7 @@ P(url="/microcemento/", hero="re-bagno-nuovo", heroalt="Bagno con doccia e paret
 # ------------------------------------------------------------------ RESINA
 P(url="/pavimenti-in-resina/", hero="re-soggiorno-nuovo", heroalt="Soggiorno con pavimento continuo in resina chiara",
  title="Pavimenti in resina in Veneto e Friuli | Case, negozi e garage",
- desc="Pavimenti in resina per case, negozi, uffici, garage e laboratori in Veneto e Friuli: autolivellante, epossidica o poliuretanica, anche sopra il pavimento esistente.",
+ desc="Pavimenti in resina per case, negozi, uffici, garage e laboratori in Veneto e Friuli: epossidica o poliuretanica, anche sopra il pavimento esistente.",
  ogtitle="Pavimenti in resina", ogdesc="Pavimenti continui e resistenti per casa, negozio, garage e laboratorio.",
  crumbs=[RE, IE, ("Pavimenti in resina", None)], eyebrow="Resina · Veneto e Friuli",
  h1=f"Pavimenti in resina: {G}continui, resistenti, facili da pulire.{_G}",
@@ -103,8 +103,8 @@ P(url="/pavimenti-in-resina/", hero="re-soggiorno-nuovo", heroalt="Soggiorno con
 
 # ------------------------------------------------------------------ PERGOLE E TETTOIE
 P(url="/pergole-e-tettoie/", hero="re-hotel-garda-terrazza", heroalt="Terrazza con pergola e zona pranzo all’aperto",
- title="Pergole e tettoie in Veneto e Friuli | Legno, alluminio, bioclimatiche",
- desc="Pergole in legno e alluminio, pergole bioclimatiche, pergotende e tettoie per case, ristoranti e hotel in Veneto e Friuli, con pratiche edilizie comprese. Sopralluogo gratuito.",
+ title="Pergole e tettoie | Legno, alluminio, bioclimatiche",
+ desc="Pergole in legno e alluminio, bioclimatiche, pergotende e tettoie per case, ristoranti e hotel in Veneto e Friuli, con pratiche edilizie comprese.",
  ogtitle="Pergole e tettoie", ogdesc="Pergole su misura, bioclimatiche e tettoie, con fondazioni e pratiche.",
  crumbs=[RE, IE, ("Pergole e tettoie", None)], eyebrow="Pergole e tettoie · Veneto e Friuli",
  h1=f"Pergole e tettoie: {G}l’esterno diventa una stanza in più.{_G}",
@@ -147,7 +147,7 @@ P(url="/pergole-e-tettoie/", hero="re-hotel-garda-terrazza", heroalt="Terrazza c
 # ------------------------------------------------------------------ PORTE BLINDATE
 P(url="/porte-blindate/", hero="re-montaggio-porte", heroalt="Posatore che monta una porta d’ingresso blindata",
  title="Porte blindate in Veneto e Friuli | Fornitura e posa certificata",
- desc="Porte blindate certificate in classe antieffrazione, con isolamento termico e acustico, rivestimenti su misura e sostituzione del vecchio portoncino in Veneto e Friuli.",
+ desc="Porte blindate certificate antieffrazione, con isolamento termico e acustico, rivestimenti su misura e sostituzione del portoncino in Veneto e Friuli.",
  ogtitle="Porte blindate", ogdesc="Porte di sicurezza certificate, isolate e su misura, posate a regola d’arte.",
  crumbs=[RE, IE, ("Porte blindate", None)], eyebrow="Porte blindate · Veneto e Friuli",
  h1=f"Porte blindate: {G}sicurezza certificata, posa a regola d’arte.{_G}",
@@ -191,7 +191,7 @@ P(url="/porte-blindate/", hero="re-montaggio-porte", heroalt="Posatore che monta
 # ------------------------------------------------------------------ SOPPALCHI
 P(url="/soppalchi/", hero="re-divisori-dopo", heroalt="Appartamento con soppalco in legno e acciaio",
  title="Soppalchi in Veneto e Friuli | Legno, acciaio e laterocemento",
- desc="Soppalchi in legno, acciaio o laterocemento per case, mansarde, negozi e magazzini in Veneto e Friuli: progetto strutturale, pratiche edilizie, scale e parapetti.",
+ desc="Soppalchi in legno, acciaio o laterocemento per case, mansarde, negozi e magazzini in Veneto e Friuli: progetto strutturale, pratiche, scale e parapetti.",
  ogtitle="Soppalchi", ogdesc="Metri quadri in più dove c’è altezza, con progetto strutturale e pratiche.",
  crumbs=[RE, IE, ("Soppalchi", None)], eyebrow="Soppalchi · Veneto e Friuli",
  h1=f"Soppalchi: {G}metri quadri in più dove c’è altezza.{_G}",
@@ -233,7 +233,7 @@ P(url="/soppalchi/", hero="re-divisori-dopo", heroalt="Appartamento con soppalco
 # ------------------------------------------------------------------ SCALE INTERNE
 P(url="/scale-interne/", hero="re-soggiorno-dopo", heroalt="Soggiorno con scala interna moderna",
  title="Scale interne in Veneto e Friuli | Legno, acciaio e muratura",
- desc="Scale interne su misura in legno, acciaio, vetro o muratura, a giorno, a chiocciola o a sbalzo, anche con apertura del solaio e pratiche strutturali, in Veneto e Friuli.",
+ desc="Scale interne su misura in legno, acciaio, vetro o muratura, a giorno, a chiocciola o a sbalzo, anche con apertura del solaio, in Veneto e Friuli.",
  ogtitle="Scale interne", ogdesc="Scale su misura, dalla progettazione all’apertura del solaio.",
  crumbs=[RE, IE, ("Scale interne", None)], eyebrow="Scale interne · Veneto e Friuli",
  h1=f"Scale interne: {G}su misura, dal solaio all’ultimo gradino.{_G}",
@@ -275,7 +275,7 @@ P(url="/scale-interne/", hero="re-soggiorno-dopo", heroalt="Soggiorno con scala 
 # ------------------------------------------------------------------ CERCHIATURA
 P(url="/cerchiatura-muro-portante/", hero="re-muratore", heroalt="Muratore al lavoro su un’apertura in un muro portante",
  title="Cerchiatura e apertura muro portante in Veneto e Friuli",
- desc="Aprire o allargare un vano in un muro portante: cerchiatura in acciaio o cemento armato, calcolo strutturale, pratica sismica ed edilizia, opere murarie e finiture.",
+ desc="Aprire o allargare un vano nel muro portante: cerchiatura in acciaio o cemento armato, calcolo strutturale, pratiche sismiche ed edilizie, finiture.",
  ogtitle="Cerchiatura e apertura muro portante", ogdesc="Aprire un muro portante in sicurezza, con calcolo, pratiche e cantiere.",
  crumbs=[RE, IE, ("Cerchiatura muro portante", None)], eyebrow="Cerchiatura · Veneto e Friuli",
  h1=f"Aprire un muro portante: {G}cerchiatura, calcolo e pratiche.{_G}",
@@ -317,8 +317,8 @@ P(url="/cerchiatura-muro-portante/", hero="re-muratore", heroalt="Muratore al la
 
 # ------------------------------------------------------------------ UMIDITA' DI RISALITA
 P(url="/umidita-di-risalita/", hero="re-facciata-cantiere", heroalt="Cantiere di risanamento della base di un muro umido",
- title="Umidità di risalita: diagnosi e risanamento muri in Veneto e Friuli",
- desc="Umidità di risalita e muri umidi: diagnosi delle cause, barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi per case e cantine in Veneto e Friuli.",
+ title="Umidità di risalita: diagnosi e risanamento | Veneto e Friuli",
+ desc="Umidità di risalita e muri umidi: diagnosi, barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi per case e cantine in Veneto e Friuli.",
  ogtitle="Umidità di risalita", ogdesc="Prima la diagnosi, poi il rimedio giusto per muri umidi e salnitro.",
  crumbs=[RE, IE, ("Umidità di risalita", None)], eyebrow="Muri umidi · Veneto e Friuli",
  h1=f"Umidità di risalita: {G}prima la diagnosi, poi il rimedio.{_G}",
@@ -360,7 +360,7 @@ P(url="/umidita-di-risalita/", hero="re-facciata-cantiere", heroalt="Cantiere di
 
 # ------------------------------------------------------------------ AMIANTO / ETERNIT
 P(url="/rimozione-amianto-eternit/", hero="re-tetto-cantiere", heroalt="Cantiere di rifacimento di una copertura dopo la rimozione dell’eternit",
- title="Rimozione amianto ed eternit in Veneto e Friuli | Bonifica e nuovo tetto",
+ title="Rimozione amianto ed eternit | Bonifica e nuovo tetto",
  desc="Rimozione e smaltimento di coperture in eternit (cemento-amianto) con ditte autorizzate, piano di lavoro all’ASL, e rifacimento del tetto in Veneto e Friuli.",
  ogtitle="Rimozione amianto ed eternit", ogdesc="Bonifica a norma con ditte autorizzate e nuovo tetto isolato, con un solo referente.",
  crumbs=[RE, IE, ("Rimozione amianto ed eternit", None)], eyebrow="Eternit · Veneto e Friuli",
@@ -404,7 +404,7 @@ P(url="/rimozione-amianto-eternit/", hero="re-tetto-cantiere", heroalt="Cantiere
 # ------------------------------------------------------------------ SANATORIA
 P(url="/sanatoria-edilizia/", hero="re-direttore-lavori", heroalt="Tecnico che controlla planimetrie e documenti di un immobile",
  title="Sanatoria edilizia in Veneto e Friuli | Difformità e Salva Casa",
- desc="Sanatoria edilizia per difformità e piccoli abusi: verifica della conformità, CILA tardiva, accertamento di conformità e regole del Salva Casa, prima di vendere o ristrutturare.",
+ desc="Sanatoria edilizia per difformità e piccoli abusi: verifica, CILA tardiva, accertamento di conformità e Salva Casa, prima di vendere o ristrutturare.",
  ogtitle="Sanatoria edilizia", ogdesc="Regolarizzare l’immobile prima di vendere, comprare o ristrutturare.",
  crumbs=[RE, IE, ("Sanatoria edilizia", None)], eyebrow="Sanatoria · Veneto e Friuli",
  h1=f"Sanatoria edilizia: {G}l’immobile in regola, prima di vendere o ristrutturare.{_G}",
@@ -447,7 +447,7 @@ P(url="/sanatoria-edilizia/", hero="re-direttore-lavori", heroalt="Tecnico che c
 
 # ------------------------------------------------------------------ STUCCO VENEZIANO
 P(url="/stucco-veneziano-e-decorazioni/", hero="re-imbianchino", heroalt="Decoratore che applica lo stucco veneziano su una parete",
- title="Stucco veneziano e decorazioni in Veneto e Friuli | Marmorino e calce",
+ title="Stucco veneziano e decorazioni | Marmorino e calce",
  desc="Stucco veneziano, marmorino, pitture a calce, velature ed effetti materici per case, negozi e hotel in Veneto e Friuli, applicati da decoratori esperti.",
  ogtitle="Stucco veneziano e decorazioni", ogdesc="Pareti lucide come il marmo o materiche a calce, applicate a mano.",
  crumbs=[RE, IE, ("Stucco veneziano e decorazioni", None)], eyebrow="Decorazioni · Veneto e Friuli",

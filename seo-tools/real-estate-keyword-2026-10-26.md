@@ -131,3 +131,10 @@ lavori per chi vende, ristrutturazione e gestione affitti brevi (NO mediazione).
 /fotovoltaico-e-pompa-di-calore/, /cabine-armadio-pareti-attrezzate-e-boiserie/, /cambio-destinazione-d-uso-e-ape/, /muffa-e-infiltrazioni/,
 /home-staging/, /compriamo-case-da-ristrutturare/, /ristrutturazione-e-gestione-affitti-brevi/.
 Collegate da /real-estate/ (gruppi nuovi), /impresa-edile/, footer IT, llms.txt e 9 pagine correlate. Da valutare: versioni EN/DE/RO/SQ/HI.
+
+## 9. Search Console (30/10/2026) e pagine città
+Search Console (account Google Ads, authuser=3): sezione troppo nuova per dati di ricerca utili; "general contractor padova" già in posizione ~5.
+Indicizzazione: ~160 pagine Real Estate "scansionate ma non indicizzate" (IT 41, EN 33, DE 33, SQ 30, RO 27), anche /real-estate/ e servizi principali.
+Pagine città IT uguali al 63-74% (shingle 6 parole). Fatto: real-estate-citta-locali.py (30 città: tipi di case, quartieri/frazioni, km da Mansuè,
+2 FAQ locali; regole FVG LR 19/2009) + real-estate-patch-2026-10-30d.py -> somiglianza mediana 45%. Titoli/description fuori misura: patch 30e.
+Lingue: il titolare ha scelto di lasciarle tutte indicizzabili. GBP: esiste solo la scheda Danova Tech (non dell'impresa edile).

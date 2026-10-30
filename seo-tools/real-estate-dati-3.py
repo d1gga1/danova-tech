@@ -224,6 +224,8 @@ import importlib.util as _iuN
 _spN = _iuN.spec_from_file_location('recn', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-nuove.py'))
 _CN = _iuN.module_from_spec(_spN); _spN.loader.exec_module(_CN)  # 26/10/2026: nuove citta
 CITTA += _CN.citta('it')
+_spL = _iuN.spec_from_file_location('reloc', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-citta-locali.py'))
+_LM = _iuN.module_from_spec(_spL); _spL.loader.exec_module(_LM); LOC = _LM.LOC  # 30/10/2026: contenuti locali
 for nome, slug, area, hero, p1, p2, zone in CITTA:
     P(url="/ristrutturazioni-%s/" % slug, hero=hero,
       title="Ristrutturazioni a %s chiavi in mano | Danova Real Estate" % nome,
@@ -241,6 +243,9 @@ for nome, slug, area, hero, p1, p2, zone in CITTA:
                   {"prima": "re-bagno-prima", "dopo": "re-bagno-nuovo", "titolo": "Bagno", "testo": "Doccia walk-in, lastre grigio pietra, sanitari sospesi."}]},
        {"id": "territorio", "tipo": "testo", "eyebrow": "Ristrutturare a %s" % nome, "h2": f"Impresa edile a {nome}: {G}conosciamo il territorio{_G}",
         "corpo": [p1, p2, "Zone in cui lavoriamo spesso: %s e gli altri comuni della zona (%s)." % (", ".join(zone), area)]},
+       *([{"id": "case", "tipo": "cards", "eyebrow": "Le case di %s" % nome, "h2": f"Cosa ristrutturiamo {G}a {nome}{_G}", "corpo": LOC[slug]["case"]},
+          {"id": "quartieri", "tipo": "testo", "eyebrow": "Quartieri e frazioni", "h2": f"Dove lavoriamo {G}a {nome}{_G}",
+           "corpo": [LOC[slug]["qtesto"], "Quartieri e frazioni: %s. La sede di Danova Real Estate è a Mansuè (Treviso), a circa %d km da %s." % (", ".join(LOC[slug]["quartieri"]), LOC[slug]["km"], nome)]}] if slug in LOC else []),
        {"id": "servizi", "tipo": "link", "eyebrow": "I servizi", "h2": f"Cosa facciamo {G}a {nome}{_G}",
         "gruppi": [("", [("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/", "Progetto, pratiche, lavori e consegna con un solo referente."),
                          ("Rifacimento bagno", "/ristrutturazione-bagno/", "Bagno moderno in pochi giorni di cantiere."),
@@ -257,10 +262,10 @@ for nome, slug, area, hero, p1, p2, zone in CITTA:
                   ("Pratiche e bonus", "Titoli edilizi presso il Comune e documenti per le detrazioni."),
                   ("Cantiere e consegna", "Squadre coordinate, aggiornamenti settimanali, pulizia e chiavi in mano.")]}],
       faqtitle=f"Domande sulle ristrutturazioni {G}a {nome}.{_G}",
-      faq=[("Siete un’impresa edile di %s?" % nome, "La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a %s e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente." % nome),
+      faq=(LOC[slug]["faq"] if slug in LOC else []) + [("Siete un’impresa edile di %s?" % nome, "La sede di Danova Real Estate è a Mansuè (Treviso) e lavoriamo a %s e nei comuni vicini come impresa edile e general contractor: squadre interne di muratori, cartongessisti e posatori, una rete di artigiani selezionati per impianti elettrici, idraulici e lavorazioni speciali, tutti coordinati da un unico referente." % nome),
            ("Fate sopralluoghi a %s?" % nome, "Sì, il sopralluogo a %s e nei comuni vicini è gratuito e senza impegno. Dopo la visita ricevete un preventivo scritto, voce per voce." % nome),
            ("Vi occupate delle pratiche con il Comune di %s?" % nome, "Sì: verifichiamo la situazione urbanistica dell’immobile e presentiamo CILA o SCIA secondo i lavori, oltre ai documenti per le detrazioni fiscali."),
-           ("Quali bonus spettano nel 2026?", "Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, per gli altri immobili del 36%, con tetto di spesa di 96.000 euro per unità. Leggete la pagina sul bonus ristrutturazione 2026.")] + FAQ_BASE[:3],
+           ("Quali bonus spettano nel 2026?", "Per la ristrutturazione dell’abitazione principale la detrazione è del 50%, per gli altri immobili del 36%, con tetto di spesa di 96.000 euro per unità. Leggete la pagina sul bonus ristrutturazione 2026.")] + FAQ_BASE[:1],
       ctabox={"h2": "Un immobile da ristrutturare a %s?" % nome, "p": "Scriveteci indirizzo o zona e cosa volete rinnovare: fissiamo il sopralluogo gratuito.", "btn": "Prenota il sopralluogo"},
       altrititle="Pagine collegate",
       altri=[("Danova Real Estate", "/real-estate/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"), ("Rifacimento bagno", "/ristrutturazione-bagno/"),
