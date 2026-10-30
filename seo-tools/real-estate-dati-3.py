@@ -59,7 +59,7 @@ P(url="/ristrutturazione-bagno/", hero="re-bagno-nuovo", herovid="re-pd-bagno-nu
       ("Fate anche bagni per hotel e B&B?", "Sì, con materiali resistenti all’uso intensivo e lavori organizzati per lotti di camere in bassa stagione.")] + FAQ_BASE[:2],
  ctabox={"h2": "Pronti per un bagno nuovo?", "p": "Mandateci una foto del bagno attuale e la città: fissiamo il sopralluogo gratuito.", "btn": "Rifacciamo il bagno"},
  altrititle="Pagine collegate",
- altri=[("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/"), ("Guida: rifare il bagno", "/guide/come-rifare-il-bagno/"), ("Ristrutturazione appartamenti e case", "/ristrutturazione-appartamenti-e-case/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"), ("Pareti divisorie", "/pareti-divisorie/"),
+ altri=[("Bagno per disabili e anziani", "/abbattimento-barriere-architettoniche/"), ("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/"), ("Guida: rifare il bagno", "/guide/come-rifare-il-bagno/"), ("Ristrutturazione appartamenti e case", "/ristrutturazione-appartamenti-e-case/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"), ("Pareti divisorie", "/pareti-divisorie/"),
         ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"), ("Mobili su misura", "/mobili-su-misura/"), ("Ristrutturazione hotel", "/ristrutturazione-hotel/")],
  svc=svc("Rifacimento bagno chiavi in mano", "Ristrutturazione bagno",
          "Rifacimento del bagno chiavi in mano in Veneto e Friuli: demolizione, impianti, impermeabilizzazione, pavimenti e rivestimenti, doccia walk-in o vasca, sanitari sospesi, mobile e specchio, con prezzo bloccato e documenti per le detrazioni.",

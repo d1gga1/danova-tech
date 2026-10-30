@@ -4,6 +4,28 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
+    <loc>https://danova-tech.com/abbattimento-barriere-architettoniche/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/abbattimento-barriere-architettoniche/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/abbattimento-barriere-architettoniche/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/adeguamento-sismico-e-consolidamento/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/adeguamento-sismico-e-consolidamento/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/adeguamento-sismico-e-consolidamento/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/agenzia-link-building/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/agenzia-link-building/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/agenzia-link-building/"/>
@@ -948,6 +970,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/cabine-armadio-pareti-attrezzate-e-boiserie/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/cabine-armadio-pareti-attrezzate-e-boiserie/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cabine-armadio-pareti-attrezzate-e-boiserie/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-divisori-dopo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/calendario-fiere-agricoltura/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/calendario-fiere-agricoltura/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/calendario-fiere-agricoltura/"/>
@@ -1083,6 +1116,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/cambio-destinazione-d-uso-e-ape/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/cambio-destinazione-d-uso-e-ape/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cambio-destinazione-d-uso-e-ape/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/cappotto-termico/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/cappotto-termico/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/external-wall-insulation/"/>
@@ -1199,6 +1243,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/compriamo-case-da-ristrutturare/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/compriamo-case-da-ristrutturare/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/compriamo-case-da-ristrutturare/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-prima-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/consulente-seo-treviso/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/consulente-seo-treviso/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/consulente-seo-treviso/"/>
@@ -1271,6 +1326,17 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/politika-e-cookie-ve/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/cookie-policy/"/>
     <lastmod>2026-10-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/costruzione-case-e-ampliamenti/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/costruzione-case-e-ampliamenti/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/costruzione-case-e-ampliamenti/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4095,6 +4161,17 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/demolizioni-e-sgomberi/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/demolizioni-e-sgomberi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/demolizioni-e-sgomberi/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-muratore-1200.webp</image:loc>
+    </image:image>
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -8711,6 +8788,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/fotovoltaico-e-pompa-di-calore/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/fotovoltaico-e-pompa-di-calore/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/fotovoltaico-e-pompa-di-calore/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/fr/a-propos/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/chi-siamo/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/about/"/>
@@ -9783,6 +9871,17 @@
       <image:loc>https://danova-tech.com/assets/img/stand/grafica-stand-tessuto-stampato.webp</image:loc>
     </image:image>
     <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/grondaie-lattoneria-e-linea-vita/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/grondaie-lattoneria-e-linea-vita/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/grondaie-lattoneria-e-linea-vita/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12369,6 +12468,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/home-staging/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/home-staging/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/home-staging/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-dopo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/hotel-chiavi-in-mano/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/hotel-chiavi-in-mano/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/turnkey-hotel/"/>
@@ -12422,6 +12532,17 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/impermeabilizzazioni/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/impermeabilizzazioni/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/impermeabilizzazioni/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
+    </image:image>
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -12803,6 +12924,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/moquette-per-stand-fieristici/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/moquette-per-stand-fieristici/"/>
     <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/muffa-e-infiltrazioni/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/muffa-e-infiltrazioni/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/muffa-e-infiltrazioni/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-imbianchino-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13597,6 +13729,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/recinzioni-piscine-e-box-auto/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/recinzioni-piscine-e-box-auto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/recinzioni-piscine-e-box-auto/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/restyling-sito-web/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/restyling-sito-web/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/restyling-sito-web/"/>
@@ -13729,6 +13872,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/ristrutturazione-casali-e-rustici/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/ristrutturazione-casali-e-rustici/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/ristrutturazione-casali-e-rustici/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-facciata-dopo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/ristrutturazione-condomini-e-capannoni/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/ristrutturazione-condomini-e-capannoni/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/apartment-building-industrial-renovation/"/>
@@ -13751,6 +13905,17 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/ristrutturazione-e-gestione-affitti-brevi/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/ristrutturazione-e-gestione-affitti-brevi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/ristrutturazione-e-gestione-affitti-brevi/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-camera-hotel-mare-1200.webp</image:loc>
+    </image:image>
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

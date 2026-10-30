@@ -1,0 +1,40 @@
+immagini convertite: 0
+video convertiti: 0
+pagine Real Estate generate: 525 {'it': 120, 'de': 81, 'en': 81, 'hi': 81, 'ro': 81, 'sq': 81}
+== post-build-contatti
+script contatto.js aggiunto: 0 | box finali trasformati in modulo: 524 | sezioni modulo aggiunte: 9 | pagine Contatti: 0 | sostituzioni moduli fiere: 0 | pulsanti puntati al modulo della pagina: 281
+== post-build-velocita
+Pagine aggiornate: 0 | site.css aggiornato: False
+== schema-licenza-eventi
+File aggiornati: 525 | ImageObject con licenza aggiunta: 525 | Eventi con descrizione aggiunta: 0
+== org-descrizione
+descrizione aggiunta: nessuna pagina da aggiornare
+== patch-2026-10-17-facebook
+sameAs 0 footer 0
+== patch-2026-10-17-instagram
+{'sameas': 0, 'footer': 0, 'relfix': 0, 'nofooter': []}
+== patch-2026-10-17-tiktok
+sameAs 0 footer 0
+== whatsapp-2026-10-23
+pagine aggiornate: 243 - senza </body> saltate: 0
+== menu-video-2026-10-23
+pagine con la voce Video nel menu: 0
+== real-estate-legale
+pagine legali RO/SQ/HI: 9 | hreflang aggiunti alle pagine IT/EN/DE: 0
+== real-estate-sito
+pagine aggiornate (menu/footer/home): 255
+== real-estate-guide
+indice guide: 13 guide Real Estate
+== real-estate-llms
+llms.txt: sezione Real Estate aggiornata
+== real-estate-tema
+real-estate.css generato; pagine con il tema applicato: 534
+== real-estate-chrome
+cornice Real Estate nella lingua della pagina: 534
+== real-estate-seo
+SEO Real Estate: pagine aggiornate 486 | description accorciate 455 | blocchi "dove lavoriamo" 336
+== genera-sitemap
+sitemap.xml: 1262 pagine, 2207 immagini, 367 video dichiarati
+== genera-feed-e-llms
+feed.xml: 46 voci
+llms-full.txt: 835 pagine, 6255 KB

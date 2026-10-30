@@ -104,3 +104,30 @@ NESSUN PREZZO PUBBLICATO (confermato dal titolare il 30/10/2026). Fatto (real-es
 - Cartongesso: 9 lavorazioni in piu' (pareti attrezzate, nicchie, ribassati, bagno, mansarde, insonorizzazione, contropareti, scorrevoli, finitura).
 - (b) real-estate-patch-2026-10-30b.py: le 11 lavorazioni nella pagina principale /real-estate/ (gruppo "Superfici, strutture e risanamento"),
   tutte nel footer IT (prima solo 4), e link da /porte-interne-e-blindate/ alla pagina /porte-blindate/. Nessun prezzo.
+
+## 8. Terza ricerca Google Ads (30/10/2026) — lavorazioni non ancora sul sito
+Fonte: Keyword Planner nel Chrome del titolare, account DANOVA TECH. Italia, ott 2025 – set 2026. 115 keyword misurate + 2.957 idee da 10 seed.
+
+10K–100K: boiserie, cabina armadio, parete attrezzata, porte scorrevoli, case in legno, case prefabbricate, casette in legno da giardino,
+  cancelli, pergola bioclimatica, rivestimento bagno, box doccia, piatto doccia, zanzariere, pompa di calore, impianto fotovoltaico.
+1K–10K: abbattimento barriere architettoniche (+ tante varianti), bagno per disabili, montascale, demolizioni / demolizione, sgombero cantine,
+  impermeabilizzazione, impermeabilizzazione doccia, frontalini balconi, ristrutturazione casale (+ costi), cambio destinazione d'uso,
+  certificazione energetica APE, diagnosi energetica, home staging, muffa sui muri, ricerca perdite acqua, vespaio aerato, massetto, intonaco,
+  controsoffitto, isolamento acustico, armadi su misura, cucine su misura, porte filo muro, grondaie, lattoniere, linea vita tetto,
+  piscina interrata, recinzioni, box auto, garage prefabbricato, nuove costruzioni, caminetto, canna fumaria, sostituzione caldaia,
+  riscaldamento a pavimento, VMC, domotica casa, impianto allarme, climatizzatore installazione, persiane alluminio, infissi pvc,
+  piastrellista, fossa biologica, certificazione impianto elettrico, manutenzione straordinaria.
+100–1K: adeguamento/miglioramento sismico, consolidamento solaio, rinforzo strutturale, sismabonus, ampliamento casa, sopraelevazione,
+  costruzione case/piscine, ascensore casa, bagno per anziani, bonus barriere 75, impermeabilizzazione tetto/fondazioni/muri controterra/piscina,
+  poliurea, rifacimento balconi, ristrutturazione rustico/casa vecchia/villa/mansarda/cantina/cucina, levigatura e posa parquet, posa piastrelle,
+  rasatura pareti, sostituzione finestre, tapparelle motorizzate, stufa a pellet, chiusura veranda, manutenzione condominio,
+  pulizia fine cantiere, scavi e movimento terra, allacciamento fognatura, muretto di recinzione, lucernari velux, insonorizzazione.
+Bassi (10–100): frazionamento appartamento, ristrutturazione b&b/bar/farmacia/palestra/studio medico/taverna, vetrate verande, vialetto autobloccanti.
+Fatto il 30/10/2026 (real-estate-dati-11.py + real-estate-patch-2026-10-30c.py, solo IT, nessun prezzo). Confermato dal titolare: SOLO Veneto e FVG;
+garanzia scritta sui lavori; cantiere assicurato RC e CAR; case in legno con partner per la struttura; acquisto diretto di case da ristrutturare,
+lavori per chi vende, ristrutturazione e gestione affitti brevi (NO mediazione). Bonus 2026: barriere 75% scaduto 31/12/2025; sismabonus 50%/36%.
+15 pagine: /abbattimento-barriere-architettoniche/, /impermeabilizzazioni/, /demolizioni-e-sgomberi/, /adeguamento-sismico-e-consolidamento/,
+/costruzione-case-e-ampliamenti/, /ristrutturazione-casali-e-rustici/, /recinzioni-piscine-e-box-auto/, /grondaie-lattoneria-e-linea-vita/,
+/fotovoltaico-e-pompa-di-calore/, /cabine-armadio-pareti-attrezzate-e-boiserie/, /cambio-destinazione-d-uso-e-ape/, /muffa-e-infiltrazioni/,
+/home-staging/, /compriamo-case-da-ristrutturare/, /ristrutturazione-e-gestione-affitti-brevi/.
+Collegate da /real-estate/ (gruppi nuovi), /impresa-edile/, footer IT, llms.txt e 9 pagine correlate. Da valutare: versioni EN/DE/RO/SQ/HI.

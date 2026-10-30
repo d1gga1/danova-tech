@@ -353,7 +353,7 @@ P(url="/umidita-di-risalita/", hero="re-facciata-cantiere", heroalt="Cantiere di
       ("Il risanamento rientra nel bonus?", "Spesso sì, se fa parte di un intervento di manutenzione straordinaria con pratica edilizia; lo verifica il tecnico caso per caso."),
       ("Quanto costa eliminare l’umidità di risalita?", "Dipende da metri di muro, muratura e rimedio scelto. " + PREV)] + FAQ_BASE[:1],
  ctabox={"h2": "Muri umidi o salnitro?", "p": "Mandateci qualche foto: fissiamo il sopralluogo con la diagnosi.", "btn": "Richiedi il sopralluogo gratuito"},
- altri=[("Muratore e opere murarie", "/muratore-e-opere-murarie/"), ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/"), ("Guida: cappotto termico interno", "/guide/cappotto-termico-interno/"),
+ altri=[("Muffa e infiltrazioni", "/muffa-e-infiltrazioni/"), ("Muratore e opere murarie", "/muratore-e-opere-murarie/"), ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/"), ("Guida: cappotto termico interno", "/guide/cappotto-termico-interno/"),
         ("Pavimentazioni esterne e terrazzi", "/pavimentazioni-esterne/"), ("Ristrutturazione appartamenti e case", "/ristrutturazione-appartamenti-e-case/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/")],
  svc=svc("Risanamento umidità di risalita", "Risanamento murature", "Diagnosi e risanamento dell’umidità di risalita: barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi in Veneto e Friuli Venezia Giulia.",
          ["Diagnosi umidità", "Barriera chimica", "Intonaci deumidificanti", "Vespaio aerato", "Drenaggi"]))
@@ -440,7 +440,7 @@ P(url="/sanatoria-edilizia/", hero="re-direttore-lavori", heroalt="Tecnico che c
       ("Posso vendere casa con una difformità?", "Le difformità possono bloccare rogito e mutuo o ridurre il prezzo. Conviene verificarle e sanarle prima di mettere in vendita."),
       ("Quanto costa una sanatoria?", "Dipende da difformità, pratica, sanzioni e lavori. Dopo la verifica ricevete un preventivo scritto.")] + FAQ_BASE[:1],
  ctabox={"h2": "Volete sapere se la casa è in regola?", "p": "Fissiamo una verifica con i nostri tecnici.", "btn": "Richiedi una verifica"},
- altri=[("Pratiche edilizie CILA e SCIA", "/pratiche-edilizie-cila-scia/"), ("Guida: CILA o SCIA", "/guide/cila-o-scia/"), ("Cerchiatura muro portante", "/cerchiatura-muro-portante/"),
+ altri=[("Cambio destinazione d’uso e APE", "/cambio-destinazione-d-uso-e-ape/"), ("Pratiche edilizie CILA e SCIA", "/pratiche-edilizie-cila-scia/"), ("Guida: CILA o SCIA", "/guide/cila-o-scia/"), ("Cerchiatura muro portante", "/cerchiatura-muro-portante/"),
         ("Soppalchi", "/soppalchi/"), ("Pergole e tettoie", "/pergole-e-tettoie/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/")],
  svc=svc("Sanatoria edilizia", "Pratiche edilizie", "Verifica della conformità edilizia e catastale e regolarizzazione delle difformità con CILA tardiva, accertamento di conformità e regole del Salva Casa, in Veneto e Friuli Venezia Giulia.",
          ["Verifica di conformità", "CILA tardiva", "Accertamento di conformità", "Aggiornamento catastale"]))

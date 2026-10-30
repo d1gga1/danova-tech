@@ -92,6 +92,24 @@ PAGINE.append({
                 ("Umidità di risalita", "/umidita-di-risalita/", "Diagnosi e risanamento di muri umidi, salnitro e intonaci che si staccano."),
                 ("Rimozione amianto ed eternit", "/rimozione-amianto-eternit/", "Bonifica con ditta autorizzata e nuovo tetto, pratiche ASL comprese."),
                 ("Sanatoria edilizia", "/sanatoria-edilizia/", "Difformità, Salva Casa e regolarizzazioni prima di vendere o ristrutturare.")]),
+              ("Strutture, impermeabilizzazioni ed esterni", [
+                ("Impermeabilizzazioni", "/impermeabilizzazioni/", "Docce, terrazzi, balconi e frontalini, tetti piani, fondazioni e cantine."),
+                ("Muffa e infiltrazioni", "/muffa-e-infiltrazioni/", "Troviamo da dove arriva l’umidità, la eliminiamo e ripristiniamo."),
+                ("Adeguamento sismico e consolidamento", "/adeguamento-sismico-e-consolidamento/", "Solai, murature, cordoli, fondazioni e vespai, con sismabonus."),
+                ("Demolizioni e sgomberi", "/demolizioni-e-sgomberi/", "Demolizioni interne e di fabbricati, sgomberi, smaltimento a norma."),
+                ("Costruzione case e ampliamenti", "/costruzione-case-e-ampliamenti/", "Case nuove in muratura o in legno, ampliamenti e sopraelevazioni."),
+                ("Ristrutturazione casali e rustici", "/ristrutturazione-casali-e-rustici/", "Case di campagna e case vecchie recuperate, materiali originali salvati."),
+                ("Recinzioni, piscine e box auto", "/recinzioni-piscine-e-box-auto/", "Recinzioni, cancelli, piscine interrate, garage, vialetti e drenaggi."),
+                ("Grondaie, lattoneria e linea vita", "/grondaie-lattoneria-e-linea-vita/", "Grondaie, scossaline, linea vita e lucernari.")]),
+              ("Accessibilità, impianti e su misura", [
+                ("Abbattimento barriere architettoniche", "/abbattimento-barriere-architettoniche/", "Bagni per disabili e anziani, montascale, ascensori, rampe."),
+                ("Fotovoltaico e pompa di calore", "/fotovoltaico-e-pompa-di-calore/", "Fotovoltaico con accumulo, pompa di calore, pavimento radiante, VMC."),
+                ("Cabine armadio, pareti attrezzate e boiserie", "/cabine-armadio-pareti-attrezzate-e-boiserie/", "Spazi su misura in cartongesso o legno, porte filo muro."),
+                ("Cambio destinazione d’uso e APE", "/cambio-destinazione-d-uso-e-ape/", "Cambio d’uso, frazionamento, APE, diagnosi energetica, agibilità.")]),
+              ("Vendere, comprare, affittare", [
+                ("Compriamo case da ristrutturare", "/compriamo-case-da-ristrutturare/", "Acquisto diretto di case e rustici da ristrutturare, con proposta scritta."),
+                ("Home staging", "/home-staging/", "Lavori mirati e allestimento per vendere o affittare prima e meglio."),
+                ("Ristrutturazione e gestione affitti brevi", "/ristrutturazione-e-gestione-affitti-brevi/", "Appartamenti pronti per Airbnb e gestiti, CIN compreso.")]),
               ("Arredo", [
                 ("Arredo hotel e contract", "/arredo-hotel-contract/", "Camere, hall, ristoranti e spazi esterni arredati su misura."),
                 ("Mobili su misura", "/mobili-su-misura/", "Cucine, armadi, boiserie e arredi per negozi e uffici.")])]},
