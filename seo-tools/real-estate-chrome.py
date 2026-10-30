@@ -126,7 +126,7 @@ def footer(l, cur, s):
     c1 = ''.join(li(U(k, l), LAB[k][l], cur) for k in K1)
     c2 = ''.join(li(U(k, l), LAB[k][l], cur) for k in K2)
     if l == 'it':   # 26/10/2026: pagine solo IT (ricerca Google Ads)
-        c2 += ''.join(li(u, t, cur) for u, t in [('/trasformazione-vasca-in-doccia/', 'Trasformazione vasca in doccia'), ('/muratore-e-opere-murarie/', 'Muratore e opere murarie'),
+        c2 += ''.join(li(u, t, cur) for u, t in [('/impresa-edile/', 'Impresa edile: tutte le lavorazioni'), ('/microcemento/', 'Microcemento'), ('/pavimenti-in-resina/', 'Pavimenti in resina'), ('/porte-blindate/', 'Porte blindate'), ('/pergole-e-tettoie/', 'Pergole e tettoie'), ('/soppalchi/', 'Soppalchi'), ('/scale-interne/', 'Scale interne'), ('/cerchiatura-muro-portante/', 'Cerchiatura muro portante'), ('/umidita-di-risalita/', 'Umidità di risalita'), ('/rimozione-amianto-eternit/', 'Rimozione amianto ed eternit'), ('/sanatoria-edilizia/', 'Sanatoria edilizia'), ('/stucco-veneziano-e-decorazioni/', 'Stucco veneziano'), ('/trasformazione-vasca-in-doccia/', 'Trasformazione vasca in doccia'), ('/muratore-e-opere-murarie/', 'Muratore e opere murarie'),
                                                   ('/imbianchino-e-tinteggiature/', 'Imbianchino e tinteggiature'), ('/impianti-elettrici-e-idraulici/', 'Impianti elettrici e idraulici')])
     c3 = ''.join(li(U('/ristrutturazioni-%s/' % c, l), IN[l] % NOMI.get(c, {}).get(l, c.capitalize()), cur) for c in CITTA)
     cg = ''.join(li(U(k, l), LAB[k][l], cur) for k in KG)

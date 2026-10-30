@@ -4,7 +4,14 @@
 import os, re
 R = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
 S = 'https://danova-tech.com'
-P = [("Danova Real Estate (pagina principale)", "/real-estate/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"),
+P = [("Danova Real Estate (pagina principale)", "/real-estate/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/"),
+     ("Microcemento", "/microcemento/"), ("Pavimenti in resina", "/pavimenti-in-resina/"), ("Pergole e tettoie", "/pergole-e-tettoie/"), ("Porte blindate", "/porte-blindate/"),
+     ("Soppalchi", "/soppalchi/"), ("Scale interne", "/scale-interne/"), ("Cerchiatura e apertura muro portante", "/cerchiatura-muro-portante/"),
+     ("Umidità di risalita", "/umidita-di-risalita/"), ("Rimozione amianto ed eternit", "/rimozione-amianto-eternit/"), ("Sanatoria edilizia", "/sanatoria-edilizia/"),
+     ("Stucco veneziano e decorazioni", "/stucco-veneziano-e-decorazioni/"),
+     ("Guida: quanto costa rifare il bagno", "/guide/quanto-costa-rifare-il-bagno/"), ("Guida: trasformare la vasca in doccia", "/guide/quanto-costa-trasformare-vasca-in-doccia/"),
+     ("Guida: cartongesso al mq", "/guide/prezzo-cartongesso-al-mq/"), ("Guida: quanto costa imbiancare casa", "/guide/quanto-costa-imbiancare-casa/"),
+     ("Guida: quanto costa rifare il tetto", "/guide/quanto-costa-rifare-il-tetto/"), ("Guida: cappotto termico interno", "/guide/cappotto-termico-interno/"), ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"),
      ("Rifacimento bagno", "/ristrutturazione-bagno/"), ("Appartamenti e case", "/ristrutturazione-appartamenti-e-case/"),
      ("Negozi, uffici e ristoranti", "/ristrutturazione-negozi-uffici-ristoranti/"), ("Ristrutturazione hotel", "/ristrutturazione-hotel/"),
      ("Condomini e capannoni", "/ristrutturazione-condomini-e-capannoni/"), ("General contractor", "/general-contractor/"),

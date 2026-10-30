@@ -58,6 +58,7 @@ PAGINE.append({
                 ("Hotel e strutture ricettive", "/ristrutturazione-hotel/", "Camere, aree comuni e facciate, in bassa stagione."),
                 ("Condomini e capannoni", "/ristrutturazione-condomini-e-capannoni/", "Parti comuni, facciate, coperture e immobili produttivi.")]),
               ("General contractor", [
+                ("Impresa edile: tutte le lavorazioni", "/impresa-edile/", "Muratura, cartongesso, imbiancature, bagni, impianti, tetti, resine, pergole e pratiche, con un solo referente."),
                 ("General contractor", "/general-contractor/", "Un unico contratto per progetto, imprese, forniture e direzione del cantiere."),
                 ("Hotel chiavi in mano", "/hotel-chiavi-in-mano/", "Ristrutturazione, arredo, sito web e gestionale: un solo partner."),
                 ("Progettazione e render 3D", "/progettazione-e-render-3d/", "Vedete il risultato prima di aprire il cantiere."),
@@ -79,6 +80,18 @@ PAGINE.append({
                 ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/", "Pareti rasate e tinteggiate, pittura antimuffa, smalti e facciate."),
                 ("Impianti elettrici e idraulici", "/impianti-elettrici-e-idraulici/", "Rifacimento impianti a norma, con dichiarazione di conformità."),
                 ("Pavimenti e serramenti", "/pavimenti-e-serramenti/", "Parquet, gres, resine, finestre e portefinestre.")]),
+              ("Superfici, strutture e risanamento", [
+                ("Microcemento", "/microcemento/", "Pavimenti, bagni e pareti continui, senza fughe, anche sopra le vecchie piastrelle."),
+                ("Pavimenti in resina", "/pavimenti-in-resina/", "Resine per case, negozi, garage e capannoni: lisce, resistenti, facili da pulire."),
+                ("Stucco veneziano e decorazioni", "/stucco-veneziano-e-decorazioni/", "Marmorino, grassello e finiture a calce per pareti di pregio."),
+                ("Pergole e tettoie", "/pergole-e-tettoie/", "In legno, alluminio o bioclimatiche, con pratiche e permessi."),
+                ("Porte blindate", "/porte-blindate/", "Fornitura e posa certificata, anche sul telaio esistente."),
+                ("Soppalchi", "/soppalchi/", "Metri in più in legno, acciaio o laterocemento, con calcoli strutturali."),
+                ("Scale interne", "/scale-interne/", "Scale a giorno, a chiocciola o in muratura, su misura."),
+                ("Cerchiatura muro portante", "/cerchiatura-muro-portante/", "Aprire o allargare un passaggio in sicurezza, con progetto strutturale e pratiche."),
+                ("Umidità di risalita", "/umidita-di-risalita/", "Diagnosi e risanamento di muri umidi, salnitro e intonaci che si staccano."),
+                ("Rimozione amianto ed eternit", "/rimozione-amianto-eternit/", "Bonifica con ditta autorizzata e nuovo tetto, pratiche ASL comprese."),
+                ("Sanatoria edilizia", "/sanatoria-edilizia/", "Difformità, Salva Casa e regolarizzazioni prima di vendere o ristrutturare.")]),
               ("Arredo", [
                 ("Arredo hotel e contract", "/arredo-hotel-contract/", "Camere, hall, ristoranti e spazi esterni arredati su misura."),
                 ("Mobili su misura", "/mobili-su-misura/", "Cucine, armadi, boiserie e arredi per negozi e uffici.")])]},

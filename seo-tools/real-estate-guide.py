@@ -2,7 +2,13 @@
 """24/10/2026 - Aggiunge le guide Real Estate in testa all'indice /guide/ (tra <!--re-guide--> e <!--/re-guide-->). Idempotente."""
 import os, re
 R = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..'))
-G = [("/guide/quanto-costa-ristrutturare-casa/", "Quanto costa ristrutturare casa: le voci che fanno il prezzo", "Impianti, demolizioni, finiture, pratiche, IVA e detrazioni: perché il prezzo al mq inganna e come leggere un preventivo."),
+G = [("/guide/quanto-costa-rifare-il-bagno/", "Quanto costa rifare il bagno: le voci che fanno il prezzo", "Demolizione, impianti, piastrelle, sanitari e doccia: cosa pesa di più sul preventivo."),
+     ("/guide/quanto-costa-trasformare-vasca-in-doccia/", "Trasformare la vasca in doccia: costi, soluzioni e tempi", "Sostituzione semplice, walk-in o filo pavimento: cosa decide il costo."),
+     ("/guide/prezzo-cartongesso-al-mq/", "Cartongesso al mq: cosa fa il prezzo", "Pareti, contropareti, controsoffitti, REI e pareti attrezzate a confronto."),
+     ("/guide/quanto-costa-imbiancare-casa/", "Quanto costa imbiancare casa: come si calcola", "Come si contano i metri da dipingere e cosa fa salire il conto."),
+     ("/guide/quanto-costa-rifare-il-tetto/", "Quanto costa rifare il tetto: interventi e voci", "Dalla sostituzione delle tegole al tetto ventilato con nuova struttura."),
+     ("/guide/cappotto-termico-interno/", "Cappotto termico interno: quando conviene", "Materiali, spessori, condensa e ponti termici dell’isolamento dall’interno."),
+     ("/guide/quanto-costa-ristrutturare-casa/", "Quanto costa ristrutturare casa: le voci che fanno il prezzo", "Impianti, demolizioni, finiture, pratiche, IVA e detrazioni: perché il prezzo al mq inganna e come leggere un preventivo."),
      ("/guide/come-rifare-il-bagno/", "Rifare il bagno: fasi, tempi, permessi e costi", "Come si svolge il cantiere, quanto dura, quando serve la CILA e quali scelte incidono sul prezzo."),
      ("/guide/come-scegliere-impresa-ristrutturazione/", "Come scegliere un’impresa di ristrutturazione: 10 controlli", "Sopralluogo, preventivo voce per voce, prezzo bloccato, tempi, pratiche e pagamenti: cosa verificare prima di firmare."),
      ("/guide/cila-o-scia/", "CILA o SCIA: quale pratica serve per ristrutturare", "Edilizia libera, CILA e SCIA spiegate con esempi di lavori comuni, e cosa si rischia senza pratica."),

@@ -94,3 +94,13 @@ Fatto (real-estate-dati-8.py, solo IT): /trasformazione-vasca-in-doccia/, /imbia
 Pavimentazioni esterne: H2 e FAQ su impermeabilizzazione del terrazzo. Bagno: link alla pagina vasca/doccia.
 Diventa partner: subappalto, artigiani edili, FAQ operai senza partita IVA. Link dalla home Real Estate e dal footer IT.
 Da valutare: versioni EN/DE/RO/SQ delle nuove pagine; pagine mestiere + città solo se i volumi locali lo giustificano.
+
+## 7. Aggiornamento 30/10/2026 — posizionamento "impresa edile" e nuove lavorazioni
+NESSUN PREZZO PUBBLICATO (confermato dal titolare il 30/10/2026). Fatto (real-estate-dati-9.py, real-estate-dati-10.py, real-estate-patch-2026-10-30.py):
+- /impresa-edile/ (impresa edile 10K–100K/mese Italia): tutte le lavorazioni + link alle 30 citta'; link da pilastro e footer IT.
+- 6 guide sui costi SENZA cifre (voci e peso sul preventivo): bagno, vasca in doccia, cartongesso al mq, imbiancare casa, tetto, cappotto interno.
+- 11 nuove lavorazioni confermate dal titolare: microcemento, pavimenti in resina, pergole e tettoie, porte blindate (10K–100K),
+  soppalchi, scale interne, cerchiatura muro portante, umidita' di risalita, rimozione eternit, sanatoria edilizia, stucco veneziano (1K–10K).
+- Cartongesso: 9 lavorazioni in piu' (pareti attrezzate, nicchie, ribassati, bagno, mansarde, insonorizzazione, contropareti, scorrevoli, finitura).
+- (b) real-estate-patch-2026-10-30b.py: le 11 lavorazioni nella pagina principale /real-estate/ (gruppo "Superfici, strutture e risanamento"),
+  tutte nel footer IT (prima solo 4), e link da /porte-interne-e-blindate/ alla pagina /porte-blindate/. Nessun prezzo.

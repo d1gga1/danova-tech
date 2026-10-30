@@ -1,5 +1,5 @@
 # Danova Tech — testo integrale del sito
-# Generato il 2026-10-29 da https://danova-tech.com
+# Generato il 2026-10-30 da https://danova-tech.com
 # Questo file raccoglie il contenuto delle pagine italiane in testo semplice,
 # per i motori di ricerca e i motori di risposta basati su AI.
 # Indice sintetico: https://danova-tech.com/llms.txt — Sitemap: https://danova-tech.com/sitemap.xml
@@ -16918,7 +16918,7 @@ Danova Real Estate
 ========================================================================
 # Cartongesso e controsoffitti in Veneto e Friuli
 URL: https://danova-tech.com/cartongesso-e-controsoffitti/
-Descrizione: Pareti in cartongesso, contropareti isolanti, controsoffitti con luci integrate e soluzioni acustiche per case, uffici, negozi e hotel in Veneto e Friuli.
+Descrizione: Cartongessisti per pareti, contropareti isolanti, controsoffitti, pareti attrezzate, librerie, velette e isolamento acustico in Veneto e Friuli.
 ========================================================================
 
 Home / Real Estate / Cartongesso e controsoffitti
@@ -16974,6 +16974,64 @@ Lastre forate e materiali fonoassorbenti per ristoranti, uffici e sale riunioni.
 ## Antincendio
 
 Pareti e controsoffitti certificati per compartimentazioni e protezione delle strutture.
+
+Tutte le lavorazioni
+
+## Le altre lavorazioni dei nostri cartongessisti
+
+01
+
+## Pareti attrezzate e librerie
+
+Pareti TV, librerie e mensole in cartongesso con luci e nicchie integrate, su misura.
+
+02
+
+## Nicchie e vani
+
+Nicchie nella doccia, vani per lavatrice o caldaia, cassonetti per tubi e tapparelle.
+
+03
+
+## Controsoffitti ribassati
+
+Per abbassare stanze molto alte, nascondere travi o canalizzazioni dell’aria condizionata.
+
+04
+
+## Bagno e cucina
+
+Lastre idrorepellenti per pareti bagnate, contropareti per sanitari sospesi e scarichi.
+
+05
+
+## Mansarde e sottotetti
+
+Controsoffitti isolati sotto le falde, pareti basse e ripostigli.
+
+06
+
+## Insonorizzazione
+
+Contropareti e controsoffitti acustici contro voci, TV e calpestio dei vicini.
+
+07
+
+## Contropareti isolanti
+
+Isolamento termico dall’interno su muri freddi o con muffa, quando la facciata non si tocca.
+
+08
+
+## Porte scorrevoli a scomparsa
+
+Controtelai inseriti nella parete in cartongesso, anche filo muro.
+
+09
+
+## Stuccatura e finitura
+
+Superfici stuccate e rasate pronte da tinteggiare, anche con i nostri imbianchini.
 
 Esempi
 
@@ -17059,12 +17117,170 @@ Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chi
 
 ## Pagine collegate
 
-Ristrutturazione negozi, uffici e ristoranti
-Porte interne e blindate
-Porte REI tagliafuoco
-Impianti elettrici e idraulici
+Guida: cartongesso al mq
+Pareti divisorie
+Soppalchi
+Guida: cappotto termico interno
 Imbianchino e tinteggiature
-Danova Real Estate
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
+# Cerchiatura e apertura muro portante in Veneto e Friuli
+URL: https://danova-tech.com/cerchiatura-muro-portante/
+Descrizione: Aprire o allargare un vano in un muro portante: cerchiatura in acciaio o cemento armato, calcolo strutturale, pratica sismica ed edilizia, opere murarie e finiture.
+========================================================================
+
+Home / Real Estate / Impresa edile / Cerchiatura muro portante
+
+Cerchiatura · Veneto e Friuli
+
+## Aprire un muro portante: cerchiatura, calcolo e pratiche.
+
+Apriamo o allarghiamo vani nei muri portanti per unire cucina e soggiorno, creare un passaggio o una portafinestra. Lavoriamo con un ingegnere strutturista: calcolo della cerchiatura, pratica sismica ed edilizia, puntellatura e opere murarie.
+
+Richiedi il sopralluogo gratuito
+
+Come si fa
+
+Ingegnere strutturista Pratica sismica Puntellatura Finiture comprese
+
+In breve
+
+## La cerchiatura in poche righe
+
+Quando si apre un vano in un muro portante , il muro perde rigidità. La cerchiatura è un telaio in acciaio o in cemento armato che riporta resistenza e rigidità a quelle di prima, come richiedono le norme tecniche per le costruzioni. Serve sempre un progetto strutturale e, nelle zone sismiche del Veneto e del Friuli, la relativa pratica sismica oltre a quella edilizia.
+
+Struttura Telaio in acciaio o cemento armato
+
+Progetto Calcolo di un ingegnere strutturista
+
+Pratiche Edilizia + sismica quando prevista
+
+Cantiere Puntellatura, taglio, posa, ripristini
+
+Usi tipici Cucina aperta, passaggi, portefinestre
+
+Preventivo Gratuito, a prezzo bloccato
+
+Quando serve
+
+## I lavori più comuni sui muri portanti
+
+01
+
+## Cucina aperta sul soggiorno
+
+Il caso più richiesto: un grande vano al posto della porta tra le due stanze.
+
+02
+
+## Allargare una porta
+
+Da una porta singola a una doppia o a una scorrevole.
+
+03
+
+## Nuova portafinestra
+
+Su un muro esterno, per uscire in giardino o in terrazza.
+
+04
+
+## Unire due appartamenti
+
+Aperture nel muro di separazione, con verifiche e pratiche catastali.
+
+05
+
+## Spostare un’apertura
+
+Chiudere un vano e aprirne un altro, mantenendo l’equilibrio del muro.
+
+06
+
+## Edifici in muratura storica
+
+Soluzioni calibrate su murature in pietra o mattoni pieni.
+
+Come si fa
+
+## Dal calcolo al vano aperto
+
+- Sopralluogo con il tecnico Verifica del muro, dei solai che appoggia e degli impianti nascosti.
+
+- Progetto strutturale Calcolo della cerchiatura e degli eventuali rinforzi.
+
+- Pratiche Pratica edilizia e pratica sismica, con i tempi del Comune e degli uffici regionali.
+
+- Puntellatura e taglio Il carico viene sostenuto prima di tagliare il muro.
+
+- Cerchiatura e finiture Posa del telaio, ripristino di intonaci, pavimenti e tinteggiatura.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo di una cerchiatura
+
+Il prezzo dipende dalla larghezza del vano , dallo spessore e dal tipo di muratura , dal materiale della cerchiatura, dagli impianti da spostare, dalle finiture da ripristinare e dalle pratiche strutturali.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Spesso la cerchiatura è parte di una ristrutturazione più ampia: farle insieme riduce costi e tempi.
+
+Le garanzie
+
+## Un muro aperto in sicurezza
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Si può aprire un muro portante?
+Sì, con un progetto strutturale che preveda una cerchiatura o altri rinforzi e con le pratiche necessarie. Non va mai fatto senza calcolo.
+
+Che pratiche servono?
+Una pratica edilizia e, nelle zone sismiche, la pratica sismica con il progetto strutturale. Le prepariamo con i nostri tecnici.
+
+Meglio cerchiatura in acciaio o in cemento armato?
+L’acciaio è più veloce e meno invasivo; il cemento armato si usa in alcune murature. Lo decide l’ingegnere in base al muro.
+
+Quanto dura il lavoro?
+Il cantiere vero e proprio richiede pochi giorni; i tempi dipendono soprattutto dalle pratiche.
+
+Quanto costa aprire un muro portante?
+Dipende da larghezza del vano, muratura, impianti e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete aprire un muro?
+
+Fissiamo un sopralluogo con il tecnico: vi diciamo se e come si può fare.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Muratore e opere murarie
+Ristrutturazione appartamenti e case
+Pratiche edilizie CILA e SCIA
+Scale interne
+Sanatoria edilizia
+Impresa edile: tutte le lavorazioni
 
 
 ========================================================================
@@ -27099,6 +27315,151 @@ Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chi
 
 
 ========================================================================
+# Cappotto termico interno: quando conviene, materiali e spessori
+URL: https://danova-tech.com/guide/cappotto-termico-interno/
+Descrizione: Cappotto termico interno: quando conviene rispetto al cappotto esterno, materiali, spessori, rischio condensa, ponti termici e cosa incide sul costo.
+========================================================================
+
+Home / Guide / Cappotto termico interno
+
+Guida · Isolamento dall’interno
+
+## Cappotto termico interno: quando conviene e come si fa.
+
+Il cappotto interno isola i muri perimetrali dal lato della casa: è la soluzione quando la facciata non si può toccare o si vuole isolare un solo appartamento. Toglie qualche centimetro alle stanze e va progettato bene per evitare la condensa.
+
+Richiedi il sopralluogo gratuito
+
+Quando conviene
+
+Veneto e Friuli Sopralluogo gratuito Prezzo bloccato Unico referente
+
+Quando conviene
+
+## Interno o esterno: quando scegliere l’interno
+
+01
+
+## Facciata vincolata
+
+Centri storici e edifici tutelati dove il cappotto esterno non si può fare.
+
+02
+
+## Un solo appartamento
+
+In condominio, quando l’assemblea non decide il cappotto sull’intero edificio.
+
+03
+
+## Case usate poco
+
+Seconde case e stanze riscaldate saltuariamente: l’isolamento interno scalda prima.
+
+04
+
+## Pareti fredde e muffa
+
+Muri esposti a nord con condensa, se si risolve anche il ponte termico.
+
+05
+
+## Quando NON conviene
+
+Se si può fare il cappotto esterno: isola meglio, non toglie spazio e corregge tutti i ponti termici.
+
+06
+
+## Attenzione alla condensa
+
+Serve la verifica igrometrica del tecnico e, quasi sempre, un freno al vapore ben sigillato.
+
+I materiali
+
+## Con cosa si fa il cappotto interno
+
+Cappotto termico interno: materiali a confronto
+Soluzione Spessore tipico Note
+
+Controparete in cartongesso con isolante 5–8 cm Lana minerale o pannello accoppiato: la soluzione più diffusa
+
+Fibra di legno o sughero 6–10 cm Materiali naturali e traspiranti, con intonaco o lastra
+
+Calcio silicato 3–8 cm Pannelli minerali capillari, adatti a muri umidi e storici
+
+Aerogel 1–3 cm Pochi millimetri o centimetri quando ogni centimetro conta; il materiale più costoso
+
+Lavori collegati — Spostamento di prese, radiatori, battiscopa, davanzali e tinteggiatura
+
+Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato.
+
+Come si fa
+
+## Spessori, ponti termici e finitura
+
+Con 4–8 cm di isolante si ottengono già grandi miglioramenti su un muro non isolato. Lo spessore si sceglie con il tecnico in base al muro, al clima e allo spazio disponibile.
+
+I punti critici sono gli attacchi con solai, pareti interne e finestre: lì il calore passa comunque, e se non si risvolta l’isolante si rischia condensa proprio sugli spigoli. Per questo il freno al vapore va sigillato con cura e i davanzali vanno isolati.
+
+Se il muro è umido alla base, prima si risolve l’ umidità di risalita . Per la controparete leggete la guida cartongesso al mq ; per isolare dall’esterno la pagina cappotto termico .
+
+Come lavoriamo
+
+## Pareti calde senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Quanto spazio toglie il cappotto interno?
+In genere 5–10 cm per ogni parete isolata; con l’aerogel bastano pochi millimetri o centimetri.
+
+Quanto costa il cappotto interno?
+Dipende da materiale, spessore, metri di parete e lavori collegati come prese e radiatori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il cappotto interno crea muffa?
+Può crearla se è progettato o posato male. Con la verifica igrometrica, il freno al vapore sigillato e i ponti termici risvoltati la muffa diminuisce invece di aumentare.
+
+Rientra nei bonus?
+Sì, l’isolamento delle pareti può rientrare nelle detrazioni per ristrutturazione o per efficienza energetica, con la documentazione del tecnico.
+
+Si può fare stanza per stanza?
+Sì, ma conviene isolare insieme tutte le pareti esterne della stessa stanza per non lasciare punti freddi.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Pareti fredde o muffa?
+
+Al sopralluogo verifichiamo la causa e vi diciamo se conviene isolare dall’interno.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Approfondimenti collegati
+
+Cappotto termico
+Cartongesso e controsoffitti
+Umidità di risalita
+Guida: quando conviene il cappotto
+Impresa edile: tutte le lavorazioni
+Tutte le guide
+
+
+========================================================================
 # CILA o SCIA: quale pratica serve per ristrutturare casa
 URL: https://danova-tech.com/guide/cila-o-scia/
 Descrizione: CILA o SCIA? Differenze, quando servono, cosa rientra nell’edilizia libera e cosa succede se si fanno lavori senza pratica.
@@ -30083,6 +30444,30 @@ Si dividono in tre famiglie. Le guide su come scegliere servono prima di firmare
 
 Se cercate i numeri invece dei ragionamenti, le pagine con i prezzi sono separate: quanto costa un sito web , quanto costa un gestionale , quanto costa un e-commerce e quanto costa un’app . Tutte con fasce vere e con l’elenco delle voci che fanno lievitare il conto.
 
+## Quanto costa rifare il bagno: le voci che fanno il prezzo
+Demolizione, impianti, piastrelle, sanitari e doccia: cosa pesa di più sul preventivo.
+Leggi la guida
+
+## Trasformare la vasca in doccia: costi, soluzioni e tempi
+Sostituzione semplice, walk-in o filo pavimento: cosa decide il costo.
+Leggi la guida
+
+## Cartongesso al mq: cosa fa il prezzo
+Pareti, contropareti, controsoffitti, REI e pareti attrezzate a confronto.
+Leggi la guida
+
+## Quanto costa imbiancare casa: come si calcola
+Come si contano i metri da dipingere e cosa fa salire il conto.
+Leggi la guida
+
+## Quanto costa rifare il tetto: interventi e voci
+Dalla sostituzione delle tegole al tetto ventilato con nuova struttura.
+Leggi la guida
+
+## Cappotto termico interno: quando conviene
+Materiali, spessori, condensa e ponti termici dell’isolamento dall’interno.
+Leggi la guida
+
 ## Quanto costa ristrutturare casa: le voci che fanno il prezzo
 Impianti, demolizioni, finiture, pratiche, IVA e detrazioni: perché il prezzo al mq inganna e come leggere un preventivo.
 Leggi la guida
@@ -30430,6 +30815,158 @@ Tutte le guide
 
 
 ========================================================================
+# Cartongesso al mq: cosa fa il prezzo di pareti e controsoffitti
+URL: https://danova-tech.com/guide/prezzo-cartongesso-al-mq/
+Descrizione: Cartongesso al mq: perché il prezzo cambia tra parete semplice, isolata, acustica, controparete, controsoffitto, lastre per bagno, REI e pareti attrezzate.
+========================================================================
+
+Home / Guide / Cartongesso al mq
+
+Guida · Cartongesso
+
+## Cartongesso al metro quadro: cosa fa il prezzo.
+
+Il prezzo del cartongesso al metro quadro cambia molto con il tipo di lavoro: una parete semplice, una parete acustica con doppia lastra e un controsoffitto con luci integrate sono lavorazioni diverse. Ecco come si confrontano e cosa pesa sul preventivo.
+
+Richiedi un preventivo gratuito
+
+Le lavorazioni
+
+Veneto e Friuli Sopralluogo gratuito Prezzo bloccato Unico referente
+
+Le lavorazioni
+
+## Dalla più semplice alla più complessa
+
+Cartongesso posato e stuccato: le lavorazioni a confronto
+Lavorazione Complessità Note
+
+Parete divisoria semplice Base Una lastra per lato, orditura da 50–75 mm
+
+Controsoffitto piano Base Per nascondere impianti o abbassare l’altezza
+
+Controparete isolante Media Isolamento termico o acustico dall’interno su un muro esistente
+
+Parete con doppia lastra e isolante Media Lana minerale nell’intercapedine, buon isolamento acustico
+
+Controsoffitto isolato o acustico Media Contro il rumore del piano di sopra o sotto il tetto
+
+Lastre idrorepellenti (bagno, cucina) Media Lastre specifiche per pareti bagnate
+
+Parete acustica ad alte prestazioni Alta Doppia orditura o lastre ad alta densità, per camere, studi, sale musica
+
+Velette, gole luminose, sagome Alta Più tagli e più ore di posa, predisposizione per LED
+
+Parete attrezzata o libreria Alta Su misura, con nicchie, ripiani e luci integrate
+
+Parete o controsoffitto REI / EI 120 Alta Più lastre antincendio certificate, per hotel e locali pubblici
+
+Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato.
+
+Cosa incide sul prezzo
+
+## Perché il cartongesso non ha un prezzo unico
+
+01
+
+## Quante lastre
+
+Una o due lastre per lato cambiano rigidità, isolamento acustico e costo.
+
+02
+
+## L’isolante
+
+Lana di roccia, lana di vetro o pannelli accoppiati: sono loro a fare l’isolamento.
+
+03
+
+## Altezza e forma
+
+Soffitti alti, curve, sagome e velette richiedono più tempo di posa.
+
+04
+
+## Porte e rinforzi
+
+Controtelai per porte scorrevoli e rinforzi per pensili si prevedono durante la posa.
+
+05
+
+## Impianti
+
+Scatole, tubi e corrugati da far passare dentro la parete prima di chiuderla.
+
+06
+
+## Finitura
+
+Stuccatura a più mani per superfici perfette sotto luce radente; la tinteggiatura è a parte.
+
+Come confrontare i preventivi
+
+## Tre cose da controllare prima di firmare
+
+Che il preventivo indichi numero di lastre per lato, spessore dell’orditura e tipo di isolante : senza questi dati due prezzi al metro quadro non sono confrontabili.
+
+Che sia chiaro se la parete è consegnata stuccata e pronta da tinteggiare o solo montata, e se porte, controtelai e punti luce sono compresi.
+
+Che per pareti acustiche o antincendio siano indicate le prestazioni certificate del sistema. Trovate tutte le lavorazioni nella pagina cartongesso e controsoffitti .
+
+Come lavoriamo
+
+## Lavori a secco con prezzo bloccato
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Quanto costa il cartongesso al metro quadro?
+Dipende da numero di lastre, isolante, altezza, forme e finitura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il prezzo comprende la pittura?
+Di solito la parete viene consegnata stuccata e pronta da tinteggiare. La tinteggiatura si aggiunge a parte, oppure la facciamo noi nello stesso cantiere.
+
+Meglio cartongesso o mattoni per una parete divisoria?
+Il cartongesso è più veloce, più leggero, più pulito e con doppia lastra e isolante isola dal rumore come o meglio di un tramezzo sottile in laterizio.
+
+Quanto tempo serve per una parete in cartongesso?
+La struttura si monta in genere in uno o due giorni; con stuccature e pittura il lavoro si completa in pochi giorni.
+
+Serve una pratica per una parete in cartongesso?
+Modificare la distribuzione interna richiede di solito una CILA. La prepariamo noi.
+
+## Avete un lavoro in cartongesso?
+
+Diteci metri e tipo di parete: il preventivo è gratuito.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Approfondimenti collegati
+
+Cartongesso e controsoffitti
+Pareti divisorie
+Guida: cappotto termico interno
+Soppalchi
+Imbianchino e tinteggiature
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
 # Quando conviene il cappotto termico? Vantaggi, limiti e bonus
 URL: https://danova-tech.com/guide/quando-conviene-il-cappotto-termico/
 Descrizione: Quando conviene fare il cappotto termico: tipo di edificio, risparmio, comfort estivo, muffe e detrazioni 2026.
@@ -30595,6 +31132,112 @@ Tutte le guide
 
 
 ========================================================================
+# Quanto costa imbiancare casa: come si calcola il prezzo
+URL: https://danova-tech.com/guide/quanto-costa-imbiancare-casa/
+Descrizione: Quanto costa imbiancare casa: come l’imbianchino calcola i metri quadri, cosa fa salire il prezzo (rasature, muffa, colori, soffitti alti) e come prepararsi.
+========================================================================
+
+Home / Guide / Quanto costa imbiancare casa
+
+Guida · Imbianchino
+
+## Quanto costa imbiancare casa: come si calcola il prezzo.
+
+Il prezzo dell’imbianchino si calcola sui metri quadri di pareti e soffitti, non sul pavimento, e cambia molto con lo stato delle superfici. Ecco come si fa il conto e cosa lo fa salire.
+
+Richiedi un preventivo gratuito
+
+Come si calcola
+
+Veneto e Friuli Sopralluogo gratuito Prezzo bloccato Unico referente
+
+Le voci
+
+## Cosa pesa sul preventivo dell’imbianchino
+
+Tinteggiatura: le voci che fanno il prezzo
+Voce Peso sul preventivo Da cosa dipende
+
+Metri quadri di pareti e soffitti Alto Circa 3–3,5 volte la superficie del pavimento con soffitti a 2,70 m
+
+Stato delle pareti Alto Crepe, vecchie pitture che si staccano, carta da parati da togliere
+
+Rasature e stuccature Medio-alto Pareti irregolari o da rendere perfettamente lisce
+
+Tipo di pittura Medio Traspirante, lavabile, antimuffa, smalti
+
+Colori scuri o forti Medio Una mano in più per coprire bene
+
+Soffitti alti e scale Medio Trabattelli o ponteggi, più tempo di posa
+
+Casa abitata Basso-medio Spostare e proteggere mobili e pavimenti
+
+Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato.
+
+Come si calcola
+
+## Metri quadri di pavimento o di parete?
+
+L’imbianchino calcola i metri quadri da dipingere : pareti più soffitti. In una casa con soffitti a 2,70 m la superficie da tinteggiare è circa 3–3,5 volte quella del pavimento: un appartamento di 80 mq ha circa 250–280 mq tra pareti e soffitti.
+
+Il prezzo sale con lo stato delle pareti , con i colori scuri che chiedono una mano in più e se la casa è abitata e bisogna spostare e proteggere i mobili.
+
+Se la muffa torna sempre, la pittura non basta: la causa è condensa, un ponte termico, un’infiltrazione o l’ umidità di risalita . A volte la soluzione è una controparete isolante o un cappotto termico . Per finiture decorative c’è lo stucco veneziano .
+
+Come lavoriamo
+
+## Pareti nuove senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Quanto costa imbiancare un appartamento?
+Dipende da metri di pareti e soffitti, stato delle superfici, altezze e tipo di pittura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Come si calcolano i metri da imbiancare?
+Si sommano pareti e soffitti, togliendo le aperture grandi. Come regola pratica sono circa 3–3,5 volte i metri quadri del pavimento.
+
+La tinteggiatura rientra nel bonus?
+La sola tinteggiatura interna è manutenzione ordinaria e di solito non dà diritto alla detrazione; rientra se fa parte di una ristrutturazione con pratica edilizia.
+
+In quanti giorni si imbianca casa?
+Un appartamento di medie dimensioni richiede in genere pochi giorni, a seconda delle rasature.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Che colore volete per casa?
+
+Diteci quante stanze e in che città: fissiamo il sopralluogo gratuito.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Approfondimenti collegati
+
+Imbianchino e tinteggiature
+Stucco veneziano e decorazioni
+Facciate
+Umidità di risalita
+Impresa edile: tutte le lavorazioni
+Tutte le guide
+
+
+========================================================================
 # Quanto costa partecipare a una fiera: tutte le voci
 URL: https://danova-tech.com/guide/quanto-costa-partecipare-a-una-fiera/
 Descrizione: Quanto costa partecipare a una fiera: area espositiva, quota di iscrizione, stand, servizi tecnici, trasporto, viaggi e personale.
@@ -30739,6 +31382,317 @@ Noleggio stand
 Stand modulari
 Calendario fiere
 Allestimenti fieristici
+
+
+========================================================================
+# Quanto costa rifare il bagno: le voci che fanno il prezzo
+URL: https://danova-tech.com/guide/quanto-costa-rifare-il-bagno/
+Descrizione: Quanto costa rifare il bagno: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, le voci che pesano di più sul preventivo e come risparmiare.
+========================================================================
+
+Home / Guide / Quanto costa rifare il bagno
+
+Guida · Costi del bagno
+
+## Quanto costa rifare il bagno: le voci che fanno il prezzo.
+
+Due bagni della stessa metratura possono costare in modo molto diverso. Ecco le voci di un preventivo completo, quali pesano di più e le scelte che fanno salire o scendere il conto.
+
+Richiedi un preventivo gratuito
+
+Le voci
+
+Veneto e Friuli Sopralluogo gratuito Prezzo bloccato Unico referente
+
+In breve
+
+## Il costo del bagno in poche righe
+
+Il costo di un bagno completo dipende soprattutto da tre cose: se si spostano i sanitari (e quindi gli scarichi), lo stato degli impianti e il livello di piastrelle, sanitari e rubinetteria . La metratura conta meno di quanto si pensi. Sulla spesa si applica l’IVA al 10% e, nel 2026, la detrazione del 50% sull’abitazione principale (36% sugli altri immobili).
+
+Voce più pesante Impianto idraulico e scarichi
+
+Finiture Piastrelle, sanitari, rubinetteria
+
+Cantiere In genere 7–15 giorni lavorativi
+
+Pratica CILA se si rifanno gli impianti
+
+Detrazione 2026 50% prima casa, 36% altri
+
+Preventivo Gratuito, a prezzo bloccato
+
+Voce per voce
+
+## Le voci del preventivo e quanto pesano
+
+Rifacimento bagno: le voci di un preventivo completo
+Voce Peso sul preventivo Da cosa dipende
+
+Demolizione e smaltimento Medio Quantità di piastrelle e massetto da togliere, piano, ascensore
+
+Impianto idraulico e scarichi Alto Tubazioni da sostituire fino alla colonna, sanitari da spostare
+
+Impianto elettrico Basso Punti luce, prese, aspiratore, specchio illuminato
+
+Massetto e impermeabilizzazione Medio Doccia a filo pavimento, superficie della zona bagnata
+
+Piastrelle e posa Alto Formato, materiale, posa decorativa, pareti rivestite fino al soffitto
+
+Sanitari e rubinetteria Medio-alto Sospesi o a terra, rubinetteria a incasso, marche
+
+Doccia, vetro o vasca Medio Walk-in, box su misura, piatto a filo pavimento
+
+Mobile bagno Medio Standard o su misura, con specchio e luce
+
+Pratica edilizia Basso CILA quando si rifanno impianti o si spostano pareti
+
+Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato.
+
+Cosa fa cambiare il prezzo
+
+## Perché due bagni uguali costano diversamente
+
+01
+
+## Spostare i sanitari
+
+Se wc e doccia cambiano posizione servono nuovi scarichi con le pendenze giuste: è la voce che fa salire di più il preventivo.
+
+02
+
+## Lo stato degli impianti
+
+Tubazioni vecchie in ferro o piombo vanno sostituite fino alla colonna, anche se non si vedono.
+
+03
+
+## Le piastrelle
+
+Grandi formati e posa decorativa richiedono più tempo e più sfrido; rivestire fino al soffitto aumenta i metri.
+
+04
+
+## Doccia a filo pavimento
+
+Serve abbassare il massetto e avere quota per lo scarico: bellissima, ma più lavorazioni di un piatto appoggiato.
+
+05
+
+## Piano e accessi
+
+Piani alti senza ascensore e centri storici allungano i tempi di demolizione e trasporto.
+
+06
+
+## Microcemento al posto delle piastrelle
+
+Niente fughe e niente demolizioni se il fondo è buono: si applica anche sopra le piastrelle esistenti.
+
+Come spendere meglio
+
+## Dove si può risparmiare e dove no
+
+Si risparmia lasciando wc e doccia dove sono , scegliendo piastrelle di formato standard e rivestendo solo le pareti bagnate, con il resto tinteggiato con pittura lavabile. Anche fare il bagno insieme al resto della casa abbassa il costo, perché demolizioni e impianti si fanno una volta sola.
+
+Non conviene risparmiare su impermeabilizzazione e scarichi : un’infiltrazione sotto la doccia costa molto più del risparmio iniziale.
+
+Per le fasi del cantiere e i permessi leggete anche come rifare il bagno ; se volete solo eliminare la vasca c’è la guida trasformare la vasca in doccia .
+
+Come lavoriamo
+
+## Il prezzo del vostro bagno, bloccato
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Quanto costa rifare un bagno?
+Dipende da impianti da rifare, posizione dei sanitari, demolizioni e soprattutto dalle finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Cosa vuol dire bagno tutto compreso?
+Che nel preventivo ci sono demolizione, smaltimento, impianti, impermeabilizzazione, piastrelle, sanitari, doccia, mobile e pulizia finale. Noi lo quotiamo chiavi in mano, a prezzo bloccato.
+
+Quanto tempo serve per rifare il bagno?
+Di solito da 7 a 15 giorni lavorativi, di più se si spostano gli scarichi o si aspettano forniture su misura.
+
+Il rifacimento del bagno rientra nel bonus?
+Sì, se fa parte di un intervento di manutenzione straordinaria (per esempio rifacimento degli impianti): nel 2026 la detrazione è del 50% sull’abitazione principale e del 36% sugli altri immobili.
+
+Perché i prezzi online sono così diversi?
+Perché mettono insieme lavori diversi: un cambio di sanitari e un bagno rifatto da zero hanno la stessa parola, “bagno”, ma lavorazioni molto lontane.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete sapere quanto costa il vostro bagno?
+
+Mandateci una foto e le misure: fissiamo il sopralluogo gratuito.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Approfondimenti collegati
+
+Ristrutturazione bagno chiavi in mano
+Trasformazione vasca in doccia
+Microcemento
+Guida: come rifare il bagno
+Bonus ristrutturazione 2026
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
+# Quanto costa rifare il tetto: interventi e voci di costo
+URL: https://danova-tech.com/guide/quanto-costa-rifare-il-tetto/
+Descrizione: Quanto costa rifare il tetto: differenza tra sostituzione delle tegole, tetto isolato, tetto ventilato e interventi strutturali, ponteggi, eternit, pratiche e bonus.
+========================================================================
+
+Home / Guide / Quanto costa rifare il tetto
+
+Guida · Costi del tetto
+
+## Quanto costa rifare il tetto: interventi e voci di costo.
+
+Rifare il tetto può voler dire cambiare solo le tegole o ricostruire struttura, isolamento e manto. Ecco i quattro livelli di intervento, le voci del preventivo e cosa fa salire il costo.
+
+Richiedi il sopralluogo gratuito
+
+Gli interventi
+
+Veneto e Friuli Sopralluogo gratuito Prezzo bloccato Unico referente
+
+Gli interventi
+
+## Quattro livelli di intervento
+
+Rifacimento tetto: livelli di intervento
+Intervento Impegno Cosa comprende
+
+Sostituzione del manto Base Tegole o coppi nuovi, guaina, listelli; struttura e isolamento invariati
+
+Manto con isolamento Medio Barriera al vapore, pannelli isolanti, membrana, tegole
+
+Tetto ventilato completo Medio-alto Isolamento, camera di ventilazione, manto, lattoneria
+
+Con interventi strutturali Alto Sostituzione o rinforzo di travi e tavolato, isolamento alto
+
+Voci sempre presenti — Ponteggio, smaltimenti, tecnici e pratica edilizia, sicurezza
+
+Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato.
+
+Cosa incide sul prezzo
+
+## Cosa fa salire il preventivo del tetto
+
+01
+
+## Lo stato della struttura
+
+Travi marce o solai in laterocemento da consolidare cambiano completamente il lavoro.
+
+02
+
+## Lo spessore dell’isolante
+
+Più isolante significa meno caldo d’estate e bollette più basse, ma anche più materiale.
+
+03
+
+## Forma e accessi
+
+Tetti a più falde, abbaini, comignoli e vie strette per i mezzi aumentano tempi e ponteggi.
+
+04
+
+## Il manto
+
+Coppi recuperati, tegole in laterizio o lamiera hanno costi e pesi diversi.
+
+05
+
+## Lattoneria
+
+Grondaie, pluviali e scossaline in rame costano più di quelle in alluminio preverniciato.
+
+06
+
+## Eternit
+
+Se c’è una copertura in cemento-amianto va bonificata prima, con ditte autorizzate: la rimozione dell’eternit la coordiniamo noi.
+
+Pratiche e bonus
+
+## Permessi e detrazioni per il tetto
+
+Rifare il tetto con la stessa forma e gli stessi materiali è di solito manutenzione straordinaria (CILA o SCIA a seconda del Comune e degli interventi sulla struttura). Se cambiano sagoma o altezze serve un titolo diverso.
+
+Il rifacimento del tetto rientra nella detrazione per ristrutturazioni (nel 2026 50% sull’abitazione principale e 36% sugli altri immobili); se migliora l’isolamento può rientrare anche negli incentivi per l’efficienza energetica. Trovate il metodo nella pagina rifacimento tetto .
+
+Come lavoriamo
+
+## Un tetto nuovo a prezzo bloccato
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Quanto costa rifare il tetto?
+Dipende da superficie, forma, stato della struttura, isolamento, manto e accessi per i ponteggi. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Quanto dura il cantiere?
+Per una casa singola in genere da 2 a 4 settimane, meteo permettendo.
+
+Si può rifare il tetto abitando in casa?
+Sì: lavoriamo una falda alla volta e chiudiamo ogni sera con teli impermeabili.
+
+Conviene isolare il tetto quando si rifà?
+Quasi sempre sì: il ponteggio e lo smontaggio del manto si fanno comunque, e l’isolamento aggiunto ha un grande beneficio sui consumi.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Il vostro tetto ha bisogno di lavori?
+
+Facciamo il sopralluogo e vi diciamo se basta il manto o serve di più.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Approfondimenti collegati
+
+Rifacimento tetto
+Rimozione amianto ed eternit
+Isolamento sottotetto
+Bonus ristrutturazione 2026
+Impresa edile: tutte le lavorazioni
+Tutte le guide
 
 
 ========================================================================
@@ -30909,6 +31863,130 @@ Appartamenti e case
 Bonus ristrutturazione 2026
 Guida: come scegliere l’impresa
 Guida: rifare il bagno
+Tutte le guide
+
+
+========================================================================
+# Trasformare la vasca in doccia: costi, soluzioni e tempi
+URL: https://danova-tech.com/guide/quanto-costa-trasformare-vasca-in-doccia/
+Descrizione: Quanto costa trasformare la vasca in doccia: sostituzione semplice, doccia walk-in o a filo pavimento, cosa decide il prezzo, tempi, permessi e bonus.
+========================================================================
+
+Home / Guide / Trasformare la vasca in doccia: i costi
+
+Guida · Vasca in doccia
+
+## Trasformare la vasca in doccia: cosa decide il costo.
+
+Togliere la vasca e mettere una doccia può essere un lavoro di due giorni o un piccolo cantiere: la differenza la fanno lo scarico, il tipo di piatto e quante piastrelle si rifanno. Ecco le tre soluzioni più comuni e cosa incide sul prezzo.
+
+Richiedi il sopralluogo gratuito
+
+Le soluzioni
+
+Veneto e Friuli Sopralluogo gratuito Prezzo bloccato Unico referente
+
+Le soluzioni
+
+## Tre soluzioni, tre livelli di lavoro
+
+Trasformazione vasca in doccia: le soluzioni
+Soluzione Impegno del cantiere Cosa comprende
+
+Sostituzione semplice 2–3 giorni Rimozione vasca, piatto e box della stessa misura, scarico invariato, piastrelle integrate
+
+Doccia walk-in con piatto ribassato 3–4 giorni Piatto sottile, vetro fisso, nuovo rivestimento della zona doccia, miscelatore
+
+Doccia a filo pavimento Circa una settimana Massetto abbassato, canalina o piletta, impermeabilizzazione completa, eventuale spostamento dello scarico
+
+Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato.
+
+Cosa incide sul prezzo
+
+## Le quattro domande che decidono il costo
+
+01
+
+## Lo scarico resta dov’è?
+
+Se sì, il lavoro è semplice e veloce. Se va spostato bisogna aprire il pavimento e rifare le pendenze.
+
+02
+
+## Piatto appoggiato o a filo?
+
+Il piatto a filo pavimento è più comodo e sicuro ma richiede di abbassare il massetto.
+
+03
+
+## Le piastrelle si trovano ancora?
+
+Spesso no: si riveste la sola zona doccia con un materiale a contrasto, con il microcemento, o si rifà la parete.
+
+04
+
+## Box, vetro fisso o su misura?
+
+Un vetro fisso walk-in è più semplice di un box con porte; nicchie e sottotetti richiedono vetri su misura.
+
+Permessi e bonus
+
+## Cosa serve per partire
+
+Sostituire la vasca senza toccare gli impianti è di solito manutenzione ordinaria e non richiede pratiche. Se si rifanno gli impianti serve una CILA, e l’intervento può rientrare nella detrazione per le ristrutturazioni . Per persone con disabilità o anziani possono valere agevolazioni per l’eliminazione delle barriere architettoniche: verificatele con il vostro tecnico o commercialista.
+
+Trovate le soluzioni nel dettaglio nella pagina trasformazione vasca in doccia .
+
+Come lavoriamo
+
+## Una doccia nuova senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Qual è il modo più economico per trasformare la vasca in doccia?
+Mantenere lo scarico dov’è e usare un piatto e un box della stessa misura della vasca: meno demolizioni, meno piastrelle da rifare, meno giorni di cantiere.
+
+Quanto costa trasformare la vasca in doccia?
+Dipende da scarico, tipo di piatto, piastrelle e vetro. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Si può fare in un giorno?
+Alcuni sistemi rapidi lo promettono, ma solo se scarico, misure e piastrelle lo permettono. Con l’impermeabilizzazione fatta a regola d’arte servono in genere 2–4 giorni.
+
+Serve una pratica edilizia?
+Di solito no, se non si toccano gli impianti. Se si rifanno impianti o si spostano sanitari serve una CILA, che prepariamo noi.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Pronti a dire addio alla vasca?
+
+Mandateci una foto del bagno: vi diciamo quale soluzione si può fare.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Approfondimenti collegati
+
+Trasformazione vasca in doccia
+Guida: quanto costa rifare il bagno
+Ristrutturazione bagno
+Microcemento
+Impresa edile: tutte le lavorazioni
 Tutte le guide
 
 
@@ -47404,6 +48482,276 @@ Danova Real Estate
 
 
 ========================================================================
+# Impresa edile in Veneto e Friuli
+URL: https://danova-tech.com/impresa-edile/
+Descrizione: Impresa edile in Veneto e Friuli: ristrutturazioni, muratura, cartongesso, imbiancature, bagni, impianti, tetti, cappotto, microcemento, resine, pergole e pratiche. Sopralluogo gratuito.
+========================================================================
+
+Home / Real Estate / Impresa edile
+
+Impresa edile · Veneto e Friuli
+
+## Impresa edile in Veneto e Friuli: tutte le lavorazioni, un solo referente.
+
+Danova Real Estate è l’impresa edile di Danova Tech, con sede a Mansuè (Treviso). Facciamo ristrutturazioni complete e singoli lavori: muratura e aperture nei muri portanti, cartongesso, imbiancature e decorazioni, bagni, impianti, tetti, cappotto, pavimenti in resina e microcemento, porte blindate, pergole e pratiche edilizie.
+
+Richiedi il sopralluogo gratuito
+
+Tutte le lavorazioni
+
+Sopralluogo gratuito Prezzo bloccato Tempi nel contratto Pratiche e bonus
+
+In breve
+
+## La nostra impresa edile in poche righe
+
+Siamo un’ impresa edile che lavora in tutto il Veneto e il Friuli Venezia Giulia per privati, condomini, negozi, uffici, ristoranti e hotel. Potete affidarci una ristrutturazione chiavi in mano o una sola lavorazione, dalla parete in cartongesso al rifacimento del tetto. In ogni caso c’è un unico referente che coordina muratori, cartongessisti, imbianchini, idraulici, elettricisti e posatori, prepara le pratiche edilizie con i nostri tecnici e scrive nel contratto prezzo e tempi .
+
+Sede Mansuè (TV), tra Treviso, Pordenone e Venezia
+
+Zona Tutto il Veneto e il Friuli Venezia Giulia
+
+Lavori Ristrutturazioni complete e singole lavorazioni
+
+Squadre Interne + artigiani selezionati
+
+Sopralluogo Gratuito, con preventivo voce per voce
+
+Contratto Prezzo bloccato e date scritte
+
+Pratiche CILA, SCIA, sanatorie e bonus edilizi
+
+Lingue Italiano, inglese, rumeno
+
+Le lavorazioni
+
+## Tutti i lavori edili che facciamo
+
+Ogni lavorazione ha la sua pagina con il metodo, le domande frequenti e cosa incide sul prezzo.
+
+## Ristrutturazioni
+
+Ristrutturazioni chiavi in mano Progetto, pratiche, lavori e consegna con un solo referente.
+Ristrutturazione appartamenti e case Appartamenti, case singole, bifamiliari e a schiera, anche case vecchie.
+Ristrutturazione bagno Bagno nuovo chiavi in mano: demolizione, impianti, piastrelle, sanitari.
+Trasformazione vasca in doccia Doccia walk-in o a filo pavimento al posto della vasca.
+Negozi, uffici e ristoranti Locali commerciali rinnovati con chiusure ridotte.
+Condomini e capannoni Parti comuni, facciate, coperture e immobili produttivi.
+Ristrutturazione hotel Camere, aree comuni e facciate in bassa stagione.
+
+## Opere murarie e strutture
+
+Muratore e opere murarie Demolizioni, tramezzi, aperture, intonaci, massetti, piccoli lavori.
+Cerchiatura e apertura muro portante Aprire o allargare un vano nel muro portante, con calcolo strutturale.
+Soppalchi Soppalchi in legno, acciaio o laterocemento, con progetto e pratiche.
+Scale interne Scale in legno, acciaio o muratura, anche con apertura del solaio.
+Umidità di risalita Diagnosi, barriere chimiche, intonaci deumidificanti, vespai.
+Rimozione amianto ed eternit Bonifica di coperture in eternit con ditte autorizzate e nuovo tetto.
+
+## Cartongesso, pareti e decorazioni
+
+Cartongesso e controsoffitti Pareti, contropareti, controsoffitti, librerie, velette, acustica.
+Pareti divisorie Una stanza in più con cartongesso, vetrate e porte scorrevoli.
+Imbianchino e tinteggiature Tinteggiature, rasature, pittura antimuffa, smalti e facciate.
+Stucco veneziano e decorazioni Stucco veneziano, marmorino, calce, effetti materici.
+
+## Pavimenti, porte e serramenti
+
+Microcemento Pavimenti, pareti, bagni e docce senza fughe, anche sopra le piastrelle.
+Pavimenti in resina Resina per case, negozi, garage e laboratori.
+Pavimenti e serramenti Gres, parquet, finestre e portefinestre.
+Porte blindate Porte di sicurezza certificate, anche con isolamento termico e acustico.
+Porte interne Porte filo muro, scorrevoli a scomparsa e battenti.
+Porte REI tagliafuoco Porte resistenti al fuoco per hotel, uffici e locali pubblici.
+Mobili su misura Cucine, armadi, boiserie e arredi per negozi e uffici.
+
+## Impianti, isolamento, tetti ed esterni
+
+Impianti elettrici e idraulici Rifacimento impianti a norma, con dichiarazione di conformità.
+Cappotto termico Isolamento esterno e interno per consumare meno.
+Rifacimento tetto Struttura, isolamento, impermeabilizzazione, tegole e grondaie.
+Isolamento sottotetto Pannelli o insufflaggio, in pochi giorni.
+Facciate e rifacimento facciate Ripristino, intonaci, tinteggiature e facciate ventilate.
+Pergole e tettoie Pergole in legno o alluminio, bioclimatiche, tettoie e coperture.
+Pavimentazioni esterne e terrazzi Terrazzi, balconi, cortili e vialetti senza infiltrazioni.
+
+## Progetto, pratiche e coordinamento
+
+General contractor Un unico contratto per progetto, imprese, forniture e direzione.
+Progettazione e render 3D Vedete il risultato prima di aprire il cantiere.
+Pratiche edilizie CILA e SCIA Titoli edilizi e sicurezza, preparati dai nostri tecnici.
+Sanatoria edilizia Regolarizzare difformità e abusi minori prima di vendere o ristrutturare.
+Bonus ristrutturazione 2026 Detrazioni al 50% e 36%: cosa spetta e come non perderle.
+Impresa edile per architetti Realizziamo il vostro progetto, con la nostra rete.
+
+Le richieste più frequenti
+
+## Cosa ci chiedete di più e chi se ne occupa
+
+Le lavorazioni edili più cercate su Google, e come le gestiamo.
+
+Lavorazioni edili più richieste e come le seguiamo
+Lavorazione Chi se ne occupa Cosa comprende
+
+Ristrutturazione bagno Idraulici, piastrellisti, muratori Demolizione, impianti, impermeabilizzazione, piastrelle, sanitari, doccia walk-in
+
+Cartongesso Cartongessisti Pareti, contropareti isolanti, controsoffitti, pareti attrezzate, nicchie, velette, acustica
+
+Microcemento e resina Applicatori specializzati Pavimenti, pareti, docce e piani senza fughe, anche sopra le piastrelle esistenti
+
+Imbianchino e decorazioni Imbianchini e decoratori Tinteggiature, rasature, antimuffa, stucco veneziano, marmorino
+
+Muratore e strutture Muratori con ingegnere strutturista Demolizioni, tramezzi, cerchiature, soppalchi, scale, massetti
+
+Impianto elettrico e idraulico Elettricisti e idraulici Rifacimento completo con dichiarazione di conformità; niente pronto intervento
+
+Porte blindate Posatori Porte di sicurezza certificate, sostituzione del portoncino, rivestimenti
+
+Tetto, eternit e cappotto Carpentieri, lattonieri, ditte autorizzate Rimozione eternit, nuovo tetto isolato, cappotto, sottotetto
+
+Pergole e tettoie Carpentieri e fabbri Pergole in legno o alluminio, bioclimatiche, tettoie, pratiche
+
+Umidità e sanatorie Tecnici e muratori Diagnosi dell’umidità, barriere, intonaci; pratiche di sanatoria
+
+Come lavoriamo
+
+## Dal sopralluogo alla consegna
+
+- Sopralluogo gratuito Veniamo a vedere, misuriamo e verifichiamo impianti e strutture.
+
+- Preventivo voce per voce Quantità, materiali ed esclusioni scritti, a prezzo bloccato.
+
+- Pratiche e progetto CILA, SCIA, calcoli strutturali, render 3D, documenti per i bonus.
+
+- Cantiere coordinato Squadre in sequenza, un referente che vi aggiorna.
+
+- Consegna e garanzie Pulizia finale, certificazioni degli impianti, documenti.
+
+Dove lavoriamo
+
+## La nostra impresa edile nella vostra città
+
+Lavoriamo in tutto il Veneto e il Friuli Venezia Giulia. Queste sono le città in cui ci chiamano più spesso.
+
+## Provincia di Treviso
+
+Impresa edile Treviso Ristrutturazioni e lavori edili a Treviso e nei comuni vicini.
+Impresa edile Conegliano Ristrutturazioni e lavori edili a Conegliano e nei comuni vicini.
+Impresa edile Vittorio Veneto Ristrutturazioni e lavori edili a Vittorio Veneto e nei comuni vicini.
+Impresa edile Oderzo Ristrutturazioni e lavori edili a Oderzo e nei comuni vicini.
+Impresa edile Motta di Livenza Ristrutturazioni e lavori edili a Motta di Livenza e nei comuni vicini.
+Impresa edile Montebelluna Ristrutturazioni e lavori edili a Montebelluna e nei comuni vicini.
+Impresa edile Castelfranco Veneto Ristrutturazioni e lavori edili a Castelfranco Veneto e nei comuni vicini.
+
+## Provincia di Venezia
+
+Impresa edile Venezia Ristrutturazioni e lavori edili a Venezia e nei comuni vicini.
+Impresa edile Mestre Ristrutturazioni e lavori edili a Mestre e nei comuni vicini.
+Impresa edile San Donà di Piave Ristrutturazioni e lavori edili a San Donà di Piave e nei comuni vicini.
+Impresa edile Portogruaro Ristrutturazioni e lavori edili a Portogruaro e nei comuni vicini.
+Impresa edile Jesolo Ristrutturazioni e lavori edili a Jesolo e nei comuni vicini.
+Impresa edile Chioggia Ristrutturazioni e lavori edili a Chioggia e nei comuni vicini.
+
+## Padova, Vicenza, Verona, Rovigo e Belluno
+
+Impresa edile Padova Ristrutturazioni e lavori edili a Padova e nei comuni vicini.
+Impresa edile Cittadella Ristrutturazioni e lavori edili a Cittadella e nei comuni vicini.
+Impresa edile Vicenza Ristrutturazioni e lavori edili a Vicenza e nei comuni vicini.
+Impresa edile Bassano del Grappa Ristrutturazioni e lavori edili a Bassano del Grappa e nei comuni vicini.
+Impresa edile Schio Ristrutturazioni e lavori edili a Schio e nei comuni vicini.
+Impresa edile Verona Ristrutturazioni e lavori edili a Verona e nei comuni vicini.
+Impresa edile Rovigo Ristrutturazioni e lavori edili a Rovigo e nei comuni vicini.
+Impresa edile Belluno Ristrutturazioni e lavori edili a Belluno e nei comuni vicini.
+Impresa edile Feltre Ristrutturazioni e lavori edili a Feltre e nei comuni vicini.
+
+## Friuli Venezia Giulia
+
+Impresa edile Pordenone Ristrutturazioni e lavori edili a Pordenone e nei comuni vicini.
+Impresa edile Sacile Ristrutturazioni e lavori edili a Sacile e nei comuni vicini.
+Impresa edile Udine Ristrutturazioni e lavori edili a Udine e nei comuni vicini.
+Impresa edile Codroipo Ristrutturazioni e lavori edili a Codroipo e nei comuni vicini.
+Impresa edile Cividale del Friuli Ristrutturazioni e lavori edili a Cividale del Friuli e nei comuni vicini.
+Impresa edile Gorizia Ristrutturazioni e lavori edili a Gorizia e nei comuni vicini.
+Impresa edile Monfalcone Ristrutturazioni e lavori edili a Monfalcone e nei comuni vicini.
+Impresa edile Trieste Ristrutturazioni e lavori edili a Trieste e nei comuni vicini.
+
+Costi e guide
+
+## Cosa fa il prezzo dei lavori edili
+
+Guide sulle voci che compongono un preventivo, lavoro per lavoro.
+
+Quanto costa ristrutturare casa Le voci che fanno il prezzo di una ristrutturazione.
+Quanto costa rifare il bagno Le voci del preventivo e cosa le fa salire.
+Trasformare la vasca in doccia: i costi Tre soluzioni e cosa decide il prezzo.
+Cartongesso: cosa fa il prezzo al mq Pareti, contropareti, controsoffitti e lavorazioni speciali.
+Quanto costa imbiancare casa Come si calcolano i metri e cosa fa salire il conto.
+Quanto costa rifare il tetto Solo tegole, tetto isolato, tetto ventilato.
+Cappotto termico interno Quando conviene, materiali, spessori e condensa.
+
+Le garanzie
+
+## Quattro impegni scritti nel contratto
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Cosa fa un’impresa edile?
+Esegue lavori di costruzione e ristrutturazione: demolizioni, murature, cartongesso, intonaci, massetti, impianti, pavimenti, coperture e facciate. Un’impresa come la nostra coordina anche i tecnici per pratiche, calcoli strutturali e progetto, così il cliente ha un solo interlocutore.
+
+Fate anche piccoli lavori?
+Sì: una parete in cartongesso, una stanza da imbiancare, la vasca da trasformare in doccia, un’apertura nel muro, una porta blindata. Se avete più lavori in programma conviene farli insieme, con un unico cantiere.
+
+Posso affidarvi solo una lavorazione?
+Sì. Potete affidarci la singola lavorazione oppure l’intera ristrutturazione: il sopralluogo e il preventivo sono gratuiti in entrambi i casi.
+
+Quanto costa un’impresa edile?
+Non pubblichiamo listini perché ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo voce per voce, a prezzo bloccato; nelle guide trovate le voci che compongono il prezzo di ogni lavorazione.
+
+Fate pronto intervento idraulico o elettrico?
+No: rifacciamo impianti completi, a norma e con dichiarazione di conformità, dentro una ristrutturazione o come lavoro a sé.
+
+Vi occupate delle pratiche e dei bonus?
+Sì, con i nostri tecnici prepariamo CILA, SCIA, sanatorie, calcoli strutturali, la documentazione per le detrazioni e, se serve, l’aggiornamento catastale.
+
+In che zone lavorate?
+In tutto il Veneto e il Friuli Venezia Giulia: province di Treviso, Venezia, Padova, Vicenza, Verona, Belluno, Rovigo, Pordenone, Udine, Gorizia e Trieste. La nostra sede è a Mansuè, in provincia di Treviso, a metà strada tra Treviso, Pordenone e Venezia.
+
+In che lingue possiamo parlare?
+Italiano, inglese e rumeno, a voce e per scritto. Preventivi, contratti e aggiornamenti di cantiere possono essere preparati anche in altre lingue.
+
+## Avete un lavoro edile da fare?
+
+Raccontateci cosa vi serve e dove: fissiamo il sopralluogo gratuito.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Ristrutturazioni chiavi in mano
+General contractor
+Chi siamo
+Guida: come scegliere l’impresa
+Bonus ristrutturazione 2026
+Danova Real Estate
+
+
+========================================================================
 # Integrazione software aziendali e API
 URL: https://danova-tech.com/integrazione-software-aziendali/
 Descrizione: Far parlare fra loro i sistemi che usate: gestionale, sito, CRM, magazzino, fatturazione. API su misura, sincronizzazioni affidabili e tracciate.
@@ -49693,6 +51041,164 @@ Quanto costa Google Ads
 
 
 ========================================================================
+# Microcemento in Veneto e Friuli
+URL: https://danova-tech.com/microcemento/
+Descrizione: Microcemento per pavimenti, pareti, bagni, docce, cucine e scale in Veneto e Friuli: superfici continue senza fughe, anche sopra le piastrelle esistenti. Sopralluogo gratuito.
+========================================================================
+
+Home / Real Estate / Impresa edile / Microcemento
+
+Microcemento · Veneto e Friuli
+
+## Microcemento: superfici continue, senza fughe.
+
+Applichiamo il microcemento su pavimenti, pareti, bagni, docce, piani cucina e scale. Pochi millimetri di spessore, nessuna fuga e spesso nessuna demolizione: si posa anche sopra le piastrelle esistenti, se il fondo è stabile.
+
+Richiedi il sopralluogo gratuito
+
+Dove si usa
+
+Senza fughe Pochi millimetri Sopra le piastrelle Anche in doccia
+
+In breve
+
+## Il microcemento in poche righe
+
+Il microcemento è un rivestimento a base cementizia e resine applicato a spatola in più mani, per uno spessore totale di 2–3 millimetri . Crea superfici continue, senza fughe , su pavimenti e pareti. Con il primer giusto aderisce a piastrelle, massetti, intonaci e cartongesso , quindi in molti casi evita demolizioni. Con la finitura protettiva è adatto anche a bagni e docce .
+
+Spessore Circa 2–3 mm
+
+Supporti Piastrelle, massetto, intonaco, cartongesso
+
+Dove Pavimenti, pareti, bagni, docce, cucine, scale
+
+Fughe Nessuna
+
+Demolizioni Spesso non servono
+
+Preventivo Gratuito, a prezzo bloccato
+
+Dove si usa
+
+## Microcemento in ogni stanza
+
+01
+
+## Bagno e doccia
+
+Pareti e pavimento senza fughe, anche nella doccia walk-in, con impermeabilizzazione sotto.
+
+02
+
+## Pavimenti di casa
+
+Soggiorni e cucine continui, anche sopra il vecchio pavimento senza demolire.
+
+03
+
+## Pareti e top cucina
+
+Rivestimenti e piani di lavoro, con finitura resistente alle macchie.
+
+04
+
+## Scale
+
+Gradini rivestiti in continuità con il pavimento.
+
+05
+
+## Negozi e uffici
+
+Superfici moderne con chiusure brevi, perché non si demolisce.
+
+06
+
+## Colori e finiture
+
+Dal grigio cemento ai toni caldi, opaco o satinato.
+
+Come lavoriamo
+
+## Dal vecchio pavimento al microcemento
+
+- Sopralluogo Verifichiamo che il fondo sia stabile, asciutto e senza piastrelle che suonano vuote.
+
+- Preparazione Pulizia, consolidamento, rete di armatura e primer di aggancio.
+
+- Impermeabilizzazione Nelle docce e nelle zone bagnate, prima del rivestimento.
+
+- Mani di microcemento Più strati a spatola, con carteggiatura tra una mano e l’altra.
+
+- Protezione Vernici protettive per resistenza all’acqua e alle macchie, poi consegna.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo del microcemento
+
+Il prezzo dipende dallo stato del fondo (piastrelle da consolidare, crepe, umidità), dalla superficie , da quante pareti e docce si rivestono, dal numero di mani e finiture e dai dettagli come gradini, nicchie e spigoli.
+
+Rispetto a una demolizione con nuove piastrelle si risparmiano tempo, macerie e polvere. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Per un bagno completo leggete anche la guida quanto costa rifare il bagno ; per pavimenti di garage e locali tecnici c’è la pagina pavimenti in resina .
+
+Le garanzie
+
+## Superfici nuove senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Si può mettere il microcemento sopra le piastrelle?
+Sì, se le piastrelle sono ben attaccate e il fondo è stabile. Le fughe si riempiono, si applica un primer di aggancio e poi le mani di microcemento.
+
+Il microcemento va bene in doccia?
+Sì, con un’impermeabilizzazione sotto e la finitura protettiva giusta. È una delle applicazioni più richieste.
+
+Il microcemento si crepa?
+Può segnare crepe se si muove il fondo sotto. Per questo verifichiamo il supporto e, dove serve, usiamo una rete di armatura.
+
+Che differenza c’è tra microcemento e resina?
+Il microcemento ha un aspetto materico, si applica a spatola anche sulle pareti; la resina è più liscia e uniforme ed è ideale per pavimenti molto sollecitati come garage e laboratori.
+
+Quanto costa il microcemento?
+Dipende da fondo, superficie, pareti e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete un bagno o un pavimento senza fughe?
+
+Mandateci una foto: vi diciamo se si può fare sopra l’esistente.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Pavimenti in resina
+Ristrutturazione bagno
+Trasformazione vasca in doccia
+Pavimenti e serramenti
+Scale interne
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
 # Migrazione e-commerce WooCommerce e PrestaShop
 URL: https://danova-tech.com/migrazione-ecommerce/
 Descrizione: Cambiare piattaforma e-commerce senza perdere posizioni su Google: redirect, dati, recensioni e storico ordini. Piano di migrazione e verifiche.
@@ -51058,6 +52564,312 @@ Danova Real Estate
 
 
 ========================================================================
+# Pavimenti in resina in Veneto e Friuli
+URL: https://danova-tech.com/pavimenti-in-resina/
+Descrizione: Pavimenti in resina per case, negozi, uffici, garage e laboratori in Veneto e Friuli: autolivellante, epossidica o poliuretanica, anche sopra il pavimento esistente.
+========================================================================
+
+Home / Real Estate / Impresa edile / Pavimenti in resina
+
+Resina · Veneto e Friuli
+
+## Pavimenti in resina: continui, resistenti, facili da pulire.
+
+Realizziamo pavimenti in resina per abitazioni, negozi, uffici, ristoranti, garage e laboratori. Superfici continue senza fughe, resistenti all’usura e alle macchie, spesso posate sopra il pavimento esistente.
+
+Richiedi il sopralluogo gratuito
+
+I tipi di resina
+
+Senza fughe Sopra l’esistente Resistente Facile da pulire
+
+In breve
+
+## La resina in poche righe
+
+Un pavimento in resina è un rivestimento continuo di pochi millimetri, colato o applicato a rullo, che indurisce in una superficie liscia, senza fughe e molto resistente. Le resine epossidiche sono dure e resistono a oli e prodotti chimici (garage, laboratori); le poliuretaniche sono più elastiche e stabili alla luce (case, negozi). Se il fondo è solido si posa sopra il pavimento esistente .
+
+Spessore Pochi millimetri
+
+Tipi Epossidica, poliuretanica, autolivellante
+
+Dove Case, negozi, uffici, garage, laboratori
+
+Posa Anche sopra piastrelle o cemento
+
+Pulizia Superficie continua, senza fughe
+
+Preventivo Gratuito, a prezzo bloccato
+
+Dove si usa
+
+## La resina giusta per ogni ambiente
+
+01
+
+## Casa
+
+Soggiorni, cucine e bagni con un unico pavimento continuo, in tinta unita o effetto materico.
+
+02
+
+## Negozi e showroom
+
+Superfici eleganti che reggono il passaggio di clienti e carrelli.
+
+03
+
+## Ristoranti e cucine
+
+Igienica e facile da lavare, con finitura antiscivolo dove serve.
+
+04
+
+## Garage e box auto
+
+Resina epossidica resistente a pneumatici, oli e sali.
+
+05
+
+## Laboratori e magazzini
+
+Pavimenti industriali per carichi, muletti e prodotti chimici.
+
+06
+
+## Terrazzi e balconi
+
+Sistemi in resina impermeabilizzanti per esterni.
+
+Come lavoriamo
+
+## Dal fondo alla resina finita
+
+- Verifica del fondo Controlliamo stabilità, umidità e crepe del massetto o del pavimento esistente.
+
+- Preparazione Levigatura o pallinatura, riparazione delle crepe, primer.
+
+- Stesura Resina autolivellante o a più mani, nel colore scelto.
+
+- Finitura Protettivo opaco o lucido, antiscivolo se serve.
+
+- Consegna Tempi di indurimento indicati prima di camminare e caricare.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo della resina
+
+Il prezzo dipende dal tipo di resina (decorativa o industriale), dallo spessore , dallo stato del fondo da preparare, dalla superficie e dalle finiture come antiscivolo o effetti decorativi.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Per bagni, pareti e docce con effetto materico guardate anche il microcemento .
+
+Le garanzie
+
+## Un pavimento nuovo senza demolire
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Si può fare la resina sopra le piastrelle?
+Sì, se le piastrelle sono ben aderenti. Si levigano, si riempiono le fughe, si dà il primer e poi si stende la resina.
+
+La resina si graffia?
+Le resine resistono bene all’usura; come ogni pavimento possono segnarsi con oggetti appuntiti. La finitura protettiva si può rinnovare.
+
+La resina è adatta al garage?
+Sì: la resina epossidica resiste a pneumatici, oli e sali ed è facile da lavare.
+
+È scivolosa?
+Lucida e bagnata può esserlo: nelle zone a rischio aggiungiamo una finitura antiscivolo.
+
+Quanto costa un pavimento in resina?
+Dipende da tipo di resina, fondo, superficie e finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Un pavimento continuo per casa o garage?
+
+Diteci superficie e uso: fissiamo il sopralluogo gratuito.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Microcemento
+Pavimenti e serramenti
+Pavimentazioni esterne e terrazzi
+Negozi, uffici e ristoranti
+Condomini e capannoni
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
+# Pergole e tettoie in Veneto e Friuli
+URL: https://danova-tech.com/pergole-e-tettoie/
+Descrizione: Pergole in legno e alluminio, pergole bioclimatiche, pergotende e tettoie per case, ristoranti e hotel in Veneto e Friuli, con pratiche edilizie comprese. Sopralluogo gratuito.
+========================================================================
+
+Home / Real Estate / Impresa edile / Pergole e tettoie
+
+Pergole e tettoie · Veneto e Friuli
+
+## Pergole e tettoie: l’esterno diventa una stanza in più.
+
+Progettiamo e realizziamo pergole in legno o alluminio, pergole bioclimatiche con lamelle orientabili, pergotende e tettoie per case, ristoranti e hotel: dalle fondazioni alla posa, con le verifiche e le pratiche edilizie.
+
+Richiedi il sopralluogo gratuito
+
+Le soluzioni
+
+Su misura Legno o alluminio Bioclimatiche Pratiche comprese
+
+Le soluzioni
+
+## Quale copertura per il vostro esterno
+
+01
+
+## Pergola in legno
+
+Calda e naturale, con travi in lamellare trattato e copertura in telo, cannicciato o vetro.
+
+02
+
+## Pergola in alluminio
+
+Leggera, senza manutenzione, con profili sottili e colori a scelta.
+
+03
+
+## Pergola bioclimatica
+
+Lamelle orientabili che regolano sole e ventilazione e si chiudono contro la pioggia.
+
+04
+
+## Pergotenda
+
+Telo impacchettabile su guide: ombra quando serve, cielo aperto quando si vuole.
+
+05
+
+## Tettoia
+
+Copertura fissa in legno, alluminio, policarbonato o vetro per ingressi, posti auto e terrazzi.
+
+06
+
+## Chiusure laterali
+
+Tende verticali, vetrate scorrevoli e frangivento per usare lo spazio più mesi all’anno.
+
+Permessi
+
+## Serve un permesso per pergole e tettoie?
+
+Dipende dal tipo di struttura e dal Comune. Le pergotende e le pergole bioclimatiche leggere, aperte sui lati e senza creare nuovo volume, dal 2024 rientrano in molti casi nell’ edilizia libera grazie al decreto Salva Casa, sempre nel rispetto dei regolamenti comunali e dei vincoli paesaggistici.
+
+Le tettoie fisse, le pergole chiuse e le strutture più grandi richiedono di solito una pratica edilizia e il rispetto delle distanze dai confini. In condominio servono anche le regole del regolamento condominiale.
+
+Al sopralluogo verifichiamo con i nostri tecnici cosa serve e prepariamo noi la pratica. Leggete anche pratiche edilizie CILA e SCIA .
+
+Come lavoriamo
+
+## Dal progetto alla posa
+
+- Sopralluogo Misure, esposizione al sole, ancoraggi possibili e scarico dell’acqua.
+
+- Progetto e render Scegliete materiale, colore e copertura vedendo il risultato in 3D.
+
+- Pratiche Verifica delle regole comunali e pratica edilizia quando serve.
+
+- Fondazioni e ancoraggi Plinti, piastre o fissaggi a muro dimensionati per vento e neve.
+
+- Posa e finiture Montaggio, grondaie, luci integrate e chiusure laterali.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo di una pergola
+
+Il prezzo dipende da dimensioni , materiale (legno, alluminio), tipo di copertura (telo, lamelle orientabili, vetro), fondazioni e ancoraggi, accessori come luci, motorizzazioni e chiusure laterali, e dalle pratiche necessarie.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Le garanzie
+
+## Un esterno nuovo a prezzo bloccato
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Che differenza c’è tra pergola e tettoia?
+La pergola ha una copertura leggera o mobile (telo, lamelle) e serve soprattutto a fare ombra; la tettoia ha una copertura fissa che ripara anche dalla pioggia e di solito richiede una pratica edilizia.
+
+Serve il permesso per una pergola bioclimatica?
+In molti casi è edilizia libera se è aperta sui lati e non crea volume, ma dipende da regolamento comunale e vincoli. Lo verifichiamo al sopralluogo.
+
+Meglio legno o alluminio?
+Il legno è più caldo e naturale ma richiede manutenzione periodica; l’alluminio è leggero, non si deforma e quasi non ha manutenzione.
+
+Fate pergole per ristoranti e hotel?
+Sì, anche dehors con chiusure laterali e luci integrate.
+
+Quanto costa una pergola?
+Dipende da misure, materiale, copertura e accessori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete vivere di più il vostro esterno?
+
+Mandateci una foto del terrazzo o del giardino: fissiamo il sopralluogo.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Pavimentazioni esterne e terrazzi
+Progettazione e render 3D
+Pratiche edilizie CILA e SCIA
+Ristrutturazione hotel
+Arredo hotel e contract
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
 # Portale rivenditori B2B: ordini e listini
 URL: https://danova-tech.com/portale-rivenditori-b2b/
 Descrizione: Portale rivenditori B2B su misura: listini personalizzati, disponibilità in tempo reale, ordini, documenti e garanzie, collegato al vostro gestionale.
@@ -51226,6 +53038,164 @@ Prezzi
 
 
 ========================================================================
+# Porte blindate in Veneto e Friuli
+URL: https://danova-tech.com/porte-blindate/
+Descrizione: Porte blindate certificate in classe antieffrazione, con isolamento termico e acustico, rivestimenti su misura e sostituzione del vecchio portoncino in Veneto e Friuli.
+========================================================================
+
+Home / Real Estate / Impresa edile / Porte blindate
+
+Porte blindate · Veneto e Friuli
+
+## Porte blindate: sicurezza certificata, posa a regola d’arte.
+
+Forniamo e posiamo porte blindate certificate per appartamenti, case e uffici: classe antieffrazione adatta al rischio, serrature di sicurezza, isolamento termico e acustico e rivestimenti abbinati alle porte interne.
+
+Richiedi il sopralluogo gratuito
+
+Cosa scegliere
+
+Classe antieffrazione Isolamento termico Rivestimenti su misura Detrazione fiscale
+
+In breve
+
+## La porta blindata in poche righe
+
+Una porta blindata si sceglie per classe antieffrazione (norma UNI EN 1627: la classe 3 è la più diffusa nelle abitazioni, la 4 per rischi maggiori), per serratura (cilindro europeo di sicurezza, elettronica o motorizzata) e per isolamento termico e acustico . La sicurezza vera dipende anche dalla posa : controtelaio ancorato bene al muro e regolazioni precise. La sostituzione può rientrare nella detrazione per ristrutturazioni come misura contro i furti.
+
+Norma UNI EN 1627, classi 1–6
+
+Casa Di solito classe 3
+
+Serrature Cilindro europeo, elettroniche, motorizzate
+
+Comfort Isolamento termico e acustico
+
+Estetica Pannelli abbinati alle porte interne
+
+Bonus Detrazione per misure antifurto
+
+Cosa scegliere
+
+## Come scegliere la porta blindata
+
+01
+
+## Classe antieffrazione
+
+Indica quanto resiste a un tentativo di scasso: la scegliamo in base a piano, zona e accessi.
+
+02
+
+## Serratura e cilindro
+
+Cilindro europeo antitrapano e antibumping, o serrature elettroniche con codice e app.
+
+03
+
+## Isolamento
+
+Porte coibentate per ingressi su vano scala freddo o direttamente all’esterno.
+
+04
+
+## Acustica
+
+Guarnizioni e paraspifferi automatici per isolare dai rumori del condominio.
+
+05
+
+## Rivestimenti
+
+Pannelli lisci, laccati, in legno o pantografati, interno ed esterno diversi.
+
+06
+
+## Condominio
+
+Pannello esterno uguale alle altre porte del pianerottolo, se il regolamento lo chiede.
+
+Come lavoriamo
+
+## Dalla misura alla porta montata
+
+- Sopralluogo e misure Verifichiamo vano, muro e controtelaio esistente.
+
+- Scelta Classe, serratura, isolamento e rivestimenti.
+
+- Rimozione Smontaggio della vecchia porta e, se serve, del controtelaio.
+
+- Posa Ancoraggio al muro, regolazioni, guarnizioni e finiture.
+
+- Consegna Chiavi, card di duplicazione e documenti della certificazione.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo di una porta blindata
+
+Il prezzo dipende da classe antieffrazione , serratura , isolamento termico e acustico, rivestimenti , misura del vano e dal fatto che si mantenga o si sostituisca il controtelaio .
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Per le porte interne abbinate guardate porte interne ; per hotel e locali pubblici le porte REI .
+
+Le garanzie
+
+## Una porta sicura senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Che classe di porta blindata serve per un appartamento?
+Nella maggior parte delle abitazioni la classe 3 è un buon equilibrio; per piani terra, ville isolate o rischi maggiori si valuta la classe 4.
+
+Si può sostituire solo la porta mantenendo il telaio?
+Spesso sì, con porte o kit di riqualificazione pensati per il controtelaio esistente. Lo verifichiamo al sopralluogo.
+
+La porta blindata rientra nelle detrazioni?
+Sì, la sostituzione con una porta blindata può rientrare nella detrazione per ristrutturazioni come misura per prevenire i furti; nel 2026 il 50% sull’abitazione principale e il 36% sugli altri immobili.
+
+Quanto tempo serve per montarla?
+In genere mezza giornata o una giornata, senza lasciare la casa aperta.
+
+Quanto costa una porta blindata?
+Dipende da classe, serratura, isolamento e rivestimenti. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete una porta d’ingresso più sicura?
+
+Diteci piano e tipo di ingresso: fissiamo il sopralluogo gratuito.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Porte interne
+Porte REI tagliafuoco
+Pavimenti e serramenti
+Bonus ristrutturazione 2026
+Ristrutturazione appartamenti e case
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
 # Porte interne e blindate: fornitura e posa in Veneto e Friuli
 URL: https://danova-tech.com/porte-interne-e-blindate/
 Descrizione: Fornitura e montaggio di porte interne a filo muro, scorrevoli, a battente e porte blindate per case, uffici e hotel in Veneto e Friuli.
@@ -51355,6 +53325,7 @@ Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chi
 
 ## Pagine collegate
 
+Porte blindate: la pagina dedicata
 Porte REI tagliafuoco
 Cartongesso e controsoffitti
 Pavimenti e serramenti
@@ -53960,6 +55931,7 @@ Condomini e capannoni Parti comuni, facciate, coperture e immobili produttivi.
 
 ## General contractor
 
+Impresa edile: tutte le lavorazioni Muratura, cartongesso, imbiancature, bagni, impianti, tetti, resine, pergole e pratiche, con un solo referente.
 General contractor Un unico contratto per progetto, imprese, forniture e direzione del cantiere.
 Hotel chiavi in mano Ristrutturazione, arredo, sito web e gestionale: un solo partner.
 Progettazione e render 3D Vedete il risultato prima di aprire il cantiere.
@@ -53983,6 +55955,20 @@ Muratore e opere murarie Demolizioni, tramezzi, aperture, intonaci, massetti e r
 Imbianchino e tinteggiature Pareti rasate e tinteggiate, pittura antimuffa, smalti e facciate.
 Impianti elettrici e idraulici Rifacimento impianti a norma, con dichiarazione di conformità.
 Pavimenti e serramenti Parquet, gres, resine, finestre e portefinestre.
+
+## Superfici, strutture e risanamento
+
+Microcemento Pavimenti, bagni e pareti continui, senza fughe, anche sopra le vecchie piastrelle.
+Pavimenti in resina Resine per case, negozi, garage e capannoni: lisce, resistenti, facili da pulire.
+Stucco veneziano e decorazioni Marmorino, grassello e finiture a calce per pareti di pregio.
+Pergole e tettoie In legno, alluminio o bioclimatiche, con pratiche e permessi.
+Porte blindate Fornitura e posa certificata, anche sul telaio esistente.
+Soppalchi Metri in più in legno, acciaio o laterocemento, con calcoli strutturali.
+Scale interne Scale a giorno, a chiocciola o in muratura, su misura.
+Cerchiatura muro portante Aprire o allargare un passaggio in sicurezza, con progetto strutturale e pratiche.
+Umidità di risalita Diagnosi e risanamento di muri umidi, salnitro e intonaci che si staccano.
+Rimozione amianto ed eternit Bonifica con ditta autorizzata e nuovo tetto, pratiche ASL comprese.
+Sanatoria edilizia Difformità, Salva Casa e regolarizzazioni prima di vendere o ristrutturare.
 
 ## Arredo
 
@@ -56979,6 +58965,164 @@ Condomini e capannoni
 Bonus ristrutturazione 2026
 Pratiche CILA e SCIA
 Danova Real Estate
+
+
+========================================================================
+# Rimozione amianto ed eternit in Veneto e Friuli
+URL: https://danova-tech.com/rimozione-amianto-eternit/
+Descrizione: Rimozione e smaltimento di coperture in eternit (cemento-amianto) con ditte autorizzate, piano di lavoro all’ASL, e rifacimento del tetto in Veneto e Friuli.
+========================================================================
+
+Home / Real Estate / Impresa edile / Rimozione amianto ed eternit
+
+Eternit · Veneto e Friuli
+
+## Rimozione eternit: bonifica a norma e tetto nuovo.
+
+Coordiniamo la rimozione di coperture, canne fumarie e serbatoi in eternit con ditte iscritte all’Albo dei gestori ambientali per la bonifica dell’amianto, e subito dopo rifacciamo la copertura con isolamento e nuovo manto: un unico referente dal piano di lavoro al tetto finito.
+
+Richiedi il sopralluogo gratuito
+
+Come funziona
+
+Ditte autorizzate Piano di lavoro ASL Smaltimento certificato Nuovo tetto
+
+In breve
+
+## La bonifica dell’eternit in poche righe
+
+L’ eternit (cemento-amianto) è vietato dal 1992 ma è ancora presente su molti tetti, capannoni, tettoie e canne fumarie. Finché è integro il rischio è basso; quando è rotto o degradato può liberare fibre pericolose. La rimozione va fatta solo da ditte iscritte all’Albo nazionale gestori ambientali (categoria 10), con un piano di lavoro presentato all’ASL (SPISAL in Veneto) prima di iniziare, e lo smaltimento in discarica autorizzata con formulario.
+
+Chi può rimuoverlo Ditte iscritte all’Albo, categoria 10
+
+Prima di iniziare Piano di lavoro all’ASL
+
+Alternative Incapsulamento o confinamento
+
+Smaltimento Discarica autorizzata con formulario
+
+Dopo Nuova copertura isolata
+
+Preventivo Gratuito, a prezzo bloccato
+
+Cosa bonifichiamo
+
+## Dove si trova l’eternit
+
+01
+
+## Tetti di case
+
+Lastre ondulate su abitazioni, annessi e rustici.
+
+02
+
+## Capannoni e magazzini
+
+Coperture di grandi superfici, anche con lucernari.
+
+03
+
+## Tettoie e garage
+
+Piccole coperture spesso dimenticate, nei cortili e nei posti auto.
+
+04
+
+## Canne fumarie
+
+Condotti in cemento-amianto di vecchie caldaie e stufe.
+
+05
+
+## Serbatoi e cassoni
+
+Vecchi cassoni dell’acqua in sottotetti e terrazzi.
+
+06
+
+## Pannelli e pavimenti
+
+Pannelli e piastrelle in vinil-amianto, da verificare con analisi.
+
+Come funziona
+
+## Dalla verifica al tetto nuovo
+
+- Sopralluogo Verifica di stato, superficie e accessi; analisi del materiale se serve.
+
+- Piano di lavoro La ditta autorizzata lo presenta all’ASL prima dell’inizio dei lavori.
+
+- Rimozione in sicurezza Trattamento con incapsulante, smontaggio senza rompere le lastre, imballaggio.
+
+- Smaltimento Trasporto in discarica autorizzata e consegna dei documenti.
+
+- Nuova copertura Struttura, isolamento, impermeabilizzazione e manto nuovo.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo della bonifica
+
+Il prezzo dipende da superficie e stato delle lastre, altezza e accessi (ponteggi, linee vita, piattaforme), distanza dalla discarica e tipo di nuova copertura .
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Rimozione e nuovo tetto rientrano spesso nelle detrazioni per ristrutturazioni ; per la copertura nuova leggete rifacimento tetto .
+
+Le garanzie
+
+## Una bonifica a norma senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+È obbligatorio rimuovere l’eternit?
+Non sempre: se è integro va controllato periodicamente. Se è degradato o rotto va bonificato con rimozione, incapsulamento o confinamento. Alcuni Comuni e Regioni hanno regole e censimenti specifici.
+
+Posso togliere l’eternit da solo?
+No: rimozione e smaltimento devono essere fatti da ditte autorizzate, con piano di lavoro all’ASL. Fare da sé è pericoloso e sanzionato.
+
+Quanto tempo serve?
+Dopo la presentazione del piano di lavoro, la rimozione di una copertura di una casa richiede in genere pochi giorni; segue il rifacimento del tetto.
+
+La bonifica rientra nelle detrazioni?
+Sì, la rimozione dell’amianto e il rifacimento della copertura possono rientrare nelle detrazioni per ristrutturazioni.
+
+Quanto costa rimuovere l’eternit?
+Dipende da superficie, stato, accessi e nuova copertura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Avete una copertura in eternit?
+
+Mandateci una foto: fissiamo il sopralluogo e vi diciamo come procedere.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Rifacimento tetto
+Guida: quanto costa rifare il tetto
+Condomini e capannoni
+Isolamento sottotetto
+Bonus ristrutturazione 2026
+Impresa edile: tutte le lavorazioni
 
 
 ========================================================================
@@ -79129,6 +81273,312 @@ Danova Real Estate
 
 
 ========================================================================
+# Sanatoria edilizia in Veneto e Friuli
+URL: https://danova-tech.com/sanatoria-edilizia/
+Descrizione: Sanatoria edilizia per difformità e piccoli abusi: verifica della conformità, CILA tardiva, accertamento di conformità e regole del Salva Casa, prima di vendere o ristrutturare.
+========================================================================
+
+Home / Real Estate / Impresa edile / Sanatoria edilizia
+
+Sanatoria · Veneto e Friuli
+
+## Sanatoria edilizia: l’immobile in regola, prima di vendere o ristrutturare.
+
+Con i nostri tecnici verifichiamo se lo stato reale della casa corrisponde ai titoli edilizi e al catasto, e regolarizziamo le difformità con la pratica giusta. Se servono lavori per tornare in regola, li eseguiamo noi.
+
+Richiedi una verifica
+
+Come funziona
+
+Verifica di conformità CILA tardiva Accertamento di conformità Aggiornamento catastale
+
+In breve
+
+## La sanatoria in poche righe
+
+Una difformità edilizia è una differenza tra com’è davvero l’immobile e cosa risulta nei titoli edilizi: un tramezzo spostato, una finestra allargata, una veranda chiusa. Si scopre spesso al momento di vendere , chiedere un mutuo o ristrutturare . Molte difformità si regolarizzano: con la CILA tardiva per opere interne, con l’ accertamento di conformità per le altre. Dal 2024 il decreto Salva Casa ha ampliato le tolleranze e semplificato la sanatoria delle difformità parziali.
+
+Quando serve Vendita, mutuo, ristrutturazione, bonus
+
+Primo passo Accesso agli atti e rilievo
+
+Pratiche CILA tardiva, accertamento di conformità
+
+Novità Tolleranze e regole del Salva Casa (2024)
+
+Catasto Planimetria aggiornata
+
+Lavori Eventuali opere di ripristino
+
+Casi frequenti
+
+## Le difformità che troviamo più spesso
+
+01
+
+## Tramezzi spostati
+
+Distribuzione interna diversa da quella depositata in Comune.
+
+02
+
+## Finestre e porte modificate
+
+Aperture allargate, spostate o chiuse rispetto al progetto.
+
+03
+
+## Verande e balconi chiusi
+
+Chiusure con vetrate che possono creare volume.
+
+04
+
+## Soppalchi e sottotetti
+
+Spazi resi abitabili senza pratica.
+
+05
+
+## Cambi d’uso
+
+Magazzini o garage usati come abitazione.
+
+06
+
+## Catasto non aggiornato
+
+Planimetria catastale diversa dallo stato reale.
+
+Come funziona
+
+## Dalla verifica all’immobile in regola
+
+- Accesso agli atti Recuperiamo in Comune i titoli edilizi e le planimetrie.
+
+- Rilievo Confronto tra stato reale, progetto e catasto.
+
+- Relazione Elenco delle difformità e delle strade possibili per regolarizzarle.
+
+- Pratica CILA tardiva, accertamento di conformità o altra pratica, con sanzioni e oneri dovuti.
+
+- Lavori e catasto Eventuali opere di ripristino e aggiornamento catastale.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo di una sanatoria
+
+Il costo dipende dal numero e dal tipo di difformità , dalla pratica necessaria, dalle sanzioni e oblazioni stabilite dalla legge e dal Comune, dall’aggiornamento catastale e dagli eventuali lavori di ripristino.
+
+Dopo la verifica ricevete una relazione con le strade possibili e un preventivo scritto per pratiche e lavori.
+
+Se state per ristrutturare, conviene sanare prima: leggete pratiche edilizie CILA e SCIA e la guida CILA o SCIA .
+
+Le garanzie
+
+## Pratiche chiare senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Si possono sanare tutte le difformità?
+No: si sanano quelle conformi alle regole urbanistiche ed edilizie secondo quanto previsto dalla legge. Per le altre si valuta il ripristino. La verifica iniziale serve proprio a capirlo.
+
+Cos’è la CILA tardiva?
+È la comunicazione presentata dopo aver fatto lavori che richiedevano la CILA, per esempio lo spostamento di tramezzi. Si paga una sanzione e i lavori vengono regolarizzati.
+
+Cosa ha cambiato il Salva Casa?
+Il decreto del 2024 ha ampliato le tolleranze costruttive, semplificato la sanatoria delle difformità parziali e reso più facili alcuni cambi d’uso, con condizioni precise. Le applichiamo caso per caso.
+
+Posso vendere casa con una difformità?
+Le difformità possono bloccare rogito e mutuo o ridurre il prezzo. Conviene verificarle e sanarle prima di mettere in vendita.
+
+Quanto costa una sanatoria?
+Dipende da difformità, pratica, sanzioni e lavori. Dopo la verifica ricevete un preventivo scritto.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete sapere se la casa è in regola?
+
+Fissiamo una verifica con i nostri tecnici.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Pratiche edilizie CILA e SCIA
+Guida: CILA o SCIA
+Cerchiatura muro portante
+Soppalchi
+Pergole e tettoie
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
+# Scale interne in Veneto e Friuli
+URL: https://danova-tech.com/scale-interne/
+Descrizione: Scale interne su misura in legno, acciaio, vetro o muratura, a giorno, a chiocciola o a sbalzo, anche con apertura del solaio e pratiche strutturali, in Veneto e Friuli.
+========================================================================
+
+Home / Real Estate / Impresa edile / Scale interne
+
+Scale interne · Veneto e Friuli
+
+## Scale interne: su misura, dal solaio all’ultimo gradino.
+
+Progettiamo e realizziamo scale interne in legno, acciaio, vetro e muratura per case, duplex, mansarde e soppalchi. Se serve apriamo il solaio con il calcolo strutturale e prepariamo le pratiche.
+
+Richiedi il sopralluogo gratuito
+
+I tipi di scala
+
+Su misura Apertura del solaio Calcolo strutturale Rivestimento gradini
+
+I tipi di scala
+
+## Quale scala per la vostra casa
+
+01
+
+## Scala in muratura
+
+Solida e definitiva, rivestita in legno, gres, pietra o microcemento.
+
+02
+
+## Scala a giorno
+
+Gradini senza alzata su struttura in acciaio o legno: leggera e luminosa.
+
+03
+
+## Scala a sbalzo
+
+Gradini ancorati al muro che sembrano sospesi, con verifica del muro portante.
+
+04
+
+## Scala a chiocciola
+
+Quando lo spazio è poco, per soppalchi e sottotetti.
+
+05
+
+## Scala a giorno con vetro
+
+Parapetti in vetro stratificato per non rubare luce.
+
+06
+
+## Rivestimento di scale esistenti
+
+Nuovi gradini in legno, gres o microcemento sopra la vecchia scala.
+
+Solaio e regole
+
+## Aprire il solaio e rispettare le misure
+
+Per collegare due piani spesso bisogna aprire il solaio : è un intervento strutturale che richiede il calcolo di un ingegnere, eventuali rinforzi e la pratica edilizia con il deposito strutturale quando previsto.
+
+Pendenza, alzata e pedata dei gradini, larghezza e altezza dei parapetti seguono le norme e il regolamento edilizio: le verifichiamo nel progetto, con un render per vedere la scala prima di costruirla.
+
+Per creare un livello in più guardate anche i soppalchi .
+
+Come lavoriamo
+
+## Dal progetto alla scala finita
+
+- Sopralluogo Misure, altezza tra i piani, posizione possibile e struttura del solaio.
+
+- Progetto e render Tipo di scala, materiali e parapetti, con calcolo strutturale.
+
+- Pratiche Pratica edilizia e documenti strutturali se si apre il solaio.
+
+- Opere Apertura e rinforzo del solaio, struttura della scala.
+
+- Finiture Gradini, parapetti, luci segnapasso e tinteggiatura.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo di una scala
+
+Il prezzo dipende dal tipo di scala , dai materiali di struttura, gradini e parapetti, dall’eventuale apertura del solaio e dalle pratiche strutturali.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Le garanzie
+
+## Una scala su misura a prezzo bloccato
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Serve un permesso per fare una scala interna?
+Se si apre il solaio sì: è un intervento strutturale con progetto e pratica edilizia. Se si sostituisce una scala esistente senza toccare la struttura spesso basta meno.
+
+Quanto spazio serve per una scala?
+Dipende dall’altezza tra i piani e dal tipo: una chiocciola occupa poco, una rampa dritta molto di più. Lo valutiamo con un rilievo.
+
+Si può rivestire una scala vecchia?
+Sì, con gradini in legno, gres o microcemento posati sopra quelli esistenti, se la struttura è sana.
+
+Fate anche i parapetti?
+Sì, in acciaio, legno o vetro stratificato, a norma.
+
+Quanto costa una scala interna?
+Dipende da tipo, materiali e opere sul solaio. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Dovete collegare due piani?
+
+Fissiamo il sopralluogo: vi diciamo dove e come fare la scala.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Soppalchi
+Cerchiatura muro portante
+Microcemento
+Progettazione e render 3D
+Pratiche edilizie CILA e SCIA
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
 # SEO locale e posizionamento su Google Maps
 URL: https://danova-tech.com/seo-locale/
 Descrizione: SEO locale per attività e aziende: scheda Google Business Profile, posizionamento su Google Maps, recensioni e pagine per città. Misurata in chiamate.
@@ -87095,6 +89545,154 @@ Software trasporti e logistica
 E-commerce collegato al gestionale
 Software MES per la produzione
 Prezzi
+
+
+========================================================================
+# Soppalchi in Veneto e Friuli
+URL: https://danova-tech.com/soppalchi/
+Descrizione: Soppalchi in legno, acciaio o laterocemento per case, mansarde, negozi e magazzini in Veneto e Friuli: progetto strutturale, pratiche edilizie, scale e parapetti.
+========================================================================
+
+Home / Real Estate / Impresa edile / Soppalchi
+
+Soppalchi · Veneto e Friuli
+
+## Soppalchi: metri quadri in più dove c’è altezza.
+
+Realizziamo soppalchi abitabili e di servizio in legno, acciaio o laterocemento per appartamenti, mansarde, loft, negozi e magazzini: verifica delle altezze, calcolo strutturale, pratica edilizia, scala e parapetti.
+
+Richiedi il sopralluogo gratuito
+
+Le soluzioni
+
+Calcolo strutturale Pratiche comprese Scala e parapetti Legno o acciaio
+
+Le soluzioni
+
+## Quale soppalco per il vostro spazio
+
+01
+
+## Soppalco in legno
+
+Travi in lamellare e tavolato: caldo, leggero, ideale in case e mansarde.
+
+02
+
+## Soppalco in acciaio
+
+Struttura sottile e luci ampie, con piano in legno, lamiera grecata o vetro.
+
+03
+
+## Soppalco in laterocemento
+
+Solaio vero e proprio, per carichi alti e ambienti stabili nel tempo.
+
+04
+
+## Soppalco abitabile
+
+Camera, studio o cabina armadio, se le altezze lo permettono.
+
+05
+
+## Soppalco di servizio
+
+Ripostiglio o deposito sopra bagni, corridoi e negozi.
+
+06
+
+## Magazzini e negozi
+
+Soppalchi industriali per raddoppiare l’area di stoccaggio.
+
+Regole e permessi
+
+## Altezze, strutture e pratiche
+
+Ogni regolamento edilizio comunale fissa le altezze minime sotto e sopra il soppalco e la superficie massima rispetto alla stanza: sono queste regole a dire se il soppalco può essere abitabile o solo di servizio.
+
+Serve un progetto strutturale firmato da un ingegnere, perché il soppalco carica muri e solai, e una pratica edilizia (di solito CILA o SCIA, più il deposito strutturale quando richiesto). Li prepariamo con i nostri tecnici.
+
+Leggete anche pratiche edilizie CILA e SCIA e, per salire, la pagina scale interne .
+
+Come lavoriamo
+
+## Dal rilievo al soppalco finito
+
+- Sopralluogo e rilievo Misuriamo altezze e verifichiamo muri e solai di appoggio.
+
+- Progetto e calcolo Render, calcolo strutturale e scelta dei materiali.
+
+- Pratiche Pratica edilizia e documenti strutturali.
+
+- Struttura Montaggio di travi, piano di calpestio e ancoraggi.
+
+- Scala, parapetti e finiture Scala, parapetti a norma, luci e tinteggiatura.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo di un soppalco
+
+Il prezzo dipende da superficie , materiale della struttura, carichi previsti, tipo di scala e parapetti , finiture e pratiche strutturali.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Le garanzie
+
+## Un piano in più senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Che altezza serve per fare un soppalco?
+La decide il regolamento edilizio del vostro Comune, diversa per soppalchi abitabili e di servizio. La verifichiamo al sopralluogo prima di progettare.
+
+Serve un permesso per il soppalco?
+Sì, di solito una pratica edilizia e un progetto strutturale. Li prepariamo noi.
+
+Il soppalco aumenta la superficie catastale?
+Può farlo se è abitabile: in quel caso si aggiorna la planimetria catastale, che il tecnico prepara a fine lavori.
+
+Meglio legno o acciaio?
+Il legno è caldo e leggero; l’acciaio permette luci più ampie e strutture più sottili. Spesso si combinano.
+
+Quanto costa un soppalco?
+Dipende da superficie, materiali, scala, parapetti e pratiche. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Avete una stanza alta da sfruttare?
+
+Mandateci misure e altezza: vi diciamo se il soppalco si può fare.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Scale interne
+Cartongesso e controsoffitti
+Pratiche edilizie CILA e SCIA
+Progettazione e render 3D
+Ristrutturazione appartamenti e case
+Impresa edile: tutte le lavorazioni
 
 
 ========================================================================
@@ -118730,6 +121328,146 @@ Allestimenti fieristici
 
 
 ========================================================================
+# Stucco veneziano e decorazioni in Veneto e Friuli
+URL: https://danova-tech.com/stucco-veneziano-e-decorazioni/
+Descrizione: Stucco veneziano, marmorino, pitture a calce, velature ed effetti materici per case, negozi e hotel in Veneto e Friuli, applicati da decoratori esperti.
+========================================================================
+
+Home / Real Estate / Impresa edile / Stucco veneziano e decorazioni
+
+Decorazioni · Veneto e Friuli
+
+## Stucco veneziano e decorazioni: pareti che si toccano.
+
+Applichiamo a mano stucco veneziano, marmorino, pitture a calce, velature ed effetti materici: per un soggiorno, una parete del letto, un bagno, la hall di un hotel o un negozio.
+
+Richiedi il sopralluogo gratuito
+
+Le finiture
+
+Applicazione a mano Calce e marmorino Anche in bagno Campioni prima di iniziare
+
+Le finiture
+
+## Le decorazioni che realizziamo
+
+01
+
+## Stucco veneziano
+
+Grassello di calce e polvere di marmo in più mani sottili, lucidato a ferro: profondo e lucido come il marmo.
+
+02
+
+## Marmorino
+
+Finitura a calce più materica, opaca o satinata, per interni ed esterni.
+
+03
+
+## Pittura a calce
+
+Velata e traspirante, ideale per case storiche e muri che devono respirare.
+
+04
+
+## Velature ed effetti
+
+Effetti nuvolati, spatolati, metallizzati e sabbiati.
+
+05
+
+## Bagni e cucine
+
+Finiture a calce e cera protettiva, o in alternativa il microcemento.
+
+06
+
+## Hotel e negozi
+
+Pareti scenografiche per hall, reception e vetrine.
+
+Come lavoriamo
+
+## Dal campione alla parete finita
+
+- Sopralluogo Verifichiamo il fondo e la luce della stanza.
+
+- Campioni Prepariamo campioni di colore e finitura da vedere dal vivo.
+
+- Preparazione Rasatura e fondo perfetti: è ciò che fa la differenza.
+
+- Applicazione Più mani a spatola, con lucidatura o spazzolatura.
+
+- Protezione Cera o protettivi dove servono, per bagni e zone di passaggio.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo dello stucco veneziano
+
+Il prezzo dipende dalla finitura scelta, dal numero di mani , dallo stato del fondo da rasare, dalla superficie e da dettagli come spigoli, archi e nicchie.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Per tinteggiature tradizionali c’è la pagina imbianchino e tinteggiature .
+
+Le garanzie
+
+## Pareti uniche senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Che differenza c’è tra stucco veneziano e marmorino?
+Lo stucco veneziano è più liscio e lucido, applicato in mani sottilissime; il marmorino ha una grana più materica e un aspetto opaco o satinato.
+
+Lo stucco veneziano si può usare in bagno?
+Sì, con la protezione a cera adatta; nelle docce consigliamo invece microcemento o rivestimenti specifici.
+
+Si può applicare su una parete già tinteggiata?
+Sì, dopo aver preparato il fondo con rasatura e primer adatti.
+
+Si può fare una sola parete?
+Certo: spesso si decora solo la parete del divano, del letto o della reception.
+
+Quanto costa lo stucco veneziano?
+Dipende da finitura, mani, fondo e superficie. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Volete una parete speciale?
+
+Fissiamo il sopralluogo e vi portiamo i campioni.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Imbianchino e tinteggiature
+Microcemento
+Guida: quanto costa imbiancare casa
+Ristrutturazione hotel
+Negozi, uffici e ristoranti
+Impresa edile: tutte le lavorazioni
+
+
+========================================================================
 # Sviluppo app aziendali in Veneto e Triveneto
 URL: https://danova-tech.com/sviluppo-app-aziendali-veneto/
 Descrizione: Sviluppo di applicazioni aziendali su misura in Veneto e Triveneto: magazzino, tecnici in trasferta, aree clienti. Collegate al vostro gestionale.
@@ -119959,6 +122697,164 @@ Stand modulari
 Noleggio stand
 Moquette per fiere
 Allestimenti fieristici
+
+
+========================================================================
+# Umidità di risalita: diagnosi e risanamento muri in Veneto e Friuli
+URL: https://danova-tech.com/umidita-di-risalita/
+Descrizione: Umidità di risalita e muri umidi: diagnosi delle cause, barriera chimica, intonaci deumidificanti, vespaio aerato e drenaggi per case e cantine in Veneto e Friuli.
+========================================================================
+
+Home / Real Estate / Impresa edile / Umidità di risalita
+
+Muri umidi · Veneto e Friuli
+
+## Umidità di risalita: prima la diagnosi, poi il rimedio.
+
+Intonaco che si sfarina, salnitro, macchie alla base dei muri e odore di umido: risaniamo murature di case, taverne e cantine partendo dalla causa, perché condensa, infiltrazioni e risalita si curano in modo diverso.
+
+Richiedi il sopralluogo gratuito
+
+Le soluzioni
+
+Diagnosi della causa Barriera chimica Intonaci deumidificanti Vespaio aerato
+
+In breve
+
+## L’umidità di risalita in poche righe
+
+L’ umidità di risalita è l’acqua del terreno che sale per capillarità nei muri senza una barriera alla base, portando con sé i sali che rovinano intonaci e pitture (il salnitro ). È tipica delle case più vecchie e dei piani terra, molto diffusa nella pianura veneta e friulana. Prima di intervenire va distinta da condensa e infiltrazioni , che hanno cause e rimedi diversi.
+
+Segni tipici Macchie alla base, salnitro, intonaco che si stacca
+
+Dove Piani terra, taverne, cantine, case vecchie
+
+Primo passo Diagnosi della causa
+
+Rimedi Barriera chimica, taglio, intonaci, vespaio
+
+Da escludere Condensa e infiltrazioni
+
+Preventivo Gratuito, a prezzo bloccato
+
+Le soluzioni
+
+## I rimedi che usiamo
+
+01
+
+## Barriera chimica
+
+Iniezioni alla base del muro di prodotti che bloccano la risalita capillare.
+
+02
+
+## Taglio meccanico
+
+Inserimento di una barriera impermeabile nel muro, nei casi in cui è possibile.
+
+03
+
+## Intonaci deumidificanti
+
+Intonaci macroporosi che lasciano evaporare l’acqua e trattengono i sali.
+
+04
+
+## Vespaio aerato
+
+Pavimento staccato dal terreno con igloo ventilati, per piani terra e taverne.
+
+05
+
+## Drenaggi e impermeabilizzazioni
+
+Per muri contro terra, cantine e interrati con infiltrazioni.
+
+06
+
+## Finiture traspiranti
+
+Pitture ai silicati o a calce che non chiudono il muro.
+
+Come lavoriamo
+
+## Dalla diagnosi al muro asciutto
+
+- Sopralluogo e diagnosi Misure di umidità, altezza delle macchie, sali e verifica di condensa e infiltrazioni.
+
+- Scelta del rimedio Una o più soluzioni combinate, spiegate per iscritto.
+
+- Rimozione dell’intonaco Demolizione dell’intonaco degradato oltre la zona umida.
+
+- Intervento Barriera, drenaggi o vespaio, e nuovo intonaco deumidificante.
+
+- Finitura Pitture traspiranti e indicazioni per i mesi di asciugatura.
+
+Cosa incide sul prezzo
+
+## Da cosa dipende il costo del risanamento
+
+Il prezzo dipende da metri lineari di muro da trattare, spessore e tipo di muratura , altezza dell’intonaco da rifare, rimedio scelto e lavori collegati come pavimenti e battiscopa.
+
+Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Se le macchie sono negli angoli alti e sulle pareti fredde, probabilmente è condensa: leggete la guida cappotto termico interno .
+
+Le garanzie
+
+## Muri sani senza sorprese
+
+Sopralluogo e preventivo gratuiti Veniamo a vedere, misuriamo e vi consegniamo un preventivo dettagliato voce per voce, senza impegno.
+
+Prezzo bloccato, chiavi in mano Il prezzo concordato è quello che pagate: niente extra a sorpresa a lavori iniziati.
+
+Tempi scritti nel contratto Data di inizio e di consegna messe nero su bianco, con il cronoprogramma dei lavori.
+
+Un unico referente Una sola persona coordina squadre, fornitori, pratiche e vi aggiorna sull’avanzamento.
+
+FAQ
+
+## Domande frequenti.
+
+Come capisco se è umidità di risalita o condensa?
+La risalita parte dal pavimento e forma una fascia irregolare alla base dei muri, spesso con salnitro; la condensa compare negli angoli, dietro i mobili e sulle pareti fredde, soprattutto in inverno. Al sopralluogo lo verifichiamo con le misure.
+
+La pittura antimuffa risolve?
+No: copre le macchie per poco tempo. Bisogna fermare l’acqua e rifare l’intonaco con materiali adatti.
+
+Quanto tempo serve perché il muro si asciughi?
+Dopo l’intervento il muro si asciuga gradualmente, in mesi più che in settimane, a seconda dello spessore.
+
+Il risanamento rientra nel bonus?
+Spesso sì, se fa parte di un intervento di manutenzione straordinaria con pratica edilizia; lo verifica il tecnico caso per caso.
+
+Quanto costa eliminare l’umidità di risalita?
+Dipende da metri di muro, muratura e rimedio scelto. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato.
+
+Il sopralluogo è davvero gratuito?
+Sì. Veniamo sul posto, misuriamo, verifichiamo impianti e strutture e vi consegniamo un preventivo scritto voce per voce. Non pagate nulla e non vi impegnate a nulla.
+
+## Muri umidi o salnitro?
+
+Mandateci qualche foto: fissiamo il sopralluogo con la diagnosi.
+
+Nome e azienda
+Email
+
+Telefono
+Di cosa hai bisogno?
+
+Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chiama il +39 388 470 6887 o scrivici su WhatsApp .
+
+## Pagine collegate
+
+Muratore e opere murarie
+Imbianchino e tinteggiature
+Guida: cappotto termico interno
+Pavimentazioni esterne e terrazzi
+Ristrutturazione appartamenti e case
+Impresa edile: tutte le lavorazioni
 
 
 ========================================================================

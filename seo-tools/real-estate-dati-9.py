@@ -1,0 +1,378 @@
+# -*- coding: utf-8 -*-
+"""30/10/2026 - Danova Real Estate, pagine IT (9): posizionamento "impresa edile" e guide sui costi dalle ricerche Google Ads (30/10/2026).
+   - /impresa-edile/ : pagina pilastro "impresa edile" (10K-100K ricerche/mese in Italia) con TUTTE le lavorazioni e i link alle 30 citta'.
+   - 6 guide sui temi piu' cercati (rifare il bagno, vasca in doccia, cartongesso al mq, imbiancare casa, rifare il tetto, cappotto interno).
+   NESSUN PREZZO PUBBLICATO (confermato dal titolare il 30/10/2026): le guide spiegano le voci e quanto pesano sul preventivo.
+   Pagine solo in italiano (solo_it)."""
+import importlib.util, os, html as _h
+_s = importlib.util.spec_from_file_location('re1', os.path.join(os.path.dirname(os.path.abspath(__file__)), 'real-estate-dati-1.py'))
+_m = importlib.util.module_from_spec(_s); _s.loader.exec_module(_m)
+G, _G, RE, svc, FAQ_BASE = _m.G, _m._G, _m.RE, _m.svc, _m.FAQ_BASE
+GUIDE = ("Guide", "/guide/")
+PAGINE = []
+def P(**k): PAGINE.append(dict(lang="it", solo_it=True, faqtitle=f"Domande {G}frequenti.{_G}", altrititle="Pagine collegate", **k))
+def PG(**k): PAGINE.append(dict(lang="it", solo_it=True, faqtitle=f"Domande {G}frequenti.{_G}", altrititle="Approfondimenti collegati", **k))
+
+NOTA = "Non pubblichiamo listini: ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo scritto voce per voce, a prezzo bloccato."
+COLV = ["Voce", "Peso sul preventivo", "Da cosa dipende"]
+
+def tab(caption, cols, rows, nota=NOTA):
+    """Tabella (stile .price-table di real-estate.css). rows = [(colonna1, colonna2 evidenziata, colonna3), ...]"""
+    e = _h.escape
+    o = ['    <div class="price-table-wrap" data-rv="up">\n    <table class="price-table">\n      <caption>%s</caption>\n      <thead><tr>%s</tr></thead>\n      <tbody>\n'
+         % (e(caption), ''.join('<th scope="col">%s</th>' % e(c) for c in cols))]
+    for v, p, n in rows:
+        o.append('        <tr><th scope="row">%s</th><td class="pt-amt" data-label="%s">%s</td><td data-label="%s">%s</td></tr>\n' % (e(v), e(cols[1]), e(p), e(cols[2]), e(n)))
+    o.append('      </tbody>\n    </table>\n    </div>\n')
+    if nota: o.append('    <p class="lead" data-rv="up" style="margin-top:18px;font-size:14px">%s</p>\n' % e(nota))
+    return ''.join(o)
+
+# ------------------------------------------------------------------ CITTA'
+_C = [("Provincia di Treviso", ["Treviso", "Conegliano", "Vittorio Veneto", "Oderzo", "Motta di Livenza", "Montebelluna", "Castelfranco Veneto"]),
+      ("Provincia di Venezia", ["Venezia", "Mestre", "San Donà di Piave", "Portogruaro", "Jesolo", "Chioggia"]),
+      ("Padova, Vicenza, Verona, Rovigo e Belluno", ["Padova", "Cittadella", "Vicenza", "Bassano del Grappa", "Schio", "Verona", "Rovigo", "Belluno", "Feltre"]),
+      ("Friuli Venezia Giulia", ["Pordenone", "Sacile", "Udine", "Codroipo", "Cividale del Friuli", "Gorizia", "Monfalcone", "Trieste"])]
+def _slug(c): return c.lower().replace("à", "a").replace(" ", "-")
+GRUPPI_CITTA = [(g, [("Impresa edile %s" % c, "/ristrutturazioni-%s/" % _slug(c), "Ristrutturazioni e lavori edili a %s e nei comuni vicini." % c) for c in cc]) for g, cc in _C]
+
+# ================================================================== PILASTRO IMPRESA EDILE
+P(url="/impresa-edile/", hero="re-direttore-lavori", heroalt="Responsabile di cantiere dell’impresa edile con i disegni del progetto",
+ title="Impresa edile in Veneto e Friuli | Tutte le lavorazioni edili",
+ desc="Impresa edile in Veneto e Friuli: ristrutturazioni, muratura, cartongesso, imbiancature, bagni, impianti, tetti, cappotto, microcemento, resine, pergole e pratiche. Sopralluogo gratuito.",
+ ogtitle="Impresa edile in Veneto e Friuli", ogdesc="Tutte le lavorazioni edili con un solo referente, un prezzo bloccato e i tempi nel contratto.",
+ crumbs=[RE, ("Impresa edile", None)], eyebrow="Impresa edile · Veneto e Friuli",
+ h1=f"Impresa edile in Veneto e Friuli: {G}tutte le lavorazioni, un solo referente.{_G}",
+ lead="Danova Real Estate è l’impresa edile di Danova Tech, con sede a Mansuè (Treviso). Facciamo ristrutturazioni complete e singoli lavori: muratura e aperture nei muri portanti, cartongesso, imbiancature e decorazioni, bagni, impianti, tetti, cappotto, pavimenti in resina e microcemento, porte blindate, pergole e pratiche edilizie.",
+ cta1="Richiedi il sopralluogo gratuito", cta2="Tutte le lavorazioni",
+ badges=["Sopralluogo gratuito", "Prezzo bloccato", "Tempi nel contratto", "Pratiche e bonus"],
+ sezioni=[
+  {"id": "in-breve", "tipo": "breve", "eyebrow": "In breve", "h2": f"La nostra impresa edile {G}in poche righe{_G}",
+   "testo": "Siamo un’<b>impresa edile</b> che lavora in tutto il <b>Veneto</b> e il <b>Friuli Venezia Giulia</b> per privati, condomini, negozi, uffici, ristoranti e hotel. Potete affidarci una <b>ristrutturazione chiavi in mano</b> o una sola lavorazione, dalla parete in cartongesso al rifacimento del tetto. In ogni caso c’è <b>un unico referente</b> che coordina muratori, cartongessisti, imbianchini, idraulici, elettricisti e posatori, prepara le <b>pratiche edilizie</b> con i nostri tecnici e scrive nel contratto <b>prezzo e tempi</b>.",
+   "fatti": [("Sede", "Mansuè (TV), tra Treviso, Pordenone e Venezia"), ("Zona", "Tutto il Veneto e il Friuli Venezia Giulia"),
+             ("Lavori", "Ristrutturazioni complete e singole lavorazioni"), ("Squadre", "Interne + artigiani selezionati"),
+             ("Sopralluogo", "Gratuito, con preventivo voce per voce"), ("Contratto", "Prezzo bloccato e date scritte"),
+             ("Pratiche", "CILA, SCIA, sanatorie e bonus edilizi"), ("Lingue", "Italiano, inglese, rumeno")]},
+  {"id": "lavorazioni", "tipo": "link", "eyebrow": "Le lavorazioni", "h2": f"Tutti i lavori edili {G}che facciamo{_G}",
+   "lead": "Ogni lavorazione ha la sua pagina con il metodo, le domande frequenti e cosa incide sul prezzo.",
+   "gruppi": [("Ristrutturazioni", [
+                ("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/", "Progetto, pratiche, lavori e consegna con un solo referente."),
+                ("Ristrutturazione appartamenti e case", "/ristrutturazione-appartamenti-e-case/", "Appartamenti, case singole, bifamiliari e a schiera, anche case vecchie."),
+                ("Ristrutturazione bagno", "/ristrutturazione-bagno/", "Bagno nuovo chiavi in mano: demolizione, impianti, piastrelle, sanitari."),
+                ("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/", "Doccia walk-in o a filo pavimento al posto della vasca."),
+                ("Negozi, uffici e ristoranti", "/ristrutturazione-negozi-uffici-ristoranti/", "Locali commerciali rinnovati con chiusure ridotte."),
+                ("Condomini e capannoni", "/ristrutturazione-condomini-e-capannoni/", "Parti comuni, facciate, coperture e immobili produttivi."),
+                ("Ristrutturazione hotel", "/ristrutturazione-hotel/", "Camere, aree comuni e facciate in bassa stagione.")]),
+              ("Opere murarie e strutture", [
+                ("Muratore e opere murarie", "/muratore-e-opere-murarie/", "Demolizioni, tramezzi, aperture, intonaci, massetti, piccoli lavori."),
+                ("Cerchiatura e apertura muro portante", "/cerchiatura-muro-portante/", "Aprire o allargare un vano nel muro portante, con calcolo strutturale."),
+                ("Soppalchi", "/soppalchi/", "Soppalchi in legno, acciaio o laterocemento, con progetto e pratiche."),
+                ("Scale interne", "/scale-interne/", "Scale in legno, acciaio o muratura, anche con apertura del solaio."),
+                ("Umidità di risalita", "/umidita-di-risalita/", "Diagnosi, barriere chimiche, intonaci deumidificanti, vespai."),
+                ("Rimozione amianto ed eternit", "/rimozione-amianto-eternit/", "Bonifica di coperture in eternit con ditte autorizzate e nuovo tetto.")]),
+              ("Cartongesso, pareti e decorazioni", [
+                ("Cartongesso e controsoffitti", "/cartongesso-e-controsoffitti/", "Pareti, contropareti, controsoffitti, librerie, velette, acustica."),
+                ("Pareti divisorie", "/pareti-divisorie/", "Una stanza in più con cartongesso, vetrate e porte scorrevoli."),
+                ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/", "Tinteggiature, rasature, pittura antimuffa, smalti e facciate."),
+                ("Stucco veneziano e decorazioni", "/stucco-veneziano-e-decorazioni/", "Stucco veneziano, marmorino, calce, effetti materici.")]),
+              ("Pavimenti, porte e serramenti", [
+                ("Microcemento", "/microcemento/", "Pavimenti, pareti, bagni e docce senza fughe, anche sopra le piastrelle."),
+                ("Pavimenti in resina", "/pavimenti-in-resina/", "Resina per case, negozi, garage e laboratori."),
+                ("Pavimenti e serramenti", "/pavimenti-e-serramenti/", "Gres, parquet, finestre e portefinestre."),
+                ("Porte blindate", "/porte-blindate/", "Porte di sicurezza certificate, anche con isolamento termico e acustico."),
+                ("Porte interne", "/porte-interne-e-blindate/", "Porte filo muro, scorrevoli a scomparsa e battenti."),
+                ("Porte REI tagliafuoco", "/porte-rei-tagliafuoco/", "Porte resistenti al fuoco per hotel, uffici e locali pubblici."),
+                ("Mobili su misura", "/mobili-su-misura/", "Cucine, armadi, boiserie e arredi per negozi e uffici.")]),
+              ("Impianti, isolamento, tetti ed esterni", [
+                ("Impianti elettrici e idraulici", "/impianti-elettrici-e-idraulici/", "Rifacimento impianti a norma, con dichiarazione di conformità."),
+                ("Cappotto termico", "/cappotto-termico/", "Isolamento esterno e interno per consumare meno."),
+                ("Rifacimento tetto", "/rifacimento-tetto/", "Struttura, isolamento, impermeabilizzazione, tegole e grondaie."),
+                ("Isolamento sottotetto", "/isolamento-sottotetto/", "Pannelli o insufflaggio, in pochi giorni."),
+                ("Facciate e rifacimento facciate", "/facciate-ventilate-e-rifacimento-facciate/", "Ripristino, intonaci, tinteggiature e facciate ventilate."),
+                ("Pergole e tettoie", "/pergole-e-tettoie/", "Pergole in legno o alluminio, bioclimatiche, tettoie e coperture."),
+                ("Pavimentazioni esterne e terrazzi", "/pavimentazioni-esterne/", "Terrazzi, balconi, cortili e vialetti senza infiltrazioni.")]),
+              ("Progetto, pratiche e coordinamento", [
+                ("General contractor", "/general-contractor/", "Un unico contratto per progetto, imprese, forniture e direzione."),
+                ("Progettazione e render 3D", "/progettazione-e-render-3d/", "Vedete il risultato prima di aprire il cantiere."),
+                ("Pratiche edilizie CILA e SCIA", "/pratiche-edilizie-cila-scia/", "Titoli edilizi e sicurezza, preparati dai nostri tecnici."),
+                ("Sanatoria edilizia", "/sanatoria-edilizia/", "Regolarizzare difformità e abusi minori prima di vendere o ristrutturare."),
+                ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/", "Detrazioni al 50% e 36%: cosa spetta e come non perderle."),
+                ("Impresa edile per architetti", "/impresa-edile-per-architetti/", "Realizziamo il vostro progetto, con la nostra rete.")])]},
+  {"id": "richieste", "tipo": "html", "eyebrow": "Le richieste più frequenti", "h2": f"Cosa ci chiedete di più {G}e chi se ne occupa{_G}",
+   "lead": "Le lavorazioni edili più cercate su Google, e come le gestiamo.",
+   "html": tab("Lavorazioni edili più richieste e come le seguiamo", ["Lavorazione", "Chi se ne occupa", "Cosa comprende"], [
+      ("Ristrutturazione bagno", "Idraulici, piastrellisti, muratori", "Demolizione, impianti, impermeabilizzazione, piastrelle, sanitari, doccia walk-in"),
+      ("Cartongesso", "Cartongessisti", "Pareti, contropareti isolanti, controsoffitti, pareti attrezzate, nicchie, velette, acustica"),
+      ("Microcemento e resina", "Applicatori specializzati", "Pavimenti, pareti, docce e piani senza fughe, anche sopra le piastrelle esistenti"),
+      ("Imbianchino e decorazioni", "Imbianchini e decoratori", "Tinteggiature, rasature, antimuffa, stucco veneziano, marmorino"),
+      ("Muratore e strutture", "Muratori con ingegnere strutturista", "Demolizioni, tramezzi, cerchiature, soppalchi, scale, massetti"),
+      ("Impianto elettrico e idraulico", "Elettricisti e idraulici", "Rifacimento completo con dichiarazione di conformità; niente pronto intervento"),
+      ("Porte blindate", "Posatori", "Porte di sicurezza certificate, sostituzione del portoncino, rivestimenti"),
+      ("Tetto, eternit e cappotto", "Carpentieri, lattonieri, ditte autorizzate", "Rimozione eternit, nuovo tetto isolato, cappotto, sottotetto"),
+      ("Pergole e tettoie", "Carpentieri e fabbri", "Pergole in legno o alluminio, bioclimatiche, tettoie, pratiche"),
+      ("Umidità e sanatorie", "Tecnici e muratori", "Diagnosi dell’umidità, barriere, intonaci; pratiche di sanatoria")], nota="")},
+  {"id": "come", "tipo": "passi", "eyebrow": "Come lavoriamo", "h2": f"Dal sopralluogo {G}alla consegna{_G}",
+   "corpo": [("Sopralluogo gratuito", "Veniamo a vedere, misuriamo e verifichiamo impianti e strutture."),
+             ("Preventivo voce per voce", "Quantità, materiali ed esclusioni scritti, a prezzo bloccato."),
+             ("Pratiche e progetto", "CILA, SCIA, calcoli strutturali, render 3D, documenti per i bonus."),
+             ("Cantiere coordinato", "Squadre in sequenza, un referente che vi aggiorna."),
+             ("Consegna e garanzie", "Pulizia finale, certificazioni degli impianti, documenti.")]},
+  {"id": "citta", "tipo": "link", "eyebrow": "Dove lavoriamo", "h2": f"La nostra impresa edile {G}nella vostra città{_G}",
+   "lead": "Lavoriamo in tutto il Veneto e il Friuli Venezia Giulia. Queste sono le città in cui ci chiamano più spesso.",
+   "gruppi": GRUPPI_CITTA},
+  {"id": "guide", "tipo": "link", "eyebrow": "Costi e guide", "h2": f"Cosa fa il prezzo {G}dei lavori edili{_G}",
+   "lead": "Guide sulle voci che compongono un preventivo, lavoro per lavoro.",
+   "gruppi": [("", [
+     ("Quanto costa ristrutturare casa", "/guide/quanto-costa-ristrutturare-casa/", "Le voci che fanno il prezzo di una ristrutturazione."),
+     ("Quanto costa rifare il bagno", "/guide/quanto-costa-rifare-il-bagno/", "Le voci del preventivo e cosa le fa salire."),
+     ("Trasformare la vasca in doccia: i costi", "/guide/quanto-costa-trasformare-vasca-in-doccia/", "Tre soluzioni e cosa decide il prezzo."),
+     ("Cartongesso: cosa fa il prezzo al mq", "/guide/prezzo-cartongesso-al-mq/", "Pareti, contropareti, controsoffitti e lavorazioni speciali."),
+     ("Quanto costa imbiancare casa", "/guide/quanto-costa-imbiancare-casa/", "Come si calcolano i metri e cosa fa salire il conto."),
+     ("Quanto costa rifare il tetto", "/guide/quanto-costa-rifare-il-tetto/", "Solo tegole, tetto isolato, tetto ventilato."),
+     ("Cappotto termico interno", "/guide/cappotto-termico-interno/", "Quando conviene, materiali, spessori e condensa.")])]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Le garanzie", "h2": f"Quattro impegni {G}scritti nel contratto{_G}"}],
+ faq=[("Cosa fa un’impresa edile?", "Esegue lavori di costruzione e ristrutturazione: demolizioni, murature, cartongesso, intonaci, massetti, impianti, pavimenti, coperture e facciate. Un’impresa come la nostra coordina anche i tecnici per pratiche, calcoli strutturali e progetto, così il cliente ha un solo interlocutore."),
+      ("Fate anche piccoli lavori?", "Sì: una parete in cartongesso, una stanza da imbiancare, la vasca da trasformare in doccia, un’apertura nel muro, una porta blindata. Se avete più lavori in programma conviene farli insieme, con un unico cantiere."),
+      ("Posso affidarvi solo una lavorazione?", "Sì. Potete affidarci la singola lavorazione oppure l’intera ristrutturazione: il sopralluogo e il preventivo sono gratuiti in entrambi i casi."),
+      ("Quanto costa un’impresa edile?", "Non pubblichiamo listini perché ogni lavoro è diverso. Dopo il sopralluogo gratuito ricevete un preventivo voce per voce, a prezzo bloccato; nelle guide trovate le voci che compongono il prezzo di ogni lavorazione."),
+      ("Fate pronto intervento idraulico o elettrico?", "No: rifacciamo impianti completi, a norma e con dichiarazione di conformità, dentro una ristrutturazione o come lavoro a sé."),
+      ("Vi occupate delle pratiche e dei bonus?", "Sì, con i nostri tecnici prepariamo CILA, SCIA, sanatorie, calcoli strutturali, la documentazione per le detrazioni e, se serve, l’aggiornamento catastale.")] + FAQ_BASE[3:5],
+ ctabox={"h2": "Avete un lavoro edile da fare?", "p": "Raccontateci cosa vi serve e dove: fissiamo il sopralluogo gratuito.", "btn": "Richiedi il sopralluogo gratuito"},
+ altri=[("Ristrutturazioni chiavi in mano", "/ristrutturazioni-chiavi-in-mano/"), ("General contractor", "/general-contractor/"), ("Chi siamo", "/real-estate/chi-siamo/"),
+        ("Guida: come scegliere l’impresa", "/guide/come-scegliere-impresa-ristrutturazione/"), ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"), ("Danova Real Estate", "/real-estate/")],
+ svc=svc("Impresa edile", "Impresa edile",
+         "Impresa edile per ristrutturazioni e lavori edili in Veneto e Friuli Venezia Giulia: opere murarie e strutturali, cartongesso, tinteggiature e decorazioni, bagni, impianti, tetti, cappotto termico, pavimenti in resina e microcemento, porte blindate, pergole e pratiche edilizie.",
+         ["Ristrutturazioni chiavi in mano", "Opere murarie", "Cerchiature e soppalchi", "Cartongesso e controsoffitti", "Tinteggiature e decorazioni", "Ristrutturazione bagno",
+          "Impianti elettrici e idraulici", "Rifacimento tetto e rimozione eternit", "Cappotto termico", "Microcemento e resina", "Porte blindate", "Pergole e tettoie", "Pratiche edilizie e sanatorie"]))
+
+# ================================================================== GUIDA: BAGNO
+PG(url="/guide/quanto-costa-rifare-il-bagno/", hero="re-bagno2-nuovo", heroalt="Bagno rifatto con doccia walk-in e sanitari sospesi",
+ title="Quanto costa rifare il bagno: le voci che fanno il prezzo",
+ desc="Quanto costa rifare il bagno: demolizione, impianti, impermeabilizzazione, piastrelle, sanitari e doccia, le voci che pesano di più sul preventivo e come risparmiare.",
+ ogtitle="Quanto costa rifare il bagno", ogdesc="Le voci del preventivo del bagno e cosa le fa salire o scendere.",
+ crumbs=[GUIDE, ("Quanto costa rifare il bagno", None)], eyebrow="Guida · Costi del bagno",
+ h1=f"Quanto costa rifare il bagno: {G}le voci che fanno il prezzo.{_G}",
+ lead="Due bagni della stessa metratura possono costare in modo molto diverso. Ecco le voci di un preventivo completo, quali pesano di più e le scelte che fanno salire o scendere il conto.",
+ cta1="Richiedi un preventivo gratuito", cta2="Le voci",
+ sezioni=[
+  {"id": "in-breve", "tipo": "breve", "eyebrow": "In breve", "h2": f"Il costo del bagno {G}in poche righe{_G}",
+   "testo": "Il costo di un <b>bagno completo</b> dipende soprattutto da tre cose: se si <b>spostano i sanitari</b> (e quindi gli scarichi), lo <b>stato degli impianti</b> e il livello di <b>piastrelle, sanitari e rubinetteria</b>. La metratura conta meno di quanto si pensi. Sulla spesa si applica l’IVA al 10% e, nel 2026, la <b>detrazione del 50%</b> sull’abitazione principale (36% sugli altri immobili).",
+   "fatti": [("Voce più pesante", "Impianto idraulico e scarichi"), ("Finiture", "Piastrelle, sanitari, rubinetteria"), ("Cantiere", "In genere 7–15 giorni lavorativi"),
+             ("Pratica", "CILA se si rifanno gli impianti"), ("Detrazione 2026", "50% prima casa, 36% altri"), ("Preventivo", "Gratuito, a prezzo bloccato")]},
+  {"id": "voci", "tipo": "html", "eyebrow": "Voce per voce", "h2": f"Le voci del preventivo {G}e quanto pesano{_G}",
+   "html": tab("Rifacimento bagno: le voci di un preventivo completo", COLV, [
+      ("Demolizione e smaltimento", "Medio", "Quantità di piastrelle e massetto da togliere, piano, ascensore"),
+      ("Impianto idraulico e scarichi", "Alto", "Tubazioni da sostituire fino alla colonna, sanitari da spostare"),
+      ("Impianto elettrico", "Basso", "Punti luce, prese, aspiratore, specchio illuminato"),
+      ("Massetto e impermeabilizzazione", "Medio", "Doccia a filo pavimento, superficie della zona bagnata"),
+      ("Piastrelle e posa", "Alto", "Formato, materiale, posa decorativa, pareti rivestite fino al soffitto"),
+      ("Sanitari e rubinetteria", "Medio-alto", "Sospesi o a terra, rubinetteria a incasso, marche"),
+      ("Doccia, vetro o vasca", "Medio", "Walk-in, box su misura, piatto a filo pavimento"),
+      ("Mobile bagno", "Medio", "Standard o su misura, con specchio e luce"),
+      ("Pratica edilizia", "Basso", "CILA quando si rifanno impianti o si spostano pareti")])},
+  {"id": "fattori", "tipo": "cards", "eyebrow": "Cosa fa cambiare il prezzo", "h2": f"Perché due bagni uguali {G}costano diversamente{_G}",
+   "corpo": [("Spostare i sanitari", "Se wc e doccia cambiano posizione servono nuovi scarichi con le pendenze giuste: è la voce che fa salire di più il preventivo."),
+             ("Lo stato degli impianti", "Tubazioni vecchie in ferro o piombo vanno sostituite fino alla colonna, anche se non si vedono."),
+             ("Le piastrelle", "Grandi formati e posa decorativa richiedono più tempo e più sfrido; rivestire fino al soffitto aumenta i metri."),
+             ("Doccia a filo pavimento", "Serve abbassare il massetto e avere quota per lo scarico: bellissima, ma più lavorazioni di un piatto appoggiato."),
+             ("Piano e accessi", "Piani alti senza ascensore e centri storici allungano i tempi di demolizione e trasporto."),
+             ("Microcemento al posto delle piastrelle", "Niente fughe e niente demolizioni se il fondo è buono: si applica anche sopra le piastrelle esistenti.")]},
+  {"id": "risparmiare", "tipo": "testo", "eyebrow": "Come spendere meglio", "h2": f"Dove si può risparmiare {G}e dove no{_G}",
+   "corpo": ["Si risparmia lasciando <b>wc e doccia dove sono</b>, scegliendo piastrelle di formato standard e rivestendo solo le pareti bagnate, con il resto tinteggiato con pittura lavabile. Anche fare il bagno insieme al resto della casa abbassa il costo, perché demolizioni e impianti si fanno una volta sola.",
+             "Non conviene risparmiare su <b>impermeabilizzazione e scarichi</b>: un’infiltrazione sotto la doccia costa molto più del risparmio iniziale.",
+             "Per le fasi del cantiere e i permessi leggete anche <a href=\"/guide/come-rifare-il-bagno/\">come rifare il bagno</a>; se volete solo eliminare la vasca c’è la guida <a href=\"/guide/quanto-costa-trasformare-vasca-in-doccia/\">trasformare la vasca in doccia</a>."]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Come lavoriamo", "h2": f"Il prezzo del vostro bagno, {G}bloccato{_G}"}],
+ faq=[("Quanto costa rifare un bagno?", "Dipende da impianti da rifare, posizione dei sanitari, demolizioni e soprattutto dalle finiture. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato."),
+      ("Cosa vuol dire bagno tutto compreso?", "Che nel preventivo ci sono demolizione, smaltimento, impianti, impermeabilizzazione, piastrelle, sanitari, doccia, mobile e pulizia finale. Noi lo quotiamo chiavi in mano, a prezzo bloccato."),
+      ("Quanto tempo serve per rifare il bagno?", "Di solito da 7 a 15 giorni lavorativi, di più se si spostano gli scarichi o si aspettano forniture su misura."),
+      ("Il rifacimento del bagno rientra nel bonus?", "Sì, se fa parte di un intervento di manutenzione straordinaria (per esempio rifacimento degli impianti): nel 2026 la detrazione è del 50% sull’abitazione principale e del 36% sugli altri immobili."),
+      ("Perché i prezzi online sono così diversi?", "Perché mettono insieme lavori diversi: un cambio di sanitari e un bagno rifatto da zero hanno la stessa parola, “bagno”, ma lavorazioni molto lontane.")] + FAQ_BASE[:1],
+ ctabox={"h2": "Volete sapere quanto costa il vostro bagno?", "p": "Mandateci una foto e le misure: fissiamo il sopralluogo gratuito.", "btn": "Richiedi un preventivo gratuito"},
+ altri=[("Ristrutturazione bagno chiavi in mano", "/ristrutturazione-bagno/"), ("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/"), ("Microcemento", "/microcemento/"),
+        ("Guida: come rifare il bagno", "/guide/come-rifare-il-bagno/"), ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/")],
+ svc=svc("Guida ai costi del bagno", "Guida", "Le voci che compongono il preventivo per rifare il bagno, quali pesano di più e come risparmiare.", []))
+
+# ================================================================== GUIDA: VASCA IN DOCCIA
+PG(url="/guide/quanto-costa-trasformare-vasca-in-doccia/", hero="re-bagno-nuovo", heroalt="Doccia walk-in realizzata al posto della vasca",
+ title="Trasformare la vasca in doccia: costi, soluzioni e tempi",
+ desc="Quanto costa trasformare la vasca in doccia: sostituzione semplice, doccia walk-in o a filo pavimento, cosa decide il prezzo, tempi, permessi e bonus.",
+ ogtitle="Trasformare la vasca in doccia: i costi", ogdesc="Tre soluzioni e le quattro domande che decidono il prezzo.",
+ crumbs=[GUIDE, ("Trasformare la vasca in doccia: i costi", None)], eyebrow="Guida · Vasca in doccia",
+ h1=f"Trasformare la vasca in doccia: {G}cosa decide il costo.{_G}",
+ lead="Togliere la vasca e mettere una doccia può essere un lavoro di due giorni o un piccolo cantiere: la differenza la fanno lo scarico, il tipo di piatto e quante piastrelle si rifanno. Ecco le tre soluzioni più comuni e cosa incide sul prezzo.",
+ cta1="Richiedi il sopralluogo gratuito", cta2="Le soluzioni",
+ sezioni=[
+  {"id": "soluzioni", "tipo": "html", "eyebrow": "Le soluzioni", "h2": f"Tre soluzioni, {G}tre livelli di lavoro{_G}",
+   "html": tab("Trasformazione vasca in doccia: le soluzioni", ["Soluzione", "Impegno del cantiere", "Cosa comprende"], [
+      ("Sostituzione semplice", "2–3 giorni", "Rimozione vasca, piatto e box della stessa misura, scarico invariato, piastrelle integrate"),
+      ("Doccia walk-in con piatto ribassato", "3–4 giorni", "Piatto sottile, vetro fisso, nuovo rivestimento della zona doccia, miscelatore"),
+      ("Doccia a filo pavimento", "Circa una settimana", "Massetto abbassato, canalina o piletta, impermeabilizzazione completa, eventuale spostamento dello scarico")])},
+  {"id": "fattori", "tipo": "cards", "eyebrow": "Cosa incide sul prezzo", "h2": f"Le quattro domande {G}che decidono il costo{_G}",
+   "corpo": [("Lo scarico resta dov’è?", "Se sì, il lavoro è semplice e veloce. Se va spostato bisogna aprire il pavimento e rifare le pendenze."),
+             ("Piatto appoggiato o a filo?", "Il piatto a filo pavimento è più comodo e sicuro ma richiede di abbassare il massetto."),
+             ("Le piastrelle si trovano ancora?", "Spesso no: si riveste la sola zona doccia con un materiale a contrasto, con il microcemento, o si rifà la parete."),
+             ("Box, vetro fisso o su misura?", "Un vetro fisso walk-in è più semplice di un box con porte; nicchie e sottotetti richiedono vetri su misura.")]},
+  {"id": "tempi", "tipo": "testo", "eyebrow": "Permessi e bonus", "h2": f"Cosa serve {G}per partire{_G}",
+   "corpo": ["Sostituire la vasca senza toccare gli impianti è di solito manutenzione ordinaria e non richiede pratiche. Se si rifanno gli impianti serve una CILA, e l’intervento può rientrare nella <a href=\"/bonus-ristrutturazione-2026/\">detrazione per le ristrutturazioni</a>. Per persone con disabilità o anziani possono valere agevolazioni per l’eliminazione delle barriere architettoniche: verificatele con il vostro tecnico o commercialista.",
+             "Trovate le soluzioni nel dettaglio nella pagina <a href=\"/trasformazione-vasca-in-doccia/\">trasformazione vasca in doccia</a>."]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Come lavoriamo", "h2": f"Una doccia nuova {G}senza sorprese{_G}"}],
+ faq=[("Qual è il modo più economico per trasformare la vasca in doccia?", "Mantenere lo scarico dov’è e usare un piatto e un box della stessa misura della vasca: meno demolizioni, meno piastrelle da rifare, meno giorni di cantiere."),
+      ("Quanto costa trasformare la vasca in doccia?", "Dipende da scarico, tipo di piatto, piastrelle e vetro. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato."),
+      ("Si può fare in un giorno?", "Alcuni sistemi rapidi lo promettono, ma solo se scarico, misure e piastrelle lo permettono. Con l’impermeabilizzazione fatta a regola d’arte servono in genere 2–4 giorni."),
+      ("Serve una pratica edilizia?", "Di solito no, se non si toccano gli impianti. Se si rifanno impianti o si spostano sanitari serve una CILA, che prepariamo noi.")] + FAQ_BASE[:1],
+ ctabox={"h2": "Pronti a dire addio alla vasca?", "p": "Mandateci una foto del bagno: vi diciamo quale soluzione si può fare.", "btn": "Richiedi il sopralluogo gratuito"},
+ altri=[("Trasformazione vasca in doccia", "/trasformazione-vasca-in-doccia/"), ("Guida: quanto costa rifare il bagno", "/guide/quanto-costa-rifare-il-bagno/"), ("Ristrutturazione bagno", "/ristrutturazione-bagno/"),
+        ("Microcemento", "/microcemento/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/"), ("Tutte le guide", "/guide/")],
+ svc=svc("Guida alla trasformazione vasca in doccia", "Guida", "Soluzioni, tempi e fattori di costo per trasformare la vasca in doccia.", []))
+
+# ================================================================== GUIDA: CARTONGESSO
+PG(url="/guide/prezzo-cartongesso-al-mq/", hero="re-cantiere-cartongesso", heroalt="Parete in cartongesso in costruzione con orditura metallica e isolante",
+ title="Cartongesso al mq: cosa fa il prezzo di pareti e controsoffitti",
+ desc="Cartongesso al mq: perché il prezzo cambia tra parete semplice, isolata, acustica, controparete, controsoffitto, lastre per bagno, REI e pareti attrezzate.",
+ ogtitle="Cartongesso al mq: cosa fa il prezzo", ogdesc="Lavorazione per lavorazione, cosa pesa sul preventivo del cartongesso.",
+ crumbs=[GUIDE, ("Cartongesso al mq", None)], eyebrow="Guida · Cartongesso",
+ h1=f"Cartongesso al metro quadro: {G}cosa fa il prezzo.{_G}",
+ lead="Il prezzo del cartongesso al metro quadro cambia molto con il tipo di lavoro: una parete semplice, una parete acustica con doppia lastra e un controsoffitto con luci integrate sono lavorazioni diverse. Ecco come si confrontano e cosa pesa sul preventivo.",
+ cta1="Richiedi un preventivo gratuito", cta2="Le lavorazioni",
+ sezioni=[
+  {"id": "lavorazioni", "tipo": "html", "eyebrow": "Le lavorazioni", "h2": f"Dalla più semplice {G}alla più complessa{_G}",
+   "html": tab("Cartongesso posato e stuccato: le lavorazioni a confronto", ["Lavorazione", "Complessità", "Note"], [
+      ("Parete divisoria semplice", "Base", "Una lastra per lato, orditura da 50–75 mm"),
+      ("Controsoffitto piano", "Base", "Per nascondere impianti o abbassare l’altezza"),
+      ("Controparete isolante", "Media", "Isolamento termico o acustico dall’interno su un muro esistente"),
+      ("Parete con doppia lastra e isolante", "Media", "Lana minerale nell’intercapedine, buon isolamento acustico"),
+      ("Controsoffitto isolato o acustico", "Media", "Contro il rumore del piano di sopra o sotto il tetto"),
+      ("Lastre idrorepellenti (bagno, cucina)", "Media", "Lastre specifiche per pareti bagnate"),
+      ("Parete acustica ad alte prestazioni", "Alta", "Doppia orditura o lastre ad alta densità, per camere, studi, sale musica"),
+      ("Velette, gole luminose, sagome", "Alta", "Più tagli e più ore di posa, predisposizione per LED"),
+      ("Parete attrezzata o libreria", "Alta", "Su misura, con nicchie, ripiani e luci integrate"),
+      ("Parete o controsoffitto REI / EI 120", "Alta", "Più lastre antincendio certificate, per hotel e locali pubblici")])},
+  {"id": "fattori", "tipo": "cards", "eyebrow": "Cosa incide sul prezzo", "h2": f"Perché il cartongesso {G}non ha un prezzo unico{_G}",
+   "corpo": [("Quante lastre", "Una o due lastre per lato cambiano rigidità, isolamento acustico e costo."),
+             ("L’isolante", "Lana di roccia, lana di vetro o pannelli accoppiati: sono loro a fare l’isolamento."),
+             ("Altezza e forma", "Soffitti alti, curve, sagome e velette richiedono più tempo di posa."),
+             ("Porte e rinforzi", "Controtelai per porte scorrevoli e rinforzi per pensili si prevedono durante la posa."),
+             ("Impianti", "Scatole, tubi e corrugati da far passare dentro la parete prima di chiuderla."),
+             ("Finitura", "Stuccatura a più mani per superfici perfette sotto luce radente; la tinteggiatura è a parte.")]},
+  {"id": "confronto", "tipo": "testo", "eyebrow": "Come confrontare i preventivi", "h2": f"Tre cose da controllare {G}prima di firmare{_G}",
+   "corpo": ["Che il preventivo indichi <b>numero di lastre per lato, spessore dell’orditura e tipo di isolante</b>: senza questi dati due prezzi al metro quadro non sono confrontabili.",
+             "Che sia chiaro se la parete è consegnata <b>stuccata e pronta da tinteggiare</b> o solo montata, e se porte, controtelai e punti luce sono compresi.",
+             "Che per pareti acustiche o antincendio siano indicate le <b>prestazioni certificate</b> del sistema. Trovate tutte le lavorazioni nella pagina <a href=\"/cartongesso-e-controsoffitti/\">cartongesso e controsoffitti</a>."]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Come lavoriamo", "h2": f"Lavori a secco {G}con prezzo bloccato{_G}"}],
+ faq=[("Quanto costa il cartongesso al metro quadro?", "Dipende da numero di lastre, isolante, altezza, forme e finitura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato."),
+      ("Il prezzo comprende la pittura?", "Di solito la parete viene consegnata stuccata e pronta da tinteggiare. La tinteggiatura si aggiunge a parte, oppure la facciamo noi nello stesso cantiere."),
+      ("Meglio cartongesso o mattoni per una parete divisoria?", "Il cartongesso è più veloce, più leggero, più pulito e con doppia lastra e isolante isola dal rumore come o meglio di un tramezzo sottile in laterizio."),
+      ("Quanto tempo serve per una parete in cartongesso?", "La struttura si monta in genere in uno o due giorni; con stuccature e pittura il lavoro si completa in pochi giorni."),
+      ("Serve una pratica per una parete in cartongesso?", "Modificare la distribuzione interna richiede di solito una CILA. La prepariamo noi.")],
+ ctabox={"h2": "Avete un lavoro in cartongesso?", "p": "Diteci metri e tipo di parete: il preventivo è gratuito.", "btn": "Richiedi un preventivo gratuito"},
+ altri=[("Cartongesso e controsoffitti", "/cartongesso-e-controsoffitti/"), ("Pareti divisorie", "/pareti-divisorie/"), ("Guida: cappotto termico interno", "/guide/cappotto-termico-interno/"),
+        ("Soppalchi", "/soppalchi/"), ("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/")],
+ svc=svc("Guida al cartongesso al mq", "Guida", "Le lavorazioni in cartongesso a confronto e i fattori che determinano il prezzo al metro quadro.", []))
+
+# ================================================================== GUIDA: IMBIANCARE
+PG(url="/guide/quanto-costa-imbiancare-casa/", hero="re-imbianchino", heroalt="Imbianchino che tinteggia una parete",
+ title="Quanto costa imbiancare casa: come si calcola il prezzo",
+ desc="Quanto costa imbiancare casa: come l’imbianchino calcola i metri quadri, cosa fa salire il prezzo (rasature, muffa, colori, soffitti alti) e come prepararsi.",
+ ogtitle="Quanto costa imbiancare casa", ogdesc="Come si calcolano i metri da dipingere e cosa fa salire il conto.",
+ crumbs=[GUIDE, ("Quanto costa imbiancare casa", None)], eyebrow="Guida · Imbianchino",
+ h1=f"Quanto costa imbiancare casa: {G}come si calcola il prezzo.{_G}",
+ lead="Il prezzo dell’imbianchino si calcola sui metri quadri di pareti e soffitti, non sul pavimento, e cambia molto con lo stato delle superfici. Ecco come si fa il conto e cosa lo fa salire.",
+ cta1="Richiedi un preventivo gratuito", cta2="Come si calcola",
+ sezioni=[
+  {"id": "voci", "tipo": "html", "eyebrow": "Le voci", "h2": f"Cosa pesa {G}sul preventivo dell’imbianchino{_G}",
+   "html": tab("Tinteggiatura: le voci che fanno il prezzo", COLV, [
+      ("Metri quadri di pareti e soffitti", "Alto", "Circa 3–3,5 volte la superficie del pavimento con soffitti a 2,70 m"),
+      ("Stato delle pareti", "Alto", "Crepe, vecchie pitture che si staccano, carta da parati da togliere"),
+      ("Rasature e stuccature", "Medio-alto", "Pareti irregolari o da rendere perfettamente lisce"),
+      ("Tipo di pittura", "Medio", "Traspirante, lavabile, antimuffa, smalti"),
+      ("Colori scuri o forti", "Medio", "Una mano in più per coprire bene"),
+      ("Soffitti alti e scale", "Medio", "Trabattelli o ponteggi, più tempo di posa"),
+      ("Casa abitata", "Basso-medio", "Spostare e proteggere mobili e pavimenti")])},
+  {"id": "calcolo", "tipo": "testo", "eyebrow": "Come si calcola", "h2": f"Metri quadri di pavimento {G}o di parete?{_G}",
+   "corpo": ["L’imbianchino calcola i metri quadri da <b>dipingere</b>: pareti più soffitti. In una casa con soffitti a 2,70 m la superficie da tinteggiare è circa <b>3–3,5 volte</b> quella del pavimento: un appartamento di 80 mq ha circa 250–280 mq tra pareti e soffitti.",
+             "Il prezzo sale con lo <b>stato delle pareti</b>, con i <b>colori scuri</b> che chiedono una mano in più e se la casa è <b>abitata</b> e bisogna spostare e proteggere i mobili.",
+             "Se la muffa torna sempre, la pittura non basta: la causa è condensa, un ponte termico, un’infiltrazione o l’<a href=\"/umidita-di-risalita/\">umidità di risalita</a>. A volte la soluzione è una <a href=\"/guide/cappotto-termico-interno/\">controparete isolante</a> o un <a href=\"/cappotto-termico/\">cappotto termico</a>. Per finiture decorative c’è lo <a href=\"/stucco-veneziano-e-decorazioni/\">stucco veneziano</a>."]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Come lavoriamo", "h2": f"Pareti nuove {G}senza sorprese{_G}"}],
+ faq=[("Quanto costa imbiancare un appartamento?", "Dipende da metri di pareti e soffitti, stato delle superfici, altezze e tipo di pittura. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato."),
+      ("Come si calcolano i metri da imbiancare?", "Si sommano pareti e soffitti, togliendo le aperture grandi. Come regola pratica sono circa 3–3,5 volte i metri quadri del pavimento."),
+      ("La tinteggiatura rientra nel bonus?", "La sola tinteggiatura interna è manutenzione ordinaria e di solito non dà diritto alla detrazione; rientra se fa parte di una ristrutturazione con pratica edilizia."),
+      ("In quanti giorni si imbianca casa?", "Un appartamento di medie dimensioni richiede in genere pochi giorni, a seconda delle rasature.")] + FAQ_BASE[:1],
+ ctabox={"h2": "Che colore volete per casa?", "p": "Diteci quante stanze e in che città: fissiamo il sopralluogo gratuito.", "btn": "Richiedi un preventivo gratuito"},
+ altri=[("Imbianchino e tinteggiature", "/imbianchino-e-tinteggiature/"), ("Stucco veneziano e decorazioni", "/stucco-veneziano-e-decorazioni/"), ("Facciate", "/facciate-ventilate-e-rifacimento-facciate/"),
+        ("Umidità di risalita", "/umidita-di-risalita/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/"), ("Tutte le guide", "/guide/")],
+ svc=svc("Guida ai costi della tinteggiatura", "Guida", "Come si calcola il prezzo per imbiancare casa e cosa lo fa salire.", []))
+
+# ================================================================== GUIDA: TETTO
+PG(url="/guide/quanto-costa-rifare-il-tetto/", hero="re-tetto-cantiere", heroalt="Cantiere di rifacimento di un tetto con isolamento e tegole",
+ title="Quanto costa rifare il tetto: interventi e voci di costo",
+ desc="Quanto costa rifare il tetto: differenza tra sostituzione delle tegole, tetto isolato, tetto ventilato e interventi strutturali, ponteggi, eternit, pratiche e bonus.",
+ ogtitle="Quanto costa rifare il tetto", ogdesc="Dalla sola sostituzione delle tegole al tetto ventilato con nuova struttura.",
+ crumbs=[GUIDE, ("Quanto costa rifare il tetto", None)], eyebrow="Guida · Costi del tetto",
+ h1=f"Quanto costa rifare il tetto: {G}interventi e voci di costo.{_G}",
+ lead="Rifare il tetto può voler dire cambiare solo le tegole o ricostruire struttura, isolamento e manto. Ecco i quattro livelli di intervento, le voci del preventivo e cosa fa salire il costo.",
+ cta1="Richiedi il sopralluogo gratuito", cta2="Gli interventi",
+ sezioni=[
+  {"id": "interventi", "tipo": "html", "eyebrow": "Gli interventi", "h2": f"Quattro livelli {G}di intervento{_G}",
+   "html": tab("Rifacimento tetto: livelli di intervento", ["Intervento", "Impegno", "Cosa comprende"], [
+      ("Sostituzione del manto", "Base", "Tegole o coppi nuovi, guaina, listelli; struttura e isolamento invariati"),
+      ("Manto con isolamento", "Medio", "Barriera al vapore, pannelli isolanti, membrana, tegole"),
+      ("Tetto ventilato completo", "Medio-alto", "Isolamento, camera di ventilazione, manto, lattoneria"),
+      ("Con interventi strutturali", "Alto", "Sostituzione o rinforzo di travi e tavolato, isolamento alto"),
+      ("Voci sempre presenti", "—", "Ponteggio, smaltimenti, tecnici e pratica edilizia, sicurezza")])},
+  {"id": "fattori", "tipo": "cards", "eyebrow": "Cosa incide sul prezzo", "h2": f"Cosa fa salire {G}il preventivo del tetto{_G}",
+   "corpo": [("Lo stato della struttura", "Travi marce o solai in laterocemento da consolidare cambiano completamente il lavoro."),
+             ("Lo spessore dell’isolante", "Più isolante significa meno caldo d’estate e bollette più basse, ma anche più materiale."),
+             ("Forma e accessi", "Tetti a più falde, abbaini, comignoli e vie strette per i mezzi aumentano tempi e ponteggi."),
+             ("Il manto", "Coppi recuperati, tegole in laterizio o lamiera hanno costi e pesi diversi."),
+             ("Lattoneria", "Grondaie, pluviali e scossaline in rame costano più di quelle in alluminio preverniciato."),
+             ("Eternit", "Se c’è una copertura in cemento-amianto va bonificata prima, con ditte autorizzate: la rimozione dell’eternit la coordiniamo noi.")]},
+  {"id": "bonus", "tipo": "testo", "eyebrow": "Pratiche e bonus", "h2": f"Permessi e detrazioni {G}per il tetto{_G}",
+   "corpo": ["Rifare il tetto con la stessa forma e gli stessi materiali è di solito manutenzione straordinaria (CILA o SCIA a seconda del Comune e degli interventi sulla struttura). Se cambiano sagoma o altezze serve un titolo diverso.",
+             "Il rifacimento del tetto rientra nella <a href=\"/bonus-ristrutturazione-2026/\">detrazione per ristrutturazioni</a> (nel 2026 50% sull’abitazione principale e 36% sugli altri immobili); se migliora l’isolamento può rientrare anche negli incentivi per l’efficienza energetica. Trovate il metodo nella pagina <a href=\"/rifacimento-tetto/\">rifacimento tetto</a>."]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Come lavoriamo", "h2": f"Un tetto nuovo {G}a prezzo bloccato{_G}"}],
+ faq=[("Quanto costa rifare il tetto?", "Dipende da superficie, forma, stato della struttura, isolamento, manto e accessi per i ponteggi. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato."),
+      ("Quanto dura il cantiere?", "Per una casa singola in genere da 2 a 4 settimane, meteo permettendo."),
+      ("Si può rifare il tetto abitando in casa?", "Sì: lavoriamo una falda alla volta e chiudiamo ogni sera con teli impermeabili."),
+      ("Conviene isolare il tetto quando si rifà?", "Quasi sempre sì: il ponteggio e lo smontaggio del manto si fanno comunque, e l’isolamento aggiunto ha un grande beneficio sui consumi.")] + FAQ_BASE[:1],
+ ctabox={"h2": "Il vostro tetto ha bisogno di lavori?", "p": "Facciamo il sopralluogo e vi diciamo se basta il manto o serve di più.", "btn": "Richiedi il sopralluogo gratuito"},
+ altri=[("Rifacimento tetto", "/rifacimento-tetto/"), ("Rimozione amianto ed eternit", "/rimozione-amianto-eternit/"), ("Isolamento sottotetto", "/isolamento-sottotetto/"),
+        ("Bonus ristrutturazione 2026", "/bonus-ristrutturazione-2026/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/"), ("Tutte le guide", "/guide/")],
+ svc=svc("Guida ai costi del rifacimento tetto", "Guida", "Livelli di intervento e voci di costo per rifare il tetto.", []))
+
+# ================================================================== GUIDA: CAPPOTTO INTERNO
+PG(url="/guide/cappotto-termico-interno/", hero="re-cantiere-cartongesso", heroalt="Controparete isolante in cartongesso su un muro perimetrale",
+ title="Cappotto termico interno: quando conviene, materiali e spessori",
+ desc="Cappotto termico interno: quando conviene rispetto al cappotto esterno, materiali, spessori, rischio condensa, ponti termici e cosa incide sul costo.",
+ ogtitle="Cappotto termico interno: la guida", ogdesc="Quando conviene isolare dall’interno e con quali materiali.",
+ crumbs=[GUIDE, ("Cappotto termico interno", None)], eyebrow="Guida · Isolamento dall’interno",
+ h1=f"Cappotto termico interno: {G}quando conviene e come si fa.{_G}",
+ lead="Il cappotto interno isola i muri perimetrali dal lato della casa: è la soluzione quando la facciata non si può toccare o si vuole isolare un solo appartamento. Toglie qualche centimetro alle stanze e va progettato bene per evitare la condensa.",
+ cta1="Richiedi il sopralluogo gratuito", cta2="Quando conviene",
+ sezioni=[
+  {"id": "quando", "tipo": "cards", "eyebrow": "Quando conviene", "h2": f"Interno o esterno: {G}quando scegliere l’interno{_G}",
+   "corpo": [("Facciata vincolata", "Centri storici e edifici tutelati dove il cappotto esterno non si può fare."),
+             ("Un solo appartamento", "In condominio, quando l’assemblea non decide il cappotto sull’intero edificio."),
+             ("Case usate poco", "Seconde case e stanze riscaldate saltuariamente: l’isolamento interno scalda prima."),
+             ("Pareti fredde e muffa", "Muri esposti a nord con condensa, se si risolve anche il ponte termico."),
+             ("Quando NON conviene", "Se si può fare il cappotto esterno: isola meglio, non toglie spazio e corregge tutti i ponti termici."),
+             ("Attenzione alla condensa", "Serve la verifica igrometrica del tecnico e, quasi sempre, un freno al vapore ben sigillato.")]},
+  {"id": "materiali", "tipo": "html", "eyebrow": "I materiali", "h2": f"Con cosa si fa {G}il cappotto interno{_G}",
+   "html": tab("Cappotto termico interno: materiali a confronto", ["Soluzione", "Spessore tipico", "Note"], [
+      ("Controparete in cartongesso con isolante", "5–8 cm", "Lana minerale o pannello accoppiato: la soluzione più diffusa"),
+      ("Fibra di legno o sughero", "6–10 cm", "Materiali naturali e traspiranti, con intonaco o lastra"),
+      ("Calcio silicato", "3–8 cm", "Pannelli minerali capillari, adatti a muri umidi e storici"),
+      ("Aerogel", "1–3 cm", "Pochi millimetri o centimetri quando ogni centimetro conta; il materiale più costoso"),
+      ("Lavori collegati", "—", "Spostamento di prese, radiatori, battiscopa, davanzali e tinteggiatura")])},
+  {"id": "come", "tipo": "testo", "eyebrow": "Come si fa", "h2": f"Spessori, ponti termici {G}e finitura{_G}",
+   "corpo": ["Con <b>4–8 cm</b> di isolante si ottengono già grandi miglioramenti su un muro non isolato. Lo spessore si sceglie con il tecnico in base al muro, al clima e allo spazio disponibile.",
+             "I punti critici sono gli <b>attacchi</b> con solai, pareti interne e finestre: lì il calore passa comunque, e se non si risvolta l’isolante si rischia condensa proprio sugli spigoli. Per questo il freno al vapore va sigillato con cura e i davanzali vanno isolati.",
+             "Se il muro è umido alla base, prima si risolve l’<a href=\"/umidita-di-risalita/\">umidità di risalita</a>. Per la controparete leggete la guida <a href=\"/guide/prezzo-cartongesso-al-mq/\">cartongesso al mq</a>; per isolare dall’esterno la pagina <a href=\"/cappotto-termico/\">cappotto termico</a>."]},
+  {"id": "promesse", "tipo": "promesse", "eyebrow": "Come lavoriamo", "h2": f"Pareti calde {G}senza sorprese{_G}"}],
+ faq=[("Quanto spazio toglie il cappotto interno?", "In genere 5–10 cm per ogni parete isolata; con l’aerogel bastano pochi millimetri o centimetri."),
+      ("Quanto costa il cappotto interno?", "Dipende da materiale, spessore, metri di parete e lavori collegati come prese e radiatori. Non pubblichiamo listini: dopo il sopralluogo gratuito ricevete un preventivo voce per voce a prezzo bloccato."),
+      ("Il cappotto interno crea muffa?", "Può crearla se è progettato o posato male. Con la verifica igrometrica, il freno al vapore sigillato e i ponti termici risvoltati la muffa diminuisce invece di aumentare."),
+      ("Rientra nei bonus?", "Sì, l’isolamento delle pareti può rientrare nelle detrazioni per ristrutturazione o per efficienza energetica, con la documentazione del tecnico."),
+      ("Si può fare stanza per stanza?", "Sì, ma conviene isolare insieme tutte le pareti esterne della stessa stanza per non lasciare punti freddi.")] + FAQ_BASE[:1],
+ ctabox={"h2": "Pareti fredde o muffa?", "p": "Al sopralluogo verifichiamo la causa e vi diciamo se conviene isolare dall’interno.", "btn": "Richiedi il sopralluogo gratuito"},
+ altri=[("Cappotto termico", "/cappotto-termico/"), ("Cartongesso e controsoffitti", "/cartongesso-e-controsoffitti/"), ("Umidità di risalita", "/umidita-di-risalita/"),
+        ("Guida: quando conviene il cappotto", "/guide/quando-conviene-il-cappotto-termico/"), ("Impresa edile: tutte le lavorazioni", "/impresa-edile/"), ("Tutte le guide", "/guide/")],
+ svc=svc("Guida al cappotto termico interno", "Guida", "Quando conviene il cappotto interno, materiali, spessori, condensa e fattori di costo.", []))

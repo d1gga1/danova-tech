@@ -549,7 +549,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -576,7 +576,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -603,7 +603,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -633,7 +633,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -663,7 +663,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -693,7 +693,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -720,7 +720,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -750,7 +750,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -780,7 +780,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -810,7 +810,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -837,7 +837,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -867,7 +867,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -894,7 +894,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -943,7 +943,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1116,7 +1116,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1138,7 +1138,18 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/cerchiatura-muro-portante/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/cerchiatura-muro-portante/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cerchiatura-muro-portante/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-muratore-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1312,7 +1323,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1353,7 +1364,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1369,7 +1380,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1385,7 +1396,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1407,7 +1418,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-venezia-palazzo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1423,7 +1434,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1439,7 +1450,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1455,7 +1466,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1486,7 +1497,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1502,7 +1513,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1544,7 +1555,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1560,7 +1571,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1576,7 +1587,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1592,7 +1603,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1608,7 +1619,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1624,7 +1635,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1640,7 +1651,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1656,7 +1667,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1672,7 +1683,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1688,7 +1699,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1716,7 +1727,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-mare-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1746,7 +1757,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1773,7 +1784,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1800,7 +1811,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1830,7 +1841,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1860,7 +1871,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1887,7 +1898,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1917,7 +1928,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1947,7 +1958,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1977,7 +1988,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2007,7 +2018,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2034,7 +2045,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2064,7 +2075,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2091,7 +2102,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2130,7 +2141,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2222,7 +2233,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2238,7 +2249,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2386,7 +2397,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2402,7 +2413,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2445,7 +2456,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2547,7 +2558,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2572,7 +2583,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2597,7 +2608,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2625,7 +2636,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2653,7 +2664,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2681,7 +2692,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2706,7 +2717,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2731,7 +2742,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2756,7 +2767,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2784,7 +2795,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2812,7 +2823,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2837,7 +2848,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2862,7 +2873,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2890,7 +2901,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2918,7 +2929,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2943,7 +2954,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2971,7 +2982,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2999,7 +3010,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3027,7 +3038,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3055,7 +3066,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3080,7 +3091,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3105,7 +3116,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3133,7 +3144,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3161,7 +3172,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3186,7 +3197,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3211,7 +3222,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3239,7 +3250,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3267,7 +3278,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3292,7 +3303,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3317,7 +3328,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3345,7 +3356,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3361,7 +3372,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3377,7 +3388,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3404,7 +3415,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3474,7 +3485,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3501,7 +3512,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3528,7 +3539,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3550,7 +3561,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3584,7 +3595,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -3622,7 +3633,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4084,7 +4095,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4106,7 +4117,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4230,7 +4241,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4283,7 +4294,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4310,7 +4321,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4351,7 +4362,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4367,7 +4378,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4383,7 +4394,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4438,7 +4449,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4551,7 +4562,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4573,7 +4584,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4891,7 +4902,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4918,7 +4929,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4945,7 +4956,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4961,7 +4972,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -4994,7 +5005,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-venezia-palazzo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5021,7 +5032,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5037,7 +5048,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5053,7 +5064,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5069,7 +5080,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5085,7 +5096,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5101,7 +5112,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5117,7 +5128,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5133,7 +5144,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5221,7 +5232,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5251,7 +5262,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5278,7 +5289,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5305,7 +5316,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5335,7 +5346,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5365,7 +5376,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5392,7 +5403,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5422,7 +5433,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5452,7 +5463,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5482,7 +5493,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5509,7 +5520,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5539,7 +5550,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5566,7 +5577,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5605,7 +5616,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5658,7 +5669,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5674,7 +5685,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5743,7 +5754,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5759,7 +5770,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5786,7 +5797,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5813,7 +5824,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -5871,7 +5882,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6067,7 +6078,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6510,7 +6521,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6535,7 +6546,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6560,7 +6571,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6588,7 +6599,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6616,7 +6627,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6644,7 +6655,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6669,7 +6680,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6694,7 +6705,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6719,7 +6730,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6735,7 +6746,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6763,7 +6774,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6791,7 +6802,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6816,7 +6827,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6841,7 +6852,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6869,7 +6880,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6897,7 +6908,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6922,7 +6933,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6950,7 +6961,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -6978,7 +6989,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7006,7 +7017,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7034,7 +7045,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7059,7 +7070,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7084,7 +7095,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7112,7 +7123,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7140,7 +7151,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7165,7 +7176,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7190,7 +7201,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7218,7 +7229,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7246,7 +7257,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7271,7 +7282,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7296,7 +7307,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7324,7 +7335,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7351,7 +7362,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7378,7 +7389,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7545,7 +7556,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7704,7 +7715,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-mare-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -7774,7 +7785,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -8695,7 +8706,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9366,7 +9377,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9382,7 +9393,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9398,7 +9409,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9414,7 +9425,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9430,7 +9441,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9446,7 +9457,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9462,7 +9473,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9478,7 +9489,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -9787,6 +9798,17 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/guide/cappotto-termico-interno/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/cappotto-termico-interno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/cappotto-termico-interno/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/guide/cila-o-scia/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/cila-o-scia/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/cila-or-scia-italy/"/>
@@ -9798,7 +9820,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9872,7 +9894,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -9899,7 +9921,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10031,7 +10053,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/mockup/guide.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10058,7 +10080,18 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/guide/prezzo-cartongesso-al-mq/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/prezzo-cartongesso-al-mq/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/prezzo-cartongesso-al-mq/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10074,7 +10107,18 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/guide/quanto-costa-imbiancare-casa/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/quanto-costa-imbiancare-casa/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/quanto-costa-imbiancare-casa/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-imbianchino-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10090,6 +10134,28 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/guide/quanto-costa-rifare-il-bagno/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/quanto-costa-rifare-il-bagno/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/quanto-costa-rifare-il-bagno/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/guide/quanto-costa-rifare-il-tetto/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/quanto-costa-rifare-il-tetto/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/quanto-costa-rifare-il-tetto/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/guide/quanto-costa-ristrutturare-casa/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/quanto-costa-ristrutturare-casa/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/renovation-cost-italy/"/>
@@ -10101,7 +10167,18 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/guide/quanto-costa-trasformare-vasca-in-doccia/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/guide/quanto-costa-trasformare-vasca-in-doccia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/guide/quanto-costa-trasformare-vasca-in-doccia/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10139,7 +10216,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -10199,7 +10276,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10252,7 +10329,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10268,7 +10345,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10309,7 +10386,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10325,7 +10402,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10341,7 +10418,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10357,7 +10434,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10370,7 +10447,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/politika-e-cookie-ve/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/cookie-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10386,7 +10463,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10408,7 +10485,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10446,7 +10523,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10473,7 +10550,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10489,7 +10566,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10505,7 +10582,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10527,7 +10604,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-venezia-palazzo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10543,7 +10620,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10559,7 +10636,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10575,7 +10652,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10591,7 +10668,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10607,7 +10684,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10623,7 +10700,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10639,7 +10716,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10655,7 +10732,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10685,7 +10762,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10715,7 +10792,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10742,7 +10819,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10769,7 +10846,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10799,7 +10876,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10829,7 +10906,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10856,7 +10933,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10886,7 +10963,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10916,7 +10993,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10946,7 +11023,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -10973,7 +11050,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11003,7 +11080,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11030,7 +11107,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11069,7 +11146,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11085,7 +11162,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11101,7 +11178,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11117,7 +11194,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11133,7 +11210,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11149,7 +11226,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11165,7 +11242,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11181,7 +11258,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11197,7 +11274,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11210,7 +11287,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/privatesia/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/privacy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -11297,7 +11374,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11322,7 +11399,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11347,7 +11424,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11375,7 +11452,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11403,7 +11480,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11431,7 +11508,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11456,7 +11533,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11481,7 +11558,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11506,7 +11583,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11522,7 +11599,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11550,7 +11627,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11578,7 +11655,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11603,7 +11680,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11628,7 +11705,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11656,7 +11733,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11684,7 +11761,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11709,7 +11786,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11737,7 +11814,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11765,7 +11842,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11793,7 +11870,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11821,7 +11898,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11846,7 +11923,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11871,7 +11948,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11899,7 +11976,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11927,7 +12004,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11952,7 +12029,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -11977,7 +12054,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12005,7 +12082,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12033,7 +12110,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12058,7 +12135,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12083,7 +12160,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12111,7 +12188,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12127,7 +12204,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12154,7 +12231,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12176,7 +12253,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12189,7 +12266,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/kushtet-e-perdorimit/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/terms/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -12217,7 +12294,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-mare-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12287,7 +12364,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12315,7 +12392,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-mare-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12345,7 +12422,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12356,7 +12433,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12372,7 +12449,18 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/impresa-edile/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/impresa-edile/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/impresa-edile/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12501,7 +12589,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12662,6 +12750,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/microcemento/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/microcemento/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/microcemento/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/migrazione-ecommerce/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/migrazione-ecommerce/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/migrazione-ecommerce/"/>
@@ -12684,7 +12783,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12725,7 +12824,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12763,7 +12862,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12779,7 +12878,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12801,7 +12900,29 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-venezia-palazzo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/pavimenti-in-resina/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/pavimenti-in-resina/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/pavimenti-in-resina/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/pergole-e-tettoie/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/pergole-e-tettoie/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/pergole-e-tettoie/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12817,6 +12938,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/porte-blindate/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/porte-blindate/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/porte-blindate/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/porte-interne-e-blindate/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/porte-interne-e-blindate/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://danova-tech.com/en/interior-and-security-doors/"/>
@@ -12828,7 +12960,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12844,7 +12976,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12871,7 +13003,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -12917,7 +13049,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13236,7 +13368,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13323,7 +13455,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13487,7 +13619,18 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/rimozione-amianto-eternit/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/rimozione-amianto-eternit/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/rimozione-amianto-eternit/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13540,7 +13683,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13581,7 +13724,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13608,7 +13751,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13647,7 +13790,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13669,7 +13812,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13694,7 +13837,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13719,7 +13862,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13747,7 +13890,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13817,7 +13960,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13845,7 +13988,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13873,7 +14016,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13898,7 +14041,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13923,7 +14066,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13948,7 +14091,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -13976,7 +14119,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14004,7 +14147,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14029,7 +14172,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14054,7 +14197,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14082,7 +14225,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14110,7 +14253,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14135,7 +14278,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14163,7 +14306,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14191,7 +14334,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14219,7 +14362,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14247,7 +14390,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14272,7 +14415,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14297,7 +14440,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14325,7 +14468,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14353,7 +14496,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14378,7 +14521,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14403,7 +14546,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14431,7 +14574,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14459,7 +14602,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14484,7 +14627,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14509,7 +14652,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14537,7 +14680,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14553,7 +14696,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14569,7 +14712,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14585,7 +14728,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14601,7 +14744,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14617,7 +14760,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14633,7 +14776,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14649,7 +14792,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14665,7 +14808,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14681,7 +14824,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14697,7 +14840,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14713,7 +14856,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14726,7 +14869,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/privatesia/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/privacy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -14742,7 +14885,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14758,7 +14901,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14774,7 +14917,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14790,7 +14933,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14806,7 +14949,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14834,7 +14977,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-mare-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14850,7 +14993,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14888,7 +15031,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14904,7 +15047,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14920,7 +15063,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14950,7 +15093,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -14977,7 +15120,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15004,7 +15147,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15034,7 +15177,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15064,7 +15207,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15091,7 +15234,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15121,7 +15264,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15151,7 +15294,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15181,7 +15324,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15208,7 +15351,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15238,7 +15381,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15265,7 +15408,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15295,7 +15438,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15317,7 +15460,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-venezia-palazzo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15333,7 +15476,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15360,7 +15503,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15373,7 +15516,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/politika-e-cookie-ve/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/cookie-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -15389,7 +15532,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15476,7 +15619,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15492,7 +15635,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15545,7 +15688,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15586,7 +15729,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15613,7 +15756,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15640,7 +15783,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15679,7 +15822,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15701,7 +15844,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15726,7 +15869,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15751,7 +15894,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15779,7 +15922,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15807,7 +15950,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15835,7 +15978,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15860,7 +16003,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15885,7 +16028,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15910,7 +16053,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15938,7 +16081,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15966,7 +16109,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -15991,7 +16134,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16061,7 +16204,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16086,7 +16229,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16114,7 +16257,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16142,7 +16285,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16167,7 +16310,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16195,7 +16338,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16223,7 +16366,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16251,7 +16394,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16279,7 +16422,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16304,7 +16447,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16329,7 +16472,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16357,7 +16500,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16385,7 +16528,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16410,7 +16553,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16435,7 +16578,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16463,7 +16606,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16491,7 +16634,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16516,7 +16659,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16541,7 +16684,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16569,7 +16712,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16591,7 +16734,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16604,7 +16747,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/kushtet-e-perdorimit/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/terms/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -16620,7 +16763,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16636,7 +16779,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -16652,7 +16795,29 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/sanatoria-edilizia/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/sanatoria-edilizia/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/sanatoria-edilizia/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/scale-interne/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/scale-interne/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/scale-interne/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-dopo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17190,6 +17355,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/soppalchi/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/soppalchi/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/soppalchi/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-divisori-dopo-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/spot-pubblicitari-con-intelligenza-artificiale/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/spot-pubblicitari-con-intelligenza-artificiale/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/spot-pubblicitari-con-intelligenza-artificiale/"/>
@@ -17209,7 +17385,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17225,7 +17401,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17241,7 +17417,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17257,7 +17433,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17273,7 +17449,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-porte-rei-hotel-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17289,7 +17465,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-montaggio-porte-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17311,7 +17487,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-venezia-palazzo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17339,7 +17515,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-mare-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17355,7 +17531,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-sottotetto-insufflaggio-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17377,7 +17553,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-ristorante-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17393,7 +17569,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-architetto-impresa-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17409,7 +17585,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17425,7 +17601,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17441,7 +17617,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17457,7 +17633,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17473,7 +17649,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17489,7 +17665,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17505,7 +17681,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17521,7 +17697,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17537,7 +17713,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-soggiorno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17550,7 +17726,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/kushtet-e-perdorimit/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/terms/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/termini/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -17566,7 +17742,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17596,7 +17772,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17626,7 +17802,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17653,7 +17829,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17680,7 +17856,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17710,7 +17886,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17740,7 +17916,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17767,7 +17943,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17797,7 +17973,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17827,7 +18003,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17857,7 +18033,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17884,7 +18060,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17914,7 +18090,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17941,7 +18117,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17957,7 +18133,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17984,7 +18160,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -17997,7 +18173,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/politika-e-cookie-ve/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/cookie-policy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/cookie-policy/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -18010,7 +18186,7 @@
     <xhtml:link rel="alternate" hreflang="sq" href="https://danova-tech.com/sq/privatesia/"/>
     <xhtml:link rel="alternate" hreflang="hi" href="https://danova-tech.com/hi/privacy/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/privacy/"/>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -18026,7 +18202,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-render-3d-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18113,7 +18289,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18166,7 +18342,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18207,7 +18383,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18223,7 +18399,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-tetto-cantiere-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18245,7 +18421,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-cantiere-cartongesso-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18272,7 +18448,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18311,7 +18487,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18338,7 +18514,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18363,7 +18539,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18388,7 +18564,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18416,7 +18592,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18486,7 +18662,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18514,7 +18690,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18542,7 +18718,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18567,7 +18743,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18592,7 +18768,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18617,7 +18793,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18645,7 +18821,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18673,7 +18849,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18698,7 +18874,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18723,7 +18899,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18751,7 +18927,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18779,7 +18955,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18804,7 +18980,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18832,7 +19008,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18860,7 +19036,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18888,7 +19064,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18916,7 +19092,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18941,7 +19117,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18966,7 +19142,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -18994,7 +19170,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19022,7 +19198,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19047,7 +19223,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19072,7 +19248,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19100,7 +19276,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19128,7 +19304,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19153,7 +19329,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-prima-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19178,7 +19354,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19206,7 +19382,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19222,7 +19398,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-terrazzo-esterno-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19238,7 +19414,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-hotel-garda-terrazza-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19254,7 +19430,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-direttore-lavori-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19292,7 +19468,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -19308,7 +19484,7 @@
     <image:image>
       <image:loc>https://danova-tech.com/assets/img/re/re-bagno2-nuovo-1200.webp</image:loc>
     </image:image>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -20211,6 +20387,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://danova-tech.com/stucco-veneziano-e-decorazioni/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/stucco-veneziano-e-decorazioni/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/stucco-veneziano-e-decorazioni/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-imbianchino-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://danova-tech.com/sviluppo-app-aziendali-veneto/</loc>
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/sviluppo-app-aziendali-veneto/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/sviluppo-app-aziendali-veneto/"/>
@@ -20312,7 +20499,7 @@
       <video:duration>5</video:duration>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -20321,6 +20508,17 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/trasporto-e-magazzino-stand-fieristici/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/trasporto-e-magazzino-stand-fieristici/"/>
     <lastmod>2026-10-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://danova-tech.com/umidita-di-risalita/</loc>
+    <xhtml:link rel="alternate" hreflang="it" href="https://danova-tech.com/umidita-di-risalita/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://danova-tech.com/umidita-di-risalita/"/>
+    <image:image>
+      <image:loc>https://danova-tech.com/assets/img/re/re-facciata-cantiere-1200.webp</image:loc>
+    </image:image>
+    <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
