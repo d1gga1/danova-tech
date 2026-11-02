@@ -31,7 +31,6 @@ it_pillar.py) rilanciare, in quest'ordine:
 python3 seo-tools/fiere-2026-10-26/applica.py
 python3 seo-tools/noindex-pagine-lontane.py
 python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
-python3 seo-tools/real-estate-llms.py      # genera-llms-txt toglie la sezione Real Estate: va rimessa
 ```
 Testi delle città: `seo-tools/fiere-2026-10-26/dati_citta_a.py` (Veneto/FVG), `_b.py` (Lombardia, Emilia, Trentino),
 `_c.py` (resto d'Italia), `dati_regioni.py`, `pillar.py`.
