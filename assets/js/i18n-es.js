@@ -3,22 +3,20 @@
 window.I18N=window.I18N||{};
 window.I18N.es={
   code:'ES', name:'Español', htmlLang:'es',
-  nav:{fiere:"Ferias",servizi:'Servicios',prezzi:'Precios',settori:'Para quién',lavori:'Proyectos',processo:'Método',chisiamo:'Sobre nosotros',faq:'FAQ',contatti:'Contacto',cta:'Hablemos'},
+  nav:{servizi:'Servicios',prezzi:'Precios',settori:'Para quién',lavori:'Proyectos',processo:'Método',chisiamo:'Sobre nosotros',faq:'FAQ',contatti:'Contacto',cta:'Hablemos'},
   hero:{
-    l1:'Webs, software', l2:'y stands que',
+    l1:'Webs, software', l2:'y apps que',
     rot:['traen clientes.','venden.','ahorran tiempo.','hacen crecer.','simplifican.'],
-    sub:'Web, SEO, Meta Ads, apps, ERP y stands feriales <b>con un solo socio</b>. Precios escritos en la web, presupuesto cerrado en 24 horas y el boceto lo ves <b>antes de pagar</b>.',
+    sub:'Web, SEO, Meta Ads, apps y ERP <b>con un solo socio</b>. Precios escritos en la web, presupuesto cerrado en 24 horas y el boceto lo ves <b>antes de pagar</b>.',
     cta1:'Presupuesto gratis en 24 horas', cta2:'Ver los precios', trust:'<span class="ht-st" aria-hidden="true">★★★★★</span><b>5,0 en Google</b><i>·</i>Boceto gratis antes de pagar<i>·</i>Precio cerrado en el presupuesto', scroll:'Desliza',
     stats:['Proyectos entregados','Clientes que renuevan','Tiempo medio de lanzamiento','Soporte y supervisión']
   },
-  fiere:{"badge": "Novedad", "news": "Stands feriales llave en mano", "eyebrow": "Montaje de stands", "title": "Tu stand en la feria,<br><span class=\"grad\">llave en mano.</span>", "lead": "Ahora también nos ocupamos del montaje de stands feriales. Sea cual sea tu empresa, encontramos el material necesario, todos los componentes que se requieren y los montadores que construyen tu stand directamente en la feria. Tú te ocupas de tus clientes; nosotros, del resto.", "a": {"t": "Materiales", "p": "Paredes, suelos, gráficas, mobiliario e iluminación: buscamos y suministramos todo el material que necesita tu stand."}, "b": {"t": "Componentes", "p": "Estructuras, perfiles, uniones y cualquier componente que exija el proyecto o la normativa técnica de la feria, listos para usar."}, "c": {"t": "Montadores en la feria", "p": "Equipos de montadores que construyen tu stand directamente en la feria, dentro de los plazos de montaje fijados por el organizador."}, "pts": ["Un único interlocutor del proyecto al montaje", "Presupuesto claro antes de empezar", "Para empresas de cualquier sector y tamaño"], "cta": "Pide presupuesto para tu stand", "cta2": "Más información"},
-  prezzi:{eyebrow:'Precios',title:'Cuánto cuesta,<br><span class="grad">dicho ya.</span>',lead:'Tres niveles para la web, un precio de partida claro para todo lo demás. IVA incluido, y ningún coste que aparezca con el trabajo empezado.',more:'Ver las tarifas completas',note:'Todos los precios con IVA incluido. Web, dominio y accesos están a tu nombre.',oh:'Software y ferias',
+  prezzi:{eyebrow:'Precios',title:'Cuánto cuesta,<br><span class="grad">dicho ya.</span>',lead:'Tres niveles para la web, un precio de partida claro para todo lo demás. IVA incluido, y ningún coste que aparezca con el trabajo empezado.',more:'Ver las tarifas completas',note:'Todos los precios con IVA incluido. Web, dominio y accesos están a tu nombre.',oh:'Software a medida',
     t1:{k:'Para empezar',n:'Esencial',w:'Para estar online, bien y rápido.',a:'350 €',u:'pago único',e:'o 24,80 € al mes, todo incluido',l:'<li>Web corporativa de hasta 5 páginas</li><li>Diseño cuidado con tu marca</li><li>Rápida y perfecta en el móvil</li><li>SEO en Google y Bing: +150 €</li>',b:'Empezar con Esencial'},
     t2:{k:'Para recibir solicitudes',n:'Profesional',w:'Una web que trae contactos cada semana.',a:'1.490 €',u:'pago único',e:'SEO en Google y Bing ya incluido',l:'<li>Hasta 15 páginas: una por servicio y zona</li><li>Textos escritos por nosotros, para que llamen</li><li>SEO completo y ficha de Google Business</li><li>3 meses de cambios y soporte incluidos</li>',b:'Elegir Profesional',badge:'Recomendado'},
     t3:{k:'Para vender online',n:'A medida',w:'E-commerce, varios idiomas, funciones especiales.',a:'desde 2.990 €',u:'por proyecto',e:'cifra cerrada tras el análisis gratuito',l:'<li>E-commerce, reservas o área de clientes</li><li>Conexión con ERP y almacén</li><li>SEO avanzado con contenidos y guías</li><li>Contacto dedicado y soporte prioritario</li>',b:'Pedir una valoración'},
     o1:{k:'Aplicación web',a:'desde 50 €',u:'al mes',e:'o desde 750 € en un pago, operativa enseguida'},
-    o2:{k:'Software de gestión',a:'desde 1.500 €',u:'por proyecto',e:'precio cerrado tras el análisis gratuito de tus procesos'},
-    o3:{k:'Stand ferial',a:'Presupuesto en 24 horas',u:'',e:'diseño, materiales, transporte y montaje con un solo contacto'}
+    o2:{k:'Software de gestión',a:'desde 1.500 €',u:'por proyecto',e:'precio cerrado tras el análisis gratuito de tus procesos'}
   },
   garanzie:{eyebrow:'Riesgo cero',title:'Tres garantías,<br><span class="grad">escritas en el presupuesto.</span>',lead:'Elegir un proveedor nuevo da miedo: todos conocen historias de webs que nunca se terminaron y costes que no paraban de subir. Por eso el riesgo lo asumimos nosotros.',g1:{t:'Pagas solo si te gusta',p:'Antes de cualquier anticipo te enseñamos el boceto del proyecto. Si no te convence, te paras ahí y no pagas nada.'},g2:{t:'A tiempo, o con descuento',p:'La fecha de entrega está escrita en el presupuesto. Por cada semana de retraso por nuestra parte, un 10 % menos sobre el total.'},g3:{t:'Precio bloqueado',p:'El precio cerrado no cambia, aunque el trabajo nos lleve más tiempo del previsto. Las sorpresas corren de nuestra cuenta.'},offer:'<b>Un 10 % de descuento extra</b> si confirmas el presupuesto antes de que acabe la semana en que lo recibes.',btn:'Solicitar presupuesto'},
 
@@ -86,7 +84,6 @@ window.I18N.es={
   dicono:{
     eyebrow:'Lo que dicen los clientes',
     items:[
-      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Reseña de Google · stand ferial en Milán'],
       ['Nuestra web llevaba seis años parada. En tres semanas entregaron algo que por fin se parece a nosotros, y que trae solicitudes todos los días.','MR','Marco R.','Gerente, fabricante de carpintería'],
       ['El sistema que construyeron eliminó tres hojas de cálculo y dos cuadernos de papel. El almacén por fin cuadra.','SL','Sara L.','Responsable de operaciones, distribución'],
       ['Ya habíamos probado campañas de Meta con otras agencias. La diferencia aquí es que explican los números en vez de esconderlos detrás de palabras.','GF','Giulia F.','Responsable de marketing, retail'],
@@ -96,7 +93,7 @@ window.I18N.es={
   faq:{
     eyebrow:'Preguntas frecuentes', title:'Las respuestas <span class="grad">que necesitas.</span>',
     items:[
-      ['¿Cuánto cuesta un proyecto?','Los precios de partida están escritos en la web: web Esencial 350 € (o 24,80 € al mes), Profesional 1.490 € con SEO incluido, A medida desde 2.990 €, web apps desde 50 € al mes, software de gestión desde 1.500 €. Para stands feriales y proyectos a medida recibes en 24 horas un presupuesto a precio cerrado, con cada línea explicada. Todo con IVA incluido.'],
+      ['¿Cuánto cuesta un proyecto?','Los precios de partida están escritos en la web: web Esencial 350 € (o 24,80 € al mes), Profesional 1.490 € con SEO incluido, A medida desde 2.990 €, web apps desde 50 € al mes, software de gestión desde 1.500 €. Para proyectos a medida recibes en 24 horas un presupuesto a precio cerrado, con cada línea explicada. Todo con IVA incluido.'],
       ['¿Y si el proyecto no me gusta?','No pagas. Antes de cualquier anticipo te enseñamos el boceto: si no te convence te paras ahí, sin coste. Y si, una vez empezado, entregamos tarde por nuestra culpa, cada semana de retraso vale un 10 % de descuento sobre el total.'],
       ['¿Hacéis descuentos?','Uno solo, igual para todos: si confirmas el presupuesto antes de que acabe la semana en que lo recibes, tienes un 10 % menos sobre el total.'],
       ['¿En cuánto tiempo estamos online?','Una landing page o una web corporativa suele llevar de 2 a 4 semanas. Una tienda online de 4 a 8. Un ERP o una app se miden en meses, pero trabajamos por módulos: la primera versión utilizable llega mucho antes del final.'],
@@ -115,7 +112,7 @@ window.I18N.es={
     f:{nome:'Nombre y apellidos',tel:'Teléfono',email:'Email (opcional)',azienda:'Empresa / actividad',tipo:'Qué necesitas',send:'Recibir mi presupuesto gratis',pref:'Prefijo',telerr:'Introduce un número de teléfono válido.',emailerr:'Introduce una dirección de email válida o deja el campo vacío.',
        ok:'¡Solicitud enviada! Te respondemos lo antes posible.',
        note:'Al enviar aceptas que te contactemos. Nunca compartimos tus datos con nadie.',
-       opts:['Web / e-commerce','SEO y posicionamiento','Meta Ads y campañas','App a medida','ERP / CRM','Software o automatización',"Stand ferial",'Aún no lo sé, hablemos'],
+       opts:['Web / e-commerce','SEO y posicionamiento','Meta Ads y campañas','App a medida','ERP / CRM','Software o automatización','Aún no lo sé, hablemos'],
        subj:'Nueva solicitud desde la web'}
   },
   footer:{
@@ -234,6 +231,6 @@ window.I18N.es={
       ]}
     }
   },
-  meta:{title:'Diseño web, software a medida y stands feriales | Danova Tech',
-        desc:'Webs desde 350 €, ERP desde 1.500 €, SEO, Meta Ads y stands feriales llave en mano. Presupuesto cerrado en 24 horas y boceto gratis antes de pagar.'}
+  meta:{title:'Diseño web, software a medida y marketing | Danova Tech',
+        desc:'Webs desde 350 €, ERP desde 1.500 €, SEO, Meta Ads, apps y software a medida. Presupuesto cerrado en 24 horas y boceto gratis antes de pagar.'}
 };

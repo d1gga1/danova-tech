@@ -3,22 +3,20 @@
 window.I18N=window.I18N||{};
 window.I18N.de={
   code:'DE', name:'Deutsch', htmlLang:'de',
-  nav:{fiere:"Messen",servizi:'Leistungen',prezzi:'Preise',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
+  nav:{servizi:'Leistungen',prezzi:'Preise',settori:'Für wen',lavori:'Projekte',processo:'Ablauf',chisiamo:'Über uns',faq:'FAQ',contatti:'Kontakt',cta:'Sprechen wir'},
   hero:{
-    l1:'Websites, Software', l2:'und Stände, die',
+    l1:'Websites, Software', l2:'und Apps, die',
     rot:['Kunden bringen.','verkaufen.','Zeit sparen.','wachsen lassen.','vereinfachen.'],
-    sub:'Website, SEO, Meta Ads, Apps, Warenwirtschaft und Messestände <b>aus einer Hand</b>. Preise stehen auf der Website, Festpreisangebot in 24 Stunden, und den Entwurf sehen Sie <b>bevor Sie zahlen</b>.',
+    sub:'Website, SEO, Meta Ads, Apps und Warenwirtschaft <b>aus einer Hand</b>. Preise stehen auf der Website, Festpreisangebot in 24 Stunden, und den Entwurf sehen Sie <b>bevor Sie zahlen</b>.',
     cta1:'Kostenloses Angebot in 24 Std.', cta2:'Preise ansehen', trust:'<span class="ht-st" aria-hidden="true">★★★★★</span><b>5,0 bei Google</b><i>·</i>Kostenloser Entwurf vor der Zahlung<i>·</i>Festpreis im Angebot', scroll:'Scrollen',
     stats:['Umgesetzte Projekte','Kunden, die verlängern','Durchschnittliche Launch-Zeit','Support und Monitoring']
   },
-  fiere:{"badge": "Neu", "news": "Messestände schlüsselfertig", "eyebrow": "Messebau", "title": "Ihr Messestand,<br><span class=\"grad\">schlüsselfertig.</span>", "lead": "Ab sofort übernehmen wir auch den Messebau. Für jedes Unternehmen besorgen wir das nötige Material, alle geforderten Komponenten und die Monteure, die Ihren Stand direkt auf der Messe aufbauen. Sie kümmern sich um Ihre Kunden, wir um den Rest.", "a": {"t": "Material", "p": "Wände, Böden, Grafiken, Möbel und Beleuchtung: Wir finden und liefern das gesamte Material, das Ihr Stand braucht."}, "b": {"t": "Komponenten", "p": "Strukturen, Profile, Verbinder und jedes Bauteil, das das Projekt oder die technischen Richtlinien der Messe verlangen – einsatzbereit."}, "c": {"t": "Monteure vor Ort", "p": "Montageteams, die Ihren Stand direkt auf der Messe aufbauen – in den vom Veranstalter vorgegebenen Aufbauzeiten."}, "pts": ["Ein Ansprechpartner von der Planung bis zum Aufbau", "Ein klares Angebot vor dem Start", "Für Unternehmen jeder Branche und Größe"], "cta": "Angebot für Ihren Stand anfragen", "cta2": "Mehr erfahren"},
-  prezzi:{eyebrow:'Preise',title:'Was es kostet,<br><span class="grad">vorher gesagt.</span>',lead:'Drei Pakete für Websites, ein klarer Einstiegspreis für alles andere. Inkl. MwSt., und keine Kosten, die erst während der Arbeit auftauchen.',more:'Zur vollständigen Preisliste',note:'Alle Preise inkl. MwSt. Website, Domain und Zugänge laufen auf Ihren Namen.',oh:'Software und Messen',
+  prezzi:{eyebrow:'Preise',title:'Was es kostet,<br><span class="grad">vorher gesagt.</span>',lead:'Drei Pakete für Websites, ein klarer Einstiegspreis für alles andere. Inkl. MwSt., und keine Kosten, die erst während der Arbeit auftauchen.',more:'Zur vollständigen Preisliste',note:'Alle Preise inkl. MwSt. Website, Domain und Zugänge laufen auf Ihren Namen.',oh:'Individualsoftware',
     t1:{k:'Zum Einstieg',n:'Start',w:'Schnell und sauber online sein.',a:'350 €',u:'einmalig',e:'oder 24,80 € pro Monat, alles inklusive',l:'<li>Unternehmenswebsite bis 5 Seiten</li><li>Design passend zu Ihrer Marke</li><li>Schnell und einwandfrei am Smartphone</li><li>SEO bei Google und Bing: +150 €</li>',b:'Mit Start beginnen'},
     t2:{k:'Für Anfragen',n:'Professional',w:'Eine Website, die jede Woche Kontakte bringt.',a:'1.490 €',u:'einmalig',e:'SEO bei Google und Bing bereits enthalten',l:'<li>Bis 15 Seiten: eine pro Leistung und Region</li><li>Texte von uns, damit Kunden anrufen</li><li>Komplette SEO und Google-Unternehmensprofil</li><li>3 Monate Änderungen und Support inklusive</li>',b:'Professional wählen',badge:'Empfohlen'},
     t3:{k:'Für Online-Verkauf',n:'Individuell',w:'Onlineshop, mehrere Sprachen, Sonderfunktionen.',a:'ab 2.990 €',u:'pro Projekt',e:'Festbetrag nach der kostenlosen Analyse',l:'<li>Onlineshop, Buchungen oder Kundenbereich</li><li>Anbindung an ERP und Lager</li><li>Fortgeschrittene SEO mit Inhalten</li><li>Fester Ansprechpartner, bevorzugter Support</li>',b:'Einschätzung anfragen'},
     o1:{k:'Web-App',a:'ab 50 €',u:'pro Monat',e:'oder ab 750 € einmalig, sofort einsatzbereit'},
-    o2:{k:'ERP-System',a:'ab 1.500 €',u:'pro Projekt',e:'Festpreis nach kostenloser Analyse Ihrer Abläufe'},
-    o3:{k:'Messestand',a:'Angebot in 24 Std.',u:'',e:'Planung, Material, Transport und Aufbau mit einem Ansprechpartner'}
+    o2:{k:'ERP-System',a:'ab 1.500 €',u:'pro Projekt',e:'Festpreis nach kostenloser Analyse Ihrer Abläufe'}
   },
   garanzie:{eyebrow:'Null Risiko',title:'Drei Garantien,<br><span class="grad">im Angebot festgeschrieben.</span>',lead:'Einen neuen Dienstleister zu wählen, macht Sorgen: Jeder kennt Geschichten von Websites, die nie fertig wurden, und Kosten, die immer weiter stiegen. Deshalb tragen wir das Risiko.',g1:{t:'Sie zahlen nur, wenn es Ihnen gefällt',p:'Vor jeder Anzahlung zeigen wir Ihnen den Entwurf des Projekts. Überzeugt er Sie nicht, hören Sie dort auf und zahlen nichts.'},g2:{t:'Pünktlich oder Rabatt',p:'Der Liefertermin steht im Angebot. Für jede Woche Verspätung, die wir verursachen, 10 % weniger auf den Gesamtbetrag.'},g3:{t:'Festpreis',p:'Der Festpreis ändert sich nicht, auch wenn die Arbeit länger dauert als geplant. Überraschungen gehen auf uns.'},offer:'<b>Zusätzlich 10 % Rabatt</b>, wenn Sie das Angebot bis zum Ende der Woche bestätigen, in der Sie es erhalten.',btn:'Angebot anfordern'},
 
@@ -86,7 +84,6 @@ window.I18N.de={
   dicono:{
     eyebrow:'Was Kunden sagen',
     items:[
-      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Google-Bewertung · Messestand in Mailand'],
       ['Unsere Seite stand seit sechs Jahren still. In drei Wochen bekamen wir etwas, das endlich zu uns passt — und das täglich Anfragen bringt.','MR','Marco R.','Inhaber, Fensterbau'],
       ['Das System, das sie gebaut haben, hat drei Excel-Dateien und zwei Notizbücher ersetzt. Das Lager stimmt jetzt immer.','SL','Sara L.','Leiterin Operations, Handel'],
       ['Meta-Kampagnen hatten wir schon woanders probiert. Der Unterschied ist, dass hier die Zahlen erklärt statt hinter Worten versteckt werden.','GF','Giulia F.','Marketingleiterin, Einzelhandel'],
@@ -96,7 +93,7 @@ window.I18N.de={
   faq:{
     eyebrow:'Häufige Fragen', title:'Die Antworten, die <span class="grad">Sie suchen.</span>',
     items:[
-      ['Was kostet ein Projekt bei Ihnen?','Die Einstiegspreise stehen auf der Website: Website Start 350 € (oder 24,80 € pro Monat), Professional 1.490 € inkl. SEO, Individuell ab 2.990 €, Web-Apps ab 50 € pro Monat, ERP ab 1.500 €. Für Messestände und individuelle Projekte erhalten Sie innerhalb von 24 Stunden ein Festpreisangebot mit erklärten Posten. Alles inkl. MwSt.'],
+      ['Was kostet ein Projekt bei Ihnen?','Die Einstiegspreise stehen auf der Website: Website Start 350 € (oder 24,80 € pro Monat), Professional 1.490 € inkl. SEO, Individuell ab 2.990 €, Web-Apps ab 50 € pro Monat, ERP ab 1.500 €. Für individuelle Projekte erhalten Sie innerhalb von 24 Stunden ein Festpreisangebot mit erklärten Posten. Alles inkl. MwSt.'],
       ['Und wenn mir das Projekt nicht gefällt?','Dann zahlen Sie nicht. Vor jeder Anzahlung zeigen wir Ihnen den Entwurf: Überzeugt er Sie nicht, hören Sie dort auf, ohne Kosten. Und liefern wir nach dem Start durch unser Verschulden zu spät, bringt jede Woche Verspätung 10 % Rabatt auf den Gesamtbetrag.'],
       ['Gewähren Sie Rabatte?','Nur einen, gleich für alle: Wenn Sie das Angebot bis zum Ende der Woche bestätigen, in der Sie es erhalten, zahlen Sie 10 % weniger.'],
       ['Wie lange dauert es bis zum Livegang?','Eine Landingpage oder Unternehmensseite braucht meist 2–4 Wochen. Ein Onlineshop 4–8. Ein individuelles System oder eine App misst man in Monaten, aber wir arbeiten modular: die erste nutzbare Version kommt deutlich früher.'],
@@ -115,7 +112,7 @@ window.I18N.de={
     f:{nome:'Vor- und Nachname',tel:'Telefon',email:'E-Mail (optional)',azienda:'Firma / Betrieb',tipo:'Was brauchen Sie',send:'Kostenloses Angebot erhalten',pref:'Vorwahl',telerr:'Bitte geben Sie eine gültige Telefonnummer ein.',emailerr:'Bitte geben Sie eine gültige E-Mail-Adresse ein oder lassen Sie das Feld leer.',
        ok:'Anfrage gesendet! Wir melden uns so schnell wie möglich.',
        note:'Mit dem Absenden stimmen Sie einer Kontaktaufnahme zu. Wir geben Ihre Daten an niemanden weiter.',
-       opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung',"Messestand / Messebau",'Noch unklar, sprechen wir'],
+       opts:['Website / Onlineshop','SEO und Sichtbarkeit','Meta Ads und Kampagnen','Individuelle App','Warenwirtschaft / CRM','Software oder Automatisierung','Noch unklar, sprechen wir'],
        subj:'Neue Anfrage über die Website'}
   },
   footer:{
@@ -234,6 +231,6 @@ window.I18N.de={
       ]}
     }
   },
-  meta:{title:'Websites, Individualsoftware und Messestände | Danova Tech',
-        desc:'Websites ab 350 €, ERP ab 1.500 €, SEO, Meta Ads und Messestände schlüsselfertig. Festpreisangebot in 24 Stunden, kostenloser Entwurf vor der Zahlung.'}
+  meta:{title:'Websites, Individualsoftware und Marketing | Danova Tech',
+        desc:'Websites ab 350 €, ERP ab 1.500 €, SEO, Meta Ads, Apps und Individualsoftware. Festpreisangebot in 24 Stunden, kostenloser Entwurf vor der Zahlung.'}
 };
