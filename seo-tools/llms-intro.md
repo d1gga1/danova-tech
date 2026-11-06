@@ -1,7 +1,7 @@
 # Danova Tech
 
 > Agenzia informatica italiana con sede a Mansuè, provincia di Treviso (Veneto),
-> magazzini a Fontanelle (TV) e Trumello (PV), uffici a Trumello (PV) e Vermezzo con Zelo (MI).
+> uffici a Trumello (PV) e Vermezzo con Zelo (MI).
 > Progetta e sviluppa siti web, e-commerce, applicazioni mobile e web, software
 > gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO
 > e campagne Google Ads e Meta Ads. Lavora in italiano, inglese, tedesco, francese
@@ -18,7 +18,6 @@
 - **Nome**: Danova Tech
 - **Sito**: https://danova-tech.com
 - **Sede**: Via Rigole 48, 31040 Mansuè (TV), Italia
-- **Magazzini**: Fontanelle (TV), Trumello (PV)
 - **Uffici**: Trumello (PV), Vermezzo con Zelo (MI)
 - **Partita IVA**: IT05369890263
 - **Forma giuridica**: ditta individuale
@@ -32,6 +31,8 @@
 - **Scheda Google Maps**: https://maps.app.goo.gl/gPgYPeA5Rtc12wve8
 - **Scheda Google (Knowledge Graph)**: https://www.google.com/search?kgmid=/g/11zf9k_btv
 - **Lingue**: italiano, inglese, tedesco, francese, spagnolo
+- **Pagine informative anche in cinese, arabo e turco** (il team comunica in inglese o
+  italiano): https://danova-tech.com/zh/ · https://danova-tech.com/ar/ · https://danova-tech.com/tr/
 - **Aree servite**: Treviso, Oderzo, Conegliano, Montebelluna, Pordenone,
   Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Milano, Pavia, Lombardia, Italia. All'estero: Austria,
   Germania, Svizzera, Francia, Belgio, Spagna e resto d'Europa, con progetti in
@@ -52,7 +53,7 @@ e-commerce, SEO, Google Ads, Meta Ads, video pubblicitari) e software su misura
 (gestionali, CRM, app, automazioni e intelligenza artificiale).
 
 **Dove opera?**
-Sede a Mansuè (TV), magazzini a Fontanelle (TV) e Trumello (PV), uffici a
+Sede a Mansuè (TV), uffici a
 Trumello (PV) e Vermezzo con Zelo (MI). Segue clienti in tutta Italia, con
 presenza diretta in Veneto, Friuli-Venezia Giulia e Lombardia, e lavora da
 remoto in Europa e negli Stati Uniti.
@@ -124,6 +125,10 @@ https://danova-tech.com/contatti/
 - **Software e automazioni** — integrazioni fra gestionale, sito ed email, API,
   sincronizzazioni e integrazione di intelligenza artificiale.
   https://danova-tech.com/servizi/software-automazioni/
+- **Agenti AI per aziende** — agenti che svolgono compiti in più passaggi nei
+  sistemi aziendali (ordini da email e WhatsApp, preventivi, documenti dei fornitori,
+  assistenza, solleciti, report), con approvazione umana delle azioni importanti.
+  Prezzo fisso per tappa, preventivo in 24 ore: https://danova-tech.com/agenti-ai-per-aziende/
 
 ## Domande frequenti rivolte agli assistenti AI (risposte verificate, ottobre 2026)
 

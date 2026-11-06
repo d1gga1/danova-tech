@@ -1,5 +1,94 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 6 novembre 2026: SEO Google + assistenti AI su dati reali (Search Console + Keyword Planner)
+
+### Cosa dicono i dati (Search Console, 28/08–03/11, proprietà sc-domain:danova-tech.com)
+- **305 clic, 30.200 impressioni, CTR 1%, posizione media 33,8.** Quasi tutti i clic arrivano dal nome
+  ("danova tech") e dai calendari fiere, che ora sono su danovastand.com. Sui servizi (siti, gestionali, SEO, AI)
+  le impressioni ci sono, ma in posizione 50-100: **zero clic**.
+- I testi non sono il problema: le pagine principali hanno già 2.500-4.000 parole, titoli giusti, FAQ, "In breve"
+  e schema. Google vede un dominio giovane con **pochi link esterni**: è lì che si vince o si perde (vedi sotto).
+- Pagine già vicine alla prima pagina, da spingere con link e recensioni: /agenzia-seo-milano/ (10-15°),
+  /gestionale-palestra/ (15-20°), /gestionali-su-misura-treviso/ (18°), /de/webagentur-suedtirol/ (12-20°: "seo agentur
+  südtirol" 12°, mercato reale e vicino), /software-gestionale-agroalimentare/ (20°), /gestionali-su-misura-verona/ (23°),
+  /web-agency-conegliano/ (24°), /guide/sostituire-excel-con-un-gestionale/ (24°), /app-magazzino-codici-a-barre/ (9°).
+- **Errore grave trovato:** le 536 pagine Danova Real Estate (IT, EN, DE, RO, SQ, HI) erano state cancellate senza
+  redirect. Google le mostrava ancora (es. /arredo-hotel-contract/, /de/renovierungsfirma-auswaehlen/) e davano 404.
+
+### Keyword Planner (06/11, account DANOVA TECH, Italia + DACH + USA/UK, ~660 keyword)
+L'account Ads è in pausa, quindi il Planner mostra fasce di volume e non numeri esatti.
+- **IT, alto volume e attinenti:** software gestionale / gestionale (1k-10k), software house (1k-10k), realizzazione siti
+  web, creazione sito web, web agency, landing page (1k-10k), agenzia seo / consulente seo (1k-10k), spot pubblicitari
+  (1k-10k), **agenti ai (1k-10k, nessuna pagina dedicata: creata)**, gestionale prenotazioni (1k-10k).
+- **IT, 100-1k con alto CPC (= intenzione d'acquisto):** gestionale palestra (fino a 12 €), gestionale studio dentistico,
+  gestionale hotel, gestionale b&b, gestionale centro estetico, gestionale negozio abbigliamento, gestionale dipendenti
+  (fino a 62 €), software/programma preventivi (anche edili), gestione cantieri, rapportini di cantiere, crm aziendale,
+  gestionale cloud, software controllo di gestione, gestione commesse, intelligenza artificiale per aziende,
+  chatbot whatsapp, indicizzare sito su google (molte varianti), posizionamento sito google.
+- **Da non inseguire:** marchi di altri (Zucchetti, TeamSystem, Danea, SAP), "gratis", "corso".
+- **DACH:** Softwareentwicklung e SEO-Optimierung 10k-100k, KI Agentur e Webdesign Agentur 1k-10k: mercati enormi
+  e molto contesi. Realistico solo Alto Adige/Südtirol (già in posizione 12-20).
+- **USA/UK:** web design agency, AI agency 10k-100k, custom software development 1k-10k con CPC 17-77 €:
+  irraggiungibili per un dominio giovane; le pagine città sono già in noindex (scelta corretta, confermata).
+
+### Cosa è stato fatto (nessuna pubblicazione: tutto pronto nella cartella, da controllare e pubblicare)
+1. **536 redirect** verso le stesse pagine su danovacostruzioni.it (verificato: esistono tutte con lo stesso percorso;
+   /real-estate/ va alla home). Stesso schema degli stand (meta refresh 0 + canonical + location.replace).
+   Script: `seo-tools/redirect-real-estate-2026-11-06.py`.
+2. **Bug corretto nei generatori:** genera-sitemap, genera-feed-e-llms e genera-llms-txt avrebbero messo nella sitemap
+   gli ~860 redirect (verso altri domini) alla prossima rigenerazione. Ora li saltano.
+3. **Identità pulita per Google e AI:** tolti i "magazzini di Fontanelle e Trumello" (servivano agli stand) da schema,
+   footer in 5 lingue, Chi siamo, Contatti, llms.txt (401 pagine). Restano sede di Mansuè e uffici di Trumello e
+   Vermezzo con Zelo. Il caso cliente Pan.door.a (Fontanelle) è intatto. Script: `seo-tools/entita-2026-11-06-sedi.py`.
+4. **Pagina nuova /agenti-ai-per-aziende/** (cosa sono, differenza con chatbot e automazioni, 6 esempi, metodo,
+   controllo e AI Act, costi, 6 FAQ, box "In breve" speakable, schema Service + FAQPage). Linkata da 8 pagine AI.
+   Per evitare che le due pagine si facciano concorrenza, /chatbot-aziendale/ ora punta solo su "chatbot aziendale".
+5. **Pagine base /zh/, /ar/ (da destra a sinistra), /tr/**: servizi, prezzi, metodo, FAQ, contatti, per imprese che
+   lavorano in Italia o vogliono entrarci. Dicono chiaramente che il team comunica in inglese o italiano. Hreflang
+   reciproco con le 5 home. Menu e footer restano in inglese.
+6. **Titoli da dati Planner:** gestionale hotel → "hotel e B&B"; gestionale negozio → "taglie e colori"; app timbratura →
+   "gestionale dipendenti"; software preventivi → "programma per preventivi". Script: `seo-tools/titoli-2026-11-06.py`.
+7. llms.txt / llms-full.txt / sitemap (338 URL) / feed rigenerati.
+
+**Verifica finale:** 405 pagine vere, JSON-LD validi al 100%, zero link interni rotti, hreflang reciproco ovunque,
+nessun titolo duplicato o sopra i 75 caratteri.
+
+### Come rigenerare (dopo qualsiasi build)
+```
+python3 seo-tools/pagine-build-2026-11-06.py
+python3 seo-tools/entita-2026-11-06-sedi.py
+python3 seo-tools/titoli-2026-11-06.py
+python3 seo-tools/link-2026-11-06-agenti.py
+python3 seo-tools/redirect-real-estate-2026-11-06.py
+python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
+```
+Nota: i file dati vecchi (pagine-dati-*.py) contengono ancora i magazzini: lo script sedi va sempre rilanciato dopo un build.
+
+### Cosa deve fare il titolare (conta più di tutto il resto messo insieme)
+1. **Pubblicare** (commit + push), poi in Search Console: reinviare la sitemap e fare "Controllo URL → Richiedi
+   indicizzazione" su /agenti-ai-per-aziende/, /zh/, /ar/, /tr/ e sulle pagine quick win elencate sopra.
+   Poi `bash seo-tools/indexnow.sh` (Bing alimenta ChatGPT e Copilot).
+2. **Link esterni (il vero collo di bottiglia).** Obiettivo 2-3 al mese, tutti reali:
+   - un link "sito realizzato da Danova Tech" nel footer dei siti dei clienti (Pan.door.a, GRG Performance, Artantiss,
+     Kone Studio, Oasi Ponza, Unicesd Olympo…), verso la pagina del servizio, non solo la home;
+   - danovastand.com e danovacostruzioni.it → link a danova-tech.com nel footer ("sito e software di Danova Tech");
+   - schede aziendali con link: PagineGialle, Europages, Clutch, GoodFirms, DesignRush, Sortlist, Camera di Commercio
+     di Treviso-Belluno, Confartigianato o CNA, associazioni di categoria dei clienti;
+   - per Südtirol: elenchi e portali locali in tedesco (è la zona dove siete già vicini alla prima pagina).
+3. **Recensioni Google:** dalle 5-20 attuali ad almeno 30, chiedendo ai clienti di citare il servizio e la città
+   ("gestionale per la palestra", "sito a Treviso"). Non vanno messe nello schema del sito (Google ignora le recensioni
+   auto-pubblicate dall'azienda su sé stessa): contano sulla scheda Google.
+4. **Scheda Google:** categorie "Sviluppatore di software" + "Web designer" + "Agenzia di marketing"; un post al mese
+   per servizio (agenti AI, gestionali, sito in 24 ore) con link alla pagina giusta.
+5. **LinkedIn aziendale** (e, quando vorrete, personale del titolare): è tra le fonti che ChatGPT e Google usano di più
+   per riconoscere un'azienda. Appena c'è, va aggiunto a `sameAs` e a llms.txt (2 minuti).
+6. **Casi studio con numeri** (prima/dopo, tempi, clic): uno al mese su /lavori/. Per gli assistenti AI valgono più
+   di qualsiasi pagina servizio.
+7. Facoltativo: con anche solo una piccola spesa attiva su Google Ads, il Planner mostra i volumi esatti invece delle fasce.
+8. Rimisurare fra 4-6 settimane: stesse query, stesso periodo.
+
+---
+
 ## Aggiornamento 26 ottobre 2026 — allestimenti fieristici: Google + assistenti AI
 
 ### Punto di partenza (posizioni misurate il 26/10, file `seo-tools/posizioni-fiere-2026-10-26.md`)

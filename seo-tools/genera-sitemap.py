@@ -48,6 +48,7 @@ nvid=0
 for rel in pages:
     h=open(rel,encoding="utf-8").read()
     if re.search(r'<meta name="robots"[^>]*noindex',h): continue
+    if 'http-equiv="refresh"' in h[:1500]: continue   # redirect verso altri domini (stand, real estate)
     loc=url_of(rel)
     can=re.search(r'<link rel="canonical" href="([^"]+)"',h)
     if can: loc=can.group(1)

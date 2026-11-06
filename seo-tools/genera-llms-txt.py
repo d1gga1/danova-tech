@@ -16,6 +16,7 @@ LEGALE=re.compile(r'(^|/)(privacy|cookie-policy|termini|terms|agb|datenschutz|co
 def info(d):
     h=open(("" if d=="." else d+"/")+"index.html",encoding="utf-8").read()
     if re.search(r'<meta name="robots"[^>]*noindex',h): return None
+    if 'http-equiv="refresh"' in h[:1500]: return None   # redirect verso altri domini
     t=re.search(r'<title>(.*?)</title>',h,re.S)
     t=html.unescape(re.sub(r'\s+',' ',t.group(1))).strip() if t else d
     t=re.sub(r'\s*[|—–-]\s*Danova Tech\s*$','',t)

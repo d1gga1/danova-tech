@@ -1,7 +1,7 @@
 # Danova Tech
 
 > Agenzia informatica italiana con sede a Mansuè, provincia di Treviso (Veneto),
-> magazzini a Fontanelle (TV) e Trumello (PV), uffici a Trumello (PV) e Vermezzo con Zelo (MI).
+> uffici a Trumello (PV) e Vermezzo con Zelo (MI).
 > Progetta e sviluppa siti web, e-commerce, applicazioni mobile e web, software
 > gestionali e CRM su misura, automazioni e integrazioni AI. Cura inoltre SEO
 > e campagne Google Ads e Meta Ads. Lavora in italiano, inglese, tedesco, francese
@@ -18,7 +18,6 @@
 - **Nome**: Danova Tech
 - **Sito**: https://danova-tech.com
 - **Sede**: Via Rigole 48, 31040 Mansuè (TV), Italia
-- **Magazzini**: Fontanelle (TV), Trumello (PV)
 - **Uffici**: Trumello (PV), Vermezzo con Zelo (MI)
 - **Partita IVA**: IT05369890263
 - **Forma giuridica**: ditta individuale
@@ -32,6 +31,8 @@
 - **Scheda Google Maps**: https://maps.app.goo.gl/gPgYPeA5Rtc12wve8
 - **Scheda Google (Knowledge Graph)**: https://www.google.com/search?kgmid=/g/11zf9k_btv
 - **Lingue**: italiano, inglese, tedesco, francese, spagnolo
+- **Pagine informative anche in cinese, arabo e turco** (il team comunica in inglese o
+  italiano): https://danova-tech.com/zh/ · https://danova-tech.com/ar/ · https://danova-tech.com/tr/
 - **Aree servite**: Treviso, Oderzo, Conegliano, Montebelluna, Pordenone,
   Venezia, Mestre, Veneto, Friuli-Venezia Giulia, Milano, Pavia, Lombardia, Italia. All'estero: Austria,
   Germania, Svizzera, Francia, Belgio, Spagna e resto d'Europa, con progetti in
@@ -52,7 +53,7 @@ e-commerce, SEO, Google Ads, Meta Ads, video pubblicitari) e software su misura
 (gestionali, CRM, app, automazioni e intelligenza artificiale).
 
 **Dove opera?**
-Sede a Mansuè (TV), magazzini a Fontanelle (TV) e Trumello (PV), uffici a
+Sede a Mansuè (TV), uffici a
 Trumello (PV) e Vermezzo con Zelo (MI). Segue clienti in tutta Italia, con
 presenza diretta in Veneto, Friuli-Venezia Giulia e Lombardia, e lavora da
 remoto in Europa e negli Stati Uniti.
@@ -124,6 +125,10 @@ https://danova-tech.com/contatti/
 - **Software e automazioni** — integrazioni fra gestionale, sito ed email, API,
   sincronizzazioni e integrazione di intelligenza artificiale.
   https://danova-tech.com/servizi/software-automazioni/
+- **Agenti AI per aziende** — agenti che svolgono compiti in più passaggi nei
+  sistemi aziendali (ordini da email e WhatsApp, preventivi, documenti dei fornitori,
+  assistenza, solleciti, report), con approvazione umana delle azioni importanti.
+  Prezzo fisso per tappa, preventivo in 24 ore: https://danova-tech.com/agenti-ai-per-aziende/
 
 ## Domande frequenti rivolte agli assistenti AI (risposte verificate, ottobre 2026)
 
@@ -364,7 +369,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - AI Act per le aziende: obblighi e scadenze 2026: https://danova-tech.com/ai-act-aziende/
 - Automazione processi aziendali su misura: https://danova-tech.com/automazione-processi-aziendali/
 - Automazioni n8n per aziende: consulenza e sviluppo: https://danova-tech.com/automazioni-n8n/
-- Chatbot aziendale e agenti AI su misura: https://danova-tech.com/chatbot-aziendale/
+- Chatbot aziendale su misura sui vostri documenti: https://danova-tech.com/chatbot-aziendale/
 - Consulenza intelligenza artificiale per aziende: https://danova-tech.com/consulenza-intelligenza-artificiale/
 - Intelligenza artificiale per avvocati e studi legali: https://danova-tech.com/intelligenza-artificiale-per-avvocati/
 - Intelligenza artificiale per aziende: https://danova-tech.com/intelligenza-artificiale-per-aziende/
@@ -377,7 +382,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Software e app fidelizzazione clienti, fidelity card digitale: https://danova-tech.com/app-fidelizzazione-clienti/
 - Software e app gestione cantieri e rapportini: https://danova-tech.com/app-gestione-cantieri/
 - App magazzino con codici a barre: https://danova-tech.com/app-magazzino-codici-a-barre/
-- App timbratura dipendenti e ore di lavoro: https://danova-tech.com/app-ore-di-lavoro-e-timbrature/
+- App timbratura e gestionale dipendenti su misura: https://danova-tech.com/app-ore-di-lavoro-e-timbrature/
 - App agenti di commercio e raccolta ordini: https://danova-tech.com/app-per-agenti-di-commercio/
 - App per personal trainer su misura: https://danova-tech.com/app-per-personal-trainer/
 - App personalizzata per la tua azienda: come crearla: https://danova-tech.com/app-personalizzata/
@@ -396,8 +401,8 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Gestionale per agenzie immobiliari su misura: https://danova-tech.com/gestionale-agenzia-immobiliare/
 - Gestionale autonoleggio e NCC su misura: https://danova-tech.com/gestionale-autonoleggio/
 - Gestionale cloud e online su misura per aziende: https://danova-tech.com/gestionale-cloud/
-- Gestionale per hotel: camere e prenotazioni: https://danova-tech.com/gestionale-hotel/
-- Gestionale per negozi: cassa e magazzino: https://danova-tech.com/gestionale-negozio/
+- Gestionale hotel e B&B su misura: camere e prenotazioni: https://danova-tech.com/gestionale-hotel/
+- Gestionale negozio: cassa, magazzino, taglie e colori: https://danova-tech.com/gestionale-negozio/
 - Gestionale per officina meccanica su misura: https://danova-tech.com/gestionale-officina-meccanica/
 - Gestionale palestra con app per soci e prenotazione corsi: https://danova-tech.com/gestionale-palestra/
 - Gestionale per parrucchieri e centri estetici: https://danova-tech.com/gestionale-parrucchieri-centri-estetici/
@@ -433,7 +438,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Software house italiana: software su misura: https://danova-tech.com/software-house/
 - Software MES per la produzione su misura: https://danova-tech.com/software-mes-produzione/
 - Software per PMI: gestionali e CRM su misura: https://danova-tech.com/software-per-pmi/
-- Software preventivi, listini prezzi e configuratore: https://danova-tech.com/software-preventivi-configuratore/
+- Software e programma per preventivi su misura: https://danova-tech.com/software-preventivi-configuratore/
 - Software ticketing su misura per assistenza clienti: https://danova-tech.com/software-ticketing/
 - Software WMS per la gestione del magazzino: https://danova-tech.com/software-wms/
 - Sviluppo software su misura per aziende: https://danova-tech.com/sviluppo-software-su-misura/
@@ -477,6 +482,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 
 ### Altre pagine
 
+- Agenti AI per aziende: cosa sono, esempi e costi: https://danova-tech.com/agenti-ai-per-aziende/
 - Domande frequenti su Danova Tech: prezzi, tempi, servizi: https://danova-tech.com/domande-frequenti/
 - Video promozionali per negozi, ristoranti e attività: https://danova-tech.com/video-promozionali-per-attivita-locali/
 - Video pubblicitari per aziende, pronti in 24 ore: https://danova-tech.com/video-pubblicitari/
@@ -638,6 +644,18 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - Sobre nosotros — el equipo de Danova Tech: https://danova-tech.com/es/sobre-nosotros/
 - Software de gestión y ERP a medida en España: https://danova-tech.com/es/software-a-medida-espana/
 - Vídeos publicitarios para empresas en 24 horas: IA y 3D: https://danova-tech.com/es/videos-publicitarios/
+
+### 中文 (简体)
+
+- 意大利网站建设与定制软件开发公司: https://danova-tech.com/zh/
+
+### العربية
+
+- شركة إيطالية لتصميم المواقع وتطوير البرمجيات: https://danova-tech.com/ar/
+
+### Türkçe
+
+- İtalya'da web sitesi ve özel yazılım geliştirme: https://danova-tech.com/tr/
 
 ## Contatti e informazioni legali
 

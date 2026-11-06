@@ -115,6 +115,7 @@ for rel in italiane:
     if ESCLUDI.match(rel): continue
     h=leggi(rel)
     if re.search(r'<meta name="robots"[^>]*noindex',h): continue
+    if 'http-equiv="refresh"' in h[:1500]: continue   # redirect verso altri domini
     url=SITE+"/"+(os.path.dirname(rel)+"/" if os.path.dirname(rel) else "")
     parti.append(f"\n\n{'='*72}\n# {titolo(h)}\nURL: {url}\nDescrizione: {meta(h,'description')}\n{'='*72}\n\n{testo(h)}")
     n+=1
