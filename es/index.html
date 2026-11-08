@@ -568,6 +568,7 @@ h1.hero-t .ch.in{transform:none;opacity:1;filter:blur(0);transition:transform .9
 .tst-dots i{width:26px;height:3px;border-radius:99px;background:var(--line);cursor:none;transition:background .4s,width .4s}
 .tst-g{display:inline-flex;gap:10px;align-items:center;margin-top:26px;font-size:14px;color:var(--muted);border:1px solid var(--line);border-radius:99px;padding:8px 16px;transition:border-color .3s,color .3s}.tst-g span{color:#f5b301;letter-spacing:2px}.tst-g:hover{color:var(--text);border-color:var(--line-strong)}
 .tst-dots i.on{background:var(--blue);width:44px;box-shadow:0 0 12px var(--blue)}
+.tst-wall-h{margin-top:46px;font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted-2)}.tst-wall{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px;margin-top:14px}.tst-card{border:1px solid var(--line);border-radius:16px;padding:16px 18px;background:rgba(255,255,255,.03);display:flex;flex-direction:column;gap:10px;transition:border-color .3s}.tst-card:hover{border-color:var(--line-strong)}.tst-card .hd{display:flex;align-items:center;gap:11px}.tst-card .av{flex:0 0 36px;width:36px;height:36px;border-radius:50%;display:grid;place-items:center;font-family:'Sora',sans-serif;font-weight:700;font-size:12.5px;background:linear-gradient(140deg,var(--blue),#0a2a70);color:#fff;border:1px solid var(--line-strong)}.tst-card b{display:block;font-size:14px}.tst-card small{color:var(--muted-2);font-size:12px}.tst-card small span{color:#f5b301;letter-spacing:1.5px;margin-right:5px}.tst-card p{margin:0;color:var(--muted);font-size:14px;line-height:1.5}
 
 /* ---------- FAQ ---------- */
 .faq{border-top:1px solid var(--line)}
@@ -2202,22 +2203,27 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
     <div class="eyebrow mono" data-scramble="" data-i18n="dicono.eyebrow">Lo que dicen los clientes</div>
     <div class="tst" id="tst">
     <div class="q on">
-      <blockquote>“Nuestra web llevaba seis años parada. En tres semanas entregaron algo que por fin se parece a nosotros, y que trae solicitudes todos los días.”</blockquote>
-      <div class="who"><div class="av">MR</div><div><b>Marco R.</b><small>Gerente, fabricante de carpintería</small></div></div>
+      <blockquote>“Veramente bravi, professionali e sempre disponibili per risolvere qualunque problema inerente al lavoro commissionato”</blockquote>
+      <div class="who"><div class="av">GD</div><div><b>Guido Donasoldi</b><small>Reseña de Google · ★★★★★</small></div></div>
     </div>
     <div class="q ">
-      <blockquote>“El sistema que construyeron eliminó tres hojas de cálculo y dos cuadernos de papel. El almacén por fin cuadra.”</blockquote>
-      <div class="who"><div class="av">SL</div><div><b>Sara L.</b><small>Responsable de operaciones, distribución</small></div></div>
+      <blockquote>“We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!”</blockquote>
+      <div class="who"><div class="av">EF</div><div><b>Expo Fairs S.R.O</b><small>Reseña de Google · ★★★★★</small></div></div>
     </div>
     <div class="q ">
-      <blockquote>“Ya habíamos probado campañas de Meta con otras agencias. La diferencia aquí es que explican los números en vez de esconderlos detrás de palabras.”</blockquote>
-      <div class="who"><div class="av">GF</div><div><b>Giulia F.</b><small>Responsable de marketing, retail</small></div></div>
-    </div>
-    <div class="q ">
-      <blockquote>“Queríamos una app y dábamos por hecho que era inalcanzable. Propusieron una versión más pequeña para empezar: fue la decisión correcta.”</blockquote>
-      <div class="who"><div class="av">AP</div><div><b>Andrea P.</b><small>Fundador, centro deportivo</small></div></div>
+      <blockquote>“Molto professionale 🔥🔥🔥💪🏽💪🏽🔥”</blockquote>
+      <div class="who"><div class="av">MK</div><div><b>Moctar Kone</b><small>Reseña de Google · ★★★★★</small></div></div>
     </div></div>
-    <div class="tst-dots" id="tstDots"><i class="on" data-i="0"></i><i class="" data-i="1"></i><i class="" data-i="2"></i><i class="" data-i="3"></i></div>
+    <div class="tst-dots" id="tstDots"><i class="on" data-i="0"></i><i class="" data-i="1"></i><i class="" data-i="2"></i></div>
+    <p class="tst-wall-h mono">Todas las reseñas, tal como aparecen en Google</p>
+    <div class="tst-wall">
+      <article class="tst-card"><div class="hd"><div class="av">GD</div><div><b>Guido Donasoldi</b><small><span aria-hidden="true">★★★★★</span>5/5 en Google</small></div></div><p>Veramente bravi, professionali e sempre disponibili per risolvere qualunque problema inerente al lavoro commissionato</p></article>
+      <article class="tst-card"><div class="hd"><div class="av">EF</div><div><b>Expo Fairs S.R.O</b><small><span aria-hidden="true">★★★★★</span>5/5 en Google</small></div></div><p>We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!</p></article>
+      <article class="tst-card"><div class="hd"><div class="av">MK</div><div><b>Moctar Kone</b><small><span aria-hidden="true">★★★★★</span>5/5 en Google</small></div></div><p>Molto professionale 🔥🔥🔥💪🏽💪🏽🔥</p></article>
+      <article class="tst-card"><div class="hd"><div class="av">NC</div><div><b>Nicola Castrofino</b><small><span aria-hidden="true">★★★★★</span>5/5 en Google</small></div></div></article>
+      <article class="tst-card"><div class="hd"><div class="av">AG</div><div><b>Andrea Grigoli</b><small><span aria-hidden="true">★★★★★</span>5/5 en Google</small></div></div></article>
+      <article class="tst-card"><div class="hd"><div class="av">VS</div><div><b>Vincenzo Silvano</b><small><span aria-hidden="true">★★★★★</span>5/5 en Google</small></div></div></article>
+    </div>
     <a class="tst-g" href="https://maps.app.goo.gl/gPgYPeA5Rtc12wve8" target="_blank" rel="noopener"><span aria-hidden="true">★★★★★</span> 5,0 en Google · leer las reseñas</a>
   </div>
 </section>
@@ -2352,10 +2358,10 @@ body.swapping main,body.swapping section,body.swapping footer,body.swapping .mq{
   <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 19V5M6 11l6-6 6 6"></path></svg>
 </button>
 
-<script src="/assets/js/i18n-es.js?v=20261018" defer></script>
+<script src="/assets/js/i18n-es.js?v=20261108" defer></script>
 
 <script>window.DT={lang:"es"}</script>
-<script src="/assets/js/home.js?v=20261018" defer></script>
+<script src="/assets/js/home.js?v=20261108" defer></script>
 
 
 <!-- Cloudflare Web Analytics: statistiche aggregate, nessun cookie -->

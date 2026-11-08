@@ -84,10 +84,9 @@ window.I18N.it={
   dicono:{
     eyebrow:'Dicono di noi',
     items:[
-      ['Avevamo un sito fermo da sei anni. In tre settimane ci hanno consegnato qualcosa che finalmente ci somiglia — e che porta richieste ogni giorno.','MR','Marco R.','Titolare, azienda di serramenti'],
-      ['Il gestionale che ci hanno costruito ha eliminato tre file Excel e due quaderni. Il magazzino ora torna sempre.','SL','Sara L.','Responsabile operations, distribuzione'],
-      ['Le campagne Meta le avevamo già provate con altri. La differenza è che qui ci spiegano i numeri invece di nasconderli dietro le parole.','GF','Giulia F.','Marketing manager, retail'],
-      ["Volevamo un'app e pensavamo fosse fuori portata. Ci hanno proposto una versione più piccola da cui partire: è stata la scelta giusta.",'AP','Andrea P.','Fondatore, centro sportivo']
+      ['Veramente bravi, professionali e sempre disponibili per risolvere qualunque problema inerente al lavoro commissionato','GD','Guido Donasoldi','Recensione Google · ★★★★★'],
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Recensione Google · ★★★★★'],
+      ['Molto professionale 🔥🔥🔥💪🏽💪🏽🔥','MK','Moctar Kone','Recensione Google · ★★★★★']
     ]
   },
   faq:{

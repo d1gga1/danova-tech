@@ -84,10 +84,9 @@ window.I18N.es={
   dicono:{
     eyebrow:'Lo que dicen los clientes',
     items:[
-      ['Nuestra web llevaba seis años parada. En tres semanas entregaron algo que por fin se parece a nosotros, y que trae solicitudes todos los días.','MR','Marco R.','Gerente, fabricante de carpintería'],
-      ['El sistema que construyeron eliminó tres hojas de cálculo y dos cuadernos de papel. El almacén por fin cuadra.','SL','Sara L.','Responsable de operaciones, distribución'],
-      ['Ya habíamos probado campañas de Meta con otras agencias. La diferencia aquí es que explican los números en vez de esconderlos detrás de palabras.','GF','Giulia F.','Responsable de marketing, retail'],
-      ['Queríamos una app y dábamos por hecho que era inalcanzable. Propusieron una versión más pequeña para empezar: fue la decisión correcta.','AP','Andrea P.','Fundador, centro deportivo']
+      ['Veramente bravi, professionali e sempre disponibili per risolvere qualunque problema inerente al lavoro commissionato','GD','Guido Donasoldi','Reseña de Google · ★★★★★'],
+      ['We worked with Danova on our trade fair booth in Milan and they did an absolutely beautiful job. Highly recommended!','EF','Expo Fairs S.R.O','Reseña de Google · ★★★★★'],
+      ['Molto professionale 🔥🔥🔥💪🏽💪🏽🔥','MK','Moctar Kone','Reseña de Google · ★★★★★']
     ]
   },
   faq:{
