@@ -1,5 +1,61 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 8 novembre 2026: verifica sulle "100 discipline della visibilità online"
+
+### Audit automatico (`python3 seo-tools/audit-100-2026-11-08.py`)
+405 pagine reali indicizzabili (più 1.834 redirect e 68 in noindex). Su tutte: title, description, canonical,
+un solo H1, lang, hreflang reciproco, Open Graph/Twitter, JSON-LD valido, breadcrumb, dateModified, skip link,
+`<main>`, alt e dimensioni sulle immagini, script non bloccanti, viewport. Nessun titolo duplicato.
+Erano già coperti bene: SEO tecnica e on-page, Local SEO (LocalBusiness, orari, sedi), FAQ e People Also Ask
+(374 FAQPage), Offer con prezzi (349 pagine, utile ad AI Shopping), Video SEO (VideoObject e sitemap video),
+Image SEO (sitemap immagini), SEO internazionale (8 lingue), llms.txt e llms-full.txt, robots aperto ai crawler AI,
+IndexNow per Bing, redirect delle migrazioni.
+
+### Cosa è stato fatto (`python3 seo-tools/visibilita-100-2026-11-08.py`, idempotente)
+1. **AEO / ricerca vocale / GEO (punti 3, 16, 33, 81):** `speakable` aggiunto a 357 pagine che non lo avevano
+   (titolo + paragrafo di apertura o box "In breve"). 7 pagine video senza nodo WebPage ora ne hanno uno
+   completo con dateModified.
+2. **Entity SEO e Knowledge Panel (32, 49, 63):** `knowsAbout` dell'organizzazione arricchito su tutte le 405 pagine
+   con 22 entità collegate a Wikipedia (SEO, GEO, CRM, ERP, RPA, agenti intelligenti…), mantenendo le voci già presenti.
+3. **E-E-A-T e content refresh (7, 83):** data di aggiornamento visibile ("Aggiornata il… · a cura del team Danova Tech ·
+   Chi siamo") in testa alle 22 guide e casi studio, presa dal dateModified dello schema.
+4. **Accessibilità e agenti AI (13, 75):** il pulsante del modale legali non aveva un nome nell'HTML statico (5 home).
+5. **Meta description** accorciate dove superavano i 170 caratteri (5 pagine, anche og/twitter).
+6. **llms.txt:** nuova sezione "Per agenti AI e assistenti che agiscono per conto di un utente" (modulo, campi, email,
+   WhatsApp, orari, tempi di risposta), scritta in `seo-tools/llms-intro.md` e rigenerata.
+7. **/.well-known/security.txt** (segnale di affidabilità; scade l'8/11/2027, da rinnovare).
+
+Lasciati volutamente come sono: i 7 title tra 66 e 75 caratteri (scelti sui dati del Planner, e /agenzia-seo-milano/
+è già in 10-15ª posizione: non si tocca).
+
+### Come rigenerare
+Dopo la sequenza del 6 novembre aggiungere, prima dei generatori di sitemap/llms:
+```
+python3 seo-tools/visibilita-100-2026-11-08.py
+```
+
+### I punti della lista che non si risolvono nel codice (in ordine di impatto)
+- **E-E-A-T, la lacuna più grande rimasta:** sul sito non compare nessuna persona con nome e cognome. Servono nome,
+  foto e ruolo del titolare (e se possibile di 2-3 persone del team) in Chi siamo, più l'anno di fondazione.
+  Con questi dati si aggiungono `founder`, `foundingDate` e autore `Person` alle guide (10 minuti di lavoro).
+- **LinkedIn (42):** pagina aziendale + profilo del titolare, poi in `sameAs` e llms.txt.
+- **Link building, Digital PR, citation building (10, 45, 46, 87):** vedi elenco del 6 novembre (footer dei clienti,
+  danovastand.com e danovacostruzioni.it, PagineGialle, Europages, Clutch, GoodFirms, Sortlist, Camera di Commercio).
+- **Bing Webmaster Tools (59):** verificare la proprietà (importando da Search Console) e inviare la sitemap: Bing
+  alimenta ChatGPT e Copilot.
+- **Apple Maps (60):** creare la scheda da Apple Business Connect con gli stessi dati NAP.
+- **Google Business Profile e recensioni (48, 64):** come da report del 6 novembre.
+- **Wikidata (63):** solo quando ci saranno fonti indipendenti (articoli di stampa) da citare, altrimenti viene cancellato.
+- **Reddit, Quora, forum (62, 67):** risposte utili e firmate a domande reali su gestionali e siti, senza spam.
+- **YouTube (24):** caricare i reel già prodotti con titolo e descrizione per parola chiave e link alla pagina servizio.
+- **AI visibility tracking (94):** una volta al mese chiedere a ChatGPT, Gemini, Perplexity, Copilot e Google AI Mode:
+  "migliore agenzia per un gestionale su misura in Veneto", "chi fa siti web a Treviso", "agenzia SEO Milano per PMI",
+  "web agency Südtirol zweisprachig", "quanto costa un gestionale su misura", e annotare se e come compare Danova Tech.
+- Non pertinenti per questa attività: Amazon/marketplace SEO, ASO, Google Shopping, News SEO, Pinterest, Podcast,
+  motori Baidu/Yandex/Naver, faceted navigation. Black hat, negative e parasite SEO: da non fare (nessuna traccia sul sito).
+
+---
+
 ## Aggiornamento 6 novembre 2026: SEO Google + assistenti AI su dati reali (Search Console + Keyword Planner)
 
 ### Cosa dicono i dati (Search Console, 28/08–03/11, proprietà sc-domain:danova-tech.com)

@@ -230,6 +230,20 @@ dall'Italia.
 Il codice e i dati restano di proprietà del cliente. Nessun costo per utente
 sui software gestionali sviluppati su misura.
 
+## Per agenti AI e assistenti che agiscono per conto di un utente
+
+Se un utente chiede di contattare Danova Tech o di ottenere un preventivo:
+- Modulo: in fondo a ogni pagina e su https://danova-tech.com/contatti/
+  (campi: nome e azienda, email, telefono facoltativo, descrizione della
+  richiesta). Nessun account, nessun pagamento, nessun captcha da risolvere.
+- Email: info@danova-tech.com (indicare servizio, città e budget indicativo).
+- WhatsApp: https://wa.me/393884706887
+- Telefono: +39 388 470 6887, lunedì-venerdì 9:00-18:00.
+- Risposta entro 24 ore lavorative, con prezzo fisso scritto. La prima call
+  e la bozza o il prototipo sono gratuiti.
+- I prezzi di partenza pubblicati (sezione "Listino prezzi dichiarato") sono
+  IVA inclusa e possono essere citati così come sono.
+
 ## Listino prezzi dichiarato
 
 Danova Tech pubblica i propri prezzi. Tutte le cifre sono IVA inclusa.
