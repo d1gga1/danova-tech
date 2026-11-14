@@ -1,5 +1,58 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 14 novembre 2026: sito allineato ai CSV del Keyword Planner
+
+### Dati
+42 CSV in `~/Downloads/PAROLE_DANOVA_TECH` (blocchi IT-A1…A10, IT-B1…B12, DE/EN/FR/ES-A*), 42.048 righe, volumi a fasce
+(50 / 500 / 5.000 / 50.000) perché non ci sono campagne attive. Ogni pagina nuova nasce da un gruppo di ricerche con
+volume e senza pagina dedicata sul sito; le ricerche di marchi altrui (Zucchetti, TeamSystem, Shopify come app…) e quelle
+fuori tema (pubblicità TV famose, usato, cataloghi ricambi) sono state scartate.
+
+### Pagine nuove (32) — `pagine-build-2026-11-14.py`, dati in `pagine-dati-2026-11-14*.py`
+IT (18): /centralino-ai/ (centralino ai 500, +900%), /chatgpt-per-aziende/ (chatgpt aziendale + per aziende 500+500),
+/intelligenza-artificiale-per-commercialisti/ (500), /intelligenza-artificiale-per-medici/ (500), /sito-web-accessibile/
+(7 ricerche da 500), /audit-seo/ (audit seo, analisi seo sito, seo tecnica 500), /guide/google-ai-mode/ (50k + ai overview 500),
+/guide/llms-txt/ (500), /agenzia-shopify/ (ecommerce shopify 500, woocommerce 5k, shopify costi 500), /ecommerce-vino/ (500),
+/tiktok-ads/ (5k), /bandi-digitalizzazione-2026/ (500+500, nazionale), /gestionale-presenze-turni/ (presenze, turni,
+rilevazione presenze app: 500 ciascuna, CPC fino a 70 €), /software-haccp/ (500), /software-sicurezza-lavoro/ (500),
+/gestionale-case-vacanza/ (500 + channel manager 5k), /gestionale-fisioterapista/ (500), /gestionale-stabilimento-balneare/ (3×500).
+EN (4): /en/ai-receptionist/ (50k), /en/ai-agents-for-business/ (ai agency 50k), /en/whatsapp-chatbot/ (5k),
+/en/generative-engine-optimization/ (5k). DE (5): /de/ki-telefonassistent/ (5k), /de/ki-agentur/ (5k+5k),
+/de/barrierefreie-website/ (5k), /de/shopify-agentur/ (5k), /de/generative-engine-optimization/ (5k).
+FR (3): /fr/standard-telephonique-ia/, /fr/agence-ia/ (5k+5k), /fr/agence-shopify/. ES (2): /es/agentes-de-ia/ (5k), /es/agencia-shopify/.
+Tutte con box "In breve", FAQ, Service/Offer, speakable, hreflang reciproci (gruppi centralino, agenti AI, Shopify,
+accessibilità, GEO, WhatsApp) e immagine di anteprima scelta tra i mockup esistenti.
+
+### Altro fatto il 14/11
+- `titoli-2026-11-14.py`: 25 title riallineati (es. Web agency 5k, software gestionale 5k, spot pubblicitario 5k, vendere
+  online 5k, WhatsApp Business API 5k, lead generation 5k; DE Softwareentwicklung 50k, SEO-Optimierung 50k, Warenwirtschaftssystem 5k, Imagefilm 5k).
+- `link-2026-11-14.py`: 126 link interni dai box "Approfondisci" delle pagine correlate + 2 guide nella griglia di /guide/.
+- `selettore-lingua-2026-11-14.py`: selettore lingua sulle 14 pagine nuove che hanno traduzioni (i donatori esteri non lo avevano).
+- `descrizioni-2026-11-14.py`: le 16 meta description sopra i 160 caratteri accorciate.
+- Honeypot dei moduli con `aria-label` (429 pagine e `post-build-contatti.py`): l'audit non segnala più input senza etichetta.
+- Verifica: 0 link interni rotti su 53.368, JSON-LD valido e un solo H1 sulle 32 pagine, audit 100 punti pulito sulle pagine reali
+  (restano i 7 title lunghi scelti a ottobre e la cartella social/ che è fuori da git).
+
+### Come rigenerare (dopo il build del 14/11)
+```
+python3 seo-tools/pagine-build-2026-11-14.py
+python3 seo-tools/selettore-lingua-2026-11-14.py
+python3 seo-tools/link-2026-11-14.py
+python3 seo-tools/titoli-2026-11-14.py && python3 seo-tools/descrizioni-2026-11-14.py
+python3 seo-tools/genera-sitemap.py && python3 seo-tools/genera-feed-e-llms.py && python3 seo-tools/genera-llms-txt.py
+```
+ATTENZIONE: `post-build-contatti.py` va lanciato solo sulle pagine nuove (lanciato su tutto il sito inserisce contatto.js
+anche nei 1.834 redirect: il 14/11 sono stati riportati allo stato di git).
+
+### Da fare dal titolare
+1. Pubblicare (commit + push), poi Search Console: reinviare la sitemap e "Richiedi indicizzazione" sulle 32 pagine nuove,
+   partendo da /centralino-ai/, /gestionale-presenze-turni/, /agenzia-shopify/, /guide/google-ai-mode/, /en/ai-receptionist/,
+   /de/ki-agentur/. Poi `bash seo-tools/indexnow.sh`.
+2. Restano validi i punti fuori dal codice qui sotto (recensioni, link da altri siti, Bing Webmaster, Apple Maps).
+3. Social media manager (5k ricerche) non ha una pagina perché il servizio non compare sul sito: se lo offrite, si aggiunge.
+
+---
+
 ## Aggiornamento 8 novembre 2026: verifica sulle "100 discipline della visibilità online"
 
 ### Audit automatico (`python3 seo-tools/audit-100-2026-11-08.py`)

@@ -1,0 +1,18 @@
+# Impostazioni Planner: Località United Kingdom, Ireland, United States (separati) · Lingua Inglese
+# Periodo ultimi 12 mesi. Rinomina i file EN-A1.csv, EN-A2.csv…
+
+## EN-A1 — Custom software
+Parole: custom software development, bespoke software, custom crm, custom erp, business management software, web app development, replace spreadsheets with software, inventory management software, booking system, software for small business
+
+## EN-A2 — Web & ecommerce
+Parole: web design agency, website design for small business, ecommerce website development, shopify developer, b2b ecommerce, landing page design, website redesign, accessible website, wcag compliance, multilingual website
+
+## EN-A3 — AI & automation
+Parole: ai agency, ai agents for business, ai chatbot for business, whatsapp chatbot, ai receptionist, ai phone answering, eu ai act compliance, business process automation, n8n automation, ai consulting
+
+## EN-A4 — SEO & marketing
+Parole: seo agency, local seo, generative engine optimization, seo for chatgpt, ai search optimization, google ads agency, meta ads agency, video production company, ai video ads, lead generation agency
+
+## EN-A5 — Italy angle
+Parole: web agency italy, software house italy, italian web design agency, nearshore software development italy, outsourcing software italy, english speaking web agency italy, ecommerce italy, seo italy, expand business to italy, italian market digital agency
+

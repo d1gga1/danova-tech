@@ -47,7 +47,7 @@ def form(t):
       f'<div class="fld"><input type="email" name="email" id="dtl-email" placeholder=" " required autocomplete="email" inputmode="email"><label for="dtl-email">{t["email"]}</label></div></div>'
       f'<div class="fld"><input type="tel" name="tel" id="dtl-tel" placeholder=" " autocomplete="tel" inputmode="tel"><label for="dtl-tel">{t["tel"]}</label></div>'
       f'<div class="fld"><textarea name="msg" id="dtl-msg" placeholder=" " required></textarea><label for="dtl-msg">{t["msg"]}</label></div>'
-      f'<input type="text" name="_honey" class="dt-hp" tabindex="-1" autocomplete="off" aria-hidden="true">'
+      f'<input type="text" name="_honey" class="dt-hp" tabindex="-1" autocomplete="off" aria-hidden="true" aria-label="Lasciare vuoto">'
       f'<p class="dt-lead-msg" role="status"></p>'
       f'<button type="submit" class="btn btn-p" data-mag><span class="sheen"></span><span class="lbl">{t["send"]}</span>{ARR}</button>'
       f'<p class="form-note">{t["note"]}</p></form>')

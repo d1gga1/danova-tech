@@ -302,7 +302,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Agenzia Google Ads: gestione campagne che convertono: https://danova-tech.com/servizi/google-ads/
 - Agenzia Meta Ads: Facebook e Instagram: https://danova-tech.com/servizi/meta-ads/
 - Agenzia SEO e consulenza SEO: posizionamento su Google: https://danova-tech.com/servizi/seo/
-- Realizzazione siti web ed e-commerce su misura: https://danova-tech.com/servizi/siti-web-ecommerce/
+- Web agency: realizzazione siti web ed e-commerce: https://danova-tech.com/servizi/siti-web-ecommerce/
 - Software su misura, automazioni e AI: https://danova-tech.com/servizi/software-automazioni/
 
 ### Guide e approfondimenti
@@ -321,7 +321,9 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Gestionale in cloud o su server?: https://danova-tech.com/guide/gestionale-cloud-o-server/
 - Gestionale su misura o standard: quale scegliere: https://danova-tech.com/guide/gestionale-su-misura-o-standard/
 - Gestione magazzino con Excel: quando basta: https://danova-tech.com/guide/gestione-magazzino-con-excel/
+- Google AI Mode e AI Overview: come comparire: https://danova-tech.com/guide/google-ai-mode/
 - Google My Business (Business Profile): guida 2026: https://danova-tech.com/guide/google-business-profile-guida/
+- llms.txt: cos’è, a cosa serve e come si crea: https://danova-tech.com/guide/llms-txt/
 - Rifare il sito senza perdere posizioni: https://danova-tech.com/guide/rifare-sito-senza-perdere-posizioni/
 - Sostituire Excel con un gestionale: https://danova-tech.com/guide/sostituire-excel-con-un-gestionale/
 - Transizione 5.0 nel 2026: cosa è cambiato: https://danova-tech.com/guide/transizione-5-0/
@@ -353,7 +355,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Bandi e voucher digitalizzazione 2026 in Veneto: https://danova-tech.com/bandi-digitalizzazione-veneto-2026/
 - Consulente SEO a Treviso: https://danova-tech.com/consulente-seo-treviso/
 - Consulente SEO a Verona: posizionamento su Google: https://danova-tech.com/consulente-seo-verona/
-- Gestionali su misura a Milano: software aziendale: https://danova-tech.com/gestionali-su-misura-milano/
+- Software house a Milano: gestionali su misura: https://danova-tech.com/gestionali-su-misura-milano/
 - Software gestionale su misura a Padova: https://danova-tech.com/gestionali-su-misura-padova/
 - Gestionali su misura a Pavia e in Lomellina: https://danova-tech.com/gestionali-su-misura-pavia/
 - Software gestionale a Pordenone e provincia: https://danova-tech.com/gestionali-su-misura-pordenone/
@@ -387,26 +389,29 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Consulenza intelligenza artificiale per aziende: https://danova-tech.com/consulenza-intelligenza-artificiale/
 - Intelligenza artificiale per avvocati e studi legali: https://danova-tech.com/intelligenza-artificiale-per-avvocati/
 - Intelligenza artificiale per aziende: https://danova-tech.com/intelligenza-artificiale-per-aziende/
-- SEO per l'AI: comparire su ChatGPT e Perplexity: https://danova-tech.com/seo-per-intelligenza-artificiale/
-- Spot pubblicitari con intelligenza artificiale (video AI): https://danova-tech.com/spot-pubblicitari-con-intelligenza-artificiale/
-- Chatbot WhatsApp e WhatsApp aziendale con CRM: https://danova-tech.com/whatsapp-aziendale/
+- Intelligenza artificiale per commercialisti: https://danova-tech.com/intelligenza-artificiale-per-commercialisti/
+- Intelligenza artificiale per medici e studi medici: https://danova-tech.com/intelligenza-artificiale-per-medici/
+- GEO e SEO per l'AI: comparire su ChatGPT: https://danova-tech.com/seo-per-intelligenza-artificiale/
+- Spot e video con intelligenza artificiale: https://danova-tech.com/spot-pubblicitari-con-intelligenza-artificiale/
+- Chatbot WhatsApp e WhatsApp Business API: https://danova-tech.com/whatsapp-aziendale/
 
 ### App su misura
 
 - Software e app fidelizzazione clienti, fidelity card digitale: https://danova-tech.com/app-fidelizzazione-clienti/
 - Software e app gestione cantieri e rapportini: https://danova-tech.com/app-gestione-cantieri/
-- App magazzino con codici a barre: https://danova-tech.com/app-magazzino-codici-a-barre/
+- App gestione magazzino con codici a barre: https://danova-tech.com/app-magazzino-codici-a-barre/
 - App timbratura e gestionale dipendenti su misura: https://danova-tech.com/app-ore-di-lavoro-e-timbrature/
 - App agenti di commercio e raccolta ordini: https://danova-tech.com/app-per-agenti-di-commercio/
 - App per personal trainer su misura: https://danova-tech.com/app-per-personal-trainer/
 - App personalizzata per la tua azienda: come crearla: https://danova-tech.com/app-personalizzata/
 - App e gestionale prenotazioni e appuntamenti: https://danova-tech.com/app-prenotazioni/
-- App rapportini di lavoro e di intervento: https://danova-tech.com/app-rapportini-di-lavoro/
+- App rapportini giornalieri di lavoro e cantiere: https://danova-tech.com/app-rapportini-di-lavoro/
 - Creazione app su misura per ogni attività: demo in 72 ore: https://danova-tech.com/app-su-misura-per-ogni-attivita/
 - Sviluppo web app e PWA su misura per aziende: https://danova-tech.com/sviluppo-web-app/
 
 ### Gestionali e software su misura
 
+- Bandi digitalizzazione 2026: voucher per le PMI: https://danova-tech.com/bandi-digitalizzazione-2026/
 - CRM aziendale su misura, anche per piccole aziende: https://danova-tech.com/crm-aziendale/
 - Dashboard aziendale su misura: i numeri in tempo reale: https://danova-tech.com/dashboard-aziendale/
 - Digitalizzazione aziendale: da dove partire: https://danova-tech.com/digitalizzazione-aziendale/
@@ -414,7 +419,9 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - ERP per piccole aziende: su misura, senza complicazioni: https://danova-tech.com/erp-per-piccole-aziende/
 - Gestionale per agenzie immobiliari su misura: https://danova-tech.com/gestionale-agenzia-immobiliare/
 - Gestionale autonoleggio e NCC su misura: https://danova-tech.com/gestionale-autonoleggio/
-- Gestionale cloud e online su misura per aziende: https://danova-tech.com/gestionale-cloud/
+- Gestionale case vacanza e affitti brevi: https://danova-tech.com/gestionale-case-vacanza/
+- Gestionale cloud, online e web su misura: https://danova-tech.com/gestionale-cloud/
+- Gestionale fisioterapista: agenda, schede e fatture: https://danova-tech.com/gestionale-fisioterapista/
 - Gestionale hotel e B&B su misura: camere e prenotazioni: https://danova-tech.com/gestionale-hotel/
 - Gestionale negozio: cassa, magazzino, taglie e colori: https://danova-tech.com/gestionale-negozio/
 - Gestionale per officina meccanica su misura: https://danova-tech.com/gestionale-officina-meccanica/
@@ -422,7 +429,9 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Gestionale per parrucchieri e centri estetici: https://danova-tech.com/gestionale-parrucchieri-centri-estetici/
 - Gestionale per associazioni e ASD su misura: https://danova-tech.com/gestionale-per-associazioni/
 - Gestionale personalizzato: solo vostro, su misura: https://danova-tech.com/gestionale-personalizzato/
-- Gestionale per ristoranti: comande e food cost: https://danova-tech.com/gestionale-ristorante/
+- Gestionale presenze, turni e ferie dei dipendenti: https://danova-tech.com/gestionale-presenze-turni/
+- Gestionale ristorante, bar e pizzeria su misura: https://danova-tech.com/gestionale-ristorante/
+- Gestionale stabilimento balneare: mappa ombrelloni: https://danova-tech.com/gestionale-stabilimento-balneare/
 - Gestionale per studio dentistico su misura: https://danova-tech.com/gestionale-studio-dentistico/
 - Gestionale per studi legali e avvocati su misura: https://danova-tech.com/gestionale-studio-legale/
 - Gestionale per studi medici e poliambulatori: https://danova-tech.com/gestionale-studio-medico/
@@ -430,13 +439,13 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Gestione documentale aziendale: https://danova-tech.com/gestione-documentale-aziendale/
 - Integrazione software aziendali e API: https://danova-tech.com/integrazione-software-aziendali/
 - Iperammortamento 2026: aliquote, software, scadenze: https://danova-tech.com/iperammortamento-2026/
-- Portale rivenditori B2B: ordini e listini: https://danova-tech.com/portale-rivenditori-b2b/
-- Software di contabilità aziendale su misura: https://danova-tech.com/software-contabilita-aziendale/
+- Portale B2B per rivenditori: ordini e listini: https://danova-tech.com/portale-rivenditori-b2b/
+- Software e programma di contabilità aziendale: https://danova-tech.com/software-contabilita-aziendale/
 - Software per la contabilità di cantiere: https://danova-tech.com/software-contabilita-cantiere/
 - Software controllo di gestione su misura: https://danova-tech.com/software-controllo-di-gestione/
 - Programma fatturazione elettronica integrato: https://danova-tech.com/software-fatturazione-elettronica/
 - Gestionale agroalimentare e tracciabilità: https://danova-tech.com/software-gestionale-agroalimentare/
-- Gestionale aziendale: software su misura per PMI: https://danova-tech.com/software-gestionale-aziendale/
+- Software gestionale aziendale su misura per PMI: https://danova-tech.com/software-gestionale-aziendale/
 - Software gestione commesse su misura: https://danova-tech.com/software-gestionale-commesse/
 - Software gestionale edilizia e imprese edili: https://danova-tech.com/software-gestionale-edilizia/
 - Gestionale per impiantisti e manutenzioni: https://danova-tech.com/software-gestionale-impiantisti/
@@ -449,10 +458,12 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Software gestionale per trasporti e logistica: https://danova-tech.com/software-gestionale-trasporti-logistica/
 - Software gestione flotte aziendali: https://danova-tech.com/software-gestione-flotte/
 - Software per gestione interventi tecnici: https://danova-tech.com/software-gestione-interventi-tecnici/
+- Software HACCP: registri e controlli digitali: https://danova-tech.com/software-haccp/
 - Software house italiana: software su misura: https://danova-tech.com/software-house/
 - Software MES per la produzione su misura: https://danova-tech.com/software-mes-produzione/
 - Software per PMI: gestionali e CRM su misura: https://danova-tech.com/software-per-pmi/
 - Software e programma per preventivi su misura: https://danova-tech.com/software-preventivi-configuratore/
+- Software sicurezza sul lavoro: scadenze e corsi: https://danova-tech.com/software-sicurezza-lavoro/
 - Software ticketing su misura per assistenza clienti: https://danova-tech.com/software-ticketing/
 - Software WMS per la gestione del magazzino: https://danova-tech.com/software-wms/
 - Sviluppo software su misura per aziende: https://danova-tech.com/sviluppo-software-su-misura/
@@ -460,10 +471,11 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 ### SEO, Google Ads e marketing
 
 - Agenzia di link building per aziende italiane: https://danova-tech.com/agenzia-link-building/
+- Audit SEO e analisi SEO del sito: https://danova-tech.com/audit-seo/
 - Come indicizzare un sito su Google, passo per passo: https://danova-tech.com/come-indicizzare-un-sito-su-google/
 - Come ottenere recensioni Google, nel modo giusto: https://danova-tech.com/come-ottenere-recensioni-google/
-- Consulente SEO per aziende e PMI: https://danova-tech.com/consulente-seo/
-- Lead generation B2B per PMI: https://danova-tech.com/lead-generation-b2b/
+- Consulente SEO esperto per aziende e PMI: https://danova-tech.com/consulente-seo/
+- Lead generation per aziende e B2B: più contatti: https://danova-tech.com/lead-generation-b2b/
 - Web marketing per PMI: piano e risultati: https://danova-tech.com/marketing-per-pmi/
 - Posizionamento sito su Google: https://danova-tech.com/posizionamento-sito-google/
 - SEO locale e posizionamento su Google Maps: https://danova-tech.com/seo-locale/
@@ -472,8 +484,9 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 
 ### Siti web ed e-commerce
 
-- Aprire un negozio online: cosa serve: https://danova-tech.com/aprire-un-negozio-online/
+- Vendere online: come aprire un negozio online: https://danova-tech.com/aprire-un-negozio-online/
 - E-commerce B2B con listini personalizzati: https://danova-tech.com/ecommerce-b2b/
+- E-commerce per vino e cantine: vendere vino online: https://danova-tech.com/ecommerce-vino/
 - Migrazione e-commerce WooCommerce e PrestaShop: https://danova-tech.com/migrazione-ecommerce/
 - Realizzazione e-commerce per aziende: https://danova-tech.com/realizzazione-ecommerce/
 - Realizzazione landing page per campagne: https://danova-tech.com/realizzazione-landing-page/
@@ -484,6 +497,7 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 - Siti web per hotel e B&B con prenotazione diretta: https://danova-tech.com/siti-web-per-hotel/
 - Siti web per ristoranti: menù, prenotazioni e Google: https://danova-tech.com/siti-web-per-ristoranti/
 - Sito vetrina per aziende: cos'è e quanto costa: https://danova-tech.com/sito-vetrina/
+- Sito web accessibile: adeguamento WCAG ed EAA: https://danova-tech.com/sito-web-accessibile/
 - Sito web aziendale professionale: https://danova-tech.com/sito-web-aziendale/
 - Sito web in 24 ore a 350 €, anche senza materiale: https://danova-tech.com/sito-web-in-24-ore/
 - Video prodotto per e-commerce e Amazon in 24 ore: https://danova-tech.com/video-prodotto-ecommerce-amazon/
@@ -497,10 +511,14 @@ Tutte le pagine indicizzabili del sito in italiano, raggruppate per argomento.
 ### Altre pagine
 
 - Agenti AI per aziende: cosa sono, esempi e costi: https://danova-tech.com/agenti-ai-per-aziende/
+- Agenzia Shopify e WooCommerce per e-commerce: https://danova-tech.com/agenzia-shopify/
+- Centralino AI e segretaria virtuale per aziende: https://danova-tech.com/centralino-ai/
+- ChatGPT per aziende: uso sicuro e sui vostri dati: https://danova-tech.com/chatgpt-per-aziende/
 - Domande frequenti su Danova Tech: prezzi, tempi, servizi: https://danova-tech.com/domande-frequenti/
+- Agenzia TikTok Ads: campagne e video per TikTok: https://danova-tech.com/tiktok-ads/
 - Video promozionali per negozi, ristoranti e attività: https://danova-tech.com/video-promozionali-per-attivita-locali/
-- Video pubblicitari per aziende, pronti in 24 ore: https://danova-tech.com/video-pubblicitari/
-- Video per Meta Ads, TikTok e Reel: spot in 24 ore: https://danova-tech.com/video-pubblicitari-per-social-e-ads/
+- Video e spot pubblicitari per aziende in 24 ore: https://danova-tech.com/video-pubblicitari/
+- Video per Instagram, TikTok e Meta Ads in 24 ore: https://danova-tech.com/video-pubblicitari-per-social-e-ads/
 - Da 1.000 a 29 dollari: il tetto di Accenture all’AI (video): https://danova-tech.com/video/accenture-claude/
 - Gli agenti AI lavorano 6 volte le ore delle persone (video): https://danova-tech.com/video/agenti-ai-anthropic/
 - Ha mandato la sua AI al colloquio (video): https://danova-tech.com/video/ai-al-colloquio/
@@ -535,6 +553,8 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - About us — the team behind Danova Tech: https://danova-tech.com/en/about/
 - ADA Website Audit & Accessibility Remediation: https://danova-tech.com/en/ada-website-audit/
 - ADA Website Compliance: A Practical 2026 Guide: https://danova-tech.com/en/ada-website-compliance/
+- AI Agency: Custom AI Agents for Business: https://danova-tech.com/en/ai-agents-for-business/
+- AI Receptionist for Businesses: Answers Every Call: https://danova-tech.com/en/ai-receptionist/
 - API Integration Services | Salesforce, HubSpot, QuickBooks: https://danova-tech.com/en/api-integration-services/
 - Business Process Automation Services: https://danova-tech.com/en/business-process-automation/
 - Custom Construction & Contractor Management Software: https://danova-tech.com/en/construction-management-software/
@@ -544,6 +564,7 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - Custom CRM Development for Small Business: https://danova-tech.com/en/custom-crm-development/
 - ERP Development Company | Custom ERP & CRM, USA: https://danova-tech.com/en/custom-erp-crm-development-usa/
 - Custom Field Service Management Software & Apps: https://danova-tech.com/en/field-service-app-development/
+- Generative Engine Optimization (GEO) Services: https://danova-tech.com/en/generative-engine-optimization/
 - Gym & Fitness App Development: https://danova-tech.com/en/gym-fitness-app-development/
 - Hire App Developers | Dedicated Mobile App Team: https://danova-tech.com/en/hire-app-developers/
 - How much does a website cost? Real prices: https://danova-tech.com/en/how-much-does-a-website-cost/
@@ -583,24 +604,30 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - Law Firm Website Design | Attorney Web Design: https://danova-tech.com/en/web-design-for-law-firms/
 - Website in 24 hours for €350, no content needed: https://danova-tech.com/en/website-in-24-hours/
 - Website Privacy Laws by US State: 2026 Guide: https://danova-tech.com/en/website-privacy-laws-us-states/
+- WhatsApp Chatbot for Business, Linked to Your CRM: https://danova-tech.com/en/whatsapp-chatbot/
 - WordPress Web Design & Development Company: https://danova-tech.com/en/wordpress-web-design/
 
 ### Deutsch
 
 - Websites, Individualsoftware und Marketing: https://danova-tech.com/de/
+- Barrierefreie Website nach BFSG und WCAG: https://danova-tech.com/de/barrierefreie-website/
+- Generative Engine Optimization (GEO): https://danova-tech.com/de/generative-engine-optimization/
 - Individualsoftware Deutschland: ERP und CRM: https://danova-tech.com/de/individualsoftware-deutschland/
 - Individualsoftware Österreich: ERP und CRM: https://danova-tech.com/de/individualsoftware-oesterreich/
 - Individuelle App-Entwicklung für jede Branche: Demo in 72 h: https://danova-tech.com/de/individuelle-app-entwicklung/
+- KI-Agentur: KI-Agenten für Unternehmen: https://danova-tech.com/de/ki-agentur/
+- KI-Telefonassistent für Unternehmen: https://danova-tech.com/de/ki-telefonassistent/
 - Kontakt — Danova Tech, Webagentur & Softwarehaus in Italien: https://danova-tech.com/de/kontakt/
 - Leistungen: Websites, SEO, Apps, ERP: https://danova-tech.com/de/leistungen/
 - Google-Ads-Agentur: messbare Anfragen: https://danova-tech.com/de/leistungen/google-ads/
 - App-Entwicklung für iOS, Android und Web: https://danova-tech.com/de/leistungen/individuelle-apps/
 - Meta-Ads-Betreuung für Facebook und Instagram: https://danova-tech.com/de/leistungen/meta-ads/
-- SEO-Beratung und Google-Sichtbarkeit: https://danova-tech.com/de/leistungen/seo/
-- Individuelle Software, Automatisierung und KI: https://danova-tech.com/de/leistungen/software-automatisierung/
-- Warenwirtschaft und CRM nach Maß: https://danova-tech.com/de/leistungen/warenwirtschaft-crm/
-- Website- und Onlineshop-Entwicklung nach Maß: https://danova-tech.com/de/leistungen/websites-ecommerce/
+- SEO-Agentur: SEO-Optimierung und Beratung: https://danova-tech.com/de/leistungen/seo/
+- Softwareentwicklung, Automatisierung und KI: https://danova-tech.com/de/leistungen/software-automatisierung/
+- Warenwirtschaftssystem und CRM nach Maß: https://danova-tech.com/de/leistungen/warenwirtschaft-crm/
+- Website und Onlineshop erstellen lassen: https://danova-tech.com/de/leistungen/websites-ecommerce/
 - Preise 2026: Website, Web-App und ERP: https://danova-tech.com/de/preise/
+- Shopify-Agentur: Onlineshop erstellen lassen: https://danova-tech.com/de/shopify-agentur/
 - Softwareentwicklung Schweiz, ERP: https://danova-tech.com/de/softwareentwicklung-schweiz/
 - Über uns — das Team hinter Danova Tech: https://danova-tech.com/de/ueber-uns/
 - Was kostet eine Website? Die 5 Preisfaktoren: https://danova-tech.com/de/was-kostet-eine-website/
@@ -611,13 +638,15 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - Webagentur Schweiz — mehrsprachige Websites: https://danova-tech.com/de/webagentur-schweiz/
 - Webagentur & SEO-Agentur Südtirol: zweisprachige Websites: https://danova-tech.com/de/webagentur-suedtirol/
 - Website in 24 Stunden für 350 €, ohne eigenes Material: https://danova-tech.com/de/website-in-24-stunden/
-- Werbevideos erstellen lassen: KI-Spots & 3D in 24 Stunden: https://danova-tech.com/de/werbevideos-erstellen-lassen/
+- Werbevideo und Imagefilm erstellen lassen, in 24 h: https://danova-tech.com/de/werbevideos-erstellen-lassen/
 
 ### Français
 
 - Sites web, logiciels sur mesure et marketing: https://danova-tech.com/fr/
 - À propos — l'équipe derrière Danova Tech: https://danova-tech.com/fr/a-propos/
+- Agence IA : agents IA sur mesure pour entreprises: https://danova-tech.com/fr/agence-ia/
 - Agence SEO en France — référencement naturel: https://danova-tech.com/fr/agence-seo-france/
+- Agence Shopify : création de boutique en ligne: https://danova-tech.com/fr/agence-shopify/
 - Application sur mesure pour chaque activité : démo en 72 h: https://danova-tech.com/fr/application-sur-mesure/
 - Contact — Danova Tech, sites web et logiciels sur mesure en Italie: https://danova-tech.com/fr/contact/
 - Création de site internet bilingue en Belgique: https://danova-tech.com/fr/creation-site-internet-belgique/
@@ -629,17 +658,20 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - Développement d'applications sur mesure: https://danova-tech.com/fr/services/applications-sur-mesure/
 - ERP et CRM sur mesure pour votre entreprise: https://danova-tech.com/fr/services/erp-crm/
 - Agence Google Ads : campagnes rentables: https://danova-tech.com/fr/services/google-ads/
-- Logiciel sur mesure et automatisation IA: https://danova-tech.com/fr/services/logiciels-automatisation/
+- Développement logiciel sur mesure et IA: https://danova-tech.com/fr/services/logiciels-automatisation/
 - Agence Meta Ads : Facebook et Instagram: https://danova-tech.com/fr/services/meta-ads/
 - Agence SEO : référencement naturel Google: https://danova-tech.com/fr/services/seo/
 - Création de site internet et e-commerce: https://danova-tech.com/fr/services/sites-web-ecommerce/
 - Site internet en 24 heures pour 350 €, sans contenu à fournir: https://danova-tech.com/fr/site-internet-en-24-heures/
+- Standard téléphonique IA pour entreprises: https://danova-tech.com/fr/standard-telephonique-ia/
 - Tarifs 2026 : site internet, web app et ERP: https://danova-tech.com/fr/tarifs/
 
 ### Español
 
 - Diseño web, software a medida y marketing: https://danova-tech.com/es/
 - Agencia SEO en España — posicionamiento medido: https://danova-tech.com/es/agencia-seo-espana/
+- Agencia Shopify: tiendas online a medida: https://danova-tech.com/es/agencia-shopify/
+- Agentes de IA para empresas, a medida: https://danova-tech.com/es/agentes-de-ia/
 - Aplicaciones a medida para cada negocio: demo en 72 horas: https://danova-tech.com/es/aplicaciones-a-medida/
 - Contacto — Danova Tech, software a medida y stands en Italia: https://danova-tech.com/es/contacto/
 - Cuánto cuesta una página web en 2026: https://danova-tech.com/es/cuanto-cuesta-una-pagina-web/
@@ -649,11 +681,11 @@ Danova Tech lavora anche per clienti esteri in remoto e allestisce stand per esp
 - Precios 2026: páginas web, web apps y ERP: https://danova-tech.com/es/precios/
 - Servicios — webs, SEO, apps y ERP a medida: https://danova-tech.com/es/servicios/
 - Desarrollo de apps móviles y web a medida: https://danova-tech.com/es/servicios/apps-a-medida/
-- ERP y CRM a medida para tu empresa: https://danova-tech.com/es/servicios/erp-crm/
+- ERP y CRM a medida para pymes: https://danova-tech.com/es/servicios/erp-crm/
 - Agencia Google Ads: campañas que rinden: https://danova-tech.com/es/servicios/google-ads/
 - Agencia Meta Ads: Facebook e Instagram: https://danova-tech.com/es/servicios/meta-ads/
 - Agencia SEO: posicionamiento web en Google: https://danova-tech.com/es/servicios/seo/
-- Software a medida y automatización con IA: https://danova-tech.com/es/servicios/software-automatizacion/
+- Desarrollo de software a medida e IA: https://danova-tech.com/es/servicios/software-automatizacion/
 - Diseño web y tienda online a medida: https://danova-tech.com/es/servicios/webs-ecommerce/
 - Sobre nosotros — el equipo de Danova Tech: https://danova-tech.com/es/sobre-nosotros/
 - Software de gestión y ERP a medida en España: https://danova-tech.com/es/software-a-medida-espana/

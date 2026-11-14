@@ -1,0 +1,18 @@
+# Impostazioni Planner: Località Deutschland, Österreich, Schweiz (anche separati se vuoi) · Lingua Tedesco
+# Periodo ultimi 12 mesi. Rinomina i file DE-A1.csv, DE-A2.csv…
+
+## DE-A1 — Software & Webentwicklung
+Parole: individuelle software, softwareentwicklung, warenwirtschaftssystem, branchensoftware, crm software kmu, erp für kmu, webanwendung entwickeln, app entwicklung, excel ersetzen, software agentur
+
+## DE-A2 — Webdesign & Shop
+Parole: webdesign agentur, website erstellen lassen, homepage erstellen lassen kosten, onlineshop erstellen lassen, shopify agentur, landingpage erstellen, website relaunch, barrierefreie website, website wartung, mehrsprachige website
+
+## DE-A3 — KI & Automatisierung
+Parole: ki agentur, ki für unternehmen, ki agenten, chatbot für unternehmen, whatsapp chatbot, ki telefonassistent, ki sekretärin, eu ai act unternehmen, prozessautomatisierung, n8n agentur
+
+## DE-A4 — SEO & Marketing
+Parole: seo agentur, seo optimierung, lokale seo, google business profil, seo für chatgpt, generative engine optimization, google ads agentur, social media agentur, imagefilm, werbevideo
+
+## DE-A5 — Südtirol
+Parole: webagentur südtirol, seo agentur südtirol, software südtirol, webdesign bozen, webdesign meran, homepage südtirol, app entwicklung südtirol, ki südtirol, onlineshop südtirol, marketing agentur bozen
+

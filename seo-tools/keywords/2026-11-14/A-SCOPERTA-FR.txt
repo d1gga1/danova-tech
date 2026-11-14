@@ -1,0 +1,15 @@
+# Impostazioni Planner: Località France, Belgique, Suisse · Lingua Francese
+# Periodo ultimi 12 mesi. Rinomina i file FR-A1.csv, FR-A2.csv…
+
+## FR-A1 — Logiciel
+Parole: logiciel sur mesure, développement logiciel, logiciel de gestion, crm sur mesure, erp pme, application web sur mesure, développement application mobile, remplacer excel, logiciel de réservation, agence de développement
+
+## FR-A2 — Web & e-commerce
+Parole: création site internet, agence web, site vitrine, création site e-commerce, agence shopify, landing page, refonte site internet, site accessible, accessibilité numérique obligation, site multilingue
+
+## FR-A3 — IA & automatisation
+Parole: agence ia, intelligence artificielle entreprise, agent ia, chatbot entreprise, chatbot whatsapp, standard téléphonique ia, assistant vocal ia, ai act entreprise, automatisation des processus, n8n
+
+## FR-A4 — SEO & marketing
+Parole: agence seo, référencement naturel, seo local, fiche google business, geo référencement ia, agence google ads, agence social media, vidéo publicitaire, vidéo entreprise, génération de leads
+

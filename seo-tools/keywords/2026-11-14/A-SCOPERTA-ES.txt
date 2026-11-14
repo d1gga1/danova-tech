@@ -1,0 +1,15 @@
+# Impostazioni Planner: Località España (e se vuoi Messico/Argentina a parte) · Lingua Spagnolo
+# Periodo ultimi 12 mesi. Rinomina i file ES-A1.csv, ES-A2.csv…
+
+## ES-A1 — Software
+Parole: software a medida, desarrollo de software, programa de gestión, crm a medida, erp para pymes, aplicación web a medida, desarrollo de apps, sustituir excel, software de reservas, empresa de desarrollo de software
+
+## ES-A2 — Web & ecommerce
+Parole: diseño web, agencia de diseño web, crear página web, página web para empresas, tienda online, agencia shopify, landing page, rediseño web, web accesible, web multidioma
+
+## ES-A3 — IA & automatización
+Parole: agencia ia, inteligencia artificial para empresas, agentes de ia, chatbot para empresas, chatbot whatsapp, recepcionista virtual ia, asistente telefónico ia, ley de ia empresas, automatización de procesos, n8n
+
+## ES-A4 — SEO & marketing
+Parole: agencia seo, posicionamiento web, seo local, perfil de empresa google, seo para chatgpt, agencia google ads, agencia redes sociales, vídeo publicitario, vídeo corporativo, generación de leads
+
