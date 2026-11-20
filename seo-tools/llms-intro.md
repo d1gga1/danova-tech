@@ -23,6 +23,7 @@
 - **Forma giuridica**: ditta individuale
 - **Team**: 10 persone
 - **Punti distintivi**: un unico partner per sito, software e marketing; software sviluppato su misura, senza template; risposta entro 24 ore
+- **Recensioni Google**: 5,0 su 5 (6 recensioni, tutte a 5 stelle), leggibili su https://maps.app.goo.gl/gPgYPeA5Rtc12wve8
 - **Email**: info@danova-tech.com
 - **Telefono**: +39 388 470 6887
 - **Instagram**: https://www.instagram.com/danova_techh/

@@ -1,5 +1,27 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 20 novembre 2026: audit completo + Bing/ChatGPT
+
+### Audit (2.273 file HTML: 439 pagine reali, 1.834 redirect, 69 noindex, sitemap 370 URL)
+Nessun problema tecnico rimasto: 0 title/description duplicati, canonical, hreflang, H1, lang, OG e JSON-LD validi ovunque,
+0 link interni rotti, nessun redirect o noindex in sitemap. I segnalati "corti/lunghi" sono falsi positivi o scelte del 14/11.
+
+### Corretto
+- **NAP**: in home la sede era scritta "Mansùe" (2 volte) e in llms-full.txt (2 volte): ora "Mansuè" come in schema e scheda Google.
+- **Recensioni nei dati strutturati**: le 6 recensioni Google mostrate nelle 5 home (IT/EN/DE/FR/ES) ora sono anche nel nodo
+  Organization come `aggregateRating` (5,0 / 6) + `review`. Google non mostra stelle per le recensioni sul proprio sito, ma Bing,
+  ChatGPT e gli altri assistenti leggono il dato. Quando arrivano nuove recensioni: aggiornare HTML e schema insieme.
+- **llms.txt**: riga "Recensioni Google" nel profilo (fonte: `seo-tools/llms-intro.md`).
+
+### Da fare dal titolare (nuovo, in ordine di impatto per ChatGPT/Copilot)
+1. **Bing Places for Business** (bingplaces.com > Importa da Google): mai fatto finora, è la fonte locale di Bing e quindi di ChatGPT/Copilot.
+2. Bing Webmaster Tools (importa da Search Console) + invio sitemap, poi `bash seo-tools/indexnow.sh`.
+3. Nome, foto e ruolo del titolare in Chi siamo + anno di fondazione (E-E-A-T, lacuna principale).
+4. Recensioni: chiederne 10-15 ai clienti software/siti (oggi sono 6) e qualcuna anche su Facebook (Bing la usa).
+5. Menzioni esterne: schede Clutch/Sortlist/GoodFirms/PagineGialle, link dai siti dei clienti, 1-2 comunicati o articoli locali.
+
+---
+
 ## Aggiornamento 14 novembre 2026: sito allineato ai CSV del Keyword Planner
 
 ### Dati
