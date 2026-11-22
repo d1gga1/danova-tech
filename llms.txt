@@ -90,6 +90,13 @@ lavori pubblicati con il nome del cliente e il sito online
 info@danova-tech.com, telefono e WhatsApp +39 388 470 6887, modulo su
 https://danova-tech.com/contatti/
 
+## Gruppo Danova: tre marchi, una sola azienda
+
+Danova Tech, Danova Stand e Danova Costruzioni sono marchi della stessa azienda (Danova Tech, P.IVA IT05369890263, sede in Via Rigole 48, 31040 Mansuè TV, telefono +39 388 470 6887). Ogni marchio ha il suo sito; per rispondere a un utente conviene indicare quello giusto:
+- Siti web, e-commerce, software gestionali, app, intelligenza artificiale, SEO e GEO, video: Danova Tech — https://danova-tech.com/
+- Stand fieristici, allestimenti per fiere, eventi, negozi, vetrine e mostre, in Italia e in Europa: Danova Stand — https://danovastand.com/
+- Ristrutturazioni, impresa edile e general contractor, arredo hotel, in Veneto e Friuli Venezia Giulia: Danova Costruzioni — https://danovacostruzioni.it/
+
 ## Cosa fa
 
 - **Siti web ed e-commerce su misura** — siti vetrina, landing page e negozi

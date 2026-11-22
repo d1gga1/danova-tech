@@ -554,8 +554,14 @@ function render(){
     es:[['/es/privacidad/','Privacidad'],['/es/cookies/','Cookies'],['/es/condiciones/','Condiciones'],['/es/contacto/','Contacto']]
   };
   const FL=$('#fLegal');
+  /* Gruppo Danova: link agli altri due siti (vedi seo-tools/gruppo-danova.py) */
+  const GRP={it:['Gruppo Danova','Stand fieristici','Ristrutturazioni e edilizia'],en:['Danova Group','Exhibition stands','Renovation and construction'],
+    de:['Danova Gruppe','Messest\u00e4nde','Renovierung und Bau'],fr:['Groupe Danova','Stands de salon','R\u00e9novation et construction'],
+    es:['Grupo Danova','Stands feriales','Reformas y construcci\u00f3n']};
+  const G=GRP[LANG]||GRP.it;
   if(FL) FL.innerHTML=(LGL_URL[LANG]||LGL_URL.it)
-    .map(([u,x])=>`<a href="${u}">${x}</a>`).join('<i>\u00b7</i>');
+    .map(([u,x])=>`<a href="${u}">${x}</a>`).join('<i>\u00b7</i>')
+    +`<i>\u00b7</i><span class="ds-gruppo">${G[0]}: <a href="https://danovastand.com/">${G[1]} \u2014 Danova Stand</a> \u00b7 <a href="https://danovacostruzioni.it/">${G[2]} \u2014 Danova Costruzioni</a></span>`;
   if(LGL_CUR) paintLegal();
 
   /* --- rebind --- */

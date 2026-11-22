@@ -1,5 +1,14 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 22 novembre 2026: Gruppo Danova (tre siti collegati) e correzioni
+
+- `python3 seo-tools/gruppo-danova.py` (idempotente, identico in danovastand e danovacostruzioni): Organization con
+  `subOrganization` Danova Stand e Danova Costruzioni (stessi @id dei loro siti), contactPoint con le lingue vere
+  (telefono italiano/inglese/rumeno, per iscritto tutte le lingue), riga "Gruppo Danova" nel footer di tutte le pagine
+  (in home la scrive `assets/js/home.js`, v=20261122), sezione "Gruppo Danova" in llms.txt, llms-full.txt e `llms-intro.md`.
+  Va rilanciato dopo ogni build delle pagine, prima di `genera-llms-txt.py`.
+- Cursore personalizzato sopra popup e banner (z-index massimo) in `assets/css/site.css` e nelle 5 home.
+
 ## Aggiornamento 20 novembre 2026: audit completo + Bing/ChatGPT
 
 ### Audit (2.273 file HTML: 439 pagine reali, 1.834 redirect, 69 noindex, sitemap 370 URL)
