@@ -5,9 +5,17 @@
     <link>https://danova-tech.com/</link>
     <description>Guide pratiche su siti web, SEO e software gestionali, e i lavori consegnati da Danova Tech, software house italiana con sede a Mansuè (Treviso).</description>
     <language>it-IT</language>
-    <lastBuildDate>Sat, 14 Nov 2026 00:00:00 -0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:00:00 -0000</lastBuildDate>
     <atom:link href="https://danova-tech.com/feed.xml" rel="self" type="application/rss+xml"/>
     <image><url>https://danova-tech.com/assets/img/logo.png</url><title>Danova Tech</title><link>https://danova-tech.com/</link></image>
+    <item>
+      <title>NEWSTANDS Allestimenti: sito e SEO per Google e AI</title>
+      <link>https://danova-tech.com/lavori/newstands/</link>
+      <guid isPermaLink="true">https://danova-tech.com/lavori/newstands/</guid>
+      <category>Lavori</category>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 -0000</pubDate>
+      <description>Caso studio NEWSTANDS: sito e SEO per un allestitore fieristico di Tromello (PV). Portfolio di 20 stand, servizi chiavi in mano, ottimizzato per Google e ChatGPT.</description>
+    </item>
     <item>
       <title>Pagina spostata su danovacostruzioni.it</title>
       <link>https://danova-tech.com/guide/cappotto-termico-interno/</link>

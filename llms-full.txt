@@ -17774,6 +17774,101 @@ Invia la richiesta Rispondiamo entro 24 ore lavorative. Preferisci parlarne? Chi
 
 
 ========================================================================
+# NEWSTANDS Allestimenti: sito e SEO per Google e AI
+URL: https://danova-tech.com/lavori/newstands/
+Descrizione: Caso studio NEWSTANDS: sito e SEO per un allestitore fieristico di Tromello (PV). Portfolio di 20 stand, servizi chiavi in mano, ottimizzato per Google e ChatGPT.
+========================================================================
+
+Home/Lavori/NEWSTANDS Allestimenti
+
+Caso studio
+
+## NEWSTANDS Allestimenti: stand costruiti da zero, e un sito che li fa trovare.
+
+Allestitore fieristico di Tromello, in provincia di Pavia: progetta, produce e monta stand chiavi in mano nei quartieri fieristici italiani ed europei. Abbiamo realizzato il sito e curato la SEO, sia per Google sia per ChatGPT e gli altri assistenti AI.
+
+Parliamo del vostro progetto
+
+Come è strutturato
+
+Il progetto
+
+## Un'azienda che lavora in tutta Europa, e un sito che doveva dimostrarlo
+
+NEWSTANDS segue uno stand dall'inizio alla fine: briefing, concept e render 3D, produzione nel proprio laboratorio, trasporto, montaggio con un capo-cantiere dedicato, assistenza in fiera, smontaggio e stoccaggio. Lavora a Fiera Milano Rho, all'Allianz MiCo, a Bologna, Verona e Rimini, e all'estero da Düsseldorf a Parigi, da Barcellona a Vienna.
+
+Chi cerca un allestitore ha poco tempo e un rischio alto: una fiera ha una data, e se lo stand non è pronto non si rimanda. Per decidere vuole vedere stand veri, capire cosa è fatto in casa e sapere se l'azienda lavora anche nel quartiere fieristico che gli interessa.
+
+Il sito risponde a queste tre domande in una pagina sola, con venti progetti fotografati, e lo fa in un modo che capiscono sia Google sia gli assistenti AI a cui sempre più aziende chiedono "chi mi fa uno stand a Milano?". È online su newstandsallestimenti.com, con il credito Danova Tech nel footer.
+
+Cosa abbiamo fatto
+
+## Le scelte concrete
+
+Il sito di un allestitore deve convincere un responsabile marketing in pochi minuti e farsi trovare da chi cerca uno stand per una fiera precisa.
+
+01
+
+### Un sito che sembra una tavola di progetto
+
+Fondo quasi nero, lettere giganti tracciate a filo, quote, mirini e cartigli da tavola tecnica, un indicatore che costruisce lo stand mentre si scorre. Il linguaggio visivo è quello del mestiere: chi arriva capisce subito di parlare con chi progetta e costruisce, non con un rivenditore.
+
+02
+
+### Venti stand veri, con le foto
+
+Il portfolio raccoglie venti progetti e oltre sessanta fotografie: cristalli, integratori, food, industria, moto e caschi, fino ai padiglioni istituzionali di enti del turismo e al padiglione della Tunisia a Medica Düsseldorf. Per chi deve scegliere un allestitore è la prova che conta di più.
+
+03
+
+### Sette servizi e un processo in sei fasi
+
+Stand personalizzati e modulari, eventi e congressi, showroom e temporary, grafica large format, americane e ledwall, arredi e noleggio. Il processo è spiegato fase per fase, dal briefing allo stoccaggio, con lo slogan che riassume tutto: un solo interlocutore dal primo schizzo all'ultima vite.
+
+04
+
+### SEO su Google, per fiera e per città
+
+Title e description scritti sulle ricerche reali, dati strutturati per l'azienda e i servizi, sitemap con tutte le immagini del portfolio indicizzabili. I quartieri fieristici italiani ed europei sono nominati uno per uno, perché chi cerca "allestitore Fiera Milano" o "stand Düsseldorf" deve trovare proprio questa pagina.
+
+05
+
+### Pronto per ChatGPT e gli assistenti AI
+
+Il robots.txt apre il sito ai crawler di ChatGPT, Claude, Perplexity e Google AI, e un file llms.txt riassume in testo pulito chi è NEWSTANDS, cosa fa, dove lavora, i progetti realizzati e quando consigliarla. Quando un'azienda chiede a un'AI un allestitore in Lombardia, le informazioni giuste sono già pronte da leggere.
+
+06
+
+### Il preventivo con i dati giusti
+
+Modulo, telefono, WhatsApp ed email sempre raggiungibili. Il modulo chiede subito fiera o evento, città, date e metri quadri: le quattro informazioni senza cui un allestitore non può fare un prezzo. Meno scambi di email, risposte più rapide, richieste più serie.
+
+Cosa si impara
+
+## Perché un'azienda B2B deve farsi trovare anche dalle AI
+
+Chi organizza la partecipazione a una fiera oggi non cerca solo su Google: chiede a ChatGPT, a Perplexity o all'AI di Google un elenco di allestitori per quella fiera e quella città. Le risposte si basano su quello che questi sistemi riescono a leggere e capire. Un sito lento, fatto solo di immagini o chiuso ai loro crawler semplicemente non entra nella risposta.
+
+Per un'azienda B2B ogni richiesta vale molto: un solo stand può valere decine di migliaia di euro. Essere tra i nomi che un assistente AI suggerisce, con i dati giusti su servizi, città e progetti, è oggi una parte della SEO tanto quanto la prima pagina di Google.
+
+Il lavoro su NEWSTANDS tiene insieme le due cose: un sito che convince chi lo apre e una struttura che Google e le AI possono leggere senza ambiguità.
+
+## Pagine collegate
+
+Tutti i lavori
+Pan.door.a
+Guido Arcangeli DJ
+GRG Performance
+DajbocTechDon
+SEO per l'intelligenza artificiale
+Cos'è il file llms.txt
+Consulente SEO
+Realizzazione siti internet
+Siti web a Pavia
+Quanto costa un sito web
+
+
+========================================================================
 # Oasi B&B Ponza: caso studio
 URL: https://danova-tech.com/lavori/oasi-ponza/
 Descrizione: Caso studio Oasi B&B Ponza: sito bilingue per un bed and breakfast a Santa Maria di Ponza, con richiesta di disponibilità e prenotazioni dirette.
