@@ -321,8 +321,14 @@
     if (BOX && BOX.classList.contains('open')) return false;
     return true;
   }
+  /* SEO (26/11/2026): su smartphone/tablet il popup a tutto schermo nella PRIMA pagina della visita è un
+     "interstitial intrusivo" per Google (penalizza il posizionamento mobile). Lì mostriamo solo la pillola
+     in basso; il popup vero resta su desktop e, su mobile, dalla seconda pagina vista in poi. */
+  var NPAG = (+sg('ds_pv') || 0) + 1; ss('ds_pv', String(NPAG));
+  var MOBILE = false; try { MOBILE = window.matchMedia('(max-width: 900px)').matches; } catch (e) {}
   function prova(da) {
     if (!puoMostrare()) return;
+    if (MOBILE && NPAG === 1) { pillola(); return; }
     var fm = document.activeElement;   // sta scrivendo in un modulo: riproviamo tra poco
     if (fm && /^(INPUT|TEXTAREA|SELECT)$/.test(fm.tagName) && !(BOX && BOX.contains(fm))) { setTimeout(function () { prova(da); }, 4000); return; }
     apri(da);

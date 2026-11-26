@@ -1,5 +1,32 @@
 # Danova Tech — ottimizzazione SEO
 
+## Aggiornamento 26 novembre 2026: doorway e popup mobile
+
+### Audit indipendente (439 pagine reali, 1.834 redirect, 68 noindex, sitemap 371 URL)
+Confermato pulito: title/description unici, canonical, hreflang reciproci con x-default, un H1, lang, viewport,
+JSON-LD valido, alt e dimensioni su tutte le immagini, nessuno script bloccante, 0 link rotti, 0 link verso redirect.
+
+### Corretto
+- **Link verso pagine noindex**: 144 pagine indicizzabili avevano 1.793 link verso le 67 pagine "citta' lontana" in noindex
+  (footer "Markets", sezione "Across the US" con 30 citta' su 28 pagine EN, griglie "altri" e la pagina /es/estados-unidos/).
+  Era proprio l'impronta da doorway pages che il noindex doveva togliere, e il PageRank finiva in pagine che non si posizionano.
+  Ora: 0 link. La sezione citta' rimanda a /en/united-states/ (hub indicizzato), sugli hub le citta' restano come testo.
+  Script idempotente: `python3 seo-tools/link-noindex-2026-11-26.py` (da rilanciare dopo ogni build, dopo noindex-pagine-lontane.py).
+- **Popup −10% su mobile**: a tutto schermo dopo 5-7 secondi anche sulla pagina d'ingresso da Google = "interstitial intrusivo"
+  (penalizza il ranking mobile). Ora su schermi fino a 900 px, nella prima pagina della visita compare solo la pillola in basso;
+  il popup resta su desktop e su mobile dalla seconda pagina. `assets/js/ds-conversioni.js` (ds-live.js carica ?v=4).
+  NB: il file e' condiviso con danovastand e danovacostruzioni: copiare la modifica anche li' se si vuole lo stesso comportamento.
+- sitemap.xml rigenerata (lastmod aggiornati). llms.txt e llms-full.txt lasciati come nel commit: `genera-llms-txt.py` riscrive
+  le descrizioni a mano (es. NEWSTANDS) e `genera-feed-e-llms.py` va sempre seguito da `gruppo-danova.py`.
+
+### Da fare dal titolare (restano i punti del 20/11, in ordine di impatto)
+1. Pubblicare, poi Search Console + Bing Webmaster Tools: reinviare la sitemap; `bash seo-tools/indexnow.sh`.
+2. Bing Places for Business (importa da Google): fonte locale di Bing, quindi di ChatGPT e Copilot.
+3. Autore con nome e foto su guide e Chi siamo (oggi le guide sono firmate "team Danova Tech", author = Organization).
+4. Piu' recensioni Google (oggi 6) e menzioni esterne (Clutch, Sortlist, GoodFirms, siti dei clienti, stampa locale).
+
+---
+
 ## Aggiornamento 22 novembre 2026: Gruppo Danova (tre siti collegati) e correzioni
 
 - `python3 seo-tools/gruppo-danova.py` (idempotente, identico in danovastand e danovacostruzioni): Organization con
